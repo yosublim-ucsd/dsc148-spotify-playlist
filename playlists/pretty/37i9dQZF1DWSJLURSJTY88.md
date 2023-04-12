@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJLURSJTY88.md) - [plain]
 
 > Blending their Middle Eastern heritage with their Western upbringing, the duo <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a> presents us with a melodic mix that will delight your ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 11 songs - 58 min 55 sec
+[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 11 songs - 58 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 22650,
+  "num_followers": 22688,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NzM4NywwMDAwMDAwMDQzOWNiMjk5ZWFjMWE1NjI0NDk2NDNjYTVhODNlMzVk",
+  "snapshot_id": "MTY3NjY2NzM4NywwMDAwMDAwMDUwYTEyMDhiNjEwMWI0NjgzMzdiYTg2Yjg4ZjI2MDcx",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
-        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
       },
       "artists": [
         {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 136266,
-      "name": "Shimmy Shimmy Ko Ko Bop",
-      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
+      "duration_ms": 126333,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
+        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
+        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Los Yetis",
+          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
         }
       ],
-      "duration_ms": 126333,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
+      "duration_ms": 136266,
+      "name": "Shimmy Shimmy Ko Ko Bop",
+      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
     }
   ],
   "unique_name": "60s Latino",

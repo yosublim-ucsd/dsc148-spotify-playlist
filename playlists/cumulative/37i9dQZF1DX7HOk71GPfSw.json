@@ -12891,6 +12891,32 @@
     },
     {
       "album": {
+        "name": "Sassy Scene",
+        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "Hands up!",
+      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
+    },
+    {
+      "album": {
         "name": "plague town",
         "url": "https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6"
       },
@@ -25383,7 +25409,7 @@
     },
     {
       "album": {
-        "name": "Save Me",
+        "name": "SAVE ME",
         "url": "https://open.spotify.com/album/2gsTzLveD0urryDTcY1Lto"
       },
       "artists": [
@@ -28468,6 +28494,24 @@
       "duration_ms": 130285,
       "name": "sun",
       "url": "https://open.spotify.com/track/637eyFmoqPHMSuDk7mRYSa"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/59TOwrpPodcXZvs82NdWuh"
+      },
+      "artists": [
+        {
+          "name": "Harel Atias",
+          "url": "https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171381,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2jw4OPeG1bhHtJTDTuCHE4"
     },
     {
       "album": {

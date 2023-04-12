@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Destroy Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,461 likes - 125 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,544 likes - 125 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Hate Thy Neighbour](https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Hate Thy Neighbour](https://open.spotify.com/album/5NtdjOe9zMiJEz5t6tyfrR) | 2:15 |
 | 125 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 |
 
-Snapshot ID: `MTY4MDg2MDgwMiwwMDAwMDAwMDZjNzBmMmFlODczNTkwY2EzYjg2N2ZmMWY5MjZmNWI1`
+Snapshot ID: `MTY4MTIwMzY0MCwwMDAwMDAwMDIwZGFkZDI4YTY5YzlkZTI5MWRjZDAxY2UwY2ZkOTRi`

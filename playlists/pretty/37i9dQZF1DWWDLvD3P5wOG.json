@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 491406,
+  "num_followers": 491732,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMDRkODI2ZjZmZGFkNGM3MTJlNTUyNzNiMGUxOGQ5MGE0",
+  "snapshot_id": "MTY0MzE1ODMzNSwwMDAwMDAwMGY4ZjU5YmY3YjQyNWEzMjdlY2ExMzExYzBiNzBmZDQy",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Big Deal",
-        "url": "https://open.spotify.com/album/6asuHZdgBoSxKEdVZ9xQj4"
-      },
-      "artists": [
-        {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Cheaters Prayer",
-      "url": "https://open.spotify.com/track/0antMnmr4befD0U81xPyG7"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Love Yuh Everything",
         "url": "https://open.spotify.com/album/32CHNFFfNt5l2bc3vmaPcT"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 165026,
       "name": "Love Yuh Everything",
       "url": "https://open.spotify.com/track/0Bhgvv9rPEAGkh8SA5TAtR"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Big Deal",
+        "url": "https://open.spotify.com/album/6asuHZdgBoSxKEdVZ9xQj4"
+      },
+      "artists": [
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Cheaters Prayer",
+      "url": "https://open.spotify.com/track/0antMnmr4befD0U81xPyG7"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Dutty Whine",
+        "url": "https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Dutty Whine",
+      "url": "https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Click Mi Finger Remixed - EP",
         "url": "https://open.spotify.com/album/5iDqaU40yAqPKNLPqA80jm"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 158000,
       "name": "Click Mi Finger",
       "url": "https://open.spotify.com/track/0cB3PmOkBRTW0afu5Z4x0K"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Oh No It's Red Rat",
-        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
-      },
-      "artists": [
-        {
-          "name": "Red Rat",
-          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Tight Up Skirt",
-      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Dutty Whine",
-        "url": "https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0"
+        "name": "Oh No It's Red Rat",
+        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
       },
       "artists": [
         {
-          "name": "Tony Matterhorn",
-          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
         }
       ],
-      "duration_ms": 193413,
-      "name": "Dutty Whine",
-      "url": "https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J"
+      "duration_ms": 214160,
+      "name": "Tight Up Skirt",
+      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Bad Man Forward, Bad Man Pull Up",
-        "url": "https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT"
-      },
-      "artists": [
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Bad Man Forward",
-      "url": "https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 258059,
       "name": "Likes",
       "url": "https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Bad Man Forward, Bad Man Pull Up",
+        "url": "https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Bad Man Forward",
+      "url": "https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+        "name": "Things Mi Love",
+        "url": "https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT"
       },
       "artists": [
         {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
         }
       ],
-      "duration_ms": 290493,
-      "name": "Bounce Along",
-      "url": "https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6"
+      "duration_ms": 207047,
+      "name": "Things Mi Love",
+      "url": "https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Things Mi Love",
-        "url": "https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT"
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
       },
       "artists": [
         {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        },
-        {
-          "name": "Notnice",
-          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
         }
       ],
-      "duration_ms": 207047,
-      "name": "Things Mi Love",
-      "url": "https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9"
+      "duration_ms": 290493,
+      "name": "Bounce Along",
+      "url": "https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6"
     },
     {
       "added_at": "2021-02-24 08:50:00",

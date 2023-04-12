@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 173950,
       "name": "cynical",
       "url": "https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp"
@@ -2904,6 +2904,24 @@
       "duration_ms": 139679,
       "name": "Honestly I'm Disappointed",
       "url": "https://open.spotify.com/track/4XeELrZsC6BNUF9RjGdDx3"
+    },
+    {
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
     },
     {
       "album": {

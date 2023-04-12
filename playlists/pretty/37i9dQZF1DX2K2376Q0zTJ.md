@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  新しい学校のリーダーズ \(ATARASHII GAKKO!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,394 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,408 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 |
+| 1 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 |
 | 2 | [エネルギー](https://open.spotify.com/track/12fiV86rtHEg4fLSo3qqg8) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 4:28 |
 | 3 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 |
 | 4 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
-| 5 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 |
+| 5 | [Suki Lie](https://open.spotify.com/track/19Tzt6c75W1wUrXgv2WR2W) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [一時帰国](https://open.spotify.com/album/7u4bwVJmR4P4Z1vXKB3ruZ) | 3:15 |
 | 6 | [POWER SPOT](https://open.spotify.com/track/0E1KEUXvRfHRTtG56qEqwR) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [POWER SPOT](https://open.spotify.com/album/5alBkCQwn9sG6izwrraNDO) | 3:30 |
 | 7 | [One Night Party](https://open.spotify.com/track/0lsuSUTp0t8E0X0EozRuJI) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [One Night Party](https://open.spotify.com/album/3ETKko9A00kJ45PlKbFtP7) | 2:59 |
 | 8 | [Believing](https://open.spotify.com/track/1J7Z8dFAgNKiIbiRO3VNhp) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 |
 | 50 | [FIRST STEP](https://open.spotify.com/track/0jlgX7f6gbUX3xuCZyCHmP) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [FIRST STEP](https://open.spotify.com/album/2la9wHGIteZN8ipPkXgkfQ) | 3:29 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGFmM2RmMWRmOGU3YmQzYmE2NTY3ZTk5MTkwYWM1NTky`
+Snapshot ID: `MTY4MTIzMTM3OSwwMDAwMDAwMDlkZWJkMTY4ZmI4NzNmNDJhOWYzYWJmOTZlZjY2YzVi`

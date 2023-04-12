@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BlakeIANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,338 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,376 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 42 | [El Nido](https://open.spotify.com/track/0rBa3QzAhwBf3CecElHFME) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [El Nido](https://open.spotify.com/album/6ItPjJIBazYoNEag9gRIR7) | 2:57 |
 | 43 | [5am Thoughts](https://open.spotify.com/track/67wD9KSvpKK2xFoxHrm0L2) | [Baby Jeweler](https://open.spotify.com/artist/1XNRi5bu870l8PjlGUrl4C) | [5am Thoughts](https://open.spotify.com/album/3bK1AuRkgH7izfRavAstrT) | 2:09 |
 | 44 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 |
-| 45 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
+| 45 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 |
 | 46 | [RUN](https://open.spotify.com/track/534avBzVLI828YFVtxYaHe) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o) | [</1](https://open.spotify.com/album/6UCjFTvt0MxR5C503w5B2E) | 1:59 |
 | 47 | [Tahoe](https://open.spotify.com/track/117I9bICU6PXKaUzAOO34I) | [Ufo Fev](https://open.spotify.com/artist/1m4NqUSiXZj5qY83vwvoMA), [Spanish Ran](https://open.spotify.com/artist/0yhUp9ffopvPldcfxtqanA), [Tree Mason](https://open.spotify.com/artist/66j5pKh7GqRm23WoULBfZu) | [Painting Houses](https://open.spotify.com/album/2evvbqY2GnpwoAhdPDpCF9) | 3:27 |
 | 48 | [MONKE ON ROOFTOP](https://open.spotify.com/track/0VqY3F40vX8CiC9qjsBgqF) | [100Fold](https://open.spotify.com/artist/27n1FNYqmuelwnbzv3SFRR), [G\. King](https://open.spotify.com/artist/7eOq2zIC5Gz3vNbh2uGDTk), [Blank Face Villain](https://open.spotify.com/artist/4NAtTLJWLOWLRIj3gXXlEq), [Blake Davis](https://open.spotify.com/artist/00SBlfpYxaAfWBnARDc8jJ), [LT](https://open.spotify.com/artist/11txojsEKVXlpyQb7cacYM), [JSTRO](https://open.spotify.com/artist/20lykpLWZhNLUdqY1OGTvq) | [GERM!](https://open.spotify.com/album/5hLHbhjbPSJO1ecuQN88yj) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [With The Stars](https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf) | [Fazer](https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr) | [With The Stars](https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8) | 3:32 |
 | 75 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 
-Snapshot ID: `MTY4MTE1NjI0NSwwMDAwMDAwMDU2ZDY2ZDlkOThlZmFlY2ViNzIzMTRmOThjYzg2NDc3`
+Snapshot ID: `MTY4MTE1NjI0NSwwMDAwMDAwMGM3ZmZjODU4OTc1NjIwZmUzYTBmN2QwOTg5YjI0MmUz`

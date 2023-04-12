@@ -168,6 +168,24 @@
     {
       "album": {
         "name": "Better Together & Build Me Up Buttercup (Ukulele)",
+        "url": "https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "Better Together - Ukulele",
+      "url": "https://open.spotify.com/track/4sXHZLU3C4FOr2Pn09jB6r"
+    },
+    {
+      "album": {
+        "name": "Better Together & Build Me Up Buttercup (Ukulele)",
         "url": "https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K"
       },
       "artists": [
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 202909,
       "name": "Better Together - Ukulele",
       "url": "https://open.spotify.com/track/6Hc76FOFhwsfGkKX6ocFiU"
@@ -502,10 +520,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 289600,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6"
+    },
+    {
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289600,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR"
     },
     {
       "album": {
@@ -538,10 +574,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 167763,
       "name": "Hakuna Matata - Ukulele",
       "url": "https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "Hakuna Matata - Ukulele",
+      "url": "https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0"
     },
     {
       "album": {
@@ -946,6 +1000,24 @@
     {
       "album": {
         "name": "Don't Worry Be Happy / Let It Be",
+        "url": "https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299032,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/35FPsONgbYz9DKFQCWAzHe"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy / Let It Be",
         "url": "https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8"
       },
       "artists": [
@@ -956,7 +1028,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 299032,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI"

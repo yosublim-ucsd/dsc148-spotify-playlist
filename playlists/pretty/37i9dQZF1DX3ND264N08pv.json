@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 39831,
+  "num_followers": 39947,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDExYTJkYzVlMjVhNzYyNzVkMmZlZWE1ZWMwZWEyZjM1",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDhlYTA1YzZjMGY5OTM2M2NhMWFmYzJlYjBlYjdhMGIw",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -499,22 +499,26 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+        "name": "STRUGGLE TO SURVIVE",
+        "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
         },
         {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        },
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
+      "duration_ms": 227022,
+      "name": "STRUGGLE TO SURVIVE",
+      "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -543,30 +547,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "STRUGGLE TO SURVIVE",
-        "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        },
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 227022,
-      "name": "STRUGGLE TO SURVIVE",
-      "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "F#ck The Haters",
         "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 147003,
       "name": "F#ck The Haters",
       "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "The Mind",
-        "url": "https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "The Mind",
-      "url": "https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "The Mind",
+        "url": "https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc"
+      },
+      "artists": [
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "The Mind",
+      "url": "https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "BOW DOWN",
         "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 179240,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Battle Tonight",
         "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 248052,
       "name": "Battle Tonight",
       "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1607,6 +1607,26 @@
       "duration_ms": 202571,
       "name": "Jongens van de straat",
       "url": "https://open.spotify.com/track/5O9mjAGrtDPTgque6qZWn8"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "BEAT DROP",
+        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
+        }
+      ],
+      "duration_ms": 206238,
+      "name": "BEAT DROP",
+      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1731,26 +1751,6 @@
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "BEAT DROP",
-        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
-        }
-      ],
-      "duration_ms": 206238,
-      "name": "BEAT DROP",
-      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
     },
     {
       "added_at": "2023-04-06 22:00:00",

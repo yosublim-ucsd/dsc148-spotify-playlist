@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-78 songs - 4 hr 4 min
+79 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Freedom Fighters](https://open.spotify.com/track/2oDBvHqLKjMlZSi5k6xZCu) | [Jo Wandrini](https://open.spotify.com/artist/2KeSLpd8bmBZmHtcIOdVGL) | [Freedom Fighters](https://open.spotify.com/album/3BNbi9JetVTnz411TbhfKv) | 4:09 | 2022-04-22 |  |
 | [Full Momentum](https://open.spotify.com/track/7MhgdmsY96bG8EQTsTOZfF) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Full Momentum](https://open.spotify.com/album/32WC7rSlZj9YyKzpbEJIqk) | 2:49 | 2022-08-12 |  |
 | [Heavy Words We're Holding](https://open.spotify.com/track/2azxtIa58SBC6ozuvhzNh8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Cinema Neon](https://open.spotify.com/album/76nFQ1XGcJUdkrpmpRE0iS) | 3:03 | 2022-04-22 |  |
-| [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 | 2022-04-22 |  |
+| [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 | 2022-04-22 | 2023-04-12 |
+| [Holy \- String Ensemble](https://open.spotify.com/track/6wG4C18QcGgJGsbT6nLH4H) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/7LmiwypzjKwJfz25OAjAp6) | 2:49 | 2022-09-16 |  |
 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 | 2022-04-22 |  |
 | [Human Revolution](https://open.spotify.com/track/2sXXleqZhdiplnq4qEK3Xq) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:23 | 2022-04-22 |  |
 | [Humble King](https://open.spotify.com/track/5Y2p8hsnCvJ9ctaUiMMdQ6) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Humble King](https://open.spotify.com/album/2V3VCtF9U9XPWYp8pinRxN) | 3:05 | 2022-09-02 |  |

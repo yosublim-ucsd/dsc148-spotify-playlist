@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Holding Absence
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,108 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,216 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 17 | [Breakdown](https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 3:03 |
 | 18 | [Tuff Luck](https://open.spotify.com/track/1otWE0vpz7LDL0TH9qUMYx) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Tuff Luck](https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9) | 2:15 |
 | 19 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 |
-| 20 | [Little Dogs](https://open.spotify.com/track/1HJCrqS6GkM7A4a3Jayp7C) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Little Dogs](https://open.spotify.com/album/3CDarwAh62r521q2pR36AG) | 3:11 |
+| 20 | [Little Dogs](https://open.spotify.com/track/4GeDNj43WUAXas2aIZR7xG) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Plastic Eternity](https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7) | 3:11 |
 | 21 | [Poundland of Hope and Glory](https://open.spotify.com/track/02sXds3JM3ibQocaPQpkfT) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Poundland of Hope and Glory](https://open.spotify.com/album/65SKWe8uPQYJRTDzLi5D4U) | 2:25 |
 | 22 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
 | 23 | [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Bullet](https://open.spotify.com/track/2ctGYwu2wHsfDHWPvmKWbw) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [SPLIIT SYSTEM](https://open.spotify.com/album/3oh8hFPyPHAMH25keYm6CH) | 2:49 |
 | 50 | [Raving Ghost](https://open.spotify.com/track/2IJQVCvCrgd6uUeav0qUqc) | [Olivia Jean](https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe) | [Raving Ghost](https://open.spotify.com/album/2lJvQANWigMntkDFThtVXw) | 3:13 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMDZjMjE5ZmFjYjkwNzQ1YTFhNGVlODRmYmNiM2IyM2Q5`
+Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMDdhZTVhY2ZkNmMyZWExMThlOTVjMjQxZGQ5N2E3NzVi`

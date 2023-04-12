@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Jatt Don\u2019t Care",
+        "url": "https://open.spotify.com/album/6mbFOxeExykR6XJLE617mk"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "BIG Ghuman",
+          "url": "https://open.spotify.com/artist/2KQG8iJJ8SYC2wicGUZ2lG"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204054,
+      "name": "Jatt Don\u2019t Care",
+      "url": "https://open.spotify.com/track/4xt9T7bqLoLHuHpdVAJdVd"
+    },
+    {
+      "album": {
         "name": "Jawani",
         "url": "https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X"
       },
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 153944,
       "name": "Maan Punjabi - Spotify Singles",
       "url": "https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C"
@@ -1590,6 +1612,32 @@
       "duration_ms": 168743,
       "name": "Taur",
       "url": "https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08"
+    },
+    {
+      "album": {
+        "name": "Thaa",
+        "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        },
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        },
+        {
+          "name": "Ultra Beats",
+          "url": "https://open.spotify.com/artist/4UThAkJdbDOcmxGfeCtrNd"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181340,
+      "name": "Thaa",
+      "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
     },
     {
       "album": {

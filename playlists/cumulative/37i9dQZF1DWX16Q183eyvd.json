@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 255047,
       "name": "Apple of My Eye",
       "url": "https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k"
@@ -1184,6 +1184,24 @@
       "duration_ms": 272706,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "album": {
+        "name": "The Cypher",
+        "url": "https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "The Cypher",
+      "url": "https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMGQxYjRjOTY0ZDk4MjY4OWQwOGEyYTU3MjZiMzRiMTZl",
+  "snapshot_id": "MTY3NzE5MzIwMCwwMDAwMDAwMDQxNzMwMzA1NWVkNmExN2FkZWEzNTJlYzU5M2UwMmU0",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 289706,
       "name": "OCT 33",
       "url": "https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Good People",
-        "url": "https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Good People",
-      "url": "https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/74eFO86CCuo4y6W3k7dPvP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228702,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/1ba8Fr5ro68P3dLal3DhIe"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Good People",
+      "url": "https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Never Compare",
         "url": "https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 267237,
       "name": "Never Compare",
       "url": "https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/2D9q3w8AhX70qOdnfUNHAG"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/2lNiHTqGXMDqL1fYtzJJo8"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 223517,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 271054,
       "name": "9",
       "url": "https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 223517,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
     },
     {
       "added_at": "2023-02-23 23:00:00",

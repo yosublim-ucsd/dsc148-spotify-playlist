@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 152663,
       "name": "Mudun",
       "url": "https://open.spotify.com/track/38xgKmvQlN5eazU7aW3JMI"
@@ -2543,6 +2543,42 @@
     },
     {
       "album": {
+        "name": "Tenderness",
+        "url": "https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC"
+      },
+      "artists": [
+        {
+          "name": "Postcards",
+          "url": "https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162815,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f"
+    },
+    {
+      "album": {
+        "name": "Our House Is Very Beautiful at Night",
+        "url": "https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla"
+      },
+      "artists": [
+        {
+          "name": "Interbellum",
+          "url": "https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202625,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk"
+    },
+    {
+      "album": {
         "name": "Chapter 2: Love Come Get Me",
         "url": "https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3"
       },
@@ -3032,7 +3068,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 169263,
       "name": "\u0639\u064a\u062f\u0644\u064a",
       "url": "https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39"

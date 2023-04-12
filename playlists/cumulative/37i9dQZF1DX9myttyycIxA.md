@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-867 songs - 2 day 1 hr 28 min
+868 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Car Crash](https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [IT IS A PLEASURE TO BE HERE](https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK) | 3:30 | 2022-08-05 | 2022-12-15 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2021-03-05 | 2022-07-09 |
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-04-02 | 2022-03-27 |
-| [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 | 2023-02-17 |  |
+| [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 | 2023-02-17 | 2023-04-12 |
 | [Caviar](https://open.spotify.com/track/2W0Jv4zgTdHVrT4VtnoycW) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Hideaway](https://open.spotify.com/album/2Sq7Bt3s2vPY9HgWYlTbEX) | 3:47 | 2022-04-29 | 2022-06-25 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-09-10 | 2022-04-29 |
 | [Chainsaw the Door](https://open.spotify.com/track/1OPM1BmEoywWzFfQxMRj7L) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Chainsaw the Door](https://open.spotify.com/album/4QSb6tII3D5Y9BIW2sTMi9) | 2:28 | 2022-08-12 | 2022-12-03 |
@@ -384,6 +384,7 @@
 | [Honey Understand](https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Honey Understand](https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR) | 4:01 | 2022-03-04 | 2022-03-27 |
 | [Honeysuckle](https://open.spotify.com/track/6umIKY6aZA3sT1TUJJ5mMv) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Honeysuckle](https://open.spotify.com/album/3H8BHWmccvd9NwpziIUEHU) | 3:43 | 2021-03-05 | 2022-04-14 |
 | [Hot and Clumsy](https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Hot and Clumsy](https://open.spotify.com/album/4mVZsDCMoexn0hrJxFy9f6) | 4:31 | 2023-01-06 |  |
+| [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-11 |  |
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-06-25 | 2022-03-27 |
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-04-02 | 2022-04-29 |
 | [How It Ends](https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/31x43z5gF8ZJZnpfXFrN24) | 3:07 | 2022-09-23 | 2023-03-04 |

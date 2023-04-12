@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 59914,
+  "num_followers": 59934,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGY5NzZlMWQzOWFhZjMzMDNjNTU2MDIwNGJmOWM2OTlk",
+  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGE3N2JjOTYyYTZhMmQyMGMyMzc3NDg1NjhlZDRhOTBh",
   "tracks": [
     {
       "added_at": "2022-10-01 18:54:42",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
-      },
-      "artists": [
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "CARIBE 4 LIFE",
         "url": "https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK"
       },
@@ -405,20 +389,20 @@
       "url": "https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH"
     },
     {
-      "added_at": "2022-12-21 17:22:42",
+      "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
       },
       "artists": [
         {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
         }
       ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -435,6 +419,22 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2022-12-21 17:22:42",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Cometas",
-        "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
-      },
-      "artists": [
-        {
-          "name": "Novella Inc",
-          "url": "https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm"
-        }
-      ],
-      "duration_ms": 183118,
-      "name": "Cometas",
-      "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Cometas",
+        "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
+      },
+      "artists": [
+        {
+          "name": "Novella Inc",
+          "url": "https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm"
+        }
+      ],
+      "duration_ms": 183118,
+      "name": "Cometas",
+      "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
     },
     {
       "added_at": "2022-10-01 18:54:42",

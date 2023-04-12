@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "After School Sunset",
+        "url": "https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR"
+      },
+      "artists": [
+        {
+          "name": "rjoseph",
+          "url": "https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "After School Sunset",
+      "url": "https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7"
+    },
+    {
+      "album": {
         "name": "Post It Beats Pt.1",
         "url": "https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4"
       },
@@ -11989,6 +12007,28 @@
     },
     {
       "album": {
+        "name": "Bookmark",
+        "url": "https://open.spotify.com/album/3iZraU38VPUIFAbxSQ4S5y"
+      },
+      "artists": [
+        {
+          "name": "flamingo zamperoni",
+          "url": "https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz"
+        },
+        {
+          "name": "Viva Alpaqua Lo-Fi",
+          "url": "https://open.spotify.com/artist/6FgnsFdyWlEOl9stuwuY7Z"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123581,
+      "name": "Bookmark",
+      "url": "https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9"
+    },
+    {
+      "album": {
         "name": "Boombap",
         "url": "https://open.spotify.com/album/5x0ucuGwDDt2FYvo65oTAx"
       },
@@ -15766,7 +15806,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 104000,
       "name": "Casual Games",
       "url": "https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R"
@@ -58296,7 +58336,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 142000,
       "name": "Mezzenile",
       "url": "https://open.spotify.com/track/0FcnYz7S1rCXsPLh4idw5M"
@@ -61204,7 +61244,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -70634,7 +70674,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 137142,
       "name": "Past Midnight",
       "url": "https://open.spotify.com/track/2XrxEdsGEB1S6igoZ0oZlV"
@@ -82609,6 +82649,24 @@
     },
     {
       "album": {
+        "name": "Slack",
+        "url": "https://open.spotify.com/album/7yhbDimWjJ14ps15Bubqka"
+      },
+      "artists": [
+        {
+          "name": "DJ Buzz",
+          "url": "https://open.spotify.com/artist/4OL7JQEzpw3nyfQn0DrrB6"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159745,
+      "name": "Slack",
+      "url": "https://open.spotify.com/track/1NinSAwNClX9Vl5v66qWE2"
+    },
+    {
+      "album": {
         "name": "Dusty Lofi Vol. 2",
         "url": "https://open.spotify.com/album/7k5MWCAtkpZIFZme54e985"
       },
@@ -87826,7 +87884,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 143572,
       "name": "Strange Effect",
       "url": "https://open.spotify.com/track/3lKq4yMNV2eZXTb5AgQFY3"
@@ -95744,6 +95802,24 @@
       "duration_ms": 120000,
       "name": "Tokyo Cinema",
       "url": "https://open.spotify.com/track/5fvsaaiMAhwPvRj3UI70k9"
+    },
+    {
+      "album": {
+        "name": "Tokyo Tales",
+        "url": "https://open.spotify.com/album/7wnE9OW9COeGm51JyfoJzd"
+      },
+      "artists": [
+        {
+          "name": "ex-pansive",
+          "url": "https://open.spotify.com/artist/4BZ2WJhxazwJCRGq3nzczV"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Tokyo Tales",
+      "url": "https://open.spotify.com/track/4EvTEJahNZZZwk2s92UWb2"
     },
     {
       "album": {
@@ -104736,7 +104812,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 84094,
       "name": "wintertale",
       "url": "https://open.spotify.com/track/6Oaa0s5yzNB8LMGGM7dJDL"

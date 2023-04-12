@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: LaF
 
-384 songs - 19 hr 47 min
+385 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Fight](https://open.spotify.com/track/5WjHjAeBWHniHdw7OvhOE7) | [BTR](https://open.spotify.com/artist/1SxEm2yckFWe8jSWNC7dED) | [Fight](https://open.spotify.com/album/2nE1hTvqAX2V96uMkfcP6R) | 3:16 | 2022-02-04 | 2022-07-30 |
 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 | 2022-09-02 | 2022-10-22 |
 | [Flexin'](https://open.spotify.com/track/6UTJxee5O8Js1U8mGGtCaA) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [6illy](https://open.spotify.com/artist/0Aj8bnyYF5prF06ll63cWU) | [Flexin'](https://open.spotify.com/album/77n2ksL1bIExXrYfA7E8AM) | 2:00 | 2022-02-04 | 2022-07-09 |
-| [Floating](https://open.spotify.com/track/0cp6fmWmUJTEBdwJFhHN3a) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison \(Deluxe\)](https://open.spotify.com/album/5H8QMJraO6RBXz0SrNDJJH) | 2:24 | 2023-01-20 |  |
+| [Floating](https://open.spotify.com/track/0cp6fmWmUJTEBdwJFhHN3a) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison \(Deluxe\)](https://open.spotify.com/album/5H8QMJraO6RBXz0SrNDJJH) | 2:24 | 2023-01-20 | 2023-04-12 |
+| [Floating](https://open.spotify.com/track/0p1IDWcPJmWiNbonhSmbeK) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison](https://open.spotify.com/album/4O6gUEDPK3BPP6DdHDZyxg) | 2:24 | 2023-04-07 |  |
 | [Flore](https://open.spotify.com/track/5cqc6vg6Gy5FeIhvxW8zlJ) | [Bkay](https://open.spotify.com/artist/5JoE2pt6hYEd4g4qq5rQHl) | [Midi Pile](https://open.spotify.com/album/7KEBFZS9FaNttzaxilVQna) | 3:09 | 2022-03-18 | 2022-05-14 |
 | [Fléau Dicaprio \- Intro](https://open.spotify.com/track/1QnEDUXj6azyComVL89yuy) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Fléau Dicaprio \(Intro\)](https://open.spotify.com/album/1IP5YWR156sJraWuZL16dN) | 1:37 | 2022-03-25 | 2022-05-20 |
 | [FNG](https://open.spotify.com/track/6s3Ix4ircsRi8D9vH9cRMe) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [FNG](https://open.spotify.com/album/27w1sWakPV31gVkYGGJyq2) | 2:00 | 2022-02-04 | 2022-04-16 |

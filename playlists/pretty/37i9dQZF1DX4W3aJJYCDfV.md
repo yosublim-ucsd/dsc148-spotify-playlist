@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mahalia \(pictured\), David Guetta, Ashnikko and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,941 likes - 124 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,955 likes - 124 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 15 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 |
 | 16 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 17 | [Whenever I Want](https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Whenever I Want](https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA) | 4:29 |
-| 18 | [Perfect](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [Freya Riding](https://open.spotify.com/artist/3sWQRFTtxFsuQv3DRljHJQ) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 3:06 |
+| 18 | [Perfect](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 3:06 |
 | 19 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 |
 | 20 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
 | 21 | [R U Tired?](https://open.spotify.com/track/7zjq3jcemzahrxnDXugrTk) | [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Merky ACE](https://open.spotify.com/artist/15uvoIS6p9Gs3QZSjSqIMG) | [One Is Da Loneliest Number](https://open.spotify.com/album/3AwyK8wo2BT9drLneAXEY5) | 3:12 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,592 likes - 91 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,604 likes - 91 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
 | 2 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
-| 3 | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 |
+| 3 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 |
 | 4 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 |
 | 5 | [Masalah Masa Depan](https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Masalah Masa Depan](https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ) | 4:45 |
 | 6 | [Cinta dan Ibadah](https://open.spotify.com/track/7x1amARvWtjlDVmqITHRHr) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Cinta dan Ibadah](https://open.spotify.com/album/2fWEEzHKkfkWnWjfwBaFm4) | 5:08 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 61 | [Bicara Masa Depan](https://open.spotify.com/track/1pgs0VxyAHLxhdlx5Ogzd6) | [Tarrkam](https://open.spotify.com/artist/5ACq4PMGK4z8xuCfMSigfr) | [Bicara Masa Depan](https://open.spotify.com/album/4FWkHIHZkztwg7tZtlAYTI) | 3:27 |
 | 62 | [Mr\. $$](https://open.spotify.com/track/21gvysqKrmxqpDWP1edU8R) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Mr\. $$](https://open.spotify.com/album/4wnmhMYEGyBmGcG5TXlUdy) | 3:27 |
 | 63 | [Johnny Amerika](https://open.spotify.com/track/5kaI4v4ifoWzZIjT7YXycL) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [Johnny Amerika](https://open.spotify.com/album/48qL9Rj7fLv4vwrqdmp3c6) | 2:39 |
-| 64 | [Grateful](https://open.spotify.com/track/1zzzcBjIgSNe1MuE81ZKIp) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw), [Gok Malau](https://open.spotify.com/artist/5g61CgtjkYr7XMGQvgtM6l), [Stephanie](https://open.spotify.com/artist/1fOZOi2dKy57s1B2q2dxhO) | [Grateful](https://open.spotify.com/album/3t1OSpGaVdsoqStvF6Sb7z) | 3:56 |
+| 64 | [Grateful](https://open.spotify.com/track/1zzzcBjIgSNe1MuE81ZKIp) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw), [Gok Malau](https://open.spotify.com/artist/5g61CgtjkYr7XMGQvgtM6l), [Stephanie](https://open.spotify.com/artist/1fOZOi2dKy57s1B2q2dxhO) | [Grateful](https://open.spotify.com/album/3t1OSpGaVdsoqStvF6Sb7z) | 3:53 |
 | 65 | [Seperti Rindu](https://open.spotify.com/track/1Mepi9Lj3MqebDndwNvAWm) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg) | [Seperti Rindu](https://open.spotify.com/album/1diUbhK0L5a7gVOjTlH81S) | 3:29 |
 | 66 | [Berpuisi Cinta \- From "Puisi Cinta Yang Membunuh"](https://open.spotify.com/track/1Qy4NmzxOia58M5u1a9EM8) | [Sara Excellent](https://open.spotify.com/artist/5yBjvSox5mvmF3RpcAnqcy) | [Berpuisi Cinta \(From "Puisi Cinta Yang Membunuh"\)](https://open.spotify.com/album/6DBvwqX5yNY2CwitPmS0H2) | 3:54 |
 | 67 | [Kalau Bisa](https://open.spotify.com/track/5euvoDWAAKIKWpa0eBeALZ) | [Rua](https://open.spotify.com/artist/5RQJbhrfgfo2hq6YfEiDJo), [DOMINIQUE](https://open.spotify.com/artist/64mHKQP2E5nzRCINX7E4Ak) | [Kalau Bisa](https://open.spotify.com/album/5izKfjQo4K9lelBpnskd4U) | 3:04 |

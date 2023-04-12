@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Megamix",
+        "url": "https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/5iPKyio003pi14w0xjXR5m"
+    },
+    {
+      "album": {
         "name": "Lo mejor de R\u00e1faga",
         "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 145516,
       "name": "Chau",
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 175545,
       "name": "Dile",
       "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 170212,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/1n0TUKFvT1C9u2saSdZlIA"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 251924,
       "name": "No aguanto m\u00e1s",
       "url": "https://open.spotify.com/track/0TMA7Pec4bH1JNfEN0mc3U"
@@ -3640,7 +3658,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 316823,
       "name": "Para Siempre / Tan Solo Tu (Enganchados)",
       "url": "https://open.spotify.com/track/5atnHTTAommfPj4DUkTkim"
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
@@ -5312,7 +5330,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 184316,
       "name": "Y Yo Sin Ti",
       "url": "https://open.spotify.com/track/6ZafhodntQlhMfzHOwlmxw"

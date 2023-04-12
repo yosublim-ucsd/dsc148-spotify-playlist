@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,707 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,716 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 20 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 |
 | 21 | [Ups & Downs](https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs](https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU) | 3:02 |
 | 22 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 |
-| 23 | [Turn Off The Lights](https://open.spotify.com/track/3P6GZfi8q1UeCT15CgIKGb) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Turn Off The Lights](https://open.spotify.com/album/38RAjvvIzYVJPwYfYSg1le) | 2:29 |
-| 24 | [Deep Dark Jungle](https://open.spotify.com/track/09W9ZVEsg5VjGva2lM21dl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj) | [Deep Dark Jungle](https://open.spotify.com/album/1rlxsVR8JsuqOiZDn9KCdW) | 2:25 |
-| 25 | [Paradise](https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Paradise](https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6) | 3:35 |
+| 23 | [Paradise](https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Paradise](https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6) | 3:35 |
+| 24 | [Turn Off The Lights](https://open.spotify.com/track/3P6GZfi8q1UeCT15CgIKGb) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Turn Off The Lights](https://open.spotify.com/album/38RAjvvIzYVJPwYfYSg1le) | 2:29 |
+| 25 | [Deep Dark Jungle](https://open.spotify.com/track/09W9ZVEsg5VjGva2lM21dl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj) | [Deep Dark Jungle](https://open.spotify.com/album/1rlxsVR8JsuqOiZDn9KCdW) | 2:25 |
 | 26 | [Bittersweet \(ft\. Quarterback\) \- Firelite Remix](https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Kokaholla](https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f), [Quarterback](https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Bittersweet \(ft\. Quarterback\) \[Remixes\]](https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6) | 3:00 |
 | 27 | [Sometimes](https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40) | 3:02 |
 | 28 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Techtronic](https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Techtronic](https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm) | 3:44 |
 | 50 | [Distance](https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Distance](https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw) | 2:48 |
 
-Snapshot ID: `MjgwMTg4MjQsMDAwMDAwMDAxZTkwMGExYzg1ODkxYmI4MWUyYTYzYjFlYjE5NjE3MQ==`
+Snapshot ID: `MjgwMjAyNDcsMDAwMDAwMDBhMjg4M2MxZTcyZGU0MjRiNTdiOWM0NWY1ZjA5MzA5YQ==`

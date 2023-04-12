@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2420,
+  "num_followers": 2422,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDg3Y2U3YTFjNjM4NTlmZmNkZDc2Mjg1OGE1MjM2Njkx",
+  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDE4YTBjMWVmYTM2OWMzNWJhN2M4M2E1ZWQ5ZjZhZTYx",
   "tracks": [
     {
       "added_at": "2023-03-27 08:28:10",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 282118,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 180000,
       "name": "How To Love (Feat.Paul Kim)",
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 282118,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "\ud3ed\uc6b0 Downpour",
-        "url": "https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG"
-      },
-      "artists": [
-        {
-          "name": "JEONAIN",
-          "url": "https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm"
-        }
-      ],
-      "duration_ms": 176121,
-      "name": "\ud3ed\uc6b0 Downpour",
-      "url": "https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "BAD BLOOD - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 244360,
       "name": "To you, Tomorrow",
       "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "\ud3ed\uc6b0 Downpour",
+        "url": "https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG"
+      },
+      "artists": [
+        {
+          "name": "JEONAIN",
+          "url": "https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm"
+        }
+      ],
+      "duration_ms": 176121,
+      "name": "\ud3ed\uc6b0 Downpour",
+      "url": "https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ"
     },
     {
       "added_at": "2023-03-27 08:28:10",

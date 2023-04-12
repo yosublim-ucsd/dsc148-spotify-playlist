@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> this is not a confirmation of any kind i just really like this image of labrinth and billie
+> just a playlist
 
 1,043 songs - 2 day 6 hr 52 min
 

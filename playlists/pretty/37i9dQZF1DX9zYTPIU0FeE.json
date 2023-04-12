@@ -1,29 +1,13 @@
 {
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=KYxuXu7nTI-jQW-GEScd1A\">Robin Fassie</a> ",
-  "num_followers": 2138,
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=CQoLqFaIQNCMmYTV9RKM6w\">Desire Marea</a> ",
+  "num_followers": 2152,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0ODg0OSwwMDAwMDAwMDBlZjc4YTE3MTMxYjc2OTczYmJhMTFlZmRiN2U1MTIw",
+  "snapshot_id": "MTY4MTE5NDE1NSwwMDAwMDAwMGJiNjc1Y2E4N2U3ODAyOTkxYjk0MmFkZTMxZTZiOGNk",
   "tracks": [
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
-        "name": "Intwasa: The Becoming",
-        "url": "https://open.spotify.com/album/3BfYSNT6iqBE5UyiZFSRwj"
-      },
-      "artists": [
-        {
-          "name": "Robin Fassie",
-          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Intlungu Nentlupheko",
-      "url": "https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz"
-    },
     {
       "added_at": "2023-03-17 10:27:29",
       "album": {
@@ -43,22 +27,38 @@
     {
       "added_at": "2023-03-17 10:27:29",
       "album": {
-        "name": "Klops Jol",
-        "url": "https://open.spotify.com/album/4N9ZtSXfJ6aL786oNnbMwG"
+        "name": "Intwasa: The Becoming",
+        "url": "https://open.spotify.com/album/3BfYSNT6iqBE5UyiZFSRwj"
       },
       "artists": [
         {
           "name": "Robin Fassie",
           "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
-        },
-        {
-          "name": "Changui Jaca",
-          "url": "https://open.spotify.com/artist/2viYlUVzbeOfWdBsGFguUn"
         }
       ],
-      "duration_ms": 560000,
-      "name": "Klops Jol",
-      "url": "https://open.spotify.com/track/7E0Rle0rkoHmTRuAUT39lA"
+      "duration_ms": 480000,
+      "name": "Intlungu Nentlupheko",
+      "url": "https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz"
+    },
+    {
+      "added_at": "2023-04-11 06:22:35",
+      "album": {
+        "name": "Rah",
+        "url": "https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw"
+      },
+      "artists": [
+        {
+          "name": "Desire Marea",
+          "url": "https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C"
+        },
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "duration_ms": 535201,
+      "name": "Rah (feat. Zo\u00eb Modiga)",
+      "url": "https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT"
     },
     {
       "added_at": "2023-03-17 10:27:29",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/5NBziFkYYVFLMx672wjBBE"
     },
     {
+      "added_at": "2023-04-11 06:22:35",
+      "album": {
+        "name": "Rites",
+        "url": "https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40"
+      },
+      "artists": [
+        {
+          "name": "Vuma Levin",
+          "url": "https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX"
+        }
+      ],
+      "duration_ms": 394316,
+      "name": "Rites",
+      "url": "https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1"
+    },
+    {
       "added_at": "2023-03-17 10:27:29",
       "album": {
         "name": "At This Point in Time: Voices in Volumes",
@@ -347,18 +363,22 @@
     {
       "added_at": "2023-03-17 10:27:29",
       "album": {
-        "name": "Umakhulu",
-        "url": "https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e"
+        "name": "Klops Jol",
+        "url": "https://open.spotify.com/album/4N9ZtSXfJ6aL786oNnbMwG"
       },
       "artists": [
         {
-          "name": "Ayanda Sikade",
-          "url": "https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh"
+          "name": "Robin Fassie",
+          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
+        },
+        {
+          "name": "Changui Jaca",
+          "url": "https://open.spotify.com/artist/2viYlUVzbeOfWdBsGFguUn"
         }
       ],
-      "duration_ms": 375986,
-      "name": "Space Ship",
-      "url": "https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS"
+      "duration_ms": 560000,
+      "name": "Klops Jol",
+      "url": "https://open.spotify.com/track/7E0Rle0rkoHmTRuAUT39lA"
     },
     {
       "added_at": "2023-03-17 10:27:29",
@@ -411,22 +431,6 @@
       "duration_ms": 414434,
       "name": "Yaka Yaka",
       "url": "https://open.spotify.com/track/3guSqYCPy6GidiSgklshzX"
-    },
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
-        "name": "We Are Sent Here By History",
-        "url": "https://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK"
-      },
-      "artists": [
-        {
-          "name": "Shabaka and the Ancestors",
-          "url": "https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk"
-        }
-      ],
-      "duration_ms": 388080,
-      "name": "The Coming Of The Strange Ones",
-      "url": "https://open.spotify.com/track/79RXo9QQNREbGI1vITMJGj"
     },
     {
       "added_at": "2023-03-17 10:27:29",
@@ -839,22 +843,6 @@
     {
       "added_at": "2023-03-17 10:27:29",
       "album": {
-        "name": "Log out Shut Down (Live in Studio)",
-        "url": "https://open.spotify.com/album/1UcfQoitK9uJQeGHTYaAls"
-      },
-      "artists": [
-        {
-          "name": "MABUTA",
-          "url": "https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI"
-        }
-      ],
-      "duration_ms": 379659,
-      "name": "Log Out Shut Down - Live in Studio",
-      "url": "https://open.spotify.com/track/2zjanNO8418bIvxfu0FKfs"
-    },
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
         "name": "A portrait of Home",
         "url": "https://open.spotify.com/album/761w2jUHcpl6r6wdhfvMy2"
       },
@@ -955,38 +943,6 @@
     {
       "added_at": "2023-03-17 10:27:29",
       "album": {
-        "name": "Thandi Ntuli (Live at Jazzwerkstatt)",
-        "url": "https://open.spotify.com/album/00igLPQBrtQR2DlH4R96w0"
-      },
-      "artists": [
-        {
-          "name": "Thandi Ntuli",
-          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
-        }
-      ],
-      "duration_ms": 884935,
-      "name": "Rainbow (Live)",
-      "url": "https://open.spotify.com/track/05hWCVraaBWQ07R7fgr0we"
-    },
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
-        "name": "Perseverance: Live at the Bird's Eye",
-        "url": "https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD"
-      },
-      "artists": [
-        {
-          "name": "Keenan Ahrends",
-          "url": "https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ"
-        }
-      ],
-      "duration_ms": 480261,
-      "name": "Aunty B - Live",
-      "url": "https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE"
-    },
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
         "name": "INGANEKWANE",
         "url": "https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ"
       },
@@ -1031,42 +987,6 @@
       "duration_ms": 389939,
       "name": "Konakele",
       "url": "https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9"
-    },
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
-        "name": "Ke Nako",
-        "url": "https://open.spotify.com/album/5GUTl5jAJTcGaV7Sn54KPx"
-      },
-      "artists": [
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
-        }
-      ],
-      "duration_ms": 409666,
-      "name": "Ke Nako",
-      "url": "https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97"
-    },
-    {
-      "added_at": "2023-03-17 10:27:29",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/4BB8QBZatr1sYCBeiXLzVg"
-      },
-      "artists": [
-        {
-          "name": "Fernando Damon",
-          "url": "https://open.spotify.com/artist/33NVhommONkAqw8HnexI5K"
-        },
-        {
-          "name": "Robin Fassie",
-          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
-        }
-      ],
-      "duration_ms": 205019,
-      "name": "No Hope After 1",
-      "url": "https://open.spotify.com/track/3sXTg8HJL6TdpNtADdlDIW"
     }
   ],
   "unique_name": "Jazz NXT",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: EAZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,513 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,518 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 23 | [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 |
 | 24 | [Broken Promises](https://open.spotify.com/track/6cET8vehV4mW4cfhq2OxQD) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/3Pvv5KqsmuYE39dJUVTjYY) | 1:51 |
 | 25 | [Loin](https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Insomnia](https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS) | 3:22 |
-| 26 | [Perfect](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [Freya Riding](https://open.spotify.com/artist/3sWQRFTtxFsuQv3DRljHJQ) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 3:06 |
+| 26 | [Perfect](https://open.spotify.com/track/6WFw0Uu4yOL4FruGex6DKc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Perfect](https://open.spotify.com/album/2N5BaKNkorev8tqkLpojdp) | 3:06 |
 | 27 | [Memories](https://open.spotify.com/track/0c5fczxmOarIiopDnVgl1k) | [ToTheMoon](https://open.spotify.com/artist/20ZUOewlSW8L3sAvhZEd9m), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [Memories](https://open.spotify.com/album/3EiGvJooaiRjRPBOWJhARd) | 2:55 |
 | 28 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 |
 | 29 | [Kopf hoch](https://open.spotify.com/track/16RqxJvFUSe3UZF5PgHpNJ) | [Fae August](https://open.spotify.com/artist/660isF0NgHAvBvPagaUmEL), [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [Sad But True](https://open.spotify.com/album/4QXdtprxNPgwK7AQMFyrVg) | 2:39 |

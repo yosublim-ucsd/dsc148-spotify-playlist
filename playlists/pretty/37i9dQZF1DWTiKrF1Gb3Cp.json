@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 148284,
+  "num_followers": 148361,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDk0MmI0YmVjODFkMmM1NjdlNTZkMDNkYzdkN2I4OTQ3",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDc4NmRkODQ4M2Y1MjYzZTBjMGI3OGNkMjMxNDFiNmRl",
   "tracks": [
     {
       "added_at": "2023-03-31 06:00:00",
@@ -663,38 +663,6 @@
     {
       "added_at": "2023-02-23 21:00:34",
       "album": {
-        "name": "Todos en la Cuadra Bien Locos (feat. C-Kan, Gera MX, Santa Fe Klan y Neto Pe\u00f1a)",
-        "url": "https://open.spotify.com/album/49Ho2eNgf3og9XwY6lBQvW"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 349297,
-      "name": "Todos en la Cuadra Bien Locos",
-      "url": "https://open.spotify.com/track/2QP6HI4BxBrdQdIOA75RSc"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
+        "name": "Todos en la Cuadra Bien Locos (feat. C-Kan, Gera MX, Santa Fe Klan y Neto Pe\u00f1a)",
+        "url": "https://open.spotify.com/album/49Ho2eNgf3og9XwY6lBQvW"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 349297,
+      "name": "Todos en la Cuadra Bien Locos",
+      "url": "https://open.spotify.com/track/2QP6HI4BxBrdQdIOA75RSc"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-23 21:00:34",
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
         "name": "Millonario Sin Corona",
         "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 165801,
       "name": "Borracho Gacho (feat. Dharius)",
       "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-02-23 21:00:34",
       "album": {
+        "name": "Fantas\u00eda Espacial",
+        "url": "https://open.spotify.com/album/1LABMIShNILlvmaGh8SwJh"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Fantas\u00eda Espacial",
+      "url": "https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
-        "name": "Fantas\u00eda Espacial",
-        "url": "https://open.spotify.com/album/1LABMIShNILlvmaGh8SwJh"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Fantas\u00eda Espacial",
-      "url": "https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-02-23 21:00:34",
       "album": {
-        "name": "Qui\u00e9n?",
-        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
-    },
-    {
-      "added_at": "2023-02-23 21:00:34",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 239397,
       "name": "Soy De Barrio",
       "url": "https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE"
+    },
+    {
+      "added_at": "2023-02-23 21:00:34",
+      "album": {
+        "name": "Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
     },
     {
       "added_at": "2023-02-23 21:00:34",
@@ -1465,6 +1465,26 @@
       "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Los Pizzas",
+        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 136520,
+      "name": "Los Pizzas",
+      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
+    },
+    {
       "added_at": "2023-02-23 21:00:34",
       "album": {
         "name": "Equivocado",
@@ -1503,26 +1523,6 @@
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
-        "name": "Los Pizzas",
-        "url": "https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 136520,
-      "name": "Los Pizzas",
-      "url": "https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR"
     },
     {
       "added_at": "2023-02-23 21:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: BLÜ EYES
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,039 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,054 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 35 | [Sister Fate](https://open.spotify.com/track/31jKEAQeQxb13ZCcvdfYFM) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Romance 1600](https://open.spotify.com/album/0Jkqv4qmznXpfa0tLzxG23) | 3:55 |
 | 36 | [familiar emotions](https://open.spotify.com/track/3hXBPCcG0L2GrZSxc3QdOS) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz), [k8ie](https://open.spotify.com/artist/25yNr18DXkdeWmy6NKDQwo) | [Candid](https://open.spotify.com/album/12zKlJMUgJIXYD0b4yIH1Z) | 4:01 |
 | 37 | [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 |
-| 38 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 |
+| 38 | [Empty](https://open.spotify.com/track/3TS6PFsksrXUNJf3y7LoEv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:02 |
 | 39 | [You Make Me](https://open.spotify.com/track/6OjFxdNXqeBMfg7GNXcDLw) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [You Make Me](https://open.spotify.com/album/1RQZ4TvWFfWcmX87WGmfp3) | 2:16 |
 | 40 | [Be Her](https://open.spotify.com/track/0s1ZSmJT0dtCB7hf2agfHy) | [Andrea Dee](https://open.spotify.com/artist/5jT2BQS6mhv4pPvG1Tp1hj) | [Be Her](https://open.spotify.com/album/5g5WYrbK9SiDdZtQrzYDdr) | 2:49 |
 
-Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMGZhMzNmOGRkZmFjZTU1OGIyMmIxMGFlMzRkNTkzYTQx`
+Snapshot ID: `MTY4MDY2NzIwMCwwMDAwMDAwMGQwYTk2ZGQ2MGExZTNkNDJhZjI3OTc4YzIxMzQ4OTkz`

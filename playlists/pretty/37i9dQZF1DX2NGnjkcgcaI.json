@@ -1,12 +1,12 @@
 {
   "description": "Deep sounds of minimal dub techno to keep you on track.",
-  "num_followers": 6628,
+  "num_followers": 6677,
   "original_name": "Minimal Rhythm Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNjIwNSwwMDAwMDAwMDcyNDFmMjAxYTA1MDBmNDUwMmI4MjBiZWQ5MGEwZjUw",
+  "snapshot_id": "MTY4MTI0NTk1NCwwMDAwMDAwMGE2NzU4MDQ4YWJiNzQzNzNlOWE2MmQzYjE3Y2RhMGUy",
   "tracks": [
     {
       "added_at": "2023-02-14 02:58:33",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
+        "name": "Nospheratu",
+        "url": "https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS"
+      },
+      "artists": [
+        {
+          "name": "Pulshar",
+          "url": "https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA"
+        }
+      ],
+      "duration_ms": 677029,
+      "name": "Nospheratu - Echospace Reduction",
+      "url": "https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
         "name": "Spring In Winter",
         "url": "https://open.spotify.com/album/7jBGprcbocv0sFqEpokz2K"
       },
@@ -207,18 +223,138 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
-        "name": "2020 YELLOW",
-        "url": "https://open.spotify.com/album/3GQ3BjcCgeqcWnYCPIFc0a"
+        "name": "Olivetti",
+        "url": "https://open.spotify.com/album/3uYQX8tYsMKgflmPCTIgDh"
       },
       "artists": [
         {
-          "name": "R.Hz",
-          "url": "https://open.spotify.com/artist/5wJTUWsSMc6QuhAn1oxcKn"
+          "name": "Bruit Blanc",
+          "url": "https://open.spotify.com/artist/4dH0sMLOG2000Wlis8ryun"
+        },
+        {
+          "name": "Dott. Santafeo",
+          "url": "https://open.spotify.com/artist/6qi6JBpM7VlY2tsaDORY9R"
         }
       ],
-      "duration_ms": 530090,
-      "name": "Wave Motion",
-      "url": "https://open.spotify.com/track/6cv6gb6YMR3g2FDbM81Mow"
+      "duration_ms": 387084,
+      "name": "Olivetti",
+      "url": "https://open.spotify.com/track/1KoxDF2tXZSXqwMjJUJPIq"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "The Trip Of Mind",
+        "url": "https://open.spotify.com/album/7p9Wa5kuEYNa6n7ZNdH1VN"
+      },
+      "artists": [
+        {
+          "name": "Ignition Coil",
+          "url": "https://open.spotify.com/artist/28CiLaWdJ3UEdfYEGxGie8"
+        }
+      ],
+      "duration_ms": 482506,
+      "name": "Narcotic N.I.C.",
+      "url": "https://open.spotify.com/track/2i0GcL3BDjThVxsTE1IjkZ"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Break Point",
+        "url": "https://open.spotify.com/album/6IKvJb2zcNTbqlasbI6aO7"
+      },
+      "artists": [
+        {
+          "name": "Dubtommy",
+          "url": "https://open.spotify.com/artist/0KvdfNrhYjhS7Su3dEmPgk"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Ball Gazer",
+      "url": "https://open.spotify.com/track/6EPdDRRE5WfWMYHgIRUaud"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Program",
+        "url": "https://open.spotify.com/album/6yvfUF23AlzHJEiUkX023P"
+      },
+      "artists": [
+        {
+          "name": "Sounds & Sequences",
+          "url": "https://open.spotify.com/artist/2117ihAoWRaE1nOF5K4us7"
+        }
+      ],
+      "duration_ms": 716297,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/2ruTSgMeznXTUP1mxLk7cv"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Recit De Voyage 2",
+        "url": "https://open.spotify.com/album/46gTZslnW4cfnpggpvdWRT"
+      },
+      "artists": [
+        {
+          "name": "Douala",
+          "url": "https://open.spotify.com/artist/2iWOFT9U8InefnarwZUmv0"
+        }
+      ],
+      "duration_ms": 453141,
+      "name": "Orbiting",
+      "url": "https://open.spotify.com/track/1fVSqMZPCjxVv8iqyo9kMm"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Jazire EP",
+        "url": "https://open.spotify.com/album/0akpmGZacwrDnSBh4ppapp"
+      },
+      "artists": [
+        {
+          "name": "Amberoom",
+          "url": "https://open.spotify.com/artist/6ZOpAQ5JTszY6FRaelMY2t"
+        },
+        {
+          "name": "Isol\u00e9e",
+          "url": "https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj"
+        }
+      ],
+      "duration_ms": 469440,
+      "name": "Jazire - Isol\u00e9e Remix",
+      "url": "https://open.spotify.com/track/5OVNeHoQKR32qt645sj4v2"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Translucent Tracks",
+        "url": "https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83"
+      },
+      "artists": [
+        {
+          "name": "Echo Inspectors",
+          "url": "https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3"
+        }
+      ],
+      "duration_ms": 396041,
+      "name": "Parable",
+      "url": "https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Legacy Volume 1",
+        "url": "https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM"
+      },
+      "artists": [
+        {
+          "name": "Guzz (Arg)",
+          "url": "https://open.spotify.com/artist/0jkpnPQWoP6kEGPrijuQHF"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ"
     },
     {
       "added_at": "2023-02-14 02:58:33",
@@ -295,22 +431,6 @@
       "duration_ms": 606315,
       "name": "Spring Will Come and We Will Open the Windows",
       "url": "https://open.spotify.com/track/3U4HbEVFnO9jq8qQF780ox"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Legacy Volume 1",
-        "url": "https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM"
-      },
-      "artists": [
-        {
-          "name": "Guzz (Arg)",
-          "url": "https://open.spotify.com/artist/0jkpnPQWoP6kEGPrijuQHF"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ"
     },
     {
       "added_at": "2023-02-14 02:58:33",
@@ -431,110 +551,6 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
-        "name": "Olivetti",
-        "url": "https://open.spotify.com/album/3uYQX8tYsMKgflmPCTIgDh"
-      },
-      "artists": [
-        {
-          "name": "Bruit Blanc",
-          "url": "https://open.spotify.com/artist/4dH0sMLOG2000Wlis8ryun"
-        },
-        {
-          "name": "Dott. Santafeo",
-          "url": "https://open.spotify.com/artist/6qi6JBpM7VlY2tsaDORY9R"
-        }
-      ],
-      "duration_ms": 387084,
-      "name": "Olivetti",
-      "url": "https://open.spotify.com/track/1KoxDF2tXZSXqwMjJUJPIq"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "The Trip Of Mind",
-        "url": "https://open.spotify.com/album/7p9Wa5kuEYNa6n7ZNdH1VN"
-      },
-      "artists": [
-        {
-          "name": "Ignition Coil",
-          "url": "https://open.spotify.com/artist/28CiLaWdJ3UEdfYEGxGie8"
-        }
-      ],
-      "duration_ms": 482506,
-      "name": "Narcotic N.I.C.",
-      "url": "https://open.spotify.com/track/2i0GcL3BDjThVxsTE1IjkZ"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Break Point",
-        "url": "https://open.spotify.com/album/6IKvJb2zcNTbqlasbI6aO7"
-      },
-      "artists": [
-        {
-          "name": "Dubtommy",
-          "url": "https://open.spotify.com/artist/0KvdfNrhYjhS7Su3dEmPgk"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Ball Gazer",
-      "url": "https://open.spotify.com/track/6EPdDRRE5WfWMYHgIRUaud"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Recit De Voyage 2",
-        "url": "https://open.spotify.com/album/46gTZslnW4cfnpggpvdWRT"
-      },
-      "artists": [
-        {
-          "name": "Douala",
-          "url": "https://open.spotify.com/artist/2iWOFT9U8InefnarwZUmv0"
-        }
-      ],
-      "duration_ms": 453141,
-      "name": "Orbiting",
-      "url": "https://open.spotify.com/track/1fVSqMZPCjxVv8iqyo9kMm"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Program",
-        "url": "https://open.spotify.com/album/6yvfUF23AlzHJEiUkX023P"
-      },
-      "artists": [
-        {
-          "name": "Sounds & Sequences",
-          "url": "https://open.spotify.com/artist/2117ihAoWRaE1nOF5K4us7"
-        }
-      ],
-      "duration_ms": 716297,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/2ruTSgMeznXTUP1mxLk7cv"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Jazire EP",
-        "url": "https://open.spotify.com/album/0akpmGZacwrDnSBh4ppapp"
-      },
-      "artists": [
-        {
-          "name": "Amberoom",
-          "url": "https://open.spotify.com/artist/6ZOpAQ5JTszY6FRaelMY2t"
-        },
-        {
-          "name": "Isol\u00e9e",
-          "url": "https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj"
-        }
-      ],
-      "duration_ms": 469440,
-      "name": "Jazire - Isol\u00e9e Remix",
-      "url": "https://open.spotify.com/track/5OVNeHoQKR32qt645sj4v2"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
         "name": "Functional Designs",
         "url": "https://open.spotify.com/album/65mmHlZPWc1L3wkfWzG0n9"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
-        "name": "Nospheratu",
-        "url": "https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS"
-      },
-      "artists": [
-        {
-          "name": "Pulshar",
-          "url": "https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA"
-        }
-      ],
-      "duration_ms": 677029,
-      "name": "Nospheratu - Echospace Reduction",
-      "url": "https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
         "name": "Symbiosis of Events",
         "url": "https://open.spotify.com/album/7AtAPPE6HCM5LJQAFNCQec"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 458000,
       "name": "Micromind",
       "url": "https://open.spotify.com/track/7qxIUYtvdoRCCOu7UVLqWh"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "2020 YELLOW",
+        "url": "https://open.spotify.com/album/3GQ3BjcCgeqcWnYCPIFc0a"
+      },
+      "artists": [
+        {
+          "name": "R.Hz",
+          "url": "https://open.spotify.com/artist/5wJTUWsSMc6QuhAn1oxcKn"
+        }
+      ],
+      "duration_ms": 530090,
+      "name": "Wave Motion",
+      "url": "https://open.spotify.com/track/6cv6gb6YMR3g2FDbM81Mow"
     },
     {
       "added_at": "2023-02-14 02:58:33",
@@ -881,6 +897,22 @@
       "url": "https://open.spotify.com/track/4p4qSjT8ce6IPbtUV5obul"
     },
     {
+      "added_at": "2023-04-11 20:39:36",
+      "album": {
+        "name": "Gilfoyle",
+        "url": "https://open.spotify.com/album/0A0eaJWuKhWB0DnSZasfSN"
+      },
+      "artists": [
+        {
+          "name": "Gavin Belson",
+          "url": "https://open.spotify.com/artist/649vwebhd2nCVxJ2iUJSZo"
+        }
+      ],
+      "duration_ms": 305806,
+      "name": "Gilfoyle",
+      "url": "https://open.spotify.com/track/6PSd0GKsxSdWfUNaqDTS2Y"
+    },
+    {
       "added_at": "2023-02-14 02:58:33",
       "album": {
         "name": "Cityscapes EP",
@@ -895,22 +927,6 @@
       "duration_ms": 384000,
       "name": "Ninsei",
       "url": "https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Translucent Tracks",
-        "url": "https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83"
-      },
-      "artists": [
-        {
-          "name": "Echo Inspectors",
-          "url": "https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3"
-        }
-      ],
-      "duration_ms": 396041,
-      "name": "Parable",
-      "url": "https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY"
     },
     {
       "added_at": "2023-02-14 02:58:33",

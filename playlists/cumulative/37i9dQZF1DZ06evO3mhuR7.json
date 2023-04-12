@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 85896,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1SFuW1Sh6V9JJf0ezWIPbJ"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 344795,
       "name": "Golden Clouds",
       "url": "https://open.spotify.com/track/1O79Bxc3uJCyIZCY3VZEMS"
@@ -1844,6 +1844,24 @@
       "duration_ms": 237009,
       "name": "The End of the End",
       "url": "https://open.spotify.com/track/6ZVoXytdIwXcMtLx9Pk2DF"
+    },
+    {
+      "album": {
+        "name": "Bicycles & Tricycles",
+        "url": "https://open.spotify.com/album/70fno0qBHcxnRKUgxwgtRY"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241786,
+      "name": "The Land of Green Ginger",
+      "url": "https://open.spotify.com/track/6OrYdM6zEOOOAEmjj4onWz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: girl in red",
-  "num_followers": 1066200,
+  "num_followers": 1066465,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDNjZTk4YjY0ZjE2M2JiN2ZhYmQzNTVmM2IyNGNiZDM1",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDM3MjZmOTZiMGY1NTdiY2NhZGM4NDI0MjgzYmU2OGI1",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 154115,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Uneasy - Metronomy x spill tab",
-        "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 203262,
-      "name": "Uneasy - Metronomy x spill tab",
-      "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+        "name": "Uneasy - Metronomy x spill tab",
+        "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
       "artists": [
         {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
         }
       ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+      "duration_ms": 203262,
+      "name": "Uneasy - Metronomy x spill tab",
+      "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
     },
     {
       "added_at": "2023-03-31 04:00:00",

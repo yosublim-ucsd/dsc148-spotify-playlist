@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXEfPGehn06.md) - [plain]
 
 > Sit back, relax, and let some legendary pianists take a turn at the keyboard\. These are the most iconic piano pieces by Mozart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,526 likes - 71 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,565 likes - 71 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

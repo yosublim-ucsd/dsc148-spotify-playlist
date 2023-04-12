@@ -2,7 +2,7 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and new artists in the soul space\. Cover: Gaidaa
+> A blend of new songs and new artists in the soul space\. Cover: Masego
 
 319 songs - 18 hr 53 min
 

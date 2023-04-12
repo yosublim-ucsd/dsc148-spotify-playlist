@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 12069,
+  "num_followers": 12086,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1Mzg2NSwwMDAwMDAwMDgxNGU4NTE5MWZhZTAxNDYwMDM0ZmFmMTlmNjA2M2Mw",
+  "snapshot_id": "MTY4MDc1Mzg2NSwwMDAwMDAwMDA3ZDA1ZDJiZWMzZDE1NmMzODhkNDYxMDljMDJiNjlj",
   "tracks": [
     {
       "added_at": "2023-04-06 04:04:25",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Freaky (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 207466,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Freaky (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
     },
     {
       "added_at": "2023-04-06 04:04:25",

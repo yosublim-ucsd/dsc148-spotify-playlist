@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Koteri\. Artwork: Isu Kim
 
-161 songs - 9 hr 3 min
+163 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Motivational Quote](https://open.spotify.com/track/4MhpTyGa1IH01zlFuy99aN) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Motivational Quote](https://open.spotify.com/album/0TNNXEi9P8wgb4g26VJ3om) | 3:33 | 2022-09-20 | 2022-10-19 |
 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 | 2022-09-20 | 2022-11-24 |
 | [Mr.Fancy pants](https://open.spotify.com/track/1aPgmpANFrfl3NIViRhuif) | [Soundsmudge](https://open.spotify.com/artist/2rNNLhzmcxJpgi6iofbrhj) | [Mr.Fancy pants](https://open.spotify.com/album/5S2wmqGNIEn1rYiZWUXkLh) | 4:21 | 2022-11-08 | 2023-01-25 |
-| [Mudun](https://open.spotify.com/track/38xgKmvQlN5eazU7aW3JMI) | [Mayssa Jallad](https://open.spotify.com/artist/3gwo3aexDXLiYhWICS2Qm3) | [Marjaa: The Battle Of The Hotels](https://open.spotify.com/album/3FjodRJZR2gCVkN5mbY1TK) | 2:32 | 2023-03-07 |  |
+| [Mudun](https://open.spotify.com/track/38xgKmvQlN5eazU7aW3JMI) | [Mayssa Jallad](https://open.spotify.com/artist/3gwo3aexDXLiYhWICS2Qm3) | [Marjaa: The Battle Of The Hotels](https://open.spotify.com/album/3FjodRJZR2gCVkN5mbY1TK) | 2:32 | 2023-03-07 | 2023-04-12 |
 | [Nar w Rosas](https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V) | [Lagham](https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409) | [Nar w Rosas](https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677) | 5:01 | 2022-11-08 | 2023-03-22 |
 | [Nobody but you](https://open.spotify.com/track/67aZFyP1HZYLgDgqphrP6q) | [Dina Stars](https://open.spotify.com/artist/672Rg2Kir00jUgMDP3lafa) | [Nobody but you](https://open.spotify.com/album/2gZPtzWqHtolrCgjvUZHF0) | 2:42 | 2023-03-01 | 2023-03-08 |
 | [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 | 2022-09-20 | 2023-02-15 |
@@ -141,6 +141,8 @@
 | [Summer Falls](https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh) | [TheKiddEast](https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG) | [Summer Falls](https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0) | 2:48 | 2022-09-20 | 2022-12-14 |
 | [Superman](https://open.spotify.com/track/4z4NyCBMVY1OO3xl7pkOrA) | [Jindi](https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr) | [Superman](https://open.spotify.com/album/3y1k1HcvKNQ1PfGasSCLLn) | 2:58 | 2022-09-20 | 2022-10-19 |
 | [Taqa](https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN) | [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Taqa](https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x) | 2:30 | 2022-10-25 | 2023-01-18 |
+| [Tenderness](https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f) | [Postcards](https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe) | [Tenderness](https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC) | 2:42 | 2023-04-11 |  |
+| [The Storm](https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk) | [Interbellum](https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO) | [Our House Is Very Beautiful at Night](https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla) | 3:22 | 2023-04-11 |  |
 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 | 2023-03-14 |  |
 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 | 2022-09-20 | 2023-03-22 |
 | [Theeb](https://open.spotify.com/track/1LiiKjHg9vlk3592zUThYM) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Theeb](https://open.spotify.com/album/4G7QlmmtmBm8MZSZ0FgNbQ) | 2:06 | 2022-09-20 | 2022-09-28 |
@@ -166,7 +168,7 @@
 | [دكتور نفساني](https://open.spotify.com/track/0xqXbsKJs9dRyIJBZRRNhJ) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [دكتور نفساني](https://open.spotify.com/album/1P4Qp6t6v3m7AotVxh5g3E) | 2:59 | 2022-11-15 | 2022-12-14 |
 | [دنیا](https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [دنیا](https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx) | 3:39 | 2022-09-20 | 2023-01-18 |
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-09-20 | 2022-11-09 |
-| [عيدلي](https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39) | [Good Company](https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5), [Tararu](https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK) | [عيدلي](https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl) | 2:49 | 2023-03-21 |  |
+| [عيدلي](https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39) | [Good Company](https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5), [Tararu](https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK) | [عيدلي](https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl) | 2:49 | 2023-03-21 | 2023-04-12 |
 | [كراكيب](https://open.spotify.com/track/5I2IZjU6D2v9UuIeGrGkN8) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [كراكيب](https://open.spotify.com/album/1mcJnk6CUvsGgHuGADXKdV) | 2:38 | 2022-12-13 | 2023-03-15 |
 | [محي الدين مصدق](https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [محي الدين مصدق](https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk) | 2:30 | 2022-10-04 | 2022-11-16 |
 

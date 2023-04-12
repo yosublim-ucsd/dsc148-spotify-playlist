@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Luther",
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Styleto",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 224160,
       "name": "DANS LE WAY",
       "url": "https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "L'angle mort",
+        "url": "https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28"
+      },
+      "artists": [
+        {
+          "name": "Ehla",
+          "url": "https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142386,
+      "name": "L'angle mort",
+      "url": "https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9"
+    },
+    {
+      "album": {
         "name": "Toujours des fleurs (Version deluxe)",
         "url": "https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj"
       },
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 228120,
       "name": "Monstres",
       "url": "https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs"
@@ -1115,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Ce qu'il restera de nous",
+        "url": "https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208702,
+      "name": "On m'a dit",
+      "url": "https://open.spotify.com/track/6Dpj5zpd4nKpvervwskEBH"
+    },
+    {
+      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -1148,6 +1184,24 @@
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR"
+    },
+    {
+      "album": {
+        "name": "MDNS",
+        "url": "https://open.spotify.com/album/6sYdShIBNJHvrgsuQOlNd0"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/4BKhhCdzdmCIhDd4g6u7GR"
     },
     {
       "album": {
@@ -1573,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Trop bonnes",
+        "url": "https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152005,
+      "name": "Trop bonnes",
+      "url": "https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG"
+    },
+    {
+      "album": {
         "name": "T\u00e9co",
         "url": "https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN"
       },
@@ -1624,6 +1696,24 @@
       "duration_ms": 176093,
       "name": "Vieux",
       "url": "https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk"
+    },
+    {
+      "album": {
+        "name": "La grande d\u00e9sillusion",
+        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238480,
+      "name": "vivre",
+      "url": "https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8"
     },
     {
       "album": {

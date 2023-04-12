@@ -3605,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/65nhz1EbSruHtMqqLJrRja"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296333,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3zf2eLN9Yf8ayZO5cn4Xh5"
+    },
+    {
+      "album": {
         "name": "this is what falling in love feels like",
         "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
       },

@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 122080,
       "name": "7 o'clock",
       "url": "https://open.spotify.com/track/6KPm7sTpDFaFGKn8nIJe1y"
@@ -1323,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Bakery Day",
+        "url": "https://open.spotify.com/album/3qbEPfEXu64aKq1vBmYTux"
+      },
+      "artists": [
+        {
+          "name": "Rooftop Shenanigans",
+          "url": "https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112340,
+      "name": "Bakery Day",
+      "url": "https://open.spotify.com/track/4ZyO4kduFWpmeLTJfKw1fW"
+    },
+    {
+      "album": {
         "name": "Dash Jagger",
         "url": "https://open.spotify.com/album/7y96cZf4CfkGLABxZRlun7"
       },
@@ -2173,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Caligo",
+        "url": "https://open.spotify.com/album/24og9ExkwGCk37GUJ3Sodd"
+      },
+      "artists": [
+        {
+          "name": "Moderator",
+          "url": "https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "Caligo",
+      "url": "https://open.spotify.com/track/3tXBdxbIq8aqrB70q5KMTJ"
+    },
+    {
+      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/4PdgJJokVcXVGf8xahnZy8"
       },
@@ -2362,7 +2398,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 211428,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k"
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 106241,
       "name": "chassing the lights",
       "url": "https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG"
@@ -2550,7 +2586,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 120000,
       "name": "Circles",
       "url": "https://open.spotify.com/track/1UmaKp0op9x7VsP4yIe5Ur"
@@ -4792,7 +4828,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 156486,
       "name": "Essence",
       "url": "https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2"
@@ -6302,7 +6338,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 126131,
       "name": "growing old",
       "url": "https://open.spotify.com/track/436s982u8353CoFO599stn"
@@ -6754,7 +6790,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 129248,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/79QzmNjV2Xmei1z4Fdzb1V"
@@ -8563,6 +8599,24 @@
     },
     {
       "album": {
+        "name": "Lemon Market",
+        "url": "https://open.spotify.com/album/0P5mOLIUgPkOoD2TClx4vW"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Kidd",
+          "url": "https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "Lemon Market",
+      "url": "https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc"
+    },
+    {
+      "album": {
         "name": "Let Your Feet Dangle",
         "url": "https://open.spotify.com/album/4d3ncw3CrRX2JD5nxdyAp3"
       },
@@ -8802,7 +8856,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 144086,
       "name": "Lime Tree",
       "url": "https://open.spotify.com/track/4PfibZg2PuISzwH4TcIki7"
@@ -9908,7 +9962,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 99230,
       "name": "memories",
       "url": "https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p"
@@ -10436,7 +10490,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 132800,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/0tgOSi0Ew7wPIm1TyA3YPJ"
@@ -10920,7 +10974,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 135529,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/4ESfG6sY4D1xeTsrYevXwx"
@@ -11214,7 +11268,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 132145,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/40n2oIBFPLM8H1FfBO1EfN"
@@ -13874,7 +13928,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 128000,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/5E0UCofV3u4xyjeG6C1VEV"
@@ -14055,6 +14109,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2aErA4LHZw9ZBRVQw6xqz9"
+      },
+      "artists": [
+        {
+          "name": "AWL",
+          "url": "https://open.spotify.com/artist/7DYdwCUdpyJMKpaaL1cSBF"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118980,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/4ttNvUY7MsacvCSdlRwKSD"
+    },
+    {
+      "album": {
         "name": "Silk Lips",
         "url": "https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV"
       },
@@ -14172,7 +14244,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 176692,
       "name": "Skies",
       "url": "https://open.spotify.com/track/3iWEWYngudC5ypMdOHoU0W"
@@ -14280,7 +14352,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 130169,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/6oEh8d3WukF1lrnpQXFc4Q"
@@ -15236,6 +15308,24 @@
       "duration_ms": 122054,
       "name": "Sundets",
       "url": "https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6DZisckW1UkOLEAN0KhkYQ"
+      },
+      "artists": [
+        {
+          "name": "Bipeula",
+          "url": "https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/3HcIqhV8hT1NTlQW8D4QSJ"
     },
     {
       "album": {
@@ -17608,6 +17698,24 @@
       "duration_ms": 94285,
       "name": "Who's who's",
       "url": "https://open.spotify.com/track/5Q8LCJkKHAK6GmZ1U5Dl8R"
+    },
+    {
+      "album": {
+        "name": "Wild Mallow",
+        "url": "https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h"
+      },
+      "artists": [
+        {
+          "name": "The Lofi Big Band",
+          "url": "https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177620,
+      "name": "Wild Mallow",
+      "url": "https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS"
     },
     {
       "album": {

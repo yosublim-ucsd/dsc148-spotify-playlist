@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57081,
+  "num_followers": 57100,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDEwZjIxZDVlMGE1YzYwNjMxMDJkODk2YWJjNWJhYTQz",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGEzZTdkZmJhNmQ1ZWJlYThmOGQ0ZjZiYjgwYjM2YWNm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -111,18 +111,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
       "artists": [
         {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
         }
       ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -143,22 +147,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
       },
       "artists": [
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
         }
       ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Italo Disco",
-        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
-      },
-      "artists": [
-        {
-          "name": "Lifelike",
-          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Net Loss",
         "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 376271,
       "name": "Listen to the Band - Club Mix",
       "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Italo Disco",
+        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -815,22 +815,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+        "name": "Never Let You Go (Skream Remix)",
+        "url": "https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         },
         {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 409961,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
+      "duration_ms": 220451,
+      "name": "Never Let You Go - Skream Remix (Edit)",
+      "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
     }
   ],
   "unique_name": "Laser Disco",

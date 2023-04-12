@@ -1,12 +1,12 @@
 {
   "description": "A llorar a la llorer\u00eda.",
-  "num_followers": 270135,
+  "num_followers": 270364,
   "original_name": "Hora de la Lloraci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyOTI2MCwwMDAwMDAwMDQ0ZTY0NDU1Mjc0M2Y0MTk5NzM1YzcwZGY0YTU4NjM0",
+  "snapshot_id": "MTY3OTAyOTI2MCwwMDAwMDAwMGYxZGZmZWEwZDBiY2YxNmI5MzZhZGViNWVlOWNiZjA4",
   "tracks": [
     {
       "added_at": "2023-02-15 23:06:37",
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2023-04-11 01:13:22",
+      "added_at": "2023-04-12 00:46:21",
       "album": {
         "name": "lo que hay x aqu\u00ed",
         "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
@@ -971,18 +971,22 @@
     {
       "added_at": "2023-02-15 23:06:37",
       "album": {
-        "name": "Confieso",
-        "url": "https://open.spotify.com/album/3py5UQNoZMecvronNEQp41"
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 178320,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc"
+      "duration_ms": 219720,
+      "name": "Te Alejas M\u00e1s De M\u00ed",
+      "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
     },
     {
       "added_at": "2023-02-15 23:06:37",
@@ -1003,25 +1007,21 @@
     {
       "added_at": "2023-02-15 23:06:37",
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/3py5UQNoZMecvronNEQp41"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Te Alejas M\u00e1s De M\u00ed",
-      "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
+      "duration_ms": 178320,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc"
     },
     {
-      "added_at": "2023-04-11 01:13:22",
+      "added_at": "2023-04-12 00:46:21",
       "album": {
         "name": "S.H.E.A",
         "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"

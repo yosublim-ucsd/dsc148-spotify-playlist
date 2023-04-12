@@ -1115,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "Merchants (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280327,
+      "name": "Merchants - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Profundo",
         "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
       },

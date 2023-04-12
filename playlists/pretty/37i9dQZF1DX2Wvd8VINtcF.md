@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,085 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,081 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 52 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 |
 | 53 | [Heart on Fire](https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 3:58 |
 | 54 | [all i can do is miss you](https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT) | [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ), [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4) | [all i can do is miss you](https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ) | 3:00 |
-| 55 | [Care Less](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 |
+| 55 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 |
 | 56 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 57 | [Taxi](https://open.spotify.com/track/4LDMTLuB6W6N0ONiRtrkCw) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Phine Friends](https://open.spotify.com/album/4RAq2PncKPp0Blv8Mvke2y) | 3:04 |
 | 58 | [STILL IN LOVE](https://open.spotify.com/track/2v2DGhymI4bpoKi9aenxC6) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [STILL IN LOVE](https://open.spotify.com/album/2BS2yC9ht6SxdixZA7f4oQ) | 2:22 |

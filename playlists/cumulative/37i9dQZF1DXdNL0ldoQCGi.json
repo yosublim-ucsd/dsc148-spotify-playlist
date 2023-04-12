@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "sabe aquela m\u00fasica que vc ouve pelas redes mas n\u00e3o sabe o nome? pois ent\u00e3o",
+  "description": "aquela l\u00e1 q viralizou na net ",
   "name": "faz a trend",
   "tracks": [
     {
@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 149582,
       "name": "Americana na Vaquejada",
       "url": "https://open.spotify.com/track/3U0FuMjhCMVkGdTG72Wfrs"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 149582,
       "name": "Americana na Vaquejada",
       "url": "https://open.spotify.com/track/7igHN9CNCaUTOle8U84X9H"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 185666,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6"
@@ -4674,6 +4674,24 @@
       "duration_ms": 194884,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
+    },
+    {
+      "album": {
+        "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
+        "url": "https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177551,
+      "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
+      "url": "https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO"
     },
     {
       "album": {

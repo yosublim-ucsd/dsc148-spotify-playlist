@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,158 likes - 173 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,291 likes - 173 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 25 | [There Will Never Be Another You](https://open.spotify.com/track/5yNwemxmSZtEXdUNDx9ctJ) | [Falcon Days](https://open.spotify.com/artist/2QNZ83aE2z5wtBlOfgeV9o) | [There Will Never Be Another You](https://open.spotify.com/album/5yaNPvhGLhrxwbHlouegLp) | 2:32 |
 | 26 | [Everything I wanted](https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 3:13 |
 | 27 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 |
-| 28 | [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 |
+| 28 | [thank u, next](https://open.spotify.com/track/5w98iWda7SZGbQxCDQ68KQ) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/7vaj1WWVkyxPhpB042KhJ9) | 2:30 |
 | 29 | [All of me](https://open.spotify.com/track/1YqEANBV7eYCAOooDgZgyu) | [Skyler Hunt](https://open.spotify.com/artist/0VkRky5og1A8kwViWuyeOl) | [All of me](https://open.spotify.com/album/3YHjGSpj2bzB7256PhRlN1) | 2:12 |
 | 30 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 |
 | 31 | [Let It Be](https://open.spotify.com/track/1kB5w3Oyp36ADW0ApGoHAE) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [Let It Be](https://open.spotify.com/album/0duEcNc0FM3PqWauFPKvQX) | 1:55 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 172 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 |
 | 173 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 |
 
-Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMGYzYWUzM2QxMThjNzA5M2RkYzFiZTJkNmMzMzVjYTk2`
+Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMDAwNmY1ZDY2MTM4YWQ2MDY2MzAxZWEyYWMyMzQ4YzNm`

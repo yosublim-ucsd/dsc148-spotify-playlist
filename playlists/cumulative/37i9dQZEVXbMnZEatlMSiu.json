@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+    },
+    {
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
       },
@@ -4321,7 +4339,7 @@
     },
     {
       "album": {
-        "name": "People, Pt. 2 (feat. IU)",
+        "name": "People Pt.2 (feat. IU)",
         "url": "https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo"
       },
       "artists": [
@@ -4338,7 +4356,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213995,
-      "name": "People, Pt. 2 (feat. IU)",
+      "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
     },
     {
@@ -6454,7 +6472,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 154194,
       "name": "Zero",
       "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
@@ -6734,6 +6752,24 @@
       "duration_ms": 246280,
       "name": "\u4e0d\u611b\u6211\u5c31\u62c9\u5012",
       "url": "https://open.spotify.com/track/4oeHo4sQtR0hMaLAdxYNGy"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u611b\u81ea\u5df1\u4e86",
+        "url": "https://open.spotify.com/album/6XNIzjnjbV9DbsaHG7xZGb"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258139,
+      "name": "\u4e0d\u611b\u81ea\u5df1\u4e86",
+      "url": "https://open.spotify.com/track/6iapOcmDAFnNQ3Bz0U6s3Y"
     },
     {
       "album": {
@@ -7358,7 +7394,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 320165,
       "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"

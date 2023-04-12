@@ -4,7 +4,7 @@
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-58 songs - 7 hr 5 min
+59 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 | 2022-11-30 |  |
 | [Enteignet \- Matthias Springer Granular Submissive Dub](https://open.spotify.com/track/7yyHA2crRo1M9q5QaVEIfV) | [Markus Rassiller](https://open.spotify.com/artist/4fhiKBo4TKT0K9eSdi1kg8), [Matthias Springer](https://open.spotify.com/artist/5MZ91wXNymQkBfMOZoLp2S) | [Enteignet](https://open.spotify.com/album/5diDVwrz2E5ktJQg65vKGS) | 6:47 | 2023-01-10 |  |
 | [Forest Contemplation](https://open.spotify.com/track/5WnFvl7BbTc4IhCHzkR52S) | [Post Apocalyptic](https://open.spotify.com/artist/76A6kOYEHDdXXm7TGi2N4w) | [Far Away](https://open.spotify.com/album/31Jr6LVE2k60ldnb6NAQ5w) | 5:02 | 2022-11-30 |  |
+| [Gilfoyle](https://open.spotify.com/track/6PSd0GKsxSdWfUNaqDTS2Y) | [Gavin Belson](https://open.spotify.com/artist/649vwebhd2nCVxJ2iUJSZo) | [Gilfoyle](https://open.spotify.com/album/0A0eaJWuKhWB0DnSZasfSN) | 5:05 | 2023-04-11 |  |
 | [Head Under The Waves](https://open.spotify.com/track/4N4AuITamOD7SYKOk6mXPi) | [Microlot](https://open.spotify.com/artist/1XMBk7PzRBN6PWrnqKpBtU) | [Archive B](https://open.spotify.com/album/5iLXPoIXreWf94xGoVxIKk) | 6:25 | 2022-11-30 |  |
 | [Inter Spaced](https://open.spotify.com/track/1IOwL6Ul5KFSgEogib600T) | [Sei A](https://open.spotify.com/artist/2XaTDbIGblDzEAWa9RWMX7) | [Mode Static](https://open.spotify.com/album/4mRzODAptcBB2WEjPDhPPV) | 6:13 | 2022-11-30 |  |
 | [Iteration 1](https://open.spotify.com/track/3U5J9ihgZ6Q5AZ8K4z9RVC) | [Gradient](https://open.spotify.com/artist/2xbVn24QI1kHjHY8AynQSK) | [Dub Iterations](https://open.spotify.com/album/6WKXK6UNSkOlAg1biqWVT4) | 8:03 | 2023-01-10 |  |

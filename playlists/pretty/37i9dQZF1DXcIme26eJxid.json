@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 85253,
+  "num_followers": 85320,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDJiYzUwNjcxZjU0OTBkMDY3NjUyMjQyNzM4NGE0MTM5",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDVmYTg1ZjQ2OGZlMjZiYTAzNTM3OGEwMGNlYzc1ODQ4",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Third World Child",
@@ -143,6 +127,22 @@
       "duration_ms": 291000,
       "name": "Asimbonanga (Mandela)",
       "url": "https://open.spotify.com/track/25u53mEJMoUkHcBWYavOVT"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
+      "added_at": "2020-04-07 09:19:20",
       "album": {
-        "name": "Horizon Unlimted",
-        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0M6etJRitjGp9FyYImM6Nn"
       },
       "artists": [
         {
-          "name": "Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 256306,
-      "name": "Orere-Elejigbo",
-      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
+      "duration_ms": 354053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/7ySKl4stuFkqah4184kgnu"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -345,20 +345,20 @@
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
+      "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0M6etJRitjGp9FyYImM6Nn"
+        "name": "Horizon Unlimted",
+        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
       "artists": [
         {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+          "name": "Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
         }
       ],
-      "duration_ms": 354053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/7ySKl4stuFkqah4184kgnu"
+      "duration_ms": 256306,
+      "name": "Orere-Elejigbo",
+      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
     },
     {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Pennywhistle",
+      "url": "https://open.spotify.com/track/41AdJM1SO2O2gTXz9QXv9P"
+    },
+    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Ivory Music Classics, Vol. 2",
@@ -523,22 +539,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Pennywhistle",
-      "url": "https://open.spotify.com/track/41AdJM1SO2O2gTXz9QXv9P"
     },
     {
       "added_at": "2019-06-28 16:54:51",

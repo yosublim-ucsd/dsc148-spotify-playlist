@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421718,
+  "num_followers": 421727,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0OTkwNiwwMDAwMDAwMDg1NTNkMjU1MDRlOWNjOWM3MDIxYWRjYjVhOTg5OWYy",
+  "snapshot_id": "MTY4MTE5NjQwMCwwMDAwMDAwMDhmYjZhMWQ2MzlkZmMzMGVjY2RlMGE4NWQwNTZiMGRi",
   "tracks": [
+    {
+      "added_at": "2023-04-11 07:00:00",
+      "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 230982,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS"
+    },
     {
       "added_at": "2023-04-10 18:00:00",
       "album": {
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
     },
     {
-      "added_at": "2023-04-10 18:00:00",
+      "added_at": "2023-04-11 07:00:00",
       "album": {
         "name": "Medalla de Oro",
         "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"

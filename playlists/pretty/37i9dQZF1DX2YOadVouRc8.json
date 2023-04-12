@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11769,
+  "num_followers": 11797,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGM1MWJlMjRlZjhhNDk2NGY4ZmRiYjJlYjQ4Y2VlNDU2",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDIxZmU0NzJjNWY2OWU3ZmIyODI4Mzg3ZWJkZjI5Yjk2",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -459,18 +459,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Bezos",
-        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63"
       },
       "artists": [
         {
-          "name": "Dboi",
-          "url": "https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 168437,
-      "name": "Bezos",
-      "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"
+      "duration_ms": 258113,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63"
+        "name": "Bezos",
+        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
       "artists": [
         {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "Dboi",
+          "url": "https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8"
         }
       ],
-      "duration_ms": 258113,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"
+      "duration_ms": 168437,
+      "name": "Bezos",
+      "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Contour (Acoustic)",
-        "url": "https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Contour (Acoustic)",
-      "url": "https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5nf9tUvabTiuSMxGg93SF4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Contour (Acoustic)",
+        "url": "https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Contour (Acoustic)",
+      "url": "https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
-        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        }
-      ],
-      "duration_ms": 133392,
-      "name": "I Saw An Angel On The Roof & Wept",
-      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Bad4u",
         "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 179762,
       "name": "Bad4u",
       "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
+        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 133392,
+      "name": "I Saw An Angel On The Roof & Wept",
+      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "That's Alright",
-        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 232021,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Trobul",
         "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "That's Alright",
+        "url": "https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 232021,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k"
     },
     {
       "added_at": "2023-03-30 23:00:00",

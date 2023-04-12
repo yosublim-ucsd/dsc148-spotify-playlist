@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTY4NSxiMTg0ODI3YzhmYWM1OTllYzViZGZkYjFmZWRjY2QyMWZlMDQ4ZTg2",
+  "snapshot_id": "NTY4Niw5ZGU0YjUzY2Q2MjNiMjYwOTM0M2QzNTE5ZGFlOThkZjczMDcyZWEz",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -921,6 +921,26 @@
       "url": "https://open.spotify.com/track/3UO8RwcMFCp70lbqKOyX70"
     },
     {
+      "added_at": "2018-12-21 15:49:51",
+      "album": {
+        "name": "Troubadours - Songs By W. v.d. Vogelweide/N. v. Reuental, Oswald v. Wolkenstein",
+        "url": "https://open.spotify.com/album/20DaDvFqCgf9nzG5W9MeFg"
+      },
+      "artists": [
+        {
+          "name": "Richard I of England",
+          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
+        },
+        {
+          "name": "Ensemble Perceval",
+          "url": "https://open.spotify.com/artist/6Ij2jWIgX8r8VN7bZqVAIW"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Ja nuls om pres",
+      "url": "https://open.spotify.com/track/7wgKcWxryFbpKCIp2f9rWI"
+    },
+    {
       "added_at": "2019-06-28 16:39:33",
       "album": {
         "name": "Dante & Troubadours",
@@ -947,26 +967,6 @@
       "duration_ms": 727733,
       "name": "Tant m'abellis l'amoros pessamens",
       "url": "https://open.spotify.com/track/20TugFDXiSjgHRQMLLKfNm"
-    },
-    {
-      "added_at": "2018-12-21 15:49:51",
-      "album": {
-        "name": "Troubadours - Songs By W. v.d. Vogelweide/N. v. Reuental, Oswald v. Wolkenstein",
-        "url": "https://open.spotify.com/album/20DaDvFqCgf9nzG5W9MeFg"
-      },
-      "artists": [
-        {
-          "name": "Richard I of England",
-          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
-        },
-        {
-          "name": "Ensemble Perceval",
-          "url": "https://open.spotify.com/artist/6Ij2jWIgX8r8VN7bZqVAIW"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Ja nuls om pres",
-      "url": "https://open.spotify.com/track/7wgKcWxryFbpKCIp2f9rWI"
     },
     {
       "added_at": "2018-02-28 02:04:46",
@@ -1437,6 +1437,26 @@
       "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
     },
     {
+      "added_at": "2019-06-07 14:25:58",
+      "album": {
+        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
+        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
+      },
+      "artists": [
+        {
+          "name": "Richard I of England",
+          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
+        },
+        {
+          "name": "Ensemble Tre Fontane",
+          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "Ja nuls",
+      "url": "https://open.spotify.com/track/5Sb4uORmfoU4wLbdYzepr2"
+    },
+    {
       "added_at": "2021-08-06 13:10:05",
       "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
@@ -1459,26 +1479,6 @@
       "duration_ms": 251960,
       "name": "La harpe de m\u00e9lodie",
       "url": "https://open.spotify.com/track/5RvRlsuHfQufIgQ1LUIpgQ"
-    },
-    {
-      "added_at": "2019-06-07 14:25:58",
-      "album": {
-        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
-        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
-      },
-      "artists": [
-        {
-          "name": "Richard I of England",
-          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
-        },
-        {
-          "name": "Ensemble Tre Fontane",
-          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
-        }
-      ],
-      "duration_ms": 243826,
-      "name": "Ja nuls",
-      "url": "https://open.spotify.com/track/5Sb4uORmfoU4wLbdYzepr2"
     },
     {
       "added_at": "2018-02-28 02:04:46",
@@ -1529,6 +1529,30 @@
       "url": "https://open.spotify.com/track/3iNaGI3Y6XtDQdUtbGCaYV"
     },
     {
+      "added_at": "2022-06-17 15:46:00",
+      "album": {
+        "name": "Sea Songs & Shanties",
+        "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
+      },
+      "artists": [
+        {
+          "name": "Unknown",
+          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
+        },
+        {
+          "name": "La Nef",
+          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
+        },
+        {
+          "name": "Sean Dagher",
+          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
+        }
+      ],
+      "duration_ms": 248186,
+      "name": "Leave Her, Johnny (Arr. by Se\u00e1n Dagher)",
+      "url": "https://open.spotify.com/track/2OfSreeqGD1osKdzyMfi2P"
+    },
+    {
       "added_at": "2022-09-17 01:14:54",
       "album": {
         "name": "Richard C\u0153ur de Lion, troubadours et trouv\u00e8res",
@@ -1565,28 +1589,28 @@
       "url": "https://open.spotify.com/track/6sFgv5yANSTueVYgbWciJE"
     },
     {
-      "added_at": "2022-06-17 15:46:00",
+      "added_at": "2022-12-30 17:02:22",
       "album": {
-        "name": "Sea Songs & Shanties",
-        "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
+        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
+        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
       },
       "artists": [
         {
-          "name": "Unknown",
-          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
-          "name": "La Nef",
-          "url": "https://open.spotify.com/artist/44zM5sBndzzOBAPdbNa2fQ"
+          "name": "Ferrara Ensemble",
+          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
         },
         {
-          "name": "Sean Dagher",
-          "url": "https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw"
+          "name": "Crawford Young",
+          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
         }
       ],
-      "duration_ms": 248186,
-      "name": "Leave Her, Johnny (Arr. by Se\u00e1n Dagher)",
-      "url": "https://open.spotify.com/track/2OfSreeqGD1osKdzyMfi2P"
+      "duration_ms": 209826,
+      "name": "Adieu vous di, tres doulce compaynie",
+      "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
     },
     {
       "added_at": "2022-03-28 17:06:45",
@@ -1611,30 +1635,6 @@
       "duration_ms": 269226,
       "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
       "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
-    },
-    {
-      "added_at": "2022-12-30 17:02:22",
-      "album": {
-        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
-        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Ferrara Ensemble",
-          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
-        },
-        {
-          "name": "Crawford Young",
-          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Adieu vous di, tres doulce compaynie",
-      "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
     },
     {
       "added_at": "2020-03-20 18:42:35",
@@ -1861,24 +1861,24 @@
       "url": "https://open.spotify.com/track/2PfXTMv2JZhbErEG7WGs2J"
     },
     {
-      "added_at": "2023-03-10 15:25:05",
+      "added_at": "2018-02-28 02:40:55",
       "album": {
-        "name": "The Cantigas of Santa Maria of Alfonso X",
-        "url": "https://open.spotify.com/album/0shYPUy5PjhvDyHv2krtzW"
+        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
+        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+          "name": "Guillaume de Machaut",
+          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
         },
         {
-          "name": "Martin Best Ensemble",
-          "url": "https://open.spotify.com/artist/07vXqjdaQ0h9gf4feUmZUV"
+          "name": "Ars Antiqua de Paris",
+          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
         }
       ],
-      "duration_ms": 180666,
-      "name": "He who wishes to praise a good lady",
-      "url": "https://open.spotify.com/track/6dozczwNmPQeHney5UmsFd"
+      "duration_ms": 413826,
+      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
+      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
     },
     {
       "added_at": "2020-07-24 11:51:06",
@@ -1901,24 +1901,24 @@
       "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
     },
     {
-      "added_at": "2018-02-28 02:40:55",
+      "added_at": "2023-03-10 15:25:05",
       "album": {
-        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
-        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
+        "name": "The Cantigas of Santa Maria of Alfonso X",
+        "url": "https://open.spotify.com/album/0shYPUy5PjhvDyHv2krtzW"
       },
       "artists": [
         {
-          "name": "Guillaume de Machaut",
-          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Ars Antiqua de Paris",
-          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
+          "name": "Martin Best Ensemble",
+          "url": "https://open.spotify.com/artist/07vXqjdaQ0h9gf4feUmZUV"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
-      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
+      "duration_ms": 180666,
+      "name": "He who wishes to praise a good lady",
+      "url": "https://open.spotify.com/track/6dozczwNmPQeHney5UmsFd"
     },
     {
       "added_at": "2022-09-03 07:37:51",
@@ -2051,30 +2051,6 @@
       "duration_ms": 441866,
       "name": "Festive Sounds",
       "url": "https://open.spotify.com/track/2uhPbHxvHStBgk2rcm3tho"
-    },
-    {
-      "added_at": "2023-04-01 19:18:47",
-      "album": {
-        "name": "Ockeghem: Requiem / Missa Fors seulement",
-        "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
-      },
-      "artists": [
-        {
-          "name": "Antoine Brumel",
-          "url": "https://open.spotify.com/artist/7kOay3yTSziCfffTrlEqsD"
-        },
-        {
-          "name": "The Clerks' Group",
-          "url": "https://open.spotify.com/artist/1xPrwzMXeBGn3vV2T8mt6s"
-        },
-        {
-          "name": "Edward Wickham",
-          "url": "https://open.spotify.com/artist/6SJ6eAvBM3JhLqjZKzXEkO"
-        }
-      ],
-      "duration_ms": 748800,
-      "name": "Du tout plongiet/Fors seulement",
-      "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
     },
     {
       "added_at": "2023-04-07 14:49:09",
@@ -3473,30 +3449,6 @@
       "url": "https://open.spotify.com/track/3GyPYmwzX1nQcJA8w0wIP1"
     },
     {
-      "added_at": "2018-02-28 02:04:46",
-      "album": {
-        "name": "Early Music Masterpieces",
-        "url": "https://open.spotify.com/album/6SgGP6pwcv0Q5cH3crRIEf"
-      },
-      "artists": [
-        {
-          "name": "Folquet de Marselha",
-          "url": "https://open.spotify.com/artist/0O4LuWRuIkX5mQDXXLhbpM"
-        },
-        {
-          "name": "Ren\u00e9 Clemensic",
-          "url": "https://open.spotify.com/artist/24MVtskiGtcapTe7noDQ8Z"
-        },
-        {
-          "name": "Clemensic Consort",
-          "url": "https://open.spotify.com/artist/6z4uBKU6dpGLMd9HgpohUJ"
-        }
-      ],
-      "duration_ms": 673053,
-      "name": "Sitot me soi (The Art of the Troubadours, Southern France, 11th & 12th c.): Sitot me soi (The Art of the Troubadours, Southern France, 11th & 12th c.)",
-      "url": "https://open.spotify.com/track/5tEG2FB13pmKzLtUhDxrUk"
-    },
-    {
       "added_at": "2022-10-15 00:04:29",
       "album": {
         "name": "Manuscrit du roi : Trouv\u00e8res & troubadours",
@@ -3539,6 +3491,30 @@
       "duration_ms": 377555,
       "name": "Lo clar temps",
       "url": "https://open.spotify.com/track/6Fq3R9Kv0pavfOqfA9pSuq"
+    },
+    {
+      "added_at": "2018-02-28 02:04:46",
+      "album": {
+        "name": "Early Music Masterpieces",
+        "url": "https://open.spotify.com/album/6SgGP6pwcv0Q5cH3crRIEf"
+      },
+      "artists": [
+        {
+          "name": "Folquet de Marselha",
+          "url": "https://open.spotify.com/artist/0O4LuWRuIkX5mQDXXLhbpM"
+        },
+        {
+          "name": "Ren\u00e9 Clemensic",
+          "url": "https://open.spotify.com/artist/24MVtskiGtcapTe7noDQ8Z"
+        },
+        {
+          "name": "Clemensic Consort",
+          "url": "https://open.spotify.com/artist/6z4uBKU6dpGLMd9HgpohUJ"
+        }
+      ],
+      "duration_ms": 673053,
+      "name": "Sitot me soi (The Art of the Troubadours, Southern France, 11th & 12th c.): Sitot me soi (The Art of the Troubadours, Southern France, 11th & 12th c.)",
+      "url": "https://open.spotify.com/track/5tEG2FB13pmKzLtUhDxrUk"
     },
     {
       "added_at": "2018-02-28 02:04:46",
@@ -3909,6 +3885,26 @@
       "url": "https://open.spotify.com/track/679eHr67g2JL8cXorvKir5"
     },
     {
+      "added_at": "2023-03-17 15:08:27",
+      "album": {
+        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
+        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
+      },
+      "artists": [
+        {
+          "name": "Gace Brul\u00e9",
+          "url": "https://open.spotify.com/artist/0NQ2rO0sTq6CtKewNVZ84x"
+        },
+        {
+          "name": "Ensemble Tre Fontane",
+          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
+        }
+      ],
+      "duration_ms": 400933,
+      "name": "Quand noif",
+      "url": "https://open.spotify.com/track/5nTI4v3EBAYIzpiME9hiOS"
+    },
+    {
       "added_at": "2018-07-06 13:57:26",
       "album": {
         "name": "Ce Diabolic Chant",
@@ -3935,26 +3931,6 @@
       "duration_ms": 215440,
       "name": "La harpe de melodie (Virelai)",
       "url": "https://open.spotify.com/track/3KxSoPE5cbIKFVbVDLhEZe"
-    },
-    {
-      "added_at": "2023-03-17 15:08:27",
-      "album": {
-        "name": "Musiques a la cour d'Ali\u00e9nor d'Aquitaine",
-        "url": "https://open.spotify.com/album/4mU6PHMHMw3UH15mt547ta"
-      },
-      "artists": [
-        {
-          "name": "Gace Brul\u00e9",
-          "url": "https://open.spotify.com/artist/0NQ2rO0sTq6CtKewNVZ84x"
-        },
-        {
-          "name": "Ensemble Tre Fontane",
-          "url": "https://open.spotify.com/artist/75umLowO0leOWDdacYiga5"
-        }
-      ],
-      "duration_ms": 400933,
-      "name": "Quand noif",
-      "url": "https://open.spotify.com/track/5nTI4v3EBAYIzpiME9hiOS"
     },
     {
       "added_at": "2020-08-21 11:53:23",
@@ -4039,26 +4015,6 @@
     {
       "added_at": "2023-03-31 17:34:50",
       "album": {
-        "name": "Landini e la musica Fiorentina",
-        "url": "https://open.spotify.com/album/2lOCz0TI9XjyFjk1aZiWmp"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Micrologus",
-          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Saltarello I",
-      "url": "https://open.spotify.com/track/5GaSxba0XMg53uUiPUKNKt"
-    },
-    {
-      "added_at": "2023-03-31 17:34:50",
-      "album": {
         "name": "Sea Songs & Shanties",
         "url": "https://open.spotify.com/album/1rUAhjLauNasB8ld0gWPR9"
       },
@@ -4099,6 +4055,26 @@
       "duration_ms": 365226,
       "name": "Helas piti\u00e9 envers moy dort si fort",
       "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
+    },
+    {
+      "added_at": "2023-03-31 17:34:50",
+      "album": {
+        "name": "Landini e la musica Fiorentina",
+        "url": "https://open.spotify.com/album/2lOCz0TI9XjyFjk1aZiWmp"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Micrologus",
+          "url": "https://open.spotify.com/artist/5xMO4T9L9Fd9Zf4hRO09mi"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Saltarello I",
+      "url": "https://open.spotify.com/track/5GaSxba0XMg53uUiPUKNKt"
     },
     {
       "added_at": "2020-05-01 20:27:52",

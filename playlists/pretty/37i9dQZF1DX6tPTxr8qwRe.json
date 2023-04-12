@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Ashnikko",
-  "num_followers": 338026,
+  "num_followers": 338306,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQxNzY1NDRlYjMyMThlMmUxYTQwYmI1ZWYwNmYxMDg4",
+  "snapshot_id": "MTY4MTI0ODk5MSwwMDAwMDAwMDc4N2IzNmJkNWI3YTIzMzliZmQ2OGVlZWVmMzdlYjA4",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 126189,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"
+    },
+    {
+      "added_at": "2023-04-11 21:36:31",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 148394,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -475,22 +491,6 @@
       "duration_ms": 165900,
       "name": "Roses",
       "url": "https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "cynical",
-        "url": "https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 173950,
-      "name": "cynical",
-      "url": "https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp"
     },
     {
       "added_at": "2023-03-10 05:00:00",

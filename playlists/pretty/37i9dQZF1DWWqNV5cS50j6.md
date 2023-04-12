@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Curtis Waters makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,602 likes - 113 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,592 likes - 113 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

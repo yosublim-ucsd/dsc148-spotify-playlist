@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTY4Miw4MjBmYzE0NGY5NzY3ODAwYmExNTI0ZWM1ZTI4ZDc0ZjQ5ZjU3ZGRh",
+  "snapshot_id": "MTY4Myw2NmM1NDQ4NWQ3NTI3NTQ4MGVhYzJhMzU3YjJkZDVhMDliMTI1MzRj",
   "tracks": [
+    {
+      "added_at": "2023-04-11 06:20:04",
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "More the Victim",
+      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
+    },
     {
       "added_at": "2023-03-01 22:38:20",
       "album": {

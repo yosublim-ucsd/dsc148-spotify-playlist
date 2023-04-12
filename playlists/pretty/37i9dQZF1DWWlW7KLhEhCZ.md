@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Anezzi, Dallas, Filipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,635 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,663 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 6 | [Moda de Favela](https://open.spotify.com/track/4y3MAr4Q3dhGHuZt8X6RxG) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Moda de Favela](https://open.spotify.com/album/5gHa9wnNiEo2kZzY0HvFFj) | 1:53 |
 | 7 | [Futuro & Momento](https://open.spotify.com/track/50BMRoWfCLCLGUserYgRSy) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [Futuro & Momento](https://open.spotify.com/album/3EwDwEAiDKPNL0Wqkteube) | 2:06 |
 | 8 | [Final](https://open.spotify.com/track/4lIn41yvvWuW6s0BlQsVbZ) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [NaBuscaDoOuro](https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S) | [Final](https://open.spotify.com/album/0kWvRiR7CdFuDAh1BOeenY) | 2:20 |
-| 9 | [Molly & Lean](https://open.spotify.com/track/0PsPpAjk9ZnQ3VkN2OiLzb) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Molly & Lean](https://open.spotify.com/album/3zGuvNZKU1hA3rUjvrnyOc) | 2:14 |
+| 9 | [Molly & Lean](https://open.spotify.com/track/0PsPpAjk9ZnQ3VkN2OiLzb) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Molly & Lean](https://open.spotify.com/album/3zGuvNZKU1hA3rUjvrnyOc) | 2:02 |
 | 10 | [Qual é Seu Problema](https://open.spotify.com/track/0kIJspcz5xm6QizWkfHh25) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Qual é Seu Problema](https://open.spotify.com/album/2IdVHQeJDj0oal9ymu4UuC) | 4:38 |
 | 11 | [Fantasma](https://open.spotify.com/track/1Yvp847aoltSjnUayXQFwZ) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Fantasma](https://open.spotify.com/album/4fPka9LmbdKQ6lAYaTRScM) | 2:38 |
 | 12 | [Favela Presente](https://open.spotify.com/track/3nTA6j8wg41EEWCUCNSMzK) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Favela Presente](https://open.spotify.com/album/1DJm9xYdpbuWCY60kUlT9w) | 2:24 |

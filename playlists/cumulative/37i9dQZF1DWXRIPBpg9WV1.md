@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-197 songs - 10 hr 4 min
+198 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Take Me To Church](https://open.spotify.com/track/7cU8rok575Qhf3SkhMb670) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 3:54 | 2022-05-20 |  |
 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 | 2022-05-20 |  |
 | [Tears in Heaven](https://open.spotify.com/track/55DFjCA1MWnDskroklqtuW) | [Kris Farrow](https://open.spotify.com/artist/74BEyEIkjzt6wrhsnkyAGE) | [Acoustic Guitar Music for Weddings, Vol\. 2](https://open.spotify.com/album/6iEyKKWzQidD3w0P33PUlo) | 4:26 | 2022-05-20 | 2023-02-10 |
-| [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 | 2022-05-20 |  |
+| [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 | 2022-05-20 | 2023-04-12 |
+| [thank u, next](https://open.spotify.com/track/5w98iWda7SZGbQxCDQ68KQ) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/7vaj1WWVkyxPhpB042KhJ9) | 2:30 | 2023-03-17 |  |
 | [The Final Countdown](https://open.spotify.com/track/5CsSyDSAi9aTszs4fv6O8U) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [The Final Countdown](https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot) | 3:03 | 2022-12-02 |  |
 | [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 | 2022-05-20 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 |  |

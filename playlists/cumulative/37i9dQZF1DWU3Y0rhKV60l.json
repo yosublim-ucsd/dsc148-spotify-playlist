@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 168000,
       "name": "Luscious Waves",
       "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
@@ -1010,6 +1010,24 @@
       "duration_ms": 183999,
       "name": "Tulum Beach Mexico",
       "url": "https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730"
+    },
+    {
+      "album": {
+        "name": "Underwater Symphony",
+        "url": "https://open.spotify.com/album/2IRHovngovEhMeN2HapRuB"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109684,
+      "name": "Underwater Symphony",
+      "url": "https://open.spotify.com/track/38gVD9RmSNjZG8TvIszftv"
     },
     {
       "album": {

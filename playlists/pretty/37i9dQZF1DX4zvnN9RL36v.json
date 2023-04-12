@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4856,
+  "num_followers": 4860,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDljY2NkZTUxYzZmM2RiMDJiM2FhYjQ2YzIyOGEzMDRm",
+  "snapshot_id": "MTY3OTkwNTUzMiwwMDAwMDAwMDM4ODZkOGU4YjliOWQ1MzM2NjVlNTJkMzUyODk1ZWYw",
   "tracks": [
     {
       "added_at": "2023-03-27 08:25:32",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Jewel (feat. KURO)",
-        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
-      },
-      "artists": [
-        {
-          "name": "Sumsher",
-          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
-        },
-        {
-          "name": "KURO",
-          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
-        }
-      ],
-      "duration_ms": 181377,
-      "name": "Jewel (feat. KURO)",
-      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 220437,
       "name": "UP ALL NIGHT",
       "url": "https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "Jewel (feat. KURO)",
+        "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "duration_ms": 181377,
+      "name": "Jewel (feat. KURO)",
+      "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "Second Story",
-        "url": "https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 315506,
-      "name": "\ub3d9\uacbd",
-      "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232729,
       "name": "One-Sided Love",
       "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "Second Story",
+        "url": "https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 315506,
+      "name": "\ub3d9\uacbd",
+      "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
     },
     {
       "added_at": "2023-03-27 08:25:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-27 08:25:32",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2023-03-27 08:25:32",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 249438,
       "name": "Her",
       "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
+    },
+    {
+      "added_at": "2023-03-27 08:25:32",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2023-03-27 08:25:32",

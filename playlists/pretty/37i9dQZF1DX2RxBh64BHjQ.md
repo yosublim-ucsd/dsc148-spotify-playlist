@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,763,878 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,764,200 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 87 | [How to Act](https://open.spotify.com/track/14cO15gZdX5HuBGdLAm0pe) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [90 Days Later](https://open.spotify.com/album/1mlRCyCB69eVNFnBQBrUQo) | 2:59 |
 | 88 | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd) | [Supa Ties \(feat\. DJ Khaled & Raw Youngin\)](https://open.spotify.com/album/5l1ICrjNUg784zp3FXfYRk) | 2:12 |
 | 89 | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/track/1H8ZNpGyZybtxzK5JgeFGc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Bop Slide \(feat\. Blueface, OHGEESY & Maxo Kream\)](https://open.spotify.com/album/64OP2SCE7jhZP9h8T4GYgW) | 3:46 |
-| 90 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
+| 90 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 |
 | 91 | [On Site](https://open.spotify.com/track/2x3lGxurMUvLFEzFwlbxu9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [On Site](https://open.spotify.com/album/4PPVPIBL5d0h5EzSwfhIgK) | 3:08 |
 | 92 | [Internet Trolls](https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls](https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR) | 2:20 |
 | 93 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [5 AM in London](https://open.spotify.com/track/3CslgoZltqk8R1XV2f6GNq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Prophecy](https://open.spotify.com/album/4I13FVparFXcJj2JfEsHFG) | 2:54 |
 | 100 | [Long Way To Go](https://open.spotify.com/track/2Byc1LTfTpxgn8WOyLMuOR) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Long Way To Go](https://open.spotify.com/album/1wACKr1ONK3i1w4eHML0yA) | 2:57 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDY4NjQ5YmU4Mjc2Yjg1YzVjZGQ0NmRkNzJjOWJjMWVh`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMGJhODRkNjUxMmQxZjliODA5NzJjOWM5MDAzMDhhMDY5`

@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 185053,
       "name": "Ici et l\u00e0",
       "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
@@ -880,6 +880,24 @@
       "duration_ms": 260666,
       "name": "Love Me, Please Love Me",
       "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "album": {
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
     },
     {
       "album": {

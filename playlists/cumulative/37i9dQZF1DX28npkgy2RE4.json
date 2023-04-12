@@ -3963,6 +3963,24 @@
     },
     {
       "album": {
+        "name": "Marzipan",
+        "url": "https://open.spotify.com/album/4ibpyjmkswVgCl8dLG5hG2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Wilson",
+          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315253,
+      "name": "Marzipan",
+      "url": "https://open.spotify.com/track/0dLdDkKRLXaciVz37WyZek"
+    },
+    {
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -6260,7 +6278,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"

@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-182 songs - 8 hr 6 min
+183 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 | 2022-11-14 |  |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2022-05-27 |  |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2022-05-27 |  |
-| [Without You \- Piano](https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Without You \(Piano\)](https://open.spotify.com/album/0fyycke18sjAPaJ36osEa0) | 2:22 | 2022-07-27 |  |
+| [Without You \- Piano](https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Without You \(Piano\)](https://open.spotify.com/album/0fyycke18sjAPaJ36osEa0) | 2:22 | 2022-07-27 | 2023-04-12 |
+| [Without You \- Piano](https://open.spotify.com/track/6uhQBsYdVTJGTCYYnAwpTt) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:22 | 2023-04-05 |  |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2022-05-27 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

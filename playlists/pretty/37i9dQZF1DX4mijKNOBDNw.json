@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 51880,
+  "num_followers": 51887,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4ODEwOSwwMDAwMDAwMDY1ODE2OTkyNjFiOTUzOTYyYTM0ZmVlYmJlNzE0OTA4",
+  "snapshot_id": "MTY3ODQ4ODEwOSwwMDAwMDAwMDc1YWNjZWE0ZWY4NTkwMmM5ODc3MzMxZjdjMWJhNjIx",
   "tracks": [
     {
       "added_at": "2023-03-10 22:41:49",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Alma Mestiza",
-        "url": "https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 173874,
-      "name": "Ni Encerradas Ni Con Miedos",
-      "url": "https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "Pa'fuera y Pa'dentro",
         "url": "https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 283500,
       "name": "Se Quem\u00f3",
       "url": "https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Alma Mestiza",
+        "url": "https://open.spotify.com/album/7drLzTXpNpRTiA5A7LpbTm"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 173874,
+      "name": "Ni Encerradas Ni Con Miedos",
+      "url": "https://open.spotify.com/track/1rFA6XWEvH6dbYiHmOovCT"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
         "name": "Nosotras Tenemos Otros Datos",
         "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 201290,
       "name": "Nosotras Tenemos Otros Datos",
       "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Hasta Salvarnos",
-        "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
-      },
-      "artists": [
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        },
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Hasta Salvarnos",
-      "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 206649,
       "name": "Lucha",
       "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Hasta Salvarnos",
+        "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Hasta Salvarnos",
+      "url": "https://open.spotify.com/track/25T6UjiA4nsWF4DXLgwMXU"
     },
     {
       "added_at": "2023-03-10 22:41:49",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-10 22:41:49",
       "album": {
-        "name": "Femrevoluci\u00f3n",
-        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Aguirre",
-          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Femrevoluci\u00f3n",
-      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
-    },
-    {
-      "added_at": "2023-03-10 22:41:49",
-      "album": {
         "name": "Piba Cumbia",
         "url": "https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 214505,
       "name": "Piba Cumbia",
       "url": "https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx"
+    },
+    {
+      "added_at": "2023-03-10 22:41:49",
+      "album": {
+        "name": "Femrevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Aguirre",
+          "url": "https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Femrevoluci\u00f3n",
+      "url": "https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt"
     },
     {
       "added_at": "2023-03-10 22:41:49",

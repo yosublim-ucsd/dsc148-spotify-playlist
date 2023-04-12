@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 151000,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD"
@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Graphite",
+        "url": "https://open.spotify.com/album/4PyRaAiVAtdzw5P47JFEqH"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126078,
+      "name": "Graphite",
+      "url": "https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx"
+    },
+    {
+      "album": {
         "name": "Gros Morne",
         "url": "https://open.spotify.com/album/2VEZGCioiKV64KSQx1VqeC"
       },
@@ -4974,7 +4992,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 141624,
       "name": "Liefde maakt blind",
       "url": "https://open.spotify.com/track/1ULmtmHwHzmWqrVsYxees1"
@@ -5912,6 +5930,24 @@
       "duration_ms": 118270,
       "name": "My Absence",
       "url": "https://open.spotify.com/track/60aQ47g6775vmbN3yMntql"
+    },
+    {
+      "album": {
+        "name": "Mysterious ways",
+        "url": "https://open.spotify.com/album/4lHrnYTYfpziDRuHBns58U"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107067,
+      "name": "Mysterious ways",
+      "url": "https://open.spotify.com/track/4o9MHjbd1w6fLk1aqA1JKn"
     },
     {
       "album": {
@@ -8288,7 +8324,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 168000,
       "name": "Soudainement",
       "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
@@ -9228,6 +9264,28 @@
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1lXQipR1KhZf5JRUwM5mDg"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106260,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6S3uAaYflAG6653OxyJJ2Y"
     },
     {
       "album": {

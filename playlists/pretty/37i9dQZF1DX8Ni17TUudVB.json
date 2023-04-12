@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 135223,
+  "num_followers": 135267,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDk1ZDE1ZWUxODc3NWJmZmUxNTFlZDYzZjFkZmNiNDlk",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDAzYjMxNWFiOWVmNTY2MThkZjk4Y2EwZDMwZjVkM2U2",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Take Me (feat. Gloria Kim)",
-        "url": "https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Take Me (feat. Gloria Kim)",
-      "url": "https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Epic (Garmiani Remix)",
         "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 155864,
       "name": "Epic - Garmiani Remix",
       "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Take Me (feat. Gloria Kim)",
+        "url": "https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Take Me (feat. Gloria Kim)",
+      "url": "https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Exotica (Deluxe)",
         "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
     },
     {
       "added_at": "2022-10-12 15:43:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=KYxuXu7nTI-jQW-GEScd1A\">Robin Fassie</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C?si=CQoLqFaIQNCMmYTV9RKM6w\">Desire Marea</a> ",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 480261,
       "name": "Aunty B - Live",
       "url": "https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 409666,
       "name": "Ke Nako",
       "url": "https://open.spotify.com/track/1gDDfrCOFm30vpG3zuDX97"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 379659,
       "name": "Log Out Shut Down - Live in Studio",
       "url": "https://open.spotify.com/track/2zjanNO8418bIvxfu0FKfs"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 205019,
       "name": "No Hope After 1",
       "url": "https://open.spotify.com/track/3sXTg8HJL6TdpNtADdlDIW"
@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Rah",
+        "url": "https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw"
+      },
+      "artists": [
+        {
+          "name": "Desire Marea",
+          "url": "https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C"
+        },
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535201,
+      "name": "Rah (feat. Zo\u00eb Modiga)",
+      "url": "https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT"
+    },
+    {
+      "album": {
         "name": "Thandi Ntuli (Live at Jazzwerkstatt)",
         "url": "https://open.spotify.com/album/00igLPQBrtQR2DlH4R96w0"
       },
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 884935,
       "name": "Rainbow (Live)",
       "url": "https://open.spotify.com/track/05hWCVraaBWQ07R7fgr0we"
@@ -1546,6 +1568,24 @@
       "duration_ms": 319500,
       "name": "Resonance of Truth",
       "url": "https://open.spotify.com/track/4EoHAXteZOnhNhw90XzilV"
+    },
+    {
+      "album": {
+        "name": "Rites",
+        "url": "https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40"
+      },
+      "artists": [
+        {
+          "name": "Vuma Levin",
+          "url": "https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394316,
+      "name": "Rites",
+      "url": "https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1"
     },
     {
       "album": {
@@ -1658,7 +1698,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 375986,
       "name": "Space Ship",
       "url": "https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS"
@@ -1698,7 +1738,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 388080,
       "name": "The Coming Of The Strange Ones",
       "url": "https://open.spotify.com/track/79RXo9QQNREbGI1vITMJGj"

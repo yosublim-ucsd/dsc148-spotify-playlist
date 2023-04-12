@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Supercombo, kamaitachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,468 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,513 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 71 | [Desapego](https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB) | [Vice\-Herói](https://open.spotify.com/artist/6cIlz91P4JYOAmdpZTYXnB) | [Vice\-Herói](https://open.spotify.com/album/11RcseLlq4wApBhyLZPRxh) | 2:58 |
 | 72 | [mais um lance](https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [mais um lance](https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT) | 3:01 |
 | 73 | [Feito pra Durar](https://open.spotify.com/track/1KXxGHLdrdwhXKYzuIa3Qv) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Feito pra Durar](https://open.spotify.com/album/0w1RqcFt7Wp4yj51VfirXU) | 5:01 |
-| 74 | [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 |
+| 74 | [festa estranha](https://open.spotify.com/track/5jt176s3kzyjs9ZCHCqQ7d) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/2jerBoGv1KIo9QQd3xkiOZ) | 2:51 |
 | 75 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 
-Snapshot ID: `MTY4MDgzNjU4MCwwMDAwMDAwMDVlNTIzOWUyNGVjZjRhYzZlZTYwNDc3N2FmOTgwMGNj`
+Snapshot ID: `MTY4MDgzNjU4MCwwMDAwMDAwMGIzODczZTRmYzc1YWEyMTM5YjEzNjM1NzljMDQ3YjY5`

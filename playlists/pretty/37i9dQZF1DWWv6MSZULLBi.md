@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,973 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,979 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 34 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 35 | [Ordinary Life](https://open.spotify.com/track/6WglLNlpso0q61JbpmdczH) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Ordinary Life](https://open.spotify.com/album/2SrWPgxBxQxbUlhT6cb1bC) | 3:19 |
 | 36 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 |
-| 37 | [just wanna forget you](https://open.spotify.com/track/19FBPoxwTB7kbMEcYsDGVr) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:49 |
+| 37 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
 | 38 | [Head for the Hills](https://open.spotify.com/track/5bHRKDpqLnd9BbEGVftLx3) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Head for the Hills](https://open.spotify.com/album/7GYcM2vYvD93Q0k1ECsUZR) | 4:39 |
 | 39 | [Blissful Lands](https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Blissful Lands](https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS) | 2:59 |
 | 40 | [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 46 | [Helium](https://open.spotify.com/track/29Ps05CZfLWtphvEknN0bO) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Homemaker](https://open.spotify.com/album/7tJSsud0MYEnWmD7fSd3BE) | 3:49 |
 | 47 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 |
 | 48 | [Critics \(Fifty Bucks\)](https://open.spotify.com/track/3Rj0bNJuUI2X1XD3XxEhpf) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [Thank You for Trying: ACT I & II](https://open.spotify.com/album/41RfKM7fvvt57gQcZKe60q) | 4:12 |
-| 49 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/4EZQfjnmP76FcbrXFBK3GL) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:38 |
+| 49 | [juro que vi flores \(feat\. Silvia Pérez Cruz\)](https://open.spotify.com/track/2O66aZnKeRIa0P1lx2VZmf) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:38 |
 | 50 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
 | 51 | [Another Love](https://open.spotify.com/track/6kUbsWrqQ17sL0Fc00FUvA) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Another Love](https://open.spotify.com/album/5TQ7eGVZjZw9Bh4i6Prhv7) | 3:46 |
 | 52 | [All I Need](https://open.spotify.com/track/5jBZSh7u8Af31hRzNbyY3z) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [All I Need](https://open.spotify.com/album/56SM0Astc88nwn9KA6KM7n) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [You Could Be Free](https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Could Be Free](https://open.spotify.com/album/4Bog6J0ArjOtPH9mPAqHnl) | 3:07 |
 | 100 | [Turpentine](https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [Turpentine](https://open.spotify.com/album/16uVEqnUKB1BJNHvmWYaF0) | 3:13 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDQwYTdjM2ZhYjNlOGFhMGQ1NjllNWM2ODhkMGE5MTFm`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDIzNDM5ZDIwZTU5YTdiNWNkZDM0NzQwMzVkNjIyMWM1`

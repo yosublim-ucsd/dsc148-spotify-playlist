@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 146318,
+  "num_followers": 146333,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGNiMTk2OTQ3NDA0ZjA3ZDUzOGJjZTAwNGFjMjE4Njkw",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMDhiNGExMTU5OTVhYWMxM2I2OGVjYmI4Nzc2MzNjOWU3",
   "tracks": [
     {
       "added_at": "2023-03-31 03:01:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
-      "added_at": "2023-04-11 00:58:56",
+      "added_at": "2023-04-12 00:06:05",
       "album": {
         "name": "Recinto",
         "url": "https://open.spotify.com/album/2EK43yizJmRkxIxzsBPLWA"
@@ -319,34 +319,6 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "At\u00e9 o Final",
-        "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Ca\u00edque",
-          "url": "https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 144682,
-      "name": "At\u00e9 o Final",
-      "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
         "name": "Idas e Vindas",
         "url": "https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6"
       },
@@ -375,6 +347,34 @@
       "duration_ms": 238763,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
+        "name": "At\u00e9 o Final",
+        "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Ca\u00edque",
+          "url": "https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 144682,
+      "name": "At\u00e9 o Final",
+      "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "ELA ME TEM",
-        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
       },
       "artists": [
         {
-          "name": "Ikki",
-          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
         }
       ],
-      "duration_ms": 147200,
-      "name": "ELA ME TEM",
-      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1111,6 +1111,22 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
+        "name": "ELA ME TEM",
+        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "ELA ME TEM",
+      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
         "name": "V\u00e1rios Planos",
         "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
@@ -1267,18 +1283,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
       },
       "artists": [
         {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+          "name": "Katari SC",
+          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
+        },
+        {
+          "name": "Neto S.",
+          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
         }
       ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+      "duration_ms": 197333,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1307,26 +1327,6 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
-      },
-      "artists": [
-        {
-          "name": "Katari SC",
-          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
-        },
-        {
-          "name": "Neto S.",
-          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-03-31 03:01:00",

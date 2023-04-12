@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "album": {
         "name": "All The Mountains Are High",
         "url": "https://open.spotify.com/album/7zdQmkFuR9mgtiHo2CVf6H"
       },
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 110793,
       "name": "Bate Forte e Dan\u00e7a",
       "url": "https://open.spotify.com/track/3WgeWkA124RA02ACzWai6Y"
@@ -5738,7 +5756,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 136875,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/4unpSpFKk3d8H08AmLvrHj"
@@ -5818,6 +5836,24 @@
       "duration_ms": 61074,
       "name": "DE GLOCK RAJADA AQUI NO PPG",
       "url": "https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz"
+    },
+    {
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306655,
+      "name": "DEATH",
+      "url": "https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs"
     },
     {
       "album": {
@@ -7019,6 +7055,28 @@
     },
     {
       "album": {
+        "name": "ELA PIROU NA DODGE RAM",
+        "url": "https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179599,
+      "name": "ELA PIROU NA DODGE RAM",
+      "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
+    },
+    {
+      "album": {
         "name": "Ela Quer Fumar Do Rush",
         "url": "https://open.spotify.com/album/2UsH5TvCpBzwm1oOhzrUxT"
       },
@@ -7252,6 +7310,24 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Seresta pra Pared\u00e3o 3.0",
+        "url": "https://open.spotify.com/album/0fgAwNfRajNcfeYsFKZfev"
+      },
+      "artists": [
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192731,
+      "name": "Erro Gostoso",
+      "url": "https://open.spotify.com/track/1RlRWXwiAyKgcBA407pmpZ"
     },
     {
       "album": {
@@ -7698,6 +7774,24 @@
       "duration_ms": 175080,
       "name": "Eu e Voc\u00ea Estava Escrito nas Estrelas",
       "url": "https://open.spotify.com/track/2aM5L9T3ZGa3ynT4QbU6so"
+    },
+    {
+      "album": {
+        "name": "Eu Fiz um Jet Com a Irm\u00e3 do Par\u00e7a X Beat Risada",
+        "url": "https://open.spotify.com/album/2bQMKsHCeA0ow9oMIp4HiM"
+      },
+      "artists": [
+        {
+          "name": "DJ LD DOS PREDIN",
+          "url": "https://open.spotify.com/artist/6B1wr4H6MlD4HcOMklnQ4p"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96623,
+      "name": "Eu Fiz um Jet Com a Irm\u00e3 do Par\u00e7a X Beat Risada",
+      "url": "https://open.spotify.com/track/5DkhiK4gmkI4drczyKKjes"
     },
     {
       "album": {
@@ -11154,7 +11248,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 134691,
       "name": "Joga pro Corola",
       "url": "https://open.spotify.com/track/3AdQetfBYgudLzlOoqshIw"
@@ -11378,7 +11472,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 236293,
       "name": "King For A Day",
       "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
@@ -11538,7 +11632,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -11928,6 +12022,24 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
     },
     {
       "album": {
@@ -13862,7 +13974,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 154694,
       "name": "MINHA CURA",
       "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
@@ -14030,7 +14142,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 153238,
       "name": "Montagem - Conga Conga (Remix)",
       "url": "https://open.spotify.com/track/4h3IQVSBs8lbFCvwMjGp83"
@@ -15224,7 +15336,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 160975,
       "name": "Noite Fria",
       "url": "https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY"
@@ -15738,7 +15850,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS"
@@ -18151,6 +18263,28 @@
     },
     {
       "album": {
+        "name": "Primeiro Lugar do P\u00f3dio",
+        "url": "https://open.spotify.com/album/0nnlmV8iDmTxj4Bon4EvNZ"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123515,
+      "name": "Primeiro Lugar do P\u00f3dio",
+      "url": "https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5"
+    },
+    {
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -19080,6 +19214,24 @@
       "duration_ms": 153437,
       "name": "RITMADA SIGILOSA",
       "url": "https://open.spotify.com/track/18BnpVPlaPsHIK7fhHz5mq"
+    },
+    {
+      "album": {
+        "name": "RITMADINHA DAN\u00c7ANTE",
+        "url": "https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu"
+      },
+      "artists": [
+        {
+          "name": "DJ GUDOG",
+          "url": "https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125508,
+      "name": "RITMADINHA DAN\u00c7ANTE",
+      "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
     },
     {
       "album": {
@@ -20195,6 +20347,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "album": {
         "name": "Set Wesley Alem\u00e3o",
         "url": "https://open.spotify.com/album/1ZX4j5ohvPIOVaII5cB3Da"
       },
@@ -20659,6 +20829,28 @@
     },
     {
       "album": {
+        "name": "Episode1 : Love",
+        "url": "https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Smoke Sprite (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
+    },
+    {
+      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
       },
@@ -20884,7 +21076,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 256567,
       "name": "Sonho",
       "url": "https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N"
@@ -23521,6 +23713,32 @@
     },
     {
       "album": {
+        "name": "Vacil\u00e3o",
+        "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Igow",
+          "url": "https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "Vacil\u00e3o",
+      "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
+    },
+    {
+      "album": {
         "name": "Vai dar PT",
         "url": "https://open.spotify.com/album/5meX0ewl7cSOu4hwzXC5Ez"
       },
@@ -24122,7 +24340,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"

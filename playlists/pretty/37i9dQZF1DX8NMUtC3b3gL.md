@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,667 likes - 231 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,788 likes - 231 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 83 | [Daydreaming](https://open.spotify.com/track/1uURYg5bMU1Jmct8hd2eaK) | [Mr.Mahous](https://open.spotify.com/artist/3f3P7pxs9gtHuN7nNUDHFh), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Daydreaming](https://open.spotify.com/album/4lrmC0sc4JV74vAESVSxH2) | 2:39 |
 | 84 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 |
 | 85 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 |
-| 86 | [Wind Shear](https://open.spotify.com/track/33xRLRHq485anywUECESNa) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu), [Fayelo](https://open.spotify.com/artist/1K18BNpoYTlf251GQL1Mdz) | [Wind Shear](https://open.spotify.com/album/4sy9xkgUrclVbLqqVXslrq) | 2:44 |
+| 86 | [Wind Shear](https://open.spotify.com/track/33xRLRHq485anywUECESNa) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Wind Shear](https://open.spotify.com/album/4sy9xkgUrclVbLqqVXslrq) | 2:44 |
 | 87 | [Chen](https://open.spotify.com/track/0Y7igTuXHLFO41mnaShhLw) | [JimmieLuv](https://open.spotify.com/artist/2E3vr1mH5nTjLRPDRdUcO2) | [Chen](https://open.spotify.com/album/5l2P8YxW3MQ4s1n95V5voL) | 2:25 |
 | 88 | [leave the lights on](https://open.spotify.com/track/7d5KOapwEiUVGxa9fGOD8a) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [leave the lights on](https://open.spotify.com/album/7sh2RAqZITfrhnAOhoTKmi) | 2:12 |
 | 89 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 |

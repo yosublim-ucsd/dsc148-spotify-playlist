@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Brahmāstra
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,078 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,331 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 21 | [Srivalli](https://open.spotify.com/track/1xkkeOtWvzmhjgLqxMJ3zR) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Pushpa The Rise Part \- 01](https://open.spotify.com/album/5fSvW3ie7cwECAt9h9pgQl) | 3:44 |
 | 22 | [Rasiya Reprise](https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:45 |
 | 23 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 |
-| 24 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi Sripada](https://open.spotify.com/artist/3MB1ePz3FVSQzFfI9v6KgD), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 |
+| 24 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 |
 | 25 | [Aabaad Barbaad \(From "Ludo"\)](https://open.spotify.com/track/0hFUtSsV2itYEUTZGj6w5H) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aabaad Barbaad \(From "Ludo"\)](https://open.spotify.com/album/1PzsfgcbPbiW7uflc9Zi5Z) | 5:09 |
 | 26 | [Nazar Na Lag Jaaye](https://open.spotify.com/track/0EPTGML5v37lIp97WBMMvD) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Stree](https://open.spotify.com/album/2Z1LgolP3fqxEJ89MS7n9C) | 3:26 |
 | 27 | [Tu Jo Mila](https://open.spotify.com/track/7txLCGOXyDlDXTjtR1Sk4v) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:02 |

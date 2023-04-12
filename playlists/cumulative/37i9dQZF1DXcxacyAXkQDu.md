@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-854 songs - 2 day 2 hr 38 min
+855 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Feel About You](https://open.spotify.com/track/4TtuBJndJBA7cEq8ZmFY1t) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [Feel About You](https://open.spotify.com/album/3SrY29FmKk8C2Z9W3gAsPf) | 3:20 | 2022-03-24 | 2022-07-29 |
 | [Feel About You](https://open.spotify.com/track/6AC3iPxo3akgoxAyb6PBOU) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [Feel About You](https://open.spotify.com/album/4TWyibHclHUOEsGqTQxgSh) | 3:20 | 2022-11-11 | 2022-11-13 |
 | [Fickle Heart](https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/21ZFNf9XDz8VKorfCRVis0) | 3:21 | 2021-12-21 | 2023-02-28 |
+| [Fickle Heart](https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z) | 3:21 | 2023-02-17 |  |
 | [Fight For You](https://open.spotify.com/track/39b57sOdT2Rq8dV73tXLnQ) | [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Fight For You](https://open.spotify.com/album/34FWkEPkGoKb2cSPef1nmF) | 3:05 | 2022-01-07 | 2022-06-08 |
 | [Fight For You](https://open.spotify.com/track/3YGTxLdUcOk5upQGt7iYC4) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [ZAY](https://open.spotify.com/artist/3ziV4m3hRoAABPnGVWrIAL) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:05 | 2022-07-08 | 2022-08-23 |
 | [Fight Song \- Acoustic version](https://open.spotify.com/track/4UaxxZPHAlBEwtI0roFdSG) | [SAFARI](https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK) | [Fight Song](https://open.spotify.com/album/25kZ8tRCpxb2g3QcskOMOa) | 4:02 | 2022-07-08 | 2022-10-18 |
@@ -659,7 +660,7 @@
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-12-21 | 2022-04-27 |
 | [Sparks](https://open.spotify.com/track/19HrCVM94TT07X70j9ajQ8) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Moon Rocks](https://open.spotify.com/album/5EfjqbNDZEGRy6HxucVXL5) | 4:21 | 2022-03-24 | 2022-04-21 |
 | [Splintered](https://open.spotify.com/track/4ImN33OfhmbjjWBAB7pElK) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/1LwaJSz2vxOtE5nq4P4khN) | 4:10 | 2022-03-24 | 2022-04-14 |
-| [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 |  |
+| [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 | 2023-04-12 |
 | [Stars](https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe) | [Traveling John](https://open.spotify.com/artist/6AfxRBowNEDZpYKmoWcBm9) | [Stars](https://open.spotify.com/album/2OHOBLjEHxYSXIK5S0rbCA) | 2:48 | 2021-12-21 | 2022-07-29 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2022-03-24 | 2022-04-02 |
 | [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2023-01-06 |  |

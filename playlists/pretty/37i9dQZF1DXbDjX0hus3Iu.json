@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 471416,
+  "num_followers": 471486,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDQ1NTA2MTIzNTUzYTljOGUxZmE4YzEzYjk4YjI3YzZm",
+  "snapshot_id": "MTY3NDA3ODc3NSwwMDAwMDAwMDVlMTJjYjIxYTg3YmNjMjdiM2M2OTQyMjBhNTJjYzY3",
   "tracks": [
     {
       "added_at": "2023-01-18 21:52:55",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Laid Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
+        "name": "Brothers And Sisters (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw"
       },
       "artists": [
         {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 267363,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
+      "duration_ms": 288160,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+        "name": "Laid Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
-      "duration_ms": 222893,
-      "name": "I'm No Angel",
-      "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
+      "duration_ms": 267363,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "I'm No Angel",
+      "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
         "name": "The Deep End Vol. 1",
         "url": "https://open.spotify.com/album/378K25f02JVVcrMbeL6Pp1"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Brothers And Sisters (Super Deluxe)",
-        "url": "https://open.spotify.com/album/3ScnBmNrSaz9YHNNwceSXw"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 288160,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/7y4CK8bbzxpyKu73WOvgHJ"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 450333,
       "name": "Highway Song",
       "url": "https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 227751,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 426000,
-      "name": "Dreams I'll Never See",
-      "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
         }
       ],
-      "duration_ms": 227751,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
+      "duration_ms": 426000,
+      "name": "Dreams I'll Never See",
+      "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Bounty Hunter",
-      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
-    },
-    {
-      "added_at": "2023-01-18 21:52:55",
-      "album": {
         "name": "Til the Medicine Takes",
         "url": "https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 281640,
       "name": "Climb to Safety",
       "url": "https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf"
+    },
+    {
+      "added_at": "2023-01-18 21:52:55",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Bounty Hunter",
+      "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Ain't Life Grand",
-        "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
       "artists": [
         {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Ain't Life Grand",
-      "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
+      "duration_ms": 376666,
+      "name": "Gator Country",
+      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
     },
     {
       "added_at": "2023-01-18 21:52:55",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-18 21:52:55",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+        "name": "Ain't Life Grand",
+        "url": "https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU"
       },
       "artists": [
         {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gator Country",
-      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
+      "duration_ms": 287040,
+      "name": "Ain't Life Grand",
+      "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
     },
     {
       "added_at": "2023-01-18 21:52:55",

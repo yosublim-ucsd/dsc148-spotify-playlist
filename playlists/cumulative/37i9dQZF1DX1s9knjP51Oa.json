@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Dovetail",
+        "url": "https://open.spotify.com/album/5Ak0Ffw2LmbrMaKPZsqWKJ"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121318,
+      "name": "Dovetail",
+      "url": "https://open.spotify.com/track/25UlllA0GGWjKK8ndbBk57"
+    },
+    {
+      "album": {
         "name": "Dream In Color",
         "url": "https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU"
       },
@@ -2818,6 +2836,24 @@
       "duration_ms": 278342,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0T8qo3Tr3rgGhYky5t2L5U"
+    },
+    {
+      "album": {
+        "name": "Eclipsis",
+        "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146079,
+      "name": "Eclipsis",
+      "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
     },
     {
       "album": {
@@ -6956,6 +6992,24 @@
       "duration_ms": 193997,
       "name": "Next Part Of The Dream",
       "url": "https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG"
+    },
+    {
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX"
+      },
+      "artists": [
+        {
+          "name": "Coeur",
+          "url": "https://open.spotify.com/artist/5YRwec5e32jsHSKX1nKHEO"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm"
     },
     {
       "album": {

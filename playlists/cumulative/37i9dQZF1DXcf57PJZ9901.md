@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcf57PJZ9901.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcf57PJZ9901) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcf57PJZ9901)
 
-### [10s Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DXcf57PJZ9901)
+### [10s Easy Rock](https://open.spotify.com/playlist/37i9dQZF1DXcf57PJZ9901)
 
-> The best soft rock from the 2010s\. Cover: Keane
+> The best easy rock from the 2010s\. Cover: Keane
 
 129 songs - 8 hr 21 min
 

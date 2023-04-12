@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70100,
+  "num_followers": 70118,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyNTY2MCwwMDAwMDAwMDk1NTQ4N2NmOTRiODc5OGIwNTcwOTczMTA2YTlmM2Nh",
+  "snapshot_id": "MTY4MDgyNTY2MCwwMDAwMDAwMDVhNmYzMTQyYmIyNGU1YzlkZWQ5ZTk5MjkyNzFkMTI4",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Days of Being Wild",
-        "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 50014,
-      "name": "Twins",
-      "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Shapes of the Fall",
         "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 211600,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Days of Being Wild",
+        "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 50014,
+      "name": "Twins",
+      "url": "https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Legs to Make us Longer",
-        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
-      },
-      "artists": [
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Can the Gwot Save Us?",
-      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Willow Witchin' (Hot Take)",
         "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 150941,
       "name": "Willow Witchin' (Hot Take)",
       "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Legs to Make us Longer",
+        "url": "https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL"
+      },
+      "artists": [
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Can the Gwot Save Us?",
+      "url": "https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Jesus I'm a Sinner",
         "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 287493,
       "name": "Rondo in D - On Southern Themes",
       "url": "https://open.spotify.com/track/1TIC8q2kyazBKXExaHySUr"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "County Farm Blues",
-        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "County Farm Blues",
-      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Alaska Blue",
         "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 332240,
       "name": "Memoria Djalma",
       "url": "https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Landscape and People",
-        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
-      },
-      "artists": [
-        {
-          "name": "Nick Schillace",
-          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
-        }
-      ],
-      "duration_ms": 379453,
-      "name": "A Real State of Independence",
-      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Guitar Routes",
         "url": "https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+        "name": "Landscape and People",
+        "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
       "artists": [
         {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+          "name": "Nick Schillace",
+          "url": "https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM"
         }
       ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+      "duration_ms": 379453,
+      "name": "A Real State of Independence",
+      "url": "https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj"
     },
     {
       "added_at": "2023-04-07 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Cazzu y Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,790 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,838 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Deja de Celar](https://open.spotify.com/track/3LRNdWMRnn0WTE2nESIqxL) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Nicky Nicky](https://open.spotify.com/artist/3cTmwoYOKB3TgUulnKCLO3) | [Deja de Celar](https://open.spotify.com/album/5tG0f53MK3b6GSKWrVdyyQ) | 2:19 |
 | 39 | [Cuando Me Hayas Perdido](https://open.spotify.com/track/7CZw1UNzbvrmW1bMK7U8Ly) | [ANDER DEFRANK](https://open.spotify.com/artist/15MCoBJv3FwrZE1F4MNkGT), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Cuando Me Hayas Perdido](https://open.spotify.com/album/14clFFI0eKdesRHFlQYkyD) | 3:54 |
 | 40 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 |
-| 41 | [CHELA VENETA](https://open.spotify.com/track/5sL6dXdOThCLWGeC1BBskr) | [Neron Delta](https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO), [Maiki Perreo](https://open.spotify.com/artist/4St8cPWIPfLl6jk9xF1pEo), [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf), [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr) | [CHELA VENETA](https://open.spotify.com/album/3Oe0RjJsBpmOKTlJ4XGLbp) | 3:00 |
+| 41 | [CHELA VENETA](https://open.spotify.com/track/5sL6dXdOThCLWGeC1BBskr) | [Neron Delta](https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO), [Maiki Perreo](https://open.spotify.com/artist/4St8cPWIPfLl6jk9xF1pEo), [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf), [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr), [Sxbastixn bae](https://open.spotify.com/artist/3Un5VqOO4ezNm67zeXRL8Q) | [CHELA VENETA](https://open.spotify.com/album/3Oe0RjJsBpmOKTlJ4XGLbp) | 3:00 |
 | 42 | [TRATO](https://open.spotify.com/track/4W2p5xqBjV8xAlFNsbrJS5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [TRATO](https://open.spotify.com/album/3oUnBsatAFgBW0uRYysmys) | 2:48 |
 | 43 | [A Diamond In Ashes](https://open.spotify.com/track/31Y7GTUiLoNZK3TcQIrzu8) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [A Diamond In Ashes](https://open.spotify.com/album/5erzaRQqc1tFjqAwzfjrzF) | 3:18 |
 | 44 | [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 |

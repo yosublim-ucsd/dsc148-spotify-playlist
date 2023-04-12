@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,583 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,618 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 54 | [Down On The Bottom](https://open.spotify.com/track/2zMXaBISwWgCM7zvYmk2h4) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 4:28 |
 | 55 | [Political World](https://open.spotify.com/track/0WTjEhREeHqNbKcULFhVLw) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 2:48 |
 | 56 | [You Ain't Goin' Nowhere \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0tZczyOySxAxOxa5mjoZga) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 3:24 |
-| 57 | [When The Ship Comes In](https://open.spotify.com/track/0gb7G6NszH5a1CoqZXp711) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Voice of Ages](https://open.spotify.com/album/6tjF20Xh7kOpkv3rvRU1mt) | 3:26 |
+| 57 | [When The Ship Comes In \- Deluxe Edition](https://open.spotify.com/track/0gb7G6NszH5a1CoqZXp711) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Voice of Ages](https://open.spotify.com/album/6tjF20Xh7kOpkv3rvRU1mt) | 3:26 |
 | 58 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 |
 | 59 | [Don't Think Twice It's Alright](https://open.spotify.com/track/2DiRa8VoCnzQXQ7eGu2Bp7) | [Ted Lennon](https://open.spotify.com/artist/61lZITYCgQ3S0tBzdPogaf), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Don't Think Twice It's Alright](https://open.spotify.com/album/5uaHqdgUeFNAxFGdO9cjRk) | 4:04 |
 | 60 | [My Back Pages](https://open.spotify.com/track/3pO0GSjRmIQYnJWANtrzjU) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Sidetracks](https://open.spotify.com/album/6QpicGbHE5NjXzHQHvHzlX) | 4:07 |

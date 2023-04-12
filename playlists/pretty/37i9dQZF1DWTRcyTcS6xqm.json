@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 8997,
+  "num_followers": 9006,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGU5Y2FiMzM1ZDUwOGM4OGY1NGQ1ZTgzYTM1ZDUwMDJm",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDU4ZGI3ODkyNjk4ZmI3YTk4ZjJlMDA2YTk3N2Q0OWEx",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Whatcha Gon' Do",
+      "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 239386,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Whatcha Gon' Do",
-      "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
     },
     {
       "added_at": "2021-11-05 04:00:00",

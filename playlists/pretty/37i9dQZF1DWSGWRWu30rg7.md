@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Neona
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,804 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,806 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 7 | [Hilang](https://open.spotify.com/track/0rNHZsdF2brOWLmxIjdnZv) | [2 Steps North](https://open.spotify.com/artist/5G7NSCJGYmn4ebxqbZ8ucF) | [Hilang](https://open.spotify.com/album/7jkvrwkZAjnfAraM5YrZuJ) | 4:32 |
 | 8 | [Sembunyi](https://open.spotify.com/track/7E5Rfa1fqprrYMUeSOa6KG) | [Matisuri](https://open.spotify.com/artist/6oBmr2gjtlfmIR8t8SXoJ7) | [Sembunyi](https://open.spotify.com/album/0g1K6kaQVdgs406s0W4s5C) | 4:15 |
 | 9 | [Summer 06'](https://open.spotify.com/track/6gMwl8Gx9w7DpSYh2IJXs9) | [The Rentenir](https://open.spotify.com/artist/2jclX5VpnewFBmChNZT3RY) | [Summer 06'](https://open.spotify.com/album/1EtENlHKxhhAn8Ylh6Q1jy) | 4:10 |
-| 10 | [Grateful](https://open.spotify.com/track/1zzzcBjIgSNe1MuE81ZKIp) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw), [Gok Malau](https://open.spotify.com/artist/5g61CgtjkYr7XMGQvgtM6l), [Stephanie](https://open.spotify.com/artist/1fOZOi2dKy57s1B2q2dxhO) | [Grateful](https://open.spotify.com/album/3t1OSpGaVdsoqStvF6Sb7z) | 3:56 |
+| 10 | [Grateful](https://open.spotify.com/track/1zzzcBjIgSNe1MuE81ZKIp) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw), [Gok Malau](https://open.spotify.com/artist/5g61CgtjkYr7XMGQvgtM6l), [Stephanie](https://open.spotify.com/artist/1fOZOi2dKy57s1B2q2dxhO) | [Grateful](https://open.spotify.com/album/3t1OSpGaVdsoqStvF6Sb7z) | 3:53 |
 | 11 | [Don't Go](https://open.spotify.com/track/1SxKHdPloHPZ4UiTRQGeRx) | [Sasan Fai](https://open.spotify.com/artist/3JZiRpbSS6CMNUrmO072jA) | [Don't Go](https://open.spotify.com/album/2VzRtyxva0pAY0Kq0OeOBg) | 3:59 |
 | 12 | [WELCOME TO FREE YORK CITY \- Icebox Remix](https://open.spotify.com/track/4LypLPc1nrXfWYmlPRLNwj) | [DOMS DEE](https://open.spotify.com/artist/2lLBY4Rsrcy0gEMVHrXgFO), [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze), [ICEBOX](https://open.spotify.com/artist/7LEtJGynwYKF0JzaTOrtnw) | [WELCOME TO FREE YORK CITY \(Icebox Remix\)](https://open.spotify.com/album/0Z4L7Af52KFi3x4T5HCQeV) | 3:16 |
 | 13 | [DON'T](https://open.spotify.com/track/0sNssaLp76SeW35nTHCQMT) | [it's farhan](https://open.spotify.com/artist/6mEfxrmd7v1BW4jidNNZXr), [RFG](https://open.spotify.com/artist/0AjTcs13ElLp0am6mEP39e) | [DON'T](https://open.spotify.com/album/0aG2Mqdxmh7Go0fflSHMI2) | 4:11 |

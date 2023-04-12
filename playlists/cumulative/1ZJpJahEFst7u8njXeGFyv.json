@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58562,
+      "name": "(ouverture)",
+      "url": "https://open.spotify.com/track/2sZSFHMnS96raNprOizVAY"
+    },
+    {
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
@@ -243,6 +261,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
+    },
+    {
+      "album": {
         "name": "The Piano Guys",
         "url": "https://open.spotify.com/album/1gIuyEXICtt24CEKrYSOw8"
       },
@@ -280,6 +316,24 @@
       "duration_ms": 156125,
       "name": "Actus Tragicus",
       "url": "https://open.spotify.com/track/06nQxho75Nx12DgNyhcNZJ"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Ad Libre",
+      "url": "https://open.spotify.com/track/1YjNtHpX8AW4AsjYOMheLd"
     },
     {
       "album": {
@@ -406,10 +460,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 291626,
       "name": "Ahead of Us - Piano Version",
       "url": "https://open.spotify.com/track/29KWn4pt1Tw4VrU2SkujN6"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251140,
+      "name": "Air de famille",
+      "url": "https://open.spotify.com/track/46IbRcFWxyagWFwPpEVQyJ"
     },
     {
       "album": {
@@ -700,6 +772,24 @@
       "duration_ms": 189098,
       "name": "blood orange",
       "url": "https://open.spotify.com/track/7DP7g9bHXwa9QI5CEMxC0v"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "BORDERS",
+      "url": "https://open.spotify.com/track/0irzjMVH1u8nG2mWZc2h2S"
     },
     {
       "album": {
@@ -1024,6 +1114,24 @@
       "duration_ms": 130701,
       "name": "Cornfield Chase (From \"Interstellar\") - Midnight Sessions at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/0f65WejrgXKet9klHr5Tcc"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232967,
+      "name": "Dans les bois",
+      "url": "https://open.spotify.com/track/3esfnvt9qlb6tb2xW4mTqI"
     },
     {
       "album": {
@@ -1833,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66312,
+      "name": "In the air",
+      "url": "https://open.spotify.com/track/3I1pnO2JuYRAX8HG89M6xe"
+    },
+    {
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9"
       },
@@ -2290,6 +2416,24 @@
       "duration_ms": 202560,
       "name": "lumina",
       "url": "https://open.spotify.com/track/2chguT5MNB67ujORKGn8kz"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228851,
+      "name": "Lumi\u00e8res",
+      "url": "https://open.spotify.com/track/22Lvk7dNUOrHesZvr6VaBN"
     },
     {
       "album": {
@@ -2836,6 +2980,24 @@
       "duration_ms": 257146,
       "name": "On Eloquence",
       "url": "https://open.spotify.com/track/7DEhPnnzuzUbyufT7JIGnO"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212368,
+      "name": "one last dance",
+      "url": "https://open.spotify.com/track/0I0O1zZCFT2SlJ3oKcrQ9H"
     },
     {
       "album": {
@@ -3583,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209232,
+      "name": "R\u00eaveries",
+      "url": "https://open.spotify.com/track/6uXz9bGqu5W4AdprYZkaAK"
+    },
+    {
+      "album": {
         "name": "saltvatten",
         "url": "https://open.spotify.com/album/5VD9rqpIxYnC45MIctC1Gv"
       },
@@ -4105,6 +4285,24 @@
     },
     {
       "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211249,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/3K14Tcm9Cv5mvefYNFyNop"
+    },
+    {
+      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -4204,6 +4402,42 @@
       "duration_ms": 133293,
       "name": "The Fabelmans",
       "url": "https://open.spotify.com/track/0hQH6GWZcT0KTx8ZMWezBl"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218752,
+      "name": "the first kiss",
+      "url": "https://open.spotify.com/track/3SR2YkLGs17l8HAF00FQva"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "The hills",
+      "url": "https://open.spotify.com/track/1SwNlD33KrgiyQ5nyP22zT"
     },
     {
       "album": {
@@ -4942,6 +5176,24 @@
       "duration_ms": 253201,
       "name": "\u00c9l\u00e9gie",
       "url": "https://open.spotify.com/track/4t9opZlYVkN78Rh29Pf0YQ"
+    },
+    {
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253201,
+      "name": "\u00c9l\u00e9gie",
+      "url": "https://open.spotify.com/track/5qPmvu1rPAstoXrzAeFgX9"
     },
     {
       "album": {

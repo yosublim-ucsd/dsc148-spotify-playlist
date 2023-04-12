@@ -1,15 +1,35 @@
 {
   "description": "Meet Joe Hisaishi, a one-of-a-kind composer/musician known for his world famous \"Studio Ghibli\" film scores, as well as countless other classics.",
-  "num_followers": 170755,
+  "num_followers": 170917,
   "original_name": "This Is \u4e45\u77f3\u8b72 -Joe Hisaishi-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTM4NTIwMCwwMDAwMDAwMGI2M2ZiYjkwOTMzOTc5MTg5ZTllNDE3MWJiYjBjMDcx",
+  "snapshot_id": "MTY4MTI2MDg5MywwMDAwMDAwMDRmMWY3ZDE1ZWVjYWJiNzBlNjNiMWQwNGFmNmVkOThk",
   "tracks": [
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
+      "album": {
+        "name": "Merry-Go-Round of Life (from 'Howl\u2019s Moving Castle')",
+        "url": "https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "\u30ed\u30a4\u30e4\u30eb\u30fb\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30fc\u7ba1\u5f26\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I"
+        }
+      ],
+      "duration_ms": 164931,
+      "name": "Merry-Go-Round of Life - from 'Howl\u2019s Moving Castle'",
+      "url": "https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF"
+    },
+    {
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Songs of Hope: The Essential Joe Hisaishi Vol. 2",
         "url": "https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/2c3wkztuWgSjrVFKCeNOIJ"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Songs of Hope: The Essential Joe Hisaishi Vol. 2",
         "url": "https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/1pACiYWfCSt4d1prtS0orM"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Songs of Hope: The Essential Joe Hisaishi Vol. 2",
         "url": "https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/2EvkfIfHqmLlKkKc3tcfPw"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30df\u30cb\u30de\u30ea\u30ba\u30e04",
         "url": "https://open.spotify.com/album/4E6ic6qxhtxf89Jw84QHnF"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/4v3rgEKIkgPspFRPDOgkse"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30e1\u30ed\u30c7\u30a3\u30d5\u30a9\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/24yI12lKyeNrN7yEAPVc8j"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Symphonic Suite \u201cKiki\u2019s Delivery Service\u201d",
         "url": "https://open.spotify.com/album/1KBEf92eBTtfJQU5C7wmf0"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/3TWA7l03qmqOdz1KcmMtun"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30e1\u30ed\u30c7\u30a3\u30d5\u30a9\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/2Cxe8qnbsyeXCOpNg05KVl"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "FREEDOM PIANO STORIES 4",
         "url": "https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u8d64\u72d0\u66f8\u751f (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/2FNZ5VQ1qbxZbc8TjfZvhN"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/03LNKvnFazBK01qeFKpFUc"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "PIANO STORIES II ~The Wind of Life~",
         "url": "https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/47fjdEwVngKqmgda3UR3Rl"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30e1\u30ed\u30c7\u30a3\u30d5\u30a9\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/2z2kBkInoDmwK76hyYxF0y"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "NOSTALGIA ~PIANO STORIES III~",
         "url": "https://open.spotify.com/album/4Z1qtLN27lY8ot9UhlXGWr"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/4xndTd6SpIVTd9cqCMxoAi"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u6d77\u7363\u306e\u5b50\u4f9b (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/43COPRuzSnaFNjD8hTJXqt"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/3HGxy0PG0zQfgu52MtGLmE"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Piano Stories Best '88-'08",
         "url": "https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/2fdUpUqlKD80NlxYVyjuK6"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "NOSTALGIA ~PIANO STORIES III~",
         "url": "https://open.spotify.com/album/4Z1qtLN27lY8ot9UhlXGWr"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/6thjKtlVjr9KgBXkjm3EGe"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Kids Return (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/32TaUR88QyqMkXT4h7ffm0"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/7KFxjEHFT3KHLeD5hbohIk"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Dream Songs: The Essential Joe Hisaishi",
         "url": "https://open.spotify.com/album/0QdrFLgqjMzhaXDd0UmU1T"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/1PNAKxLxzyBIhOjPLwwo1W"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Dream Songs: The Essential Joe Hisaishi",
         "url": "https://open.spotify.com/album/0QdrFLgqjMzhaXDd0UmU1T"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/6WJn1EM5yVmTZPUMBWcGB2"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Piano Stories Best '88-'08",
         "url": "https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/1LgwGazm8mMqgkPOV9Ov0O"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/21KGv1YczcrXZWbcRPvBRG"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Piano Stories Best '88-'08",
         "url": "https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/1lXB18NE2eoJmVDh7yPK7H"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "ETUDE ~a Wish to the Moon~",
         "url": "https://open.spotify.com/album/40yhQ9lfcanVVJkHTvSd0q"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/1ryPERKzpkuwFRFHWJDOj6"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u6620\u753b\u300e\u4e8c\u30ce\u56fd\u300f (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/2zQqC3s9NSCuDwQIAVb1FT"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/1SQIEVQlVcA9EI3uaWnNBD"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u91e3\u308a\u30d0\u30ab\u65e5\u8a8c \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d5\u30a1\u30a4\u30eb Vol.1",
         "url": "https://open.spotify.com/album/3uyXetK3iodSgBHW0rgYGq"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/3smwcr91SQAqGrkaC7CoCb"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30df\u30cb\u30de\u30ea\u30ba\u30e0",
         "url": "https://open.spotify.com/album/4o2DXsb3rM4PWU2DtWLVhL"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/0CGlkyWsGhwnd7VKBpP8JK"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/022qa8RJ1bDMVf5q9sxKwf"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u304a\u304f\u308a\u3073\u3068 (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/3Cidt4JOBuoV9sO8aqkwVQ"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/5SVGaIMZ9kYxvFv5WjRdnS"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30e1\u30ed\u30c7\u30a3\u30d5\u30a9\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/42c56HKycty0CsHd5iPuiP"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "PIANO STORIES II ~The Wind of Life~",
         "url": "https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/78cuKIGp4nM3cm4SQ2THy9"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u8d64\u72d0\u66f8\u751f (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/2FNZ5VQ1qbxZbc8TjfZvhN"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/5FFVfW9YeKECbTd3D5vhc8"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "WORLD DREAMS",
         "url": "https://open.spotify.com/album/5xIlbLoLnwYrlPj7FsYqo5"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/4LwucQallV2W12OqJoLMBl"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "NOSTALGIA ~PIANO STORIES III~",
         "url": "https://open.spotify.com/album/4Z1qtLN27lY8ot9UhlXGWr"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/3CO5ts5kDH6KLX4OJPB40P"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Another Piano Stories ~The End of the World~",
         "url": "https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/5Cpu7flGktb3B0LI8OhTwP"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30e1\u30ed\u30c7\u30a3\u30d5\u30a9\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/6kActPvKfzYPA425u5PW5x"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u771f\u590f\u306e\u591c\u306e\u60aa\u5922 (Live)",
         "url": "https://open.spotify.com/album/61qcmMGMLgDCh2oGUqJJHc"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/1QvJdMm7R2Xp5T0eagZOUU"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/0JOD85cRNVI7qbLz8NBaQP"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "ETUDE ~a Wish to the Moon~",
         "url": "https://open.spotify.com/album/40yhQ9lfcanVVJkHTvSd0q"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/4OaocdhjiMZ149ZnJYYgyD"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/52zzZP5WhNd3VX30zisAj0"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Piano Stories Best '88-'08",
         "url": "https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/6cqo4BkHW1ehhegVxku9NI"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "PIANO STORIES II ~The Wind of Life~",
         "url": "https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/3G6sE7Du0lMIv8UWx4Xahs"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "FREEDOM PIANO STORIES 4",
         "url": "https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/1cfZtDIbyEThJSNGNdb1k9"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "PIANO STORIES II ~The Wind of Life~",
         "url": "https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/4lv9gt6KoDIZDiU2cM9M58"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "NOSTALGIA ~PIANO STORIES III~",
         "url": "https://open.spotify.com/album/4Z1qtLN27lY8ot9UhlXGWr"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/5KtrhKfLd0Wf1h6yF04VqX"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "FREEDOM PIANO STORIES 4",
         "url": "https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/03Sj5KoXtZQWdY9PPMLNe4"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Another Piano Stories ~The End of the World~",
         "url": "https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/6Xqk4JL8Xt5knqisCoSWXz"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "W.D.O. BEST",
         "url": "https://open.spotify.com/album/2VyoOeOqbzLO1JRhJHwm3N"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/2uT63HrwAiIVmRx6gkZ6op"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "The End of the World",
         "url": "https://open.spotify.com/album/3fjsOIWZVmmSwVaiQpW2Bi"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/41aWoKdlIsIvGK6xSyporJ"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "WORKS\u30fbI",
         "url": "https://open.spotify.com/album/6HmZwqLsuQm2cuPVXDpDid"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/1bho2IWBI9PP2csaUiHGH1"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Works IV -Dream of W.D.O.- (Live)",
         "url": "https://open.spotify.com/album/1cSkgyLPIH59jTs8MjPQR4"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/7FT3l1tlTPC8GH0bHTjMCE"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Spirited Away Suite (Live)",
         "url": "https://open.spotify.com/album/31wx778ZATX2OI6mH6ghJJ"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/6RsHrrL6k8UsDJs33FCknQ"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Shoot The Violist[\u30f4\u30a3\u30aa\u30ea\u30b9\u30c8\u3092\u6483\u3066]",
         "url": "https://open.spotify.com/album/6tV65ufkt6zqjVKDAvyAnY"
@@ -913,7 +933,7 @@
       "url": "https://open.spotify.com/track/008RKiNmjW5Lb6Ocumq6MA"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u83ca\u6b21\u90ce\u306e\u590f (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4lizcoUr7yhsaM79lOtgs9"
@@ -929,7 +949,7 @@
       "url": "https://open.spotify.com/track/3iREQC4iWn8DBZ70suGEZO"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30df\u30cb\u30de\u30ea\u30ba\u30e0",
         "url": "https://open.spotify.com/album/4o2DXsb3rM4PWU2DtWLVhL"
@@ -949,7 +969,7 @@
       "url": "https://open.spotify.com/track/6W7CmoNq6mBrW6xRfn5YxQ"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30df\u30cb\u30de\u30ea\u30ba\u30e0 2",
         "url": "https://open.spotify.com/album/1T3q09tNWjloYmlymnI12C"
@@ -965,7 +985,7 @@
       "url": "https://open.spotify.com/track/0xqVGGeww9N3lKNNeppyU0"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30b9\u30c8\u30e9\u30f4\u30a3\u30f3\u30b9\u30ad\u30fc:\u30d0\u30ec\u30a8\u97f3\u697d\u300c\u6625\u306e\u796d\u5178\u300d",
         "url": "https://open.spotify.com/album/6kI0HvxGtKbsVxyoBfCSgu"
@@ -989,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2BtvbsT3y4QvCMnxY6YLy2"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "\u30df\u30cb\u30de\u30ea\u30ba\u30e0 3",
         "url": "https://open.spotify.com/album/4FVZteYjRnxYYJmNiEogD7"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4H0FAXrRBToxTL22u4lvHX"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "WORKS II ~Orchestra Nights~ (Live)",
         "url": "https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie"
@@ -1025,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2mTnbwTikQfI9oTeM6W56D"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "WORKS II ~Orchestra Nights~ (Live)",
         "url": "https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie"
@@ -1041,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2WjQJbP0aYjc2k5r35bQif"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "FREEDOM PIANO STORIES 4",
         "url": "https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4BbZirfjFACHy5GSVjKBM9"
     },
     {
-      "added_at": "2021-08-19 15:00:00",
+      "added_at": "2023-04-12 00:54:53",
       "album": {
         "name": "Symphonic Suite Castle in the Sky",
         "url": "https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ"

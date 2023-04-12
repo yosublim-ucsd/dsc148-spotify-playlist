@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 
 > Listen to more Trending and Love songs on the &quot;<a href="https://open.spotify.com/playlist/0Z7za9pQFEaGBVYTnvJMi1?si=RxGI\_90fSEKOQT73rD28Mw&amp;dd=1&amp;nd=1">Trending Insta Reels</a>&quot; &amp; &quot;<a href="https://open.spotify.com/playlist/02Py4h9KSGuXhqVmd36Wfi?si=ER8gOIlRS2Cs\_4MCQPp8eA&amp;dd=1">Love Stories ❤️</a>&quot;
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 237,636 likes - 130 songs - 10 hr 12 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 238,068 likes - 130 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 | 76 | [Mat Aazma Re](https://open.spotify.com/track/0mh4VutnDyBn1sqcp05MZD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Murder 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59mJQyT1wOf5irSqfJNI43) | 4:11 |
 | 77 | [Tujhi Mein](https://open.spotify.com/track/1ojx892F09kNzzLyMGTsma) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 5:00 |
 | 78 | [Mann Mera \(From "Table No\. 21"\)](https://open.spotify.com/track/2BeY2dQPbD8xYxx3yhBTVD) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Table No\. 21](https://open.spotify.com/album/3O895TQZsINpYkZuMtIwFF) | 3:18 |
-| 79 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi Sripada](https://open.spotify.com/artist/3MB1ePz3FVSQzFfI9v6KgD), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 |
+| 79 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 |
 | 80 | [Chaudhary](https://open.spotify.com/track/4QSF0d4ENvMXA03ARpMfaP) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Coke Studio @ MTV Season 2: Episode 3](https://open.spotify.com/album/6gkukpPq6e1QVHfeVk90wN) | 7:03 |
 | 81 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/6h09y5UH6sDRERJALlaJPi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/album/47BxXUsijYFRSasnmu8M2U) | 3:48 |
 | 82 | [Ok Jaanu Title Track](https://open.spotify.com/track/7a77VY7mjvK6EiaBeOosmk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Srinidhi Venkatesh](https://open.spotify.com/artist/1PDFenKwhb7oNx0bxCyQF2) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 3:26 |

@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. Cover: Teezo Touchdown",
-  "num_followers": 1124700,
+  "num_followers": 1124807,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGUxNjRlODJmOWY1ZGI3N2VhNWIwOTY0MmVlNTE1ZDMy",
+  "snapshot_id": "MTY4MTI1MjM5OSwwMDAwMDAwMDg0NmJkZTAyNWNjOGQ4YzQ0NjIxZTkyNDg1NWQzNjQz",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -417,6 +417,22 @@
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
     },
     {
+      "added_at": "2023-04-11 22:33:19",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "the record",
@@ -817,6 +833,26 @@
       "url": "https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX"
     },
     {
+      "added_at": "2023-04-11 17:18:16",
+      "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "SCARING THE HOES",
+      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Take Me Home",
@@ -1187,7 +1223,7 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Punkstar (feat. Royal & the Serpent)",
+        "name": "Punkstar",
         "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
       },
       "artists": [
@@ -1201,7 +1237,7 @@
         }
       ],
       "duration_ms": 140792,
-      "name": "Punkstar (feat. Royal & the Serpent)",
+      "name": "Punkstar",
       "url": "https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI"
     },
     {

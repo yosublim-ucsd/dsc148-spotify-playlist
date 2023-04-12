@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: ODIE
 
-1,017 songs - 2 day 12 hr 13 min
+1,018 songs - 2 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 | 2022-05-07 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-04-01 | 2022-04-23 |
 | [Helen](https://open.spotify.com/track/346NOmo5mIW6qXDzXTbN5Y) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [Everything You Want](https://open.spotify.com/album/2G4KIBuJnEqdA1pMmHkIEy) | 3:35 | 2023-02-10 | 2023-03-11 |
+| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-04-11 |  |
 | [Hello Dreamer Baby](https://open.spotify.com/track/13aPttDUTTortks4WEmqjJ) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Hello Dreamer Baby](https://open.spotify.com/album/3M8DHmJW365LIdXTcVOaUf) | 3:27 | 2022-02-18 | 2022-03-17 |
 | [Her](https://open.spotify.com/track/4wrU0njLIARnN1czWi3XDP) | [Bookclub](https://open.spotify.com/artist/7EGhv1hgTSLN2ld2kDbfd1) | [Her](https://open.spotify.com/album/1RwNSpnPffYhuDACj17B9W) | 4:12 | 2022-02-04 | 2022-03-12 |
 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 | 2022-11-19 |
@@ -686,7 +687,7 @@
 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 | 2022-07-15 | 2022-08-27 |
 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 | 2023-03-17 |  |
 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-07-08 | 2022-08-13 |
-| [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 | 2022-12-16 |  |
+| [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 | 2022-12-16 | 2023-04-12 |
 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-02-10 | 2023-04-09 |
 | [Pass Me By](https://open.spotify.com/track/1LKdyynvVEjSEhbspe0Dxr) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Pass Me By](https://open.spotify.com/album/1Njbnx7m3lVlFQWRnRna39) | 4:29 | 2022-03-11 | 2022-06-04 |
 | [Pastlife](https://open.spotify.com/track/48Hjm1Lw1QezP4vKImnR3P) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife](https://open.spotify.com/album/2kKxBiiOWTuKB0ZmDF6RNC) | 2:31 | 2022-04-01 | 2022-05-20 |

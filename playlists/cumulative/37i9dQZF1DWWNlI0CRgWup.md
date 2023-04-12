@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Luther
+> Découvrez notre sélection des artistes à suivre\. Photo : Styleto
 
-95 songs - 5 hr 2 min
+100 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [D'où je viens](https://open.spotify.com/track/3r5HKO6wkcIOMwn0jp76nG) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [D'où je viens](https://open.spotify.com/album/3VXCSVRtvJNavOvT5972Y3) | 2:49 | 2023-01-24 |  |
 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2022-02-03 | 2022-07-29 |
 | [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 | 2022-07-07 |  |
-| [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-04-14 |  |
+| [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-04-14 | 2023-04-12 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-07 |  |
 | [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2021-12-02 | 2022-03-25 |
 | [Dis\-moi](https://open.spotify.com/track/5MMkgucRpQfKulEXrNk9Yc) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Dis\-moi](https://open.spotify.com/album/3M5NoWmlCmualCFWxRxm84) | 2:55 | 2022-04-14 | 2022-11-25 |
@@ -47,6 +47,7 @@
 | [INDISCRET](https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [AERON SIT](https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8) | 2:13 | 2022-06-10 |  |
 | [Je suis fan](https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Je suis fan](https://open.spotify.com/album/6CDA4RgsL8Mney02IwKaPH) | 2:48 | 2021-12-02 | 2023-03-11 |
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-03-24 | 2022-06-11 |
+| [L'angle mort](https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'angle mort](https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28) | 2:22 | 2023-04-11 |  |
 | [La Macarena](https://open.spotify.com/track/6N8ja8D3Ay52DnGDLKdrHX) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:07 | 2022-03-24 | 2022-04-15 |
 | [Last Time](https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Last Time](https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg) | 2:57 | 2022-02-03 | 2022-05-17 |
 | [Le bandit](https://open.spotify.com/track/07sR3VWgf8rO9RLe3ZpLJO) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:54 | 2021-12-02 | 2022-03-02 |
@@ -63,14 +64,16 @@
 | [Metaverse](https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Metaverse](https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt) | 3:16 | 2022-06-10 |  |
 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 | 2021-12-02 | 2022-03-25 |
 | [Monsters](https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Monsters](https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9) | 3:11 | 2022-06-10 |  |
-| [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 |  |
+| [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 | 2022-11-24 | 2023-04-12 |
 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 | 2022-01-14 | 2022-11-25 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-07 |  |
 | [Nature morte](https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Nature morte](https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy) | 2:11 | 2023-03-10 |  |
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-11-24 |  |
 | [On m'a dit](https://open.spotify.com/track/0vg9919pYOV7mkiEZZDCHo) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [On m'a dit](https://open.spotify.com/album/0BP73xAURu61RwUrQvPyMu) | 3:28 | 2022-06-10 | 2022-09-30 |
+| [On m'a dit](https://open.spotify.com/track/6Dpj5zpd4nKpvervwskEBH) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:28 | 2023-04-11 |  |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-29 |  |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-02 | 2022-06-11 |
+| [Paradis](https://open.spotify.com/track/4BKhhCdzdmCIhDd4g6u7GR) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [MDNS](https://open.spotify.com/album/6sYdShIBNJHvrgsuQOlNd0) | 2:21 | 2023-04-11 |  |
 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 | 2021-12-02 |  |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-10 | 2023-03-11 |
 | [postcard from Paris](https://open.spotify.com/track/08jQ7tWtdGYteyCmzFmv8r) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:04 | 2022-06-10 | 2022-06-18 |
@@ -94,9 +97,11 @@
 | [Ton nom](https://open.spotify.com/track/1d1mEmt257v9YrrW5LTNsG) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 3:13 | 2022-07-07 | 2022-09-30 |
 | [Toute la vie](https://open.spotify.com/track/7I8MDzoGI7GVB4bFUwg1hG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Toute la vie](https://open.spotify.com/album/5AWje3l67axDKOS0RxLzmJ) | 3:29 | 2021-12-02 | 2022-03-02 |
 | [Triste fête](https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:40 | 2022-04-14 |  |
+| [Trop bonnes](https://open.spotify.com/track/31TWH0ExBSFWfQqEmDnLzG) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Trop bonnes](https://open.spotify.com/album/1d5vTrUDJ7OrB5KaLg4lIx) | 2:32 | 2023-04-11 |  |
 | [Téco](https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Téco](https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN) | 2:42 | 2022-02-03 | 2022-02-08 |
 | [Vega](https://open.spotify.com/track/4lT57AWvtIWIc8kEhqjD06) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Vega](https://open.spotify.com/album/7KPtPt18RqcaqqZvFarHjG) | 4:00 | 2021-12-02 | 2022-01-15 |
 | [Vieux](https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Rendez\-vous](https://open.spotify.com/album/1NKIsDQiGPC5i8hoSYBINC) | 2:56 | 2022-06-10 | 2022-09-30 |
+| [vivre](https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [La grande désillusion](https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS) | 3:58 | 2023-04-11 |  |
 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 | 2022-11-24 | 2023-03-11 |
 | [Vue sur la mer](https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Enfant roi](https://open.spotify.com/album/6zz44IeTCesmYEWHPhMgkI) | 2:34 | 2022-02-07 | 2022-09-30 |
 | [y'a rien de plus chiant que la joie](https://open.spotify.com/track/2qpfUuhooMWT7m3o6Jg0CB) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [y'a rien de plus chiant que la joie](https://open.spotify.com/album/1ApHah4ETKmbD3pSpO9mBB) | 2:13 | 2023-01-24 | 2023-03-11 |

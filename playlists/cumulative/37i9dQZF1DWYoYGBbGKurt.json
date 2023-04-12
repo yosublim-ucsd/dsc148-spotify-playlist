@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 150315,
       "name": "awesomelicious",
       "url": "https://open.spotify.com/track/4QXQkfCHSFuWtjhQ2ueNRf"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 127894,
       "name": "Childhood Memory",
       "url": "https://open.spotify.com/track/18SQiMxsOoIRBQBdpcOCjO"
@@ -4822,7 +4822,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 120000,
       "name": "Cool Cats Club",
       "url": "https://open.spotify.com/track/7bIGu96YQNSplp4RTE11rp"
@@ -5368,7 +5368,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 134676,
       "name": "Crystal Lake",
       "url": "https://open.spotify.com/track/5EnlM8Vkwe8uU4hU076Eo5"
@@ -7178,7 +7178,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 124283,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4UJNaa0uddjEMS3ma40WSn"
@@ -7588,7 +7588,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 118400,
       "name": "Endless Thoughts",
       "url": "https://open.spotify.com/track/1EeD00h1nPnoX2iaEy8OzE"
@@ -7748,6 +7748,24 @@
       "duration_ms": 124298,
       "name": "Etasian",
       "url": "https://open.spotify.com/track/5iRi7NHPZKDTwAPv2WYBfh"
+    },
+    {
+      "album": {
+        "name": "Ethereal Skies",
+        "url": "https://open.spotify.com/album/6OqpQ8ATutOO63gDNlwxLM"
+      },
+      "artists": [
+        {
+          "name": "Zen Park",
+          "url": "https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94166,
+      "name": "Ethereal Skies",
+      "url": "https://open.spotify.com/track/3zx3T6lbP5nv9VNysciKhM"
     },
     {
       "album": {
@@ -9146,7 +9164,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 187164,
       "name": "Fl\u00e2neur",
       "url": "https://open.spotify.com/track/7pZOzwLpThlbTk0DIvVKGJ"
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 128000,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2h1sce8sPyRxOc5Vjkm470"
@@ -10084,6 +10102,24 @@
       "duration_ms": 134000,
       "name": "Grainy Dayz",
       "url": "https://open.spotify.com/track/14EaKQo3LQb24sUd6m8DP9"
+    },
+    {
+      "album": {
+        "name": "Gratefulness",
+        "url": "https://open.spotify.com/album/6byxwHuEF8XkItdtC4gFYv"
+      },
+      "artists": [
+        {
+          "name": "Wilczynski",
+          "url": "https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Gratefulness",
+      "url": "https://open.spotify.com/track/2AbUPIumDoBR9tfKGv3c7e"
     },
     {
       "album": {
@@ -14325,6 +14361,24 @@
     },
     {
       "album": {
+        "name": "Lost Focus",
+        "url": "https://open.spotify.com/album/6U2LrL0pjWWz3Tulevbhk4"
+      },
+      "artists": [
+        {
+          "name": "Asha Eyes",
+          "url": "https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Lost Focus",
+      "url": "https://open.spotify.com/track/7jHvJk5nhJ75EiXzi6iDBt"
+    },
+    {
+      "album": {
         "name": "Lost In Paradise",
         "url": "https://open.spotify.com/album/13nzWGjI51zZug8OdEUP5C"
       },
@@ -15880,7 +15934,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 174545,
       "name": "Microfowl",
       "url": "https://open.spotify.com/track/0xJ1Er6763iUgvWbVwzkP0"
@@ -16886,7 +16940,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 131000,
       "name": "nakano ride",
       "url": "https://open.spotify.com/track/5ydchUCAyRP8PIv2yN58Xj"
@@ -19228,7 +19282,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 152727,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/3AWnr9QfEbEI7zfKTRmK7i"
@@ -19921,6 +19975,24 @@
     },
     {
       "album": {
+        "name": "Kratos",
+        "url": "https://open.spotify.com/album/6qxljujDTAEDj4g77vJ4qL"
+      },
+      "artists": [
+        {
+          "name": "rosetta's stone",
+          "url": "https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "rosetta' stone",
+      "url": "https://open.spotify.com/track/2rOiaUVG9Mcr37hovIUBJa"
+    },
+    {
+      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/1g5mZLj0mIyQ4uC5LhdqON"
       },
@@ -20272,7 +20344,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 151475,
       "name": "Scarlet",
       "url": "https://open.spotify.com/track/4VSroD4NM9DFbitLp70rd4"
@@ -21966,6 +22038,24 @@
       "duration_ms": 134566,
       "name": "Space Traveller",
       "url": "https://open.spotify.com/track/46zAC8jrGqBuAqA21O1Ufo"
+    },
+    {
+      "album": {
+        "name": "Spaced",
+        "url": "https://open.spotify.com/album/7DqmAnxgbCBzDNx2L0KRfY"
+      },
+      "artists": [
+        {
+          "name": "Brad Enbata",
+          "url": "https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "Spaced",
+      "url": "https://open.spotify.com/track/4dYuVQO70DgS3qLgpNJKhI"
     },
     {
       "album": {
@@ -23881,6 +23971,32 @@
     },
     {
       "album": {
+        "name": "Tender Touch",
+        "url": "https://open.spotify.com/album/3CNmAfSi6YouoZKvPMkFY3"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        },
+        {
+          "name": "flowless",
+          "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Tender Touch",
+      "url": "https://open.spotify.com/track/76rMrTkMQSvI9YJf4vo3U0"
+    },
+    {
+      "album": {
         "name": "That Feeling",
         "url": "https://open.spotify.com/album/4RPX3nVniAEHh1uGLE6Kx6"
       },
@@ -24114,7 +24230,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 144000,
       "name": "The End",
       "url": "https://open.spotify.com/track/0edUqIhyKWlr7HBh3UcE1Z"
@@ -26814,6 +26930,24 @@
       "duration_ms": 120000,
       "name": "wibes",
       "url": "https://open.spotify.com/track/2gDQBDUZVrubIKunMGon6P"
+    },
+    {
+      "album": {
+        "name": "Wild Mallow",
+        "url": "https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h"
+      },
+      "artists": [
+        {
+          "name": "The Lofi Big Band",
+          "url": "https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177620,
+      "name": "Wild Mallow",
+      "url": "https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS"
     },
     {
       "album": {

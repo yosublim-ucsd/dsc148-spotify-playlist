@@ -16,7 +16,7 @@
       ],
       "date_added": "2019-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 158933,
       "name": "(Bonus) Itchin",
       "url": "https://open.spotify.com/track/53CUl8RvJqbBPm31SiSg7Q"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2019-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 242053,
       "name": "Group Home",
       "url": "https://open.spotify.com/track/3kciYQvHGFkQYaZd0m1Pbc"
@@ -444,6 +444,24 @@
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "I Serve the Base",
+      "url": "https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW"
     },
     {
       "album": {
@@ -1078,6 +1096,24 @@
       "duration_ms": 265366,
       "name": "Rent Money",
       "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240160,
+      "name": "Rich $ex",
+      "url": "https://open.spotify.com/track/2onCHFrhTinyUc6OawwU4Z"
     },
     {
       "album": {

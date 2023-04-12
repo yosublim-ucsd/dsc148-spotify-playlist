@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-184 songs - 10 hr 42 min
+185 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/34FxbXBm1QjQ44lUBL8Rn9) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/album/1v9u00mgkfhhRJm7yMSIdz) | 3:36 | 2021-10-15 |  |
 | [Look Out Heart](https://open.spotify.com/track/0rL2QnLBi7aCGQt4B2SyWo) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Look Out Heart](https://open.spotify.com/album/19LQejplVcoZCHQGnXz6d6) | 2:17 | 2021-10-15 |  |
 | [Love & Happiness](https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI) | [Kimmie Rhodes](https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Picture In a Frame \(Deluxe Edition\)](https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3) | 4:46 | 2023-02-24 |  |
+| [Love Is A Drug](https://open.spotify.com/track/58y6xP2i8ZqOOESY07JVgQ) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Love Is A Drug / I Wish It Would Rain](https://open.spotify.com/album/7gbG82sQF8gfbnCFXFpJS7) | 2:58 | 2023-04-07 |  |
 | [Make It Til Summertime](https://open.spotify.com/track/2t5m1jQhBn9IKziKQwFUc7) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Every Road](https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq) | 3:04 | 2021-10-15 |  |
 | [Memory](https://open.spotify.com/track/40Ny9MMawUKcdNJyERWODH) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Memory](https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa) | 5:04 | 2021-10-15 | 2022-09-21 |
 | [My Maria \- with Thomas Rhett](https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:29 | 2021-10-15 |  |

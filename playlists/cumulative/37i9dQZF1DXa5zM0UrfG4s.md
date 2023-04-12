@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-288 songs - 13 hr 26 min
+289 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 |  |
 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 | 2021-12-16 | 2022-06-18 |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-05 | 2022-07-29 |
-| [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 | 2023-02-16 |  |
+| [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/track/0aQ2hgNRUwoICgQ1tvBnYs) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [BLINKAR INTE NÄR JAG BYTER FIL](https://open.spotify.com/album/01ayc4U9jmmjlrmQYoRYfe) | 2:21 | 2023-02-16 | 2023-04-12 |
 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 | 2022-06-09 |  |
 | [Blod & Tårer](https://open.spotify.com/track/2cwxcpFpwwxW3DZf7PUjv9) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Hank von Hell](https://open.spotify.com/artist/1Vjz6xbcJhHF5niFrLWpuX) | [Blod & Tårer](https://open.spotify.com/album/66lrtqecITvzQ29K9ctGgJ) | 2:41 | 2021-12-16 | 2022-07-22 |
 | [Bomtur](https://open.spotify.com/track/1xa2Wf8y1I6EjT4QjyZCNa) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [Bomtur](https://open.spotify.com/album/5yHslKyAI3J49t9XtMRAs0) | 3:26 | 2022-01-06 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [Eg e her og du e der](https://open.spotify.com/track/3skb0z0Xg5GJJJx9qlPpm7) | [Leif & Kompisane](https://open.spotify.com/artist/6Amx3XDj2wv09NhBECezh5) | [Eg e her og du e der](https://open.spotify.com/album/3zWaolQL3luSXY31BdfzNP) | 3:26 | 2021-12-16 | 2022-07-24 |
 | [Ei runde til](https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Ei runde til](https://open.spotify.com/album/5Ik0lJYyGxtPu3OaKkwh4B) | 3:56 | 2021-12-16 | 2022-07-23 |
 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 | 2021-12-16 | 2022-11-16 |
+| [En drikkesang](https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [En drikkesang](https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl) | 2:14 | 2023-04-06 |  |
 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 | 2022-07-07 |  |
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-02 | 2023-01-28 |
 | [En liten plass](https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [En liten plass](https://open.spotify.com/album/1GZN0qJ29ZlPxnAw1Kuayh) | 3:08 | 2021-12-16 | 2022-07-28 |

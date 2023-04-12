@@ -4,7 +4,7 @@
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-94 songs - 5 hr 9 min
+95 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [How Deep Is Your Love](https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD) | 2:55 | 2023-03-17 |  |
 | [How Far I'll Go](https://open.spotify.com/track/78kow2bDzZpSoyRmFzh5Jj) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 3:48 | 2023-03-17 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/6gLTYTjk3Mip3RvCe0OgdF) | [Keely Lake](https://open.spotify.com/artist/3M2jLYh2aNK2FLSpU1o4ft) | [I Can't Make You Love Me](https://open.spotify.com/album/17dBpCsvl17rSZZsKyL5B1) | 3:20 | 2023-03-17 |  |
-| [I Don't Want to Miss a Thing \- Piano](https://open.spotify.com/track/0pBBdDfWDIZQ3vYN3e67qB) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4) | 2:42 | 2023-03-17 |  |
+| [I Don't Want to Miss a Thing \- Piano](https://open.spotify.com/track/0KnRpsavKnZhiuf4zlbekx) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:42 | 2023-04-05 |  |
+| [I Don't Want to Miss a Thing \- Piano](https://open.spotify.com/track/0pBBdDfWDIZQ3vYN3e67qB) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4) | 2:42 | 2023-03-17 | 2023-04-12 |
 | [I See the Light](https://open.spotify.com/track/1vPfsrueMdGzm6lBWXLHic) | [Emma Wiederstahl](https://open.spotify.com/artist/2ZhXKvIvkaa8AF2TQyXiS3) | [I See the Light](https://open.spotify.com/album/3DXzWmsfCKbS4gDNMwNUZh) | 3:52 | 2023-03-17 |  |
 | [I Will Always Love You \(arr\. piano\)](https://open.spotify.com/track/116oIm7XXTtvasw2gvUMI9) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [I Will Always Love You \(arr\. Piano\)](https://open.spotify.com/album/4znnk5Ijuku995K23hMk4I) | 2:52 | 2023-03-22 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/0k3eB65qL3T1GQyJmGNUgV) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [If You Leave Me Now](https://open.spotify.com/album/1sBYO3z6cl6Fd6NNOPeGxu) | 3:19 | 2023-03-17 |  |

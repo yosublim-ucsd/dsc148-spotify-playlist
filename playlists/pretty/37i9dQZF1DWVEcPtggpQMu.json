@@ -1,15 +1,15 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=DqKrM2Q8TNKiqJzn3waOWw\">K.O</a>, <a href=\"https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ?si=OEr8rpk0S5-mdn598rGcpQ\">Young Stunna</a>, <a href=\"https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=hzVOsNWQS96b0aD4Fe7KAg\">Diamond Platinumz</a> and <a href=\"https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=ix1NILhoSr6dl2gEG932Tw\">Oxlade</a>.",
-  "num_followers": 48965,
+  "num_followers": 49056,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODM0MCwwMDAwMDAwMGY0ZTAxZGUwMDk3ZTUxNzg1NzliMDAwYmJlMmY5ZjNj",
+  "snapshot_id": "MTY4MTIyMDgyOSwwMDAwMDAwMGU4MmUwNDFhYjI4ZWQzMmJmOGQwZjEyMGM1ZWFhMGVh",
   "tracks": [
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Sosh Plata",
         "url": "https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm"
@@ -33,10 +33,10 @@
       "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/1NvFX3PwqZbpeNQuB4Awyy"
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
       "artists": [
         {
@@ -44,16 +44,16 @@
           "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
         },
         {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1bNCUFkAMRwPN0LvH2EdUO"
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "NEVER RIDE",
         "url": "https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k"
@@ -77,7 +77,31 @@
       "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Pramis, Swuh",
+        "url": "https://open.spotify.com/album/0o7ulqv3kP59j3ScfsEY80"
+      },
+      "artists": [
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "duration_ms": 134450,
+      "name": "Pramis, Swuh",
+      "url": "https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "BottlebrushStr",
         "url": "https://open.spotify.com/album/1nZQ7pt14d0ByweqOQQsNg"
@@ -109,10 +133,10 @@
       "url": "https://open.spotify.com/track/7Aoh89k0KgYV8oULYTBzyb"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1NvFX3PwqZbpeNQuB4Awyy"
       },
       "artists": [
         {
@@ -120,40 +144,16 @@
           "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
         }
       ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+      "duration_ms": 244800,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1bNCUFkAMRwPN0LvH2EdUO"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Pramis, Swuh",
-        "url": "https://open.spotify.com/album/0o7ulqv3kP59j3ScfsEY80"
-      },
-      "artists": [
-        {
-          "name": "Flow Jones Jr.",
-          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "duration_ms": 134450,
-      "name": "Pramis, Swuh",
-      "url": "https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "DEADLINES: FREE P2",
         "url": "https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2T8zFhRIoj0v4sD9YoZDW8"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
@@ -193,7 +193,47 @@
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Pardon My Arrogance",
+        "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "K1NG",
+          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Pardon My Arrogance",
+      "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "papa fetti",
+        "url": "https://open.spotify.com/album/0B97J0R4bwPUqYnxtTXeLo"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "fetti",
+      "url": "https://open.spotify.com/track/071zULQTyEyVmunaIBr38t"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
         "url": "https://open.spotify.com/album/04fBNopmMepdbuk96REyzW"
@@ -221,7 +261,23 @@
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Sta Soft",
         "url": "https://open.spotify.com/album/59Vl3fXba0pHYimUkuTzqV"
@@ -249,95 +305,7 @@
       "url": "https://open.spotify.com/track/1rc0ZjnYsncDh81BHyFRQ6"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "papa fetti",
-        "url": "https://open.spotify.com/album/0B97J0R4bwPUqYnxtTXeLo"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "fetti",
-      "url": "https://open.spotify.com/track/071zULQTyEyVmunaIBr38t"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Stalling",
-        "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 232779,
-      "name": "Stalling",
-      "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Pi\u00e8ce De R\u00e9sistance",
-        "url": "https://open.spotify.com/album/7t0p4OruJQr1txqiPC55jj"
-      },
-      "artists": [
-        {
-          "name": "Wordz",
-          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "Real Niggas Only",
-      "url": "https://open.spotify.com/track/1sQVikNoENX6xhUppOJ5p3"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Pardon My Arrogance",
-        "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "K1NG",
-          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "Pardon My Arrogance",
-      "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Forecast 23",
-        "url": "https://open.spotify.com/album/5uFJvBk8muHSCeOtJhb4C8"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Forecast 23",
-      "url": "https://open.spotify.com/track/10FicYAHW4yw4ucDHq9dM9"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
@@ -377,7 +345,7 @@
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "MASS COUNTRY",
         "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
@@ -401,67 +369,39 @@
       "url": "https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+        "name": "Pi\u00e8ce De R\u00e9sistance",
+        "url": "https://open.spotify.com/album/7t0p4OruJQr1txqiPC55jj"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
         }
       ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+      "duration_ms": 127741,
+      "name": "Real Niggas Only",
+      "url": "https://open.spotify.com/track/1sQVikNoENX6xhUppOJ5p3"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
+        "name": "Forecast 23",
+        "url": "https://open.spotify.com/album/5uFJvBk8muHSCeOtJhb4C8"
       },
       "artists": [
         {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Khuli Chana",
-          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
         }
       ],
-      "duration_ms": 175428,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
+      "duration_ms": 232733,
+      "name": "Forecast 23",
+      "url": "https://open.spotify.com/track/10FicYAHW4yw4ucDHq9dM9"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Why Me?",
-        "url": "https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ"
-      },
-      "artists": [
-        {
-          "name": "Audiomarc",
-          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 187012,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Benjamins (feat. Emtee & HennyBeLit)",
         "url": "https://open.spotify.com/album/05ZI6xGPJdKnSPdJFM3M7x"
@@ -485,7 +425,83 @@
       "url": "https://open.spotify.com/track/1vv7MgQQpK5PCu6F5MQ3Oo"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        }
+      ],
+      "duration_ms": 175428,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Stalling",
+        "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 232779,
+      "name": "Stalling",
+      "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Why Me?",
+        "url": "https://open.spotify.com/album/7ipNeYgWhbiQUjmgKJCEHZ"
+      },
+      "artists": [
+        {
+          "name": "Audiomarc",
+          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 187012,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/7rpEhFwa8OTnMoqkDT0JOr"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "EMOYENI",
+        "url": "https://open.spotify.com/album/7gypPIp3Gw3B3MbFLXCFAf"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "EMOYENI",
+      "url": "https://open.spotify.com/track/3X67yDTJV06mFs00YRRkhG"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Speak N Vrostaan",
         "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
@@ -513,23 +529,7 @@
       "url": "https://open.spotify.com/track/5TSTHmrwdbkcDHD0whBqiU"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "EMOYENI",
-        "url": "https://open.spotify.com/album/7gypPIp3Gw3B3MbFLXCFAf"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "EMOYENI",
-      "url": "https://open.spotify.com/track/3X67yDTJV06mFs00YRRkhG"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Gwan (feat. Maglera Doe Boy)",
         "url": "https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc"
@@ -549,7 +549,27 @@
       "url": "https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/32oGJP8KwLlbyPYp06ZEa9"
+      },
+      "artists": [
+        {
+          "name": "Ray Chillz",
+          "url": "https://open.spotify.com/artist/6MlAyF1Wf3wdr7LICB0qj2"
+        },
+        {
+          "name": "Naardie",
+          "url": "https://open.spotify.com/artist/48jZBoeSEG2obtqG5wAO61"
+        }
+      ],
+      "duration_ms": 186357,
+      "name": "Changed",
+      "url": "https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Life Is Gangsta",
         "url": "https://open.spotify.com/album/3X4QeifgysArO4xWHz4UAF"
@@ -565,55 +585,7 @@
       "url": "https://open.spotify.com/track/328ab4f1jS10Xk0Kjj6pHJ"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "SETE (feat. Young Stunna & Blxckie)",
-        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "SETE (feat. Young Stunna & Blxckie)",
-      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "ANXIETY+",
-        "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
-      },
-      "artists": [
-        {
-          "name": "Zoocci Coke Dope",
-          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 332500,
-      "name": "LiFT ME UP",
-      "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Shoda Ngami (Remix)",
         "url": "https://open.spotify.com/album/4Tco5EhdTIAamseoex3Gw3"
@@ -637,7 +609,31 @@
       "url": "https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "IF YOU KNOW, YOU KNOW",
         "url": "https://open.spotify.com/album/2td1HDBVQHA3XPXfe5vlRk"
@@ -661,7 +657,7 @@
       "url": "https://open.spotify.com/track/1JQL6EGsxCGfX6Md5bUUuh"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Welcome To The Planet",
         "url": "https://open.spotify.com/album/32LR9thKImAlV8bpla3CDy"
@@ -697,26 +693,10 @@
       "url": "https://open.spotify.com/track/7iAAVGVJ59SR7t2nL2VdY3"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Khuphuka",
-        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Khuphuka",
-      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Die Dope",
-        "url": "https://open.spotify.com/album/7xC9AE1CmcMOXFgGa5ffZP"
+        "name": "ANXIETY+",
+        "url": "https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ"
       },
       "artists": [
         {
@@ -724,32 +704,20 @@
           "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
         },
         {
-          "name": "Die Mondez",
-          "url": "https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2"
-        }
-      ],
-      "duration_ms": 156530,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/3ypCfyrl6joWlLjrpHQPwH"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "S.O.O.N 2 (A Better Year) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6"
-      },
-      "artists": [
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
         {
-          "name": "Touchline",
-          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 228157,
-      "name": "Actions Over Captions",
-      "url": "https://open.spotify.com/track/5rXVsZUlbRjMTkC3U14DHR"
+      "duration_ms": 332500,
+      "name": "LiFT ME UP",
+      "url": "https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Diaspora",
         "url": "https://open.spotify.com/album/3ka1FUfKS7x0Nw2YFd6Pdf"
@@ -769,47 +737,23 @@
       "url": "https://open.spotify.com/track/4Oab51CLrmfgwXIDCcaQs1"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "SAWFSIDE",
-        "url": "https://open.spotify.com/album/6z2Ex1oBEB92LKabY5c99U"
+        "name": "Khuphuka",
+        "url": "https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj"
       },
       "artists": [
         {
-          "name": "MashBeatz",
-          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
-        },
-        {
-          "name": "Saudi",
-          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
         }
       ],
-      "duration_ms": 192000,
-      "name": "HELL OF A NIGHT",
-      "url": "https://open.spotify.com/track/2ELY1HHLenJu04h7UmAf1I"
+      "duration_ms": 183750,
+      "name": "Khuphuka",
+      "url": "https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Benni McCarthy",
-        "url": "https://open.spotify.com/album/70g8vpdQWQjAxPRfOpS8dY"
-      },
-      "artists": [
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "Shaney Jay",
-          "url": "https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Benni McCarthy",
-      "url": "https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/1wHEl0itEyhRHNDdIh0UCN"
@@ -829,127 +773,83 @@
       "url": "https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Look What It's Come To",
-        "url": "https://open.spotify.com/album/3slW5G9dQIubZnlHMq7DVH"
+        "name": "Die Dope",
+        "url": "https://open.spotify.com/album/7xC9AE1CmcMOXFgGa5ffZP"
       },
       "artists": [
         {
-          "name": "Yung Tyran",
-          "url": "https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX"
+          "name": "Zoocci Coke Dope",
+          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
         },
         {
           "name": "Die Mondez",
           "url": "https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2"
         }
       ],
-      "duration_ms": 193629,
-      "name": "Yesssir",
-      "url": "https://open.spotify.com/track/61nqSeeR48OHlOsM93F7hC"
+      "duration_ms": 156530,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/3ypCfyrl6joWlLjrpHQPwH"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "I Was Overthinking This",
-        "url": "https://open.spotify.com/album/4I2o2HtxSLxqvUmb5D1JAy"
+        "name": "S.O.O.N 2 (A Better Year) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6"
       },
       "artists": [
         {
-          "name": "Shooterkhumz",
-          "url": "https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz"
-        },
-        {
-          "name": "Priddy Ugly",
-          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
-        },
-        {
-          "name": "ZuluMecca",
-          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
         }
       ],
-      "duration_ms": 238536,
-      "name": "God's Incense",
-      "url": "https://open.spotify.com/track/4vBGS75jLj7VlI2Oh1UuWA"
+      "duration_ms": 228157,
+      "name": "Actions Over Captions",
+      "url": "https://open.spotify.com/track/5rXVsZUlbRjMTkC3U14DHR"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Good City Bad Roads",
-        "url": "https://open.spotify.com/album/0XpayLAe6wtWcI8A1mxoQb"
+        "name": "SAWFSIDE",
+        "url": "https://open.spotify.com/album/6z2Ex1oBEB92LKabY5c99U"
       },
       "artists": [
         {
-          "name": "Roiii",
-          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
         }
       ],
-      "duration_ms": 172193,
-      "name": "Get To Working",
-      "url": "https://open.spotify.com/track/07r5M0b65Y688Jk87ijURh"
+      "duration_ms": 192000,
+      "name": "HELL OF A NIGHT",
+      "url": "https://open.spotify.com/track/2ELY1HHLenJu04h7UmAf1I"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Walking On Water",
-        "url": "https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb"
+        "name": "Benni McCarthy",
+        "url": "https://open.spotify.com/album/70g8vpdQWQjAxPRfOpS8dY"
       },
       "artists": [
         {
-          "name": "Audiomarc",
-          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
         },
         {
-          "name": "Zoocci Coke Dope",
-          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "Shaney Jay",
+          "url": "https://open.spotify.com/artist/1q95EBYcea3p624dJytDFh"
         }
       ],
-      "duration_ms": 186900,
-      "name": "Walking On Water",
-      "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
+      "duration_ms": 185379,
+      "name": "Benni McCarthy",
+      "url": "https://open.spotify.com/track/3Lyk4X2mZp1BbmzTG9sqmg"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/2SfkZMQlMa31anBJjMniEM"
-      },
-      "artists": [
-        {
-          "name": "Shane Eagle",
-          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
-        }
-      ],
-      "duration_ms": 146024,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/4E3qABUw4q63Jz13rAtDKA"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/32oGJP8KwLlbyPYp06ZEa9"
-      },
-      "artists": [
-        {
-          "name": "Ray Chillz",
-          "url": "https://open.spotify.com/artist/6MlAyF1Wf3wdr7LICB0qj2"
-        },
-        {
-          "name": "Naardie",
-          "url": "https://open.spotify.com/artist/48jZBoeSEG2obtqG5wAO61"
-        }
-      ],
-      "duration_ms": 186357,
-      "name": "Changed",
-      "url": "https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "ENJOYMENT",
         "url": "https://open.spotify.com/album/1Z5OX3sifIolduEZTlDPaO"
@@ -973,27 +873,43 @@
       "url": "https://open.spotify.com/track/20cgOCnPDRb3LIU1DHvJED"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
       "album": {
-        "name": "Senyeha",
-        "url": "https://open.spotify.com/album/42LuGB4e3PN95eNHmREkR1"
+        "name": "Look What It's Come To",
+        "url": "https://open.spotify.com/album/3slW5G9dQIubZnlHMq7DVH"
       },
       "artists": [
         {
-          "name": "AirDee",
-          "url": "https://open.spotify.com/artist/1aV75Pym2yLDDrpsiiCB4N"
+          "name": "Yung Tyran",
+          "url": "https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX"
         },
         {
-          "name": "VenusRaps",
-          "url": "https://open.spotify.com/artist/3GZOYqox0oGHqmLQVijPye"
+          "name": "Die Mondez",
+          "url": "https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2"
         }
       ],
-      "duration_ms": 182085,
-      "name": "Senyeha",
-      "url": "https://open.spotify.com/track/3yqV0Dt2IFxzTOb2edCbNr"
+      "duration_ms": 193629,
+      "name": "Yesssir",
+      "url": "https://open.spotify.com/track/61nqSeeR48OHlOsM93F7hC"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Good City Bad Roads",
+        "url": "https://open.spotify.com/album/0XpayLAe6wtWcI8A1mxoQb"
+      },
+      "artists": [
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        }
+      ],
+      "duration_ms": 172193,
+      "name": "Get To Working",
+      "url": "https://open.spotify.com/track/07r5M0b65Y688Jk87ijURh"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "UmXhosa Omkhulu ft. Flow Jones Jr.",
         "url": "https://open.spotify.com/album/4tAoASk7qQsitUZTnP1cJ9"
@@ -1013,7 +929,31 @@
       "url": "https://open.spotify.com/track/3ec4fXet7VyAEl16x6JYZ8"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Walking On Water",
+        "url": "https://open.spotify.com/album/08ErxtPGSClS8jfdtyHgdb"
+      },
+      "artists": [
+        {
+          "name": "Audiomarc",
+          "url": "https://open.spotify.com/artist/7M5xa3W8nnFeBaOvJVHRxj"
+        },
+        {
+          "name": "Zoocci Coke Dope",
+          "url": "https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Walking On Water",
+      "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "IN THE TRAP",
         "url": "https://open.spotify.com/album/5GgeUYVTqbz3OeJimGNAzF"
@@ -1029,7 +969,47 @@
       "url": "https://open.spotify.com/track/5TrejjHSxvWwl2mXjcvhcV"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "I Was Overthinking This",
+        "url": "https://open.spotify.com/album/4I2o2HtxSLxqvUmb5D1JAy"
+      },
+      "artists": [
+        {
+          "name": "Shooterkhumz",
+          "url": "https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        }
+      ],
+      "duration_ms": 238536,
+      "name": "God's Incense",
+      "url": "https://open.spotify.com/track/4vBGS75jLj7VlI2Oh1UuWA"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/2SfkZMQlMa31anBJjMniEM"
+      },
+      "artists": [
+        {
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        }
+      ],
+      "duration_ms": 146024,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/4E3qABUw4q63Jz13rAtDKA"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Suffer For Beauty",
         "url": "https://open.spotify.com/album/6KHJY7nfgchDTdcPNDF6gj"
@@ -1053,7 +1033,43 @@
       "url": "https://open.spotify.com/track/3npcOa13gwr54V0alfcNip"
     },
     {
-      "added_at": "2023-04-03 13:01:55",
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "Senyeha",
+        "url": "https://open.spotify.com/album/42LuGB4e3PN95eNHmREkR1"
+      },
+      "artists": [
+        {
+          "name": "AirDee",
+          "url": "https://open.spotify.com/artist/1aV75Pym2yLDDrpsiiCB4N"
+        },
+        {
+          "name": "VenusRaps",
+          "url": "https://open.spotify.com/artist/3GZOYqox0oGHqmLQVijPye"
+        }
+      ],
+      "duration_ms": 182085,
+      "name": "Senyeha",
+      "url": "https://open.spotify.com/track/3yqV0Dt2IFxzTOb2edCbNr"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
+      "album": {
+        "name": "REVENGE IS SWEET",
+        "url": "https://open.spotify.com/album/3KhVnTxQrHxJZsEzJxrUjw"
+      },
+      "artists": [
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        }
+      ],
+      "duration_ms": 120561,
+      "name": "WHAT'S THE WEST THAT COULD HAPPEN",
+      "url": "https://open.spotify.com/track/6VncIH28yfPz8GeL89E0hA"
+    },
+    {
+      "added_at": "2023-04-11 13:47:09",
       "album": {
         "name": "Window (feat. Moniqu\u00e9 Lawz)",
         "url": "https://open.spotify.com/album/55DjT38wAN05lrLYXhozkV"
@@ -1071,22 +1087,6 @@
       "duration_ms": 98195,
       "name": "Window (feat. Moniqu\u00e9 Lawz)",
       "url": "https://open.spotify.com/track/1J5Xpow7q8Yyt8WvKcOZSn"
-    },
-    {
-      "added_at": "2023-04-03 13:01:55",
-      "album": {
-        "name": "REVENGE IS SWEET",
-        "url": "https://open.spotify.com/album/3KhVnTxQrHxJZsEzJxrUjw"
-      },
-      "artists": [
-        {
-          "name": "Jay Jody",
-          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
-        }
-      ],
-      "duration_ms": 120561,
-      "name": "WHAT'S THE WEST THAT COULD HAPPEN",
-      "url": "https://open.spotify.com/track/6VncIH28yfPz8GeL89E0hA"
     }
   ],
   "unique_name": "Mzansi Raps",

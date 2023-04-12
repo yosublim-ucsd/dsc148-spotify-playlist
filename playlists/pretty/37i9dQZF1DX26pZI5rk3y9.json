@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4235,
+  "num_followers": 4245,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDUxNTljNzhkNjNkM2FkMTE4NDg1NjhiMGJkNGRhZjYz",
+  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDRiMzc1MjU1MGM3ZWY2ZmMyN2ZjYThlOWMyMDQwODdj",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
-      "added_at": "2023-04-11 00:28:13",
+      "added_at": "2023-04-12 00:38:37",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Guitar Women, Vol.4",
-        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "The Fish",
-      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Farmer's Market Barbecue",
         "url": "https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 627893,
       "name": "Blues For The Barbecue",
       "url": "https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Guitar Women, Vol.4",
+        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "The Fish",
+      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Blues For Everybody",
-        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "She Cooks Me Cabbage",
-      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "I Was a Mod Before You Were a Mod Vol. 2",
         "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 137534,
       "name": "Crawfish",
       "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Blues For Everybody",
+        "url": "https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "She Cooks Me Cabbage",
+      "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
       },
       "artists": [
         {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
       },
       "artists": [
         {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
+      "duration_ms": 172866,
+      "name": "Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5"
     },
     {
       "added_at": "2022-12-02 14:28:08",

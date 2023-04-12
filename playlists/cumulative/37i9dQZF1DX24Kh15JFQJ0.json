@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Love Is A Drug / I Wish It Would Rain",
+        "url": "https://open.spotify.com/album/7gbG82sQF8gfbnCFXFpJS7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/58y6xP2i8ZqOOESY07JVgQ"
+    },
+    {
+      "album": {
         "name": "Every Road",
         "url": "https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 618294,
+  "num_followers": 618360,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMDg1ZjEyMTVkZjU0MTYxNGJiOGI3OTJmNWZiYjI4Mzg2",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGYxMGIyNDk1YmE3NDE4NDZlZjBhMmJlMTcyM2RkNDg5",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Just Like God",
-        "url": "https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "Just Like God",
-      "url": "https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG"
-    },
-    {
-      "added_at": "2021-06-25 06:54:59",
-      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 408814,
       "name": "Not Lucky, I'm Loved",
       "url": "https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI"
+    },
+    {
+      "added_at": "2021-06-25 06:54:59",
+      "album": {
+        "name": "Just Like God",
+        "url": "https://open.spotify.com/album/0U8ujczkuAHZ9NJ4Z1qkvj"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 180946,
+      "name": "Just Like God",
+      "url": "https://open.spotify.com/track/56rwjJ8kxKhVs16jjfLIbG"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -683,22 +683,18 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz"
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
       "artists": [
         {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        },
-        {
-          "name": "Deborah Carolina",
-          "url": "https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m"
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
         }
       ],
-      "duration_ms": 282816,
-      "name": "I Am (Radio Edit)",
-      "url": "https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf"
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
     },
     {
       "added_at": "2021-06-25 06:54:59",

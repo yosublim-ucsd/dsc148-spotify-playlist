@@ -1,15 +1,15 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: LAS, Miyeon)",
-  "num_followers": 384716,
+  "num_followers": 384839,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk1MDYzNCwwMDAwMDAwMGRiZTVjNTg0ZjA0Y2Y2MjUyZGZmMTU1ZjE4MmUxNDIw",
+  "snapshot_id": "MTY4MDk1MDYzNCwwMDAwMDAwMDZmZTMxZGExMWFmMTAxY2ZmYjdlM2FlYmQ0Y2Y4NjIx",
   "tracks": [
     {
-      "added_at": "2023-04-11 00:59:37",
+      "added_at": "2023-04-12 01:03:24",
       "album": {
         "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
         "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 194596,
-      "name": "NO ONE",
-      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
-    },
-    {
-      "added_at": "2023-03-27 08:33:01",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2023-03-27 08:33:01",
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
     },
     {
       "added_at": "2023-03-27 08:33:01",

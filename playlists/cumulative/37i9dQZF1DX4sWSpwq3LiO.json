@@ -2801,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Ballade Pour Elly",
+        "url": "https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sundberg",
+          "url": "https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243209,
+      "name": "Ballade Pour Elly",
+      "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
+    },
+    {
+      "album": {
         "name": "Balm",
         "url": "https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw"
       },
@@ -6316,6 +6334,24 @@
       "duration_ms": 140114,
       "name": "Echoes of You",
       "url": "https://open.spotify.com/track/4NSorTl9g80CArixVtqGfz"
+    },
+    {
+      "album": {
+        "name": "Eclipsis",
+        "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146079,
+      "name": "Eclipsis",
+      "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
     },
     {
       "album": {
@@ -15720,6 +15756,24 @@
       "duration_ms": 159061,
       "name": "Nibiru",
       "url": "https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA"
+    },
+    {
+      "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX"
+      },
+      "artists": [
+        {
+          "name": "Coeur",
+          "url": "https://open.spotify.com/artist/5YRwec5e32jsHSKX1nKHEO"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm"
     },
     {
       "album": {

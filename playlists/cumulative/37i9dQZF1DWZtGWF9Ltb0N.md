@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-452 songs - 1 day 9 hr 49 min
+453 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Resonate](https://open.spotify.com/track/4BslxfPzl3zzoSxf5JS57R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Resonate / Shaman](https://open.spotify.com/album/3ogPWAWqjoQZ4OJSzWp4Em) | 3:03 | 2022-08-19 |  |
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-04-08 |  |
 | [Rhubarb Crumble](https://open.spotify.com/track/1Cm7THvhhuBMZVuP08nkpb) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [Rhubarb Crumble EP](https://open.spotify.com/album/4ByklHL90cfvBGLBbbyel1) | 5:33 | 2022-02-17 | 2022-07-27 |
-| [Ricky Rosé](https://open.spotify.com/track/3OvMUt6wjhyiIp0WDLsPx9) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Ricky Rosé](https://open.spotify.com/album/7bSufwWURYfWb2cu0CeuF5) | 3:48 | 2022-10-21 |  |
+| [Ricky Rosé](https://open.spotify.com/track/3OvMUt6wjhyiIp0WDLsPx9) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Ricky Rosé](https://open.spotify.com/album/7bSufwWURYfWb2cu0CeuF5) | 3:48 | 2022-10-21 | 2023-04-12 |
 | [Ride Out](https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf) | [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Ride Out](https://open.spotify.com/album/0g6JAuSxiBOAYvCsjTEG0m) | 4:20 | 2022-02-17 |  |
 | [Righteous](https://open.spotify.com/track/6vLVc8UKfHm5HFbprTee4T) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Righteous](https://open.spotify.com/album/3hZqvmxuYCPFnm7dz0uDIM) | 4:45 | 2022-02-17 |  |
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
@@ -438,6 +438,7 @@
 | [Vacant](https://open.spotify.com/track/4KtEedfcRM9VycSED3sWnF) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/30v5J4ieBtoICdxv0ss6Qc) | 5:03 | 2022-07-08 | 2023-03-04 |
 | [Vacant](https://open.spotify.com/track/7HDu8teid1cFGtiAQlLG0a) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/5q5FRgtpjlzDvD9gOTZdTS) | 5:03 | 2022-02-17 | 2022-07-28 |
 | [Vandals](https://open.spotify.com/track/7oJo6A2Cio3pmWsav3S9dw) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Vandals](https://open.spotify.com/album/0M61LEcH5CknOTQxZQ677Y) | 2:20 | 2022-02-17 | 2022-07-09 |
+| [Void](https://open.spotify.com/track/6XkIosvL893aYi8lD5KDVy) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Void](https://open.spotify.com/album/46zHod6Ohy5qzsX7nc9fcO) | 2:16 | 2023-03-17 |  |
 | [Voodoo Ish](https://open.spotify.com/track/7inGk5zHtRI27UfgI9esff) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Donnie Danko](https://open.spotify.com/artist/6rxntQEFOoobBvTGd1MNFX) | [Voodoo Ish](https://open.spotify.com/album/7nTF9NDGtd5qHQNfQF8uJh) | 3:17 | 2023-01-13 |  |
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-22 | 2022-10-08 |
 | [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 |  |

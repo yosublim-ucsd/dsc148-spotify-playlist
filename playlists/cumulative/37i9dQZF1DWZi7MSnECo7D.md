@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Supercombo, kamaitachi
 
-358 songs - 20 hr 21 min
+359 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 | 2023-02-13 |  |
 | [Feito pra Durar](https://open.spotify.com/track/1KXxGHLdrdwhXKYzuIa3Qv) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Feito pra Durar](https://open.spotify.com/album/0w1RqcFt7Wp4yj51VfirXU) | 5:01 | 2022-02-04 |  |
 | [Festa dos Pássaros](https://open.spotify.com/track/3ga8WGrJaOtraqnPuNDRwv) | [Mais Uma](https://open.spotify.com/artist/6HQ0ZYL7kr8o0wboWtPgLu) | [Festa dos Pássaros](https://open.spotify.com/album/3EbmGa3BkcI24ZdctxdApW) | 4:03 | 2022-01-14 | 2022-03-26 |
-| [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 | 2022-01-21 |  |
+| [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 | 2022-01-21 | 2023-04-12 |
+| [festa estranha](https://open.spotify.com/track/5jt176s3kzyjs9ZCHCqQ7d) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/2jerBoGv1KIo9QQd3xkiOZ) | 2:51 | 2023-04-07 |  |
 | [Foi Assim](https://open.spotify.com/track/7DZYRKQ5T695LPPn98NOGM) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Foi Assim](https://open.spotify.com/album/3vLFn7RuyXbQTKpqhPdIwS) | 3:51 | 2023-03-24 | 2023-04-09 |
 | [Forbidden Fruit](https://open.spotify.com/track/070LHp7zkcBY0e3yaGBWjH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Forbidden Fruit](https://open.spotify.com/album/5JC849KO0dGCfneo4SlTma) | 2:51 | 2023-03-17 |  |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-01-14 | 2022-03-18 |

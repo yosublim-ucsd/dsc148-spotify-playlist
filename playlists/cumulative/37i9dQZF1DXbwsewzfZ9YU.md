@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Drug Church
 
-86 songs - 3 hr 41 min
+87 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [The Patriot](https://open.spotify.com/track/7ctiBYiZtdJXPN3E5wqSh1) | [Age of Apocalypse](https://open.spotify.com/artist/0vMfvtQ4YXnMFh1az1izft) | [Grim Wisdom](https://open.spotify.com/album/3URTR3FhDn9zcDyJ0M2Xv6) | 2:23 | 2023-02-24 |  |
 | [The Portrait, Now Perceived](https://open.spotify.com/track/1gx45zvC0tdRawEPVIT8W7) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Deliberate Revolver](https://open.spotify.com/album/29pnd8Su99YAqNbXzk2bdg) | 3:51 | 2023-02-24 |  |
 | [The Whole World Is Going Insane](https://open.spotify.com/track/0vg20pb8LtH1g8aqPIDK6J) | [Roughed Up](https://open.spotify.com/artist/4OhXYJWzSlb33F7UtmRTgb) | [King and Council](https://open.spotify.com/album/3skHBTTM1EPjztnxNelXCe) | 2:54 | 2023-02-24 |  |
+| [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-11 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-24 |  |
 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 |  |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 |  |

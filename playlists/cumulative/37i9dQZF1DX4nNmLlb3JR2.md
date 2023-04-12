@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-186 songs - 7 hr 24 min
+188 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [don't you worry child](https://open.spotify.com/track/3rWUFqb1tuwFY0kl7OUwuZ) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [don't you worry child](https://open.spotify.com/album/02Nu5KQ4VUHIiWB3KH3B2w) | 2:40 | 2022-12-02 |  |
 | [Don´t Stop me Now](https://open.spotify.com/track/4rnAbHyfJWhKraJs01UUCx) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Don´t Stop me Now](https://open.spotify.com/album/1fNxqpgalp51oWvmB0j6bG) | 2:39 | 2022-11-11 |  |
 | [Easy On Me](https://open.spotify.com/track/4p8GeNxLZQTNWcgySydMsZ) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [Schrubi](https://open.spotify.com/artist/7mV0Ig1YMYRc97fz3PlwZp), [lofi.dealer](https://open.spotify.com/artist/3A6LBlFVLooS63BpoSWIat) | [Easy On Me](https://open.spotify.com/album/582mmW0PmH58ARhZo0xH7E) | 2:44 | 2022-09-02 |  |
+| [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 | 2023-04-11 |  |
 | [Every Breath You Take](https://open.spotify.com/track/3082dmTQwOzxtdvXR3Ib8S) | [Ayaakaa](https://open.spotify.com/artist/01ilwgX5nHOi7vOkBuTuCU) | [Every Breath You Take](https://open.spotify.com/album/2S6A8ZZQezrdX74jmIl4Xu) | 1:56 | 2022-10-28 |  |
 | [Everytime We Touch](https://open.spotify.com/track/1sI8fD3wfYhawnZAYJlmuB) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [holydope](https://open.spotify.com/artist/0xxzcwAkvq75H2kNaZVLxD), [Gletscher](https://open.spotify.com/artist/2XvOqRc89ghu9XuYotuqDj) | [Everytime We Touch](https://open.spotify.com/album/7rg8IXnMzoesocIOIGklWQ) | 2:06 | 2022-09-02 |  |
 | [Faded \- Lofi Version](https://open.spotify.com/track/5n2C9SFg9ouvxKmiU8AgjU) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lofi Evergreens, Vol\. 2](https://open.spotify.com/album/7qUhVbWLgD1l1oOAYAPFs3) | 2:05 | 2022-09-30 |  |
@@ -162,6 +163,7 @@
 | [summertime sadness](https://open.spotify.com/track/3Pxc3QBFnlb1kd3llYaRwD) | [mr mirakami](https://open.spotify.com/artist/2578z8LcqKTw0ccvtDAQoU) | [summertime sadness](https://open.spotify.com/album/2J59cwB6EpSXaXHM10hdvz) | 2:50 | 2023-02-07 |  |
 | [sunday morning](https://open.spotify.com/track/2Kqb9yoRNsSiHZT26dg2zs) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [sunday morning](https://open.spotify.com/album/3WvUvyo7aNjOGlpFZE7nqg) | 3:43 | 2022-09-02 |  |
 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 | 2022-09-02 |  |
+| [Take On Me](https://open.spotify.com/track/1xi4csiJmrBWUGQeL6MzAl) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Take On Me](https://open.spotify.com/album/6cJBPbnzlEr8HNx3TawMgX) | 3:36 | 2023-04-11 |  |
 | [teardrop](https://open.spotify.com/track/5RoOmKUeBRmwe2eWsGnDZH) | [Ana Luiz](https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl) | [teardrop](https://open.spotify.com/album/4r5blpoDuMRQt0BvW6UdqM) | 1:39 | 2022-12-02 |  |
 | [teenage dirtbag](https://open.spotify.com/track/147H3hthobgaKkbh0YIQVr) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [teenage dirtbag](https://open.spotify.com/album/49cTRGNuXKmfpLhVFCXST9) | 2:04 | 2022-11-11 |  |
 | [That's The Way It Is](https://open.spotify.com/track/4KlG6TcBmbr56ejToFZZNM) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [That's the Way It Is](https://open.spotify.com/album/3JNRLXYVdLBni8VY92Irve) | 1:27 | 2022-10-07 |  |

@@ -4,7 +4,7 @@
 
 > Kick back to the soothing sounds of the Ukulele...
 
-66 songs - 3 hr 25 min
+69 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [E Ku’u Morning Dew](https://open.spotify.com/track/5jnvdBYa3t2TDFEZYboelj) | [Benny Chong](https://open.spotify.com/artist/4rva1vKgGPw9mEyCiucXvH) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 3:39 | 2021-11-12 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:11 | 2021-11-12 |  |
 | [Granada](https://open.spotify.com/track/7gFCvt8SGMlAFUOKDIgm6l) | [Harry Kalahiki](https://open.spotify.com/artist/74i5ZwoH6EtMk59EmKA6V6) | [Mungo Plays Ukulele](https://open.spotify.com/album/6Cw3epXSZzC8PgKCWG8Rdr) | 3:03 | 2021-11-12 |  |
-| [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 | 2021-11-12 |  |
+| [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 | 2021-11-12 | 2023-04-12 |
+| [Hakuna Matata \- Ukulele](https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 2:47 | 2022-04-15 |  |
 | [Hawai'i Calls](https://open.spotify.com/track/1dwZB896AF0g3ycl4fWYPA) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Friends](https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9) | 3:15 | 2021-11-12 |  |
 | [He Aloha Mele](https://open.spotify.com/track/5RWTQHrhubFDDDbpSiMmWJ) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:58 | 2021-11-12 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/3lM3rRciN1o0s0C7lWWc0V) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:36 | 2021-11-12 |  |
@@ -63,9 +64,11 @@
 | [The Last Desert Island](https://open.spotify.com/track/2qYEYkzSQZGTVMnMVD8lJm) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Sounds of Summer](https://open.spotify.com/album/6NQkN4ftESiy98lsM1r1rd) | 2:58 | 2021-11-12 | 2022-07-29 |
 | [The Last Desert Island](https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Aloha Hawaii \- Hawaiian Guitar](https://open.spotify.com/album/74YxF21kujpq7BnpqbVo73) | 2:59 | 2022-04-15 |  |
 | [The Last Desert Island](https://open.spotify.com/track/38lroBrr8nZTbR9k2BjjOE) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Tiki Music \- Hawaii \- Vol\. 2](https://open.spotify.com/album/7qcECDRvsYo4Q15KUdMPF1) | 2:59 | 2022-04-15 | 2022-11-14 |
-| [The Lazy Song \- Ukulele](https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:11 | 2021-11-12 |  |
+| [The Lazy Song \- Ukulele](https://open.spotify.com/track/1NQPzuE8nDevq1WPpA0rWr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 3:11 | 2022-04-15 |  |
+| [The Lazy Song \- Ukulele](https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:11 | 2021-11-12 | 2023-04-12 |
 | [The Long Way Home](https://open.spotify.com/track/49ICOMMk86hTzzJXefGQwg) | [The Beach Bums](https://open.spotify.com/artist/3CQRFlwnNQMzMYyoiKjaPD) | [The Long Way Home](https://open.spotify.com/album/3nMSrc9Bfj8AKc61Tiz6xb) | 1:43 | 2021-11-12 |  |
-| [Three Little Birds \- Ukulele](https://open.spotify.com/track/6j5onmBo098pRm9pFEXuUv) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:21 | 2021-11-12 |  |
+| [Three Little Birds \- Ukulele](https://open.spotify.com/track/6ASMHSe9stzXM020tKThqg) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 3:21 | 2022-04-15 |  |
+| [Three Little Birds \- Ukulele](https://open.spotify.com/track/6j5onmBo098pRm9pFEXuUv) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 3:21 | 2021-11-12 | 2023-04-12 |
 | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/track/2Hat3Kra9vyfFJUMk681zs) | [Dustin Hanusch](https://open.spotify.com/artist/7AWGEBFLCdSRMCbe7TeCJG) | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/album/2yjbhNZBZHvk2T5eoitb3M) | 2:06 | 2021-11-12 |  |
 | [Waika](https://open.spotify.com/track/78QjXJtLWu99p3ieLnVnln) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 3:45 | 2021-11-12 |  |
 | [What a Wonderful World](https://open.spotify.com/track/6x3vwHUuWWeV2BQPYO5zTU) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:15 | 2021-11-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: YoungBoy Never Broke Again, Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 984 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 38 | [coffee](https://open.spotify.com/track/5TGUssx4QqE84w8RHT4ya8) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [coffee](https://open.spotify.com/album/1daPyoPJWFMVoyteJP0755) | 2:15 |
 | 39 | [WE ACTIVE \(feat\. YFN Lucci\)](https://open.spotify.com/track/1TzAC0hcnCp8aauuDt8fKN) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:38 |
 | 40 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 |
-| 41 | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL) | 3:59 |
+| 41 | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Millyz](https://open.spotify.com/artist/49UQfkW88kcZ29ZnHdWCHg) | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL) | 3:59 |
 | 42 | [Trouble](https://open.spotify.com/track/7CbQmo7ePU46TTC1Wz6TOi) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Alpha Omega](https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf) | [Trouble](https://open.spotify.com/album/4KpkCdySMe6TWjN4rQln3a) | 3:27 |
 | 43 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 |
 | 44 | [Sl\*t Him Out Again \(feat\. Kali\)](https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:53 |

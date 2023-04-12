@@ -4,7 +4,7 @@
 
 > Relax and indulge with beautiful piano pieces
 
-1,569 songs - 2 day 21 hr 55 min
+1,572 songs - 2 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Back Home](https://open.spotify.com/track/1pgSiIvNXVQAKlMvjvqL0r) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 | 2019-08-31 | 2020-04-21 |
 | [Bagatelle En Mineur](https://open.spotify.com/track/0C7GCuZRgpevMXfWl9jNkv) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 2:10 | 2019-08-08 | 2020-08-20 |
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2020-06-02 | 2020-09-08 |
+| [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-11 |  |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2019-05-26\* | 2019-08-30 |
 | [Barcelona](https://open.spotify.com/track/7jHkMYAkejNoMzd29JqcBW) | [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Barcelona](https://open.spotify.com/album/2dKm7tJrxscm7nZIoHCqaM) | 3:43 | 2019-06-27 | 2019-08-30 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2020-03-25 | 2021-08-05 |
@@ -357,6 +358,7 @@
 | [Eau Claire](https://open.spotify.com/track/4G5rmGai31DmpVv0dTStxH) | [Elizabeth Bouknight](https://open.spotify.com/artist/75cwvPWWYghazFDw1Hvda4) | [Eau Claire](https://open.spotify.com/album/1L315vBVTOwWtqB5PKfGqJ) | 1:39 | 2019-10-30 | 2021-09-24 |
 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 | 2021-11-11 | 2023-01-18 |
 | [Echoes of You](https://open.spotify.com/track/4NSorTl9g80CArixVtqGfz) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:20 | 2019-05-26\* | 2019-12-17 |
+| [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-11 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-10-01 | 2022-07-16 |
 | [Elegy For The Arctic](https://open.spotify.com/track/7B5OjrUhDBJao8CrIlnXBI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elegy For The Arctic](https://open.spotify.com/album/03IcjA0YrUxqOvFmbKwnA9) | 2:38 | 2019-05-26\* | 2019-11-19 |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2021-12-21 | 2022-12-21 |
@@ -877,6 +879,7 @@
 | [New Dawn](https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw) | 2:54 | 2021-01-26 | 2021-08-05 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2021-05-22 | 2022-05-13 |
 | [Nibiru](https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 2:39 | 2020-08-04 | 2021-02-17 |
+| [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/5YRwec5e32jsHSKX1nKHEO) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 | 2023-04-11 |  |
 | [Night Hymn](https://open.spotify.com/track/6y9vppkSyxb7m57BKxtaqb) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Night Hymn](https://open.spotify.com/album/4yuteEOLn8qJAMBujcwGbY) | 2:15 | 2021-09-24 | 2022-02-03 |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-08-05 | 2022-05-21 |
 | [Night Sky](https://open.spotify.com/track/0DXsxu0TJ8TtrOklnsL6nj) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Night Sky](https://open.spotify.com/album/5E6ZKI7FXtjRdLZJ5S3bS5) | 2:26 | 2022-08-08 |  |

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127111,
+  "num_followers": 127117,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDExNiw1ZWIxYzM5ZGZmMTFhMjA1Nzc2NDgzNmY1NjAyYmVkMTE4NDg0MmJl",
+  "snapshot_id": "NDExOSwzMWQzYmVjMjgxMDRiYWQwZmI2YmY0YjUxNjQ3Y2MxYTVhMjMyNzg0",
   "tracks": [
+    {
+      "added_at": "2023-04-11 16:14:42",
+      "album": {
+        "name": "destination heartbreak",
+        "url": "https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC"
+      },
+      "artists": [
+        {
+          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
+          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv"
+    },
     {
       "added_at": "2023-04-10 16:34:17",
       "album": {
@@ -1087,22 +1103,6 @@
       "duration_ms": 228605,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq"
-    },
-    {
-      "added_at": "2023-01-25 21:22:55",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm"
-      },
-      "artists": [
-        {
-          "name": "Enjac",
-          "url": "https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

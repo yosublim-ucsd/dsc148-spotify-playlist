@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: BIBI\(비비\)\)
+> Happy National Pet Day! 🫶🏼 \(Cover: Crush\(크러쉬\)\)
 
 555 songs - 1 day 5 hr 58 min
 
@@ -90,7 +90,7 @@
 | [Butterfly Effect \(Feat\. nobody likes you pat, Emily Brophy\)](https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Emily Brophy](https://open.spotify.com/artist/3wjB0noN1ulMz4RCU4kNG3) | [A Thousand Miles](https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd) | 2:27 | 2022-04-19 | 2022-07-28 |
 | [By My Side](https://open.spotify.com/track/6HKKRjm2C9QcAgy5ayOtqk) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:59 | 2022-06-29 | 2022-07-05 |
 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 | 2022-04-19 |  |
-| [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 | 2022-04-19 |  |
+| [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 | 2022-04-19 | 2023-04-12 |
 | [CACTUS \(feat\. Crush & Beenzino\)](https://open.spotify.com/track/7sAsLAOMLLYoGyDEFK3Dh1) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 2:38 | 2022-10-28 | 2022-12-06 |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-07-13 |
 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 | 2022-04-19 |  |
@@ -446,7 +446,7 @@
 | [SKIT \(feat\. LeeHi & Loco\)](https://open.spotify.com/track/5u12zwirDCObrXmyqLWKV0) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 2:31 | 2022-10-28 | 2022-11-10 |
 | [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-10 | 2023-02-22 |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-05-11 | 2022-07-09 |
-| [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-05-28 | 2023-04-11 |
+| [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-05-28 |  |
 | [smallthing](https://open.spotify.com/track/0ABgWfH4ksW7hZ7EQWN8Fh) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [smallthing](https://open.spotify.com/album/2BxNOiuS3YJVBwERBDpdgQ) | 2:19 | 2023-02-21 | 2023-02-25 |
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-04 | 2022-07-08 |
 | [Smoke \(feat\. Def\. & Jomalxne\)](https://open.spotify.com/track/661IUMj6VrkniF60mSbA89) | [ØFFSHORE](https://open.spotify.com/artist/4D1yVc6ltwIZHxxNPBe552), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE) | [Scene \#2](https://open.spotify.com/album/7Hsohl8K1M7Gb8OFCIxB1R) | 3:00 | 2022-04-19 | 2022-04-21 |

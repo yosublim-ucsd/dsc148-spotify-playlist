@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=ip5h\-Z8eR1iYN7c6rAjd0w" > SGaWD </a>
 
-181 songs - 8 hr 48 min
+182 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 | 2022-06-09 | 2023-02-24 |
 | [Ikebe](https://open.spotify.com/track/1nY20bUipcz6HfDpkQj8f0) | [DJ Madengo](https://open.spotify.com/artist/0tfwCQAV8i4yWS9ZEPZ1QF), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [Ikebe](https://open.spotify.com/album/4Aqq7G5GPVE3yuqfcAfVek) | 3:09 | 2022-11-24 | 2023-01-20 |
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 |  |
+| [IRE](https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6) | [D Bliss](https://open.spotify.com/artist/3gQm1VLHWfgsxdCybVW3LA), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [IRE](https://open.spotify.com/album/1vrNczRrwYB6WVCNHpR7DY) | 3:21 | 2023-03-30 |  |
 | [Keep it Kewt](https://open.spotify.com/track/7cNck7tTqRj8X1JEXEw9no) | [D\-Truce](https://open.spotify.com/artist/0hbjT5EweZ9GzgLl41IJM1) | [Smoke Break](https://open.spotify.com/album/2Q8lB4AzyFrrkg243kfkHn) | 1:46 | 2022-11-15 | 2022-11-25 |
 | [Kilode \(In Particular\)](https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E), [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Kilode \(In Particular\)](https://open.spotify.com/album/5BlU5AuobL4wUpdlQUANCZ) | 3:29 | 2023-03-18 | 2023-03-25 |
 | [Kososhi](https://open.spotify.com/track/2NNiNiiqDKmJBiLz5X9f6E) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Rendezvous](https://open.spotify.com/album/2QPGrxmEy6Eppt09jFpPMV) | 1:34 | 2022-10-14 | 2022-10-29 |
@@ -146,7 +147,7 @@
 | [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 | 2023-01-20 |  |
 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 | 2022-06-09 |  |
 | [Solitude](https://open.spotify.com/track/54Bvt0UE6yMPQBWb2TYSKc) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Bitter Sweet](https://open.spotify.com/album/6ya5x6gzZDVwVD0rxh8DZO) | 2:15 | 2023-02-24 | 2023-03-18 |
-| [Soro](https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [Crescendo](https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X) | 3:16 | 2023-03-25 |  |
+| [Soro](https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [Crescendo](https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X) | 3:16 | 2023-03-25 | 2023-04-12 |
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2022-06-09 | 2022-12-03 |
 | [Still Up](https://open.spotify.com/track/72FcNQ4PJNAWEaNS2lgpty) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 2:56 | 2022-10-14 | 2022-10-29 |
 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 | 2022-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: LaF
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,913 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,919 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 45 | [Magique](https://open.spotify.com/track/0FzN7tnPh3epsX38zFgvV1) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Magique](https://open.spotify.com/album/7Ju4HUvlakPvIsibpoZ4Wu) | 3:05 |
 | 46 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 |
 | 47 | [Sans II](https://open.spotify.com/track/4loGA6wgIHMxgQyHlqyE5U) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Sans II](https://open.spotify.com/album/3hoKvPaEu9R4wk0VJ3OsWE) | 3:41 |
-| 48 | [Floating](https://open.spotify.com/track/0cp6fmWmUJTEBdwJFhHN3a) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison \(Deluxe\)](https://open.spotify.com/album/5H8QMJraO6RBXz0SrNDJJH) | 2:24 |
+| 48 | [Floating](https://open.spotify.com/track/0p1IDWcPJmWiNbonhSmbeK) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison](https://open.spotify.com/album/4O6gUEDPK3BPP6DdHDZyxg) | 2:24 |
 | 49 | [No Bap](https://open.spotify.com/track/6INVu5L6ciTAFVR64nIF4w) | [Brxnsxn](https://open.spotify.com/artist/0U5NHWybzoxuiGX7ZtTaej), [VersA](https://open.spotify.com/artist/6TkJXTbnYkCRcedHK8XTrC), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [No Bap](https://open.spotify.com/album/20wZbBu2CTnHuakNixVf1H) | 3:58 |
 | 50 | [Allo c’est qui?](https://open.spotify.com/track/7JvS9AEXvNPsouhhVECNeZ) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Allo c’est qui?](https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz) | 2:49 |
 | 51 | [Uptown](https://open.spotify.com/track/1AwELajjX7wPD87c5TfYc6) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Uptown](https://open.spotify.com/album/7EAieD2FqluiHc3eeTDkCC) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Connexion](https://open.spotify.com/track/1KUEsdNuweedvo3Lb9LjlR) | [Yamz](https://open.spotify.com/artist/5ab0GodrK1p7arHrNeLECP), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Connexion](https://open.spotify.com/album/1CFVRutfTbatxCw3C1sWYC) | 3:39 |
 | 75 | [Dangerous](https://open.spotify.com/track/5i3geg5F4TESsafrZe66tv) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:41 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDljOGIzNzI0YmRiOTUxNjQ4ODkyOGFjNWJhMDE4OWZi`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDZmNjk5MDI3ZDZiY2ZjMjUzOTY3ZjFhNmRkODZjOTUz`

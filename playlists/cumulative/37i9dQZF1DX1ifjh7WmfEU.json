@@ -3276,10 +3276,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 142000,
       "name": "Without You - Piano",
       "url": "https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA"
+    },
+    {
+      "album": {
+        "name": "Relaxing Pop Piano Covers",
+        "url": "https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Without You - Piano",
+      "url": "https://open.spotify.com/track/6uhQBsYdVTJGTCYYnAwpTt"
     },
     {
       "album": {

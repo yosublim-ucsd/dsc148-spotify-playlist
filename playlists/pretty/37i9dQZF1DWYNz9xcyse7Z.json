@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 44342,
+  "num_followers": 44413,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMDIzYzEyODRiNjFmOGUzMmRiMzc0YmRjMGM1ZDYzZmZm",
+  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMDlkNTI3NDIyNGY4NzQyNzk4NDQ5M2Q3ZmU4ZjVjN2U3",
   "tracks": [
     {
       "added_at": "2023-02-03 00:16:49",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
-      },
-      "artists": [
-        {
-          "name": "Ulises Quintero",
-          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "No Existe Amor Igual - Versiones con Guitarras",
-      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Hombres de Rancho",
         "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 204546,
       "name": "Que Casualidad",
       "url": "https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw"
+      },
+      "artists": [
+        {
+          "name": "Ulises Quintero",
+          "url": "https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "No Existe Amor Igual - Versiones con Guitarras",
+      "url": "https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Mi Guitarra y Yo Vol. 2",
-        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+        "name": "Hombres de Rancho",
+        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Se Me Mamo El Becerro",
-      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
+      "duration_ms": 204506,
+      "name": "Dos Palomas Al Volar",
+      "url": "https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
+        "name": "Mi Guitarra y Yo Vol. 2",
+        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Se Me Mamo El Becerro",
+      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
         "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 156760,
       "name": "De Esta Sierra a la Otra Sierra",
       "url": "https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
-        "name": "Hombres de Rancho",
-        "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Dos Palomas Al Volar",
-      "url": "https://open.spotify.com/track/33ukiKvMGOhbpMEdpH8GgR"
     },
     {
       "added_at": "2023-02-03 00:16:49",

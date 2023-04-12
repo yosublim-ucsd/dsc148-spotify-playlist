@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-571 songs - 1 day 7 hr 33 min
+572 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,8 @@
 | [Wild Trails](https://open.spotify.com/track/2urxHALnoeVxG82o57q0ny) | [Epi\-Soothe](https://open.spotify.com/artist/3nbFHhWXhyhU1QACy18PlF) | [Wild Trails](https://open.spotify.com/album/3tMJzCDzTcRS8o6pImIE2c) | 3:38 | 2019-09-14 | 2022-11-18 |
 | [Will to Live](https://open.spotify.com/track/3FoVLAXDlxCrGXZD6ppT85) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Will to Live](https://open.spotify.com/album/6EHCbvJVYCY9C7SrTLOjIZ) | 2:15 | 2020-09-17 |  |
 | [Willet](https://open.spotify.com/track/6UesrqZXshkMjY07kVnlkU) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:59 | 2020-06-19 | 2021-09-14 |
-| [Willow \- Instrumental Version](https://open.spotify.com/track/6dRo3av1dw6j1IrdKZaCQL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/4xjZ7UTVG55BZDAgFYwkeb) | 3:39 | 2021-07-01 |  |
+| [Willow \- Instrumental Version](https://open.spotify.com/track/5TtfSQoBYHfCVPRS0M9DUs) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/3ULQIed3zR6E2Ak2oV66sW) | 3:39 | 2023-04-07 |  |
+| [Willow \- Instrumental Version](https://open.spotify.com/track/6dRo3av1dw6j1IrdKZaCQL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/4xjZ7UTVG55BZDAgFYwkeb) | 3:39 | 2021-07-01 | 2023-04-12 |
 | [Winter of the Electric Beach](https://open.spotify.com/track/0y6UCsTuCrvpHH9EoRQ9jC) | [Olan Mill](https://open.spotify.com/artist/5EtbzLDdynYLlgthbKiAlH) | [Half Seas Over](https://open.spotify.com/album/6qgtuVY99xJZjqMCf9RJ8E) | 4:04 | 2019-05-26\* | 2019-08-13 |
 | [Winter Sun](https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Winter Sun](https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi) | 2:22 | 2022-03-04 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2020-09-17 |  |

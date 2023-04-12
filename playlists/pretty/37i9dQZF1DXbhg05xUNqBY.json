@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 296979,
+  "num_followers": 297233,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMDYwZTc3NTU3ZWI5MTA4OWMwMjMyNDg5MDk4MmRkZTJh",
+  "snapshot_id": "MTY3NTc5MTc4MiwwMDAwMDAwMGU4MWMxZmY4Mzc3MDg4ZTRkZjk5Yjg2ZWViNzZjNDI4",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/3qTycMB7VucF8cIv2ZbVu4"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/41FnfKYB6m3uQSAzPC7Jfc"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 138019,
-      "name": "06:00 Sunrise",
-      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "If I Had Stayed",
         "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 131641,
       "name": "If I Had Stayed",
       "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 138019,
+      "name": "06:00 Sunrise",
+      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "No Better Day",
-      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "No Better Day",
+      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Hymns & Soul",
-        "url": "https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
       },
       "artists": [
         {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
         }
       ],
-      "duration_ms": 237684,
-      "name": "Face to Face",
-      "url": "https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q"
+      "duration_ms": 217573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Call on Your Name (Piano Version)",
-        "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
+        "name": "Hymns & Soul",
+        "url": "https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB"
       },
       "artists": [
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
         }
       ],
-      "duration_ms": 228385,
-      "name": "Call on Your Name - Piano Version",
-      "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
+      "duration_ms": 237684,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4UycA6we6inG3usBonCkN5"
+        "name": "Call on Your Name (Piano Version)",
+        "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
       },
       "artists": [
         {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 217573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
+      "duration_ms": 228385,
+      "name": "Call on Your Name - Piano Version",
+      "url": "https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 156270,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Shiloh",
         "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 268360,
       "name": "Shiloh",
       "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 156270,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 170119,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
-        }
-      ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 307062,
       "name": "Jesus My Beloved",
       "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+        }
+      ],
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Omnipotent Yet Intimate",
-        "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 279107,
-      "name": "Omnipotent Yet Intimate",
-      "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "All Of My Best Friends (Acoustic)",
         "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
       },
@@ -1039,22 +1019,42 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Be My Shalom",
-        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         },
         {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 187943,
-      "name": "Be My Shalom",
-      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Omnipotent Yet Intimate",
+        "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 279107,
+      "name": "Omnipotent Yet Intimate",
+      "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "God You Are",
-        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+        "name": "Be My Shalom",
+        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
         }
       ],
-      "duration_ms": 265286,
-      "name": "God You Are (feat. Josh Baldwin)",
-      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+      "duration_ms": 187943,
+      "name": "Be My Shalom",
+      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Whisper (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
-      },
-      "artists": [
-        {
-          "name": "Stillman",
-          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
-        }
-      ],
-      "duration_ms": 267754,
-      "name": "Whisper (Acoustic)",
-      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Helpless One",
         "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 224333,
       "name": "Same God - Acoustic",
       "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Whisper (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT"
+      },
+      "artists": [
+        {
+          "name": "Stillman",
+          "url": "https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH"
+        }
+      ],
+      "duration_ms": 267754,
+      "name": "Whisper (Acoustic)",
+      "url": "https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY"
     },
     {
       "added_at": "2023-02-07 17:43:02",

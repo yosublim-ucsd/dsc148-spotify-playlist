@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,046 likes - 300 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,057 likes - 300 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 218 | [Relaxation](https://open.spotify.com/track/3hUEPSBw46jDj07dPhY5pA) | [Diamond Mountain](https://open.spotify.com/artist/22tR9JGX5LWdBcMD8lFEgV) | [Relaxation](https://open.spotify.com/album/1dQjY7ABQDtH4KcepNquUm) | 3:26 |
 | 219 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 |
 | 220 | [Ice Clouds](https://open.spotify.com/track/6K6L7X4M60Mk3dk9i7gN2u) | [unwaxed lemons](https://open.spotify.com/artist/7qlTuB8r2bqN5mjBUeDSCG) | [Ice Clouds](https://open.spotify.com/album/1xUC5g3SvEj8YFCJYbnfSf) | 1:40 |
-| 221 | [Feathers](https://open.spotify.com/track/5HZAPlw5Ff3ORJrPUdYJb9) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/2gkSH8Qh6khQjmlZpRxeUw) | 1:43 |
+| 221 | [Feathers](https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/1t7Bu6Wutbjdp28mBbkSsc) | 1:43 |
 | 222 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 |
 | 223 | [Milky Way](https://open.spotify.com/track/0yrnEwR7JC387kqTxcg3kN) | [Atoms](https://open.spotify.com/artist/7ywoGM38ETkd6qmG6C6iZr) | [Milky Way](https://open.spotify.com/album/7luMeRCQ0HbNC7vazp3mnV) | 2:52 |
 | 224 | [Barcarolle](https://open.spotify.com/track/5BHPZXzyqpVDsUhzzf7nTS) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Continuo](https://open.spotify.com/album/6J9zqyjrncN68DgTubHoGr) | 2:20 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 299 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 |
 | 300 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
 
-Snapshot ID: `MTY4MDc4OTE1MSwwMDAwMDAwMDExMjg4NTAwZTIyMTVlOTU3OTAwZjNhYzRiMDg5NWVl`
+Snapshot ID: `MTY4MDc4OTE1MSwwMDAwMDAwMGM2OTVjY2E4NDk1YTIwMDU5MjMzNTVhNDBmZWY5MzY2`

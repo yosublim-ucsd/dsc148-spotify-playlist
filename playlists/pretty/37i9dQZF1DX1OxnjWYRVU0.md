@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,465 likes - 350 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,605 likes - 350 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 32 | [Killing Me](https://open.spotify.com/track/50q9KNvxSOyBvDroJYUOeW) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Valeria Mancini](https://open.spotify.com/artist/2npPeervUSog9B67xmw4h9) | [Killing Me](https://open.spotify.com/album/6wOqi9eRpaZKV3G1KAeA93) | 6:29 |
 | 33 | [Words](https://open.spotify.com/track/3I2ViVcQP1N6x4PiO7c04z) | [FVTM](https://open.spotify.com/artist/6W4T76Wfw2gOGw4irMxFpu), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA) | [Words](https://open.spotify.com/album/3eMihS8Pn9LPHS7eJ2ieCU) | 2:05 |
 | 34 | [Boss Bitch](https://open.spotify.com/track/0uaWqD8jubgtgw8cgfdyVH) | [Katana Angels](https://open.spotify.com/artist/3AAEQObIreGsfeJzeLXAAX), [Blind Rose](https://open.spotify.com/artist/4SLbhneQKn0ut8LeVyafeW) | [Boss Bitch](https://open.spotify.com/album/5MfttOJ2Tdcq5yKAaHGib8) | 2:28 |
-| 35 | [Laisse tomber les filles](https://open.spotify.com/track/1tDvE6RRi0n91oTVUZor7l) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [David Goldcher](https://open.spotify.com/artist/54PgFLD1XdM8PhNmmHY20X) | [Laisse tomber les filles](https://open.spotify.com/album/5dbbCUykl1p2v7COouXKI8) | 2:46 |
+| 35 | [Laisse tomber les filles](https://open.spotify.com/track/1tDvE6RRi0n91oTVUZor7l) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz) | [Laisse tomber les filles](https://open.spotify.com/album/5dbbCUykl1p2v7COouXKI8) | 2:46 |
 | 36 | [Talk Dirty](https://open.spotify.com/track/4Oo7oqYioSrqi7so8Lff3i) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [David Jay](https://open.spotify.com/artist/7a5hqyXa3DANEicriQDURV) | [Talk Dirty](https://open.spotify.com/album/46nPZVWWLaIqe2ZJre7N3q) | 2:47 |
 | 37 | [Break Free](https://open.spotify.com/track/2m6o0hs9LBk20Ovk9cXr7O) | [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [AnnicK](https://open.spotify.com/artist/2J8TklMXojpcXK0PsN9sU6), [Makenzie Reilly](https://open.spotify.com/artist/5rQtVRhOSnWFV4DeCL9wTt) | [Break Free](https://open.spotify.com/album/5CREgTUviYjs54H73Z7kBW) | 3:09 |
 | 38 | [Supermodel](https://open.spotify.com/track/6zGKl7phaGPsLPBFx0XpFr) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Jay Rhydon](https://open.spotify.com/artist/6rnzVLf7xpyCsp7saQoZfl) | [Supermodel](https://open.spotify.com/album/2Ocfhe9OeOHmKnKz8Csrj8) | 2:25 |

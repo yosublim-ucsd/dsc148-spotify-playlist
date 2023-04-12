@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > MEAU \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\) op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,104 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,135 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 9 | [Koning Liefde](https://open.spotify.com/track/4y8Lwn9OwGxUf7fTJtlPXl) | [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Koning Liefde](https://open.spotify.com/album/2xyUvd6kssT9MiTbDQfwUZ) | 2:44 |
 | 10 | [Terugweg](https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Terugweg](https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii) | 2:43 |
 | 11 | [Dit Moet Verliefd Zijn](https://open.spotify.com/track/64ArZjpQr4pTH9SuMYjm6b) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Dit Moet Verliefd Zijn](https://open.spotify.com/album/3QAnfcAmeRXDJibQrfUJZq) | 3:27 |
-| 12 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 |
-| 13 | [Ala Day](https://open.spotify.com/track/0dBxxEhGVMH5EM9sjz3zxY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Twintig I](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 3:11 |
-| 14 | [Denk aan mij](https://open.spotify.com/track/2RDMBzqNdFeB011OgBUphO) | [Noa Zwan](https://open.spotify.com/artist/5uHmg0cbPLuuTEV8VsB9wX), [Demi Verduyn](https://open.spotify.com/artist/6Gcr9lIgdVVfSqDw9EIa6f) | [Denk aan mij](https://open.spotify.com/album/1LjiossHFTKs6e2uFFTcTz) | 2:08 |
-| 15 | [Het Feest Is Al Voorbij](https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Alles Smaakt Beter Met Prik](https://open.spotify.com/album/6QXgdZ5XkMOuQmRpv0KIo0) | 3:19 |
-| 16 | [Deel Van Mij](https://open.spotify.com/track/1vDtmWjpE1FEiIwlBjrppg) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Deel Van Mij](https://open.spotify.com/album/6Q5zhov1CHpWfeTrKFPEXt) | 3:16 |
+| 12 | [Deel Van Mij](https://open.spotify.com/track/1vDtmWjpE1FEiIwlBjrppg) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Deel Van Mij](https://open.spotify.com/album/6Q5zhov1CHpWfeTrKFPEXt) | 3:16 |
+| 13 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 |
+| 14 | [Ala Day](https://open.spotify.com/track/0dBxxEhGVMH5EM9sjz3zxY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Twintig I](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 3:11 |
+| 15 | [Denk aan mij](https://open.spotify.com/track/2RDMBzqNdFeB011OgBUphO) | [Noa Zwan](https://open.spotify.com/artist/5uHmg0cbPLuuTEV8VsB9wX), [Demi Verduyn](https://open.spotify.com/artist/6Gcr9lIgdVVfSqDw9EIa6f) | [Denk aan mij](https://open.spotify.com/album/1LjiossHFTKs6e2uFFTcTz) | 2:08 |
+| 16 | [Het Feest Is Al Voorbij](https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Alles Smaakt Beter Met Prik](https://open.spotify.com/album/6QXgdZ5XkMOuQmRpv0KIo0) | 3:19 |
 | 17 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 |
 | 18 | [Camera](https://open.spotify.com/track/4twF3kjfCgl0MJIhbJlXca) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Camera](https://open.spotify.com/album/5Cv9zHrHO15rMIkDGEAiwp) | 2:26 |
 | 19 | [Meisje](https://open.spotify.com/track/7xcuQ0m5rSUgrjh2YVTUz4) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Meisje](https://open.spotify.com/album/14mgKqbRjCSH7cv13SlnSw) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Spijt](https://open.spotify.com/track/6sKhdsXpgWSO2QMGQTINIk) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Aurelia \(Deluxe\)](https://open.spotify.com/album/685rvbfLSwlnFArXpendcy) | 2:07 |
 | 90 | [Beetje Vrijheid](https://open.spotify.com/track/6uRh5pPZNPuMgFoSNlHKNN) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Beetje Vrijheid](https://open.spotify.com/album/7noOA6uNQKPIOS0PUkACvf) | 3:50 |
 
-Snapshot ID: `MTY4MDg1MzQxNCwwMDAwMDAwMGNkZjBhODI1ZDIxZTUzODA0MmYyM2YyNDk3ZTBhNWVh`
+Snapshot ID: `MTY4MTE5OTUxMSwwMDAwMDAwMDY0NGYzOWFlMjJjZjE5OTczZmExNzk4MWQwOTE3Njg1`

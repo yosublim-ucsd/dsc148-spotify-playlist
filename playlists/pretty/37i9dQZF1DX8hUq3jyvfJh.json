@@ -1,12 +1,12 @@
 {
   "description": "Lauana Prado e mais mulheres para serem ouvidas no volume m\u00e1ximo!",
-  "num_followers": 137880,
+  "num_followers": 138011,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDk0MDI3NjcxMDE2ZGQ0YzkxMjAzOWQ1NTg2YmY4MWNi",
+  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMGFjMjE0MDI3NGM1ZGJkOWNiZWRkZDVkZDMyNjliNWE5",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Sentimentos",
-        "url": "https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok"
-      },
-      "artists": [
-        {
-          "name": "Bizay",
-          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "Morfina",
-      "url": "https://open.spotify.com/track/7JMoUku5izAjJIzW8v7y5L"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Respeita As Braba (Ao Vivo / Vol. 3)",
         "url": "https://open.spotify.com/album/0754acWXo8RvYk2rlqnh2c"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Para ou Vem",
-        "url": "https://open.spotify.com/album/1SUQkyxHKDpWRjXBpandCP"
+        "name": "Sentimentos",
+        "url": "https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok"
       },
       "artists": [
         {
-          "name": "Day Macedo",
-          "url": "https://open.spotify.com/artist/0jRfVNZDw9P1PqSxkxfm5v"
+          "name": "Bizay",
+          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
         }
       ],
-      "duration_ms": 175248,
-      "name": "Para ou Vem",
-      "url": "https://open.spotify.com/track/62gFsSwQ0jwoSNJjYs3x3P"
+      "duration_ms": 198346,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/7JMoUku5izAjJIzW8v7y5L"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Para ou Vem",
+        "url": "https://open.spotify.com/album/1SUQkyxHKDpWRjXBpandCP"
+      },
+      "artists": [
+        {
+          "name": "Day Macedo",
+          "url": "https://open.spotify.com/artist/0jRfVNZDw9P1PqSxkxfm5v"
+        }
+      ],
+      "duration_ms": 175248,
+      "name": "Para ou Vem",
+      "url": "https://open.spotify.com/track/62gFsSwQ0jwoSNJjYs3x3P"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Correndo Do Tchau",
         "url": "https://open.spotify.com/album/6Ov3FfZ06rE22owgghD925"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/2Y9cAed6jkgJV1jA2HXeRW"
+        "name": "Respeita As Braba (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS"
       },
       "artists": [
         {
-          "name": "Taty pink",
-          "url": "https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS"
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
         }
       ],
-      "duration_ms": 155951,
-      "name": "Penhasco",
-      "url": "https://open.spotify.com/track/7HlqKriadwCPdGnqNjzY7x"
+      "duration_ms": 182272,
+      "name": "Cora\u00e7\u00e3o S\u00f3brio - Ao Vivo",
+      "url": "https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -623,6 +623,22 @@
       "duration_ms": 162592,
       "name": "Foi Tudo Culpa do Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0cqq1hyN79OILZitNS2CNJ"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/2Y9cAed6jkgJV1jA2HXeRW"
+      },
+      "artists": [
+        {
+          "name": "Taty pink",
+          "url": "https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS"
+        }
+      ],
+      "duration_ms": 155951,
+      "name": "Penhasco",
+      "url": "https://open.spotify.com/track/7HlqKriadwCPdGnqNjzY7x"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -671,22 +687,6 @@
       "duration_ms": 142514,
       "name": "Troca De Tiro",
       "url": "https://open.spotify.com/track/6cFtG8NWrp7WZ8Jns5mWin"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Respeita As Braba (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS"
-      },
-      "artists": [
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Cora\u00e7\u00e3o S\u00f3brio - Ao Vivo",
-      "url": "https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "T\u00f4 no Buteco, Ep. 1",
+        "url": "https://open.spotify.com/album/4NLTWfQrvREdNtDOWka0Zk"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 175224,
+      "name": "Olha Eu Aqui de Novo",
+      "url": "https://open.spotify.com/track/1M4WdJ5JxaHLgKg6TtpXJx"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Sentimentos",
         "url": "https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 136592,
       "name": "Foda Me Esquecer - Ao Vivo",
       "url": "https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "T\u00f4 no Buteco, Ep. 1",
-        "url": "https://open.spotify.com/album/4NLTWfQrvREdNtDOWka0Zk"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 175224,
-      "name": "Olha Eu Aqui de Novo",
-      "url": "https://open.spotify.com/track/1M4WdJ5JxaHLgKg6TtpXJx"
     },
     {
       "added_at": "2023-04-05 03:00:00",

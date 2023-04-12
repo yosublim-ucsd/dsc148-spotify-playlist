@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-426 songs - 1 day 5 hr 0 min
+427 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Duffy's](https://open.spotify.com/track/00UpNWR05F28iSffqxvut7) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Duffy's](https://open.spotify.com/album/40FuxW9z8QJKwePqsGwW5F) | 3:39 | 2023-02-22 |  |
 | [Décors](https://open.spotify.com/track/1IitbDpFzat11LvpHj1joC) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Pink Colour Surgery](https://open.spotify.com/album/29RJkx2Sg92aG5S0oSHtvK) | 8:52 | 2023-02-08 | 2023-03-16 |
 | [early bird](https://open.spotify.com/track/46lXSFWwdWj7QeQXFu9ieg) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [WOW](https://open.spotify.com/album/20TkyDiL0i1Szs5Kg9UieZ) | 2:38 | 2023-03-08 |  |
+| [Eastern Ave](https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Eastern Ave](https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF) | 3:36 | 2023-04-11 |  |
 | [Easy On Your Own?](https://open.spotify.com/track/0wPb6Xejcls5ClJbeKeaRk) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/50JEWg86VpUNtcNaBEnsgt) | 2:54 | 2022-08-17 | 2022-09-29 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-01 | 2023-03-09 |
 | [Edge of the Edge](https://open.spotify.com/track/1FjITBDWT1DyZGiMaJvy2a) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Edge of the Edge](https://open.spotify.com/album/2dpHOvniqa5Lq1boqY0ILc) | 4:48 | 2022-08-03 | 2022-09-22 |

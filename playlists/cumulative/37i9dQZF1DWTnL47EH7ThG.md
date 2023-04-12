@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-328 songs - 19 hr 5 min
+329 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Back](https://open.spotify.com/track/0b2DJdxxgtgNGAbgHElCID) | [Skodi](https://open.spotify.com/artist/3BkUIA9Gj05fOc3rw4iug0) | [Corner Store Chronicles: The Prequel](https://open.spotify.com/album/5QMniu0AZ6OoULArBEVOAP) | 3:24 | 2022-10-27 |  |
 | [Backseat](https://open.spotify.com/track/6dUDGsXLTE059A8d0jQuqr) | [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR) | [Backseat](https://open.spotify.com/album/5Hd4IfHw7DfZKzw0X4TYIX) | 3:36 | 2022-07-18 | 2023-03-09 |
 | [Bad Bitch Steppin'](https://open.spotify.com/track/0eypKYioaRK2I7MbuoVodD) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt) | [Bad Bitch Steppin'](https://open.spotify.com/album/5Soc1AAa7FuzEa4Xw8sxiL) | 1:24 | 2022-12-05 |  |
-| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2022-12-05 |  |
+| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2022-12-05 | 2023-04-12 |
+| [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 | 2023-03-08 |  |
 | [Bad Gyal](https://open.spotify.com/track/37tB5fsOM2AxFnHmrSHrYp) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR), [Dyer MC](https://open.spotify.com/artist/0cixgL4lBK61iUJ7imWoUZ) | [Bad Gyal / EZ 4 Me](https://open.spotify.com/album/66EHrbtKApddaw41QPB8ds) | 2:17 | 2022-10-27 |  |
 | [Bagga Yute](https://open.spotify.com/track/4BHWOvdFcPLjubN0cowdUe) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE TAPES Vol.1](https://open.spotify.com/album/6jqwzjUeXAJdUBKZ0KqtGO) | 2:39 | 2022-04-26 | 2022-10-28 |
 | [Bando](https://open.spotify.com/track/5VJ5Ap0ZnPOv0fRq6FhKrl) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Bando](https://open.spotify.com/album/1DRMfkqsmrHdjBdBp43Zov) | 2:34 | 2022-02-04 |  |

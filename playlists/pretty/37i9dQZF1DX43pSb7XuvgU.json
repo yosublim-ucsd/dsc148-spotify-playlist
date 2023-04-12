@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 100119,
+  "num_followers": 100227,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDM4NTc0YWQyYjY4Nzc1Yzk5MmIzOTkxY2IyMzMyMzBk",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDA4Yzc3MzllZDk4MjBlZjI1MjhmYjk2NTczY2JhMzBh",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 234933,
       "name": "He Renunciado a Ti - Remasterizado",
       "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/4YHcmItN6rTUvpqee34QxL"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/2djCa914hXJtSJPxN3ziCX"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 214053,
       "name": "Yo Te Recuerdo - Version Salsa",
       "url": "https://open.spotify.com/track/5Di8dpmfkDRp8waYbXbohB"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Mujeriego",
-        "url": "https://open.spotify.com/album/4YHcmItN6rTUvpqee34QxL"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/2djCa914hXJtSJPxN3ziCX"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Musica Original De La Pelicula Gavilan O Paloma",
-        "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 246893,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 392813,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Musica Original De La Pelicula Gavilan O Paloma",
+        "url": "https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 246893,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU"
     },
     {
       "added_at": "2021-12-29 23:33:57",

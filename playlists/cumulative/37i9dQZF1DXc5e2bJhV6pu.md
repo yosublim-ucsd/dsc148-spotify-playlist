@@ -4,7 +4,7 @@
 
 > Get your day off to a cracking start!
 
-1,430 songs - 3 day 9 hr 14 min
+1,431 songs - 3 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Born To Be Yours](https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae) | 3:13 | 2019-08-09 | 2022-04-17 |
 | [Boyfriend](https://open.spotify.com/track/0171XsIM2xyeXRr6wsugEI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/6eknhm96vRigjwfcl49xKb) | 2:51 | 2019-07-31 | 2019-08-02 |
 | [Boyfriend](https://open.spotify.com/track/4QnC1bIaMSfDQvF4XDhV5M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/3rA5CgccCbmCnJEzwGnDea) | 2:41 | 2020-06-12 | 2022-04-12 |
-| [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 | 2019-11-08 |  |
+| [boyfriend \(with Social House\)](https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [boyfriend](https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV) | 3:06 | 2019-11-08 | 2023-04-12 |
 | [BOYSHIT](https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [BOYSHIT](https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp) | 2:40 | 2020-12-11 | 2021-01-15 |
 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 | 2019-10-16 | 2021-05-12 |
 | [Break My Heart](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Break My Heart](https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs) | 3:41 | 2020-06-12 | 2020-07-03 |
@@ -1428,6 +1428,7 @@
 | [You Lately](https://open.spotify.com/track/6vL2NVGXWg3KZXfeRXNtVy) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [You Lately](https://open.spotify.com/album/4QjsHYzsVdcjvmlzY3HaaQ) | 3:07 | 2019-07-31 | 2022-04-09 |
 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 | 2019-08-02 | 2022-11-14 |
 | [You Me and The Silence](https://open.spotify.com/track/15t7OIDgCF5C6mLACqZbm5) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [You Me and The Silence](https://open.spotify.com/album/0NETS2tho42bDrogzCrZVl) | 3:05 | 2019-08-06 | 2022-04-17 |
+| [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2023-03-30 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down](https://open.spotify.com/album/21dd5QyItuoqvPkViQXlKf) | 2:51 | 2019-07-31 | 2022-04-01 |
 | [You Were Right](https://open.spotify.com/track/77lqbary6vt1DSc1MBN6sx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/396Y1EKWxeJt2Yh3Da1for) | 3:59 | 2022-03-29 | 2022-04-14 |
 | [you!](https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [you!](https://open.spotify.com/album/5Ob72SRWEGd36eRlASw6k2) | 4:34 | 2020-08-14 | 2022-04-18 |

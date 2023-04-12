@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421764,
+  "num_followers": 421787,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDAwN2Y0Yjc5OTI2M2Q5NTZkZGVkMzY2NWU2ZWY0MWI3",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDJmYjU3ZWI2NzQxOTIxMzNhMzAwOWU3YTcyYTVjZmY1",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Red de Maracuj\u00e1",
-        "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Red de Maracuj\u00e1",
-      "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Calculista",
         "url": "https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 158057,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Red de Maracuj\u00e1",
+        "url": "https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Red de Maracuj\u00e1",
+      "url": "https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P"
     },
     {
       "added_at": "2023-02-10 03:00:00",

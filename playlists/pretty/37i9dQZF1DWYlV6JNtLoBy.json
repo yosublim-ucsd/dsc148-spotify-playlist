@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 299,
+  "num_followers": 310,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxNDc0MCwwMDAwMDAwMDJhNjA1YzQzNTc2MmNjNjUxYzczZTk4Mjg1MWU5ZGJi",
+  "snapshot_id": "MTY4MDgxNDc0MCwwMDAwMDAwMDY5MGRkYmJlOTFlOTdjMWFhOWY3NWZlYTgyMTBmMmNk",
   "tracks": [
     {
       "added_at": "2023-04-05 19:21:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-12-19 14:32:36",
       "album": {
-        "name": "Ipo Siku",
-        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
-      },
-      "artists": [
-        {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
-        }
-      ],
-      "duration_ms": 347593,
-      "name": "Ipo Siku",
-      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
-    },
-    {
-      "added_at": "2022-12-19 14:32:36",
-      "album": {
         "name": "Uniongoze Yesu, Vol.4",
         "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 490919,
       "name": "Uniongoze Yesu",
       "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
+    },
+    {
+      "added_at": "2022-12-19 14:32:36",
+      "album": {
+        "name": "Ipo Siku",
+        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
+      },
+      "artists": [
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        }
+      ],
+      "duration_ms": 347593,
+      "name": "Ipo Siku",
+      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -475,18 +475,18 @@
     {
       "added_at": "2022-12-19 14:32:36",
       "album": {
-        "name": "Hapa Nilipo",
-        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
+        "name": "Wewe ni mungu",
+        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
       },
       "artists": [
         {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
         }
       ],
-      "duration_ms": 261355,
-      "name": "Upendo Wa Yesu",
-      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
+      "duration_ms": 262321,
+      "name": "Wewe ni mungu",
+      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -507,34 +507,18 @@
     {
       "added_at": "2022-12-19 14:32:36",
       "album": {
-        "name": "Wewe ni mungu",
-        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
+        "name": "Hapa Nilipo",
+        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
       "artists": [
         {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
         }
       ],
-      "duration_ms": 262321,
-      "name": "Wewe ni mungu",
-      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
-    },
-    {
-      "added_at": "2022-12-19 14:32:36",
-      "album": {
-        "name": "Siteketei",
-        "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
-      },
-      "artists": [
-        {
-          "name": "Angel Benard",
-          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "Siteketei",
-      "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
+      "duration_ms": 261355,
+      "name": "Upendo Wa Yesu",
+      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -555,6 +539,22 @@
       "duration_ms": 221936,
       "name": "KELELE ZA USHINDI",
       "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
+    },
+    {
+      "added_at": "2022-12-19 14:32:36",
+      "album": {
+        "name": "Siteketei",
+        "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
+      },
+      "artists": [
+        {
+          "name": "Angel Benard",
+          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "Siteketei",
+      "url": "https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-19 14:32:36",
       "album": {
-        "name": "Yesu Mtaani",
-        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
-      },
-      "artists": [
-        {
-          "name": "Moji Shortbabaa",
-          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Vimbada",
-      "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
-    },
-    {
-      "added_at": "2022-12-19 14:32:36",
-      "album": {
         "name": "Sweetie Sweetie",
         "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 316473,
       "name": "Sweetie Sweetie",
       "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+    },
+    {
+      "added_at": "2022-12-19 14:32:36",
+      "album": {
+        "name": "Yesu Mtaani",
+        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Vimbada",
+      "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-12-19 14:32:36",
       "album": {
-        "name": "Vanity",
-        "url": "https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O"
-      },
-      "artists": [
-        {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
-        }
-      ],
-      "duration_ms": 277081,
-      "name": "Vanity",
-      "url": "https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc"
-    },
-    {
-      "added_at": "2022-12-19 14:32:36",
-      "album": {
         "name": "Pale Pale",
         "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2022-12-19 14:32:36",
       "album": {
-        "name": "Mungu Mkuu",
-        "url": "https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj"
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O"
       },
       "artists": [
         {
-          "name": "Evelyn Wanjiru",
-          "url": "https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK"
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
         }
       ],
-      "duration_ms": 303804,
-      "name": "Mungu Mkuu",
-      "url": "https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys"
+      "duration_ms": 277081,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -719,6 +703,22 @@
       "duration_ms": 221754,
       "name": "Wacha Story",
       "url": "https://open.spotify.com/track/6tZ9ux4XLVmeHbW8yPrMtH"
+    },
+    {
+      "added_at": "2022-12-19 14:32:36",
+      "album": {
+        "name": "Mungu Mkuu",
+        "url": "https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Wanjiru",
+          "url": "https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK"
+        }
+      ],
+      "duration_ms": 303804,
+      "name": "Mungu Mkuu",
+      "url": "https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -751,6 +751,22 @@
       "duration_ms": 254772,
       "name": "Aina Noma",
       "url": "https://open.spotify.com/track/3P50UlKQOuLbGUd1nnTR9u"
+    },
+    {
+      "added_at": "2022-12-19 14:32:36",
+      "album": {
+        "name": "Tobina",
+        "url": "https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp"
+      },
+      "artists": [
+        {
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
+        }
+      ],
+      "duration_ms": 231131,
+      "name": "Tobina",
+      "url": "https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW"
     },
     {
       "added_at": "2022-12-19 14:32:36",
@@ -823,22 +839,6 @@
       "duration_ms": 185322,
       "name": "My Heart Is Yours",
       "url": "https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY"
-    },
-    {
-      "added_at": "2022-12-19 14:32:36",
-      "album": {
-        "name": "Tobina",
-        "url": "https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp"
-      },
-      "artists": [
-        {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
-        }
-      ],
-      "duration_ms": 231131,
-      "name": "Tobina",
-      "url": "https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW"
     }
   ],
   "unique_name": "Sunday Service",

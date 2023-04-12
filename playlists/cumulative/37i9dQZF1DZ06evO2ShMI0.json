@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 194866,
       "name": "Dale Pascual",
       "url": "https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 268866,
       "name": "Luz De Dia",
       "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "Sumar Tiempo No Es Sumar Amor",
+      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
+    },
+    {
+      "album": {
         "name": "Recupera tus Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU"
       },
@@ -948,7 +966,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 222040,
       "name": "Sumar Tiempo No Es Sumar Amor",
       "url": "https://open.spotify.com/track/7sfcKVh3shDjlb1djxFuyq"

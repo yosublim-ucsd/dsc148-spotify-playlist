@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,508 likes - 248 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,519 likes - 248 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 78 | [Hidden Path](https://open.spotify.com/track/2lCPESbQg9A5FVGqJsADxi) | [Cerulean Skies](https://open.spotify.com/artist/5sB2GLv1x8cuwPyLnCHI9Z) | [First Moon](https://open.spotify.com/album/6JtmRHcEyJsI52yIiX0eTf) | 3:14 |
 | 79 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 |
 | 80 | [Total Surrender](https://open.spotify.com/track/70gtDucGX9VU6OnaEw4aHB) | [John Goodlove](https://open.spotify.com/artist/1k9phNanPQ2ScqreRWpy2j) | [Total Surrender](https://open.spotify.com/album/5rsR8YlSkGutQK3voIBkU6) | 3:50 |
-| 81 | [Feathers](https://open.spotify.com/track/5HZAPlw5Ff3ORJrPUdYJb9) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/2gkSH8Qh6khQjmlZpRxeUw) | 1:43 |
+| 81 | [Feathers](https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Feathers](https://open.spotify.com/album/1t7Bu6Wutbjdp28mBbkSsc) | 1:43 |
 | 82 | [Il mio letto](https://open.spotify.com/track/2InugPJTdU4OHJ94OJvkzt) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Il mio letto](https://open.spotify.com/album/410x6BJpJrLSxbFvJfpIWm) | 2:50 |
 | 83 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
 | 84 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 247 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
 | 248 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
 
-Snapshot ID: `MTY3Nzg2NjI2NywwMDAwMDAwMDQxMzRjMzQxNDUzOGMxMDYzNTgyZWVhNjljNzAwODgw`
+Snapshot ID: `MTY3Nzg2NjI2NywwMDAwMDAwMDU0OTA3NzA3ODE0YTgzZmNiMDEwNTgwYmVhZDUzNmRh`

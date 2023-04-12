@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,709 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,771 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 42 | [Gotta Go](https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H1GHR : BLUE TAPE](https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ) | 3:14 |
 | 43 | [Playinwitme \(Remix\) \[feat\. Jay Park\]](https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Playinwitme \(Remix\) \[feat\. Jay Park\]](https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT) | 3:13 |
 | 44 | [Thuggin 4 My Baby](https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Thuggin 4 My Baby](https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl) | 3:24 |
-| 45 | [Dior Socks](https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy) | [Jay Loud](https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dior Socks](https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw) | 3:33 |
-| 46 | [Out Of Place](https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 3:29 |
+| 45 | [Out Of Place](https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 3:29 |
+| 46 | [Dior Socks](https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy) | [Jay Loud](https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dior Socks](https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw) | 3:33 |
 | 47 | [No Gravity \(Prod\. Jay Park & DJ Wegun & WOOGIE & GroovyRoom\)](https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb) | [Part Time Cooks](https://open.spotify.com/artist/51e7K2KFkHECVO460ruq8L), [MBA](https://open.spotify.com/artist/0c6EF9zv5mQX7pkyrPawKS), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [SignHere episode1](https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh) | 4:18 |
 | 48 | [Came Up \(feat\. Jay Park\)](https://open.spotify.com/track/3IkYQjapZOMnWhMq8bXVMp) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [B.A.R.S, Vol\. 1](https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO) | 3:00 |
 | 49 | [Twist The Plot](https://open.spotify.com/track/22AUepm772KRmj5jRoaK4V) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [RECEIPTS \(Prod\. by Slom\)](https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:01 |
 | 100 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 
-Snapshot ID: `MTY4MDI1Nzk2OCwwMDAwMDAwMDQ3YThlZWUzMWVjY2E1M2JmYjBjNDUwYzQ3MDA1MTMw`
+Snapshot ID: `MTY4MDI1Nzk2OCwwMDAwMDAwMDlmMTY0NDA5NWRiYmQ3YTQxNmIzY2EyNzUyODczZGVi`

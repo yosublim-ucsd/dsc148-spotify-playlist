@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : ThirumaLi
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,275 likes - 64 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,349 likes - 64 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

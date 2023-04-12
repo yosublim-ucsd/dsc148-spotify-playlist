@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,023 likes - 110 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,136 likes - 110 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 30 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 |
 | 31 | [Something](https://open.spotify.com/track/21ANW6JqDX85o3AXlhoVhj) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:48 |
 | 32 | [Soak Up The Sun](https://open.spotify.com/track/2l2vKPlI3MCAHcEBeSg5gJ) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:46 |
-| 33 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 |
+| 33 | [Get Lucky](https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI) | 4:49 |
 | 34 | [Shivers](https://open.spotify.com/track/0aWhxq7Ivc637X7xmjofaA) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Shivers](https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf) | 3:44 |
 | 35 | [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 |
 | 36 | [True Colors](https://open.spotify.com/track/1ckI32DhLPvHnMNBihiLB4) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:38 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 48 | [We Don't Talk Anymore](https://open.spotify.com/track/504T28mwCWdnMMK8IufHcv) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:58 |
 | 49 | [Until I Found You](https://open.spotify.com/track/1UpsDYHk9Wuwa93WTSTtG3) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Until I Found You](https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03) | 2:57 |
 | 50 | [Thinking out Loud \- Ukulele Version](https://open.spotify.com/track/5vGoHkL7i3BFor4BzkmgUf) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Thinking out Loud \(Ukulele Version\)](https://open.spotify.com/album/1tLqdPFJvI4GiAgAv1TQBh) | 4:35 |
-| 51 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 |
+| 51 | [Let It Be](https://open.spotify.com/track/35FPsONgbYz9DKFQCWAzHe) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 4:59 |
 | 52 | [Yellow](https://open.spotify.com/track/5kaYZfHdgfMLAcy7lu8Myi) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Yellow](https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse) | 4:24 |
 | 53 | [What A Wonderful World](https://open.spotify.com/track/0tSvJUcVba6J2hDazrQLtt) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 2:12 |
-| 54 | [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 |
+| 54 | [Hakuna Matata \- Ukulele](https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 2:47 |
 | 55 | [Bones](https://open.spotify.com/track/1JaX6jmjUKiXHfurxbYhpv) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 2:37 |
 | 56 | [Island In The Sun](https://open.spotify.com/track/0uRq3UbO7llLNzcPkLdIqt) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pumped Up Kicks](https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu) | 3:20 |
 | 57 | [Sweater Weather](https://open.spotify.com/track/2hOTGNkCUL9zpotqqPJNbX) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [So Good](https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X) | 3:43 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 78 | [Mad World](https://open.spotify.com/track/5v1MIPWH2VDgi59IFkebqg) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somebody That I Used to Know](https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4) | 2:47 |
 | 79 | [All Of Me](https://open.spotify.com/track/0q27gc0LjAclgicdlnG182) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:51 |
 | 80 | [Waterloo Sunset](https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 3:30 |
-| 81 | [Better Together \- Ukulele](https://open.spotify.com/track/6Hc76FOFhwsfGkKX6ocFiU) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:22 |
+| 81 | [Better Together \- Ukulele](https://open.spotify.com/track/4sXHZLU3C4FOr2Pn09jB6r) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc) | 3:22 |
 | 82 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |
 | 83 | [Upside Down](https://open.spotify.com/track/2ceP1Xn0blgkm4lF2ZSztF) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 3:03 |
 | 84 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 109 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
 | 110 | [Three Little Birds \- Ukulele Version](https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 3:01 |
 
-Snapshot ID: `MTY3ODk2ODA0MiwwMDAwMDAwMDgwMjJhNWVjMzRkMWNkM2Q2MjU1YjMyMGZkODMxOWM1`
+Snapshot ID: `MTY3ODk2ODA0MiwwMDAwMDAwMGYzMTA5ODQ1NmEyMDM5ZDcyYjVkZGI1ZGI1ZTg3MTIw`

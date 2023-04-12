@@ -7616,7 +7616,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
@@ -11780,7 +11780,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 215771,
       "name": "Nqma Kak",
       "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
@@ -16912,7 +16912,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -18964,6 +18964,24 @@
       "duration_ms": 219692,
       "name": "\u0412\u043a\u044a\u0449\u0438",
       "url": "https://open.spotify.com/track/2huVCrvZzrCxQCv8wWpql2"
+    },
+    {
+      "album": {
+        "name": "\u0413\u043b\u0435\u0434\u0430\u0439 \u043c\u0435 \u0449\u0430\u0441\u0442\u043b\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/3vxiocE01sGD5SHrQf9rdK"
+      },
+      "artists": [
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206096,
+      "name": "\u0413\u043b\u0435\u0434\u0430\u0439 \u043c\u0435 \u0449\u0430\u0441\u0442\u043b\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/7tOrEzFOFYUC4p3D5eAhuA"
     },
     {
       "album": {

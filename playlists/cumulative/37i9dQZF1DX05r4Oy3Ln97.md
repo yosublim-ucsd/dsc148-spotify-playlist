@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-234 songs - 11 hr 58 min
+235 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-07-08 |  |
 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 | 2021-10-29 | 2022-07-29 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 | 2021-10-29 | 2022-07-29 |
-| [BlimE](https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [BlimE](https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6) | 2:57 | 2023-01-11 |  |
+| [BlimE](https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [BlimE](https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6) | 2:57 | 2023-01-11 | 2023-04-12 |
 | [Bloom](https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Bloom](https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB) | 2:59 | 2022-07-01 |  |
 | [Blue Diamond Bay](https://open.spotify.com/track/1R6TfuAjaSonSeOLH60fP8) | [Salkin](https://open.spotify.com/artist/1kijmOgGGJuzi5nFYmoYNH), [Clarees](https://open.spotify.com/artist/5preGCl6y5PCh5UYFQSlDl) | [Blue Diamond Bay](https://open.spotify.com/album/0GyFrr9ECkKfqmlBCYFmHF) | 2:30 | 2021-10-29 | 2022-07-29 |
 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 | 2022-05-03 |  |
@@ -235,6 +235,7 @@
 | [We Are Young](https://open.spotify.com/track/2aGMjEXsOXmRSbXld2AyJ9) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [We Are Young](https://open.spotify.com/album/5HbQMhEIK7J8IDE4swfmJC) | 2:50 | 2021-10-29 | 2022-08-13 |
 | [We’re Good](https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [We’re Good](https://open.spotify.com/album/71i35etl4ytG1b8YIvfbEM) | 3:12 | 2021-10-29 | 2022-06-13 |
 | [What They Call Love](https://open.spotify.com/track/3G954hH4NT5HmtGInACyi9) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [What They Call Love](https://open.spotify.com/album/4WddQe836sacdd1PhYZg28) | 2:47 | 2021-10-29 | 2022-03-18 |
+| [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 | 2023-04-07 |  |
 | [When We're Gone](https://open.spotify.com/track/7KxFCQHFflx0ZlY9SPT5nW) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu) | [When We're Gone](https://open.spotify.com/album/6O0gCTrNRxw5rpoVkbSHnF) | 3:26 | 2021-10-29 | 2022-04-21 |
 | [Where I Find My Mind](https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Where I Find My Mind](https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM) | 3:32 | 2023-03-31 | 2023-04-01 |
 | [Without Your Love \- sunsets & sandals Remix](https://open.spotify.com/track/78KQ0GVdHsDbv2ilNYSIBf) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [Without Your Love \(sunsets & sandals Remix\)](https://open.spotify.com/album/67UQdAeEFHe18ANGfQ62ZP) | 2:50 | 2022-01-21 | 2022-07-29 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/59RVdM0oev6GKFiuDXzH6F.md) - cumulative - [plain](/playlists/plain/59RVdM0oev6GKFiuDXzH6F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/59RVdM0oev6GKFiuDXzH6F)
 
-### [Clubbing \| House x Tech House x Bass House](https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F)
+### [Clubbing Music 2023](https://open.spotify.com/playlist/59RVdM0oev6GKFiuDXzH6F)
 
-> Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
+> clubing songs 2023\. Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more\. club mix \- club bangers
 
 116 songs - 5 hr 36 min
 

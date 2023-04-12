@@ -1,12 +1,12 @@
 {
   "description": "Catching sunsets con indie rock de fondo.",
-  "num_followers": 730,
+  "num_followers": 756,
   "original_name": "anaranjado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQzY2U2ZmJkOWZhNDg4NmM3MjZiZWYwYTA5OTQzOGM2",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDg0YWJhOWY5ZjM5YTZmMzk3ZTdmZGJiYWUxNzk2MDUx",
   "tracks": [
     {
       "added_at": "2023-04-03 17:37:35",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-03 17:37:35",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 174303,
-      "name": "Billie Max",
-      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
-    },
-    {
-      "added_at": "2023-04-03 17:37:35",
-      "album": {
         "name": "Laguna",
         "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
+    },
+    {
+      "added_at": "2023-04-03 17:37:35",
+      "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 174303,
+      "name": "Billie Max",
+      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
     },
     {
       "added_at": "2023-04-03 17:37:35",
@@ -769,6 +769,26 @@
       "url": "https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py"
     },
     {
+      "added_at": "2023-04-12 01:11:41",
+      "album": {
+        "name": "Sale mal",
+        "url": "https://open.spotify.com/album/4RPZzOSaWyP9JyshmltVvF"
+      },
+      "artists": [
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        },
+        {
+          "name": "Diamante Negro",
+          "url": "https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v"
+        }
+      ],
+      "duration_ms": 199468,
+      "name": "Sale mal",
+      "url": "https://open.spotify.com/track/10i21cKAzsfofJrqwa2KkQ"
+    },
+    {
       "added_at": "2023-04-03 17:37:35",
       "album": {
         "name": "AMOR MINIMAL",
@@ -819,22 +839,6 @@
       "duration_ms": 200250,
       "name": "Comollegamosaqu\u00ed",
       "url": "https://open.spotify.com/track/3YRszbJk8rtF9yTDHCecLs"
-    },
-    {
-      "added_at": "2023-04-03 17:37:35",
-      "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     }
   ],
   "unique_name": "anaranjado",

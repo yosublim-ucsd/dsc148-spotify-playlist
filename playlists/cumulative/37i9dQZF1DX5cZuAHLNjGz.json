@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 213913,
       "name": "8 Raflaan (Extended Version) [feat. Gurlej Akhtar]",
       "url": "https://open.spotify.com/track/0bNWc1OJVrZ5S0MtysDiBL"
@@ -1629,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Jatt Don\u2019t Care",
+        "url": "https://open.spotify.com/album/6mbFOxeExykR6XJLE617mk"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "BIG Ghuman",
+          "url": "https://open.spotify.com/artist/2KQG8iJJ8SYC2wicGUZ2lG"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204054,
+      "name": "Jatt Don\u2019t Care",
+      "url": "https://open.spotify.com/track/4xt9T7bqLoLHuHpdVAJdVd"
+    },
+    {
+      "album": {
         "name": "Jatt Flex",
         "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
       },
@@ -3072,7 +3094,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 204179,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/6Xh1mVYnEauD71lkhLfAz2"
@@ -3422,6 +3444,32 @@
       "duration_ms": 185454,
       "name": "Tha Karke",
       "url": "https://open.spotify.com/track/6MotWtT7jgCheTxEfMbXCz"
+    },
+    {
+      "album": {
+        "name": "Thaa",
+        "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        },
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        },
+        {
+          "name": "Ultra Beats",
+          "url": "https://open.spotify.com/artist/4UThAkJdbDOcmxGfeCtrNd"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181340,
+      "name": "Thaa",
+      "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
     },
     {
       "album": {

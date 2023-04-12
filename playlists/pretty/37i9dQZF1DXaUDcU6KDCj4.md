@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ruston Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,119 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,173 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 23 | [Wild Heart](https://open.spotify.com/track/4ipehBQbsHgztglgxS8Qgf) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Wild Heart](https://open.spotify.com/album/2bpfUEwSAS9jAFDHquTg2B) | 3:17 |
 | 24 | [Dawn of Time](https://open.spotify.com/track/0Eds6MRLuxt7bE21aCxtn2) | [Josephine Foster](https://open.spotify.com/artist/1fVyf1LbeIEE4DUT4dZhHL) | [Domestic Sphere](https://open.spotify.com/album/5cTAuGg5yPlgO1nub2fTfF) | 3:13 |
 | 25 | [My Mind](https://open.spotify.com/track/7AKmC6zdD5NMMGbDO11wun) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [My Mind](https://open.spotify.com/album/4mvGNWKMezeXrEV6Wyh2XM) | 3:47 |
-| 26 | [just wanna forget you](https://open.spotify.com/track/19FBPoxwTB7kbMEcYsDGVr) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 4:49 |
+| 26 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
 | 27 | [End of the Night](https://open.spotify.com/track/7MrpbCBInw4rkfLZ7v6jDU) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Frame](https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg) | 2:27 |
 | 28 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 |
 | 29 | [Her \(Sunflower\)](https://open.spotify.com/track/44W2FeI0SRWDleedTeaD7O) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Her \(Sunflower\)](https://open.spotify.com/album/763gJojhhZDzg0FldncQvE) | 2:32 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 |
 | 150 | [Palomino](https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:17 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDE5N2I5NGI0ZDk0NTg5MmM0MjZhNjdkNGEwZjJmOTg5`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDg5NzA2YWY2ODZhZjE5YzU0Y2Y1MDQ3NDBjYTYzZTlk`

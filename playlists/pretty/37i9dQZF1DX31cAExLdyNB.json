@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 59116,
+  "num_followers": 59174,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDEzODczNDAxOTk1ZTJkMTQyOWVmYmE1MjkwZjk0NmRl",
+  "snapshot_id": "MTY3ODQyNDQ2MCwwMDAwMDAwMDNiYzdiYmQ1NjRkODg5MTRiMzFhNWYzMmIxMzAwNDQz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "405 - Metronomy x Biig Piig",
         "url": "https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 265505,
       "name": "405 - Metronomy x Biig Piig",
       "url": "https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 255217,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Viento",
         "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 168613,
       "name": "Viento",
       "url": "https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 255217,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Ca\u00edda Libre",
-        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
       "artists": [
         {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 231050,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1003,6 +1007,22 @@
       "duration_ms": 205714,
       "name": "Los Caymanes (Para Olvidar)",
       "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Ca\u00edda Libre",
+        "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 231050,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1027,26 +1047,6 @@
       "duration_ms": 240853,
       "name": "Moving Men - Metronomy Remix",
       "url": "https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Cuadros",
+        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
+      },
+      "artists": [
+        {
+          "name": "Floreana",
+          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Takotsubo",
+      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Realidades No Ordinarias, Vol. 2",
         "url": "https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 289335,
       "name": "Realidades No Ordinarias",
       "url": "https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
-      },
-      "artists": [
-        {
-          "name": "Floreana",
-          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Takotsubo",
-      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
     },
     {
       "added_at": "2023-03-10 05:01:00",

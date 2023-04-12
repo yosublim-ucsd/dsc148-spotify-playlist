@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: BLÜ EYES
 
-569 songs - 1 day 7 hr 28 min
+570 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Ease My Mind](https://open.spotify.com/track/1ed0Rw1gfRm52dWsGhJFpQ) | [Josie Beth](https://open.spotify.com/artist/0tx30QHS1hiavYhtFV2PQE) | [Ease My Mind](https://open.spotify.com/album/1cvSGyb6pfK5wyBrpQ0Moc) | 3:04 | 2023-01-04 | 2023-02-02 |
 | [Easy Way Out](https://open.spotify.com/track/0uBweZFdnXrd8Krl37hlNG) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Easy Way Out](https://open.spotify.com/album/2Gkpj6KschtE9Nmz3SRwL6) | 3:26 | 2022-06-01 | 2022-07-07 |
 | [Echo](https://open.spotify.com/track/6dR3WgS89laha38NshaT1s) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Echo](https://open.spotify.com/album/0LBwlH8cZFGRALUzfphhN8) | 4:05 | 2023-03-01 | 2023-04-06 |
-| [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-04-05 |  |
+| [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-04-05 | 2023-04-12 |
+| [Empty](https://open.spotify.com/track/3TS6PFsksrXUNJf3y7LoEv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:02 | 2023-04-05 |  |
 | [End of the World](https://open.spotify.com/track/6JqvM0pNL3ENdJPZYlYcPY) | [Joyeur](https://open.spotify.com/artist/6KcrIG9ECqAUh7ETEZZAHh) | [End of the World](https://open.spotify.com/album/0zaJA2j9Xg3dBPW5aNWi31) | 3:56 | 2022-07-06 | 2022-08-04 |
 | [evergreen](https://open.spotify.com/track/075oabiIyfrUrIjZgNQboz) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [evergreen](https://open.spotify.com/album/4s7QFbsqSOZBEtJaOzHRgW) | 3:30 | 2022-07-06 | 2023-01-05 |
 | [everything's been happening](https://open.spotify.com/track/7fO760xZEoIno4ckWeeKSd) | [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [The Edge](https://open.spotify.com/album/5sx3wNJOzUezXBkin3pukb) | 3:25 | 2023-02-01 | 2023-03-02 |

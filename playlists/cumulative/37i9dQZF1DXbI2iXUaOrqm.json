@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-01-24",
-  "description": "El soundtrack para los d\u00edas rebeldes.",
-  "name": "DO NOT DISTURB.",
+  "description": "Rock meets pop meets punk, para esos d\u00edas cuando todo te vale.",
+  "name": "NO MOLESTAR",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 170640,
       "name": "A Escondidas de Sus Pap\u00e1s :'(",
       "url": "https://open.spotify.com/track/04IOpOnatc3UK7jdvMI38b"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "Desp\u00eddete Bien",
       "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 186746,
       "name": "Flaca (De Cabeza A Los Pies)",
       "url": "https://open.spotify.com/track/7GqzLEwjpTf5WCD0kIRsp8"
@@ -1008,6 +1008,24 @@
       "duration_ms": 191725,
       "name": "Si En Tu Mente Estuve",
       "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "album": {
+        "name": "Novia del A\u00f1o",
+        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "siempre te olvid\u00e9",
+      "url": "https://open.spotify.com/track/1B4REMzJe9zuyV8zZxuvxs"
     },
     {
       "album": {

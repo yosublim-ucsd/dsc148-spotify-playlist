@@ -1,12 +1,12 @@
 {
   "description": "The best tracks for Prom 2023.",
-  "num_followers": 22132,
+  "num_followers": 22171,
   "original_name": "Prom Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxMDMxNCwwMDAwMDAwMDI1OWIyMDI0YTRmMWNmMjk0Y2Y1NTViZjc5NThlYzAx",
+  "snapshot_id": "MTY4MDgxMDMxNCwwMDAwMDAwMDc1N2NmYmU0MjBmNDdlOWYwMjNlZTZhYWIzYmYwOGNl",
   "tracks": [
     {
       "added_at": "2023-04-05 18:52:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-05 18:52:26",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
-    },
-    {
-      "added_at": "2023-04-05 18:52:26",
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "added_at": "2023-04-05 18:52:26",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2023-04-05 18:52:26",

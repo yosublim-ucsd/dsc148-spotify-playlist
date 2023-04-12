@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bizarrap y La Marash plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,619 likes - 69 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,858 likes - 69 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

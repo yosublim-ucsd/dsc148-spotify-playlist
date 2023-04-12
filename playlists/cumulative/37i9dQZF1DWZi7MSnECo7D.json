@@ -2532,10 +2532,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 171500,
       "name": "festa estranha",
       "url": "https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb"
+    },
+    {
+      "album": {
+        "name": "festa estranha",
+        "url": "https://open.spotify.com/album/2jerBoGv1KIo9QQd3xkiOZ"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "festa estranha",
+      "url": "https://open.spotify.com/track/5jt176s3kzyjs9ZCHCqQ7d"
     },
     {
       "album": {

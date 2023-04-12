@@ -1,12 +1,12 @@
 {
-  "description": "A blend of new songs and new artists in the soul space. Cover: Gaidaa",
-  "num_followers": 466339,
+  "description": "A blend of new songs and new artists in the soul space. Cover: Masego",
+  "num_followers": 466400,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMGI0OWU1ZmJhYTkyMDY3MDU3Yjc3ZWIzOThjODgwMDNk",
+  "snapshot_id": "MTY4MTIxNjI0NywwMDAwMDAwMDQwOGE3MTAxM2QxNzg5MzZkMTNiMzcwZWNiNjJkNjFm",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 229992,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "On the Run",
         "url": "https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 231111,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Take Care",
-        "url": "https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 229992,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
     },
     {
       "added_at": "2023-04-06 22:00:00",

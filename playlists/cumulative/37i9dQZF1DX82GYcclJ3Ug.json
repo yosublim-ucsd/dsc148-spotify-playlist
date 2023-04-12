@@ -4103,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "album": {
         "name": "DROP!!",
         "url": "https://open.spotify.com/album/7yIHOCUF6QSxxZuDh2phKD"
       },
@@ -11779,7 +11797,7 @@
     },
     {
       "album": {
-        "name": "Punkstar (feat. Royal & the Serpent)",
+        "name": "Punkstar",
         "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
       },
       "artists": [
@@ -11796,7 +11814,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140792,
-      "name": "Punkstar (feat. Royal & the Serpent)",
+      "name": "Punkstar",
       "url": "https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI"
     },
     {
@@ -12796,6 +12814,28 @@
       "duration_ms": 231600,
       "name": "SCARING ME",
       "url": "https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2"
+    },
+    {
+      "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142825,
+      "name": "SCARING THE HOES",
+      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
     },
     {
       "album": {

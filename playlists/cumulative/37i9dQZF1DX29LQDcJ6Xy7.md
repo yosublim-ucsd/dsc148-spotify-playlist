@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-195 songs - 13 hr 52 min
+196 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Below](https://open.spotify.com/track/1lesoWjO892IFBhaFjhoAn) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [REVENGE \(Deluxe Edition\)](https://open.spotify.com/album/7KBCW1fhxbyk775NbSHjjg) | 4:53 | 2022-07-01 | 2022-10-15 |
 | [Below](https://open.spotify.com/track/5CjyZp563Q4lqkct4GtLIA) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Below](https://open.spotify.com/album/1NwUwZuKipOdFuXEv0pI0M) | 4:53 | 2022-07-01 | 2022-07-29 |
 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 | 2022-07-01 |  |
-| [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 | 2022-07-01 | 2022-08-05 |
+| [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 | 2022-07-01 |  |
 | [Blitzkrieg](https://open.spotify.com/track/488SDLKT79YUhmwlb8uDSp) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Termination Bliss](https://open.spotify.com/album/2oQbpyBNUYmnGORvzhfxuH) | 4:04 | 2022-07-01 | 2022-07-29 |
 | [Blitzkrieg](https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Termination Bliss](https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7) | 4:06 | 2022-07-01 |  |
 | [Blizzard](https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Yggdrasil](https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa) | 3:14 | 2022-10-21 |  |
@@ -42,7 +42,7 @@
 | [Burn the Witches](https://open.spotify.com/track/0JO8ZD69eDoSl2NaOZgZTc) | [Darkcell](https://open.spotify.com/artist/0DjpT3SNCqLQlHSGPD51Tp) | [Darkcell](https://open.spotify.com/album/5Zt9lcl8sqdjpxBYm2go9S) | 4:41 | 2022-07-01 | 2022-07-29 |
 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 | 2022-07-01 | 2022-07-29 |
 | [Candidate](https://open.spotify.com/track/5JneBvJFTvKv0EmarM0gln) | [Blitz Union](https://open.spotify.com/artist/4hV6JPwfadReTcpspP1OrN) | [Candidate](https://open.spotify.com/album/0IztMqsz5p62HUMh7hdOsq) | 3:08 | 2022-07-01 | 2022-07-27 |
-| [Chains](https://open.spotify.com/track/1rqUtcFAapMVcO2KID5EBW) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Strange Bones](https://open.spotify.com/artist/2LuVfFRyJa4bxFrvqTZ4Ts) | [Chains](https://open.spotify.com/album/0tSJeKgD4TlepuXTt13Zj9) | 3:02 | 2023-01-31 |  |
+| [Chains](https://open.spotify.com/track/1rqUtcFAapMVcO2KID5EBW) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Strange Bones](https://open.spotify.com/artist/2LuVfFRyJa4bxFrvqTZ4Ts) | [Chains](https://open.spotify.com/album/0tSJeKgD4TlepuXTt13Zj9) | 3:02 | 2023-01-31 | 2023-04-12 |
 | [Chaos](https://open.spotify.com/track/4nb2nUKvsp28TKE9NSjsrW) | [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Chaos / A Hard No](https://open.spotify.com/album/5ZJmOvim6ordn24npYFqNi) | 3:48 | 2022-07-01 | 2022-07-26 |
 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 | 2022-07-01 |  |
 | [Compliance](https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Compliance](https://open.spotify.com/album/7f26amusc28x2vnxTACxDN) | 5:02 | 2022-10-21 |  |
@@ -144,6 +144,7 @@
 | [Native Intellligence \- Ghostemane Natural Selection Remix](https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Native Intelligence \(Ghostemane Natural Selection Remix\)](https://open.spotify.com/album/4PAEIe0V7cLDUuxaZ3RKDK) | 3:33 | 2022-07-25 | 2023-03-04 |
 | [Never Wanted To Dance](https://open.spotify.com/track/3nM1EJJ80pJGiG32WFfJxc) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly) | 3:08 | 2022-08-12 |  |
 | [New Blood \- Zardonic Remix](https://open.spotify.com/track/5jFoxzpYeDOzLpjsNbrn9m) | [Mechanical Vein](https://open.spotify.com/artist/5Uvsfedp0YTUBwr9v8qmtG), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [New Blood \(Zardonic Remix\)](https://open.spotify.com/album/0wfxJZQzF8pltK1jMvcHea) | 4:29 | 2022-07-01 | 2022-07-28 |
+| [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 | 2023-04-11 |  |
 | [Ofelia](https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Ofelia](https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x) | 3:08 | 2022-12-01 |  |
 | [One Fire](https://open.spotify.com/track/2FcrIQ9A3i6KO2ntF5Yfsu) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:00 | 2022-07-01 | 2022-07-27 |
 | [Onenemy \- Fury Weekend Remix](https://open.spotify.com/track/4fFGvYEG72Y3Imc1vKb8Yf) | [Circle of Dust](https://open.spotify.com/artist/60GtR6PIcDY1pikPgKHNk9), [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Onenemy \(Fury Weekend Remix\)](https://open.spotify.com/album/0umZ3sEPUw1FjHxvnLAW4V) | 4:32 | 2022-07-01 | 2022-07-29 |
@@ -162,7 +163,7 @@
 | [Rabenherz](https://open.spotify.com/track/1hxyyWzyCGZAwiHyZ8pmGT) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Rabenherz](https://open.spotify.com/album/44yxIx9NWMYjrlPvDg4vQL) | 3:15 | 2022-07-01 | 2022-07-28 |
 | [Radio](https://open.spotify.com/track/1D3oQLA2xghgE1agGmDlPT) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Radio](https://open.spotify.com/album/0mm3Hm8e1zYNuU2np9l2ZS) | 4:37 | 2022-07-01 | 2022-07-29 |
 | [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 | 2022-07-01 |  |
-| [Requiem \- 2005 Digital Remaster](https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI) | 3:45 | 2022-08-12 |  |
+| [Requiem \- 2005 Digital Remaster](https://open.spotify.com/track/29QxWOqd1z0HynG72mAEqn) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/0FfpevxQr8EyNsjc24TbmI) | 3:45 | 2022-08-12 | 2023-04-12 |
 | [Royal Leash](https://open.spotify.com/track/7fBy8RKySzM04XrtYm2SJc) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Royal Leash](https://open.spotify.com/album/6eMEO2RnJh2hXoXQyscWgH) | 3:43 | 2022-07-01 | 2022-11-13 |
 | [S E X](https://open.spotify.com/track/3rx6ENPfEGYiQVPP1jsVtx) | [Aesthetic Perfection](https://open.spotify.com/artist/1Jgp0YCPHCJx5XD7nlfGVN), [Sebastian Svalland](https://open.spotify.com/artist/0NS9PpmJrJodmXFLNlRk5B) | [S E X](https://open.spotify.com/album/0ZMVhQvyDY4vVPGqRCDE97) | 3:40 | 2022-07-01 | 2022-09-06 |
 | [Save Yourself](https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 4:13 | 2022-08-12 |  |

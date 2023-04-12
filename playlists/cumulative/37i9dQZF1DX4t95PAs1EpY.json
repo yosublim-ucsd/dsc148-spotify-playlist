@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "After School Sunset",
+        "url": "https://open.spotify.com/album/7m5Q3hBMxbvoTupx4IoHyR"
+      },
+      "artists": [
+        {
+          "name": "rjoseph",
+          "url": "https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "After School Sunset",
+      "url": "https://open.spotify.com/track/6WVt9GeG7x4VktA9rOlFg7"
+    },
+    {
+      "album": {
         "name": "After the Storm",
         "url": "https://open.spotify.com/album/6DNQ6LG4GXuJy6Fi3qGwPA"
       },
@@ -310,6 +328,24 @@
       "duration_ms": 162351,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/0yZ11M8p1uSTz1H4rwICSs"
+    },
+    {
+      "album": {
+        "name": "April Showers Bring May Flowers",
+        "url": "https://open.spotify.com/album/0VY47kBXdRu5gdUR3328jm"
+      },
+      "artists": [
+        {
+          "name": "invention_",
+          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132846,
+      "name": "April Showers Bring May Flowers",
+      "url": "https://open.spotify.com/track/63Uhb25NexyeGnl60pDnbY"
     },
     {
       "album": {
@@ -2440,7 +2476,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 217714,
       "name": "garden party",
       "url": "https://open.spotify.com/track/65Z8mJUPVRgzbAxwCrT8SD"
@@ -2712,6 +2748,24 @@
       "duration_ms": 139322,
       "name": "grey",
       "url": "https://open.spotify.com/track/7hsBr3KD0MYwyqVrABtn0e"
+    },
+    {
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/1EqzxAnLs3MBuwDrdjM2Xv"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/1Cvq5cD9E221rkFkqWJikD"
     },
     {
       "album": {
@@ -3731,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "lilys hymn",
+        "url": "https://open.spotify.com/album/1j8TZQEbNtNjalbZ6MQh1Z"
+      },
+      "artists": [
+        {
+          "name": "enix lee",
+          "url": "https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145583,
+      "name": "lilys hymn",
+      "url": "https://open.spotify.com/track/1QRWpxpdr6YWZK6KYCCtiY"
+    },
+    {
+      "album": {
         "name": "Keep Track",
         "url": "https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv"
       },
@@ -3992,6 +4064,24 @@
       "duration_ms": 93176,
       "name": "Lunaris",
       "url": "https://open.spotify.com/track/3XMCfc2CUciBE7DLrjdFz6"
+    },
+    {
+      "album": {
+        "name": "Lunchtime",
+        "url": "https://open.spotify.com/album/5p0bK31g5mnqu7CJDBtclb"
+      },
+      "artists": [
+        {
+          "name": "Schmiddunsk",
+          "url": "https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122428,
+      "name": "Lunchtime",
+      "url": "https://open.spotify.com/track/71NfDrKAgOZckBgLSUfkTI"
     },
     {
       "album": {
@@ -5345,6 +5435,24 @@
     },
     {
       "album": {
+        "name": "Pipeline",
+        "url": "https://open.spotify.com/album/3U6klhYLATIkfxJaBcmPkG"
+      },
+      "artists": [
+        {
+          "name": "Sarlos",
+          "url": "https://open.spotify.com/artist/1847alYIKlHWa5oCUtKxaA"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/2ttN7hURZLS1ZAyVJYw0Si"
+    },
+    {
+      "album": {
         "name": "Solsken",
         "url": "https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G"
       },
@@ -5450,6 +5558,28 @@
       "duration_ms": 170390,
       "name": "Prelude To A Desaster",
       "url": "https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A"
+    },
+    {
+      "album": {
+        "name": "Pretty Birds",
+        "url": "https://open.spotify.com/album/4huHLIGS9GUNjkHChOTIAb"
+      },
+      "artists": [
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        },
+        {
+          "name": "dhar\u0101",
+          "url": "https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123178,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/3KwszaXnBJJExWG0MRmsRW"
     },
     {
       "album": {
@@ -6811,6 +6941,24 @@
     },
     {
       "album": {
+        "name": "the return of slace n' cal",
+        "url": "https://open.spotify.com/album/1wxW8xdGbEWJutK15Y66Pu"
+      },
+      "artists": [
+        {
+          "name": "slace n' cal",
+          "url": "https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "the return",
+      "url": "https://open.spotify.com/track/7IkeZ0rRYjsOXX2g1qIZga"
+    },
+    {
+      "album": {
         "name": "The Shore",
         "url": "https://open.spotify.com/album/7mKl1hW33KrnBBXQqghrcs"
       },
@@ -6972,6 +7120,24 @@
       "duration_ms": 154088,
       "name": "Tomorrow Will Be Better",
       "url": "https://open.spotify.com/track/62zFKMb9q7pnJgV64UQX1f"
+    },
+    {
+      "album": {
+        "name": "Tranquil",
+        "url": "https://open.spotify.com/album/1ZskIXLZ8xI1mchietSTgS"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia Light",
+          "url": "https://open.spotify.com/artist/2y4IqtX8oi7CED9jr6LaPm"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Tranquil",
+      "url": "https://open.spotify.com/track/4N1sQBGhZbinCkPS5YGJpU"
     },
     {
       "album": {
@@ -7546,6 +7712,24 @@
       "duration_ms": 124485,
       "name": "When the Time Comes",
       "url": "https://open.spotify.com/track/0jVAASD83TspRi2gG53o6R"
+    },
+    {
+      "album": {
+        "name": "where flowers sleep",
+        "url": "https://open.spotify.com/album/2S5fyS2jElimYB3ecwCjMX"
+      },
+      "artists": [
+        {
+          "name": "Beamer",
+          "url": "https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189505,
+      "name": "where flowers sleep",
+      "url": "https://open.spotify.com/track/3v8QSwP0xN273LdVZ5oXIR"
     },
     {
       "album": {

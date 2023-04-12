@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Grigor\u00e9",
-  "num_followers": 74919,
+  "num_followers": 75024,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyMjAwMCwwMDAwMDAwMGYwMzczYWUwNWQzZDFiMjM2M2ZkMmFlNzI3M2JiMjkz",
+  "snapshot_id": "MTY4MDgyMjAwMCwwMDAwMDAwMDYwMDdmMzQzZTQxMWM5NDE5YWVkMDZhM2FhZmIwNDQw",
   "tracks": [
     {
       "added_at": "2023-04-06 23:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
         "name": "Let\u2019s Dance (40th Anniversary Remix E.P.)",
         "url": "https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 245806,
       "name": "Let's Dance - Honey Dijon Moonlight Remix",
       "url": "https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1107,6 +1107,30 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
+        "name": "Let's Get It Right (Innellea Remix)",
+        "url": "https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 344156,
+      "name": "Let's Get It Right - Innellea Remix",
+      "url": "https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 227987,
       "name": "Far Behind - Jeremy Olander Remix",
       "url": "https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Let's Get It Right (Innellea Remix)",
-        "url": "https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 344156,
-      "name": "Let's Get It Right - Innellea Remix",
-      "url": "https://open.spotify.com/track/4tKdEEDu9ZGs0IimsZSDKi"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "It's All Fiction",
-        "url": "https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 256721,
-      "name": "Hyperreal",
-      "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
@@ -1523,22 +1507,18 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm"
+        "name": "It's All Fiction",
+        "url": "https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7"
       },
       "artists": [
         {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        },
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
         }
       ],
-      "duration_ms": 437867,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi"
+      "duration_ms": 256721,
+      "name": "Hyperreal",
+      "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1559,6 +1539,26 @@
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 437867,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi"
     },
     {
       "added_at": "2023-04-06 23:00:00",
@@ -1695,34 +1695,6 @@
     {
       "added_at": "2023-04-06 23:00:00",
       "album": {
-        "name": "Disappear (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Tasan",
-          "url": "https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 212180,
-      "name": "Disappear - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -1747,6 +1719,34 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "Disappear (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Tasan",
+          "url": "https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 212180,
+      "name": "Disappear - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc"
     },
     {
       "added_at": "2023-04-06 23:00:00",

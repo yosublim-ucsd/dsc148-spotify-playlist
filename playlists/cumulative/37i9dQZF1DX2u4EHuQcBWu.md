@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-277 songs - 18 hr 10 min
+278 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cerca De La Revolucion](https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 4:40 | 2021-09-24 |  |
 | [Chile No es una postal](https://open.spotify.com/track/0G6g95KvbroqrGiRVUQmUB) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Futuro Esplendor](https://open.spotify.com/album/0XImJ2QAXvD8wQHZzu1LjS) | 2:27 | 2021-09-24 | 2022-07-24 |
 | [Ciegos Corazones](https://open.spotify.com/track/2ORLrdlxfEEMPiD96HYsEZ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Ciegos Corazones](https://open.spotify.com/album/3StWQNK0mjpr6mdBNAliF9) | 3:55 | 2021-09-24 | 2022-07-18 |
+| [Cinco Siglos Igual](https://open.spotify.com/track/3fL89NetmOyr0q8c4eg8XD) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 4:13 | 2021-09-24 |  |
 | [Cinco Siglos Igual](https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [15 Años De Mi](https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY) | 4:14 | 2021-09-24 | 2022-07-29 |
 | [Clandestino](https://open.spotify.com/track/0h32lYtbHH60jin7uyKNMc) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Clandestino](https://open.spotify.com/album/0eJtIbQetiYXe5wNeETS6I) | 3:40 | 2021-09-24 | 2022-07-29 |
 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 | 2021-09-24 |  |
@@ -275,7 +276,7 @@
 | [Tlatelolco 68](https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:47 | 2021-09-24 |  |
 | [Tlatelolco 68](https://open.spotify.com/track/5wU5h6gDucKfiQaIi8huUC) | [Jaime Sabines](https://open.spotify.com/artist/1jl6WIjCYqnKpHC0cqB78N), [Malena Duran](https://open.spotify.com/artist/7HteMc7M8eEUk6anbb91X2) | [Jaime Sabines, La Primera Lluvia del Año](https://open.spotify.com/album/5SJxvC32VlW3zXYszGAEv4) | 2:18 | 2021-09-24 | 2022-07-29 |
 | [Tlatelolco Místico](https://open.spotify.com/track/4SMoYTWVt4ohHPhiMQeSRg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 3](https://open.spotify.com/album/7epTViLTckUgHtK0jzFmMd) | 5:36 | 2021-09-24 | 2022-07-29 |
-| [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 | 2021-09-24 |  |
+| [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 | 2021-09-24 | 2023-04-12 |
 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 | 2021-09-24 |  |
 | [Todo Cambia](https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Será Posible El Sur?](https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1) | 4:50 | 2021-09-24 | 2022-07-29 |
 | [Todo el Mundo Quiere Hacerte Daño](https://open.spotify.com/track/1XOwXec2hiDNOqFoXCZmue) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [Todo El Mundo Quiere Hacerte Daño](https://open.spotify.com/album/64HhQtckE9D7Sd46Z2aYNb) | 2:33 | 2021-09-24 | 2022-09-16 |

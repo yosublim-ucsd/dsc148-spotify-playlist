@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8bVI1ONP87c.md) - [plain]
 
 > All the best of Elevation Worship, in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,405 likes - 65 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,596 likes - 65 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

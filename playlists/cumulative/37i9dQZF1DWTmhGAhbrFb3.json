@@ -1726,10 +1726,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 103578,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/5HZAPlw5Ff3ORJrPUdYJb9"
+    },
+    {
+      "album": {
+        "name": "Feathers",
+        "url": "https://open.spotify.com/album/1t7Bu6Wutbjdp28mBbkSsc"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103578,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/5xxYVFRpVThMwcYtFSfIkr"
     },
     {
       "album": {

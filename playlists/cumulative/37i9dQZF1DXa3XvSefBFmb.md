@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-438 songs - 1 day 0 hr 43 min
+440 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,8 +184,9 @@
 | [Hostel da Mariquinhas](https://open.spotify.com/track/3r1v8BvTNLkLnd4qmpHpJW) | [Gisela João](https://open.spotify.com/artist/6PHEevniO76JNRqHLVXWX5) | [Hostel da Mariquinhas](https://open.spotify.com/album/3YPqpgPtzSXoOuT7wKoCiA) | 2:38 | 2023-04-04 |  |
 | [Hoy No Salgo](https://open.spotify.com/track/3lpVdysBP4nG7yrWjRmfBK) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Hoy No Salgo](https://open.spotify.com/album/7mkZWuUwfAYH0ZnGJMpGqo) | 2:38 | 2023-01-04 | 2023-03-02 |
 | [há brilho na noite](https://open.spotify.com/track/6I3mwfJFwsmvS2bMOuWSsI) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [coisas por dizer](https://open.spotify.com/album/14gFvVSMV63li0CGzCXhrB) | 4:25 | 2022-05-03 | 2022-08-03 |
-| [há\-de sarar](https://open.spotify.com/track/788WoYnjW12ZWyksEr6qsq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:48 | 2023-04-04 |  |
+| [há\-de sarar](https://open.spotify.com/track/788WoYnjW12ZWyksEr6qsq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:48 | 2023-04-04 | 2023-04-12 |
 | [há\-de sarar](https://open.spotify.com/track/7BqKrhHn3BpuyCMpgy648a) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5bBicdJOaUqPE6wYlDZXhs) | 3:48 | 2023-04-04 | 2023-04-06 |
+| [há\-de sarar](https://open.spotify.com/track/7vcNCJjROeI30WgAKEvlP5) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:48 | 2023-04-04 |  |
 | [I Love You, Crystal](https://open.spotify.com/track/3Jn6qKjyG6hB0zZaQFNVgx) | [Golden Slumbers](https://open.spotify.com/artist/4rnhIGvHLD8BB1gaXLj1KH) | [I Love You, Crystal](https://open.spotify.com/album/7JFAsemQBAo0tY7tgvHX9k) | 3:56 | 2021-12-08 | 2022-03-08 |
 | [iei](https://open.spotify.com/track/7hcLQoKUB6TSyOBku37KAi) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [FORA](https://open.spotify.com/album/4kwcoS5EecawE7HI3FvCG5) | 2:27 | 2023-04-04 |  |
 | [Ilusão](https://open.spotify.com/track/6t2rFFJmcQvbBa4MfQ2TXc) | [Yeda](https://open.spotify.com/artist/2wg4wYmkm2G2ATHe3lCLUy) | [Ilusão](https://open.spotify.com/album/6HYsNFQJKPr9qkeG5RQOki) | 2:17 | 2022-05-03 | 2022-07-06 |
@@ -282,6 +283,7 @@
 | [Não Sei Quantas Almas Tenho](https://open.spotify.com/track/6SW4sN5BBBGruYRbYLDGyP) | [Mary Anne](https://open.spotify.com/artist/0ur17oRSwheseCozw2Kpko) | [Não Sei Quantas Almas Tenho](https://open.spotify.com/album/3cp1uRy1SZRuQm8Hc5ZZ7q) | 3:55 | 2022-03-08 | 2022-05-04 |
 | [Não te ponhas a jeito](https://open.spotify.com/track/4UaCy85hUdmxLFDC0qWT5h) | [Mila Dores](https://open.spotify.com/artist/6Ra6l9xKZi4CqonCXfPoOr) | [Não te ponhas a jeito](https://open.spotify.com/album/2GLZnzKZtkAlu8cHcFS95W) | 2:55 | 2023-04-04 |  |
 | [Não vai lá](https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não vai lá](https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9) | 3:07 | 2022-09-06 | 2022-11-02 |
+| [O preço](https://open.spotify.com/track/7uxlqmQUerSs3GzD5pKJGE) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [O preço](https://open.spotify.com/album/3fBEtb9ESmUmM18iOrBhtu) | 3:53 | 2023-04-11 |  |
 | [O quarto \(fado Pagem\)](https://open.spotify.com/track/1qDMm3JN98RlW1u42Jzstn) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [O quarto \(fado Pagem\)](https://open.spotify.com/album/2L39HqL0nGDY8Z8dgqKroJ) | 3:20 | 2023-02-03 |  |
 | [O Que Eu Dei](https://open.spotify.com/track/776IuuCe9Mx5sRN1hs4aIB) | [Maria Castro](https://open.spotify.com/artist/1e8vbPF60YDUTdHwUQUz6p) | [O Que Eu Dei](https://open.spotify.com/album/3MGxYe94PGdYNTGwCXYsa7) | 3:33 | 2022-09-06 | 2022-11-02 |
 | [O Que é Feito de Ti](https://open.spotify.com/track/51LIIb7BXmGyNUAusXDocw) | [Beatriz Rosário](https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl) | [Rosário](https://open.spotify.com/album/3U3odnnkedQHkpjfBmBfqP) | 3:15 | 2022-04-05 | 2022-06-01 |

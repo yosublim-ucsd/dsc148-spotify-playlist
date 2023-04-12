@@ -638,7 +638,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 288563,
       "name": "Colors In The Dark",
       "url": "https://open.spotify.com/track/48Fbw0y8ofNfTHmuezhNPm"
@@ -1270,6 +1270,24 @@
       "duration_ms": 329160,
       "name": "Jumpin' The Blues - Remastered/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0okh476MArSQObZ4jAr0Ji"
+    },
+    {
+      "album": {
+        "name": "return to casual",
+        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "lamplight",
+      "url": "https://open.spotify.com/track/0rRtkc4eUbH2v6qBtw00l4"
     },
     {
       "album": {

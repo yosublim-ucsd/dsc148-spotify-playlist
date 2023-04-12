@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Vaathi",
-  "num_followers": 550228,
+  "num_followers": 550579,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4Mjg1NSwwMDAwMDAwMDA0YmFhNzhlM2Y0NDIxZmRlOTQxYzM1OWNiZWJjNDcz",
+  "snapshot_id": "MTY4MTE5MTY2MCwwMDAwMDAwMDM5YzM3MzYyNDZiZjFkMDFlOGVkMjMxYmVlNjFhMTM0",
   "tracks": [
     {
       "added_at": "2023-01-25 11:03:02",
@@ -1271,50 +1271,6 @@
     {
       "added_at": "2021-11-15 07:19:01",
       "album": {
-        "name": "So Baby (From \"Doctor\")",
-        "url": "https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ananthakrrishnan",
-          "url": "https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "So Baby (From \"Doctor\")",
-      "url": "https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Eeswaran (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Silambarasan TR",
-          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
-        },
-        {
-          "name": "Roshini JKV",
-          "url": "https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX"
-        }
-      ],
-      "duration_ms": 260698,
-      "name": "Mangalyam",
-      "url": "https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
         "name": "Adipoli (From \"Think Originals\")",
         "url": "https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy"
       },
@@ -1335,50 +1291,6 @@
       "duration_ms": 172750,
       "name": "Adipoli (From \"Think Originals\")",
       "url": "https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Master the Blaster (From \"Master\")",
-        "url": "https://open.spotify.com/album/5WJcoXdTMji80ZtFDQgZrL"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Bjorn Surrao",
-          "url": "https://open.spotify.com/artist/6WaQm4n7YfvvH7r94yMAeu"
-        }
-      ],
-      "duration_ms": 92250,
-      "name": "Master the Blaster (From \"Master\")",
-      "url": "https://open.spotify.com/track/2cVJDlu9jmkPUeuJxA6v8i"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Enjoy Enjaami",
-        "url": "https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT"
-      },
-      "artists": [
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 279500,
-      "name": "Enjoy Enjaami",
-      "url": "https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9"
     }
   ],
   "unique_name": "Hot Hits Tamil",

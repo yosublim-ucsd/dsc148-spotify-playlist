@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-153 songs - 7 hr 42 min
+155 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 | 2022-03-10 |  |
 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 | 2022-03-10 |  |
 | [Frühlingstanz](https://open.spotify.com/track/0GiGRuhSumYoiX5GH7PjiL) | [Xenocrates](https://open.spotify.com/artist/342midAD9fvJUGMxctnYtm) | [Frühlingstanz](https://open.spotify.com/album/0f1SzNxXGqCHLzkhcc6pqw) | 3:07 | 2022-03-10 |  |
-| [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-03-10 |  |
+| [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-03-10 | 2023-04-12 |
+| [Get Lucky](https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI) | 4:49 | 2023-01-05 |  |
 | [Girl From Ipanema](https://open.spotify.com/track/1hOQ2MFPcuNupbsb8Xba1t) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [US Two](https://open.spotify.com/album/3WDrrELIumy9JiB9aZN5x7) | 3:08 | 2022-03-10 |  |
 | [Glimpse of Us](https://open.spotify.com/track/3UCsK9DYrSd6Qn4oQ9cRq1) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:32 | 2023-01-05 |  |
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2022-03-10 |  |
@@ -94,7 +95,8 @@
 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid) | 4:39 | 2022-07-26 | 2023-01-06 |
 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/10sYxXLdFfPn93JPVBUBfL) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:38 | 2022-09-08 | 2022-11-13 |
 | [Lejos De Ti](https://open.spotify.com/track/7fpdfABPSZoTSrv6CSYIsw) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Lejos De Ti](https://open.spotify.com/album/66vBj0KWsYEQUthU4gLmHO) | 3:11 | 2022-03-10 |  |
-| [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-03-10 |  |
+| [Let It Be](https://open.spotify.com/track/35FPsONgbYz9DKFQCWAzHe) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 4:59 | 2023-01-05 |  |
+| [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-03-10 | 2023-04-12 |
 | [Lights Down Low](https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Plays the Uke](https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn) | 3:36 | 2022-05-05 |  |
 | [Mate Dulce y Amargo](https://open.spotify.com/track/0u6r9d3mjMfIJ3FF4RW4k9) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Mate Dulce y Amargo](https://open.spotify.com/album/3U0ywmyP4MKnpv6BSaBAjv) | 2:58 | 2022-03-10 |  |
 | [Maui Medley PART I](https://open.spotify.com/track/5tjoUaI812GWY83W8XmlJ5) | [Jan Forsmark](https://open.spotify.com/artist/1s3OZeh2LpVPOlKTH0XSOQ) | [Maui Medley PART I](https://open.spotify.com/album/2tsrQPJuJKJAE3BfZWkTsu) | 2:20 | 2022-03-10 | 2022-05-21 |

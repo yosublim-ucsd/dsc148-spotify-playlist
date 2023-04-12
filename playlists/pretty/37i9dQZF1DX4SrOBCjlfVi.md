@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Drake, Youngboy and more\. Cover: Rae Sremmurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,614 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,754 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 36 | [Free Game](https://open.spotify.com/track/5EXF2fT8S8fjaiCdd5hq0k) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:23 |
 | 37 | [5 Star](https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [5 Star](https://open.spotify.com/album/2jBKKyyYCY4OawmOGNJbsq) | 3:10 |
 | 38 | [Locked In](https://open.spotify.com/track/70ZmkjQYwZa57HCPk8Oy89) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O) | [Locked In](https://open.spotify.com/album/7C1eBEjzdT5BMdquF4BGH2) | 2:34 |
-| 39 | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL) | 3:59 |
+| 39 | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Millyz](https://open.spotify.com/artist/49UQfkW88kcZ29ZnHdWCHg) | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL) | 3:59 |
 | 40 | [Muney Prayer](https://open.spotify.com/track/2ZwwnOqycSc37gAAnV10Qb) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [Blue Muney](https://open.spotify.com/album/367hXk3l1JWNj2OZTL2YmL) | 2:06 |
 | 41 | [Likka Sto](https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH) | [Likka Sto](https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72) | 2:10 |
 | 42 | [Ok Bet](https://open.spotify.com/track/2aWhd132y1WFrmXtQ4XwHm) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Ok Bet](https://open.spotify.com/album/1BeuLY4VPYF9MqG2UWNhNg) | 3:10 |

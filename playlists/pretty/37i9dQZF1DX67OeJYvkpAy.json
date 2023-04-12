@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 85128,
+  "num_followers": 85141,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMGY4NmU2N2Q0ZTZjZTk2MWY4YzdmNjQ4ZDVlYWNiNDlj",
+  "snapshot_id": "MTY1OTQ1NDk0OCwwMDAwMDAwMDNlNjI0MGJmMThiNWVhZWUxMjM0ZDU3MmExNDNhNWQ1",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Love & Attention",
+        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Love & Attention",
+      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "One Pop",
         "url": "https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP"
       },
@@ -743,6 +759,22 @@
       "duration_ms": 100466,
       "name": "Moston Vale - Freestyle",
       "url": "https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111253,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -779,38 +811,6 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Love & Attention",
-        "url": "https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3"
-      },
-      "artists": [
-        {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Love & Attention",
-      "url": "https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        }
-      ],
-      "duration_ms": 111253,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Left Back (Remix)",
+        "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Left Back - Remix",
+      "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/7nTX2UAegtxAFreniQhSaI"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 96086,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Left Back (Remix)",
-        "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "COMFY",
-          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Left Back - Remix",
-      "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv"
+      },
+      "artists": [
+        {
+          "name": "Svaroda",
+          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
+        },
+        {
+          "name": "Hasan Ceddi",
+          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
+        }
+      ],
+      "duration_ms": 200124,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Lowkey '",
         "url": "https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 160030,
       "name": "High (All The Time)",
       "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Take The Risk",
-        "url": "https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv"
-      },
-      "artists": [
-        {
-          "name": "Svaroda",
-          "url": "https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz"
-        },
-        {
-          "name": "Hasan Ceddi",
-          "url": "https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH"
-        }
-      ],
-      "duration_ms": 200124,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c"
     },
     {
       "added_at": "2022-08-02 15:42:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,543 likes - 173 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 173 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 7 | [ICED OUT SUMMER](https://open.spotify.com/track/3aQuwPANxNswEKh2viX9EJ) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICONICY](https://open.spotify.com/album/12Snxk7OkB5iXByJNnSqaH) | 2:40 |
 | 8 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
 | 9 | [RIDE WITH ME](https://open.spotify.com/track/1TJOIVjPHbnqloF9pvDOf6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [RIDE WITH ME](https://open.spotify.com/album/5tY1nlCQNEqmtXmTxgblRc) | 2:57 |
-| 10 | [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 |
+| 10 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 |
 | 11 | [Elephant Man](https://open.spotify.com/track/7iY8hCiK9LR0omeGo21Z9J) | [Time Cow](https://open.spotify.com/artist/0s4nMk8D4a0XYr3ZjHZZeo), [RTKal](https://open.spotify.com/artist/2vnTkNJZB7zdGMijNNNqLW), [Gavsborg](https://open.spotify.com/artist/1pJjT9XxNky39USV1eAHhN) | [Elephant Man](https://open.spotify.com/album/5u0lcxemZc9m1okas09Tsz) | 6:52 |
 | 12 | [Ruffest Gun Ark \- DJ Rap Mix](https://open.spotify.com/track/3IQNyWPEfNQV7YDmvABjgr) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j), [DJ Rap](https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46) | [Champion Deejay](https://open.spotify.com/album/2IHY99tMm1YQI0mDJ8Y037) | 5:19 |
 | 13 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 172 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 173 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MTY3ODI5NTQ3NiwwMDAwMDAwMGFiYWUwNGY3YzE5YmI3YTAzYmM5ZmQxYTliNGE4ZGQ2`
+Snapshot ID: `MTY3ODI5NTQ3NiwwMDAwMDAwMGNjMWQ1Yzk4OGJmZjE2MWFjNDgyZGRhZmRmM2FlNDRk`

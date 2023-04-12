@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Pathu Thala
 
-99 songs - 5 hr 55 min
+100 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Sippara Rippara \- From "Paramporul"](https://open.spotify.com/track/4LH4s5TutFlFWqIrGuzrSi) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Amitash](https://open.spotify.com/artist/5f1RvHCGNLIQam2LS3q2vQ) | [Sippara Rippara \(From "Paramporul"\)](https://open.spotify.com/album/6oZ2UEmDDb6dxJqUKuYAR1) | 3:58 | 2022-08-12 | 2022-08-17 |
 | [Sivakumar Pondati \- From "Sivakumarin Sabadham"](https://open.spotify.com/track/6XPgCW18GiGg0scbMcdxgX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Gana Michael](https://open.spotify.com/artist/0imvlXJqHQo2ztGqrvIUVI) | [Sivakumar Pondati \(From "Sivakumarin Sabadham"\)](https://open.spotify.com/album/66vXy7SyZYMwMCXpOiES3C) | 3:16 | 2021-12-01 |  |
 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 | 2021-12-01 |  |
+| [Soodam Karpooram \- From "Soppana Sundari"](https://open.spotify.com/track/5HcBzwZutEclerFcuhm5gV) | [Ajmal Tahseen](https://open.spotify.com/artist/327Ko6ilxhggzzjk5kLEnU), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Soodam Karpooram \(From "Soppana Sundari"\)](https://open.spotify.com/album/5UdUvzv4x4IE2RybJvcMgD) | 2:55 | 2023-04-11 |  |
 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 | 2022-02-03 |  |
 | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thaai Kelavi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/4jFrwveExsKoWw4uxDu8kz) | 4:18 | 2022-06-24 |  |
 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 | 2022-12-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MwHlrzAPLQ.md) - [plain]
 
 > Bill Withers brought sunshine to all our lives with his timeless music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,173 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,237 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

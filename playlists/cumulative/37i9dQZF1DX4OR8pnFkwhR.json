@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: TOMOO\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u306d\u3050\u305b\n",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1088,6 +1088,24 @@
       "duration_ms": 198140,
       "name": "Call Center",
       "url": "https://open.spotify.com/track/49hsrqDA4uRLFqkrXPfsKR"
+    },
+    {
+      "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/4Sa87grU9iP961pLuFc0qL"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245504,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/1yU0p61KLPg36rMKbDT5TE"
     },
     {
       "album": {
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 262066,
       "name": "Flying Son",
       "url": "https://open.spotify.com/track/72BAt7jfsMZrSu99Jns0Ax"
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 247833,
       "name": "Over ray",
       "url": "https://open.spotify.com/track/5ANdXaACXF2DabMGSxrEeh"
@@ -7183,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "PUR",
+        "url": "https://open.spotify.com/album/2XdTtSLr0muUcImZtDF2HK"
+      },
+      "artists": [
+        {
+          "name": "Apes",
+          "url": "https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242325,
+      "name": "Stay alive",
+      "url": "https://open.spotify.com/track/52EbacHlCatprydFHbfMDT"
+    },
+    {
+      "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/2bn6O3GayBt7HyEysgcSxR"
       },
@@ -8102,7 +8138,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 246818,
       "name": "Villain",
       "url": "https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY"
@@ -9455,6 +9491,24 @@
     },
     {
       "album": {
+        "name": "\u3075\u305f\u308a",
+        "url": "https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252613,
+      "name": "\u3075\u305f\u308a",
+      "url": "https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT"
+    },
+    {
+      "album": {
         "name": "\u3075\u305f\u308a\u8a08\u753b",
         "url": "https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG"
       },
@@ -10086,6 +10140,24 @@
       "duration_ms": 190434,
       "name": "\u30b7\u30c8\u30e9\u30b9",
       "url": "https://open.spotify.com/track/3E7EqKi9z8dRoWUame2a88"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30cb\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218148,
+      "name": "\u30b7\u30cb\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q"
     },
     {
       "album": {
@@ -12479,6 +12551,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u3057\u3066\u307f\u3066\u3088\u6e1b\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3057",
+        "url": "https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198806,
+      "name": "\u611b\u3057\u3066\u307f\u3066\u3088\u6e1b\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3057",
+      "url": "https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS"
+    },
+    {
+      "album": {
         "name": "\u30df\u30c3\u30af\u30b9\u30b8\u30e5\u30fc\u30b9\u30ed\u30b1\u30c3\u30c8",
         "url": "https://open.spotify.com/album/7CPZgEuTnTXqg8Mcg9gO4P"
       },
@@ -12670,7 +12760,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"
@@ -13275,6 +13365,28 @@
     },
     {
       "album": {
+        "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
+        "url": "https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        },
+        {
+          "name": "Remi Matsuo",
+          "url": "https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299803,
+      "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
+      "url": "https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j"
+    },
+    {
+      "album": {
         "name": "\u706b\u904a\u3073",
         "url": "https://open.spotify.com/album/5MnxhgDndyzTbMUif8ou7a"
       },
@@ -13304,7 +13416,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 286710,
       "name": "\u706f\u308a",
       "url": "https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS"
@@ -13740,7 +13852,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 103266,
       "name": "\u7a7a\u524d\u7d76\u5f8c\u306e\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M"

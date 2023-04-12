@@ -1,12 +1,12 @@
 {
   "description": "Dedicated to all the programmers out there.",
-  "num_followers": 334849,
+  "num_followers": 335035,
   "original_name": "Coding Mode  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDc4MzM4ZmRkOGRiN2MwNjFkNGQxNGFjZDBlYjk5NDY5",
+  "snapshot_id": "MTY4MTEyMjk3MSwwMDAwMDAwMDJjYjFkNjI3NWRjMDQ3MDQ1YjE3YjcyOWQ1MzEwYTY5",
   "tracks": [
     {
       "added_at": "2023-04-10 10:36:11",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "everpresent",
         "url": "https://open.spotify.com/album/1HVgsvqhD0LwqEDRy03Y7Q"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 155624,
       "name": "everpresent",
       "url": "https://open.spotify.com/track/6NnKLbuNprZyhHUUbu11HS"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6"
-      },
-      "artists": [
-        {
-          "name": "Epic Mountain",
-          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Optimistic Nihilism",
-      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 277559,
       "name": "L",
       "url": "https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Kurzgesagt, Vol. 4 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lCnMllidUf5pmU5N67vb6"
+      },
+      "artists": [
+        {
+          "name": "Epic Mountain",
+          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Optimistic Nihilism",
+      "url": "https://open.spotify.com/track/3PmEzB2ORXmXBx07JY9z66"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Cumulus Motion",
-        "url": "https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O"
-      },
-      "artists": [
-        {
-          "name": "Lama House",
-          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
-        }
-      ],
-      "duration_ms": 174755,
-      "name": "Cotton Spheres",
-      "url": "https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 447800,
       "name": "#1",
       "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Cumulus Motion",
+        "url": "https://open.spotify.com/album/7iEuYy67Zb83EwSTZcWS7O"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "duration_ms": 174755,
+      "name": "Cotton Spheres",
+      "url": "https://open.spotify.com/track/10PRcEnKj8J3m13s1wvjiI"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Dosages",
-        "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Milliano",
-          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Loungerie",
-      "url": "https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Annica",
         "url": "https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 175250,
       "name": "Annica",
       "url": "https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Dosages",
+        "url": "https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Loungerie",
+      "url": "https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
+        "name": "By the Deep Sea",
+        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 241114,
+      "name": "Mauer Blues",
+      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
         "name": "Closed for Renovations",
         "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "By the Deep Sea",
-        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+        "name": "Somewhere in October",
+        "url": "https://open.spotify.com/album/2jWENpFhAIS8cTXHy5ee79"
       },
       "artists": [
         {
-          "name": "Federico Albanese",
-          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+          "name": "Tom Day",
+          "url": "https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG"
         }
       ],
-      "duration_ms": 241114,
-      "name": "Mauer Blues",
-      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
+      "duration_ms": 247422,
+      "name": "Somewhere in October",
+      "url": "https://open.spotify.com/track/0Oajka6trs5YNuLY2t1qib"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Somewhere in October",
-        "url": "https://open.spotify.com/album/2jWENpFhAIS8cTXHy5ee79"
-      },
-      "artists": [
-        {
-          "name": "Tom Day",
-          "url": "https://open.spotify.com/artist/74yueOpxONIcPCjGyF84jG"
-        }
-      ],
-      "duration_ms": 247422,
-      "name": "Somewhere in October",
-      "url": "https://open.spotify.com/track/0Oajka6trs5YNuLY2t1qib"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Oasis Sky",
         "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "India",
-        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
-      },
-      "artists": [
-        {
-          "name": "EarthLife",
-          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
-        }
-      ],
-      "duration_ms": 535370,
-      "name": "India",
-      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "We're Back Chilling",
         "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 311613,
       "name": "Absent Minded in Berlin",
       "url": "https://open.spotify.com/track/1ErakKk3ypf8rp8N5UUrta"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "India",
+        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 352357,
-      "name": "Angel's Flight",
-      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 172500,
       "name": "Scene 2",
       "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Twisty",
-        "url": "https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
       },
       "artists": [
         {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+          "name": "Sahamanyu",
+          "url": "https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C"
         }
       ],
-      "duration_ms": 416931,
-      "name": "Free Fall",
-      "url": "https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK"
+      "duration_ms": 321000,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A"
+        "name": "Twisty",
+        "url": "https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX"
       },
       "artists": [
         {
-          "name": "Sahamanyu",
-          "url": "https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C"
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme"
+      "duration_ms": 416931,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Ambient Introspection",
-        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
-      },
-      "artists": [
-        {
-          "name": "Prashanth Srinivas",
-          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
-        }
-      ],
-      "duration_ms": 104142,
-      "name": "Chasing the Calm",
-      "url": "https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Winter in America",
         "url": "https://open.spotify.com/album/1na34qpvNXMvcbNk7Q1g1P"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 513749,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2bSQIZHLpDkJXD47SMGJV9"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Ambient Introspection",
+        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Srinivas",
+          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
+        }
+      ],
+      "duration_ms": 104142,
+      "name": "Chasing the Calm",
+      "url": "https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T"
     },
     {
       "added_at": "2023-04-10 10:36:11",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-04-10 10:36:11",
       "album": {
-        "name": "Ambient Introspection",
-        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
-      },
-      "artists": [
-        {
-          "name": "Prashanth Srinivas",
-          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
-        }
-      ],
-      "duration_ms": 126258,
-      "name": "Relief",
-      "url": "https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0"
-    },
-    {
-      "added_at": "2023-04-10 10:36:11",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/3NVFHTmDQPvM9rDJv1fpYm"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 240039,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/3MfbA1oqDBXC2teY5yFqR5"
+    },
+    {
+      "added_at": "2023-04-10 10:36:11",
+      "album": {
+        "name": "Ambient Introspection",
+        "url": "https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Srinivas",
+          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
+        }
+      ],
+      "duration_ms": 126258,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0"
     },
     {
       "added_at": "2023-04-10 10:36:11",

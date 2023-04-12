@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bAylah(\uc544\uc77c\ub77c)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 317598,
+  "num_followers": 317696,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMGVkNWFhNzM3Y2RkOTgzYzFhOWJmOGYwNzRhNTdkNDQ5",
+  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMGFmYzdjYmQwMDk3Njk3Y2VmMTBhNGY3MTEyNWM0Mjc5",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:23",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-04-11 00:34:58",
+      "added_at": "2023-04-12 01:06:40",
       "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0"
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Big world",
-      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Always with you",
-        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Always with you",
-      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 207373,
       "name": "To You",
       "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Always with you",
+        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Always with you",
+      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Red Moon: Beyond The Light",
         "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Everyday waiting you",
-        "url": "https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb"
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
       },
       "artists": [
         {
-          "name": "Lee Yejoon",
-          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 241386,
-      "name": "Everyday waiting you",
-      "url": "https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M"
+      "duration_ms": 224080,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1655,34 +1655,38 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Agency (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+        "name": "Everyday waiting you",
+        "url": "https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Lee Yejoon",
+          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
         }
       ],
-      "duration_ms": 227054,
-      "name": "Tale",
-      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+      "duration_ms": 241386,
+      "name": "Everyday waiting you",
+      "url": "https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M"
     }
   ],
   "unique_name": "v o K a l",

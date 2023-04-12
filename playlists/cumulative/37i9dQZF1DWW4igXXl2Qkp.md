@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: BlakeIANA
 
-711 songs - 1 day 7 hr 11 min
+712 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Bad](https://open.spotify.com/track/3dgHge6fulb9L2thG7WVrO) | [Kastillab](https://open.spotify.com/artist/1LcuNgsQTbP128jkGtFwQl) | [Bad](https://open.spotify.com/album/6awMrrsbzcOJexFksNAS9M) | 2:54 | 2022-03-23 | 2022-04-28 |
 | [Bad Bih](https://open.spotify.com/track/4wV8XlmqCVMH0ogyVUqe5Q) | [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE) | [Uncommon](https://open.spotify.com/album/5uAoxq451k7pjHJrNlKxAy) | 2:34 | 2022-02-03 | 2022-03-03 |
 | [Bad Bitch](https://open.spotify.com/track/1YBNyz3eAVXPoh2ZWEWiIt) | [Lexy Panterra](https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww) | [Bad Bitch](https://open.spotify.com/album/30NrujfphLM7qczBFiCFQk) | 2:46 | 2023-01-11 | 2023-02-09 |
-| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-02-01 |  |
+| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-02-01 | 2023-04-12 |
+| [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 | 2023-02-22 |  |
 | [Bad Spirits](https://open.spotify.com/track/7N3WrBPxZa9sHc3wUGdHgj) | [Ybt3fly](https://open.spotify.com/artist/7dw3TKXxfHnAwqHat5xubi) | [Bad Spirits](https://open.spotify.com/album/0jDn3KV7KJ2OiWlHH0jsDC) | 2:31 | 2021-12-01 | 2022-01-14 |
 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 | 2022-07-20 | 2022-09-01 |
 | [Bali](https://open.spotify.com/track/5hnl4JlzYGDwYCYuqRxJ9w) | [MiloXO](https://open.spotify.com/artist/1GikQjAs1mSTJtZKPi3hWr) | [Bali](https://open.spotify.com/album/5owzKcMzXDah0XN00JTioy) | 3:09 | 2022-02-16 | 2023-01-12 |

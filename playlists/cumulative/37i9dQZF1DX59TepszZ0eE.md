@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX59TepszZ0eE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59TepszZ0eE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59TepszZ0eE)
 
-### [The Cross](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
+### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Worship Him this Easter with the best in SA gospel.
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=Lswdxkn9S76SA0dR0aUUTA">Joyous Celebration</a>
 
-92 songs - 9 hr 39 min
+93 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 | 2020-03-16 |  |
 | [He Brought Me This Far](https://open.spotify.com/track/768aDfYOtuztbTQvPOQitB) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ebenezer](https://open.spotify.com/album/3YmVRVznUow3ci23VqyVel) | 6:24 | 2022-02-17 | 2023-03-18 |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
+| [Imisebenzi Yakho](https://open.spotify.com/track/2fNijmMXShZ4ns3DpgPOFG) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship](https://open.spotify.com/album/346LyPDtxWHvzIB6j6D3Iz) | 5:07 | 2023-04-11 |  |
 | [Indodana](https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 2](https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b) | 4:54 | 2023-03-17 |  |
 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 | 2019-04-11 |  |
 | [Interlude \- Zulu Worship Medley \- Live](https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:22 | 2023-04-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6044,
+  "num_followers": 6042,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMGY0ZGZkZGEyN2ZlYTJmNjJhYTVjMjFlNGQ4NmI4MDZh",
+  "snapshot_id": "MTY3MDU2NzE3NCwwMDAwMDAwMDM1ODNiOGVjZGQ0MWE2Y2NiZGY3MmZlNGI3ZmE3MmFk",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Noite de Paz",
-        "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
+        "name": "Seu Nome",
+        "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
       },
       "artists": [
         {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
-        },
-        {
-          "name": "Jeanne Mascarenhas",
-          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
         }
       ],
-      "duration_ms": 241222,
-      "name": "Noite de Paz",
-      "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
+      "duration_ms": 191735,
+      "name": "Seu Nome",
+      "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
     }
   ],
   "unique_name": "Louvores de Natal",

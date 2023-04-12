@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-208 songs - 12 hr 40 min
+209 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 | 2022-07-15 |  |
 | [Cup & Porch](https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Cup & Porch](https://open.spotify.com/album/789jVdxAQoRSbUG29YCr2A) | 3:38 | 2022-01-21 | 2022-11-01 |
 | [Dawg's Rag](https://open.spotify.com/track/7o78yDNCBi29mKHaZ3k96E) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [The David Grisman Quintet](https://open.spotify.com/album/3WFYnejh2lEBcrQq2gclVq) | 8:58 | 2021-12-03 | 2022-07-23 |
+| [Dillsboro Blues](https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ) | [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Dillsboro Blues](https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD) | 4:05 | 2023-04-07 |  |
 | [Earl's Breakdown](https://open.spotify.com/track/1TE5fjEZttPqAtPsTLK8vv) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Foggy Mountain Jamboree \(Expanded Edition\)](https://open.spotify.com/album/17ZwH4iaxFOvVun0hW5Zkc) | 2:59 | 2021-12-03 | 2022-07-23 |
 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 | 2022-03-18 |  |
 | [Ecstasy \(Instrumental Edit\)](https://open.spotify.com/track/4Eh0EzmssbxXKjPBKXd0EB) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound \(Deluxe\)](https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG) | 3:41 | 2023-01-13 |  |
@@ -143,7 +144,7 @@
 | [Orange Blossom Special](https://open.spotify.com/track/62LJqunG21MXeQr4pUf6Pb) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Foggy Mountain Breakdown](https://open.spotify.com/album/7A7mOaNTG7wEFetXhC8Hdm) | 2:56 | 2021-12-03 |  |
 | [Orange Blossom Special \- Instrumental](https://open.spotify.com/track/4mA1uVt3TKkv4n3J2lKHLs) | [Mark Howard](https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Lonesome Whistle](https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz) | 2:09 | 2021-12-03 | 2022-07-23 |
 | [Overton Waltz](https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [Into My Own](https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK) | 5:06 | 2021-12-03 |  |
-| [Palmer](https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e) | [Joe K\. Walsh](https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB) | [If Not Now, Who?](https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO) | 4:55 | 2023-01-13 |  |
+| [Palmer](https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e) | [Joe K\. Walsh](https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB) | [If Not Now, Who?](https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO) | 4:55 | 2023-01-13 | 2023-04-12 |
 | [Pastures New](https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Nickel Creek](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) | 3:53 | 2021-12-03 |  |
 | [Peace](https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 3:15 | 2021-12-03 |  |
 | [Peace Behind the Bridge](https://open.spotify.com/track/0Fv9j3J5uPbYaiiWiEJNvC) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/1rBoQHXoY63bjxipolXzsh) | 2:34 | 2021-12-03 | 2022-07-29 |

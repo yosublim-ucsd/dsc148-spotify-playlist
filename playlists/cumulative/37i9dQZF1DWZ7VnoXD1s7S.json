@@ -1410,10 +1410,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 89343,
       "name": "Nocturne Interlude",
       "url": "https://open.spotify.com/track/5jpnoBnHSxRARxZhAXgOzb"
+    },
+    {
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89343,
+      "name": "Nocturne Interlude",
+      "url": "https://open.spotify.com/track/5yeKnXDHfMOeZNbAKoRpIB"
     },
     {
       "album": {

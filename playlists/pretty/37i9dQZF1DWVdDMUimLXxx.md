@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,784 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,911 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 23 | [Love Theme For Linda](https://open.spotify.com/track/6yEKX6B4ehcaI2epFjkKtl) | [Ulf Janson](https://open.spotify.com/artist/6EY0o8bLVxMJlgpipFvfhK) | [Love Theme For Linda](https://open.spotify.com/album/0cBmUUiRdqPsX1NNU8U3QQ) | 2:03 |
 | 24 | [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:17 |
 | 25 | [Faith Arise](https://open.spotify.com/track/7q9fSdPJO9MHZqYMaefXUm) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [In Abundance](https://open.spotify.com/album/6GIEUr2Nhe8E37amFtuAcv) | 3:08 |
-| 26 | [Holy \- String Ensemble](https://open.spotify.com/track/2635mg4Ef7isjdHXXkEcAy) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/42yDUWgIoDifBUDAm7zhsi) | 2:49 |
+| 26 | [Holy \- String Ensemble](https://open.spotify.com/track/6wG4C18QcGgJGsbT6nLH4H) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Holy & Mad At Disney \(String Ensemble\)](https://open.spotify.com/album/7LmiwypzjKwJfz25OAjAp6) | 2:49 |
 | 27 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 |
 | 28 | [Progressive Progress](https://open.spotify.com/track/6Marmee2WT50icMbZP31EU) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:30 |
 | 29 | [Extraction](https://open.spotify.com/track/6HAIDtMu0I64I9bpZE7OAR) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Progression](https://open.spotify.com/album/1Yh8bvBQq4LgnUP0zakwBa) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 69 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 70 | [Crossroad at Dawn](https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Chaotic Chronicle \(Lineage2 Original Soundtrack\)](https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC) | 2:00 |
 
-Snapshot ID: `MTY2MzMyMDU3NCwwMDAwMDAwMDhkMDI3YmE2NzU4ODczYmRhMjk1ODM0YzEwMjU5MDJh`
+Snapshot ID: `MTY2MzMyMDU3NCwwMDAwMDAwMGViOGI1YmVjNjNiYjAyYWJiMmNmMzdiZGUwNzQ5ZjMz`

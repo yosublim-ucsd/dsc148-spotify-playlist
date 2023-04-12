@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Dinner Bell",
+        "url": "https://open.spotify.com/album/4mWPo2Z5XVSJ2DImosQz2B"
+      },
+      "artists": [
+        {
+          "name": "Harumakigohan",
+          "url": "https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186164,
+      "name": "Dinner Bell",
+      "url": "https://open.spotify.com/track/4R4HYbhg9yBcHKX9yKvVK3"
+    },
+    {
+      "album": {
         "name": "DOKUZU",
         "url": "https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7"
       },
@@ -1307,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "KLY",
+        "url": "https://open.spotify.com/album/5cZP3s2SdQ8vXKR5yz52SU"
+      },
+      "artists": [
+        {
+          "name": "Iyowa",
+          "url": "https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "KLY",
+      "url": "https://open.spotify.com/track/5kU2uwJrjRuADfLltDgLc2"
+    },
+    {
+      "album": {
         "name": "kyu-kurarin",
         "url": "https://open.spotify.com/album/4f5TDdboXv76t95A48thSs"
       },
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 140527,
       "name": "MACHINEGUN POEM DOLL",
       "url": "https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 206250,
       "name": "Mikansei egoizumu",
       "url": "https://open.spotify.com/track/18CPQqeQvpwvzgfurOwEbR"
@@ -4558,7 +4594,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 76625,
       "name": "\u30c0\u30e1\u30fc\u30b8!\u30c0\u30e1\u30fc\u30b8!\u30c0\u30e1\u30fc\u30b8!",
       "url": "https://open.spotify.com/track/7lYWkuKy5wbrMX1p6pq6RW"
@@ -7780,6 +7816,28 @@
       "duration_ms": 241544,
       "name": "\u62dd\u5553\u3001\u4f55\u8005\u306b\u3082\u306a\u308c\u306a\u304b\u3063\u305f\u50d5\u3078\u3002",
       "url": "https://open.spotify.com/track/3Nm3uFDJ2elU5oeYi8wFLj"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u4eba\u985e",
+        "url": "https://open.spotify.com/album/43TriX8Pn7p36c51igwPTv"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "\u93e1\u97f3\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/50sbi4xBlZS6PS1ggRjAZf"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156951,
+      "name": "\u65b0\u4eba\u985e",
+      "url": "https://open.spotify.com/track/2HnAB3jqNvnzphxB8AqZDK"
     },
     {
       "album": {

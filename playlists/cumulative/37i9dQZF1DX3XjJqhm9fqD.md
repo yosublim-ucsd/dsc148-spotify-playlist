@@ -2,9 +2,9 @@
 
 ### [Haitian Heat](https://open.spotify.com/playlist/37i9dQZF1DX3XjJqhm9fqD)
 
-> Celebrating Haitian music\. Cover: Durkheim
+> Celebrating Haitian music\. Cover: Tafa Mi\-Soleil
 
-172 songs - 10 hr 17 min
+173 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Koupé](https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk) | [Bilix](https://open.spotify.com/artist/2t3MOHUqpgzXfxRugdaXSY), [Blackboy](https://open.spotify.com/artist/41rmcjpuoB63va3wJtJ5sV), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Koupé](https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI) | 2:35 | 2023-03-17 |  |
 | [KÈM](https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [KÈM](https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3) | 2:45 | 2022-08-12 | 2023-02-18 |
 | [LAKAY](https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg) | [Jeff Pierre](https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt), [AlCol](https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR) | [LAKAY](https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM) | 2:51 | 2021-12-06 |  |
+| [Lakou](https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng) | [Tafa Mi\-Soleil](https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt) | [Lakou](https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3) | 3:12 | 2023-04-11 |  |
 | [Life Goes On](https://open.spotify.com/track/1TQCfMfITNGtj9Vc4wSHDP) | [King Green](https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c), [Vanela](https://open.spotify.com/artist/1v3Hk0YPwZXnxnKKyXOrmu) | [+Positive Vibes For Negative Times](https://open.spotify.com/album/3niU1RC3W3hY9iNRq4ez8M) | 2:14 | 2022-07-14 | 2023-02-18 |
 | [Liki Tiki](https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Liki Tiki](https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv) | 3:15 | 2022-03-18 |  |
 | [Love a Plein Temps](https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Love a Plein Temps](https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0) | 3:20 | 2022-04-15 |  |

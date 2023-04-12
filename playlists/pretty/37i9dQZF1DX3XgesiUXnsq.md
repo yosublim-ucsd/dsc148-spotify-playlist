@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Madlib, Meyhem Lauren, DJ Muggs
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,375 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,528 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 22 | [Quarters](https://open.spotify.com/track/0BYSlACvBBTSjSO6rezjGp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Quarters](https://open.spotify.com/album/4kjptLBuZcavHOjEX1Al65) | 2:28 |
 | 23 | [High Noon](https://open.spotify.com/track/03gTp2zMOTL36xDsfzgJlh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [To See A Sunset](https://open.spotify.com/album/5rJ8SJ38ask8SN4ftwxvWS) | 3:04 |
 | 24 | [Above Water](https://open.spotify.com/track/1CukLFTHUU14jP0aCImrgs) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Above Water](https://open.spotify.com/album/0ek3Mj5Ptxr1ens0OlhYnx) | 2:51 |
-| 25 | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL) | 3:59 |
+| 25 | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/track/64QLilxeoqjwAHoUE4IBfX) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Millyz](https://open.spotify.com/artist/49UQfkW88kcZ29ZnHdWCHg) | [Uncomfortable Truth \(feat\. Millyz\)](https://open.spotify.com/album/2oj9o7vMHp2GsoyBv03UgL) | 3:59 |
 | 26 | [Royce & Reggie](https://open.spotify.com/track/3pABqONrhhTpJMybJBpu0G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [The Heaven Experience \- EP](https://open.spotify.com/album/28zIktAVw9ABux047nCGkH) | 3:58 |
 | 27 | [Trouble](https://open.spotify.com/track/7CbQmo7ePU46TTC1Wz6TOi) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Alpha Omega](https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf) | [Trouble](https://open.spotify.com/album/4KpkCdySMe6TWjN4rQln3a) | 3:27 |
 | 28 | [Eee Zee](https://open.spotify.com/track/5qlP944NySkgAtkzVGE0G3) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Eee Zee](https://open.spotify.com/album/07osvOkL07RkoPMQDvqYqQ) | 2:55 |

@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. Fuerza Regida en portada.",
-  "num_followers": 99960,
+  "num_followers": 100077,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMDA3Yjg0ZmRmY2EzYTU2MzJkOWViODZiY2Q5MmQwYjQ5",
+  "snapshot_id": "MTY3NzEwNTQ1NywwMDAwMDAwMDhiMzQ2ZGI0ZGMzZTNjMTgxMTcyZWE3MTA5NmJjNzI5",
   "tracks": [
     {
       "added_at": "2023-02-22 22:37:37",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
+        "name": "Haciendo Ruido",
+        "url": "https://open.spotify.com/album/5crNwercw8bueI9WuxcKAo"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Yo Fui El Elegante",
+      "url": "https://open.spotify.com/track/0rjjeubHWrLp5B8kfXrg0x"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
         "name": "Imperio",
         "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "Haciendo Ruido",
-        "url": "https://open.spotify.com/album/5crNwercw8bueI9WuxcKAo"
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
       },
       "artists": [
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 143080,
-      "name": "Yo Fui El Elegante",
-      "url": "https://open.spotify.com/track/0rjjeubHWrLp5B8kfXrg0x"
+      "duration_ms": 156573,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -1035,22 +1051,6 @@
       "duration_ms": 168426,
       "name": "Botas Blancas",
       "url": "https://open.spotify.com/track/2FRquaTV3ifxdTVgqdHTPA"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "La Tambora Va A Sonar",
-      "url": "https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u"
     },
     {
       "added_at": "2023-02-22 22:37:37",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-02-22 22:37:37",
       "album": {
-        "name": "La Tambora Va A Sonar",
-        "url": "https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 160293,
-      "name": "La Tambora Va A Sonar",
-      "url": "https://open.spotify.com/track/1dnZe0c1EVwHHiEvZy0XFO"
-    },
-    {
-      "added_at": "2023-02-22 22:37:37",
-      "album": {
         "name": "RDSD (En Vivo)",
         "url": "https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 185500,
       "name": "RDSD (En Vivo)",
       "url": "https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS"
+    },
+    {
+      "added_at": "2023-02-22 22:37:37",
+      "album": {
+        "name": "La Tambora Va A Sonar",
+        "url": "https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 160293,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1dnZe0c1EVwHHiEvZy0XFO"
     },
     {
       "added_at": "2023-02-22 22:37:37",

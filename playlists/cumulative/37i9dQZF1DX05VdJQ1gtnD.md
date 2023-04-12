@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-234 songs - 10 hr 43 min
+236 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 |  |
 | [Abby](https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd) | 2:17 | 2022-10-28 |  |
 | [Abby](https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7fpYo14NmrothLMregmtyT) | 2:17 | 2022-07-15 | 2022-11-05 |
-| [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 |  |
+| [abcdefu \- Guitar](https://open.spotify.com/track/0IZNL7FV89WdMnQI9b5Cn5) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/1AU1wDXZ56cN9WYT1XVDWA) | 4:15 | 2023-03-31 |  |
+| [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 | 2023-04-12 |
 | [Afterglow](https://open.spotify.com/track/4ZliE8PtQ1qgnPkFdOeqQ8) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Afterglow](https://open.spotify.com/album/4HGCzPumUHchGQpJJYHsPl) | 3:05 | 2022-05-13 |  |
 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 | 2022-10-07 |  |
 | [Alt Evolution](https://open.spotify.com/track/5X3Ghag14o3GUR3F0ljNWU) | [Nicole Ellis](https://open.spotify.com/artist/29i78ujvmrXRSFg9nZYaVK) | [Alt Evolution](https://open.spotify.com/album/4faddULwhKK0FTU1IrXCRL) | 3:11 | 2022-05-13 | 2023-02-25 |
@@ -205,7 +206,8 @@
 | [Tagträumen](https://open.spotify.com/track/7hyWalK1MDzO6VNROH8pwq) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Tagträumen](https://open.spotify.com/album/7h7jVxlst3yZXbiQi9ajwo) | 2:11 | 2022-12-09 |  |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-02-24 |  |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 |  |
-| [The Bones \- Acoustic Guitar](https://open.spotify.com/track/1t43AwBrCzl87i0L2G58bG) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/7EHVur55Mjkq7HLL1HlxNr) | 3:39 | 2022-05-13 |  |
+| [The Bones \- Acoustic Guitar](https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh) | 3:39 | 2023-03-31 |  |
+| [The Bones \- Acoustic Guitar](https://open.spotify.com/track/1t43AwBrCzl87i0L2G58bG) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/7EHVur55Mjkq7HLL1HlxNr) | 3:39 | 2022-05-13 | 2023-04-12 |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2022-05-13 | 2023-02-25 |
 | [The Long And Winding Road](https://open.spotify.com/track/1txWPldboDI7OkZ5TJGt6h) | [Osvaldo Di Dio](https://open.spotify.com/artist/6p8n2sv9gmOFxQ7Qa0kXTP) | [The Long And Winding Road](https://open.spotify.com/album/0Nkr6bSskmyBqFhp1jFX1M) | 3:31 | 2022-05-13 | 2022-11-18 |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 |  |

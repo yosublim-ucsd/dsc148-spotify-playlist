@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Bella Shmurda",
-  "num_followers": 5327,
+  "num_followers": 5417,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGExM2FhZDg0ZmYwNmE1ZTc5MTA5MDg4NjY4MjUyOWE2",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDQ2NmYyNTJlZmM5NGYzMjc4OTc4N2Q2MmI2MjJhNzc4",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
+        "name": "Good Bad Boy",
+        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 149812,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
+      "duration_ms": 163158,
+      "name": "Good Bad Boy",
+      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Good Bad Boy",
-        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
       },
       "artists": [
         {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 163158,
-      "name": "Good Bad Boy",
-      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
+      "duration_ms": 149812,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
-      },
-      "artists": [
-        {
-          "name": "Anonymous Music",
-          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 143300,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "ZaZoo Zehh",
         "url": "https://open.spotify.com/album/06y2KN7ZkZZ05vVxTTwCM8"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 214545,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
+      },
+      "artists": [
+        {
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 143300,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
     },
     {
       "added_at": "2023-03-30 23:00:00",

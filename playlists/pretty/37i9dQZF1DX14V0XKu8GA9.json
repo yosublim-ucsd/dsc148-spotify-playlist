@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21512,
+  "num_followers": 21529,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDg5MDlkODM3YzIxN2M3OTY1YTViYzgyNzA5M2UwNGY4",
+  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDViZGUwM2M2MDdiZTAxZjUzODA4NTI1NDFkYmNiNTYx",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "With My Homies",
-        "url": "https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl"
-      },
-      "artists": [
-        {
-          "name": "Sevens Muzik",
-          "url": "https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW"
-        },
-        {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "With My Homies",
-      "url": "https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 160000,
       "name": "Face",
       "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "With My Homies",
+        "url": "https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl"
+      },
+      "artists": [
+        {
+          "name": "Sevens Muzik",
+          "url": "https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW"
+        },
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "With My Homies",
+      "url": "https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "All The Good Die Young",
-        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
-      },
-      "artists": [
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "All The Good Die Young",
-      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Scared Of My Love",
         "url": "https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 145953,
       "name": "Scared Of My Love",
       "url": "https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "All The Good Die Young",
+        "url": "https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "duration_ms": 121690,
+      "name": "All The Good Die Young",
+      "url": "https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL"
     },
     {
       "added_at": "2023-03-10 22:02:53",

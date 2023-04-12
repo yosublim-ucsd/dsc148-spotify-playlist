@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Cover: my bloody valentine",
+  "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
   "name": "Shoegaze Classics",
   "tracks": [
     {
@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986-1995",
+        "url": "https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF"
+      },
+      "artists": [
+        {
+          "name": "The Charlottes",
+          "url": "https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267666,
+      "name": "Prayer Song",
+      "url": "https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo"
+    },
+    {
+      "album": {
         "name": "Raise",
         "url": "https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw"
       },
@@ -3314,6 +3332,24 @@
       "duration_ms": 305387,
       "name": "Sunshine Smile",
       "url": "https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH"
+    },
+    {
+      "album": {
+        "name": "Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986-1995",
+        "url": "https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353173,
+      "name": "Sunshy",
+      "url": "https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-1,017 songs - 1 day 22 hr 1 min
+1,018 songs - 1 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2022-09-16 | 2022-12-10 |
 | [Backstreet](https://open.spotify.com/track/0l46PJoxf13srgUYSjkBXM) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Backstreet \(feat\. Luh Tyler\)](https://open.spotify.com/album/4vT9WJbEs4xBKqjAcytrDt) | 3:15 | 2023-03-17 |  |
 | [Bad Bitch](https://open.spotify.com/track/7EvNBhI2uO0GunCCbzo2PI) | [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF) | [King Of The Trap 2 \(Deluxe\)](https://open.spotify.com/album/6PMDRce4bzlXYzXlsEPWtP) | 2:10 | 2022-07-29 | 2022-09-10 |
-| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-01-20 |  |
+| [BAD BITCHES](https://open.spotify.com/track/58edubUqtCDoirPaUAZ1b4) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [BAD BITCHES](https://open.spotify.com/album/3VIqkHl5RyYPNeI5RJYA7W) | 2:09 | 2023-01-20 | 2023-04-12 |
+| [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 | 2023-01-20 |  |
 | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/6qg6FiJXghvGugTnItB4Lv) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/3ubtf0L8eEjiUIDQsSiWYu) | 3:27 | 2022-07-08 | 2022-09-03 |
 | [Bad Man \(feat\. Kevin Gates\)](https://open.spotify.com/track/2cDq2RpbcpnPxZ5kGOIys1) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bad Man \(feat\. Kevin Gates\)](https://open.spotify.com/album/3etTTBukIcXtRildghRx1u) | 2:42 | 2022-04-08 | 2022-06-18 |
 | [Bad Situations](https://open.spotify.com/track/4PnR4x0pn4Wc6NBMKAyx8O) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Bad Situations](https://open.spotify.com/album/1hRTv9cSRg1Qe1aMpZqLbX) | 2:56 | 2021-12-25 | 2022-01-13 |

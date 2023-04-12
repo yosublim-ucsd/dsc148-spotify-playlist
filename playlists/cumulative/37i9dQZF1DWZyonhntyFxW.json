@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 156501,
       "name": "BARBARY",
       "url": "https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM"
@@ -1042,6 +1042,24 @@
       "duration_ms": 132574,
       "name": "Freska",
       "url": "https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr"
+    },
+    {
+      "album": {
+        "name": "Gezira",
+        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193743,
+      "name": "Gezira",
+      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
     },
     {
       "album": {
@@ -1858,6 +1876,28 @@
       "duration_ms": 192000,
       "name": "Messi",
       "url": "https://open.spotify.com/track/4KkGIW8FQfKTnt0WL3fb2N"
+    },
+    {
+      "album": {
+        "name": "Karta",
+        "url": "https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127754,
+      "name": "MI AMORI",
+      "url": "https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff"
     },
     {
       "album": {
@@ -2704,7 +2744,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 198260,
       "name": "Wija",
       "url": "https://open.spotify.com/track/2WGt3cf3Jb63fMO9fUt0d1"

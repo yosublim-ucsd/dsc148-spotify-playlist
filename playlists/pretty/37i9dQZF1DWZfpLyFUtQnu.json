@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 48130,
+  "num_followers": 48199,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxMzgxNCwwMDAwMDAwMDBkMjI1ZGRhNWNmZDU1NmVjZGRhMzlkZDE1NzY1Yzk2",
+  "snapshot_id": "MTY4MDYxMzgxNCwwMDAwMDAwMDFkNmJmZTFmN2RjYzYwMWFmY2YxZTQwYTZmZDRkNjM3",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Et Bam",
-        "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 219241,
-      "name": "Et Bam",
-      "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Nino Ferrer",
         "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 275040,
       "name": "Le sud",
       "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Et Bam",
+        "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 219241,
+      "name": "Et Bam",
+      "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Ressources (Nouvelle Edition)",
-        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 210138,
-      "name": "R\u00e9tine",
-      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
         "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Ressources (Nouvelle Edition)",
+        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 210138,
+      "name": "R\u00e9tine",
+      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Addictions (Ultimate Version)",
-        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Longtemps",
-      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Addictions (Ultimate Version)",
+        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Longtemps",
+      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Erza Muqoli",
-        "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
-      },
-      "artists": [
-        {
-          "name": "Erza Muqoli",
-          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
-        }
-      ],
-      "duration_ms": 287037,
-      "name": "Dommage",
-      "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "On fait comme si",
         "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 251625,
       "name": "On fait comme si",
       "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Erza Muqoli",
+        "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
+      },
+      "artists": [
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "duration_ms": 287037,
+      "name": "Dommage",
+      "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Donne-moi ton c\u0153ur (acoustique)",
-        "url": "https://open.spotify.com/album/27CDkeLN57bqdMvrkwm9wU"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Donne-moi ton c\u0153ur - acoustique",
-      "url": "https://open.spotify.com/track/4C4wO1Lob3kTxvqXtPJice"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Fredericks, Goldman, Jones : Du New Morning au Z\u00e9nith (Live)",
         "url": "https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Donne-moi ton c\u0153ur (acoustique)",
+        "url": "https://open.spotify.com/album/27CDkeLN57bqdMvrkwm9wU"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "Donne-moi ton c\u0153ur - acoustique",
+      "url": "https://open.spotify.com/track/4C4wO1Lob3kTxvqXtPJice"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
         "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "La nuit (Version acoustique)",
         "url": "https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 231155,
       "name": "La nuit - Version acoustique",
       "url": "https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "\u00c2me fifties",
-        "url": "https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Ici et l\u00e0",
-      "url": "https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz"
     }
   ],
   "unique_name": "Douce France",

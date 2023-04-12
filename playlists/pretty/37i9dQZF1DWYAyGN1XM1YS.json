@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 95594,
+  "num_followers": 95788,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTEwNSwwMDAwMDAwMDdjN2U1OTlmNTkzMTVmNWUxNWM0MGMzYTIwMjVjMWQx",
+  "snapshot_id": "MTY4MDAxOTEwNSwwMDAwMDAwMGM2MjgxOTQwNDUwOWM1NDNkZjQwODI5ZjcyOGZmNjYw",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
-      "added_at": "2023-04-11 00:27:21",
+      "added_at": "2023-04-12 00:09:12",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Tip Your Bartender",
-      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Magnified",
         "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 267173,
       "name": "Undone",
       "url": "https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Everything You Ever Wanted To Know About Silence Remaster",
+        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Siberian Kiss - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "Giving Birth to Thunder",
         "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 66053,
       "name": "Pathfinder",
       "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Everything You Ever Wanted To Know About Silence Remaster",
-        "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Siberian Kiss - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
     }
   ],
   "unique_name": "mEMOries",

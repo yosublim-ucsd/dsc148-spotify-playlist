@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-163 songs - 10 hr 19 min
+164 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 | 2022-09-23 |  |
 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 | 2022-04-22 |  |
 | [Enemies](https://open.spotify.com/track/1qQGrp6pol2Swp45C9PvjC) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Enemies](https://open.spotify.com/album/0KPN5WOiQslbx2XqFkL7E6) | 2:47 | 2022-04-22 | 2022-07-16 |
+| [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 | 2023-04-04 |  |
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Fallout](https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6) | 3:13 | 2022-07-14 | 2022-10-19 |
@@ -77,7 +78,7 @@
 | [Heartbeat](https://open.spotify.com/track/6Oix0EalSiYYUBOO6xhAaZ) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Heartbeat](https://open.spotify.com/album/2zY0mxdrK2mopZ69Id9pQ9) | 3:35 | 2022-04-15 | 2022-07-23 |
 | [Higher](https://open.spotify.com/track/0ToozEOeZ9UR0y1rbSj9Kv) | [Daffy](https://open.spotify.com/artist/5zEIBKFTSWVmzLcDiCUlZF) | [Higher](https://open.spotify.com/album/1KD01E2RBcy8JDDFa0YUlU) | 4:22 | 2022-08-12 |  |
 | [Higher](https://open.spotify.com/track/6HvxFxVD2YshIPMB4RjGqH) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy) | [Higher \- EP](https://open.spotify.com/album/2HO3wjMunaXlVRyR2Qv91J) | 3:51 | 2022-04-15 | 2022-07-29 |
-| [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 | 2022-04-15 |  |
+| [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 | 2022-04-15 | 2023-04-12 |
 | [Hold On](https://open.spotify.com/track/6cAQp72PYiCVJfsp9ksLAt) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Hold On](https://open.spotify.com/album/2TcoMjeUIueyJIeL7PnzhY) | 3:37 | 2022-04-15 | 2022-07-29 |
 | [Hot Flush](https://open.spotify.com/track/3EWHkgA4CWTaFn8IjWkUmZ) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/1Op4KXayD19pKY6CtdU27B) | 5:17 | 2022-04-15 | 2022-07-29 |
 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 | 2022-07-14 |  |

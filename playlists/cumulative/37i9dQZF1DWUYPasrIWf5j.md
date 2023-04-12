@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-119 songs - 6 hr 47 min
+123 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 | 2022-12-01 |  |
 | [Bad Habit](https://open.spotify.com/track/7gRHfXvxtOg6xlEcht8GDI) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 1:39 | 2023-02-17 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/4CPQ4IMccumGxOA5naSzN8) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:22 | 2022-05-20 |  |
-| [Better Together \- Ukulele](https://open.spotify.com/track/6Hc76FOFhwsfGkKX6ocFiU) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:22 | 2022-05-20 |  |
+| [Better Together \- Ukulele](https://open.spotify.com/track/4sXHZLU3C4FOr2Pn09jB6r) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc) | 3:22 | 2023-03-16 |  |
+| [Better Together \- Ukulele](https://open.spotify.com/track/6Hc76FOFhwsfGkKX6ocFiU) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:22 | 2022-05-20 | 2023-04-12 |
 | [Blinding Lights](https://open.spotify.com/track/19Lst5G6RGXIh3RNbVxV2e) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Blinding Lights](https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS) | 3:10 | 2023-02-17 |  |
 | [Bones](https://open.spotify.com/track/1JaX6jmjUKiXHfurxbYhpv) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 2:37 | 2023-02-17 |  |
 | [Brown Eyed Girl \(Instrumental Version\)](https://open.spotify.com/track/3lEbjq7AFXvskZTSSt9lZo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Ukulele Covers of Pop Hits](https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi) | 3:44 | 2022-05-20 |  |
@@ -35,9 +36,11 @@
 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 | 2022-05-20 |  |
 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 | 2022-05-20 |  |
 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 | 2023-03-16 |  |
-| [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-05-20 |  |
+| [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-05-20 | 2023-04-12 |
+| [Get Lucky](https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI) | 4:49 | 2023-03-16 |  |
 | [Glimpse of Us](https://open.spotify.com/track/3UCsK9DYrSd6Qn4oQ9cRq1) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:32 | 2022-12-01 |  |
-| [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 | 2022-05-20 |  |
+| [Hakuna Matata \- Ukulele](https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v) | 2:47 | 2022-05-20 | 2023-04-12 |
+| [Hakuna Matata \- Ukulele](https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 2:47 | 2023-03-16 |  |
 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 | 2022-05-20 |  |
 | [Heather](https://open.spotify.com/track/0152wIoLYZdFSPz3Shm15o) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:14 | 2022-05-20 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg) | [Carsten Knudsen](https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj) | [Ukulele](https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg) | 2:08 | 2022-05-20 |  |
@@ -60,7 +63,8 @@
 | [Learn to Fly](https://open.spotify.com/track/0lVszdihtq1tt9MFMesZ4a) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Ooh La La](https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc) | 3:56 | 2022-12-22 |  |
 | [Left and Right](https://open.spotify.com/track/0O8CRUwEpnevlsKdEGKdFD) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Sunroof](https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65) | 2:34 | 2022-12-01 |  |
 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 | 2022-05-20 |  |
-| [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-05-20 |  |
+| [Let It Be](https://open.spotify.com/track/35FPsONgbYz9DKFQCWAzHe) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 4:59 | 2023-03-16 |  |
+| [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 | 2022-05-20 | 2023-04-12 |
 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/5ignUBEPkskuxQ41eANUZi) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Lullabies for Little Ones on Ukulele](https://open.spotify.com/album/2lhNZafYdVBhPpjbVzlJj3) | 3:52 | 2022-07-26 |  |
 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Disney Favorites on Ukulele](https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK) | 3:52 | 2022-05-20 | 2022-07-29 |
 | [Levitating](https://open.spotify.com/track/1vGDdyCxFhqpefafCXYqVU) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Blinding Lights](https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS) | 2:55 | 2023-02-17 |  |

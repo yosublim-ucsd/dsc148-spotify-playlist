@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 59175,
+  "num_followers": 59256,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5ODA4NCwwMDAwMDAwMDg5NzdkMzcyNGNkYzhlMDhmN2M5NmMzMTM4MzQyMTg0",
+  "snapshot_id": "MTY3NjY5ODA4NCwwMDAwMDAwMDAzYjQ2YzkxNTJjOGM2ODM3ZGU5ZGJjYWExM2YyMzZl",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Never Seen The Righteous - Live",
+      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Yahweh / Yeshua Hamashiach",
         "url": "https://open.spotify.com/album/1mXoILqtkoFF6rjJalxiVA"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 345005,
       "name": "Yahweh / Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Gospel's Best Live",
-        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Never Seen The Righteous - Live",
-      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 338894,
-      "name": "Intentional - Live",
-      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
         "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 422861,
       "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
       "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 338894,
+      "name": "Intentional - Live",
+      "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
     },
     {
       "added_at": "2023-02-18 05:28:04",

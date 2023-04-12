@@ -2,7 +2,7 @@
 
 ### [This Is MAPPA](https://open.spotify.com/playlist/37i9dQZF1DWYXEO3u0YOMv)
 
-> 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
+> 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
 146 songs - 9 hr 24 min
 

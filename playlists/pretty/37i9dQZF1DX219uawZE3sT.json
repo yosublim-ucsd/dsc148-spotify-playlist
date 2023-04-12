@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 112385,
+  "num_followers": 112458,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDQ5MGYwYjczYjFlNGU5MDcxZTM2MDkyNmU5OGIwODU5",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDcyM2NmOTE4OTNmMDIwMjY4YzNjNjU2YWY1MzRiMzRh",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Original Masters",
-        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "De Mi Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Da' Take Over",
         "url": "https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 236080,
       "name": "Ayer La Vi",
       "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Original Masters",
+        "url": "https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "De Mi Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "1985-1998",
-        "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "La Usurpadora",
-      "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Coraz\u00f3n Que Miente",
         "url": "https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 200657,
       "name": "Coraz\u00f3n Que Miente",
       "url": "https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "1985-1998",
+        "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "La Usurpadora",
+      "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
     },
     {
       "added_at": "2022-05-06 18:32:26",

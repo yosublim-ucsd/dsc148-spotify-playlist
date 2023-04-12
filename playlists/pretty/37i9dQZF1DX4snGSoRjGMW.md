@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,614 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,661 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,28 +45,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 35 | [Thru Chasin' You](https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [I'll Sing the Blues for You](https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4) | 4:55 |
 | 36 | [I Can't Stop](https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Back In The Game](https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ) | 4:17 |
 | 37 | [I'm So Proud](https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:48 |
-| 38 | [On The Drift](https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 5:20 |
-| 39 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
+| 38 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
+| 39 | [On The Drift](https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 5:20 |
 | 40 | [One Monkey Don't Stop No Show](https://open.spotify.com/track/46CVcMYhTAfH5ls1XCcGne) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [Blues Keep Knockin'](https://open.spotify.com/album/3TkTF2vFl6agmhQ3F6dSaz) | 3:14 |
 | 41 | [Girl Your Best Friend Done Took Your Place](https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:55 |
 | 42 | [Chockin' Kind](https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 3:27 |
 | 43 | [Bring Me Some Water](https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Royal Blue](https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ) | 5:21 |
 | 44 | [You're Only Good For One Thang Baby](https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi) | [Sista Monica](https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7) | [People Love The Blues](https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax) | 3:28 |
-| 45 | [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 |
-| 46 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 |
-| 47 | [Landslide](https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Doin' The Funky Thing](https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v) | 5:13 |
-| 48 | [Blues All Over You](https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [The Ghosts of Mississippi Meet the Gods of Africa](https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ) | 3:41 |
-| 49 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 |
+| 45 | [Landslide](https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu) | [Walter Wolfman Washington](https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T) | [Doin' The Funky Thing](https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v) | 5:13 |
+| 46 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 |
+| 47 | [Blues All Over You](https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [The Ghosts of Mississippi Meet the Gods of Africa](https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ) | 3:41 |
+| 48 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 |
+| 49 | [Who's Still in Love](https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Bridge to a Legacy](https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H) | 3:09 |
 | 50 | [Betcha Didn't Know](https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3) | 4:17 |
 | 51 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
 | 52 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 |
 | 53 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
 | 54 | [I Can't Hold It](https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 4:25 |
 | 55 | [Sweet Dynamite!](https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Talkin' About Chicago](https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj) | 4:31 |
-| 56 | [Kick My Cheatin' Habits](https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Cheatin' Habit](https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc) | 4:41 |
-| 57 | [Move Along](https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR) | [Ernie Johnson](https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr) | [In The Mood](https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB) | 3:32 |
-| 58 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
-| 59 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
-| 60 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 |
+| 56 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
+| 57 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
+| 58 | [Kick My Cheatin' Habits](https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Cheatin' Habit](https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc) | 4:41 |
+| 59 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 |
+| 60 | [Move Along](https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR) | [Ernie Johnson](https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr) | [In The Mood](https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB) | 3:32 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDc1MTY5YTMyYmExYWE1ZTVkMGFhMWFkZmVhODg0YjRj`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGZmOWJjZTU1MjZhNzZmZWU5ZDI4YzQzYTQyYTEzZDZm`

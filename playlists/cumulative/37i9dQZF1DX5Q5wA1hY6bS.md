@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-441 songs - 1 day 2 hr 50 min
+442 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Blue Eyes](https://open.spotify.com/track/6wgphBnJiAkBCDll1Ws8jO) | [Middle Brother](https://open.spotify.com/artist/5au2vhHl8DViD9PUxUZBTb) | [Middle Brother](https://open.spotify.com/album/1XknJMWQfuzCz5MjG7w0o1) | 4:05 | 2020-11-11 | 2021-10-14 |
 | [Boardwalks \- Sonny Alven Remix](https://open.spotify.com/track/5z16txnOAgiPxxV2Qb8YlO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH), [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [Boardwalks \(Sonny Alven Remix\)](https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY) | 4:24 | 2019-05-26\* | 2022-11-19 |
 | [Bonny Light Horseman](https://open.spotify.com/track/1KfWbzYz7O3gzYVFBxYgTN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/3q7f7kA7ATAR5ZXihBXV7q) | 4:30 | 2019-10-22 | 2022-07-29 |
-| [Bonny Light Horseman](https://open.spotify.com/track/1LQS6iOIoLvM8KeY5QdVS3) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 4:30 | 2022-05-27 |  |
+| [Bonny Light Horseman](https://open.spotify.com/track/1LQS6iOIoLvM8KeY5QdVS3) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 4:30 | 2022-05-27 | 2023-04-12 |
 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 | 2022-05-27 | 2022-05-31 |
 | [Born at the Right Time](https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Born at the Right Time](https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x) | 3:44 | 2022-05-27 | 2022-07-29 |
 | [Broken Beak](https://open.spotify.com/track/60LZynkpOmC92Xme6qPZGU) | [Horse Feathers](https://open.spotify.com/artist/0lO2c86rQmrRJArBxgw0v8) | [Appreciation](https://open.spotify.com/album/4eRwyOY2zVwiLktraR9XJR) | 3:11 | 2019-05-26\* | 2022-07-19 |
@@ -107,7 +107,7 @@
 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 | 2022-05-27 | 2022-06-29 |
 | [Drinkin'](https://open.spotify.com/track/3CmrZAl6gdTRdXAmYxt2Y0) | [Holly Williams](https://open.spotify.com/artist/5mfdtMy6vJUShmdyCuJhox) | [The Highway](https://open.spotify.com/album/6X38qlsvONQiTrDHq1DjLl) | 3:42 | 2020-03-09 | 2020-04-14 |
 | [Drive All Night \- Radio Edit](https://open.spotify.com/track/1QZGYQnSDLWUOOuvQnQmy0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Drive All Night](https://open.spotify.com/album/5dlPH02w9VpPP2KJXIibyF) | 3:32 | 2022-05-27 | 2022-05-30 |
-| [Drivin](https://open.spotify.com/track/6vD7mpMAbMqtUCwcXII7BP) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Drivin](https://open.spotify.com/album/3HGSieMmiBu39Zcx3eO5P3) | 3:31 | 2023-03-22 |  |
+| [Drivin](https://open.spotify.com/track/6vD7mpMAbMqtUCwcXII7BP) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Drivin](https://open.spotify.com/album/3HGSieMmiBu39Zcx3eO5P3) | 3:31 | 2023-03-21 |  |
 | [Dusty Trails](https://open.spotify.com/track/1AcjR5HI6xyQnWLXgUh6Tq) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Extended Edition\)](https://open.spotify.com/album/6EUeTYROgK8urQdHUIKCM9) | 4:24 | 2020-11-11 | 2022-07-29 |
 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 | 2020-03-09 | 2022-07-29 |
 | [Ebb and Flow](https://open.spotify.com/track/1o8MaDqJF3J2DRWuyNiDFl) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/3Jm9xunslITwDjh7Kn7TwQ) | 3:17 | 2019-05-26\* | 2021-10-14 |
@@ -135,6 +135,7 @@
 | [Getting Ready to Get Down](https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sermon on the Rocks](https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH) | 3:16 | 2020-07-10 |  |
 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 | 2021-06-28 | 2022-07-27 |
 | [Ghost in My Bed](https://open.spotify.com/track/76SsM4CODCKGNpCqtBovBb) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Ruby Red](https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk) | 4:41 | 2020-03-09 | 2020-04-14 |
+| [Ghost of Chicago](https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Ghost of Chicago](https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU) | 3:07 | 2023-04-12 |  |
 | [Giants](https://open.spotify.com/track/43CHdbHYdcbUWP10UFKyZ7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/4VyUvPueWuM8Jnkk62gcos) | 2:57 | 2020-09-05 | 2021-02-04 |
 | [Giants \- Guitar](https://open.spotify.com/track/73bMIXlioc1cKjgMdEiKps) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Giants \(Guitar\)](https://open.spotify.com/album/0MSjhom26Fks1kedwf6ZaW) | 2:56 | 2020-07-24 | 2020-09-05 |
 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 | 2020-03-09 | 2022-07-29 |

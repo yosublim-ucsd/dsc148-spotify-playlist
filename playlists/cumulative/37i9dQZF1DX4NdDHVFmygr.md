@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Écoutez en boucle les hits 100% marocains du moment\. Cover : Oualid
+> Écoutez en boucle les hits 100% marocains du moment\. Cover : Liamsi
 
 241 songs - 13 hr 11 min
 

@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-115 songs - 8 hr 11 min
+116 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Yakusoku wa Iranai](https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 3:35 | 2022-02-28 |  |
 | [yet](https://open.spotify.com/track/5Ymzx5BZzmykFlffsRKzmh) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [yet](https://open.spotify.com/album/24D1Hykq1hhR0XFoMOFZgV) | 4:20 | 2022-02-28 |  |
 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 | 2022-02-28 |  |
+| [めぐれ](https://open.spotify.com/track/0FJ4AAilywAVRuVEGXefCT) | [葉音](https://open.spotify.com/artist/5MkJ3ycBZl6A7sXr4AG5TD) | [めぐれ](https://open.spotify.com/album/2Xg8JgbL6tsAM8qd8edrEY) | 4:16 | 2023-04-11 |  |
 | [エンジの雨 \- Remastered 2018](https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [九段](https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps) | 3:58 | 2022-02-28 |  |
 | [オトコのコ オンナのコ](https://open.spotify.com/track/6Qc4tw9GpdqIwn1XHB2Zvb) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [オトコのコ オンナのコ](https://open.spotify.com/album/7sLpYyxNEnrLRU3cGpJmU8) | 4:53 | 2022-02-28 |  |
 | [トライアングラー](https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:36 | 2022-02-28 |  |

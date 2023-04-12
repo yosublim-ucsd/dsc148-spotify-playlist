@@ -92,10 +92,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 239049,
       "name": "Appalachia",
       "url": "https://open.spotify.com/track/7u0XWL41N6AqkmaqYGjBv8"
+    },
+    {
+      "album": {
+        "name": "Stave",
+        "url": "https://open.spotify.com/album/64LXA7HAr6IsT5wISAmZqu"
+      },
+      "artists": [
+        {
+          "name": "Osi And The Jupiter",
+          "url": "https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239053,
+      "name": "Appalachia",
+      "url": "https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4"
     },
     {
       "album": {
@@ -370,10 +388,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 189544,
       "name": "Gr\u00e5 Hest",
       "url": "https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ"
+    },
+    {
+      "album": {
+        "name": "Nordlige R\u00fanaskog (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3EMtE4ozFRAa3ZTSGx7jR9"
+      },
+      "artists": [
+        {
+          "name": "Osi And The Jupiter",
+          "url": "https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Gr\u00e5 Hest",
+      "url": "https://open.spotify.com/track/362UfKo2khSB4vGMmChR14"
     },
     {
       "album": {

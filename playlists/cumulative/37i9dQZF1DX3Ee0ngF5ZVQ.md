@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-427 songs - 1 day 1 hr 28 min
+428 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2021-12-17 | 2022-05-28 |
 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 | 2022-03-25 | 2023-03-25 |
-| [Anywhere The Wind Blows](https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Anywhere The Wind Blows](https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf) | 2:57 | 2023-03-03 |  |
+| [Anywhere The Wind Blows](https://open.spotify.com/track/3EkzYs8jjEjQ2He4Pb8HOY) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Anywhere The Wind Blows](https://open.spotify.com/album/3P8m3DPo4k52m57HXwEKzf) | 2:57 | 2023-03-03 | 2023-04-12 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 |  |
 | [Baby Do](https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Baby Do](https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG) | 3:28 | 2021-12-17 |  |
 | [Baby Don't](https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Baby Don't](https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36) | 3:03 | 2022-10-14 | 2023-03-11 |
@@ -282,6 +282,7 @@
 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 | 2021-12-17 | 2022-01-08 |
 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 | 2021-12-17 | 2022-06-18 |
 | [Pink Chalk](https://open.spotify.com/track/4j6mkvLo7yjupx4y2tgmTd) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Pink Chalk](https://open.spotify.com/album/6cBvvXtmMQDWfoA5D3uqyw) | 3:04 | 2022-02-11 | 2022-07-16 |
+| [Plans](https://open.spotify.com/track/0q8CsnbfFEITM6LQsJtpBP) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Plans](https://open.spotify.com/album/4PSWYGTUhO76kSZupYnivi) | 4:01 | 2023-04-07 |  |
 | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99) | 3:58 | 2022-09-09 | 2022-10-22 |
 | [Possibilities](https://open.spotify.com/track/1Qdw2ZZzYznmtiGrETvEjN) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [To the Passage of Time](https://open.spotify.com/album/6oBeI8Ac6AifVEtlC9Qe86) | 3:10 | 2021-12-17 | 2022-03-19 |
 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 | 2021-12-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 477 songs - 1 day 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051 likes - 477 songs - 1 day 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 147 | [Tower Of Babel](https://open.spotify.com/track/4uvehZNI8BxnmBOlG9wmVn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:28 |
 | 148 | [El Dorado \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3ScTaxssPMiRO61W9vkafW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:22 |
 | 149 | [Teacher I Need You](https://open.spotify.com/track/71nUHAbMKXbFP0pB7jzpYT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 4:09 |
-| 150 | [The Ballad Of Blind Tom](https://open.spotify.com/track/2dvIMtjCQjsWE1O1YmGYEe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:12 |
-| 151 | [Ich will jetzt gleich König sein](https://open.spotify.com/track/3TMJAzf14sLrPUNfJqkCTB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Frank Lenart](https://open.spotify.com/artist/5QPbyemwjGhHWgM9fj7Gly), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [Original Ensemble vom "Broadway Musical im Hamburger Hafen"](https://open.spotify.com/artist/4RPg2LA6cDNQe5GLRAvwip) | [Der König der Löwen \(Dt\. Version\) \[Soundtrack\]](https://open.spotify.com/album/5FUKQAJlSG2ogyTmKtRF3s) | 3:04 |
+| 150 | [Ich will jetzt gleich König sein](https://open.spotify.com/track/3TMJAzf14sLrPUNfJqkCTB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Frank Lenart](https://open.spotify.com/artist/5QPbyemwjGhHWgM9fj7Gly), [Tim Rice](https://open.spotify.com/artist/3KDpcZPHxvsaVk5PReoGqh), [Original Ensemble vom "Broadway Musical im Hamburger Hafen"](https://open.spotify.com/artist/4RPg2LA6cDNQe5GLRAvwip) | [Der König der Löwen \(Dt\. Version\) \[Soundtrack\]](https://open.spotify.com/album/5FUKQAJlSG2ogyTmKtRF3s) | 3:04 |
+| 151 | [The Ballad Of Blind Tom](https://open.spotify.com/track/2dvIMtjCQjsWE1O1YmGYEe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:12 |
 | 152 | [Too Low For Zero](https://open.spotify.com/track/45pcawfb1hdBjq69krZpMZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:46 |
 | 153 | [Come Down In Time](https://open.spotify.com/track/2Mn2MuyqxbzZwnxRX1p8kY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:25 |
 | 154 | [Can't Stay Alone Tonight](https://open.spotify.com/track/1MSPSJToyk1rMHGDAMjVMM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:48 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Gnomeo and Juliet](https://open.spotify.com/track/7GpjK6c4S7ihN8fGX3y9lK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:22 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `MjgwMTk1NDAsMDAwMDAwMDA3MmI4Zjc5ZDNmOWRhYWM5Y2I5YmIxODBmZTNlMzZmOA==`
+Snapshot ID: `MjgwMjA5ODAsMDAwMDAwMDA4ZjM1ZWM4Y2U2MGM5MDkwOGRhZGI4NjllMmM3NTg5MA==`

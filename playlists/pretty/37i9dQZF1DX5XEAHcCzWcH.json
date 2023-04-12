@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 23176,
+  "num_followers": 23203,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGIyYmNmNWExMTYwYWE3ZTRmMmQ5N2RiYjY5MmEyOWI0",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDEzNmI5YWIyOTlmYjQ0NjJiYmQyOGUwMzk0MmU2YjFk",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Down In Mississippi",
-        "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
-      },
-      "artists": [
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
         "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 255506,
       "name": "Everytime I Get to Drinking",
       "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Down In Mississippi",
+        "url": "https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH"
+      },
+      "artists": [
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "I've Got News For You",
         "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189146,
       "name": "Anytime, Anyplace, Anywhere",
       "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Blues Piano-Rama",
         "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 346786,
       "name": "The Blues Ain't Nothing",
       "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "The Blue Horizon Story (1965-1970)",
         "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+        "name": "From North Dallas to the East Side",
+        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
       },
       "artists": [
         {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+          "name": "Alex Moore",
+          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
         }
       ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+      "duration_ms": 187160,
+      "name": "Whistling Alex Moore's Blues",
+      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -907,22 +923,6 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "From North Dallas to the East Side",
-        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
-      },
-      "artists": [
-        {
-          "name": "Alex Moore",
-          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
-        }
-      ],
-      "duration_ms": 187160,
-      "name": "Whistling Alex Moore's Blues",
-      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Classic Piano Blues from Smithsonian Folkways",
+        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
+      },
+      "artists": [
+        {
+          "name": "Big Chief Ellis",
+          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Dices Blues",
+      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "SUN STUDIO STORY",
         "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 185933,
       "name": "Some Nerve",
       "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Classic Piano Blues from Smithsonian Folkways",
-        "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
-      },
-      "artists": [
-        {
-          "name": "Big Chief Ellis",
-          "url": "https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Dices Blues",
-      "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
     },
     {
       "added_at": "2022-05-13 10:49:08",

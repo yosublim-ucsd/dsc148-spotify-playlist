@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 133584,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/1cb2t1Usvasj1KTTIGfxZp"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 182769,
       "name": "ENIGMA",
       "url": "https://open.spotify.com/track/2loGK0yEeHvXD3EcQFwqZw"
@@ -4085,7 +4085,7 @@
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 117447,
+      "duration_ms": 117445,
       "name": "JUDAS",
       "url": "https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl"
     },
@@ -5336,6 +5336,24 @@
       "duration_ms": 73220,
       "name": "MOZART PHONK",
       "url": "https://open.spotify.com/track/4uA4FfwW15P8PguZ1uOlpl"
+    },
+    {
+      "album": {
+        "name": "MTG - REBOLA NO MEU C4RALHO",
+        "url": "https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p"
+      },
+      "artists": [
+        {
+          "name": "DJ LA BEAT",
+          "url": "https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "MTG - REBOLA NO MEU C4RALHO",
+      "url": "https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc"
     },
     {
       "album": {
@@ -6718,6 +6736,24 @@
       "duration_ms": 114000,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/6D12YCcbjYJIDYU3kixJTE"
+    },
+    {
+      "album": {
+        "name": "REQUIEM",
+        "url": "https://open.spotify.com/album/21Y2KDAvmbyaENzKIeO2Lj"
+      },
+      "artists": [
+        {
+          "name": "ROMANTICA",
+          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101538,
+      "name": "REQUIEM",
+      "url": "https://open.spotify.com/track/0KEEzyspcgns3JEdJboguD"
     },
     {
       "album": {

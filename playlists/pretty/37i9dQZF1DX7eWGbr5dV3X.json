@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7907,
+  "num_followers": 7912,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDhjZTUzM2MyMzA4ZTMxMWQ5YmZiZmFiZGE4ZWMzN2Vl",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGU4ODBlZmRkYThkZDBlMDQ3ODJlN2RhZWEyZDhlYTg2",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
-      },
-      "artists": [
-        {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
+      },
+      "artists": [
+        {
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
+        }
+      ],
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
+        }
+      ],
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Open up Babe (Perry twins remix)",
         "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 267000,
       "name": "Open up Babe - Perry twins remix",
       "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
     },
     {
       "added_at": "2022-08-25 15:45:44",

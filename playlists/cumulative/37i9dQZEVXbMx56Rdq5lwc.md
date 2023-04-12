@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,087 songs - 2 day 11 hr 11 min
+1,088 songs - 2 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2022-01-01 | 2023-01-03 |
 | [I Guess It’s Fuck Me](https://open.spotify.com/track/31bsuKDOzFGzBAoXxtnAJm) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:23 | 2022-11-05 | 2022-11-07 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-08 | 2022-01-15 |
+| [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 | 2023-04-11 |  |
 | [I Like It](https://open.spotify.com/track/2aJrZrl0uwElGowjrWrkYX) | [Novlem](https://open.spotify.com/artist/1ffUdnq7sh0g9LA0KunQJC) | [I Like It](https://open.spotify.com/album/6gc6Tz0E5NWtKnK3eyNvIR) | 2:50 | 2023-01-07 | 2023-01-13 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-08-11 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2021-10-26 | 2022-04-27 |
@@ -1003,7 +1004,7 @@
 | [Užmerk Man Akis](https://open.spotify.com/track/1wCDWAJfieI0PZ9Z6jngw3) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Užmerk Man Akis](https://open.spotify.com/album/2D0GxDcysHAfvDCvFd00HR) | 2:44 | 2021-04-26 | 2021-04-30 |
 | [Vaikai Po Lelijom](https://open.spotify.com/track/7bqIGTUk7DV2YLHkra8F0o) | [Bardachiokas](https://open.spotify.com/artist/3ncHDDl75v0FcECbiLxjSc) | [Vaikai Po Lelijom](https://open.spotify.com/album/2W5aShFkqthGBK0E84ZT7d) | 1:55 | 2021-04-06 | 2022-03-01 |
 | [Vaikinai trumpais Šortais](https://open.spotify.com/track/56ZH4645AGNrkx403kNA1w) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Vaikinai trumpais Šortais](https://open.spotify.com/album/2ay7cNSmOmLG885pXVBvOp) | 3:24 | 2022-01-24 | 2022-05-14 |
-| [Vakar Vakare](https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl) | [Rokas Yan](https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs) | [Vakar Vakare](https://open.spotify.com/album/4xI4dIYSIlm89zA09Dlkpa) | 2:27 | 2023-01-29 |  |
+| [Vakar Vakare](https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl) | [Rokas Yan](https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs) | [Vakar Vakare](https://open.spotify.com/album/4xI4dIYSIlm89zA09Dlkpa) | 2:27 | 2023-01-29 | 2023-04-12 |
 | [Valero](https://open.spotify.com/track/2LvCl2PRif6q36SjTFOggi) | [Dubbo](https://open.spotify.com/artist/0xs0DDAAat35MBE3KVOlVY) | [Valero](https://open.spotify.com/album/2Di0j1PKroPnEGJsnAZrjM) | 2:16 | 2021-04-02 | 2021-04-04 |
 | [Vandens Ženklai \- Late Pal Remix](https://open.spotify.com/track/2nyeHzzLN8a2vT65zavwNF) | [Hiperbolė](https://open.spotify.com/artist/3ZFyBdeq0XQ2qeUZ2TGJX7), [Late Pal](https://open.spotify.com/artist/64DEapgmv6F3XOthfkkavF) | [Vandens Ženklai \(Late Pal Remix\)](https://open.spotify.com/album/4ZXdmUPjLsdtWrDJsWh2dm) | 2:03 | 2021-08-23 | 2022-01-04 |
 | [Vandenyne](https://open.spotify.com/track/6ylbOdO015EjqIdmVcbe0X) | [Evgenya Redko](https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK) | [SOS](https://open.spotify.com/album/3fHD08f0WSSeAkpPwbUwju) | 3:20 | 2021-05-09 | 2021-05-10 |

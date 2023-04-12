@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-460 songs - 18 hr 2 min
+462 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Destination](https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Destination](https://open.spotify.com/album/4WjXuV20O7EcvpjA5hAdqk) | 2:24 | 2022-07-01 | 2022-12-10 |
 | [Destroy](https://open.spotify.com/track/3XUQclGrbo0Bf8OuJ1oyGW) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Destroy](https://open.spotify.com/album/6PyDSGmBC1fgnWHHyAEFbe) | 2:05 | 2022-08-12 | 2022-09-10 |
 | [DESTRUCTION](https://open.spotify.com/track/2YiYHqoSQNAwVnRpxLwTJr) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [DESTRUCTION](https://open.spotify.com/album/6AK2nuXaRoZsHBw0mzxwxY) | 2:13 | 2022-12-16 | 2023-02-25 |
-| [DEVIL](https://open.spotify.com/track/1cb2t1Usvasj1KTTIGfxZp) | [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [KNVCKLES](https://open.spotify.com/artist/1QOyhzgTCJeJEentpXc3cB), [NOLK](https://open.spotify.com/artist/7IoagoBxkGOp2U3KsHksZH) | [DEVIL](https://open.spotify.com/album/5QxDgdVqIsLDJbCcUqzEUe) | 2:13 | 2023-03-10 |  |
+| [DEVIL](https://open.spotify.com/track/1cb2t1Usvasj1KTTIGfxZp) | [Kløn](https://open.spotify.com/artist/4WztwGxVcf0AyTGv86xXgc), [KNVCKLES](https://open.spotify.com/artist/1QOyhzgTCJeJEentpXc3cB), [NOLK](https://open.spotify.com/artist/7IoagoBxkGOp2U3KsHksZH) | [DEVIL](https://open.spotify.com/album/5QxDgdVqIsLDJbCcUqzEUe) | 2:13 | 2023-03-10 | 2023-04-12 |
 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 | 2022-05-13 |  |
 | [Devil Ride](https://open.spotify.com/track/1HR0lYFetVM22vVwRETZiF) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Devil Ride](https://open.spotify.com/album/2VAYxDkiPWql7J52mhQX1X) | 2:15 | 2021-12-03 | 2022-09-10 |
 | [DEVIL SOUL](https://open.spotify.com/track/7t0OaHwReZjPuEBImsRwvX) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [DEVIL SOUL](https://open.spotify.com/album/0aK4cmOqiaYYr52r3hlRqu) | 1:53 | 2022-05-20 | 2022-11-26 |
@@ -136,7 +136,7 @@
 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 | 2022-08-12 | 2023-03-18 |
 | [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2021-10-25 | 2022-07-09 |
 | [Endless Love](https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [Endless Love](https://open.spotify.com/album/3kVn6aEV0Rmz5nUg4Ws1vw) | 2:59 | 2021-09-10 | 2022-05-14 |
-| [ENIGMA](https://open.spotify.com/track/2loGK0yEeHvXD3EcQFwqZw) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [ENIGMA](https://open.spotify.com/album/4g7XhuYSPbKlsJZ6REdVWN) | 3:02 | 2023-03-03 |  |
+| [ENIGMA](https://open.spotify.com/track/2loGK0yEeHvXD3EcQFwqZw) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [ENIGMA](https://open.spotify.com/album/4g7XhuYSPbKlsJZ6REdVWN) | 3:02 | 2023-03-03 | 2023-04-12 |
 | [ENRAGE](https://open.spotify.com/track/37ylxKs0nwNFCUgwIi1WrG) | [FISTICALE](https://open.spotify.com/artist/1uZNnOWHebXUk7jCt9llAg) | [ENRAGE](https://open.spotify.com/album/0nlg3bQVCBljgUnjk3BgGC) | 2:16 | 2021-10-25 | 2022-07-02 |
 | [Escape](https://open.spotify.com/track/2LC9pdrPbX0c87YjT9S87F) | [V21](https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk) | [Escape](https://open.spotify.com/album/5YYiTsoKhnP2kyQ7PcHxZY) | 1:34 | 2021-11-12 | 2022-07-02 |
 | [ESCORT](https://open.spotify.com/track/52oUDxzoJlMcSx2mIQ7JnJ) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl), [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [LXVE SXMPLES](https://open.spotify.com/album/5WGLpfFp5AaADZXblBKGRL) | 2:10 | 2022-11-04 | 2022-12-10 |
@@ -273,6 +273,7 @@
 | [MORTAL](https://open.spotify.com/track/0I7I4kUnGVqoxemDmYcysN) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [MORTAL](https://open.spotify.com/album/5vg1cPV2HG0c987ofDZlc4) | 2:23 | 2022-07-08 | 2022-08-06 |
 | [Most Wanted](https://open.spotify.com/track/6kA9g6M1SoDBUGuy3iuC3D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Most Wanted](https://open.spotify.com/album/30ei2lHJtrhRFX3rcPamzL) | 2:01 | 2023-01-06 | 2023-02-11 |
 | [MOZART PHONK](https://open.spotify.com/track/4uA4FfwW15P8PguZ1uOlpl) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [MOZART PHONK](https://open.spotify.com/album/1fmKvCpuWKniXwgsALsoIT) | 1:13 | 2023-02-10 |  |
+| [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc) | [DJ LA BEAT](https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch) | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p) | 3:27 | 2023-04-11 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-05-13 |  |
 | [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 | 2023-01-06 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-08-12 | 2022-10-01 |
@@ -344,6 +345,7 @@
 | [RAVEN](https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [SKETS](https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY) | [RAVEN](https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS) | 2:26 | 2022-07-08 | 2023-01-06 |
 | [REASON TO LIVE](https://open.spotify.com/track/4ct6fY3UwHrY4IJIasEDfl) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [REASON TO LIVE](https://open.spotify.com/album/4nmSaKjoJkZH1Agf5brNku) | 3:12 | 2022-02-04 | 2022-06-04 |
 | [REQUIEM](https://open.spotify.com/track/6D12YCcbjYJIDYU3kixJTE) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Dahako](https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp) | [REQUIEM](https://open.spotify.com/album/7xq5hex2Zri3mIelZAWA15) | 1:54 | 2022-07-01 | 2022-08-27 |
+| [REQUIEM](https://open.spotify.com/track/0KEEzyspcgns3JEdJboguD) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [REQUIEM](https://open.spotify.com/album/21Y2KDAvmbyaENzKIeO2Lj) | 1:41 | 2023-04-11 |  |
 | [Requiem](https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag) | [Requiem](https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz) | 1:44 | 2022-12-23 |  |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-03-31 |  |

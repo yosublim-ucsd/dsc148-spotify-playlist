@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 28 | [Blackbird](https://open.spotify.com/track/1J3oa1IgWOJvkBAhjsOcEt) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Blackbird](https://open.spotify.com/album/135qzKFdS1y482SoC5Z8Og) | 1:41 |
 | 29 | [A Whole New World](https://open.spotify.com/track/7op9X5ZYlq9UdauKylkaHH) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [A Whole New World](https://open.spotify.com/album/7xBiLnPeo8O8Wy1JxIe9AI) | 2:40 |
 | 30 | [Colors](https://open.spotify.com/track/6nbEqrP3sm08UJ7fBgjEqM) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Colors](https://open.spotify.com/album/7soao7wkz07f7w3EZn7p6Q) | 3:02 |
-| 31 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 |
+| 31 | [Get Lucky](https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI) | 4:49 |
 | 32 | [Until I Found You](https://open.spotify.com/track/4R2XWHPK2ljTjehV1PK82q) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Until I Found You](https://open.spotify.com/album/7eUEXAlRnCI2TTsqK3BJHm) | 2:16 |
 | 33 | [Apaixonar](https://open.spotify.com/track/5Ib0qJa6M6DXzjwbZB7CKo) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Apaixonar](https://open.spotify.com/album/03axOJ5rnB6C91PKcnLyWA) | 2:18 |
 | 34 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 82 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 |
 | 83 | [Blackbird](https://open.spotify.com/track/6QyjSdg6KkGcSSzsCJ2lC1) | [Eva Bratt](https://open.spotify.com/artist/1gnNyXSO3QNIXZrCTFUNtg) | [Blackbird](https://open.spotify.com/album/6i4ROBArDpDqW1DGBmJJEX) | 1:59 |
 | 84 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 |
-| 85 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 |
+| 85 | [Let It Be](https://open.spotify.com/track/35FPsONgbYz9DKFQCWAzHe) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 4:59 |
 | 86 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 |
 | 87 | [Tierra Nordica](https://open.spotify.com/track/620RWeJkit6UuXOca8jlue) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 2:40 |
 | 88 | [Audrey Horne](https://open.spotify.com/track/1cNNPJSTu1ZQALIijHvwqV) | [Golden Retriever](https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo) | [Capablanca](https://open.spotify.com/album/5mENq4ZwKjrjofLKzmyvG7) | 2:56 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 131 | [Ku'u Pua I Paoakalani](https://open.spotify.com/track/5SgbhhOYg3NSGPHSTTAuEf) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:17 |
 | 132 | [Unchained Melody](https://open.spotify.com/track/2qjBshXhqSVt5zYN0mXbgH) | [Bluetones](https://open.spotify.com/artist/19iDNndStvcWZ9squJXTQH) | [Unchained Melody](https://open.spotify.com/album/3nAn6vR2DDVo61rwaX9L5G) | 2:18 |
 
-Snapshot ID: `MTY3MjkyODAxOSwwMDAwMDAwMGQ1ZmZjZTQ1ZTlhNmY3OGRmYzhkYjBiYzE1NzM5ZmFj`
+Snapshot ID: `MTY3MjkyODAxOSwwMDAwMDAwMGNjZTU5MzE0ZDBhMmQ5MDliNWQ5NTAyMGFkNzRhMzli`

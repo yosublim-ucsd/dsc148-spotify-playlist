@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: Holding Absence
 
-3,273 songs - 7 day 17 hr 48 min
+3,274 songs - 7 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1655,7 +1655,8 @@
 | [Literary Mind](https://open.spotify.com/track/1Z1tq02MKiwRqCO7JAVVOd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Literary Mind](https://open.spotify.com/album/2GtzIKUMucm9OclSXP597k) | 4:49 | 2022-09-01 | 2022-09-09 |
 | [Little Black Box](https://open.spotify.com/track/6AAc9KEDoEKfKIWX7m2QMj) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:17 | 2022-06-09 | 2022-06-17 |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-09 | 2022-12-17 |
-| [Little Dogs](https://open.spotify.com/track/1HJCrqS6GkM7A4a3Jayp7C) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Little Dogs](https://open.spotify.com/album/3CDarwAh62r521q2pR36AG) | 3:11 | 2023-04-07 |  |
+| [Little Dogs](https://open.spotify.com/track/1HJCrqS6GkM7A4a3Jayp7C) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Little Dogs](https://open.spotify.com/album/3CDarwAh62r521q2pR36AG) | 3:11 | 2023-04-07 | 2023-04-12 |
+| [Little Dogs](https://open.spotify.com/track/4GeDNj43WUAXas2aIZR7xG) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Plastic Eternity](https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7) | 3:11 | 2023-04-07 |  |
 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 | 2022-01-13 | 2022-01-21 |
 | [Little High Little Low](https://open.spotify.com/track/0OzLuAmu5XNIPhCSsPAYer) | [The Royal Foundry](https://open.spotify.com/artist/7w7g3NoDd7yITLuPp8kmfg) | [Little High Little Low](https://open.spotify.com/album/4iPzGH8F1IIYz7ktfJ26II) | 3:19 | 2022-04-14 | 2022-04-22 |
 | [Little Life](https://open.spotify.com/track/4MEEdTG2JEYQ1pgwVIxAy6) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp), [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Little Life](https://open.spotify.com/album/1jZf7nWznPC9IsXSpRVFBp) | 3:34 | 2022-05-26 | 2022-06-03 |

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 26256,
+  "num_followers": 26270,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEzOTUwOCwwMDAwMDAwMDcyN2UyYmQ5NjUyNTEwZDY1YTE4YWQyNWU2MmJmM2Ew",
+  "snapshot_id": "MTY3ODEzOTUwOCwwMDAwMDAwMDU4OWViMzNiMjM3NWNhZmVkZTk0NTBlNWZlNzIyYmMx",
   "tracks": [
     {
       "added_at": "2023-02-10 17:16:54",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
     },
     {
-      "added_at": "2023-04-11 00:23:54",
+      "added_at": "2023-04-12 00:34:13",
       "album": {
         "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
         "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-02-10 17:16:54",
       "album": {
-        "name": "Sa\u00fade",
-        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Sa\u00fade",
-      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
-    },
-    {
-      "added_at": "2023-02-10 17:16:54",
-      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2023-02-10 17:16:54",
+      "album": {
+        "name": "Sa\u00fade",
+        "url": "https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Sa\u00fade",
+      "url": "https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx"
     },
     {
       "added_at": "2023-02-10 17:16:54",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-10 17:16:54",
       "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
-      },
-      "artists": [
-        {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
-        }
-      ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
-    },
-    {
-      "added_at": "2023-02-10 17:16:54",
-      "album": {
         "name": "The Lost Grooves EP",
         "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 349000,
       "name": "Ba:sen - Pool Party Dub Mix",
       "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+    },
+    {
+      "added_at": "2023-02-10 17:16:54",
+      "album": {
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+      },
+      "artists": [
+        {
+          "name": "Leo Pol",
+          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
+        }
+      ],
+      "duration_ms": 278110,
+      "name": "Chantal",
+      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
     },
     {
       "added_at": "2023-02-10 17:16:54",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-10 17:16:54",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/1lZYSSKDM10kl2UIl2wXId"
-      },
-      "artists": [
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 352758,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/4at1ctwfMr2a1t8xEpmOzX"
-    },
-    {
-      "added_at": "2023-02-10 17:16:54",
-      "album": {
         "name": "Tears",
         "url": "https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 290152,
       "name": "Gymnastics - Original Mix",
       "url": "https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx"
+    },
+    {
+      "added_at": "2023-02-10 17:16:54",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1lZYSSKDM10kl2UIl2wXId"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 352758,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/4at1ctwfMr2a1t8xEpmOzX"
     },
     {
       "added_at": "2023-02-10 17:16:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bo0ONSjpvk.md) - [plain]
 
 > Panama born producer <a href="spotify:artist:0vN342SOFAsCVGGZwLU9AF">Gian Varela</a> shares his take on Latin tech house with his upbeat DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273 likes - 18 songs - 59 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,277 likes - 18 songs - 59 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

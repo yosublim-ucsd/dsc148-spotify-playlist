@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-194 songs - 11 hr 7 min
+195 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 | 2021-03-19 |  |
 | [Drops of Jupiter](https://open.spotify.com/track/32tZzOvxYJCdWldAiPp6Ru) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Drops of Jupiter](https://open.spotify.com/album/2PageYu8AaaivgbJzwCvuj) | 4:04 | 2021-03-19 |  |
 | [Drops of Jupiter](https://open.spotify.com/track/4sLflKbSXbWqjOeho1AzzN) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Drops of Jupiter](https://open.spotify.com/album/7Caun80S8HBYdgYsoIK0Pu) | 4:04 | 2021-03-19 | 2022-07-29 |
-| [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 | 2021-03-19 |  |
+| [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 | 2021-03-19 | 2023-04-12 |
 | [Erase Me](https://open.spotify.com/track/3iYuh64szQA0C0UV6cVe5S) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Erase Me](https://open.spotify.com/album/0ElKoOgZ9nlb5GW0nKX9X7) | 3:27 | 2021-03-19 | 2023-04-07 |
 | [Erase Me \(feat\. 10K.Caash\)](https://open.spotify.com/track/6MKlUSv0Magp6Cg901vZMH) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 | 2021-03-19 |  |
 | [Every Teardrop Is a Waterfall](https://open.spotify.com/track/5m0YCRCIg3FYjGgA8gGKXv) | [The Clan](https://open.spotify.com/artist/7oludeeTSpiIclzw9iPjHX) | [Every Teardrop Is a Waterfall](https://open.spotify.com/album/6bQZmbhouNSwgVQzeYjdWK) | 4:09 | 2021-03-19 | 2022-07-21 |
@@ -141,6 +141,7 @@
 | [Soak up the Sun](https://open.spotify.com/track/4zLjFbrBuNPglIbyP3NfA1) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/1TbBXy8dsQzi2dQV1thwrZ) | 3:23 | 2021-03-19 | 2022-07-29 |
 | [Soak up the Sun](https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Soak up the Sun](https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN) | 3:23 | 2021-03-19 |  |
 | [Sometimes I Don't Mind](https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Sometimes I Don't Mind](https://open.spotify.com/album/2BI02YNYTHQci4mZgQdbtT) | 3:05 | 2021-03-19 | 2022-07-29 |
+| [Sometimes I Don't Mind](https://open.spotify.com/track/6PcnP3NO63AjInHBT7ahSi) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:05 | 2021-03-19 |  |
 | [Stay](https://open.spotify.com/track/6xoWFSJYtBP9wemRCXbnFg) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Stay](https://open.spotify.com/album/4oNC3ZIGRHUP4Jhj3szhGh) | 2:18 | 2021-09-02 |  |
 | [Stitches](https://open.spotify.com/track/0xQevbz2L13K1a4rWWXGy1) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 3:03 | 2021-03-19 | 2022-07-29 |
 | [Stitches](https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:03 | 2021-03-19 |  |

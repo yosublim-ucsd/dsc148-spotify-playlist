@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 56,
+  "num_followers": 82,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5Mzc1NiwwMDAwMDAwMDQyYzY4YzM3NWY3MTI5NDBjMjM5YjgwMjM5MmFlZmIz",
+  "snapshot_id": "MTY4MDc5Mzc1NiwwMDAwMDAwMDgyMjRiN2I0NTZiZmQwY2I3ZWQ0NGNjNWMwMTY5OGIy",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-06 15:07:52",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
-      },
-      "artists": [
-        {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
-        }
-      ],
-      "duration_ms": 279764,
-      "name": "Afro Praise 1",
-      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
-    },
-    {
-      "added_at": "2023-04-06 15:07:52",
-      "album": {
         "name": "Celebrating Jesus",
         "url": "https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 1378612,
       "name": "Praise Medley",
       "url": "https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f"
+    },
+    {
+      "added_at": "2023-04-06 15:07:52",
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 279764,
+      "name": "Afro Praise 1",
+      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
     },
     {
       "added_at": "2023-04-06 15:07:52",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-04-06 15:07:52",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+        "name": "Resurrection Praise Project (Live)",
+        "url": "https://open.spotify.com/album/7zW9ri7brioqtdyJvgcbqT"
       },
       "artists": [
         {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/2rsakqcHwgb4tSOP6UFaMA"
         }
       ],
-      "duration_ms": 342721,
-      "name": "Afro Praise 3",
-      "url": "https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK"
+      "duration_ms": 968318,
+      "name": "African Praise Medley: Everybody Looko Looko / Ojasope / Baba Mimo Mowasope / Wamilele / Awesome Mighty God / Odiaga / Hallelujah / Jehovah Jireh",
+      "url": "https://open.spotify.com/track/4RW6Po4zZi5TiHX6yXvnha"
     },
     {
       "added_at": "2023-04-06 15:07:52",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-06 15:07:52",
       "album": {
-        "name": "Resurrection Praise Project (Live)",
-        "url": "https://open.spotify.com/album/7zW9ri7brioqtdyJvgcbqT"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/2rsakqcHwgb4tSOP6UFaMA"
-        }
-      ],
-      "duration_ms": 968318,
-      "name": "African Praise Medley: Everybody Looko Looko / Ojasope / Baba Mimo Mowasope / Wamilele / Awesome Mighty God / Odiaga / Hallelujah / Jehovah Jireh",
-      "url": "https://open.spotify.com/track/4RW6Po4zZi5TiHX6yXvnha"
-    },
-    {
-      "added_at": "2023-04-06 15:07:52",
-      "album": {
         "name": "Praise Medley (Live)",
         "url": "https://open.spotify.com/album/3MDKKx8tPJwDXHnGZzVtqt"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 385932,
       "name": "Praise Medley - Live",
       "url": "https://open.spotify.com/track/5ODjEJsgZwotrwDEy7Vs0A"
+    },
+    {
+      "added_at": "2023-04-06 15:07:52",
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 342721,
+      "name": "Afro Praise 3",
+      "url": "https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK"
     },
     {
       "added_at": "2023-04-06 15:07:52",

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: orbit
 
-808 songs - 1 day 14 hr 56 min
+809 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 | 2022-11-03 | 2022-12-16 |
 | [Broken Hearted](https://open.spotify.com/track/6N76WodZTw48txfk4NPDVg) | [ARIA](https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm) | [Broken Hearted](https://open.spotify.com/album/07LXXFNFjw2mdrECdgrFcE) | 2:05 | 2022-07-28 | 2022-08-19 |
 | [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-09 | 2023-02-27 |
-| [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2XaiURwGQms1VdnIyhFdOK) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-24 |  |
+| [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2XaiURwGQms1VdnIyhFdOK) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-24 | 2023-04-12 |
 | [BTBT \(feat\. DeVita\)](https://open.spotify.com/track/0FOBJ5PbwOe5XBY9y0bnhi) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT \(feat\. DeVita\)](https://open.spotify.com/album/76o5y6Sh7t8kiTERbDWNc3) | 3:39 | 2022-07-04 | 2022-07-12 |
 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 | 2023-03-30 |  |
 | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/track/3sNt9m05GSYtBe54cRq5H2) | [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq), [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [NOK1D](https://open.spotify.com/artist/3aiVrUEKRgBLXMGsh2IIJ5), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Butterflies \(feat\. lityway, NOK1D, yungfijay\)](https://open.spotify.com/album/38LPOdHU8M07c4KFayHNpW) | 2:23 | 2022-08-25 | 2022-09-30 |
@@ -286,6 +286,7 @@
 | [Good News](https://open.spotify.com/track/43SWVKMD9mVUAwx8pkmWbV) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Ode](https://open.spotify.com/album/20e4uXVD8PBrziY0YtsTPi) | 3:37 | 2022-08-18 | 2022-09-02 |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-12-08 | 2022-12-16 |
 | [großer engel](https://open.spotify.com/track/2Kd245j54FgeO1aN3lpJ6L) | [Dead Dawg](https://open.spotify.com/artist/0vbfrsbTQsxmBTrvtZTFB4), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [GOTT IST EINE FRAU](https://open.spotify.com/album/3PXwHXxoir2u5RWHAn3occ) | 2:26 | 2022-09-09 | 2022-09-23 |
+| [Grüne Augen lügen nicht](https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Grüne Augen lügen nicht](https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf) | 2:59 | 2023-04-11 |  |
 | [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-01-23 | 2023-04-07 |
 | [Hal5](https://open.spotify.com/track/6Gu99KX4HbEJX5aRoSAYgJ) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa), [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Hal5](https://open.spotify.com/album/0dgapIsrhJ9JYJM3jXuU4B) | 2:58 | 2022-11-17 | 2022-12-09 |
 | [Hal5](https://open.spotify.com/track/7qCBNPvqBIczTFTa9XHmh2) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa), [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU) | [Hal5](https://open.spotify.com/album/4SvF4VFwnrK0IP5v8tVBa8) | 2:58 | 2022-09-22 | 2022-11-21 |

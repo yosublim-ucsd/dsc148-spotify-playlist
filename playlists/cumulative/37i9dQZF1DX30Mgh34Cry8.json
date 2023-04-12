@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/5Kpv4cxDlf1L1rrqL8E9OQ"
+      },
+      "artists": [
+        {
+          "name": "pxzvc",
+          "url": "https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114155,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/0fw4CFcELg9BlAeZIx4N1N"
+    },
+    {
+      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/4tXFjmV7W9CSSDiQkOlQTi"
       },
@@ -1324,7 +1346,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-12",
       "duration_ms": 216707,
       "name": "Persuasive",
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"

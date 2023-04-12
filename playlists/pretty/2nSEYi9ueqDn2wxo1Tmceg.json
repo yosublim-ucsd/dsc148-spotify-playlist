@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78593,
+  "num_followers": 78590,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY1NyxjYTJmMzYzNGFlODhmMGViZGYyNmVhMDJlMWFmYjJkN2U4ZTNjNmJi",
+  "snapshot_id": "MzY1OCxlMjE2N2RhMWU5NjliM2IzZjY5NDExM2I0ODc1ZmFjMWZmODIzNTY4",
   "tracks": [
+    {
+      "added_at": "2023-04-11 14:12:08",
+      "album": {
+        "name": "Eastern Ave",
+        "url": "https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF"
+      },
+      "artists": [
+        {
+          "name": "Flasher",
+          "url": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
+        }
+      ],
+      "duration_ms": 216078,
+      "name": "Eastern Ave",
+      "url": "https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe"
+    },
     {
       "added_at": "2023-04-05 14:36:28",
       "album": {

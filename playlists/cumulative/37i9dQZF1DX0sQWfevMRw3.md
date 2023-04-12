@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Om jag ramlar omkull så är det bara för att jag är fuuuull!!
+> Jag tjänar mera stålar än din farsa!!
 
 582 songs - 1 day 1 hr 27 min
 

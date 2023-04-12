@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Listen to the biggest Arabic hits all in one place\. Cover: Ramy Sabry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,502 likes - 71 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,630 likes - 71 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
