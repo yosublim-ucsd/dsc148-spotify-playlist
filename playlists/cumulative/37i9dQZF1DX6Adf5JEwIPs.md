@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Marca MP & Fuerza Regida
 
-2,466 songs - 5 day 10 hr 6 min
+2,467 songs - 5 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2242,7 +2242,8 @@
 | [Tres Veces Te Engañé](https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tres Veces Te Engañé](https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN) | 3:13 | 2022-09-23 | 2022-10-01 |
 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-18 | 2022-11-26 |
 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 | 2023-01-27 | 2023-02-04 |
-| [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 | 2023-04-07 |  |
+| [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 | 2023-04-07 |  |
+| [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 | 2023-04-07 | 2023-04-13 |
 | [Trokita Tumbada](https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Trokita Tumbada](https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5) | 2:46 | 2022-10-14 | 2022-10-22 |
 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 | 2023-03-24 | 2023-04-01 |
 | [Tronando Ligas](https://open.spotify.com/track/6r7tk9reHnx8QuZvuETBai) | [Hugo Cesar](https://open.spotify.com/artist/3U67RcLV2FxtknAMdsnGuq) | [Tronando Ligas](https://open.spotify.com/album/4qsHUP9dszSJqe4VZ1wTYV) | 3:02 | 2022-09-16 | 2022-09-24 |

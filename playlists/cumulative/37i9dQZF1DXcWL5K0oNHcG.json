@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sultan Stevenson Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Chiminyo Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 448670,
       "name": "Arbe",
       "url": "https://open.spotify.com/track/0P6AyrSZtyKOrFQND4Pgn6"
@@ -1394,6 +1394,32 @@
       "duration_ms": 363374,
       "name": "Astral Cowpoke",
       "url": "https://open.spotify.com/track/5yt7UWsCogqSHzztcxvPWF"
+    },
+    {
+      "album": {
+        "name": "At the Red Room",
+        "url": "https://open.spotify.com/album/2kFxfRTDipLnUPbhNLo1fP"
+      },
+      "artists": [
+        {
+          "name": "Michael Valeanu",
+          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
+        },
+        {
+          "name": "Andreas Svendsen",
+          "url": "https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH"
+        },
+        {
+          "name": "Fred Nardin",
+          "url": "https://open.spotify.com/artist/1tcpuJCw1ozAVXnwYh5wqz"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322560,
+      "name": "At the Red Room",
+      "url": "https://open.spotify.com/track/2F2wYdadNaJTK4Bzr65XWf"
     },
     {
       "album": {
@@ -5191,6 +5217,28 @@
     },
     {
       "album": {
+        "name": "Dusty Rhodes",
+        "url": "https://open.spotify.com/album/268QBH5WtUnLP2O3p2qP9g"
+      },
+      "artists": [
+        {
+          "name": "Gerald Bailey",
+          "url": "https://open.spotify.com/artist/0ZKZwZhlCV6E3RSS2X66zx"
+        },
+        {
+          "name": "David Agee",
+          "url": "https://open.spotify.com/artist/4kU46LIffx1I6aN9t4gvFS"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125133,
+      "name": "Dusty Rhodes",
+      "url": "https://open.spotify.com/track/1LYLTAJc3ZBpColv5RUp2o"
+    },
+    {
+      "album": {
         "name": "D\u00e9sordre",
         "url": "https://open.spotify.com/album/63XpcQS6u4Q0E1DvWP76lp"
       },
@@ -5398,7 +5446,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 299500,
       "name": "El Baile De \u00cdcaro",
       "url": "https://open.spotify.com/track/3mtdKxskoLkLxGIGdPrKSY"
@@ -5738,6 +5786,24 @@
       "duration_ms": 553042,
       "name": "Explorations of One's Self Inside a Caravan",
       "url": "https://open.spotify.com/track/3vDtZyKQKAg5LCfr4Y1mgY"
+    },
+    {
+      "album": {
+        "name": "Wave Nature",
+        "url": "https://open.spotify.com/album/6AFk9XLzI2j8f9eZ4p0UCo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rotem",
+          "url": "https://open.spotify.com/artist/6GCr7w4KotyKmm7JeFPRfQ"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242264,
+      "name": "Extraordinary Pleasure",
+      "url": "https://open.spotify.com/track/3PmfBRmD3jzsIe9GojyWNS"
     },
     {
       "album": {
@@ -8042,7 +8108,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 247973,
       "name": "I've Found a New Baby",
       "url": "https://open.spotify.com/track/57225qPFGFLt8MTI10FohE"
@@ -8908,6 +8974,40 @@
       "duration_ms": 240453,
       "name": "Jam Suspect",
       "url": "https://open.spotify.com/track/6zGxIWsmJTsiJvAOY1HdEA"
+    },
+    {
+      "album": {
+        "name": "Jazz Camp",
+        "url": "https://open.spotify.com/album/5ruiJnbERVoPA8QUnXnTIJ"
+      },
+      "artists": [
+        {
+          "name": "Jason and The Jazzerknots",
+          "url": "https://open.spotify.com/artist/7KV7Eo4G9c7eeXRG5b3hah"
+        },
+        {
+          "name": "Jason Goessl",
+          "url": "https://open.spotify.com/artist/40JIgIcivd0K7zQpxTxhFD"
+        },
+        {
+          "name": "Mike Malone",
+          "url": "https://open.spotify.com/artist/6trA1vSUp24Olm5cJGvSXO"
+        },
+        {
+          "name": "Josh Gallagher",
+          "url": "https://open.spotify.com/artist/278K10pQN1n0yGXjB0Hp2p"
+        },
+        {
+          "name": "Jeremy Boettcher",
+          "url": "https://open.spotify.com/artist/7ugf7cVBXrSSpggw3Dfedu"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314106,
+      "name": "Jazz Camp",
+      "url": "https://open.spotify.com/track/2DvEnW7qVYDzsVUa0YBYiR"
     },
     {
       "album": {
@@ -14407,6 +14507,36 @@
     },
     {
       "album": {
+        "name": "Raze",
+        "url": "https://open.spotify.com/album/3xEdobLAbw0Ghyer0PkmX8"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Aman\u00e9 Suganami",
+          "url": "https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT"
+        },
+        {
+          "name": "Yelfris Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/5maB2WqB6U2Mi7DKZQYmcS"
+        },
+        {
+          "name": "Luke Wynter",
+          "url": "https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283400,
+      "name": "Raze",
+      "url": "https://open.spotify.com/track/2OffHgNmM7rbTt4oG0YgsU"
+    },
+    {
+      "album": {
         "name": "re:pass (Edit)",
         "url": "https://open.spotify.com/album/5QzgrQW4W6gIYoSmXyELtR"
       },
@@ -15142,7 +15272,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 394776,
       "name": "Rouages",
       "url": "https://open.spotify.com/track/4PZ3DhUsKZpxv3W3bLXbBq"
@@ -18295,6 +18425,28 @@
     },
     {
       "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186414,
+      "name": "The Pilot",
+      "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
+    },
+    {
+      "album": {
         "name": "Frame of Mind",
         "url": "https://open.spotify.com/album/5KGIXlm5VRcIeZ8wfACdpc"
       },
@@ -18692,6 +18844,24 @@
       "duration_ms": 125346,
       "name": "Thebe",
       "url": "https://open.spotify.com/track/4QQi5Z7ywBOhWKF1uVxrld"
+    },
+    {
+      "album": {
+        "name": "change key",
+        "url": "https://open.spotify.com/album/5qyqFAtzppQcR4rDvSMaiV"
+      },
+      "artists": [
+        {
+          "name": "PIANO SHIFT",
+          "url": "https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "theme of kotaro",
+      "url": "https://open.spotify.com/track/0db9pJdumI8Rai2KJiNU5r"
     },
     {
       "album": {
@@ -20268,7 +20438,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 140640,
       "name": "Wave Nature",
       "url": "https://open.spotify.com/track/0uyy04blYEEmrdC1JyNTY8"
@@ -20508,7 +20678,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 393500,
       "name": "What Might Have Been",
       "url": "https://open.spotify.com/track/25nlCzvN1rRGnv4MxGDqMH"
@@ -21544,7 +21714,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 258000,
       "name": "\u672c\u65e5\u306f\u6674\u5929",
       "url": "https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF"

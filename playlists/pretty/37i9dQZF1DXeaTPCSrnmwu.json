@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 20999,
+  "num_followers": 21013,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDc0MjU2OGQyMTZiMmU1NzM3ZTk2MDFlMjYwYWEwNTRi",
+  "snapshot_id": "MTYxMDk4NTQzNSwwMDAwMDAwMDhiM2M2NTU1NDliNDQzMTBiYjY0ZDE3ZWUwZDEzMjVk",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Bossa Nova EP",
+        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "R\u00edo de los Canasteros",
         "url": "https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Bossa Nova EP",
-        "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
+        "name": "Winnetka",
+        "url": "https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5"
       },
       "artists": [
         {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM"
+          "name": "Joaquin Alejandro",
+          "url": "https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk"
+      "duration_ms": 132484,
+      "name": "Winnetka",
+      "url": "https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -703,22 +719,6 @@
       "duration_ms": 143386,
       "name": "Palabras De Mujer-Hojas Secas",
       "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
-        "name": "Winnetka",
-        "url": "https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Alejandro",
-          "url": "https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m"
-        }
-      ],
-      "duration_ms": 132484,
-      "name": "Winnetka",
-      "url": "https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv"
     },
     {
       "added_at": "2021-01-18 15:57:14",

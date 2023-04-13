@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Brahmāstra
+> Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
 156 songs - 11 hr 2 min
 

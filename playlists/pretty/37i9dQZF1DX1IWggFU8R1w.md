@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 
 > Check out the official playlist from The Witcher\. Watch The Witcher: Blood Origin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,197 likes - 135 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,249 likes - 135 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

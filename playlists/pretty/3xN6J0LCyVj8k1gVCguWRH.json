@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101234,
+  "num_followers": 101227,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDQzMSxiYzMyYTRiMWE2NzU0MjI2M2M3NDVhNmNmMGQ0ODhlNDQ5MzgwMzEy",
+  "snapshot_id": "NDQzMywwOGFiZDFmNzJiNjMxZDY4MjQ0OWNmM2NjZDg2OTJhZGYwY2M3YjBm",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
+      "added_at": "2023-04-13 00:17:01",
+      "album": {
+        "name": "Siempre es Tarde",
+        "url": "https://open.spotify.com/album/71u6sA9Afhexbr7OJ2M0jO"
+      },
+      "artists": [
+        {
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
+        }
+      ],
+      "duration_ms": 210503,
+      "name": "Siempre es Tarde",
+      "url": "https://open.spotify.com/track/7wH91NAxRAXsxkjt9TuNLV"
+    },
+    {
       "added_at": "2023-04-06 00:27:54",
       "album": {
         "name": "Eres T\u00fa",
@@ -351,26 +367,6 @@
       "duration_ms": 210533,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/6J1dBZzuj8hNZnnsotkwVL"
-    },
-    {
-      "added_at": "2023-03-22 13:55:45",
-      "album": {
-        "name": "Lovely News",
-        "url": "https://open.spotify.com/album/6uOZQjuqWO9aUN8dhwnBXj"
-      },
-      "artists": [
-        {
-          "name": "I Hear Jimmy",
-          "url": "https://open.spotify.com/artist/5J1J4Fgcs49xIWDtBjD1xZ"
-        },
-        {
-          "name": "UGENE NGHT",
-          "url": "https://open.spotify.com/artist/7uYudqa6w4ALOkoMBAClqo"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lovely News",
-      "url": "https://open.spotify.com/track/7oHRnnH8wdnwb5jkSgcb0O"
     },
     {
       "added_at": "2022-07-26 20:14:49",
@@ -711,22 +707,6 @@
       "duration_ms": 126905,
       "name": "Many Times",
       "url": "https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw"
-    },
-    {
-      "added_at": "2023-03-22 13:56:57",
-      "album": {
-        "name": "Meant",
-        "url": "https://open.spotify.com/album/4Ve0b9jAMM3Rj5SJAlw9NF"
-      },
-      "artists": [
-        {
-          "name": "Aaries",
-          "url": "https://open.spotify.com/artist/2hfPo38uVGaKcxfOpqJwf8"
-        }
-      ],
-      "duration_ms": 278840,
-      "name": "Meant",
-      "url": "https://open.spotify.com/track/0MRsTLHZv9zDEbYhAnWuvq"
     },
     {
       "added_at": "2022-07-26 20:22:53",
@@ -1863,162 +1843,6 @@
       "duration_ms": 222618,
       "name": "22 Years",
       "url": "https://open.spotify.com/track/0FllyNaq3SwLnyfhfBuJ27"
-    },
-    {
-      "added_at": "2023-03-24 00:22:44",
-      "album": {
-        "name": "Cosmic Flute Rides Again",
-        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
-      },
-      "artists": [
-        {
-          "name": "NTHNL",
-          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
-        }
-      ],
-      "duration_ms": 159240,
-      "name": "Nico's Exorcism Dance",
-      "url": "https://open.spotify.com/track/3XGzAIo7x8k9h4YKkswMHy"
-    },
-    {
-      "added_at": "2023-03-24 00:23:28",
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/63o64kAroioltgr4xMQ8oJ"
-      },
-      "artists": [
-        {
-          "name": "Renn Olympus",
-          "url": "https://open.spotify.com/artist/2SnlcY1L7eF3OyGMzhicqG"
-        }
-      ],
-      "duration_ms": 148363,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/5XopHzTSHrw5vEhT5lXya6"
-    },
-    {
-      "added_at": "2023-03-24 00:24:08",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/0g5TqDhHvlpA44HBgKLFNb"
-      },
-      "artists": [
-        {
-          "name": "Franky Scarlet",
-          "url": "https://open.spotify.com/artist/09gq60F3ZfpNLJcwSbWxdB"
-        },
-        {
-          "name": "Glen Nicholls",
-          "url": "https://open.spotify.com/artist/2ipbMLA2pvJvUAlUN6mQk6"
-        },
-        {
-          "name": "Melia Lisa",
-          "url": "https://open.spotify.com/artist/66QlgTuC3ibJr4bEhEwIoZ"
-        }
-      ],
-      "duration_ms": 262857,
-      "name": "Day Dream",
-      "url": "https://open.spotify.com/track/1fSXwtP1JhvbQK3hq8vKVd"
-    },
-    {
-      "added_at": "2023-03-24 00:24:50",
-      "album": {
-        "name": "Angela",
-        "url": "https://open.spotify.com/album/2eJEgRMArWJbZ6rWqYTIED"
-      },
-      "artists": [
-        {
-          "name": "The Hackles",
-          "url": "https://open.spotify.com/artist/56fHz4KVIrxTpvVmj4J0ar"
-        }
-      ],
-      "duration_ms": 274271,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/6jfZMCJ1PZDsLXtNVknuZu"
-    },
-    {
-      "added_at": "2023-03-24 00:25:39",
-      "album": {
-        "name": "Friends (Radio Edit)",
-        "url": "https://open.spotify.com/album/3uW3EA9ntA4pzZIsLTh1ga"
-      },
-      "artists": [
-        {
-          "name": "NIIVA",
-          "url": "https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Friends - Radio Edit",
-      "url": "https://open.spotify.com/track/6z9mmWEDQsPqFFgAeUSwLI"
-    },
-    {
-      "added_at": "2023-03-24 00:24:35",
-      "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/4TRMNybTs1y7e59fvzYmU2"
-      },
-      "artists": [
-        {
-          "name": "Mooz",
-          "url": "https://open.spotify.com/artist/7i088nvUdk8GhfQKqlhl0o"
-        }
-      ],
-      "duration_ms": 132972,
-      "name": "i really don't know",
-      "url": "https://open.spotify.com/track/4K8cZewtJoQVK7TQ9FWN9l"
-    },
-    {
-      "added_at": "2023-03-24 00:24:20",
-      "album": {
-        "name": "A Collection of Songs",
-        "url": "https://open.spotify.com/album/3x7L92kVFwHEEYppkWOBsX"
-      },
-      "artists": [
-        {
-          "name": "Brett Vogel",
-          "url": "https://open.spotify.com/artist/6Ju3vjOAPrKqBJd08xvRDO"
-        },
-        {
-          "name": "Clara Waidley",
-          "url": "https://open.spotify.com/artist/7mlTENfbuYMQoVI9TrE9p8"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "I'm a Buffalo",
-      "url": "https://open.spotify.com/track/3uagfzrMtNXGScDFOsWFL2"
-    },
-    {
-      "added_at": "2023-03-24 00:23:52",
-      "album": {
-        "name": "Lost It",
-        "url": "https://open.spotify.com/album/0pCNQiw9sNJkEp9Ymj0s8E"
-      },
-      "artists": [
-        {
-          "name": "Rauly",
-          "url": "https://open.spotify.com/artist/66fMwrGam24QvJPazZYo17"
-        }
-      ],
-      "duration_ms": 138571,
-      "name": "Lost It",
-      "url": "https://open.spotify.com/track/3vAfK0sDQZEdK1nedLrfbL"
-    },
-    {
-      "added_at": "2023-03-24 00:23:03",
-      "album": {
-        "name": "Way Down (Remix)",
-        "url": "https://open.spotify.com/album/32o6cU5kIPXSjxtH25uSGI"
-      },
-      "artists": [
-        {
-          "name": "Muca",
-          "url": "https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM"
-        }
-      ],
-      "duration_ms": 189237,
-      "name": "Way Down - Remix",
-      "url": "https://open.spotify.com/track/7xbDaWvcBvEBfIgOXjm8AT"
     },
     {
       "added_at": "2023-04-04 15:18:26",

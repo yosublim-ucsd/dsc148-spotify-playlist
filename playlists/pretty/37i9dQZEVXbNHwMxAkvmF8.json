@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 69588,
+  "num_followers": 69590,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM0NTc1ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM0NjYyMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Introvert\u00e1lt dal",
         "url": "https://open.spotify.com/album/6ZRIaIZEYI7HBPNPKmeAXw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "szosziazi",
         "url": "https://open.spotify.com/album/1y3BEzFK1hJ4FwOlpwKJVH"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/4bHXbXDT0p9exqBsW49fDo"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sz\u00e9lcsend",
         "url": "https://open.spotify.com/album/4fOnrlqiLpbN8QXxLAJBNP"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/5kRKviUY95Ra2asUeqsGBX"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Csavarg\u00f3",
         "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -225,63 +225,7 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Afro Beat",
-      "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "V\u00e1rn\u00e9k",
-        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "V\u00e1rn\u00e9k",
-      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -301,27 +245,79 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+        "name": "V\u00e1rn\u00e9k",
+        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
       },
       "artists": [
         {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "V\u00e1rn\u00e9k",
+      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
+      },
+      "artists": [
         {
           "name": "Pog\u00e1ny Indul\u00f3",
           "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
         }
       ],
-      "duration_ms": 154482,
-      "name": "J\u00f3 modor 2",
-      "url": "https://open.spotify.com/track/2m4M8p4bmwEXdRH2NE1iBj"
+      "duration_ms": 192000,
+      "name": "Afro Beat",
+      "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Papp L\u00e1szl\u00f3 Ar\u00e9na LIVE (2023)",
+        "url": "https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "3korty - LIVE",
+      "url": "https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -341,7 +337,7 @@
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Idegen",
         "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
@@ -361,7 +357,7 @@
       "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -377,23 +373,27 @@
       "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Papp L\u00e1szl\u00f3 Ar\u00e9na LIVE (2023)",
-        "url": "https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1"
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 196500,
-      "name": "3korty - LIVE",
-      "url": "https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw"
+      "duration_ms": 154482,
+      "name": "J\u00f3 modor 2",
+      "url": "https://open.spotify.com/track/2m4M8p4bmwEXdRH2NE1iBj"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -437,39 +437,7 @@
       "url": "https://open.spotify.com/track/5qJgc1CpZl45RfZXyRHeFd"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "SZ\u00cdNVAK",
-        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 198278,
-      "name": "SZ\u00cdNVAK",
-      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "Forog a vil\u00e1g",
-        "url": "https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "Forog a vil\u00e1g",
-      "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -489,7 +457,7 @@
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Csinibaba",
         "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
@@ -505,27 +473,23 @@
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Topshit",
-        "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
+        "name": "SZ\u00cdNVAK",
+        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
       },
       "artists": [
         {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
         }
       ],
-      "duration_ms": 166164,
-      "name": "Topshit",
-      "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
+      "duration_ms": 198278,
+      "name": "SZ\u00cdNVAK",
+      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -553,7 +517,43 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Forog a vil\u00e1g",
+        "url": "https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "Forog a vil\u00e1g",
+      "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "KDT",
         "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
@@ -581,23 +581,27 @@
       "url": "https://open.spotify.com/track/6WBuRbov384zl6wPJ49piD"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+        "name": "Topshit",
+        "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
       },
       "artists": [
         {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Zivatar",
-      "url": "https://open.spotify.com/track/7fCnysGjGEav9xo33FGXLW"
+      "duration_ms": 166164,
+      "name": "Topshit",
+      "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Idegen",
         "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
@@ -613,7 +617,39 @@
       "url": "https://open.spotify.com/track/4ZT1QMxxsqYTQnlIlQmj4l"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Zivatar",
+      "url": "https://open.spotify.com/track/7fCnysGjGEav9xo33FGXLW"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -633,27 +669,23 @@
       "url": "https://open.spotify.com/track/5j1YKmMrIspBIytQE1xSoh"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -673,7 +705,27 @@
       "url": "https://open.spotify.com/track/64uKsZN6fjZa5kpEmzC6dG"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -689,75 +741,83 @@
       "url": "https://open.spotify.com/track/430AL9fjgrmLCHSYcgmA6i"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Tr\u00f3nfoszt\u00f3",
-        "url": "https://open.spotify.com/album/4N8b0i798ZKaMDpAXvMhj6"
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Tr\u00f3nfoszt\u00f3",
-      "url": "https://open.spotify.com/track/1k5srHy6QKbhOCApsBRFYu"
+      "duration_ms": 210133,
+      "name": "t\u00e9veszm\u00e9k",
+      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 128858,
-      "name": "Kincsem 2",
-      "url": "https://open.spotify.com/track/7kNQcIdtqUgXgbCsSoK6NF"
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Gett\u00f3 csirke",
+        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 136286,
+      "name": "Gett\u00f3 csirke",
+      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
+      "album": {
+        "name": "Idegen",
+        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "100 Hiba",
+      "url": "https://open.spotify.com/track/2OcJ6IFLooNGjyiL9HaDab"
+    },
+    {
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -777,7 +837,7 @@
       "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -792,28 +852,12 @@
           "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Szegedi \u00e1tok",
-      "url": "https://open.spotify.com/track/0s6QUyKh3nacSbtZ8q7mAX"
+      "duration_ms": 128858,
+      "name": "Kincsem 2",
+      "url": "https://open.spotify.com/track/7kNQcIdtqUgXgbCsSoK6NF"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "Gett\u00f3 csirke",
-        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 136286,
-      "name": "Gett\u00f3 csirke",
-      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
@@ -833,39 +877,27 @@
       "url": "https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "t\u00e9veszm\u00e9k",
-      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
         }
       ],
-      "duration_ms": 173454,
-      "name": "100 Hiba",
-      "url": "https://open.spotify.com/track/2OcJ6IFLooNGjyiL9HaDab"
+      "duration_ms": 144000,
+      "name": "Szegedi \u00e1tok",
+      "url": "https://open.spotify.com/track/0s6QUyKh3nacSbtZ8q7mAX"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
         "name": "Idegen",
         "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
@@ -881,52 +913,36 @@
       "url": "https://open.spotify.com/track/35LInpwVpTlTBSMraEOjeY"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 133953,
-      "name": "Sose alszok",
-      "url": "https://open.spotify.com/track/7db8yyr25wPV2grLqDtC6x"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-04-11 09:56:00",
+      "added_at": "2023-04-12 10:52:16",
       "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
+        "name": "Papp L\u00e1szl\u00f3 Ar\u00e9na LIVE (2023)",
+        "url": "https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 153456,
-      "name": "Meg\u00e1ll Az Id\u0151",
-      "url": "https://open.spotify.com/track/708JXY4n5r7F5ZNoJ2Sez4"
-    },
-    {
-      "added_at": "2023-04-11 09:56:00",
-      "album": {
-        "name": "GG VS GRASA",
-        "url": "https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ"
-      },
-      "artists": [
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
-        }
-      ],
-      "duration_ms": 124186,
-      "name": "Tilidin",
-      "url": "https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc"
+      "duration_ms": 167000,
+      "name": "Casa de papel - LIVE",
+      "url": "https://open.spotify.com/track/5250liKvedc3oIt4tTGZ9a"
     }
   ],
   "unique_name": "Top 50 - Hungary",

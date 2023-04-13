@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 418719,
+  "num_followers": 418896,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGYzNGU4YTAwNjA1ODdlZTNiOTRmN2FmMTAwMGE1MDhh",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDQ0ZGQ3ZmY1ZTViZDg5MmY5ZDRiMmE4M2IwYTRlMmY0",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Sue\u00f1os de Carpa",
-        "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
-      },
-      "artists": [
-        {
-          "name": "EXILIOS",
-          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
-        }
-      ],
-      "duration_ms": 247980,
-      "name": "Bicolor",
-      "url": "https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 238013,
       "name": "Mi Coraz\u00f3n Encantado",
       "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Sue\u00f1os de Carpa",
+        "url": "https://open.spotify.com/album/3NZYFQj629V8jEcAgIPt4x"
+      },
+      "artists": [
+        {
+          "name": "EXILIOS",
+          "url": "https://open.spotify.com/artist/0r2PE9fRJz9NQCxb3wVNSE"
+        }
+      ],
+      "duration_ms": 247980,
+      "name": "Bicolor",
+      "url": "https://open.spotify.com/track/7N2I37ulF3GCOVwuR69umI"
     },
     {
       "added_at": "2021-12-21 17:00:46",

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Johnny Sky",
-  "num_followers": 1897573,
+  "num_followers": 1897694,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzMTE1MSwwMDAwMDAwMDVhYTRiYTE4NDNkMjljNjg0YjA4ODEzMGJkYjUwZjJh",
+  "snapshot_id": "MTY4MTIzMTE1MSwwMDAwMDAwMGNhMzk2MTRkMzI3OTJkOTE5ZTNmY2RhOWQwMjI1YTJk",
   "tracks": [
     {
       "added_at": "2023-04-11 16:39:10",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-11 16:39:10",
       "album": {
-        "name": "Mi Secreto",
-        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 179834,
-      "name": "Mi Secreto",
-      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
-    },
-    {
-      "added_at": "2023-04-11 16:39:10",
-      "album": {
         "name": "Medicina De Amor",
         "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-04-11 16:39:10",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
       },
       "artists": [
         {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Morire Bebiendo",
-      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2023-04-11 16:39:10",
@@ -799,6 +783,22 @@
       "duration_ms": 220546,
       "name": "No Es una Novela",
       "url": "https://open.spotify.com/track/7I4WMiRLLl0lDn0XmHxkZf"
+    },
+    {
+      "added_at": "2023-04-11 16:39:10",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Morire Bebiendo",
+      "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
     },
     {
       "added_at": "2023-04-11 16:39:10",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-04-11 16:39:10",
       "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+      },
+      "artists": [
+        {
+          "name": "Kewin Cosmos",
+          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Solo Quise Quererte",
+      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+    },
+    {
+      "added_at": "2023-04-11 16:39:10",
+      "album": {
         "name": "Adicta",
         "url": "https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 211653,
       "name": "Adicta",
       "url": "https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8"
-    },
-    {
-      "added_at": "2023-04-11 16:39:10",
-      "album": {
-        "name": "Episodes",
-        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
-      },
-      "artists": [
-        {
-          "name": "Kewin Cosmos",
-          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
-        }
-      ],
-      "duration_ms": 217222,
-      "name": "Solo Quise Quererte",
-      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
     },
     {
       "added_at": "2023-04-11 16:39:10",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-04-11 16:39:10",
       "album": {
+        "name": "An\u00edmate",
+        "url": "https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 218538,
+      "name": "An\u00edmate",
+      "url": "https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU"
+    },
+    {
+      "added_at": "2023-04-11 16:39:10",
+      "album": {
         "name": "No Te Dejo De Pensar (feat. 24 Horas)",
         "url": "https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2023-04-11 16:39:10",
       "album": {
-        "name": "An\u00edmate",
-        "url": "https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 218538,
-      "name": "An\u00edmate",
-      "url": "https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU"
-    },
-    {
-      "added_at": "2023-04-11 16:39:10",
-      "album": {
         "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
         "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
       },
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2023-04-11 16:39:10",
       "album": {
-        "name": "Cuentale",
-        "url": "https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM"
+        "name": "Por Favor",
+        "url": "https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP"
       },
       "artists": [
         {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "Manny Manz",
-          "url": "https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY"
+          "name": "24 Horas",
+          "url": "https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Cuentale",
-      "url": "https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs"
+      "duration_ms": 223133,
+      "name": "Por Favor",
+      "url": "https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA"
     }
   ],
   "unique_name": "Bachata Lovers",

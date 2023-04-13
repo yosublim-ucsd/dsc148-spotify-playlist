@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,916 songs - 5 day 8 hr 52 min
+1,917 songs - 5 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1319,7 +1319,8 @@
 | [O Calhambeque \(Road Hog\) \- Versão remasterizada](https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [É Proibido Fumar \(Remasterizado\)](https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v) | 2:21 | 2022-06-09 |  |
 | [O Que É O Que É?](https://open.spotify.com/track/5q6iOo1RWFaZ0COlgAWGp2) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Carnaval Samba](https://open.spotify.com/album/42TRJqMGcShiWlnhLR9IKm) | 4:17 | 2022-10-31 | 2022-11-13 |
 | [O Que É O Que É?](https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Caminhos Do Coração](https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0) | 4:18 | 2022-06-09 | 2022-07-29 |
-| [O Que É O Que É?](https://open.spotify.com/track/5P1YRVQ1QaVtLsjl0M5qGj) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Meus Momentos](https://open.spotify.com/album/6qQ5dmUE8sqFqqCtBRtRj0) | 4:19 | 2022-07-27 |  |
+| [O Que É O Que É?](https://open.spotify.com/track/5P1YRVQ1QaVtLsjl0M5qGj) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Meus Momentos](https://open.spotify.com/album/6qQ5dmUE8sqFqqCtBRtRj0) | 4:19 | 2022-07-27 | 2023-04-13 |
+| [O Que É O Que É?](https://open.spotify.com/track/2u6dohtPb5vRYvmqEdxbcz) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Raizes Do Samba](https://open.spotify.com/album/0MM50Se76XvcfAnHdYQ9gy) | 4:20 | 2023-03-17 |  |
 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 | 2022-06-09 |  |
 | [Oba, Lá Vem Ela](https://open.spotify.com/track/1o60EW97NdtvYJiIlZSLOG) | [Jorge Ben](https://open.spotify.com/artist/0Kl4OTnin2VOkJV360fsT4), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Doce MPB](https://open.spotify.com/album/2XAc4keBjM6sGyrVAsiLhW) | 4:12 | 2022-10-31 | 2022-11-13 |
 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 | 2022-07-27 |  |

@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "True Life",
+        "url": "https://open.spotify.com/album/1BGbJw9XXSNjV4GoRpdi9l"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225803,
+      "name": "True Life",
+      "url": "https://open.spotify.com/track/42QhA0C28QqpxWVicw8Foa"
+    },
+    {
+      "album": {
         "name": "Gypsy Heart Side A",
         "url": "https://open.spotify.com/album/7JRXqBqGNs3cy5YhqbvNuu"
       },

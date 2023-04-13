@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-654 songs - 1 day 16 hr 7 min
+655 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Leave It There](https://open.spotify.com/track/2Qk4YVgLtEhRsaaxUTrYAx) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Leave It There](https://open.spotify.com/album/5vftS4iFWrBfFQw02YvYu0) | 3:48 | 2021-12-03 | 2022-07-29 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-06 | 2021-10-29 |
 | [Less Is More](https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Less Is More](https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ) | 4:16 | 2020-08-25 | 2021-01-09 |
-| [Let Love Run These Streets](https://open.spotify.com/track/4anLBhGgGT9KlAJHxhS6cU) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Let Love Run These Streets](https://open.spotify.com/album/1apNIF5a3LAqGohQze9Pmg) | 5:01 | 2022-03-10 |  |
+| [Let Love Run These Streets](https://open.spotify.com/track/4anLBhGgGT9KlAJHxhS6cU) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Let Love Run These Streets](https://open.spotify.com/album/1apNIF5a3LAqGohQze9Pmg) | 5:01 | 2022-03-10 | 2023-04-13 |
 | [Let Me Drink \(feat\. The Hamiltones & Wale\)](https://open.spotify.com/track/3cnrKJa5rMLh95O2pOYD4O) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Let Me Drink \(feat\. The Hamiltones & Wale\)](https://open.spotify.com/album/5f5NH8JVkmbKLgurCgViHH) | 2:38 | 2020-03-25\* | 2020-04-24 |
 | [Let Me Fly](https://open.spotify.com/track/46fZ6nVYwjsdeRYTV0hXgU) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Let Me Fly](https://open.spotify.com/album/5Z2tmrBgXkWWHb2UvF868r) | 2:42 | 2020-03-25\* | 2020-04-12 |
 | [Letter 2 U](https://open.spotify.com/track/6vztLRlDjURphQVkyxqix9) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:05 | 2021-02-12 | 2021-04-17 |
@@ -427,6 +427,7 @@
 | [Patience](https://open.spotify.com/track/0v8AGlTcou0f49oeaJkfSR) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:09 | 2020-03-25\* | 2020-10-30 |
 | [Peace by Piece](https://open.spotify.com/track/3aWxO57NUJM1StrCzJLflQ) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Peace by Piece](https://open.spotify.com/album/2y5IH8hmjixAvhff4XdNiI) | 3:02 | 2020-12-05 | 2021-04-17 |
 | [People Wither](https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Warping Youth](https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN) | 5:11 | 2020-06-29 | 2020-11-20 |
+| [Perspective](https://open.spotify.com/track/3RN9aExVAKIXHut4l7ODxx) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Aron Hodek](https://open.spotify.com/artist/2T2Ut76sWXHf36UHeEyGNU), [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L) | [We Never Stop](https://open.spotify.com/album/5ZXGZfvx2JzjeHYXyweXwV) | 3:59 | 2023-04-06 |  |
 | [Persuade You](https://open.spotify.com/track/2K61sPlJazCjQDEkMefPgb) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Persuade You](https://open.spotify.com/album/094Knl9tZIbLs5BJJQPGvg) | 4:21 | 2021-12-14 | 2022-02-04 |
 | [Phoenix](https://open.spotify.com/track/4k5TvYTxNgtQhbW65JKUdv) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Phoenix](https://open.spotify.com/album/4u1igBzL20OSMGhS0XoUvW) | 4:45 | 2020-05-01 | 2020-08-25 |
 | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/track/1I00qI4bQZyKSQ5G5AnKcv) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Refi Sings](https://open.spotify.com/artist/15X73vdLvKcEwXjB37sOIU) | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/album/6GMRzxqK9FZGpUzXwY24Vg) | 3:55 | 2021-04-17 | 2021-07-10 |

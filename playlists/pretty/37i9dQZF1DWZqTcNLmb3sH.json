@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48427,
+  "num_followers": 48439,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEzMzk1OCwwMDAwMDAwMGVlNzc2YTI0ZWMzM2ZkY2E3YTQwNzBhOTM2N2RjMGVk",
+  "snapshot_id": "MTY4MTMwNjY3NCwwMDAwMDAwMGNmYjkyNTRjMDgwODU1OGFkNzc3YmFjMTdiYzE3Mjlj",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -31,6 +31,30 @@
       "duration_ms": 207496,
       "name": "Chum Chum Chali Chali (from \"Kabzaa\") [Kannada]",
       "url": "https://open.spotify.com/track/6mpqDE2MUjLgPicgv2UPY3"
+    },
+    {
+      "added_at": "2023-04-12 13:37:54",
+      "album": {
+        "name": "Single Sundara (From \"Raghavendra Stores\")",
+        "url": "https://open.spotify.com/album/3k1ycyhXi58YeCo5QJ3uUV"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Single Sundara (From \"Raghavendra Stores\")",
+      "url": "https://open.spotify.com/track/171etuRcF92SOVIuHnDm4u"
     },
     {
       "added_at": "2023-03-20 13:07:36",
@@ -183,6 +207,30 @@
       "duration_ms": 167540,
       "name": "Oh Ammalaali Ammalaali (From \"Dasara\")",
       "url": "https://open.spotify.com/track/5PD9FrQ1lkGTBvx0jFcVUT"
+    },
+    {
+      "added_at": "2023-04-12 09:09:34",
+      "album": {
+        "name": "Nayaka Jananayaka (From \"Prabhutva\")",
+        "url": "https://open.spotify.com/album/6dyCn9uxHm7wx7yRwwQstG"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Emil Mohammed",
+          "url": "https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx"
+        },
+        {
+          "name": "Chethan Kumar P",
+          "url": "https://open.spotify.com/artist/4c8Dd0WuhxeSQInZGtaY0T"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Nayaka Jananayaka (From \"Prabhutva\")",
+      "url": "https://open.spotify.com/track/5ojvEoold5NRu7Y3iPv1le"
     },
     {
       "added_at": "2023-03-22 11:13:26",

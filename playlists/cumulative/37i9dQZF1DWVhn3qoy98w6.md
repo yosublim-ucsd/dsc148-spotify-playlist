@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Artistas independientes emergentes, cada miércoles\. Foto: Pan.
+> Artistas independientes emergentes, cada miércoles\. Foto: Paco Te Quiero.
 
 2,037 songs - 4 day 12 hr 33 min
 

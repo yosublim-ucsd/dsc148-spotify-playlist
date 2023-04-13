@@ -4,7 +4,7 @@
 
 > Alleen maar motion en good vibes\. Cover: Becky G
 
-470 songs - 21 hr 12 min
+471 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,10 @@
 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2022-07-14 | 2022-10-14 |
 | [Anders Doet \(feat\. Jayh\)](https://open.spotify.com/track/3Vv17RtSLI7x4yNYWvFrnf) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Anders Doet \(feat\. Jayh\)](https://open.spotify.com/album/7t8phcsa3My41H39G8Dwa5) | 2:52 | 2022-08-25 | 2022-10-28 |
 | [Angela](https://open.spotify.com/track/49dr6mikDXKsR6M9bTyCLt) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa), [Fuzeejasmine](https://open.spotify.com/artist/51BQQDclzLAUbxx2VfIigc) | [Angela](https://open.spotify.com/album/3kzuD7z8RqaTYIk9K3t9wH) | 3:04 | 2022-10-07 | 2022-10-28 |
+| [Annemaria \(feat\. Luca Gilliot\)](https://open.spotify.com/track/1sjoT3INjAPDbwcyy66tNa) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Revie](https://open.spotify.com/artist/1wA8oP2wKhSpq5X3igjJT1), [Luca Gilliot](https://open.spotify.com/artist/2yXByKs124lfzMflFjmfus) | [Annemaria \(feat\. Luca Gilliot\)](https://open.spotify.com/album/6q4SvnuBUeW6UtrZqa4fwm) | 2:44 | 2023-04-12 |  |
 | [Apart is Hard](https://open.spotify.com/track/22Kvgia3NR8zRizu0eyZoO) | [Ovano](https://open.spotify.com/artist/25H0faXHYciO3kWOCfdn03), [Wowi](https://open.spotify.com/artist/6wMTXQM1eVz7pU83iGskyR), [Chella](https://open.spotify.com/artist/5xl9Rdqa6Blm3E2eHHOgMt) | [Apart is Hard](https://open.spotify.com/album/6VoMy1xGoMRIJY2cCAQg4g) | 2:09 | 2022-12-29 | 2023-01-13 |
 | [APRÈS\-VOUS MADAME](https://open.spotify.com/track/3s7x3OMiEI7cmE8KBxIwCy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:37 | 2023-02-02 | 2023-02-10 |
-| [Aqua Asia](https://open.spotify.com/track/0ONJCxrC8AzB03HAEokaRi) | [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Aqua Asia](https://open.spotify.com/album/4E2L4hzp2hSxww9RmN0JYp) | 2:21 | 2023-03-23 |  |
+| [Aqua Asia](https://open.spotify.com/track/0ONJCxrC8AzB03HAEokaRi) | [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd) | [Aqua Asia](https://open.spotify.com/album/4E2L4hzp2hSxww9RmN0JYp) | 2:21 | 2023-03-23 | 2023-04-13 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-16 |  |
 | [Autumn](https://open.spotify.com/track/0HqEMF1lSEXSY16U9b3oK3) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Autumn](https://open.spotify.com/album/27txhnT0TfhJ7a5p0ql8CN) | 3:43 | 2022-11-17 | 2023-03-25 |
 | [B.I.L \(Body in love\)](https://open.spotify.com/track/1KSwUiF1A9sTFLVQtcIY9d) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [B.I.L \(Body in love\)](https://open.spotify.com/album/60FRPT9oqCukPEIpVBP32W) | 2:55 | 2023-03-02 | 2023-03-16 |

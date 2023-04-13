@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Marca MP & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,059 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,101 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 11 | [El Tío Lako \(En vivo\)](https://open.spotify.com/track/0M79frGfOqXIRv6mNdN1Eo) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Tío Lako \(En vivo\)](https://open.spotify.com/album/1yfglLx1vVRwFqYc7mbGNQ) | 3:26 |
 | 12 | [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 |
 | 13 | [Alegre y Positivo](https://open.spotify.com/track/4TFkCeHW7vZO6fI2Dvn97S) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Alegre y Positivo](https://open.spotify.com/album/6334KAMxGu0Xz1QPIn1MkX) | 3:28 |
-| 14 | [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 |
+| 14 | [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 |
 | 15 | [Cambiaste Mis Planes](https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Cambiaste Mis Planes](https://open.spotify.com/album/4AP7kCFERVd5eKxFlbK1pF) | 3:33 |
 | 16 | [Con Tus Besos](https://open.spotify.com/track/3UAodcN43fzPYdYTv2pKWC) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Cuadrilla Norteña](https://open.spotify.com/artist/4jlXJJJLUELGoU4uabESMh) | [Con Tus Besos](https://open.spotify.com/album/50i1TXmIi7LgBQnVtCjNjN) | 3:34 |
 | 17 | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/track/5mXKfidzkpKSdbiTLqXh2G) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/album/0Edi0lLcHczz0XCRtE0MC7) | 3:07 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 55 | [Nuestro Amor](https://open.spotify.com/track/6GRFIpU9Yyae32zFFMoklW) | [Xavier Moreno](https://open.spotify.com/artist/2OmItRyzW8FUoxUECXMzWM) | [Nuestro Amor](https://open.spotify.com/album/56uGdoYiaHVm1TLqy6LMuo) | 2:57 |
 | 56 | [Junto a un Perro](https://open.spotify.com/track/2CJsDvwJIfVjpYbhR4u7wW) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Junto a un Perro](https://open.spotify.com/album/5uiArnIWQGEhATC5MYgpRn) | 3:20 |
 
-Snapshot ID: `MTY4MDg5NDI5NCwwMDAwMDAwMGEwYzE2M2ViNDFmMjY3M2RjMGEzYTc0MTNjMTk5ZjI0`
+Snapshot ID: `MTY4MDg5NDI5NCwwMDAwMDAwMDFiMzRiYTZhOTFlNzYyODdmNTE2Njg5NGRiNDZjOWZh`

@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Estevie & DannyLux
 
-3,905 songs - 8 day 14 hr 44 min
+3,906 songs - 8 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3544,7 +3544,8 @@
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2022-02-25 | 2022-03-05 |
 | [Triste](https://open.spotify.com/track/6JpUHnddHwv9cJ6sFD0nzM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:41 | 2023-03-17 | 2023-03-25 |
 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-18 | 2022-11-26 |
-| [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 | 2023-04-07 |  |
+| [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 | 2023-04-07 |  |
+| [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 | 2023-04-07 | 2023-04-13 |
 | [Triste y Vacia](https://open.spotify.com/track/7CtlphuVC6QAC2bZySglRk) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Triste y Vacia](https://open.spotify.com/album/70Xmfr0rdnbWiD2lxK7SMb) | 2:47 | 2022-06-24 | 2022-07-02 |
 | [Triángulo](https://open.spotify.com/track/2US5qj3fNLgTyfaorym5JZ) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Triángulo](https://open.spotify.com/album/1eMq5htKFFFFhlpPFRUdD1) | 2:11 | 2022-04-22 | 2022-04-29 |
 | [TROFEOS](https://open.spotify.com/track/0hMOoIuy8Rzk1sgC1PtZd4) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Bony Fly](https://open.spotify.com/artist/4txxnm9n7BbkE5Srh1hvhb), [Raka Rich](https://open.spotify.com/artist/1fG9KDXYSu1BHq76gjINpD) | [TROFEOS](https://open.spotify.com/album/7fxj7Kf9oHXw8IJQmPHjB8) | 3:02 | 2023-03-24 | 2023-04-01 |

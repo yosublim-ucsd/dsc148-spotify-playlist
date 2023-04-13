@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="hhttps://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=lK9CEKu4SAunMBAfvrAf6w">Inkos'yamagcokama</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,620 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,665 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 37 | [Masiyeke](https://open.spotify.com/track/01fXzOTgIyzNwWTBahteZB) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Sipho](https://open.spotify.com/album/16QKAhgay0amx5AgBIwFo0) | 4:21 |
 | 38 | [Abafana Badlala Ngathi](https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ) | [Limit](https://open.spotify.com/artist/2FNsjkc78U5f55zOu6ZsSh) | [I Mathematics](https://open.spotify.com/album/43VQHDS0rQVLrYtPvchEHf) | 4:43 |
 | 39 | [Msholozi](https://open.spotify.com/track/7i9OftJwfxt4R20jDRnLqi) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:48 |
-| 40 | [Ama\-push ups](https://open.spotify.com/track/4UU4qUfkfRd4IXszXX2Z1K) | [Stabhilithi](https://open.spotify.com/artist/2pomD4ScxWOF80dWYIHN1u) | [Imnand'intshebe](https://open.spotify.com/album/1GRjmojMIbgclyRjVvPuC7) | 4:42 |
+| 40 | [Ama\-push ups](https://open.spotify.com/track/4UU4qUfkfRd4IXszXX2Z1K) | [Stabhilithi](https://open.spotify.com/artist/2pomD4ScxWOF80dWYIHN1u), [Slungile Mncwabe](https://open.spotify.com/artist/4Euob5DVsgfVIy7JLDy4Uu) | [Imnand'intshebe](https://open.spotify.com/album/1GRjmojMIbgclyRjVvPuC7) | 4:42 |
 | 41 | [Sakhala Kamnandi](https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ) | [Umgqumeni](https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB) | [I Magic](https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN) | 4:19 |
 | 42 | [Ubhuti Wabantu](https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Sphesihle Zulu](https://open.spotify.com/artist/2Q87XMh9dkkI1FOG9uCeCG) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 5:06 |
 | 43 | [Eshu Wesokalami](https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 3:51 |

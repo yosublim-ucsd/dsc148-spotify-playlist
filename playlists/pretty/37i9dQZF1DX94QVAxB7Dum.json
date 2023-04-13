@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 674361,
+  "num_followers": 674566,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMDU2NTU3MjZjZWRlMTdjNWI5MzA0MjJiYjEwMzA3YzJk",
+  "snapshot_id": "MTY2OTcyMDkzNSwwMDAwMDAwMGQwZWU5MzljMTA1ZmNjOWMxN2M1OTk0NTdkYTVhYTdm",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
+        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 142746,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "Proud Mary: The Best Of Ike & Tina Turner",
         "url": "https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 168280,
       "name": "On Broadway (Remastered 2023) (rerecordings)",
       "url": "https://open.spotify.com/track/6aPCq4osIKVgGyBJpH5g30"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
-        "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 142746,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
     },
     {
       "added_at": "2021-04-29 10:16:48",

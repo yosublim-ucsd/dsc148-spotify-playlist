@@ -292,10 +292,36 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 207516,
       "name": "Crae",
       "url": "https://open.spotify.com/track/2M9exiU076ShM2fMuSrbUy"
+    },
+    {
+      "album": {
+        "name": "Crae",
+        "url": "https://open.spotify.com/album/7IrVt3MHphiyhgIyz9tewr"
+      },
+      "artists": [
+        {
+          "name": "Lamar Riddick",
+          "url": "https://open.spotify.com/artist/0xMUuBXUryQ7XVhgIbAhgt"
+        },
+        {
+          "name": "Eli Williams",
+          "url": "https://open.spotify.com/artist/6cpRgzScOKkKse4SlMd97y"
+        },
+        {
+          "name": "Rapzilla",
+          "url": "https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207516,
+      "name": "Crae",
+      "url": "https://open.spotify.com/track/7rKVv3w8CKPuzEXNJTxKee"
     },
     {
       "album": {
@@ -926,10 +952,36 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 169841,
       "name": "Not Normal",
       "url": "https://open.spotify.com/track/1keMi9lLQJBOPH4Fx15oeR"
+    },
+    {
+      "album": {
+        "name": "Not Normal",
+        "url": "https://open.spotify.com/album/3JJaILxOsjmjTAbH42h9sE"
+      },
+      "artists": [
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        },
+        {
+          "name": "Rapzilla",
+          "url": "https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav"
+        },
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169841,
+      "name": "Not Normal",
+      "url": "https://open.spotify.com/track/5AtxqV1YiSWeeummpFFGQs"
     },
     {
       "album": {

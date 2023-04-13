@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Maria y la mar",
+        "url": "https://open.spotify.com/album/3iDlWCCITsHZ4suthyOzbQ"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "Maria y la mar",
+      "url": "https://open.spotify.com/track/0ThpvYh2VVpvv1U5PC5548"
+    },
+    {
+      "album": {
         "name": "Sticks & Leaves",
         "url": "https://open.spotify.com/album/2dtjSPvUANxwWzV6dia5cE"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 196733,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
@@ -3434,6 +3452,24 @@
       "duration_ms": 206684,
       "name": "Nosotros Tambi\u00e9n",
       "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
+    },
+    {
+      "album": {
+        "name": "Octopus",
+        "url": "https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Octopus",
+      "url": "https://open.spotify.com/track/5DRamynEcg9LYLBpGCRBQK"
     },
     {
       "album": {
@@ -4024,7 +4060,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 228026,
       "name": "Relato",
       "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Cub Sport
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,601 likes - 74 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,625 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 72 | [what would i give](https://open.spotify.com/track/5nalxn6TBuHgo53VGBux9F) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [what would i give](https://open.spotify.com/album/6CcSDQmpCg0JRhkP5x45Br) | 2:58 |
 | 73 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 |
 | 74 | [Running Round](https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Running Round](https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez) | 3:31 |
+| 75 | [So Hard So Hot](https://open.spotify.com/track/3EkWwQyUB220deoBPcBWZl) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [So Hard So Hot](https://open.spotify.com/album/01ixXX3vEIf4hDOmCkztMY) | 4:27 |
 
-Snapshot ID: `MTY4MDgxODQwMCwwMDAwMDAwMDkzMmMwNzQwNmM1YjkyYzQzYzY1NzQ0N2I0MTlkZThi`
+Snapshot ID: `MTY4MDgxODQwMCwwMDAwMDAwMGMyMDIxYzVjOTkyYzhkNTgxODM0YzI3NGU1NmQ3OTc4`

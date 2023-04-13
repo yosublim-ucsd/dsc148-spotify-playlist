@@ -1,12 +1,12 @@
 {
   "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Chris Tomlin",
-  "num_followers": 115510,
+  "num_followers": 115506,
   "original_name": "Easter Worship 2023",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "Njk0NSwzZmVlNWU4Y2MxYTk1NGJlNTU5NzdkMzY0ZmI5NGExOGEyMzYwMTMy",
+  "snapshot_id": "Njk0OCxiMTQ5NzEwZTIyMWU3M2E3NzdmMzc4NDIwNTBjYzVhMWRmZDMxMGQx",
   "tracks": [
     {
       "added_at": "2023-01-04 20:22:53",
@@ -23,26 +23,6 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": "2023-01-04 20:22:53",
-      "album": {
-        "name": "Awake (Deluxe)",
-        "url": "https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA"
     },
     {
       "added_at": "2023-03-31 14:13:46",
@@ -405,22 +385,6 @@
       "url": "https://open.spotify.com/track/61ZEvMGG95BCOezOxTC5dD"
     },
     {
-      "added_at": "2023-03-27 15:32:24",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
-    },
-    {
       "added_at": "2023-03-31 14:00:59",
       "album": {
         "name": "Grace (Live/Deluxe)",
@@ -435,6 +399,26 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "added_at": "2023-01-04 20:22:53",
+      "album": {
+        "name": "Awake (Deluxe)",
+        "url": "https://open.spotify.com/album/3845kDbcFRDDUHI0yVd8Km"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA"
     },
     {
       "added_at": "2023-01-04 20:22:53",
@@ -779,6 +763,22 @@
       "duration_ms": 430120,
       "name": "If I Could Have Anything",
       "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
+    },
+    {
+      "added_at": "2023-03-27 15:32:24",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
     },
     {
       "added_at": "2023-03-31 14:00:51",

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-304 songs - 13 hr 3 min
+307 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Goodbye \- Guitar Solo](https://open.spotify.com/track/1yJUM8bo9Qgg5us8WRRyBi) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Goodbye \(Guitar Solo\)](https://open.spotify.com/album/7l9VjiD9GYz7hVjaNwcXlT) | 2:30 | 2022-06-17 |  |
 | [Grab My Hand](https://open.spotify.com/track/6LhDAXww2xZbw87UmR8KKO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Grab My Hand](https://open.spotify.com/album/2XZJaBtSr3fNxgUZcmtH95) | 3:03 | 2022-06-17 |  |
 | [Gryning](https://open.spotify.com/track/1JGpZ7avpnMGA4hPairsie) | [Robert Dahlström](https://open.spotify.com/artist/7ewiuMPMerjHcRj3sSUQYi) | [Gryning](https://open.spotify.com/album/7kh7QgMnR8grQiDIjvzioU) | 3:02 | 2022-06-17 |  |
-| [Halt](https://open.spotify.com/track/6AOERFL1yqYDDP5vbxFdj8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Halt](https://open.spotify.com/album/0iVGK1eTIVQcoBAp6Pbkl5) | 1:50 | 2022-06-17 |  |
+| [Halt](https://open.spotify.com/track/18a7MSEPcnCwRaCmk9mtmK) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Halt](https://open.spotify.com/album/48OYapkDjCLZsfvTr3Rx34) | 1:50 | 2023-03-24 |  |
+| [Halt](https://open.spotify.com/track/6AOERFL1yqYDDP5vbxFdj8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Halt](https://open.spotify.com/album/0iVGK1eTIVQcoBAp6Pbkl5) | 1:50 | 2022-06-17 | 2023-04-13 |
 | [Harmony](https://open.spotify.com/track/2re37W96Vhr3f41QjBKnz2) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm) | [Harmony](https://open.spotify.com/album/5PGrycX34ugOSdh7GqtgK5) | 2:22 | 2022-11-18 |  |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 |  |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 |  |
@@ -206,7 +207,8 @@
 | [Path](https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Chris Embers](https://open.spotify.com/artist/78YcYzYQFoC44mT1rL0dsB) | [Path](https://open.spotify.com/album/0DKq6qtvTHmsJPU1OzyAZK) | 2:36 | 2022-06-17 | 2022-12-24 |
 | [Pellegrino](https://open.spotify.com/track/0mNMNk8NPcay74AHyFwzfX) | [Marega](https://open.spotify.com/artist/0Q9yTuKnZnnCAdOpAMmTjl) | [Pro Noel](https://open.spotify.com/album/0gPbklN0zJ4cZZbT0LjeAK) | 2:51 | 2022-06-17 |  |
 | [Pillow Hymn](https://open.spotify.com/track/2Etxnz6V6sZTsgaa8W6w7g) | [Laurent Ruaud](https://open.spotify.com/artist/0vCWZOklQJPdWDIMiYwP6z) | [Pillow Hymn](https://open.spotify.com/album/740VMPcRZ0LCxILPwzsPXy) | 1:29 | 2022-12-09 |  |
-| [Plain Sight](https://open.spotify.com/track/1juq7X9kZkBQN7cDo7xHW8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Plain Sight](https://open.spotify.com/album/5uef4kiFCm6nkNiqO6LoxT) | 2:07 | 2022-06-17 |  |
+| [Plain Sight](https://open.spotify.com/track/1juq7X9kZkBQN7cDo7xHW8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Plain Sight](https://open.spotify.com/album/5uef4kiFCm6nkNiqO6LoxT) | 2:07 | 2022-06-17 | 2023-04-13 |
+| [Plain Sight](https://open.spotify.com/track/77zMvw3GWNF8F8xaPW3lSX) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Avoidance](https://open.spotify.com/album/2FFFMnIXakSCPAVqpGPqi5) | 2:07 | 2023-03-24 |  |
 | [Poem No\. 5](https://open.spotify.com/track/4LEyo5Sftmy9wDZzueIvay) | [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Poem No\. 5](https://open.spotify.com/album/5m91k8wrHbFwEDlwPNgik2) | 1:33 | 2022-06-17 | 2022-09-03 |
 | [Por Cierto](https://open.spotify.com/track/6GxkZ3N4wZ8vasrQ32WeGx) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Por Cierto](https://open.spotify.com/album/1l2eYMCekxAnbam8PHtbwA) | 2:28 | 2023-01-06 |  |
 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 | 2022-10-07 |  |
@@ -299,7 +301,8 @@
 | [Vinterdans](https://open.spotify.com/track/6FsdYdezXttjTiaZ8UIBEw) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Vinterdans](https://open.spotify.com/album/2fdD6XGCkmAH0ePjaPIb6t) | 2:14 | 2022-06-17 |  |
 | [Vulnerable](https://open.spotify.com/track/4cSYj0c4ua1PKVbdMv3C1D) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [Vulnerable](https://open.spotify.com/album/0A6MwzGufkIBqct3zvByBp) | 2:09 | 2022-06-17 | 2022-09-03 |
 | [Wallowa Lake](https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Abisko](https://open.spotify.com/album/1A3JJkrUlV2FBSV6oY412c) | 3:07 | 2022-06-17 |  |
-| [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 | 2022-06-17 |  |
+| [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 | 2022-06-17 | 2023-04-13 |
+| [Wayside](https://open.spotify.com/track/6CBBglnS5LlPhAAVlexAYt) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/6Mmo52kGpB7c0Hg2UiM9hW) | 2:13 | 2023-03-24 |  |
 | [We Wonder](https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [We Wonder](https://open.spotify.com/album/3JIEf7Gw6toZP3YOHZwAmC) | 2:08 | 2022-06-17 |  |
 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 | 2022-07-29 | 2022-08-05 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 |  |

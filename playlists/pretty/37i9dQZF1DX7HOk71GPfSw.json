@@ -1,29 +1,13 @@
 {
   "description": "this heylog song is crazy. Cover: 100 gecs",
-  "num_followers": 376064,
+  "num_followers": 376511,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNDcyNywwMDAwMDAwMGNhMTZmMjVkZjNmOTM5YTM2YzJkODlkMjhkMTdkODdm",
+  "snapshot_id": "MTY4MTMwODA1NSwwMDAwMDAwMGEzYjZkNGQ4MjhlMGYzYmUwODg0MDIxMGNhZWQwYWRh",
   "tracks": [
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 126426,
-      "name": "757",
-      "url": "https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd"
-    },
     {
       "added_at": "2023-04-11 14:52:07",
       "album": {
@@ -49,20 +33,20 @@
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
+      "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Lunch",
-        "url": "https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe"
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         }
       ],
-      "duration_ms": 172629,
-      "name": "Lunch",
-      "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
+      "duration_ms": 126426,
+      "name": "757",
+      "url": "https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd"
     },
     {
       "added_at": "2023-03-30 15:35:00",
@@ -81,6 +65,38 @@
       "url": "https://open.spotify.com/track/4ysStr4DagYqkaCbTPWqHe"
     },
     {
+      "added_at": "2023-04-12 14:00:55",
+      "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 110510,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "Lunch",
+        "url": "https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 172629,
+      "name": "Lunch",
+      "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Freak Mode",
@@ -97,22 +113,6 @@
       "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
     },
     {
-      "added_at": "2023-04-11 14:52:07",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/59TOwrpPodcXZvs82NdWuh"
-      },
-      "artists": [
-        {
-          "name": "Harel Atias",
-          "url": "https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8"
-        }
-      ],
-      "duration_ms": 171381,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2jw4OPeG1bhHtJTDTuCHE4"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "update failed",
@@ -127,6 +127,22 @@
       "duration_ms": 226736,
       "name": "update failed",
       "url": "https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7"
+    },
+    {
+      "added_at": "2023-03-07 05:00:00",
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -199,6 +215,22 @@
       "duration_ms": 130666,
       "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
+    },
+    {
+      "added_at": "2023-04-11 14:52:07",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/59TOwrpPodcXZvs82NdWuh"
+      },
+      "artists": [
+        {
+          "name": "Harel Atias",
+          "url": "https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8"
+        }
+      ],
+      "duration_ms": 171381,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2jw4OPeG1bhHtJTDTuCHE4"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -283,22 +315,6 @@
       "duration_ms": 134397,
       "name": "Come 2 Brazil",
       "url": "https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F"
-    },
-    {
-      "added_at": "2023-03-07 05:00:00",
-      "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2023-03-24 04:01:00",

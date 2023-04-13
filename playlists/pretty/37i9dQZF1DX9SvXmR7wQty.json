@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Choses Sauvages",
-  "num_followers": 36275,
+  "num_followers": 36282,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDgwYmQ1YTExNGRmYTI1YzBkMTFkZmJmYzFmOWJmYmQx",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDM0YWU1NjA3MTM3MTJjZTRiYjk2NTBjN2UzNGU1YmY3",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Nous deux",
+      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Loup blanc",
         "url": "https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 160897,
       "name": "Loup blanc",
       "url": "https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "FAM",
-        "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        }
-      ],
-      "duration_ms": 173041,
-      "name": "FAM",
-      "url": "https://open.spotify.com/track/0PrBe0j3bFmVjkGAx0nRIW"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
+        "name": "FAM",
+        "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
+      "duration_ms": 173041,
+      "name": "FAM",
+      "url": "https://open.spotify.com/track/0PrBe0j3bFmVjkGAx0nRIW"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -379,22 +379,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "C'est dr\u00f4le la vie",
-        "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
+        "name": "uet",
+        "url": "https://open.spotify.com/album/72KOX2Y7P9LoTWgv7zKNPy"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
         },
         {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+          "name": "amne",
+          "url": "https://open.spotify.com/artist/0YsYu70SjjExKUAsMZ9yAO"
         }
       ],
-      "duration_ms": 167146,
-      "name": "L'amour",
-      "url": "https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA"
+      "duration_ms": 150053,
+      "name": "uet",
+      "url": "https://open.spotify.com/track/2tUfesk6jwISYkygWV9481"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "uet",
-        "url": "https://open.spotify.com/album/72KOX2Y7P9LoTWgv7zKNPy"
+        "name": "C'est dr\u00f4le la vie",
+        "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
       },
       "artists": [
         {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         },
         {
-          "name": "amne",
-          "url": "https://open.spotify.com/artist/0YsYu70SjjExKUAsMZ9yAO"
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
         }
       ],
-      "duration_ms": 150053,
-      "name": "uet",
-      "url": "https://open.spotify.com/track/2tUfesk6jwISYkygWV9481"
+      "duration_ms": 167146,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "La Masia",
-        "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
-      },
-      "artists": [
-        {
-          "name": "L'Allemand",
-          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
-        }
-      ],
-      "duration_ms": 142868,
-      "name": "La Masia",
-      "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "C'est mon ann\u00e9e",
         "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
       },
@@ -507,38 +491,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Dans cent ans",
-        "url": "https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb"
+        "name": "La Masia",
+        "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
       },
       "artists": [
         {
-          "name": "Flavien Berger",
-          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+          "name": "L'Allemand",
+          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
         }
       ],
-      "duration_ms": 139826,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "R\u00eave",
-        "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 189561,
-      "name": "R\u00eave",
-      "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
+      "duration_ms": 142868,
+      "name": "La Masia",
+      "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -563,18 +527,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Chaud",
-        "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
+        "name": "R\u00eave",
+        "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
       },
       "artists": [
         {
-          "name": "KIKESA",
-          "url": "https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY"
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
         }
       ],
-      "duration_ms": 128720,
-      "name": "Chaud",
-      "url": "https://open.spotify.com/track/0vjRWn9TkzH3P8iRqkiHNS"
+      "duration_ms": 189561,
+      "name": "R\u00eave",
+      "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -595,6 +563,38 @@
       "duration_ms": 173253,
       "name": "Joli c\u0153ur",
       "url": "https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Chaud",
+        "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
+      },
+      "artists": [
+        {
+          "name": "KIKESA",
+          "url": "https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY"
+        }
+      ],
+      "duration_ms": 128720,
+      "name": "Chaud",
+      "url": "https://open.spotify.com/track/0vjRWn9TkzH3P8iRqkiHNS"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Dans cent ans",
+        "url": "https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb"
+      },
+      "artists": [
+        {
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN"
     },
     {
       "added_at": "2023-04-07 04:01:00",

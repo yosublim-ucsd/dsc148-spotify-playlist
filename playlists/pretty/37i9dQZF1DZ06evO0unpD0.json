@@ -1,35 +1,15 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 9617,
+  "num_followers": 9621,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjAyNDcsMDAwMDAwMDA1YWJhNGFmOGVkZTQ4MmY2Mzc4YjMzMzAzYzcyNjlkOA==",
+  "snapshot_id": "MjgwMjE2OTQsMDAwMDAwMDAwZmU5MDhkYzg1NjUwMjhkZTJhYTEwYmJlZGIwN2QzNA==",
   "tracks": [
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H"
-      },
-      "artists": [
-        {
-          "name": "Haska",
-          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Moffou (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
@@ -49,7 +29,27 @@
       "url": "https://open.spotify.com/track/1bhld9Fgp9UClF0xHCPFpB"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H"
+      },
+      "artists": [
+        {
+          "name": "Haska",
+          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 175612,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "So Far",
         "url": "https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Djourou",
         "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
@@ -89,27 +89,7 @@
       "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Munia (The Tale)",
-        "url": "https://open.spotify.com/album/3xx2olJMUd5uONMZxPhFWZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Kalabancoro",
-      "url": "https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -129,7 +109,27 @@
       "url": "https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Munia (The Tale)",
+        "url": "https://open.spotify.com/album/3xx2olJMUd5uONMZxPhFWZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Kalabancoro",
+      "url": "https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3X5DsFLC21SszwoMrXjBLg"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 318680,
-      "name": "Dery",
-      "url": "https://open.spotify.com/track/5Myi7wMoZqQMLIU2vH1nyB"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -193,7 +177,23 @@
       "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 318680,
+      "name": "Dery",
+      "url": "https://open.spotify.com/track/5Myi7wMoZqQMLIU2vH1nyB"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -225,23 +225,7 @@
       "url": "https://open.spotify.com/track/1t3VPximsjaFxB6umra1VM"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 448960,
-      "name": "Laban",
-      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -257,7 +241,23 @@
       "url": "https://open.spotify.com/track/2dxoXGCW84TWOP3SDRXYq8"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 448960,
+      "name": "Laban",
+      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/0zQ2Ojoj3K0LzgqR9xYcOO"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Vestido de Amor",
         "url": "https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ"
@@ -293,23 +293,7 @@
       "url": "https://open.spotify.com/track/1NvxtekkTSINREzraxen7q"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 358173,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -325,7 +309,23 @@
       "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 358173,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Cesaria Evora &...",
         "url": "https://open.spotify.com/album/465DTu20b6QFSOmMRDcyhP"
@@ -361,23 +361,7 @@
       "url": "https://open.spotify.com/track/4bRHRO9c8Irm4WVp7foB2k"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 530186,
-      "name": "M'Bemba",
-      "url": "https://open.spotify.com/track/4oaahUdtJfsBA8HipvnbSm"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -397,7 +381,23 @@
       "url": "https://open.spotify.com/track/17tsY0rbQfpQgWLKgl8xbT"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 530186,
+      "name": "M'Bemba",
+      "url": "https://open.spotify.com/track/4oaahUdtJfsBA8HipvnbSm"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
@@ -437,23 +437,7 @@
       "url": "https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 377480,
-      "name": "Ana Na Ming",
-      "url": "https://open.spotify.com/track/5ieZTFPrAD1BHBTF0amnyF"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -469,10 +453,10 @@
       "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
       },
       "artists": [
         {
@@ -480,12 +464,12 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Sina (Soumbouya)",
-      "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
+      "duration_ms": 377480,
+      "name": "Ana Na Ming",
+      "url": "https://open.spotify.com/track/5ieZTFPrAD1BHBTF0amnyF"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -501,23 +485,7 @@
       "url": "https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 418186,
-      "name": "Katolon",
-      "url": "https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -533,7 +501,39 @@
       "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Sina (Soumbouya)",
+      "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 418186,
+      "name": "Katolon",
+      "url": "https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
@@ -549,39 +549,7 @@
       "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "The Mansa Of Mali ... A Retrospective",
-        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Djembe",
-      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 283520,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -597,7 +565,39 @@
       "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "The Mansa Of Mali ... A Retrospective",
+        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Djembe",
+      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 283520,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/3ONfiEPnapVGBui8Wa3EgB"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "M'Bemba",
         "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
@@ -629,7 +629,23 @@
       "url": "https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 330240,
+      "name": "Tono",
+      "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Bamako",
         "url": "https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw"
@@ -681,71 +697,7 @@
       "url": "https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 330240,
-      "name": "Tono",
-      "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Iniagige",
-      "url": "https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 373973,
-      "name": "Yambo",
-      "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
-      "album": {
-        "name": "The Mansa Of Mali ... A Retrospective",
-        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 364600,
-      "name": "Ignadjidje",
-      "url": "https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP"
-    },
-    {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Africa Rising Vol.2",
         "url": "https://open.spotify.com/album/14HCDahvIyixSHE6F15vvK"
@@ -761,7 +713,55 @@
       "url": "https://open.spotify.com/track/1oAM55oTaAwYWxH2jNISgy"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Iniagige",
+      "url": "https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "The Mansa Of Mali ... A Retrospective",
+        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 364600,
+      "name": "Ignadjidje",
+      "url": "https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 373973,
+      "name": "Yambo",
+      "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"
+    },
+    {
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/6DfYnlR5IrPzVJ4lPhtU6E"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu"
     },
     {
-      "added_at": "2023-04-11 12:07:28",
+      "added_at": "2023-04-12 12:14:12",
       "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"

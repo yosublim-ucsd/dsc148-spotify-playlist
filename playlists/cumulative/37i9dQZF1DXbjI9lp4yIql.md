@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-119 songs - 8 hr 2 min
+121 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Gimme Tha Power \- En Vivo Desde Rusia/2010](https://open.spotify.com/track/0Hj07dMek52Z90S7H9MnfE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Desde Rusia Con Amor](https://open.spotify.com/album/7nMFp8S29V0rzGGpR65BmA) | 4:20 | 2023-03-30 |  |
 | [Guaca Rock De La Malinche](https://open.spotify.com/track/2IZjCGng9pi0s8T1eVbP3x) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 3:24 | 2023-03-30 |  |
 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 | 2023-03-30 |  |
-| [Hombres de hierro](https://open.spotify.com/track/5YcGLMLhYZlFznMAUbp8fs) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 4:37 | 2023-03-30 |  |
+| [Hombres de hierro](https://open.spotify.com/track/2JYIwI2gvuUbvEJdmJ7Aqn) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 4:37 | 2023-03-30 |  |
+| [Hombres de hierro](https://open.spotify.com/track/5YcGLMLhYZlFznMAUbp8fs) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 4:37 | 2023-03-30 | 2023-04-13 |
 | [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-03-30 |  |
 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 | 2023-03-30 |  |
 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 | 2023-03-30 |  |
@@ -114,7 +115,8 @@
 | [Soñé](https://open.spotify.com/track/4oMaBqivBDg7ID3EHtydeX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:17 | 2023-03-30 |  |
 | [Sudamérica o el Regreso a la Aurora](https://open.spotify.com/track/4I07jDewIc9GEUYq62QZ8N) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Sudamérica o el Regreso a la Aurora](https://open.spotify.com/album/6BIydkram8hHXGC8v5wQmQ) | 3:28 | 2023-03-30 |  |
 | [Sólo Le Pido A Dios](https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Desenchufado](https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI) | 4:08 | 2023-03-30 |  |
-| [Sólo Le Pido A Dios](https://open.spotify.com/track/5ch1mwVQjqxC0XsRgwG2om) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [7 Años](https://open.spotify.com/album/1GUZb4lJhFrblNvV1BlKAE) | 4:35 | 2023-03-30 |  |
+| [Sólo Le Pido A Dios](https://open.spotify.com/track/5ch1mwVQjqxC0XsRgwG2om) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [7 Años](https://open.spotify.com/album/1GUZb4lJhFrblNvV1BlKAE) | 4:35 | 2023-03-30 | 2023-04-13 |
+| [Sólo Le Pido A Dios \- Live](https://open.spotify.com/track/5V0WkSQiOubrM8whhQbyVI) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [7 Años](https://open.spotify.com/album/7nv3RirlkLNku5KQ29HU6j) | 4:35 | 2023-03-30 |  |
 | [Sólo Sentir](https://open.spotify.com/track/4l14gltmWQ9d8NuRs6ZTlW) | [Neón](https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC) | [Divisiones](https://open.spotify.com/album/06vCeBgfbr1CgucjKuDs1X) | 3:27 | 2023-03-30 |  |
 | [Tercer mundo](https://open.spotify.com/track/1ghh6SYvZNlgcGFxDIupw7) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tercer Mundo](https://open.spotify.com/album/1qrBKmoNZrXtBnonrHSYsx) | 4:44 | 2023-03-30 |  |
 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 | 2023-03-30 |  |

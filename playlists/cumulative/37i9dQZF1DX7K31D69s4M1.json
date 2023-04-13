@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 120985,
       "name": "A Breath / A Pause",
       "url": "https://open.spotify.com/track/6gX8Q0RJqwTAB8QEQpdYMq"
@@ -1562,6 +1562,24 @@
       "duration_ms": 177672,
       "name": "Annihilation of the Ego",
       "url": "https://open.spotify.com/track/3fRPBbL0kERuyoApsRX4dm"
+    },
+    {
+      "album": {
+        "name": "Anointed",
+        "url": "https://open.spotify.com/album/39CNJPF5pFr35SjTYMDWjE"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121875,
+      "name": "Anointed",
+      "url": "https://open.spotify.com/track/1Rl0houECoVSeNPp8VXC1m"
     },
     {
       "album": {
@@ -3618,6 +3636,28 @@
       "duration_ms": 174000,
       "name": "Cinematique",
       "url": "https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z"
+    },
+    {
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/0Q4SxYz6XkJpgWt7LLtGY9"
+      },
+      "artists": [
+        {
+          "name": "Garreth Broke",
+          "url": "https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx"
+        },
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/30WIxR8cPe7BFoMiaZs5SA"
     },
     {
       "album": {
@@ -10073,6 +10113,24 @@
     },
     {
       "album": {
+        "name": "In Three Times",
+        "url": "https://open.spotify.com/album/3delB5I5sP74zsVtzd4yf4"
+      },
+      "artists": [
+        {
+          "name": "ODELIO",
+          "url": "https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135150,
+      "name": "In Three Times",
+      "url": "https://open.spotify.com/track/3XPVVb16gMFT9PFAGcKsNq"
+    },
+    {
+      "album": {
         "name": "Incandescence",
         "url": "https://open.spotify.com/album/3OnOWPTEYMqhOn7SnFoyBO"
       },
@@ -11222,7 +11280,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 221000,
       "name": "La Gondola",
       "url": "https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo"
@@ -11618,7 +11676,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 170207,
       "name": "Lavandula",
       "url": "https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z"
@@ -12396,7 +12454,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 129000,
       "name": "Little Flower",
       "url": "https://open.spotify.com/track/7tSuMXNWmgDl2jED1hpLX5"
@@ -24139,6 +24197,24 @@
     },
     {
       "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/0NXTFJzKJQHBesApm2n1wT"
+      },
+      "artists": [
+        {
+          "name": "Alice Frohde",
+          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134472,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/6yyGhhDGQAH4s8aAbMNO0E"
+    },
+    {
+      "album": {
         "name": "Velvet Head",
         "url": "https://open.spotify.com/album/3aYUpnis3GFRuCINuhpi8E"
       },
@@ -24258,7 +24334,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 146069,
       "name": "Vestrahorn",
       "url": "https://open.spotify.com/track/0OmfHQzJRIhMCxFWsoDRAo"
@@ -24744,7 +24820,7 @@
       ],
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 124750,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z"
@@ -25468,6 +25544,24 @@
       "duration_ms": 174528,
       "name": "Wishful Wanderer",
       "url": "https://open.spotify.com/track/5husUYtd9ElDB9PD4HydC0"
+    },
+    {
+      "album": {
+        "name": "With Ease",
+        "url": "https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c"
+      },
+      "artists": [
+        {
+          "name": "Loumi Des Moines",
+          "url": "https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "With Ease",
+      "url": "https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT"
     },
     {
       "album": {

@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Punja Daab",
+        "url": "https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214540,
+      "name": "Punja Daab",
+      "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "album": {
         "name": "Hustle 2.0",
         "url": "https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS"
       },

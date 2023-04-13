@@ -1857,6 +1857,32 @@
     },
     {
       "album": {
+        "name": "Nuvvunte Chaalu (From \"Rudhurudu\")",
+        "url": "https://open.spotify.com/album/0T4mEjDL3HVG3vEwOEuXIf"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252682,
+      "name": "Nuvvunte Chaalu - From \"Rudhurudu\"",
+      "url": "https://open.spotify.com/track/1JWFAxXYPU4hwK3B0Kk2Of"
+    },
+    {
+      "album": {
         "name": "O Cheli Anarkhali (From \"Nachindi Girl Friendu\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/2TTmIcGu9BzL3JSRX2DDdQ"
       },

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-882 songs - 2 day 0 hr 32 min
+883 songs - 2 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Get Your Money](https://open.spotify.com/track/2Nk1gAqXytbhryuGmm84I5) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get Your Money](https://open.spotify.com/album/6p6WEfnvtKxEk7eY5Wohw3) | 3:50 | 2021-04-24 | 2021-05-29 |
 | [Girls](https://open.spotify.com/track/5HwuXxHQsHptTQPgFPOc2C) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Girls](https://open.spotify.com/album/3v9d9gmeLR3CQ2Yz2Q7rgY) | 3:00 | 2021-03-14 | 2022-04-21 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-08-18 |  |
+| [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-04-06 |  |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-07-14 | 2022-07-30 |
 | [Glass](https://open.spotify.com/track/3YWp8LJGYmSqJSLGCYEI7D) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Glass EP](https://open.spotify.com/album/7aPsFJFWNvRSD4IMCohtUy) | 6:03 | 2022-04-29 | 2022-05-14 |
 | [Go Bang \- Flash 89 Remix](https://open.spotify.com/track/7eh8IA9FUenXc9LZczIxIs) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Flash '89](https://open.spotify.com/artist/6IQkgMtOxGbdpsDxvw8qTO) | [Go Bang \(Remixes\)](https://open.spotify.com/album/5ylV23K7fpFTtdoiemVDPQ) | 5:15 | 2020-05-22\* | 2021-12-21 |
@@ -609,7 +610,7 @@
 | [Perth](https://open.spotify.com/track/2jjXzs4XS9Kcmf9iSUbYuU) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Playground](https://open.spotify.com/album/5VSifRv9hr6vVNCNJ8j9lq) | 5:22 | 2022-07-14 | 2022-07-30 |
 | [Physical \- Claptone Remix](https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Physical \(Remixes\)](https://open.spotify.com/album/7jZt48FNrqTEO8SFaZHwl7) | 3:09 | 2020-05-22\* | 2022-07-02 |
 | [Players \(with David Guetta\) \- David Guetta Remix](https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Players \(David Guetta Remix\)](https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu) | 2:32 | 2023-03-27 |  |
-| [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-07-14 |  |
+| [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-07-14 | 2023-04-13 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-05-08 | 2022-04-19 |
 | [Pop That](https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX) | 3:37 | 2020-12-13 | 2021-10-11 |
 | [Post Malone \(feat\. RANI\) \- GATTÜSO Remix](https://open.spotify.com/track/6b1RNvAcJjQH73eZO4BLAB) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Post Malone \(feat\. RANI\) \[GATTÜSO Remix\]](https://open.spotify.com/album/6703SRPsLkS4bPtMFFJes1) | 3:27 | 2020-08-04 | 2021-12-09 |

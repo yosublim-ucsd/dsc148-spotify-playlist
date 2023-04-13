@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Estevie & DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,109 likes - 52 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,151 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 |
+| 1 | [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 |
 | 2 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 |
 | 3 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
 | 4 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Aguafría](https://open.spotify.com/track/1vq4HMWOywq4FisI62XOmc) | [José Cayetano](https://open.spotify.com/artist/0ZzqP0GsvuDLo3NMvk4RrY) | [Aguafría](https://open.spotify.com/album/08m85kEmFA8LBUc06pmaZi) | 3:54 |
 | 52 | [Corazón Frío](https://open.spotify.com/track/5Ix7kzOMpmCrNBZ0Wc0uNT) | [Davo](https://open.spotify.com/artist/6bXwSRTVIBHKPJ2kE9gS80) | [Corazón Frío](https://open.spotify.com/album/2cx99ZniHdOpT8M2GA6nvi) | 3:16 |
 
-Snapshot ID: `MTY4MDg5NDE2MiwwMDAwMDAwMDVhNjliNWZhNTgxNzBhMTYxMjFmM2Q0MzlhZDljYjBm`
+Snapshot ID: `MTY4MDg5NDE2MiwwMDAwMDAwMDBhZTczYjQwOTY3MWFkZjUzYzVhMzZiMDYzMDc4YWMy`

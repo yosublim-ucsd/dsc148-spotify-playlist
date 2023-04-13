@@ -1,13 +1,29 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 862543,
+  "num_followers": 862856,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDFhYmIxOTc2MDRhYTVmMDhmZDQ1Mjc4NTFiNzZkMGNh",
+  "snapshot_id": "MTY4MTMyNTg5NSwwMDAwMDAwMGQ1NTAyNDc1NjVjYjcwMDRlYTQ5ODIwNmY5OGIxZjQ0",
   "tracks": [
+    {
+      "added_at": "2023-04-12 18:58:15",
+      "album": {
+        "name": "Crushxd",
+        "url": "https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Crushxd",
+      "url": "https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So"
+    },
     {
       "added_at": "2023-04-05 13:53:02",
       "album": {

@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-138 songs - 8 hr 29 min
+140 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [BIG](https://open.spotify.com/track/2Vbl3bHFd4vlc6WSgMbfbX) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [BIG](https://open.spotify.com/album/78UBl7rvKtr1BMdKT7Rfnb) | 3:38 | 2022-09-14 |  |
 | [Black Love](https://open.spotify.com/track/60mKQHD4tf5NrzconZVeyV) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH) | [Black Love](https://open.spotify.com/album/63f5qxkrMMabbh7cb1iubV) | 3:52 | 2022-09-14 |  |
 | [Boogie Man](https://open.spotify.com/track/1ZgD3hoPFZUj4JKLVnW0KF) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ), [Jimmy Bryant](https://open.spotify.com/artist/6IKq5gnh3GQrnxztypZKZR) | [For the Last Time](https://open.spotify.com/album/2rQafUioxY5UDqcwyFzaim) | 2:49 | 2022-09-14 |  |
-| [Broken Home](https://open.spotify.com/track/5HkrOPVgvScZfMvaF4YdA2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Broken Home](https://open.spotify.com/album/5Ds8eIOH8MuWTFTLWqKI30) | 3:09 | 2022-09-14 |  |
+| [Broken Home](https://open.spotify.com/track/5HkrOPVgvScZfMvaF4YdA2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Broken Home](https://open.spotify.com/album/5Ds8eIOH8MuWTFTLWqKI30) | 3:09 | 2022-09-14 | 2023-04-13 |
+| [Broken Home](https://open.spotify.com/track/76epGKVhxWA7gEYcjAs3em) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 3:09 | 2022-09-15 |  |
 | [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 | 2022-09-14 |  |
 | [Bunyip Beat](https://open.spotify.com/track/6bE1EoIVfevON0AGoWiOtc) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc) | [Red Rock](https://open.spotify.com/album/1RZYk73el9pnwTasNIPPg5) | 6:18 | 2022-09-14 |  |
 | [Bussit](https://open.spotify.com/track/2rniJeDskk1s6xOcfio3RV) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr) | [Bussit](https://open.spotify.com/album/0z5TThA7B6lgdk0z4uX4qB) | 2:50 | 2022-09-14 |  |
@@ -54,7 +55,8 @@
 | [Ego](https://open.spotify.com/track/698bVkLUnvCIVrpPv2pHgC) | [Strawbz](https://open.spotify.com/artist/7w2jkQBOxdnwUOLxom93l3) | [Ego](https://open.spotify.com/album/4o7EqM5k7ybSZqkWWkHuuv) | 3:06 | 2022-09-16 |  |
 | [Eshay](https://open.spotify.com/track/3mDL5BWuaVwXFAhZMWp88E) | [Gucci Dassy](https://open.spotify.com/artist/4xhGRFsiALp1uDKt0FMaGf) | [Eshay](https://open.spotify.com/album/0QfGGytvuz1ORWR5kZRiZJ) | 3:09 | 2022-09-14 |  |
 | [Every Hour](https://open.spotify.com/track/7EB73Nrmwa7WsuTYJiPV1m) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Every Hour](https://open.spotify.com/album/144pUjsOWPXqbMkArgeOqC) | 3:22 | 2022-09-14 |  |
-| [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 | 2022-09-14 |  |
+| [Everyday](https://open.spotify.com/track/3gO9EjA1fyvkbIPfcCy1wF) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 2:51 | 2022-09-15 |  |
+| [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 | 2022-09-14 | 2023-04-13 |
 | [Evoke the Sleep](https://open.spotify.com/track/4mtxoRjuufQebBDrZGeBHI) | [Nun](https://open.spotify.com/artist/32FbyysOUhfSFw2DgGNshC) | [Nun](https://open.spotify.com/album/7JRk6JUMshWJnhJwgSOGUH) | 2:55 | 2022-09-14 |  |
 | [Falling \(II\)](https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/1O8OEGnOLX4enDJCYTTmKg) | 6:56 | 2022-09-14 |  |
 | [FEAST](https://open.spotify.com/track/0DOLtp6s57C6m9XoWYXGOP) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/5vK9jIuOLfuQGyVo6HFisg) | 2:05 | 2022-09-16 |  |

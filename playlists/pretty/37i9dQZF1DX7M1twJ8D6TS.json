@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 118263,
+  "num_followers": 118364,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDY3ZWU5MTA4NGVlODk1ZDdmMWUwODgwMTViZWU5NWVj",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDU2ZDk0Y2JkMDVhNTQ3M2U0MDY5ZjY1ZmNjN2M3ZmRk",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Unwanted Man",
-        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Unwanted Man",
-      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Leanna",
         "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 225500,
       "name": "Around Forever",
       "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Unwanted Man",
+      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
-      "added_at": "2023-04-12 00:51:59",
+      "added_at": "2023-04-13 01:25:10",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/6ZdP5o3oXMpIsYCYBU6pRu"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 287031,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Palo Duro",
         "url": "https://open.spotify.com/album/7Itz6S4CkB1xRb7649weHa"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 201826,
       "name": "I'm Not Alright",
       "url": "https://open.spotify.com/track/3PURovRKyJaBmgzPfmMJ4O"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/6ZdP5o3oXMpIsYCYBU6pRu"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 287031,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Bad Reputation",
-        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "American Soul",
         "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 189045,
       "name": "Boots",
       "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Bad Reputation",
+        "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
-      "added_at": "2023-04-12 00:51:59",
+      "added_at": "2023-04-13 01:25:10",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Dos Corazones",
-        "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 249892,
-      "name": "A Cowgirl Like You",
-      "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 235853,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Dos Corazones",
+        "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "duration_ms": 249892,
+      "name": "A Cowgirl Like You",
+      "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
-      },
-      "artists": [
-        {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Don't Want To Go Home",
         "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 183666,
       "name": "Don't Want to Go Home",
       "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
+      },
+      "artists": [
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 184644,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     },
     {
       "added_at": "2022-05-27 04:00:00",

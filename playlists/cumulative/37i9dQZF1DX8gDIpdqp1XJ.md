@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-754 songs - 2 day 1 hr 41 min
+755 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Cowboy Lightning](https://open.spotify.com/track/0rt3sWILxbL2k7OtUS65UA) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz) | [Cowboy Lightning](https://open.spotify.com/album/5yTD5iXuXklwMpJ4zpBtid) | 2:33 | 2021-04-02 | 2022-04-18 |
 | [crawling in my skin \- Actress Remix](https://open.spotify.com/track/6o2gZ4wrIQB7DGAaGVxt9S) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [crawling in my skin / circle the drain \(remixes\)](https://open.spotify.com/album/4uu17h3whkoTUaWIDZiZH6) | 4:28 | 2021-04-02 | 2022-07-26 |
 | [Crew](https://open.spotify.com/track/5ke6QxUNkKCLJuDPRdvJLv) | [Worn\-Tin](https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9) | [Cycles](https://open.spotify.com/album/5Ei8BWhqA0t73daae7rHKT) | 6:39 | 2021-04-02 | 2022-04-20 |
+| [Crushxd](https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Crushxd](https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo) | 3:06 | 2023-04-12 |  |
 | [Crystalline](https://open.spotify.com/track/7fqjVY7DlXvxCTXEm7BXrq) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [Crystalline](https://open.spotify.com/album/3lA1XSfescon68eE0ClZFG) | 4:29 | 2021-04-02 | 2022-04-19 |
 | [curl your toes, clench your fists](https://open.spotify.com/track/5Y4QJNJ1Ebr7aCkRuhEUhf) | [Slugabed](https://open.spotify.com/artist/7lGyDgJJYSgOd9R5T4Cwe4), [Miles Spilsbury](https://open.spotify.com/artist/23ZeblILk9U5IlYwQlacaq) | [curl your toes, clench your fists](https://open.spotify.com/album/6sZbrZyD6a9fOyep454rLv) | 7:14 | 2021-06-04 | 2022-07-09 |
 | [D.M.T.](https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [D.M.T.](https://open.spotify.com/album/0BEeSBYWiBLAqFMBVOLyUl) | 3:54 | 2021-06-04 | 2022-07-23 |

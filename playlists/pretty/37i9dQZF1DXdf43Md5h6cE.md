@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,171 likes - 112 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,356 likes - 112 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 7 | [Eclipse](https://open.spotify.com/track/7BnfMue7oWPC0PO7zfPQAE) | [iamrw](https://open.spotify.com/artist/6Oo1b13eDooVjwNQHiFd5c) | [That Summer When We Met](https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2) | 2:12 |
 | 8 | [Balance](https://open.spotify.com/track/5eauVhGJ1oGVTJNZYxFPXC) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Balance](https://open.spotify.com/album/170o62xFHJuTD2enmXU0CE) | 2:06 |
 | 9 | [Fairy Light](https://open.spotify.com/track/5xGPWuqxOJbw2xs6FRI59G) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Fairy Light](https://open.spotify.com/album/13vaFAUPTL3Tf1DepswBgk) | 2:47 |
-| 10 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Sleep Spa Meditation](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 |
+| 10 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Spatial Sequence](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 |
 | 11 | [End](https://open.spotify.com/track/4XkGJeHgiHUL8vfdBEIXJQ) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [End](https://open.spotify.com/album/2exrOtKbVh64QQDso349Nk) | 3:00 |
 | 12 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 |
 | 13 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 |

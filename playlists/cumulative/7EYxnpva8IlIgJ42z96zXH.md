@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-635 songs - 1 day 9 hr 36 min
+636 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-03-01 | 2022-07-01 |
 | [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-03 |  |
 | [Reaching Out \(feat\. Bow Anderson\)](https://open.spotify.com/track/4X3gp6mVY0GHEVuyLZAUWE) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Reaching Out \(feat\. Bow Anderson\)](https://open.spotify.com/album/2I2M3fYVyRjdO6XBTX0GBj) | 2:14 | 2021-08-25 | 2021-09-04 |
+| [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2023-04-12 |  |
 | [Real Life](https://open.spotify.com/track/69kVpPTfo3XH5hOk7FAKf4) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Real Life](https://open.spotify.com/album/0n6dUiHzlhaxiA59uYUWQP) | 2:48 | 2022-06-03 | 2022-06-10 |
 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 | 2022-07-01 | 2022-08-20 |
 | [Real Love \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/7BxIvkfVSgoUUlDcBVff61) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 | 2021-10-09 | 2021-10-22 |
@@ -552,7 +553,7 @@
 | [The Preacher](https://open.spotify.com/track/4p712lWvVjVywKf5YjqZ9E) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [The Preacher](https://open.spotify.com/album/5SRB7lF2tf0gVaG8uYUYP3) | 2:40 | 2022-05-13 | 2022-06-10 |
 | [The Preacher \- Sammy Porter Remix](https://open.spotify.com/track/44S2otXl8vsclQk3CCQVPQ) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [The Preacher \(Sammy Porter Remix\)](https://open.spotify.com/album/63eNLxpgrHM0bxfAvHm08R) | 4:00 | 2022-07-29 | 2022-08-27 |
 | [The Rain 2021](https://open.spotify.com/track/1EZYIfQSW2cpYyIeZr9akj) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Earthquake](https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4) | 3:17 | 2021-10-08 | 2021-10-29 |
-| [The Spot](https://open.spotify.com/track/5Hay8vuY89IrPOFgz9rGrx) | [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [The Spot](https://open.spotify.com/album/5IsMZJfuVM307aHNWmFMqD) | 2:57 | 2023-02-03 |  |
+| [The Spot](https://open.spotify.com/track/5Hay8vuY89IrPOFgz9rGrx) | [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [The Spot](https://open.spotify.com/album/5IsMZJfuVM307aHNWmFMqD) | 2:57 | 2023-02-03 | 2023-04-13 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-11 | 2023-02-04 |
 | [The Weekend](https://open.spotify.com/track/4fGIvz5Yc6Xp03JNCNiE09) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Black Diamond](https://open.spotify.com/album/5cM7qaXIxDHlVxZBROONEV) | 3:34 | 2022-11-18 | 2022-12-16 |
 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 | 2023-01-27 | 2023-02-10 |

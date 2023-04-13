@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,396 likes - 111 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,388 likes - 111 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 9 | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [The Simpsons](https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a) | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY) | 2:02 |
 | 10 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
 | 11 | [It’s The Most Wonderful Time Of The Year](https://open.spotify.com/track/4LXhkiy0GcyHhXXyscUkeN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/2HX22KUfq3ByM0v5TdHjjo) | 2:30 |
-| 12 | [Santa Shimmy](https://open.spotify.com/track/1TStrtvufeRfHOG7ItASvW) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/1rstp3wPLzKWvJpu69Oy5K) | 2:23 |
+| 12 | [Santa Shimmy](https://open.spotify.com/track/2weFohLuMJjpnFGGFEBsYm) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/7gnhshacak6BO7hSdGe77B) | 2:23 |
 | 13 | [All The Children](https://open.spotify.com/track/5lpoogZcerFwUQdgrREJ2X) | [Gummibär](https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G) | [All The Children](https://open.spotify.com/album/28peZvLZSm5izgtbWIhMWd) | 3:23 |
 | 14 | [Let It Snow \(with Babyface\)](https://open.spotify.com/track/3BhlC2eX8obANfmLEwo1ia) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Let It Snow \(with Babyface\)](https://open.spotify.com/album/0mGgMEeDac12bcX7XwkH4M) | 1:58 |
 | 15 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 110 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 111 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MTY3MTQ1MjUyNSwwMDAwMDAwMGZiZjIyYzNjNmExOTRhNzhlNzQ3YjM1MDVjNDE5MTY2`
+Snapshot ID: `MTY3MTQ1MjUyNSwwMDAwMDAwMGVmZDVkNDExOWI3Mzg0NTQyMjczYWU5NDA0MTk1Mzcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,372,517 likes - 102 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375,257 likes - 102 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 20 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 |
 | 21 | [universe \(sped up\)](https://open.spotify.com/track/24kdDAmUUDwElZJ9NClVfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe \(sped up\)](https://open.spotify.com/album/3GfD4UP3CVhJTsGt5ygHi1) | 2:12 |
 | 22 | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/track/0Ntea3SB1jJ0SxRNt5MvjM) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/album/6ZrzrK6Fn0AIQtuV9CqXzs) | 3:37 |
-| 23 | [Judas \- Sped Up](https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG) | [Judas \(Sped Up\)](https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt) | 3:26 |
+| 23 | [Judas \- Remix](https://open.spotify.com/track/67GSlGtRJfH20l3hY3snUq) | [unhappier](https://open.spotify.com/artist/6o5lVMrUbrSMhvqSxl8mPV), [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Judas \(Remix\)](https://open.spotify.com/album/0OWgbzA8mHalgTp1LEk1EO) | 3:26 |
 | 24 | [I Know \- sped up](https://open.spotify.com/track/6PjklVE4C9aBZkqTR3ATob) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:16 |
 | 25 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:12 |
 | 26 | [Shut up My Moms Calling \- \(Sped Up\)](https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling \(Sped up\)](https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A) | 2:15 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 101 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 |
 | 102 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 |
 
-Snapshot ID: `MTY4MTIyNjQxNSwwMDAwMDAwMDM5ZWYxMmQxZGQ4YmM5OTc2N2Q4ODE0ZGExNWM4ODdi`
+Snapshot ID: `MTY4MTIyNjQxNSwwMDAwMDAwMGExOGUyZWIyN2MwM2RiNGYxM2NhMDY3NWIyZWMyOWI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,471 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,476 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 4 | [人生下半](https://open.spotify.com/track/1yLghvD6Dkrrv12uBAEANw) | [安琥](https://open.spotify.com/artist/1ePKusBFWRSZ7ljw3e8P7S) | [人生下半](https://open.spotify.com/album/1fEQNNPNoj4t6ryDzCZxcX) | 4:24 |
 | 5 | [听雨说](https://open.spotify.com/track/16GE6UB5S24IrvqmahU7CA) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [听雨说](https://open.spotify.com/album/2vkr0ahxqn49EdITMEJyAD) | 3:14 |
 | 6 | [不完美](https://open.spotify.com/track/4vj0HHSEYDxE7UiyYxB7Pj) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [不完美](https://open.spotify.com/album/7DKgA2CEJ0zqgyOW90NVYi) | 2:48 |
-| 7 | [Morning Kiss \(feat\. Bernard Wee Shen\)](https://open.spotify.com/track/54vpX1TtYZJqjI7I23khDB) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe), [Bernard Wee Shen](https://open.spotify.com/artist/7l4OMGKEU8DGCOCHnLKhhE) | [Morning Kiss \(feat\. Bernard Wee Shen\)](https://open.spotify.com/album/46gwODPFz0A1GsfIYNf5eu) | 3:34 |
+| 7 | [Morning Kiss](https://open.spotify.com/track/7kSsIt7dEp8KtXy30QG6vJ) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe), [Bernard Wee Shen](https://open.spotify.com/artist/7l4OMGKEU8DGCOCHnLKhhE) | [Morning Kiss](https://open.spotify.com/album/1EhqcOqa3XJWANpxseAZ6A) | 3:34 |
 | 8 | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/track/5mivWWWtw7x1H7TCBTDS5g) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/album/0adwWPry7ob0mHUSNJyobe) | 3:51 |
 | 9 | [我只在乎你](https://open.spotify.com/track/13k0DdU2IurvPdQpZy1EAE) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5), [魏暉倪](https://open.spotify.com/artist/4jV9gevlIqV9s5SYh4wq61) | [我只在乎你](https://open.spotify.com/album/74UdGauRfo4ZQQfU9JOIx5) | 4:17 |
 | 10 | [盛開](https://open.spotify.com/track/72wFq3crG8Ibb6GYuA91dN) | [李心潔](https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub) | [盛開](https://open.spotify.com/album/1LhMcGY4yVF5UQc9Sla7Zr) | 5:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [親愛的對象 \- 《關於我和鬼變成家人的那件事》電影主題曲](https://open.spotify.com/track/70ywpHtaToCmnULRT9Vu4p) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \(《關於我和鬼變成家人的那件事》電影主題曲\)](https://open.spotify.com/album/6ohthacCclaqEnO1xfEUu6) | 4:54 |
 | 100 | [Live House](https://open.spotify.com/track/2EGkI1OjdEIwPc9TOfzdlq) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Live House](https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8) | 3:07 |
 
-Snapshot ID: `MTY4MTEwMzIzNiwwMDAwMDAwMGQ1MjNiNTkzZDU0NmY2M2UzZjYwZDgyYWJiYzE3NWRi`
+Snapshot ID: `MTY4MTEwMzIzNiwwMDAwMDAwMDUyY2JmNzI2YzBmNjA5ZWEzZGJlMWYyMzFhMTA2NGQ2`

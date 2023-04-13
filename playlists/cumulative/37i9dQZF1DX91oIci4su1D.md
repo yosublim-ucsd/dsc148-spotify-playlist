@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-600 songs - 1 day 12 hr 50 min
+601 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [After The Sting](https://open.spotify.com/track/53KVK5J9ty1cqnybyTKI5h) | [BiXX](https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh) | [After The Sting](https://open.spotify.com/album/418TfjAiWtSU6oxKebeI58) | 3:36 | 2022-06-03 |  |
 | [Afterlife](https://open.spotify.com/track/1quV8M8hQ2PEUw3JhO9hKu) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Afterlife](https://open.spotify.com/album/4Ce3MvugKQgiwradW4O5gb) | 2:50 | 2022-06-10 |  |
 | [Age of Infinity](https://open.spotify.com/track/66qLxvxlzcgQmxSVr32GhG) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Diago](https://open.spotify.com/artist/6VVgFDLnj2ZW04op59d4iC) | [Age of Infinity](https://open.spotify.com/album/2ewaPVNitzKIvkDu5nuyks) | 3:14 | 2022-04-15 | 2022-11-19 |
-| [Air](https://open.spotify.com/track/1w3HIfFh2l7UevaP5uCyIp) | [AA Meeting](https://open.spotify.com/artist/4L8D2cyMeNKWaps3wPBFfD) | [Air](https://open.spotify.com/album/27A0zXIRpLvj0AHfwPIUez) | 4:16 | 2023-04-07 |  |
+| [Air](https://open.spotify.com/track/1w3HIfFh2l7UevaP5uCyIp) | [AA Meeting](https://open.spotify.com/artist/4L8D2cyMeNKWaps3wPBFfD) | [Air](https://open.spotify.com/album/27A0zXIRpLvj0AHfwPIUez) | 4:16 | 2023-04-07 | 2023-04-13 |
 | [Alibi \- Farius Lost In 137 Mix](https://open.spotify.com/track/3QpK4EjLY4NPCshSBcmdwL) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Diversify \(Remixes\)](https://open.spotify.com/album/69BDKGjSgQJoVjPKdjYlH3) | 4:22 | 2021-12-17 | 2022-03-12 |
 | [Alive](https://open.spotify.com/track/48XRakTXOgK2zMGjWoIpxj) | [Victor Tellagio](https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Alive](https://open.spotify.com/album/4SIHp025Lt02gLujQPN2Ta) | 2:58 | 2022-08-05 |  |
 | [All Falls Down](https://open.spotify.com/track/7mbUX7eBTYdN0FNNQqbdyy) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Florentin](https://open.spotify.com/artist/4h5iVy88coDjOop3wM2wTp), [Kyle Anson](https://open.spotify.com/artist/0FeeM3GXVth20s0RWfI5rE) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 3:06 | 2023-02-17 |  |
@@ -418,6 +418,7 @@
 | [Polarity](https://open.spotify.com/track/4RdSfPV8r8ENATeTplWLmB) | [Corti Organ](https://open.spotify.com/artist/0v0dCyLQpm5BcEL90AcnBK) | [Polarity](https://open.spotify.com/album/0R2woxQiu1NERaArCQBgC6) | 2:20 | 2022-05-20 |  |
 | [Projection](https://open.spotify.com/track/1DTLuAyZhiqLbxpZM3QoaY) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Anjunabeats Volume 16](https://open.spotify.com/album/5U5RVS6wdPaleEFqBzzpDm) | 3:50 | 2022-08-05 |  |
 | [Protect Your Mind \(braveheart\)](https://open.spotify.com/track/4c6E9EwMfjwkO0s6c8WCFt) | [DJ Sakin](https://open.spotify.com/artist/65uIFYle2lbINwH5llwFM4), [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2rBqSVxocN92JcOvmdxxdq) | 3:21 | 2022-12-02 |  |
+| [Purity \- Ferry Tayle & Tonks present Mirage Remix](https://open.spotify.com/track/2JKNSdKvtN4eCCFSBhp8bi) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7), [Mirage](https://open.spotify.com/artist/3BDRFQafIEwLD8CLBo8mv9), [Ferry Tayle](https://open.spotify.com/artist/6duWCqMhaEvKA0P0MVs0zQ), [Tonks](https://open.spotify.com/artist/29uLSGwUNqBFGS02mLVDJL) | [Purity \(Ferry Tayle & Tonks present Mirage Remix\)](https://open.spotify.com/album/4wkN2hlAEr6JlJJ5iCi81u) | 3:05 | 2023-04-07 |  |
 | [Purpose](https://open.spotify.com/track/4H1ua1D82da8b2WGa8mi9i) | [BiXX](https://open.spotify.com/artist/4RiwBL7Ca5pV4qR7gRmEOh), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Purpose](https://open.spotify.com/album/0VDMjTE6JnnAN7k8OAMuRl) | 3:56 | 2022-02-18 | 2023-02-25 |
 | [Quantum Eraser](https://open.spotify.com/track/4iBtkALF5a2yMOUOb0EhSi) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Paul Denton](https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2) | [Quantum Eraser](https://open.spotify.com/album/6rCa1P1U4IdObZrigvZ4SH) | 4:23 | 2022-05-06 | 2023-04-09 |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-12-17 | 2022-05-28 |

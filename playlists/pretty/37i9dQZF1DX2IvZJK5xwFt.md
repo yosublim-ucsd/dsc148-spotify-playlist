@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Let's celebrate Pet Day with Måneskin\. Cover: Victoria De Angelis with Chili De Angelis
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,348 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,669 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

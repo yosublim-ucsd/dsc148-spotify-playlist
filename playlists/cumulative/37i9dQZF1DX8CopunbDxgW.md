@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Yaeji
 
-765 songs - 2 day 2 hr 17 min
+766 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [All Around The World \(with Duckwrth\)](https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [All Around The World \(with Duckwrth\)](https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt) | 2:47 | 2022-08-12 | 2022-09-18 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-05-07 | 2022-07-28 |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-02-24 |  |
-| [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-01-20 |  |
+| [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-01-20 | 2023-04-13 |
 | [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/0ouFThIkQRyW52ELPVjtdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/4ufp5tPPk8PPR5XovgiTwM) | 4:46 | 2021-10-08 | 2022-07-29 |
 | [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/2gtIOi34KWOtEG21WKT8QN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/6Gl8ivfYXZx9Yp11TMbh1R) | 4:46 | 2022-09-09 | 2023-01-26 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-12 | 2022-02-09 |
@@ -400,6 +400,7 @@
 | [Like When We Were Kids](https://open.spotify.com/track/7kbX93erh3pjxXufIRPAsw) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Like When We Were Kids](https://open.spotify.com/album/3wVkxL95Af6ufnVyUhsFxy) | 2:00 | 2021-12-03 | 2022-07-29 |
 | [Little Bit \(feat\. Autoerotique\) \- Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB) | [Little Bit \(feat\. Autoerotique\) \[Remix\]](https://open.spotify.com/album/4r3b3h6Aes9LtPaR3WVH4P) | 3:54 | 2022-10-05 |  |
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-18 | 2022-04-19 |
+| [Little Lies](https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Little Lies](https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix) | 4:14 | 2023-04-07 |  |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-24 | 2022-01-17 |
 | [Locked](https://open.spotify.com/track/1vBxzMZGCneeEemHVMw6Q3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Pink](https://open.spotify.com/album/4AQJGcPp7SpT1xNLWrfYuz) | 8:29 | 2022-09-17 | 2022-10-06 |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-05-20 | 2023-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Gold Fang
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,110 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,112 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 11 | [Y.F.S](https://open.spotify.com/track/29Q12mmRY6wLCIn3NfKv2I) | [Saph](https://open.spotify.com/artist/4Nd10hN4v1KNKpCj8vHpOd), [Raggadat Cris](https://open.spotify.com/artist/6i4nnmw5KnkFqmLEH7QkJJ) | [Y.F.S](https://open.spotify.com/album/17cLV6EqgL993Ywe6BHgG7) | 2:28 |
 | 12 | [Jungle](https://open.spotify.com/track/1WLnrtosGz1hY2L6ZwcpkM) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE) | [Jungle](https://open.spotify.com/album/3sAF9g1zcRG5zjlNrrkpTW) | 3:38 |
 | 13 | [Know my worth](https://open.spotify.com/track/7aJWvpBKNGF9M3bmcrkDVc) | [DENNI](https://open.spotify.com/artist/3pmaKSem7OMEW29eeQ2iKO) | [Know my worth](https://open.spotify.com/album/1W7gxv55j9QUqOX0ZZ9AGf) | 2:58 |
-| 14 | [Rolling Loud](https://open.spotify.com/track/7hTYdOc41vwhO8EBqRQNJ2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/0FudF3AQdTVQXVL2MV6TbP) | 2:55 |
+| 14 | [Rolling Loud](https://open.spotify.com/track/55cEKK9VLkExu4RQO7gnPY) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/1PwWWKOV3XgyRLGSWjO5Nm) | 2:55 |
 | 15 | [BLOOD ON THE CANVAS](https://open.spotify.com/track/1WX0LfZzbpHmUX0cMpDOgb) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [PURPLE RAG PRINCE](https://open.spotify.com/album/1DEKTyc3STPJG5MFXUOKPR) | 2:57 |
-| 16 | [Designer Love](https://open.spotify.com/track/7HxMnQqgokBq8ORg7AKHRa) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/19mewYhS8cosKSnVJczvYW) | 2:54 |
+| 16 | [Designer Love](https://open.spotify.com/track/3bK9O7F6SMk8hnOcRhxdjm) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/4FLy9OVf3KrxN9hjJJOfNN) | 2:54 |
 | 17 | [PRETTY](https://open.spotify.com/track/3j9dzoKjSbYAopfrwkXFmn) | [Fedi](https://open.spotify.com/artist/1wxgPiEj3LckS64IQSkzNj) | [PRETTY](https://open.spotify.com/album/1FJJkXw7T488YeO10c6191) | 1:59 |
 | 18 | [Keep It Different](https://open.spotify.com/track/5kE4JmCuJIcLvmGKaIsIki) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Keep It Different](https://open.spotify.com/album/0mw4AM3A4mALuLWzHfHdw2) | 3:55 |
 | 19 | [RUMOURS](https://open.spotify.com/track/7nMKFLHD6PrCFkOzz2uaxv) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [RUMOURS](https://open.spotify.com/album/12YejSJSWzgDpld4GVpKZi) | 3:23 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 96 | [LIGHTS](https://open.spotify.com/track/0oejOobRZLV2jroTlzCbR3) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [LIFE I CHOSE](https://open.spotify.com/album/2qfjMTn1aVSFePlKRYQZVJ) | 3:08 |
 | 97 | [NJ \(Freestyle\)](https://open.spotify.com/track/1jItGRDxckHhQBZ3Y9xVch) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [NJ \(Freestyle\)](https://open.spotify.com/album/0bYdUoADyRkjmrp95lfWrj) | 1:52 |
 | 98 | [Blessings](https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [Bitner Brown](https://open.spotify.com/artist/7hFXMhSb2iI4bJcxfcwQmM) | [Blessings](https://open.spotify.com/album/1m37BOYIflgwLuB3ekRfA5) | 3:00 |
-| 99 | [When It Rains](https://open.spotify.com/track/3nUnPMNtuyOzgIgrF067SZ) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/2Jok9H8f6HamTvZ8cGwA93) | 2:21 |
+| 99 | [When It Rains](https://open.spotify.com/track/2itHu6uRp8ClOUS0nS023X) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [When It Rains](https://open.spotify.com/album/22RrM5weo4B2GrTrW6h0xd) | 2:21 |
 
-Snapshot ID: `MTY4MDc4OTYwMCwwMDAwMDAwMDk4YThkM2IzMDIxMjRiZTBiODVkOTFlYjU0Y2FhMzA1`
+Snapshot ID: `MTY4MDc4OTYwMCwwMDAwMDAwMDE4NzMzZDQ1NDAwZTY0NGI3NTJlMTc5ODVlOWVkMDI4`

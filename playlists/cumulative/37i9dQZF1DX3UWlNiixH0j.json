@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Daidai / A Cup of Coffee",
+        "url": "https://open.spotify.com/album/0IRVaCORb4vwBSyhVaNdnm"
+      },
+      "artists": [
+        {
+          "name": "Saboten Neon House",
+          "url": "https://open.spotify.com/artist/4YiEZJEh5hD4zNhPtTpp5C"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Daidai",
+      "url": "https://open.spotify.com/track/4aIkJ57mTcNDluNttXBi5R"
+    },
+    {
+      "album": {
         "name": "Damn!",
         "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
       },
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Dawn (Intro)",
       "url": "https://open.spotify.com/track/3XP4BA3PT4JSZe1Nplr1IZ"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 259853,
       "name": "Genius Made by Publishers",
       "url": "https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe"
@@ -2210,6 +2228,24 @@
       "duration_ms": 286040,
       "name": "Just Wanna Live It Up",
       "url": "https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7"
+    },
+    {
+      "album": {
+        "name": "Sweet.ep",
+        "url": "https://open.spotify.com/album/2D2D5bX44DRCqC9ON4hGJF"
+      },
+      "artists": [
+        {
+          "name": "Laura day romance",
+          "url": "https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224440,
+      "name": "Kakitai",
+      "url": "https://open.spotify.com/track/2zKDI5j1TARoklb76FJ2CW"
     },
     {
       "album": {
@@ -3734,6 +3770,24 @@
       "duration_ms": 219349,
       "name": "Shunrai",
       "url": "https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT"
+    },
+    {
+      "album": {
+        "name": "sinister",
+        "url": "https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218148,
+      "name": "sinister",
+      "url": "https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm"
     },
     {
       "album": {
@@ -5348,7 +5402,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 218148,
       "name": "\u30b7\u30cb\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q"
@@ -6552,7 +6606,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 224440,
       "name": "\u66f8\u304d\u305f\u3044",
       "url": "https://open.spotify.com/track/7xXGFsnwMAaJWysKQrweo3"
@@ -6642,7 +6696,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 188869,
       "name": "\u6a59",
       "url": "https://open.spotify.com/track/0neeR547nkdTBSTWeTEAAH"

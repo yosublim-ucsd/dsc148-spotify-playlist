@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Yahritza y Su Esencia & Grupo Frontera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,858 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,056 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 14 | [Cambiaste Mis Planes](https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Cambiaste Mis Planes](https://open.spotify.com/album/4AP7kCFERVd5eKxFlbK1pF) | 3:33 |
 | 15 | [Con Tus Besos](https://open.spotify.com/track/3UAodcN43fzPYdYTv2pKWC) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Cuadrilla Norteña](https://open.spotify.com/artist/4jlXJJJLUELGoU4uabESMh) | [Con Tus Besos](https://open.spotify.com/album/50i1TXmIi7LgBQnVtCjNjN) | 3:34 |
 | 16 | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/track/5mXKfidzkpKSdbiTLqXh2G) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Chuyito y El Mayo \(En Vivo\)](https://open.spotify.com/album/0Edi0lLcHczz0XCRtE0MC7) | 3:07 |
-| 17 | [Triste Verano](https://open.spotify.com/track/7yfwydyPR9CJQSoPsnOZhO) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/49XVd20nI8tT6rU6b8hvuK) | 3:03 |
+| 17 | [Triste Verano](https://open.spotify.com/track/74r1EbTcH1kk9SSrp0T2Qb) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Verano](https://open.spotify.com/album/3lpp6KK2bL6X9uc5kNLf1J) | 3:03 |
 | 18 | [Amor de Más \(En Vivo\)](https://open.spotify.com/track/48jltDlhNC3lwwwtpajqpq) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Amor de Más \(En Vivo\)](https://open.spotify.com/album/6rEoEx1lAUEw2BGA3b7neW) | 2:54 |
 | 19 | [Cachucha Negra](https://open.spotify.com/track/67X0IYNON4R50dFRkjJdGX) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Cachucha Negra](https://open.spotify.com/album/7cAdi7QATI3CkLmCA6RP1H) | 4:18 |
 | 20 | [Yo Me Moriré \- En Vivo](https://open.spotify.com/track/4z6uCRcGMOw7I1dAcieRFW) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Yo Me Moriré \(En Vivo\)](https://open.spotify.com/album/4sBLV3XFdt2ImZRkHo7r1t) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 49 | [El Indio Enamorado](https://open.spotify.com/track/1FoIJ1F8SGDNKsDBmDcsMX) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Indio Enamorado](https://open.spotify.com/album/03xyPzbQVeIPiLuCOBhLBV) | 3:34 |
 | 50 | [Chanel](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Chanel](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 |
 
-Snapshot ID: `MTY4MDg0NzIwMCwwMDAwMDAwMGU0MDIwYTIzMTAzZmUzNDEyODU3NTI0YjA2Y2MwYzE1`
+Snapshot ID: `MTY4MDg0NzIwMCwwMDAwMDAwMDRiMjZjZmMyNGNkY2EyOTQ1MjNlMDI0YzAxYzhmNDBl`

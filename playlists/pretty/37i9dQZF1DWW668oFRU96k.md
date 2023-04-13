@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Coi Leray + David Guetta + Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,381 likes - 77 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,417 likes - 77 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 5 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 6 | [Hold On To My Love](https://open.spotify.com/track/729INrfxIsfZ5EVNFacZjD) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Hold On To My Love](https://open.spotify.com/album/4CNTkiERhYxBADkJA7LEyO) | 3:05 |
 | 7 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 |
-| 8 | [Rockstar \- Telex Telexs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(Telex Telexs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 |
+| 8 | [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(TELEx TELEXs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 |
 | 9 | [beside her](https://open.spotify.com/track/0Mgl1aFVfdw6d5CpIKoNMV) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Silk](https://open.spotify.com/album/6tsUUk2FMKkYPJPnSNPDHy) | 5:37 |
 | 10 | [All in Night](https://open.spotify.com/track/1AzMmCMb3kyofg2JNL9U50) | [beatenvy](https://open.spotify.com/artist/4Di4xhHHT5rqcnag3Kr2I9), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx) | [All in Night](https://open.spotify.com/album/4UC24DbAvASW5S52b5hqE7) | 3:16 |
 | 11 | [Recall](https://open.spotify.com/track/2uJOUSKm3ldZmKJWHoWT3L) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Recall](https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX) | 2:52 |

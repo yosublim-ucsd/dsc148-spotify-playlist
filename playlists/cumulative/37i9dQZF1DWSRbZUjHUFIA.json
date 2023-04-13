@@ -266,10 +266,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 157440,
       "name": "GO!",
       "url": "https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX"
+    },
+    {
+      "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/0mb6DN28jtVJbRl08sFc8c"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/2bMURZAHoC1vpdWjnBfbOv"
     },
     {
       "album": {

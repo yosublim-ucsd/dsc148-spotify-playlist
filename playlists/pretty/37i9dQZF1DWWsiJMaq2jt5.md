@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: DOROTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,194 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,212 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 45 | [Bez Ciebie](https://open.spotify.com/track/1oblPMP9kux3yvt132S4iU) | [Pat Nos](https://open.spotify.com/artist/0ULtN6cdw9UhN9zi7mXiZv), [Urbaniaque](https://open.spotify.com/artist/2T47qssnONlEuxR0wZEcxE), [Sir Mich](https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP) | [Bez Ciebie](https://open.spotify.com/album/6otztAONfu1aPX97QnGNpl) | 3:22 |
 | 46 | [Usłyszałam](https://open.spotify.com/track/3vRJYtIBHsB5tqftgz0Imp) | [Ala Zastary](https://open.spotify.com/artist/3QmNltluzWxV1Pi1foWdqw) | [Usłyszałam](https://open.spotify.com/album/1oUkqHVqe501O0Ba04m6En) | 3:08 |
 | 47 | [Końcowy Taniec](https://open.spotify.com/track/6EjocFidTomCIDxESNtVnL) | [Natina](https://open.spotify.com/artist/06hXmcqapLjcKUwLhQBXOt) | [Końcowy Taniec](https://open.spotify.com/album/7zphrvHYTHlHk1hP54SyoN) | 2:31 |
-| 48 | [Oddech](https://open.spotify.com/track/2HMDRVaALcVamX5VtVweDl) | [Marysia Feduniewicz](https://open.spotify.com/artist/75nt5r5M34TVEGjx3EHEMy) | [Oddech](https://open.spotify.com/album/47Fz6BuZDptrYvakJgWLuU) | 3:06 |
+| 48 | [Oddech](https://open.spotify.com/track/2HMDRVaALcVamX5VtVweDl) | [Marysia Feduniewicz](https://open.spotify.com/artist/75nt5r5M34TVEGjx3EHEMy), [beniaminjakub](https://open.spotify.com/artist/5w0bUNzJKdtb0eRGW1weq1) | [Oddech](https://open.spotify.com/album/47Fz6BuZDptrYvakJgWLuU) | 3:06 |
 | 49 | [Siła](https://open.spotify.com/track/4WWurNR85U5xuAvASQ3VzT) | [Sandra Mika](https://open.spotify.com/artist/1dMHer5zjPgHylBGcYVkB0) | [Święta Krowa](https://open.spotify.com/album/7HFmeBFXouB8qRJnF3DBbd) | 4:30 |
 | 50 | [Sny](https://open.spotify.com/track/5StqXIcyzlx9HRnyBILAgD) | [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [Sny](https://open.spotify.com/album/5i7gmWU9eucGKnOzEuItpO) | 3:42 |
 

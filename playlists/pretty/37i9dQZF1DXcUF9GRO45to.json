@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 23133,
+  "num_followers": 23167,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzYwMCwwMDAwMDAwMGM2MTU4Y2EzNmM0N2I3OWE5OTI0MDI4ZWIyM2ZhYjE5",
+  "snapshot_id": "MTY4MDIxMzYwMCwwMDAwMDAwMGNjNmJiYWYyMTIzMDg3MzMyMTA5OWYxODQzYTY0MzY5",
   "tracks": [
     {
       "added_at": "2023-03-30 22:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
+      },
+      "artists": [
+        {
+          "name": "Teacup Monster",
+          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
+        }
+      ],
+      "duration_ms": 238947,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Long Life",
         "url": "https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 218288,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
-      },
-      "artists": [
-        {
-          "name": "Teacup Monster",
-          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
-        }
-      ],
-      "duration_ms": 238947,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Songs / Revolving",
-        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
-      },
-      "artists": [
-        {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
-        }
-      ],
-      "duration_ms": 332602,
-      "name": "Oh Lord, It Came To Me",
-      "url": "https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Songs / Revolving",
+        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
+      },
+      "artists": [
+        {
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+        }
+      ],
+      "duration_ms": 332602,
+      "name": "Oh Lord, It Came To Me",
+      "url": "https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Weathering",
         "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 174346,
       "name": "Dropped By The Doves",
       "url": "https://open.spotify.com/track/3s8O2RnVyxDmm4zHELriYj"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Chantal",
+        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
+      },
+      "artists": [
+        {
+          "name": "Equipe de Foot",
+          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Badroom",
-        "url": "https://open.spotify.com/album/1kpgGMobD4sNTy2KGGlVDd"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 205451,
-      "name": "Badroom",
-      "url": "https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Kids Are Lo-Fi",
         "url": "https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Chantal",
-        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
+        "name": "Badroom",
+        "url": "https://open.spotify.com/album/1kpgGMobD4sNTy2KGGlVDd"
       },
       "artists": [
         {
-          "name": "Equipe de Foot",
-          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
         }
       ],
-      "duration_ms": 253906,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
+      "duration_ms": 205451,
+      "name": "Badroom",
+      "url": "https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Raving Track",
-        "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
-      },
-      "artists": [
-        {
-          "name": "Luje",
-          "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Italia",
-      "url": "https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/6VhainGyu98wzHYIzRvsf9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 312904,
       "name": "Reach",
       "url": "https://open.spotify.com/track/2t3c50Dgc0CvZmYOf40Yq2"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Raving Track",
+        "url": "https://open.spotify.com/album/32b7pGGSU86sMYGutnARZr"
+      },
+      "artists": [
+        {
+          "name": "Luje",
+          "url": "https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Italia",
+      "url": "https://open.spotify.com/track/6Kw6I8YLJadN5HPUHhp1XL"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5QnWO1vcidL0hFflxcD9Fd"
-      },
-      "artists": [
-        {
-          "name": "SUN",
-          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
-        }
-      ],
-      "duration_ms": 235944,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Colostrum",
         "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 226244,
       "name": "Hair Shirt",
       "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5QnWO1vcidL0hFflxcD9Fd"
+      },
+      "artists": [
+        {
+          "name": "SUN",
+          "url": "https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ"
+        }
+      ],
+      "duration_ms": 235944,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/3ET1X1My50CGs15A0xOvkL"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Preliminary",
-        "url": "https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6"
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
       "artists": [
         {
-          "name": "Fanchon",
-          "url": "https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP"
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
         }
       ],
-      "duration_ms": 251982,
-      "name": "Preliminary",
-      "url": "https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv"
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
       "artists": [
         {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
         }
       ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1047,34 +1047,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
+        "name": "Preliminary",
+        "url": "https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6"
       },
       "artists": [
         {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+          "name": "Fanchon",
+          "url": "https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP"
         }
       ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
+      "duration_ms": 251982,
+      "name": "Preliminary",
+      "url": "https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 254687,
       "name": "The Password",
       "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
+      },
+      "artists": [
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Spring Harvest",
-        "url": "https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll"
-      },
-      "artists": [
-        {
-          "name": "Grandma's Ashes",
-          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "Spring Harvest",
-      "url": "https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Songs / Revolving",
         "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
       },
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "The Midnight Sons",
-        "url": "https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ"
-      },
-      "artists": [
-        {
-          "name": "Bukowski",
-          "url": "https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "The Midnight Son",
-      "url": "https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Nothing Belongs to Anything",
         "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 308125,
       "name": "Welcome Newcomers",
       "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Spring Harvest",
+        "url": "https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll"
+      },
+      "artists": [
+        {
+          "name": "Grandma's Ashes",
+          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "Spring Harvest",
+      "url": "https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "The Midnight Sons",
+        "url": "https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "The Midnight Son",
+      "url": "https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Ain't No Princess",
+        "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
+      },
+      "artists": [
+        {
+          "name": "Can't Bear This Party!",
+          "url": "https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "So Quarrelsome",
+      "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 201706,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Ain't No Princess",
-        "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
-      },
-      "artists": [
-        {
-          "name": "Can't Bear This Party!",
-          "url": "https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "So Quarrelsome",
-      "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Tachycardie",
-        "url": "https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k"
+        "name": "Shreds of Tales",
+        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
       },
       "artists": [
         {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+          "name": "Grit",
+          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Siamese Love",
-      "url": "https://open.spotify.com/track/5lWRpXUGs9EMHIOGN10CT6"
+      "duration_ms": 211505,
+      "name": "Others",
+      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Shreds of Tales",
-        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
-      },
-      "artists": [
-        {
-          "name": "Grit",
-          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
-        }
-      ],
-      "duration_ms": 211505,
-      "name": "Others",
-      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 284098,
       "name": "Le Squinfus",
       "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Tachycardie",
+        "url": "https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Siamese Love",
+      "url": "https://open.spotify.com/track/5lWRpXUGs9EMHIOGN10CT6"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Can Be Late",
-        "url": "https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW"
-      },
-      "artists": [
-        {
-          "name": "Skip the Use",
-          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "People In The Shadow",
-      "url": "https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Slot Logic",
         "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 204866,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Can Be Late",
+        "url": "https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW"
+      },
+      "artists": [
+        {
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "People In The Shadow",
+      "url": "https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Dissociation",
+        "url": "https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG"
+      },
+      "artists": [
+        {
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+        }
+      ],
+      "duration_ms": 257763,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Post-Post-",
         "url": "https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM"
       },
@@ -1595,34 +1611,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Testify",
-        "url": "https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu"
+        "name": "Near",
+        "url": "https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML"
       },
       "artists": [
         {
-          "name": "Stereotypical Working Class",
-          "url": "https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX"
+          "name": "Mascara",
+          "url": "https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm"
         }
       ],
-      "duration_ms": 269293,
-      "name": "Testify",
-      "url": "https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Dissociation",
-        "url": "https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG"
-      },
-      "artists": [
-        {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
-        }
-      ],
-      "duration_ms": 257763,
-      "name": "Sick As A Dog",
-      "url": "https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM"
+      "duration_ms": 296078,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec"
     }
   ],
   "unique_name": "French Noise",

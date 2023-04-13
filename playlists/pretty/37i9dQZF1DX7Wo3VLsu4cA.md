@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Wo3VLsu4cA.md) - [plain]
 
 > By bringing his African heritage to the stage, <a href="spotify:artist:1txb9Qg5lJ3KATxPcIYyvO">AMÉMÉ</a> has developed a unique sound that can be heard in this well\-crafted DJ Mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701 likes - 19 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703 likes - 19 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

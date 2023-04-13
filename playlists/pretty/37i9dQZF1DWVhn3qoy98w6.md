@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Artistas independientes emergentes, cada miércoles\. Foto: Pan.
+> Artistas independientes emergentes, cada miércoles\. Foto: Paco Te Quiero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,063 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,082 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kalima](https://open.spotify.com/track/1Pf451Uehl1uMnKvqur9Qc) | [Bamboleira](https://open.spotify.com/artist/6r5phGP2tG8wycq7fRQRDa) | [Kalima](https://open.spotify.com/album/3fde3fMG0vOhsPyIWZLXiJ) | 3:28 |
-| 2 | [me dejaste de llamar](https://open.spotify.com/track/2Gy6AtPhe1JLBgdKyhwBqO) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh), [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [me dejaste de llamar](https://open.spotify.com/album/5nUO65ZbITVhGij1nJ8Ayi) | 3:09 |
-| 3 | [ROTA X TI](https://open.spotify.com/track/2oDHpyHglOzUdK0uYOFzzo) | [CARMON](https://open.spotify.com/artist/5528FPYYEJhHliZjO3DxrE) | [ROTA X TI](https://open.spotify.com/album/6P4O4uLRNdoxzLAqhy24JC) | 2:44 |
-| 4 | [pase lo que pase](https://open.spotify.com/track/3PMVUHBAaeUx0Xw5sbQoSg) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc) | [pase lo que pase](https://open.spotify.com/album/3keyCrC3oDOhiS9xJebopc) | 2:34 |
+| 1 | [pase lo que pase](https://open.spotify.com/track/3PMVUHBAaeUx0Xw5sbQoSg) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc) | [pase lo que pase](https://open.spotify.com/album/3keyCrC3oDOhiS9xJebopc) | 2:34 |
+| 2 | [Kalima](https://open.spotify.com/track/1Pf451Uehl1uMnKvqur9Qc) | [Bamboleira](https://open.spotify.com/artist/6r5phGP2tG8wycq7fRQRDa) | [Kalima](https://open.spotify.com/album/3fde3fMG0vOhsPyIWZLXiJ) | 3:28 |
+| 3 | [me dejaste de llamar](https://open.spotify.com/track/2Gy6AtPhe1JLBgdKyhwBqO) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh), [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [me dejaste de llamar](https://open.spotify.com/album/5nUO65ZbITVhGij1nJ8Ayi) | 3:09 |
+| 4 | [ROTA X TI](https://open.spotify.com/track/2oDHpyHglOzUdK0uYOFzzo) | [CARMON](https://open.spotify.com/artist/5528FPYYEJhHliZjO3DxrE) | [ROTA X TI](https://open.spotify.com/album/6P4O4uLRNdoxzLAqhy24JC) | 2:44 |
 | 5 | [Rata Ninja](https://open.spotify.com/track/785Z2pXnJhFq11UyruUbxx) | [FLAMA FLAMA FLAMA](https://open.spotify.com/artist/6odaPrgsGhmrjTjBkMU9TR) | [Rata Ninja](https://open.spotify.com/album/5K7PyNTszCfdZ1ZK0jXg5Z) | 3:15 |
 | 6 | [No creo en el Amor](https://open.spotify.com/track/2u1vsXZY7jxEHocmXh1lvl) | [Bianca Mui](https://open.spotify.com/artist/4uZwbKBh4fEOPFC0Pw0QCk), [Nare](https://open.spotify.com/artist/5kFiVU6yw6OkpKHuJmG8UX) | [No creo en el Amor](https://open.spotify.com/album/5zNLk7ai9vUgfRrxy08Qkd) | 2:19 |
 | 7 | [POP](https://open.spotify.com/track/3x4mjdTXkHjeZsVf4G8Hk4) | [Lucy Calcines](https://open.spotify.com/artist/63QmOmCaD0DlWT7uPtnrqW) | [POP](https://open.spotify.com/album/5nREcy6OUcGkq7lxCEhJQu) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Hasta Cuándo \(feat\. Los Niños\)](https://open.spotify.com/track/6gTD2Wex0nAb8okmw7LdY6) | [Julio Benavente](https://open.spotify.com/artist/3QfsFYUOQfTKQaIeOEKJai), [Los Niños](https://open.spotify.com/artist/3XAxXTwjxEfiuEijHvLNok) | [Hasta Cuándo \(feat\. Los Niños\)](https://open.spotify.com/album/0OPTJ00q3kg49Y6OmuornQ) | 2:18 |
 | 50 | [Negre, Blanc, Porpra](https://open.spotify.com/track/1bKpoy5mrVXIucJIPx2gta) | [Licus](https://open.spotify.com/artist/02UaD2hYPDELgjq0OyODvz) | [Teràpia](https://open.spotify.com/album/2GLC5IGDVYbz8xu1Alusfr) | 3:30 |
 
-Snapshot ID: `MTY4MTI1MDQwMCwwMDAwMDAwMDQ0MWFhOTEzMTcwMDgxNTBmMDBmNTNiMzM5MWUyZTI2`
+Snapshot ID: `MTY4MTI4ODE2MCwwMDAwMDAwMGE5Y2Q2NGE2N2U4MzQyN2M2OTdiYWZlMWFmYWVmNmFi`

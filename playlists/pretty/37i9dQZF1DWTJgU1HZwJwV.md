@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,839 likes - 242 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,865 likes - 242 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 44 | [La Largo](https://open.spotify.com/track/3olW01y6J6xJK9bORKX2lN) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [La Largo](https://open.spotify.com/album/0NpneUFE5gYog3A8QUfwsr) | 2:04 |
 | 45 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 |
 | 46 | [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 |
-| 47 | [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 |
+| 47 | [Wayside](https://open.spotify.com/track/6CBBglnS5LlPhAAVlexAYt) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/6Mmo52kGpB7c0Hg2UiM9hW) | 2:13 |
 | 48 | [Really Great To Be Here](https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Really Great To Be Here](https://open.spotify.com/album/3manuOh0CJ7u1aMcEkovjI) | 3:10 |
 | 49 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 |
 | 50 | [Gryning](https://open.spotify.com/track/1JGpZ7avpnMGA4hPairsie) | [Robert Dahlström](https://open.spotify.com/artist/7ewiuMPMerjHcRj3sSUQYi) | [Gryning](https://open.spotify.com/album/7kh7QgMnR8grQiDIjvzioU) | 3:02 |
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 138 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 |
 | 139 | [Art Deco](https://open.spotify.com/track/2S1ddYY7BolUpyqjFVrgGv) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:33 |
 | 140 | [Sweet Sister](https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Sweet Sister](https://open.spotify.com/album/0hLGvDz6LTn2CBQzVpu36f) | 2:28 |
-| 141 | [Plain Sight](https://open.spotify.com/track/1juq7X9kZkBQN7cDo7xHW8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Plain Sight](https://open.spotify.com/album/5uef4kiFCm6nkNiqO6LoxT) | 2:07 |
+| 141 | [Plain Sight](https://open.spotify.com/track/77zMvw3GWNF8F8xaPW3lSX) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Avoidance](https://open.spotify.com/album/2FFFMnIXakSCPAVqpGPqi5) | 2:07 |
 | 142 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 |
 | 143 | [Cliffs](https://open.spotify.com/track/4M4YcXxUpkk8mjJK2dd0DK) | [Stella Weber](https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu) | [Cliffs](https://open.spotify.com/album/1SQYj9x68uGtLrJbTCp99Q) | 1:57 |
 | 144 | [Delft](https://open.spotify.com/track/0Wrotq5gGyWP5hgYZcrnF3) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Shining Path](https://open.spotify.com/album/5gDgTrpRIVwJpRJHFo7O8u) | 2:29 |
@@ -219,7 +219,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 209 | [No Me Olvides](https://open.spotify.com/track/5162v3QjSylfbHbAPvT9BX) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [No Me Olvides](https://open.spotify.com/album/5uzZHlnaykyyrYaXCTk5o0) | 2:31 |
 | 210 | [Triste](https://open.spotify.com/track/1sz5nK8klruuA3wyUilEKB) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Triste](https://open.spotify.com/album/7FGCrHscT6y5OwLDIYKj3O) | 4:03 |
 | 211 | [Slowly Dreaming Away](https://open.spotify.com/track/1Q91XhVR27Sl9t5se58PfG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Slowly Dreaming Away](https://open.spotify.com/album/3eoR8gGsTOFQ9Su6w1sbtk) | 1:58 |
-| 212 | [Halt](https://open.spotify.com/track/6AOERFL1yqYDDP5vbxFdj8) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Halt](https://open.spotify.com/album/0iVGK1eTIVQcoBAp6Pbkl5) | 1:50 |
+| 212 | [Halt](https://open.spotify.com/track/18a7MSEPcnCwRaCmk9mtmK) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Halt](https://open.spotify.com/album/48OYapkDjCLZsfvTr3Rx34) | 1:50 |
 | 213 | [Indubio](https://open.spotify.com/track/0IBin9RIKBxMxDHf9lGtbx) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Indubio](https://open.spotify.com/album/4OAZ28Z4FK3C50twZJEc0O) | 2:46 |
 | 214 | [Solitaire](https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli) | [Anayah Burke](https://open.spotify.com/artist/56snJZ1Nb0tP4197xTHV68) | [Solitaire](https://open.spotify.com/album/4pgQkUGJx1hijH9zqfun2f) | 3:01 |
 | 215 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 241 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 | 242 | [Wilderness Exit](https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Wilderness Exit](https://open.spotify.com/album/1BblbjzdUHX86Ir6rQTu78) | 4:24 |
 
-Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDcwNTY3NzUxYmY4ZjA3YzIyNDQxYjk0NGM1YjI1YTI0`
+Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDczYjg0NzRhZDE1M2MzMTI0NDZjNDk2MDc3ZWU1MWJk`

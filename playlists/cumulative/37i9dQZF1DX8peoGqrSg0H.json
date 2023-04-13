@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JAOKHUN",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIDIxDADA",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 209684,
       "name": "\u0e0a\u0e47\u0e2d\u0e15\u0e1f\u0e35\u0e25\u0e41\u0e23\u0e07\u0e44\u0e1b\u0e44\u0e2b\u0e21 (Buzzkill) Feat. F.HERO",
       "url": "https://open.spotify.com/track/7AeeKbEm1ghtkccxQKyWzR"
@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 224810,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e44\u0e1b\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7"
@@ -2951,6 +2951,28 @@
     },
     {
       "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/6KNC1U2jopk3FbzkKkPiLC"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u0e1a\u0e2d\u0e22\u0e1e\u0e32\u0e42\u0e1a\u0e49",
+      "url": "https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv"
+    },
+    {
+      "album": {
         "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
         "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
       },
@@ -3279,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "Your Girl",
+        "url": "https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229307,
+      "name": "\u0e22\u0e37\u0e49\u0e2d\u0e40\u0e1e\u0e37\u0e48\u0e2d? (Be Honest)",
+      "url": "https://open.spotify.com/track/6zd7fxBsHqjV9PNw5aEs1Y"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e49\u0e2d\u0e19\u0e41\u0e22\u0e49\u0e07 (From KinnPorsche The Series)",
         "url": "https://open.spotify.com/album/5cF5AkUGaEfNA5LWWJ9KpY"
       },
@@ -3406,7 +3446,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 216000,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
       "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
@@ -3858,6 +3898,24 @@
       "duration_ms": 210000,
       "name": "\u0e27\u0e48\u0e32\u0e44\u0e07\u0e19\u0e30 Feat. Nam iWish",
       "url": "https://open.spotify.com/track/67kJqf9wQnXugBcKoX04IB"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e40\u0e1a\u0e25\u0e2d (BLURRR)",
+        "url": "https://open.spotify.com/album/6nILOs9tIhM6mp1tn72JdM"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e40\u0e1a\u0e25\u0e2d (BLURRR)",
+      "url": "https://open.spotify.com/track/2MzPAfKHgy5BoE8bjm97d0"
     },
     {
       "album": {

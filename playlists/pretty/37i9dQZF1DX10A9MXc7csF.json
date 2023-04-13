@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98300,
+  "num_followers": 98319,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDgyMzIzOWJkYjA1ZWRmYTgwZTE2Y2YxMjViZTkzNTk1",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDVhODUyMjUzOTZmODFiZTcxN2RiOGRlZmViODRlNzk3",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Este Sentimiento",
-        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Este Sentimiento",
-      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "No Fuimos Nada",
         "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 182981,
       "name": "No Fuimos Nada",
       "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Este Sentimiento",
+        "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Este Sentimiento",
+      "url": "https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 156354,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 246059,
       "name": "Nos Acoplamos Macizo",
       "url": "https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 156354,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "El Mago",
-        "url": "https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Me Saliste Regular",
         "url": "https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 226499,
       "name": "Me Saliste Regular",
       "url": "https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "El Mago",
+        "url": "https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Hoodboys",
-        "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
-      },
-      "artists": [
-        {
-          "name": "Los De Guamuchil",
-          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Hoodboys",
-      "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Ilusionado",
         "url": "https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 152647,
       "name": "Ilusionado",
       "url": "https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Hoodboys",
+        "url": "https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn"
+      },
+      "artists": [
+        {
+          "name": "Los De Guamuchil",
+          "url": "https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Hoodboys",
+      "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
     },
     {
       "added_at": "2023-03-17 06:06:33",

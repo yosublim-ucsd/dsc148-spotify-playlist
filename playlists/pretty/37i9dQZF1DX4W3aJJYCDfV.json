@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Mahalia (pictured), David Guetta, Ashnikko and more!",
-  "num_followers": 828955,
+  "num_followers": 828964,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -1519,6 +1519,22 @@
       "duration_ms": 194198,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2"
+    },
+    {
+      "added_at": "2023-04-06 23:00:00",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/51RU6Ew24xeq2fj2olpFvV"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/2OLjA2M3uGXgAOQF8lXvzn"
     },
     {
       "added_at": "2023-04-06 23:00:00",

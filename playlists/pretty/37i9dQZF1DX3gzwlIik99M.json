@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 211402,
+  "num_followers": 211433,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGFjNzk3ZDZjM2MwZDhhMzBiODIyODAxMzAyMjhhODFl",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGY1NDRmNjIzNjYwZDczNTJkODI2MGQ2NGQxMzU5NTQy",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -399,6 +399,22 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
         "name": "Lleva Tu Mente al Limite",
         "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 286653,
       "name": "Pueblo Motoquero",
       "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Blood-Rooted",
-        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 107693,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Carnivora",
         "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 287573,
       "name": "Culto vacio radical",
       "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Blood-Rooted",
+        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 107693,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -571,22 +571,6 @@
       "duration_ms": 218729,
       "name": "Castigador por Herencia",
       "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
-        "name": "Muerte Verdadera Muerte",
-        "url": "https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE"
-      },
-      "artists": [
-        {
-          "name": "Masacre",
-          "url": "https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "\u00c9xodo",
-      "url": "https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -735,22 +719,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Dead Soul",
-        "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
-      },
-      "artists": [
-        {
-          "name": "Criminal",
-          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "Victimized",
-      "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Llora Chiapas",
         "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Dead Soul",
+        "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
+      },
+      "artists": [
+        {
+          "name": "Criminal",
+          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Victimized",
+      "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -811,6 +795,22 @@
       "duration_ms": 170161,
       "name": "Poseido Por Mezcal",
       "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     }
   ],
   "unique_name": "Metal del Nuestro",

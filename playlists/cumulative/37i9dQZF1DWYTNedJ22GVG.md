@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-168 songs - 8 hr 20 min
+169 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3TrtI6xMQnhvaQKLq8V1d2) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Christmas for Kids 2021](https://open.spotify.com/album/5zeaS2urjcLHrFR6JkiTTS) | 3:36 | 2021-12-07 | 2022-11-13 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1JJUsWVriEtXr8lHSQXTIy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:36 | 2021-12-07 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/489nZybL79w209ELXWJyVK) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 3:36 | 2021-12-07 | 2022-07-29 |
-| [Santa Shimmy](https://open.spotify.com/track/1TStrtvufeRfHOG7ItASvW) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/1rstp3wPLzKWvJpu69Oy5K) | 2:23 | 2022-12-02 |  |
+| [Santa Shimmy](https://open.spotify.com/track/1TStrtvufeRfHOG7ItASvW) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/1rstp3wPLzKWvJpu69Oy5K) | 2:23 | 2022-12-02 | 2023-04-13 |
+| [Santa Shimmy](https://open.spotify.com/track/2weFohLuMJjpnFGGFEBsYm) | [Rooftop Reindeer](https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn) | [Santa Shimmy](https://open.spotify.com/album/7gnhshacak6BO7hSdGe77B) | 2:23 | 2022-12-19 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0un8vLp0hSudAJNLjImTEE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [ŚWIĘTA, ŚWIĘTA](https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub) | 3:23 | 2021-12-07 | 2022-11-13 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-07 |  |
 | [Santa Tell Me](https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/2Y42QS2bGi5NokHzjticau) | 3:24 | 2021-12-07 | 2022-07-29 |

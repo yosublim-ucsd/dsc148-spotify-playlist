@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Judas (Remix)",
+        "url": "https://open.spotify.com/album/0OWgbzA8mHalgTp1LEk1EO"
+      },
+      "artists": [
+        {
+          "name": "unhappier",
+          "url": "https://open.spotify.com/artist/6o5lVMrUbrSMhvqSxl8mPV"
+        },
+        {
+          "name": "kevoxx",
+          "url": "https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206001,
+      "name": "Judas - Remix",
+      "url": "https://open.spotify.com/track/67GSlGtRJfH20l3hY3snUq"
+    },
+    {
+      "album": {
         "name": "Judas (Sped Up)",
         "url": "https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt"
       },
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 206355,
       "name": "Judas - Sped Up",
       "url": "https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2"

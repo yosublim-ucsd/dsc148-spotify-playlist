@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,003 likes - 288 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,298 likes - 288 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 103 | [La Isla Bonita](https://open.spotify.com/track/1tBe56PF0tk8GsNkMMWZqN) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [La Isla Bonita](https://open.spotify.com/album/6XnAqlJtTxYW1X6MtQJ7B4) | 3:15 |
 | 104 | [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 |
 | 105 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 |
-| 106 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3WIu5NaDdoGCuYJS6QyQuA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:40 |
+| 106 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3vbMwZ0NXsJ1dGMNEfr9ar) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:40 |
 | 107 | [Have I Told You Lately](https://open.spotify.com/track/685KqTbzJzUKcStO5m1VD8) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Have I Told You Lately](https://open.spotify.com/album/3SKmeoVfGxc9RePhU4j6wu) | 3:01 |
 | 108 | [Shallow \- Piano Version](https://open.spotify.com/track/5zqW1M5Tkl07Nl2kGznE7F) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:56 |
 | 109 | [Photograph \(Instrumental Piano\)](https://open.spotify.com/track/0UNXTLCFf3erUgsO8IH4aK) | [Matchstick Piano Man](https://open.spotify.com/artist/4aKuEXqhHmIZKdDRkaPPKO) | [Photograph \(Instrumental Piano\)](https://open.spotify.com/album/6I1ceSGsVPEfRnqyyTHwKj) | 5:08 |
@@ -243,7 +243,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 233 | [Here Comes The Sun](https://open.spotify.com/track/4hqMmYfRcq2sKBjEe5luh2) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Here Comes The Sun](https://open.spotify.com/album/7IJAUyshIQvMyL9TQjWmDd) | 1:53 |
 | 234 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 |
 | 235 | [Lose You To Love Me](https://open.spotify.com/track/0R9KMCqqe2YVA5dEWQMqzP) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [Lose You To Love Me](https://open.spotify.com/album/4uFMkF6JI6EXjYx7eOaU9L) | 4:22 |
-| 236 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 |
+| 236 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 |
 | 237 | [Hold Me Closer](https://open.spotify.com/track/5P0j2h3b7nDXO3FkEqJift) | [Macey Clark](https://open.spotify.com/artist/0n5zpFOM2xi6mg5pxjfdSV) | [Hold Me Closer](https://open.spotify.com/album/2SrfBzKsI9JmhZ6YPLWAh6) | 3:01 |
 | 238 | [Nothing Compares 2 U](https://open.spotify.com/track/0rPLpzCJKIwMkM5GHZNm4F) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [Nothing Compares 2 U](https://open.spotify.com/album/2DNhkwLs1DMGYrQjBbamuF) | 3:13 |
 | 239 | [I Like Me Better](https://open.spotify.com/track/4STW1iP7o2MpsKzJqtFYPN) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [I Like Me Better](https://open.spotify.com/album/1ilNJ3bCe2jyKIAqjo9iIw) | 2:33 |
@@ -290,11 +290,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 280 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 |
 | 281 | [One Of Us](https://open.spotify.com/track/7vS01bOyErbineyhSYAHsb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [One Of Us](https://open.spotify.com/album/1MoSFx6eT5FbFieAKNYapF) | 3:05 |
 | 282 | [Memories](https://open.spotify.com/track/6EEFUnAypbEwE4GgYD6b6U) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Memories](https://open.spotify.com/album/0KpBrDZSwmXHkmd3ffhQEn) | 3:35 |
-| 283 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 |
+| 283 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 |
 | 284 | [Umbrella](https://open.spotify.com/track/3HO6iT9UmEmwsgAAIxTc43) | [Deborah Sonderburg](https://open.spotify.com/artist/0mnW26sAqwV1hfsNEC1uWJ) | [Umbrella](https://open.spotify.com/album/5Zr0iVZy8Ns5eB9qCznBRW) | 3:40 |
 | 285 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 |
 | 286 | [Whiter Shade Of Pale](https://open.spotify.com/track/5tad82kRjYxtO4Ed6zvdPT) | [Maya Jackson](https://open.spotify.com/artist/0Fk3a9naiKu7BbE7UgtKfI) | [Whiter Shade Of Pale](https://open.spotify.com/album/4bdQKUBmMXxBCpECgwqTWD) | 2:27 |
 | 287 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 288 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 |
 
-Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDBjOTBhM2ZhMjRkNThlZDY5MGNkNjIyNGQ2MGRhZTM2`
+Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMGI0ZTcwMmYxYjllMDllNDRiMTljNGRiNzE5YTgzMzgw`

@@ -1,12 +1,12 @@
 {
   "description": "To all the 7abieb out there. Cover: Assala Nasri.",
-  "num_followers": 133656,
+  "num_followers": 133761,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk0OTEwNiwwMDAwMDAwMDU1YjA3NjQwOTUzNzc0MDg0NWRhMDU3NWM1OGM5MzU5",
+  "snapshot_id": "MTY3ODk0OTEwNiwwMDAwMDAwMDQwMTFkMjQzYmYxZGZiNGVjNzZjNjE1ZmU5ODE3OTQ1",
   "tracks": [
     {
       "added_at": "2023-03-16 06:45:06",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-16 06:45:06",
       "album": {
-        "name": "Howa Nafs El Shouk",
-        "url": "https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM"
-      },
-      "artists": [
-        {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
-        }
-      ],
-      "duration_ms": 317250,
-      "name": "Howa Nafs El Shouk",
-      "url": "https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1"
-    },
-    {
-      "added_at": "2023-03-16 06:45:06",
-      "album": {
         "name": "\u0648 \u0627\u0646\u0627 \u0645\u0639\u0627\u0643",
         "url": "https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 181657,
       "name": "\u0648 \u0627\u0646\u0627 \u0645\u0639\u0627\u0643",
       "url": "https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6"
+    },
+    {
+      "added_at": "2023-03-16 06:45:06",
+      "album": {
+        "name": "Howa Nafs El Shouk",
+        "url": "https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "duration_ms": 317250,
+      "name": "Howa Nafs El Shouk",
+      "url": "https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1"
     },
     {
       "added_at": "2023-03-16 06:45:06",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-03-16 06:45:06",
       "album": {
-        "name": "\u0645\u0644\u062d\u0645 \u0632\u064a\u0646 \u0648\u0646\u0648\u0631 \u0627\u0644\u0632\u064a\u0646 (feat. Noor Al Zain)",
-        "url": "https://open.spotify.com/album/2sPvLAdwUWpMFWaiL4Z8Gm"
+        "name": "Badi Yaha",
+        "url": "https://open.spotify.com/album/4JufpYrvGOMvDk93nDUuHk"
       },
       "artists": [
         {
-          "name": "Melhem Zein",
-          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
-        },
-        {
-          "name": "Nour Al Zain",
-          "url": "https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 166500,
-      "name": "\u0645\u0644\u062d\u0645 \u0632\u064a\u0646 \u0648\u0646\u0648\u0631 \u0627\u0644\u0632\u064a\u0646 (feat. Noor Al Zain)",
-      "url": "https://open.spotify.com/track/66pcEVrz1i9un38OpJvGXW"
+      "duration_ms": 330000,
+      "name": "Badi Yaha",
+      "url": "https://open.spotify.com/track/3dpmAlNb8lCUkb6DdP5PIS"
     },
     {
       "added_at": "2023-03-16 06:45:06",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-03-16 06:45:06",
       "album": {
-        "name": "Badi Yaha",
-        "url": "https://open.spotify.com/album/4JufpYrvGOMvDk93nDUuHk"
+        "name": "\u0645\u0644\u062d\u0645 \u0632\u064a\u0646 \u0648\u0646\u0648\u0631 \u0627\u0644\u0632\u064a\u0646 (feat. Noor Al Zain)",
+        "url": "https://open.spotify.com/album/2sPvLAdwUWpMFWaiL4Z8Gm"
       },
       "artists": [
         {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+          "name": "Melhem Zein",
+          "url": "https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0"
+        },
+        {
+          "name": "Nour Al Zain",
+          "url": "https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH"
         }
       ],
-      "duration_ms": 330000,
-      "name": "Badi Yaha",
-      "url": "https://open.spotify.com/track/3dpmAlNb8lCUkb6DdP5PIS"
+      "duration_ms": 166500,
+      "name": "\u0645\u0644\u062d\u0645 \u0632\u064a\u0646 \u0648\u0646\u0648\u0631 \u0627\u0644\u0632\u064a\u0646 (feat. Noor Al Zain)",
+      "url": "https://open.spotify.com/track/66pcEVrz1i9un38OpJvGXW"
     },
     {
       "added_at": "2023-03-16 06:45:06",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-03-16 06:45:06",
       "album": {
+        "name": "Weinak",
+        "url": "https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3"
+      },
+      "artists": [
+        {
+          "name": "Hadi Aswad",
+          "url": "https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q"
+        }
+      ],
+      "duration_ms": 213591,
+      "name": "Weinak",
+      "url": "https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI"
+    },
+    {
+      "added_at": "2023-03-16 06:45:06",
+      "album": {
         "name": "Ma Bzon",
         "url": "https://open.spotify.com/album/3tPtKMySR5CybTn4faIcGM"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 251769,
       "name": "Ma Bzon",
       "url": "https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags"
-    },
-    {
-      "added_at": "2023-03-16 06:45:06",
-      "album": {
-        "name": "Aleb Albi",
-        "url": "https://open.spotify.com/album/6bmVNmHt840K2iWz3F4UN4"
-      },
-      "artists": [
-        {
-          "name": "Karim Nour",
-          "url": "https://open.spotify.com/artist/5HArEmaE0ebTGJnUpurfIo"
-        }
-      ],
-      "duration_ms": 219183,
-      "name": "Aleb Albi",
-      "url": "https://open.spotify.com/track/36jmUC55efoLTEheXaNZOp"
     }
   ],
   "unique_name": "Arabic Love Songs",

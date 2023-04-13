@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,573 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,594 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 22 | [Pisces Problems](https://open.spotify.com/track/5UjX3Om5Cbob1U4nVxT69q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Pisces Problems](https://open.spotify.com/album/4vRA6Vhc1ukjXJEsybdIiB) | 4:14 |
 | 23 | [Crazy](https://open.spotify.com/track/5UIq2zbapMbSU7Z2SEq8j0) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:42 |
 | 24 | [Cards](https://open.spotify.com/track/7DOMxZDc3pglcHuXivRxa9) | [Hancoq](https://open.spotify.com/artist/78c8pJBdUS6WwWWeoJ5z1W) | [Cards](https://open.spotify.com/album/3vtyuuVe1omoyXcjPNrStt) | 3:15 |
-| 25 | [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 |
+| 25 | [Everyday](https://open.spotify.com/track/3gO9EjA1fyvkbIPfcCy1wF) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 2:51 |
 | 26 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 |
 | 27 | [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 |
 | 28 | [Monologue](https://open.spotify.com/track/2gV5NMri6fyQfOf2M1ovJM) | [Putrika](https://open.spotify.com/artist/5awAtBuVQEV68Nvs1loiby) | [Silmara](https://open.spotify.com/album/1px4Nxt7hD6KtVBlNLDXzb) | 4:30 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 44 | [The Topic](https://open.spotify.com/track/2fp2EVMfIWJxpX4h5XQn5Q) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Personal Effects/The Topic](https://open.spotify.com/album/5E9QGqcCm1p8aNqq6DoAwX) | 2:10 |
 | 45 | [Real Luv](https://open.spotify.com/track/4N1Vch91SH2b2xrseGfHTy) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:35 |
 | 46 | [Aussie Raver](https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l) | [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Aussie Raver](https://open.spotify.com/album/4TKmOab6AcYpZmYw44Qkxd) | 2:59 |
-| 47 | [Broken Home](https://open.spotify.com/track/5HkrOPVgvScZfMvaF4YdA2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Broken Home](https://open.spotify.com/album/5Ds8eIOH8MuWTFTLWqKI30) | 3:09 |
+| 47 | [Broken Home](https://open.spotify.com/track/76epGKVhxWA7gEYcjAs3em) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/4ysvIWQ8gBcxdK7lhsMttg) | 3:09 |
 | 48 | [Horseplay](https://open.spotify.com/track/32NHD872Tc7Mh9upntoWjN) | [The Living Eyes](https://open.spotify.com/artist/4Z4RMwDmV4PnKo93AneaqA) | [Modern Living](https://open.spotify.com/album/6H2WvFXkzTqkTLeCdIjsMf) | 2:05 |
 | 49 | [3 AM](https://open.spotify.com/track/1zLH9CLHFlCQ22stPDOgei) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 |
 | 50 | [Wondering](https://open.spotify.com/track/7a8tEqIwhpLSDnWMh4wegm) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Wondering](https://open.spotify.com/album/6Oz6QbpTCVuEUM61gfcBNO) | 3:26 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 124 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 125 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMGM5OGU2Njg5YjViNjNmYmJkYmRjOTdkYmYyNGEyMjYz`
+Snapshot ID: `MTY2MzcxMzczNywwMDAwMDAwMGYzZTU1MDM3ZmVlZGViNGI2MDZhMzg3MjQzY2MxN2U3`

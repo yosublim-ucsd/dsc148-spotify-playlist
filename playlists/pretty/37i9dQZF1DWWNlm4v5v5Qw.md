@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Joony
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,089 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,096 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 75 | [Something To Talk About](https://open.spotify.com/track/7hKWeVTJDVKf9Ogd21RmpB) | [Until The Very End](https://open.spotify.com/artist/5Jv5Lpg9AV9WJK9kfnZAX0), [FNSHLINE](https://open.spotify.com/artist/2BveIQx5v3GG0w8aI7zFUE) | [Something To Talk About](https://open.spotify.com/album/4MaSCgUF7hMjc7QCdIBsb0) | 3:37 |
 | 76 | [No Idea](https://open.spotify.com/track/4nm75i28hDQ7O3BTAAH4Af) | [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [No Idea](https://open.spotify.com/album/7ElhteNY76LkciyHyttnNS) | 3:21 |
 
-Snapshot ID: `MTY3NDU0MjIyNiwwMDAwMDAwMGZmY2FiMTU2Y2E5YmVmYmY0MDQyNzYwODk1NTIzOTc2`
+Snapshot ID: `MTY4MTMyNzA5OSwwMDAwMDAwMDRkZjhlODkzYzIwZTU5ZjMyMmYwMGNhNmMzMWM3OTQx`

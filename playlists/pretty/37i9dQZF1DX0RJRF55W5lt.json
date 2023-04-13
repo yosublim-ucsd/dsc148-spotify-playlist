@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 472724,
+  "num_followers": 472913,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1MzQ5MywwMDAwMDAwMDc4ODk0ZTI3NmYwMjhiZDk2OTZmM2NlMjliZDU0NWQy",
+  "snapshot_id": "MTY3NDA1MzQ5MywwMDAwMDAwMGJlNTE5MDI1N2MzMjU3YzkzNDg5ZWVkYThiNTYxYzkz",
   "tracks": [
     {
       "added_at": "2023-01-18 14:51:32",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
+        "name": "Nitelife - Armand Van Helden Remixes",
+        "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
+      },
+      "artists": [
+        {
+          "name": "Kim English",
+          "url": "https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs"
+        }
+      ],
+      "duration_ms": 417401,
+      "name": "Nitelife - Armand Van Helden Retail Mix",
+      "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
         "name": "I Refuse: Collected, Vol.1 (Remixes)",
         "url": "https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 207626,
       "name": "I Refuse (What You Want) - Industry Standard Radio Mix",
       "url": "https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
-        "name": "Nitelife - Armand Van Helden Remixes",
-        "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
-      },
-      "artists": [
-        {
-          "name": "Kim English",
-          "url": "https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs"
-        }
-      ],
-      "duration_ms": 417401,
-      "name": "Nitelife - Armand Van Helden Retail Mix",
-      "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
-        "name": "Friendly Pressure (Sunship Remixes)",
-        "url": "https://open.spotify.com/album/4xL1q1T0osu9ecX7OCbf84"
-      },
-      "artists": [
-        {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
-        },
-        {
-          "name": "Sunship",
-          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Friendly Pressure - Into The Sunshine Edit",
-      "url": "https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
         "name": "Raw Talent: 3 Years In The Makin' (2007-2010)",
         "url": "https://open.spotify.com/album/6GvInLag1pb1mhCn11p5iw"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 239173,
       "name": "Joyrider - Y Tribe's Underground Remix",
       "url": "https://open.spotify.com/track/01GLLCecGsPfuPmFHDqMCu"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
+        "name": "Friendly Pressure (Sunship Remixes)",
+        "url": "https://open.spotify.com/album/4xL1q1T0osu9ecX7OCbf84"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Friendly Pressure - Into The Sunshine Edit",
+      "url": "https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE"
     },
     {
       "added_at": "2023-01-18 14:51:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-18 14:51:32",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
-      },
-      "artists": [
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        }
-      ],
-      "duration_ms": 306250,
-      "name": "What Going On",
-      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
-    },
-    {
-      "added_at": "2023-01-18 14:51:32",
-      "album": {
         "name": "Gunman (Mixes)",
         "url": "https://open.spotify.com/album/5WlWdMiVWjV7wMUgb3IqTa"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 381133,
       "name": "Gunman - Original Mix",
       "url": "https://open.spotify.com/track/0Up12IjvIK9StffpZeFJtG"
+    },
+    {
+      "added_at": "2023-01-18 14:51:32",
+      "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 306250,
+      "name": "What Going On",
+      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
     },
     {
       "added_at": "2023-01-18 14:51:32",

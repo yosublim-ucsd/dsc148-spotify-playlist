@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57100,
+  "num_followers": 57122,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGEzZTdkZmJhNmQ1ZWJlYThmOGQ0ZjZiYjgwYjM2YWNm",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDkwNjU2NTRlMzg3M2IwYjJmODFlMzFhOGY3YmFhM2Nj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -91,26 +91,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Groove Society",
-        "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Wongo",
-          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
-        }
-      ],
-      "duration_ms": 183372,
-      "name": "Groove Society",
-      "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -131,6 +111,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Lille Vals",
+        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+      },
+      "artists": [
+        {
+          "name": "Storken",
+          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+        }
+      ],
+      "duration_ms": 235176,
+      "name": "Lille Vals",
+      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Place And Time",
         "url": "https://open.spotify.com/album/6FbKm2ygSB2fq7Hl51RsaW"
       },
@@ -147,18 +143,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Lille Vals",
-        "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
+        "name": "Groove Society",
+        "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
       },
       "artists": [
         {
-          "name": "Storken",
-          "url": "https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Wongo",
+          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
         }
       ],
-      "duration_ms": 235176,
-      "name": "Lille Vals",
-      "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+      "duration_ms": 183372,
+      "name": "Groove Society",
+      "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -503,26 +503,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Ardore (feat. Tobias Bernstrup)",
-        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        },
-        {
-          "name": "Tobias Bernstrup",
-          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ardore",
-      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Ardore (feat. Tobias Bernstrup)",
+        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        },
+        {
+          "name": "Tobias Bernstrup",
+          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ardore",
+      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
     },
     {
       "added_at": "2021-08-27 15:45:01",

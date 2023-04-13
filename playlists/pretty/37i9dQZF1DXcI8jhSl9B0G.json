@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72710,
+  "num_followers": 72721,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDcxZDg4NDU2ZjNjNzY0MjBmMjExYWY3NjJlMjcxMDhj",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDI0ZjNmN2I3YTI5NWIzYjQ1YjNjYTMzMjk1N2NlMDU0",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 300915,
-      "name": "Book Full Of Answers",
-      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 300915,
+      "name": "Book Full Of Answers",
+      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "I Don't Know Who to Call",
-        "url": "https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P"
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
       },
       "artists": [
         {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
         }
       ],
-      "duration_ms": 297266,
-      "name": "Standing Still",
-      "url": "https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm"
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -725,23 +725,7 @@
       "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
     },
     {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Grew Inside the Water",
-        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 284037,
-      "name": "Society's a Mansion",
-      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
-    },
-    {
-      "added_at": "2023-04-12 01:25:21",
+      "added_at": "2023-04-13 01:18:40",
       "album": {
         "name": "Higher Now",
         "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
@@ -755,6 +739,22 @@
       "duration_ms": 258532,
       "name": "Higher Now",
       "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "What It Means to Be Human",
+        "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 275144,
+      "name": "What It Means to Be Human",
+      "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "What It Means to Be Human",
-        "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
+        "name": "I Don't Know Who to Call",
+        "url": "https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P"
       },
       "artists": [
         {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
         }
       ],
-      "duration_ms": 275144,
-      "name": "What It Means to Be Human",
-      "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
+      "duration_ms": 297266,
+      "name": "Standing Still",
+      "url": "https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm"
     },
     {
       "added_at": "2023-01-12 13:00:00",

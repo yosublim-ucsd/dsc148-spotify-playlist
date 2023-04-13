@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : ADK
 
-164 songs - 9 hr 34 min
+165 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Rebelution](https://open.spotify.com/track/5Og3Y9UvWmdmGq9OQAARA3) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Thula](https://open.spotify.com/album/1ZiHy43t34l6WJ8oXpjZW4) | 3:39 | 2021-12-01 |  |
 | [Rebelution](https://open.spotify.com/track/1LcFq1jFKAJ10SqeJsqM7m) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9) | [Thula](https://open.spotify.com/album/0XCydXuBYxqLEbUcAV9Syj) | 3:44 | 2021-12-01 | 2022-07-29 |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2023-03-10 |
-| [Roar](https://open.spotify.com/track/7fUulYbeIsQIB9F308aVfw) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Roar](https://open.spotify.com/album/1AZx4pZY4SRsvduXx4boTw) | 2:43 | 2021-12-01 |  |
+| [Roar](https://open.spotify.com/track/7fUulYbeIsQIB9F308aVfw) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Roar](https://open.spotify.com/album/1AZx4pZY4SRsvduXx4boTw) | 2:43 | 2021-12-01 | 2023-04-13 |
+| [Roar](https://open.spotify.com/track/4AjrBjzloXVM9Sz3D7HRNH) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [K2](https://open.spotify.com/artist/3Kg7IEjn6AhpYRaVWmAarq) | [Roar](https://open.spotify.com/album/79suj76HTdOdc9rvQrGotp) | 3:06 | 2021-12-01 |  |
 | [Saaral Mazhaiyaa](https://open.spotify.com/track/0TCoYdIgo4UUUzUfTkCzfJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG) | [Saaral Mazhaiyaa](https://open.spotify.com/album/6Qj3rMDgvNisofrYaX9HUU) | 3:13 | 2021-12-01 | 2022-07-29 |
 | [Saaral Mazhaiyaa \- Reprise](https://open.spotify.com/track/1qqxNmJwUd668THVbrLk7o) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG) | [Saaral Mazhaiyaa \(Reprise\)](https://open.spotify.com/album/1OSjNyNqWa4IwdAUXnhYdz) | 3:13 | 2021-12-01 |  |
 | [SAAVADI](https://open.spotify.com/track/27KTobvwJ3wqbKNQ4m1dPt) | [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Black Air Force Activity!](https://open.spotify.com/album/15kYidAlVJ7AtMx1LjOwEu) | 2:20 | 2022-04-29 | 2022-11-15 |

@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Royel Otis.
 
-920 songs - 2 day 2 hr 6 min
+921 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [A.P.C.'s](https://open.spotify.com/track/3ioSmKkBscDzLiQ8HFRyYL) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [A.P.C.'s](https://open.spotify.com/album/0CKzLhTqCYXlTXkErHCeNl) | 3:38 | 2022-06-10 | 2022-07-16 |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-03 | 2023-03-04 |
 | [Ada](https://open.spotify.com/track/2vDQzwgwucNg6Iyts3okJ8) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Ada](https://open.spotify.com/album/6ZnjyMbIWQmCiQMVMRf4tF) | 2:39 | 2021-08-27 | 2022-06-09 |
-| [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 |  |
+| [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 |  |
 | [Addicted](https://open.spotify.com/track/2dlnnHHv1ntw2M4uM1ShK1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Addicted](https://open.spotify.com/album/6mPTYS6E9dHHiIskWTfLgi) | 4:22 | 2022-04-08 | 2022-10-01 |
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 | 2022-12-08 |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
@@ -263,6 +263,7 @@
 | [Drew](https://open.spotify.com/track/67PZp26Jwm9iEM8nG864hk) | [HOAX](https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh) | [Drew](https://open.spotify.com/album/3vwkpxKzhpaCzeAlse0e6g) | 2:53 | 2022-08-05 | 2022-11-19 |
 | [Driving](https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Driving](https://open.spotify.com/album/6qbsZIWMMfIdwCqtpo1G3m) | 3:09 | 2023-03-24 |  |
 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 | 2022-12-14 | 2023-03-04 |
+| [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-04-12 |  |
 | [Drunk Voicemail](https://open.spotify.com/track/5PB2m7lhY2d2OC8Ce7dXdp) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/6FQL8QAA5mKmAIJFFxSMb1) | 3:29 | 2021-06-25 | 2022-01-21 |
 | [Dumb](https://open.spotify.com/track/3ADZ5dT4Gdau4pVmFhleBF) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Dumb](https://open.spotify.com/album/66u2QlWEFzKwpqLeHIR1Q2) | 3:58 | 2021-06-25 | 2022-04-18 |
 | [Dumb Like Daisies](https://open.spotify.com/track/1TF0Y8CmQnFZBYXcOHFHqV) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Dumb Like Daisies](https://open.spotify.com/album/1Ira1dqfMJ0mBU31nBhMw9) | 2:46 | 2023-03-24 |  |
@@ -812,7 +813,7 @@
 | [They Don't Know](https://open.spotify.com/track/2y6ENcGCRfpH6Vbeu19GMq) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [They Don't Know](https://open.spotify.com/album/0e79HmvVdyBdU9yFiPfGxl) | 3:27 | 2022-06-10 | 2022-07-16 |
 | [They Don't See Us](https://open.spotify.com/track/7cEN0BqzxPLohVdFddS7jo) | [The Tiarras](https://open.spotify.com/artist/3mqFKiCvxacWEy7rzKSe12) | [They Don't See Us](https://open.spotify.com/album/1ofkZOmwAf9UKiW0ESYi7i) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 | 2022-10-14 | 2022-12-08 |
-| [Thin Air](https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Thin Air](https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco) | 3:34 | 2023-03-03 |  |
+| [Thin Air](https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Thin Air](https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco) | 3:34 | 2023-03-03 | 2023-04-13 |
 | [Thin Thing](https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:30 | 2022-07-01 | 2022-08-17 |
 | [Think It's Real](https://open.spotify.com/track/06nE4D9SWTUFkFDhOnc4l4) | [Stanley](https://open.spotify.com/artist/3Gx4Zbk2yisVcOMxYISvxc) | [Think It's Real](https://open.spotify.com/album/2ShZJhDFUtup4Fm8TsF39h) | 4:42 | 2022-06-17 | 2022-07-09 |
 | [Think Nothing](https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Think Nothing](https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6) | 3:31 | 2022-06-25 | 2022-08-27 |

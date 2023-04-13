@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Customer Service",
+        "url": "https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112857,
+      "name": "Customer Service",
+      "url": "https://open.spotify.com/track/5Pnh1Ye2dhQOAQmxfxOV0R"
+    },
+    {
+      "album": {
         "name": "D ROD",
         "url": "https://open.spotify.com/album/2gUEha6O7cDOVFhWLWkRaw"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 181088,
       "name": "DICTATOR",
       "url": "https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk"

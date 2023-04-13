@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Camilla Magli
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,971 likes - 21 songs - 58 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19,855 likes - 21 songs - 58 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

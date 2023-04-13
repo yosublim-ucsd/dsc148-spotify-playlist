@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-129 songs - 6 hr 48 min
+131 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [The Cave](https://open.spotify.com/track/75tWMAX7gSbs3VNKgvlOST) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:59 | 2021-05-14 |  |
 | [The Contacts of the Heart](https://open.spotify.com/track/1kDq05NT6YWUG6DOYjxslU) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [Star Wars: Visions \- The Elder \(Original Soundtrack\)](https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6) | 0:37 | 2021-10-14 |  |
 | [The Desert and the Robot Auction](https://open.spotify.com/track/6I50fU69S2yz4yc96r55s2) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:52 | 2021-05-14 |  |
+| [The Doctor](https://open.spotify.com/track/3cQ8hOUwxv8QBRzkWHWdHj) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA) | 3:51 | 2023-04-12 |  |
 | [The Duel](https://open.spotify.com/track/5zcAxtO4veMV9vq8SuHgKf) | [Keiji Inai](https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34) | [Star Wars: Visions \- The Duel \(Original Soundtrack\)](https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV) | 3:47 | 2021-10-14 |  |
 | [The Elder](https://open.spotify.com/track/1iV33yjaj3BojLVuYHSg2V) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr) | [Star Wars: Visions \- The Elder \(Original Soundtrack\)](https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6) | 0:55 | 2021-10-14 |  |
 | [The Empire](https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [Star Wars: Visions \- Lop & Ochō \(Original Soundtrack\)](https://open.spotify.com/album/691oSq9pczFEuW75oWesid) | 0:46 | 2021-10-14 |  |
@@ -124,6 +125,7 @@
 | [The Rebellion Is Reborn](https://open.spotify.com/track/17UYYIhQ8IDbm1ImKRblxE) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:59 | 2021-05-14 |  |
 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 | 2021-05-14 |  |
 | [The Sacred Jedi Texts](https://open.spotify.com/track/74BhnLENTXul5hgjC7NaUj) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:32 | 2021-05-14 |  |
+| [The Sacrifice](https://open.spotify.com/track/1sAE0vqLfXWlAqOJlPWTmT) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch – Season 2: Vol\. 2 \(Episodes 9\-16\) \[Original Soundtrack\]](https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA) | 4:10 | 2023-04-12 |  |
 | [The Spark](https://open.spotify.com/track/1gaPmqLrbaOAFNnuNGc4sQ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:35 | 2021-05-14 |  |
 | [The Supremacy](https://open.spotify.com/track/6VVazVCT7PMofEkMXDdbEo) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:00 | 2021-05-14 |  |
 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 | 2021-05-14 |  |

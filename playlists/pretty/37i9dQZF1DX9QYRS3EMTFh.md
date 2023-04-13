@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,395 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,423 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 37 | [Dancehall Need Mi](https://open.spotify.com/track/3BmircqF5zplm6dGNjGP0e) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Dancehall Need Mi](https://open.spotify.com/album/5FEuBK4x9fChECilvRHeq7) | 2:40 |
 | 38 | [Acteur](https://open.spotify.com/track/7aqraZFHYT0Ayge14i3YKz) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [Acteur](https://open.spotify.com/album/3DmfmZlQcNnK5H332CHaEf) | 2:38 |
 | 39 | [AN BISTAN](https://open.spotify.com/track/5hJ9ogbG8cAHhRMZzH5IRf) | [Dexterman](https://open.spotify.com/artist/4LUtcJp5ptV2L2J1JvU401) | [AN BISTAN](https://open.spotify.com/album/6ZHSAv2ZGaB3VMoYBQRJSJ) | 3:14 |
-| 40 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
+| 40 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
 
 Snapshot ID: `MTY4MDgxODQwMCwwMDAwMDAwMGJlNGM2NzNmYTFkNjQ4OWQ2MzIzM2VhMGI0NmFlMTU4`

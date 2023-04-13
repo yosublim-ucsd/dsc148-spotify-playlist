@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ruston Kelly
 
-1,082 songs - 2 day 18 hr 31 min
+1,083 songs - 2 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,7 +743,8 @@
 | [Real Heart](https://open.spotify.com/track/6jjpqcjHaH42fu2lY4E0Wl) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [Real Heart](https://open.spotify.com/album/3MnrQYNpy5o9H4bGhkkpdU) | 3:48 | 2022-02-04 | 2022-04-29 |
 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 | 2022-02-25 | 2022-05-07 |
 | [Real Low Down Lonesome](https://open.spotify.com/track/3lTz2FIBPO41MvQSAMBEWq) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Real Low Down Lonesome](https://open.spotify.com/album/1umFpAK7jLxvDo1gt4uMPZ) | 4:29 | 2022-08-12 | 2023-01-28 |
-| [Reconcile](https://open.spotify.com/track/2vs0RhsIWB4XzveB4nlrSw) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Reconcile](https://open.spotify.com/album/1iC2prfgUGLnEHdoxS5yyq) | 3:05 | 2023-03-10 |  |
+| [Reconcile](https://open.spotify.com/track/2vs0RhsIWB4XzveB4nlrSw) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Reconcile](https://open.spotify.com/album/1iC2prfgUGLnEHdoxS5yyq) | 3:05 | 2023-03-10 | 2023-04-13 |
+| [Reconcile](https://open.spotify.com/track/7KBdFKkTlDbEvy0db2JUWS) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 3:05 | 2023-04-07 |  |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/23W60m1igNcv0DUov523DO) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45) | 5:26 | 2022-04-08 | 2022-07-09 |
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-02-11 | 2022-03-12 |
 | [Reflections on a Grey Dawn \(feat\. Dustin O'Halloran\)](https://open.spotify.com/track/7L8PyLWwV31eqS103InLpy) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Through A Dark Wood \(Deluxe\)](https://open.spotify.com/album/1rtITQyh99ofMUNbRfnz6u) | 4:18 | 2021-11-19 | 2022-03-05 |

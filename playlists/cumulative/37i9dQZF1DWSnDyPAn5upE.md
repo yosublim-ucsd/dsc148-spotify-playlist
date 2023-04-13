@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-145 songs - 11 hr 17 min
+146 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Beansidhe](https://open.spotify.com/track/01nEBz1yEJszu05eQ1q7Xl) | [Aine O'dwyer](https://open.spotify.com/artist/3VQBEcGozNZB1TLUStXBzx) | [Gallarais](https://open.spotify.com/album/16IaZrnkucds6PlB7MuhFr) | 7:36 | 2022-05-18 | 2022-07-28 |
 | [Bones Knowing](https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Bones Knowing](https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG) | 4:00 | 2023-01-06 |  |
 | [Bright Girl](https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 7:24 | 2022-05-18 |  |
-| [By the Shore](https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 7:20 | 2022-05-18 |  |
+| [By the Shore](https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 7:20 | 2022-05-18 | 2023-04-13 |
 | [Calendar of Days](https://open.spotify.com/track/4BCCwuUMSjpOzpoBJJ6eYo) | [PDP III](https://open.spotify.com/artist/2Esvw7cg26pnkY21vbFuos), [Britton Powell](https://open.spotify.com/artist/2JrU8x8JbXJRhiVNvvXpxV), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Pilled Up on a Couple of Doves](https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6) | 5:39 | 2022-05-18 | 2022-07-29 |
 | [Canard Apicius..........](https://open.spotify.com/track/2iFBu52IjPSXkPtyiyHbB3) | [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f) | [Huit Ou Neuf Pieces Dorees A Point](https://open.spotify.com/album/6ScmzBPZ8Im98kVdAnXG0k) | 3:13 | 2022-05-18 | 2022-07-27 |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-05-18 |  |
@@ -54,6 +54,7 @@
 | [Drømmefanger \(Extended\)](https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry) | 3:03 | 2022-07-01 |  |
 | [Drømmefanger \- Extended](https://open.spotify.com/track/5IcxhWqyBlJei4vfk7Cq0J) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/2IEBtMYrYwqGfLXYPTSAHn) | 3:03 | 2022-05-18 | 2022-07-26 |
 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 | 2022-05-18 |  |
+| [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 | 2023-03-24 |  |
 | [Everlane](https://open.spotify.com/track/2klgVgBoXJsxYtcbPmun2q) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Clark](https://open.spotify.com/album/13944rqffz0QLBUe04vY0r) | 4:48 | 2022-05-18 | 2023-01-15 |
 | [fall \(Hania Rani Rework\) \(feat\. Hania Rani\)](https://open.spotify.com/track/2Pdz8PtiGiZCHwGiuDVX2n) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [fall \(Hania Rani Rework\) \(feat\. Hania Rani\)](https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk) | 4:29 | 2023-03-24 |  |
 | [Fantas Variation for Voices](https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Annie Garlid](https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V), [Stine Janvin](https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 7:40 | 2022-05-18 |  |

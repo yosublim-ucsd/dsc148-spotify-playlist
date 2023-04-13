@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,225 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,270 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1053,7 +1053,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1043 | [Me Ting Is Mine](https://open.spotify.com/track/7phs8p7M5GYN29hw6LNWt7) | [Orchestral Overture](https://open.spotify.com/artist/61CqGLb0hKwsA0F5zykf66) | [No Crime, No Law](https://open.spotify.com/album/5KYt3n68kE7HIWLPraFBdm) | 3:07 |
 | 1044 | [Golden Lady](https://open.spotify.com/track/347p4ZQ9qTdbkxYrFcGrvP) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [And The Feeling's Good](https://open.spotify.com/album/6aYD33wyCptp3ZOGHuHd4M) | 4:22 |
 | 1045 | [Market Place](https://open.spotify.com/track/2BkGCP55uxvDSF9UwNmTPw) | [Eden Ahbez](https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS) | [Eden's Island](https://open.spotify.com/album/6KnWHN5XZ4eMqGFOYyCKyI) | 2:30 |
-| 1046 | [O Que É O Que É?](https://open.spotify.com/track/5P1YRVQ1QaVtLsjl0M5qGj) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Meus Momentos](https://open.spotify.com/album/6qQ5dmUE8sqFqqCtBRtRj0) | 4:19 |
+| 1046 | [O Que É O Que É?](https://open.spotify.com/track/2u6dohtPb5vRYvmqEdxbcz) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Raizes Do Samba](https://open.spotify.com/album/0MM50Se76XvcfAnHdYQ9gy) | 4:20 |
 | 1047 | [Fá\-êu\-á](https://open.spotify.com/track/7g7MPIOQ6nq28bOUTDdJqY) | [Meicio Askanasy, José Prates, Ivan de Paula](https://open.spotify.com/artist/28ljP12QBsgioe7MMMnq8g) | [Tam…Tam…Tam…!](https://open.spotify.com/album/1N2zdpYLoy6y55eT6A1n8W) | 2:31 |
 | 1048 | [Tropical Suite: São Paulo](https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH) | [Poni Hoax](https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD) | [Tropical Suite](https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3) | 2:06 |
 | 1049 | [Canticle](https://open.spotify.com/track/5PrmwfRJTvYy7DoTpOjL8s) | [Les Hommes](https://open.spotify.com/artist/2Cvdhz7BUQbO4LxeBBQM8s) | [The Sinner](https://open.spotify.com/album/4dGYodrtxGcPwO6beyEI2K) | 3:11 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDdjZjI4MjMzNGUyNjJkZGIzMDZjNjBjMmU4MDY5ZGI4`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDIzZjM4YmQ3N2ZhZTg2ZDFmZjU0Yzk0YmQ3Y2FjMzQ1`

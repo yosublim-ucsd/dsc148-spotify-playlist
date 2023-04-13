@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,291 likes - 173 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,435 likes - 173 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 39 | [The Sound of Silence](https://open.spotify.com/track/6LwO9pzd8TTZ5SIUnmG5N9) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [The Sound of Silence](https://open.spotify.com/album/3Fa9MpSoql0TJLTYRuNK9p) | 2:33 |
 | 40 | [See You Again](https://open.spotify.com/track/7bnHkXBteAwu9heqPphwvi) | [Prince May](https://open.spotify.com/artist/0XOki1WQ88CrMMMozwk3CH) | [See You Again](https://open.spotify.com/album/0zFFBkjNYzzO4Z04aRgMz0) | 2:16 |
 | 41 | [Over The Rainbow](https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Over The Rainbow](https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK) | 3:29 |
-| 42 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 |
+| 42 | [Heat Waves \- Guitar](https://open.spotify.com/track/3ViX2a4RmIXOM0z3aeaxMc) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/4xLyBp6kJNpFjYP1OaLXlK) | 4:08 |
 | 43 | [Don't Start Now](https://open.spotify.com/track/7GhDCGALFBPrsXycSH8q6Q) | [Mike Ilyas](https://open.spotify.com/artist/2owXblciNaXXMUdm6nNfDe) | [Mike Ilyas](https://open.spotify.com/album/38uIgrRbN63mXyyquWx21j) | 2:27 |
 | 44 | [7 Years](https://open.spotify.com/track/33xbeA5idmgJrUVx9kvj4y) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [7 Years](https://open.spotify.com/album/2An49unnnWyCgQgywRri0q) | 2:20 |
 | 45 | [Baby I love your way](https://open.spotify.com/track/5Yee4GWzUPwCPG6F2En5p6) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Baby I Love Your Way](https://open.spotify.com/album/0mEG8pXr3z8bT7Nw1lNYPQ) | 2:23 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 105 | [Are You With Me](https://open.spotify.com/track/4ZBRS9HzPEaMH1NPUkHnhT) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Are You With Me](https://open.spotify.com/album/0my0OShiIp91mnj5FH6VaZ) | 2:19 |
 | 106 | [Only Wanna Be With You](https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Only Wanna Be With You](https://open.spotify.com/album/39liycElEFslWeDOpDrwt8) | 3:27 |
 | 107 | [Dance Monkey](https://open.spotify.com/track/3ZOMozp2217JJafowbJdeg) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Dance Monkey](https://open.spotify.com/album/7a6BdaLUK7bPGu7fPYfWTD) | 2:51 |
-| 108 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 |
+| 108 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 |
 | 109 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 |
 | 110 | [Theme From Fame](https://open.spotify.com/track/7cPAikRrGu1nu5vNHFHZda) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Theme From Fame](https://open.spotify.com/album/1SL6Hdtc3Qqtev8U8wxl8G) | 3:08 |
 | 111 | [Demons](https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Demons](https://open.spotify.com/album/38CMtYhTZkGGCAi63jiTDi) | 2:48 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 116 | [Paradise](https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Paradise](https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1) | 2:16 |
 | 117 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/2SvmLf1WGMevA1POgmsE1j) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/6swVpYrlkNRQXgKuvLPN6n) | 2:46 |
 | 118 | [Höstvisa](https://open.spotify.com/track/0mzIHWDRo3GNCE24OxU5Cn) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Höstvisa](https://open.spotify.com/album/2At7owW3nBBJ2OTsUucXi6) | 2:42 |
-| 119 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 |
+| 119 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 |
 | 120 | [Time After Time](https://open.spotify.com/track/7lys79KCKl7e7TMLrzVvk0) | [Pablo & Pietro](https://open.spotify.com/artist/7I0P5tFaSG1jsn51OAFZw6) | [Time After Time](https://open.spotify.com/album/5Hms8V6dE7ugno8Di3yAzT) | 2:42 |
 | 121 | [You're The Inspiration](https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [You're The Inspiration](https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU) | 2:20 |
 | 122 | [Crush](https://open.spotify.com/track/4aUK9c6yenNpRaW4vUpky5) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Crush](https://open.spotify.com/album/6M2iRJvWOyljL7eUMJk7bB) | 2:48 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 172 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 |
 | 173 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 |
 
-Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMDAwNmY1ZDY2MTM4YWQ2MDY2MzAxZWEyYWMyMzQ4YzNm`
+Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMDBjZjNkN2IwYzE1N2M3NDM1MDk3OTJkYzUzNTZjZmIx`

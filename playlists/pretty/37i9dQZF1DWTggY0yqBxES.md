@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Danny Brown & JPEGMAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,679 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,817 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 40 | [soundgood](https://open.spotify.com/track/4RD3NTwg4EobH0zvvGqABa) | [B\. Cool\-Aid](https://open.spotify.com/artist/2Ng5YIxfFxELV3scQVISlB), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Ahwlee](https://open.spotify.com/artist/5vNXUBHObHA5ToiPJjtmxh), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [soundgood](https://open.spotify.com/album/4kFH9UDdmg25A7T8Fc4s1G) | 2:43 |
 | 41 | [Boba Tea](https://open.spotify.com/track/2RwdRl0lzQz5sHsSgNwdIs) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Abhi Vs\. Kato II: Gold Standard](https://open.spotify.com/album/0ysfcaZlzhgNqeu7UHtBAZ) | 1:54 |
 | 42 | [Sticky \(feat\. Childish Gambino & KIRBY\)](https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 2:51 |
-| 43 | [JD's REVENGE](https://open.spotify.com/track/1cRK9E0MUzxjiVSWhgYCDC) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [JD's REVENGE](https://open.spotify.com/album/1wyTY0dWTlbntVOgdvXtyL) | 2:04 |
+| 43 | [JD's REVENGE](https://open.spotify.com/track/1cRK9E0MUzxjiVSWhgYCDC) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [JD's REVENGE](https://open.spotify.com/album/1wyTY0dWTlbntVOgdvXtyL) | 2:16 |
 | 44 | [Gentleman's Sweep](https://open.spotify.com/track/3e6PTJYRmgMBASVVl2l9Gd) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Gentleman's Sweep](https://open.spotify.com/album/1WIvyIEkE7X2J5W6RN9Ri5) | 2:20 |
 | 45 | [Keep From Falling](https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Keep From Falling](https://open.spotify.com/album/2XrROypIe8YTa9kWrFBIaB) | 3:56 |
 | 46 | [giftbag](https://open.spotify.com/track/1xi2Knd4pP48wp0Jxy5Frk) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [giftbag](https://open.spotify.com/album/4GPhMblkfeLwJkTXDxaYBx) | 2:49 |

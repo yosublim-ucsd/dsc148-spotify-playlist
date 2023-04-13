@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 63001,
+  "num_followers": 63032,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGNkYzc3MjM5YjM0NjkzMzljY2RjODYxMGJjMTdjM2Zl",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMDM1MDc2NDViMjc4ZTkyZGViYzNhZWIwYTllMGM5NTQ2",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
-        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 263853,
-      "name": "Monologue Note",
-      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "June is Natural",
         "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 242013,
       "name": "June is Natural",
       "url": "https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 Collection Album (vol.2)",
+        "url": "https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 263853,
+      "name": "Monologue Note",
+      "url": "https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "ONE dream",
-        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
+        "name": "i7",
+        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
       },
       "artists": [
         {
           "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
           "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
         }
       ],
-      "duration_ms": 268000,
-      "name": "ONE dream",
-      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
+      "duration_ms": 269466,
+      "name": "Fly away!",
+      "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "i7",
-        "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
+        "name": "ONE dream",
+        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
       },
       "artists": [
         {
           "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
           "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
         }
       ],
-      "duration_ms": 269466,
-      "name": "Fly away!",
-      "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
+      "duration_ms": 268000,
+      "name": "ONE dream",
+      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "No Sacrifice",
-      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "i7",
         "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 272026,
       "name": "MONSTER GENERATiON",
       "url": "https://open.spotify.com/track/4dj2PrWwH3x2fBIpJitjhX"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "No Sacrifice",
+      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "HELLO CALLiNG",
         "url": "https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 242533,
       "name": "HELLO CALLiNG",
       "url": "https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/1De2w9pZlAt2mKEm0F7NK5"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "einsatZ",
-        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 272506,
       "name": "Leopard Eyes",
       "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
+        "name": "einsatZ",
+        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "Mr.AFFECTiON",
-        "url": "https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm"
+        "name": "DiSCOVER THE FUTURE",
+        "url": "https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH"
         }
       ],
-      "duration_ms": 282640,
-      "name": "Mr.AFFECTiON",
-      "url": "https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL"
+      "duration_ms": 221506,
+      "name": "DiSCOVER THE FUTURE",
+      "url": "https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT"
     }
   ],
   "unique_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",

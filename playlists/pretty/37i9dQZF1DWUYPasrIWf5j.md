@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,136 likes - 110 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,274 likes - 110 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Riptide](https://open.spotify.com/track/26WunHZg3SjYMOu8SzNPGF) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:35 |
 | 2 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 |
 | 3 | [Your Body Is a Wonderland](https://open.spotify.com/track/4sdU8epdytunCp5CcofJ9z) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:13 |
-| 4 | [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 |
+| 4 | [Hey There Delilah](https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:14 |
 | 5 | [Lights Down Low](https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Plays the Uke](https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn) | 3:36 |
 | 6 | [Heather](https://open.spotify.com/track/0152wIoLYZdFSPz3Shm15o) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:14 |
 | 7 | [Lose Somebody](https://open.spotify.com/track/01QSyY5c1mET5j9mNeqmnM) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Lose Somebody](https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz) | 3:19 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 25 | [Landslide](https://open.spotify.com/track/5SXHgJzce8r2AIghLhRQyS) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Landslide](https://open.spotify.com/album/665cKxO6hVYrRY6CRPBpOw) | 3:28 |
 | 26 | [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 |
 | 27 | [Don't Start Now \- Ukulele Version](https://open.spotify.com/track/12v4asulImAdU8BagKjivV) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:01 |
-| 28 | [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 |
+| 28 | [Don't Worry Be Happy](https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 5:22 |
 | 29 | [Dancing in the Moonlight](https://open.spotify.com/track/0U4g8JspZmDlnI9MrBQ9IT) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Time After Time](https://open.spotify.com/album/6zh95laZ5y3hv6nwCTJF4r) | 3:07 |
 | 30 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 |
 | 31 | [Something](https://open.spotify.com/track/21ANW6JqDX85o3AXlhoVhj) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:48 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 68 | [Can't Help Falling In Love](https://open.spotify.com/track/7cIIcCaaa4Db6tQJdR7VPp) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 3:09 |
 | 69 | [The A Team](https://open.spotify.com/track/0Y9lGmQeaMR3veXCgMqHH3) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:29 |
 | 70 | [All I Have To Do Is Dream](https://open.spotify.com/track/0uRUYZp0xw5AZsP6Pgpuk0) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [All I Have To Do Is Dream](https://open.spotify.com/album/2zzP8Gk39MkAUy6URU8UOQ) | 2:44 |
-| 71 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 |
+| 71 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/4i98tUpkezJsE4nKMCvj60) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc) | 3:28 |
 | 72 | [Put Your Records On](https://open.spotify.com/track/6lOjXZgnwPzXXjZCPGXann) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Uke Songs to Fall in Love](https://open.spotify.com/album/0uU1jAQCgqDhJdLVYSzJVD) | 3:39 |
 | 73 | [Just the Way You Are \(Instrumental Version\)](https://open.spotify.com/track/7I4WwDEIeROWytTUZ5RMGc) | [Instrumental Pop Songs](https://open.spotify.com/artist/7GqJy10VkyFR1oacMiXkZn), [Soft Background Music](https://open.spotify.com/artist/2voHaTmDMF2QFv95m9SLtq) | [Ukulele \- Instrumental Pop Covers](https://open.spotify.com/album/4cBqvfoQMiDqCRED4fG73j) | 3:20 |
 | 74 | [Bubbly](https://open.spotify.com/track/35kTXi8zS7sslWKCLdeBvv) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Shelli plays the Uke](https://open.spotify.com/album/5e0jgZVk0lduI1ay8bY67C) | 2:58 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 82 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |
 | 83 | [Upside Down](https://open.spotify.com/track/2ceP1Xn0blgkm4lF2ZSztF) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 3:03 |
 | 84 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 |
-| 85 | [Hey, Soul Sister](https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:03 |
+| 85 | [Hey, Soul Sister](https://open.spotify.com/track/3gt6ASrvqi8Rsv0Or4adcb) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:03 |
 | 86 | [Wonderwall](https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 3:28 |
 | 87 | [The Scientist](https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 4:00 |
 | 88 | [deja vu](https://open.spotify.com/track/64aF6PQkTQMaXmOaMZxIf3) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [deja vu](https://open.spotify.com/album/1G3g26T1M3R0rK7QWBKei6) | 3:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 109 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
 | 110 | [Three Little Birds \- Ukulele Version](https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 3:01 |
 
-Snapshot ID: `MTY3ODk2ODA0MiwwMDAwMDAwMGYzMTA5ODQ1NmEyMDM5ZDcyYjVkZGI1ZGI1ZTg3MTIw`
+Snapshot ID: `MTY3ODk2ODA0MiwwMDAwMDAwMGQxMjE5NDkxM2U3NWFlMzM5MDhiYTQxMmRjNDY3YTdk`

@@ -466,7 +466,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 217706,
       "name": "En El Hospicio",
       "url": "https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh"
@@ -520,10 +520,28 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 193535,
       "name": "En el pa\u00eds de la libertad",
       "url": "https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb"
+    },
+    {
+      "album": {
+        "name": "Le\u00f3n Gieco",
+        "url": "https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2020-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193535,
+      "name": "En el pa\u00eds de la libertad",
+      "url": "https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm"
     },
     {
       "album": {
@@ -646,7 +664,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 219039,
       "name": "La mam\u00e1 de Jimmy - Le\u00ed",
       "url": "https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 266373,
       "name": "Se Ama O No Se Ama",
       "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 303925,
       "name": "S\u00f3lo le pido a dios",
       "url": "https://open.spotify.com/track/5JNZh5pSVcqgacUDd41rTy"

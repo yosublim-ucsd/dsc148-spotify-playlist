@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 590853,
+  "num_followers": 591370,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMzgyMCwwMDAwMDAwMDYxMTAzMGE4MzgzODRiNDdhNzQ1ZmE5YzQwNTc0ZjZk",
+  "snapshot_id": "MTY3OTAxMzgyMCwwMDAwMDAwMGM5ZGNhZWZmZGM1NzY1MmY5ZTgwZGNiYjNjMmMxNmE2",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Nephilim",
-        "url": "https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP"
+        "name": "Tocsin",
+        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
       },
       "artists": [
         {
-          "name": "Fields Of The Nephilim",
-          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
+          "name": "Xmal Deutschland",
+          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
         }
       ],
-      "duration_ms": 340626,
-      "name": "Moonchild",
-      "url": "https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt"
+      "duration_ms": 285160,
+      "name": "Incubus Succubus II",
+      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
+        "name": "The Nephilim",
+        "url": "https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP"
       },
       "artists": [
         {
-          "name": "Xmal Deutschland",
-          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+          "name": "Fields Of The Nephilim",
+          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Incubus Succubus II",
-      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
+      "duration_ms": 340626,
+      "name": "Moonchild",
+      "url": "https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Elizium",
-        "url": "https://open.spotify.com/album/5hFGua73w06tkEYkvA03kB"
-      },
-      "artists": [
-        {
-          "name": "Fields Of The Nephilim",
-          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "For Her Light",
-      "url": "https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ"
-    },
-    {
       "added_at": "2022-07-01 00:50:45",
       "album": {
         "name": "Feel It Break",
@@ -1291,6 +1275,22 @@
       "duration_ms": 205693,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Cuando Sale El Sol: Rock",
+        "url": "https://open.spotify.com/album/7Ff5wvB7uhwLNYUutyHMrq"
+      },
+      "artists": [
+        {
+          "name": "The Chameleons",
+          "url": "https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Swamp Thing",
+      "url": "https://open.spotify.com/track/6myTigUAh8oKT2iQUNUHIL"
     }
   ],
   "unique_name": "Dark & Gothic",

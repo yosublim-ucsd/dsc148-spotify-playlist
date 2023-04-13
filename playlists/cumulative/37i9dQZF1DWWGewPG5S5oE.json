@@ -604,6 +604,28 @@
     {
       "album": {
         "name": "Folds (Live at 100BAN Hall, Kobe, 2022)",
+        "url": "https://open.spotify.com/album/19uLSbnTCzQqDn6csaIH8O"
+      },
+      "artists": [
+        {
+          "name": "Hiro Kimura",
+          "url": "https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI"
+        },
+        {
+          "name": "Miki Hirose",
+          "url": "https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553685,
+      "name": "Face To Face - Live at 100BAN Hall, Kobe, 2022",
+      "url": "https://open.spotify.com/track/3Wzhjs5i3i9T5KJ9xN9rKH"
+    },
+    {
+      "album": {
+        "name": "Folds (Live at 100BAN Hall, Kobe, 2022)",
         "url": "https://open.spotify.com/album/0RfsSTVgv1MwEKfB0O9AyV"
       },
       "artists": [
@@ -618,7 +640,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 553685,
       "name": "Face To Face - Live at 100BAN Hall, Kobe, 2022",
       "url": "https://open.spotify.com/track/2KDNxWVhoKrb0eD3I1rRlH"

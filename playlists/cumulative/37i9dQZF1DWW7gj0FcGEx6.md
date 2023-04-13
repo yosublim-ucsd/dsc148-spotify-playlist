@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-238 songs - 12 hr 11 min
+240 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Aurora](https://open.spotify.com/track/3lve6DLYGjfrYe2QsoDoeu) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0anuS0gAUcyLl9426vSdrU) | 2:57 | 2022-11-11 |  |
 | [Aurora](https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0WTosvMJLB7LhIWZ6sea1l) | 2:57 | 2022-08-19 | 2022-11-17 |
 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 | 2021-12-20 | 2022-07-09 |
+| [Benevolence \- Tetris Original Motion Picture Soundtrack](https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [Tetris \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:30 | 2023-04-12 |  |
 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 | 2021-12-20 |  |
 | [Burn Butcher Burn \- from "The Witcher: Season 2" Soundtrack](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 | 2021-12-20 |  |
 | [Bus Stop](https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 | 2023-03-10 |  |
@@ -102,6 +103,7 @@
 | [Leaving the Farm](https://open.spotify.com/track/22P2FBXPVENSfJp9rQUpAt) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [A Quiet Place Part II \(Music from the Motion Picture\)](https://open.spotify.com/album/62LYN8SfBNzlYP3Q7Tntya) | 1:34 | 2021-12-20 | 2022-07-09 |
 | [Leda](https://open.spotify.com/track/1IIAQAAsnL51sYw3rK3957) | [Dickon Hinchliffe](https://open.spotify.com/artist/3SzIzpOIDpgwKNWaKL4FG4) | [Leda](https://open.spotify.com/album/67quHHVMflpXF3zQEs7AqP) | 2:14 | 2021-12-20 |  |
 | [Let Him Goverture](https://open.spotify.com/track/2W6T02jcA0HiVBcuPjcRqh) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Let Him Go \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis) | 7:03 | 2021-12-20 | 2022-07-09 |
+| [Level Complete](https://open.spotify.com/track/4M4R19bQjkABzjResTozBt) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 2:32 | 2023-04-12 |  |
 | [Liaison Theme](https://open.spotify.com/track/1xy5TYQMPx2VWHSfFIM1No) | [Walter Mair](https://open.spotify.com/artist/41wLCXT7ruc1fBZmd7X3LD) | [Liaison: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/4JA0EZpaxB7TYlN4XABqF5) | 1:26 | 2023-02-27 |  |
 | [Life Was Just Beginning](https://open.spotify.com/track/2ZZLWOz3YrQfhD8q0OUsdW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [A Journal for Jordan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lnVivEoRcH4Hh7e38vmdn) | 4:07 | 2021-12-20 |  |
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2021-12-20 |  |

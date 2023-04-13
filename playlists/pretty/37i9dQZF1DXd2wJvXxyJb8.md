@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > ta mas e se eu largar tudo e for vender minha arte na praia e viver das coisas q a terra dá
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,868 likes - 63 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,768 likes - 63 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Comme tu veux",
+        "url": "https://open.spotify.com/album/5npx3pFFCHzhZ2UH9yRkaS"
+      },
+      "artists": [
+        {
+          "name": "Vail Bizier",
+          "url": "https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "EA - Vail Bizier - Comme tu veux",
+      "url": "https://open.spotify.com/track/5ciI7iwMWAT5OpfHUOoDRp"
+    },
+    {
+      "album": {
         "name": "Eastbound and North",
         "url": "https://open.spotify.com/album/739lH4T8HIvoHWzJ9xOClz"
       },
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 147710,
       "name": "Lullaby to Brooklyn",
       "url": "https://open.spotify.com/track/7mHoDy7ategfWEYV51DltL"
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 139374,
       "name": "Ours",
       "url": "https://open.spotify.com/track/5CCZ8wTUbpTI0tTyxEVEy3"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 198174,
       "name": "Solituned",
       "url": "https://open.spotify.com/track/2IBVV6781F86tJbtVP0M6k"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 206874,
       "name": "Song of Solitude",
       "url": "https://open.spotify.com/track/6D8xi7ie5kMaNKc1vq71eT"
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 153600,
       "name": "Spring Birds",
       "url": "https://open.spotify.com/track/3efzwxRNuLl9WFB6FQ30M6"

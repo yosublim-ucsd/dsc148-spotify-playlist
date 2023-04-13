@@ -4,7 +4,7 @@
 
 > Mừng ngày của sen và boss\. Ảnh bìa: sen AMEE và boss Tuyết
 
-158 songs - 10 hr 16 min
+159 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 | 2022-05-27 |  |
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2022-05-27 |  |
 | [Em Là](https://open.spotify.com/track/6A1IbMKwjvXibcrU1sdqKH) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 3:17 | 2023-01-11 |  |
-| [Em Đồng Ý \(I Do\)](https://open.spotify.com/track/0bgJPIvefuRnEU4MNJuJSA) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [911](https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT) | [Em Đồng Ý \(I Do\)](https://open.spotify.com/album/1oZsMcVFQcEPyOqfiUgfd2) | 3:23 | 2023-02-12 |  |
+| [Em Đồng Ý \(I Do\)](https://open.spotify.com/track/0bgJPIvefuRnEU4MNJuJSA) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [911](https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT) | [Em Đồng Ý \(I Do\)](https://open.spotify.com/album/1oZsMcVFQcEPyOqfiUgfd2) | 3:23 | 2023-02-12 | 2023-04-13 |
+| [Em Đồng Ý \(I Do\)](https://open.spotify.com/track/5NC8EG2rmiMHk5wDt2HxmE) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs), [911](https://open.spotify.com/artist/3H7pODXycF821OnRyAw2VT) | [Em Đồng Ý \(I Do\)](https://open.spotify.com/album/4Ns7lDp80PgwzZJzCQSsKA) | 3:23 | 2023-04-10 |  |
 | [Forget About Her](https://open.spotify.com/track/5kJMW3pK49PvQDtpVryHf5) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 3:37 | 2022-11-29 | 2022-12-19 |
 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 | 2022-06-15 | 2022-11-26 |
 | [ghệ iu dấu của em ơi](https://open.spotify.com/track/27fqy8VruqYZlKiK1qfwEd) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [ghệ iu dấu của em ơi](https://open.spotify.com/album/0gzU4NsjKsWr646GHiPxbK) | 3:25 | 2023-02-12 | 2023-03-06 |

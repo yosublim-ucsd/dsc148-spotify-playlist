@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 53763,
+  "num_followers": 53813,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NTUyMSwwMDAwMDAwMGQyZTU1NWVjMDIzMDkzMDZmNDNlNDcxODU0N2Y1MGM3",
+  "snapshot_id": "MTY3Nzg2NTUyMSwwMDAwMDAwMDMxMGNhMDE3NWQyMzlhNzQ0ZmY3ZWFmZGYwMGM0N2E5",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Una estrella en mi jard\u00edn",
-        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 303826,
-      "name": "Una estrella en mi jard\u00edn",
-      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Cristalitos Machacaos",
         "url": "https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 195080,
       "name": "Sevillanas de los Bloques",
       "url": "https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Una estrella en mi jard\u00edn",
+        "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 303826,
+      "name": "Una estrella en mi jard\u00edn",
+      "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Que seas feliz",
-      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Canciones De Oro",
         "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
       },
@@ -919,6 +903,26 @@
       "duration_ms": 198213,
       "name": "Ojos verdes",
       "url": "https://open.spotify.com/track/6PpH6uTiQSkFGeh5cV3UPk"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "De Un Mundo Raro (Cantes Por Chavela)",
+        "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "En Un Mundo Raro",
+      "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -955,22 +959,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "De Un Mundo Raro (Cantes Por Chavela)",
-        "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 191973,
-      "name": "En Un Mundo Raro",
-      "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
+      "duration_ms": 232000,
+      "name": "Que seas feliz",
+      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1023,38 +1023,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
-        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Ponte la Mano en el Pecho",
-      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Baladilla De Los Tres R\u00edos",
-        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
-      },
-      "artists": [
-        {
-          "name": "Pasi\u00f3n Vega",
-          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
-        }
-      ],
-      "duration_ms": 192627,
-      "name": "Baladilla De Los Tres R\u00edos",
-      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Canciones De Oro",
         "url": "https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2"
       },
@@ -1071,38 +1039,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
+        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
       },
       "artists": [
         {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "La Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
-      },
-      "artists": [
-        {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 226506,
-      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
-      "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
+      "duration_ms": 211533,
+      "name": "Ponte la Mano en el Pecho",
+      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1123,6 +1071,58 @@
       "duration_ms": 262811,
       "name": "Alma M\u00eda",
       "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Baladilla De Los Tres R\u00edos",
+        "url": "https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh"
+      },
+      "artists": [
+        {
+          "name": "Pasi\u00f3n Vega",
+          "url": "https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Baladilla De Los Tres R\u00edos",
+      "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "La Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
+      },
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 226506,
+      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
+      "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
     },
     {
       "added_at": "2022-11-03 23:00:00",

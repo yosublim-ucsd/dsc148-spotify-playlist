@@ -1,12 +1,12 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 42070,
+  "num_followers": 42074,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMDM4NTRjNGVhYTU5NGIxNGJmZGI0ZTJlODk5ZTlkYjAy",
+  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMGU1YjAzNzc2NWYyOTdjN2U3ZjljNTA4MDNhMTE0Zjc3",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 183849,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Heartbeat Changes",
         "url": "https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 197426,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/09svEvkmTi9vw4kWRyBC6X"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "If I Don't Love Me",
-        "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
-      },
-      "artists": [
-        {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
-        }
-      ],
-      "duration_ms": 177077,
-      "name": "If I Don't Love Me",
-      "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Beach (Acoustic)",
         "url": "https://open.spotify.com/album/4lLeaaWEwl7C3Ykjltf8do"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 201902,
       "name": "Beach - Acoustic",
       "url": "https://open.spotify.com/track/5omA7G0GjJB25avB53akJi"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "If I Don't Love Me",
+        "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 177077,
+      "name": "If I Don't Love Me",
+      "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
     },
     {
       "added_at": "2023-01-19 23:00:00",

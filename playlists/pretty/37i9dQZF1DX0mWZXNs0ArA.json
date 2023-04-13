@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1372517,
+  "num_followers": 1375257,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNjQxNSwwMDAwMDAwMDM5ZWYxMmQxZGQ4YmM5OTc2N2Q4ODE0ZGExNWM4ODdi",
+  "snapshot_id": "MTY4MTIyNjQxNSwwMDAwMDAwMGExOGUyZWIyN2MwM2RiNGYxM2NhMDY3NWIyZWMyOWI2",
   "tracks": [
     {
       "added_at": "2023-04-11 15:20:15",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-04-11 15:20:15",
       "album": {
-        "name": "Judas (Sped Up)",
-        "url": "https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt"
+        "name": "Judas (Remix)",
+        "url": "https://open.spotify.com/album/0OWgbzA8mHalgTp1LEk1EO"
       },
       "artists": [
         {
-          "name": "ethereal",
-          "url": "https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG"
+          "name": "unhappier",
+          "url": "https://open.spotify.com/artist/6o5lVMrUbrSMhvqSxl8mPV"
+        },
+        {
+          "name": "kevoxx",
+          "url": "https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9"
         }
       ],
-      "duration_ms": 206355,
-      "name": "Judas - Sped Up",
-      "url": "https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2"
+      "duration_ms": 206001,
+      "name": "Judas - Remix",
+      "url": "https://open.spotify.com/track/67GSlGtRJfH20l3hY3snUq"
     },
     {
       "added_at": "2023-04-11 15:20:15",

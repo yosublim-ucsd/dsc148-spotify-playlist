@@ -4,7 +4,7 @@
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2022! Cover: RHOVE
 
-114 songs - 5 hr 41 min
+115 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 | 2022-11-30 |  |
 | [CRY LATER \(feat\. Sfera Ebbasta & Luchè\)](https://open.spotify.com/track/6rY8VQS4hEgdG3OqKd9lBJ) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:54 | 2022-11-30 |  |
 | [Demone](https://open.spotify.com/track/6NrOoKDgQb1EcZZuCSBMEw) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Demone](https://open.spotify.com/album/3NjF5SOG10WtyLyqO1kvt2) | 2:41 | 2021-12-01 | 2022-12-01 |
-| [Diavolo \(con Ghali, Rkomi, Tedua & bnkr44\)](https://open.spotify.com/track/7FvF6VQzph1rEPjSJmkaRv) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:50 | 2022-11-30 |  |
+| [Diavolo \(con Ghali, Rkomi, Tedua & bnkr44\)](https://open.spotify.com/track/0CPailVeTy4L39Zaiuopap) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 3:50 | 2022-11-30 |  |
+| [Diavolo \(con Ghali, Rkomi, Tedua & bnkr44\)](https://open.spotify.com/track/7FvF6VQzph1rEPjSJmkaRv) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:50 | 2022-11-30 | 2023-04-13 |
 | [Drippin' in Milano](https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Drippin' in Milano](https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU) | 2:39 | 2021-12-01 | 2022-12-01 |
 | [Effe](https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:31 | 2021-12-01 | 2022-12-01 |
 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2022-11-30 |  |

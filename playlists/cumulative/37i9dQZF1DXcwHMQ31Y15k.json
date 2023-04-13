@@ -2111,6 +2111,28 @@
     },
     {
       "album": {
+        "name": "Sanes",
+        "url": "https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        },
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301846,
+      "name": "Sanes",
+      "url": "https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS"
+    },
+    {
+      "album": {
         "name": "Satru",
         "url": "https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi"
       },

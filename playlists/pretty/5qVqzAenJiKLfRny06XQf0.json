@@ -1,6 +1,6 @@
 {
   "description": "Help the band set-up and get ready for the best live performances from your favorite artists.",
-  "num_followers": 8900,
+  "num_followers": 8899,
   "original_name": "Backstage",
   "owner": {
     "name": "Spotify",
@@ -1034,6 +1034,10 @@
         {
           "name": "Grateful Dead",
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        },
+        {
+          "name": "Merle Saunders",
+          "url": "https://open.spotify.com/artist/09uBVu0MVp8f1NO2LI12O9"
         }
       ],
       "duration_ms": 286933,

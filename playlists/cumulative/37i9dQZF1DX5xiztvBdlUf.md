@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-319 songs - 1 day 6 hr 13 min
+320 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-11-26 | 2022-08-13 |
 | [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 | 2022-09-30 | 2023-01-29 |
 | [All That Glitters](https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI) | [Midnight Sky](https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP) | [Future Disco: Poolside Sounds Vol\. 10](https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6) | 3:48 | 2022-09-02 |  |
-| [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw) | 3:30 | 2022-11-25 |  |
+| [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw) | 3:30 | 2022-11-25 | 2023-04-13 |
 | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-11-26 | 2022-12-01 |
 | [Altered Destiny \- Chill Mix](https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Altered Destiny](https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5) | 3:05 | 2022-10-28 |  |
 | [Always Something](https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj) | [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Always Something](https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi) | 3:36 | 2022-10-28 | 2022-11-15 |
@@ -198,6 +198,7 @@
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2022-04-04 |  |
 | [Nightshift \- Enduro Disco Noir Mix](https://open.spotify.com/track/5mOSdL0j3yjaBhteIFdmbS) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM), [Enduro Disco](https://open.spotify.com/artist/0r9Ob20iuGWepC4KwjTNbj) | [Nightshift \(Enduro Disco Noir Mix\)](https://open.spotify.com/album/7GuzQOgG0RxMZGZzyLNmNz) | 3:32 | 2022-04-04 | 2022-07-29 |
 | [No Silence](https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Woods, Tales & Friends \(Part One\)](https://open.spotify.com/album/6nX8CFmSYfg79D8PpWP0iV) | 4:46 | 2021-11-26 | 2022-06-14 |
+| [Noso](https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Nico Casal](https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Noso](https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz) | 7:23 | 2023-04-05 |  |
 | [Noso](https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088), [Nico Casal](https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Noso](https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y) | 7:23 | 2021-11-26 | 2023-04-03 |
 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 | 2022-02-04 |  |
 | [Novella](https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Novella EP](https://open.spotify.com/album/4beeUsxhIEEp0PmphMv8zS) | 6:27 | 2021-11-26 | 2022-07-26 |

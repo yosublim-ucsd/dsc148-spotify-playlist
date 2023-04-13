@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Belly",
-  "num_followers": 1703,
+  "num_followers": 1739,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgwNTg4MSwwMDAwMDAwMGM0Njg4YTMxZjczYWM2NjllNzFkMzdkNWM4NGMyYzli",
+  "snapshot_id": "MTY4MDgwNTg4MSwwMDAwMDAwMGZlY2IxZmFhZDZjODAxZjRjMTNlNWYyZTk2ODBhNWI2",
   "tracks": [
     {
       "added_at": "2023-04-06 18:31:21",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
-        "name": "Sorry 4 What",
-        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "Why Did I",
-      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 191489,
       "name": "Pizzazz",
       "url": "https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
+        "name": "Sorry 4 What",
+        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
-        "name": "Rastar",
-        "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
-      },
-      "artists": [
-        {
-          "name": "Yung Tory",
-          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 173932,
-      "name": "Netflix & Chill (feat. Fenix Flexin)",
-      "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
         "name": "Northside Jane",
         "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 228388,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
+        "name": "Rastar",
+        "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
+      },
+      "artists": [
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 173932,
+      "name": "Netflix & Chill (feat. Fenix Flexin)",
+      "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -855,38 +855,6 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
-        "name": "The Extravagant Collection",
-        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
         "name": "Body & A Face",
         "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 159205,
       "name": "Body & A Face",
       "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
+        "name": "Trust Your Gut",
+        "url": "https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "duration_ms": 229624,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
+        "name": "The Extravagant Collection",
+        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
         "name": "Been Himma",
         "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 166829,
       "name": "Been Himma",
       "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
-        "name": "Trust Your Gut",
-        "url": "https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN"
-      },
-      "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        }
-      ],
-      "duration_ms": 229624,
-      "name": "Way Down",
-      "url": "https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
-        }
-      ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
         "name": "Fleurever",
         "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
@@ -1031,22 +1011,6 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
-      },
-      "artists": [
-        {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
-        }
-      ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
         "name": "no long talk.",
         "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
       },
@@ -1063,6 +1027,26 @@
       "duration_ms": 198676,
       "name": "My Town (feat. Giggs)",
       "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
       },
@@ -1159,6 +1159,26 @@
       "duration_ms": 272052,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+    },
+    {
+      "added_at": "2023-04-06 18:31:21",
+      "album": {
+        "name": "Added Sugar",
+        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brk Frm Nrml",
+      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -1227,26 +1247,6 @@
       "duration_ms": 197224,
       "name": "Don't Dance",
       "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
-    },
-    {
-      "added_at": "2023-04-06 18:31:21",
-      "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-04-06 18:31:21",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2023-04-06 18:31:21",
       "album": {
-        "name": "Alejandro Sosa",
-        "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
+        "name": "BLU",
+        "url": "https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1"
       },
       "artists": [
         {
-          "name": "Pengz",
-          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
         },
         {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Alejandro Sosa",
-      "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
+      "duration_ms": 208109,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

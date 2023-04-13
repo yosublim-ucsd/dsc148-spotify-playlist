@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-172 songs - 8 hr 7 min
+173 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 | 2023-01-06 | 2023-04-07 |
 | [Rubrica](https://open.spotify.com/track/6n4lKgcmZ61fbAsBtliX3D) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Rubrica](https://open.spotify.com/album/4Cd8ymdLbKpXM6vxwVpc5F) | 2:35 | 2022-06-28 | 2022-10-14 |
 | [RUN](https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [RUN](https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU) | 3:08 | 2022-05-10 |  |
-| [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-20 |  |
+| [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 | 2023-04-06 |  |
+| [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 | 2022-09-20 | 2023-04-13 |
 | [Se Campa Na Vota Sola](https://open.spotify.com/track/1PVoh8SoROGd1bOChojG7t) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Se Campa Na Vota Sola](https://open.spotify.com/album/7e5Cf2pMJyhODL80E07M2V) | 2:42 | 2022-12-01 | 2022-12-16 |
 | [SGUARDI PERSI](https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [SGUARDI PERSI](https://open.spotify.com/album/35yHTPThuoMhZT48qyZ7C0) | 2:38 | 2023-03-30 |  |
 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd) | 3:04 | 2022-11-29 |  |

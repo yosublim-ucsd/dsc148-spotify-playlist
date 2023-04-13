@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,331 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,492 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 49 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
 | 50 | [You and the Night and the Music](https://open.spotify.com/track/38c784KxSdIUzJoz37ZJCZ) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr) | [You and the Night and the Music](https://open.spotify.com/album/4CluHpKIPoQFd7uINLVDWN) | 4:48 |
 | 51 | [Look Into The Sun](https://open.spotify.com/track/1lydsWD2gkGK0s0mRIAVvy) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Look Into The Sun](https://open.spotify.com/album/2nbhaBDCQS3Zcak1QWU5Pf) | 4:17 |
-| 52 | [Didn't You](https://open.spotify.com/track/51RS0cE9EwwWCS3ii2KVxD) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Didn't You](https://open.spotify.com/album/5lUJSFX3tl1fGczLqfQ70K) | 3:44 |
+| 52 | [Didn't You](https://open.spotify.com/track/51RS0cE9EwwWCS3ii2KVxD) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Didn't You](https://open.spotify.com/album/5lUJSFX3tl1fGczLqfQ70K) | 3:44 |
 | 53 | [Water Runs Dry](https://open.spotify.com/track/339lSR8YbBP7xe1F2HjR0j) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [COOKUP](https://open.spotify.com/album/2MXzQNmgVCjW3BQjq06JAZ) | 3:50 |
 | 54 | [Arun](https://open.spotify.com/track/06rW0g1K3mq53QUpWCTEu7) | [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6), [Enzo Zirilli's Zirobop](https://open.spotify.com/artist/0PTZsUuYBFF3rHkEbuaDWK), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Alessandro Chiappetta](https://open.spotify.com/artist/5h0FBL6UgiDabnbpVQaWXv), [Misha Mullov\-Abbado](https://open.spotify.com/artist/3OSYVINCz3vaPYV4DhvSS7) | [Arun](https://open.spotify.com/album/2x9nQNLI58KeeVcLdtCdgu) | 5:28 |
 | 55 | [Anthology](https://open.spotify.com/track/2Jlm3Q8LqbAHXNAkyNq9Lj) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Anthology](https://open.spotify.com/album/7h1KF4cAeABJBqZt8Nf2O9) | 4:02 |

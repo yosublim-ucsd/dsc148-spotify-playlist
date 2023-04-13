@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 381028,
+  "num_followers": 381081,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDJhMDlhZmI2Yzc3OWIyMzUxMDdkMDk3MGE1YmY3NWU5",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGIwNGJlNGE0ODZlZDJiNTM1NzI5MWUwODgwMmU4NjA3",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Dinah '62",
-        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Is You Is or Is You Ain't My Baby - 2002 Remaster",
-      "url": "https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Hi De Ho Man",
         "url": "https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 167266,
       "name": "Everybody Eats When They Come To My House",
       "url": "https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Dinah '62",
+        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Is You Is or Is You Ain't My Baby - 2002 Remaster",
+      "url": "https://open.spotify.com/track/42gjKLOPmC7rjXZpDdTHcO"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -813,6 +813,26 @@
       "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "I Didn\u00b4t Tell Them Why",
+        "url": "https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7"
+      },
+      "artists": [
+        {
+          "name": "Andrea Motis",
+          "url": "https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 297373,
+      "name": "I Didn\u00b4t Tell Them Why",
+      "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "I Can't Turn You Loose",
@@ -839,26 +859,6 @@
       "duration_ms": 314973,
       "name": "I Can't Turn You Loose",
       "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
-    },
-    {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "I Didn\u00b4t Tell Them Why",
-        "url": "https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7"
-      },
-      "artists": [
-        {
-          "name": "Andrea Motis",
-          "url": "https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "I Didn\u00b4t Tell Them Why",
-      "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
     },
     {
       "added_at": "2022-03-11 05:02:00",

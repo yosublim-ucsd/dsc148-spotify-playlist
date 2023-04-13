@@ -1,12 +1,12 @@
 {
   "description": "\u2600\ufe0f",
-  "num_followers": 13434,
+  "num_followers": 13471,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NjUyNiwwMDAwMDAwMDZkMzk3NzBhYWMzZjQyYTQ0ZDFhOTA2N2YyOTEyY2I3",
+  "snapshot_id": "MTY4MDI3NjUyNiwwMDAwMDAwMDJlY2IyNDE1YjgwNWYyYjVmYTg3Y2U2Mjc3Mjk2MGFm",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:04",
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
     },
     {
-      "added_at": "2023-04-12 00:55:56",
+      "added_at": "2023-04-13 00:51:26",
       "album": {
         "name": "Tapis roulant",
         "url": "https://open.spotify.com/album/219a4pR8F3wCfSYIVTL6cm"
@@ -359,8 +359,8 @@
     {
       "added_at": "2023-03-27 15:42:04",
       "album": {
-        "name": "See what\u2019s on my mind - the EP",
-        "url": "https://open.spotify.com/album/1CEkoc1TH9tUzAj8fQ79NZ"
+        "name": "I don\u2019t care about the rain",
+        "url": "https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i"
       },
       "artists": [
         {
@@ -370,7 +370,7 @@
       ],
       "duration_ms": 214071,
       "name": "I don\u2019t care about the rain",
-      "url": "https://open.spotify.com/track/5eFgij1V0OUWTbxXucgTmM"
+      "url": "https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv"
     },
     {
       "added_at": "2023-03-27 15:42:04",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-03-27 15:42:04",
       "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2023-03-27 15:42:04",
+      "album": {
         "name": "Hundred Miles",
         "url": "https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 172414,
       "name": "Hundred Miles",
       "url": "https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ"
-    },
-    {
-      "added_at": "2023-03-27 15:42:04",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2023-03-27 15:42:04",
@@ -1213,6 +1213,22 @@
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
+      "added_at": "2023-04-13 00:51:26",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
       "added_at": "2023-03-27 15:42:04",
       "album": {
         "name": "edamame (feat. Rich Brian)",
@@ -1263,22 +1279,6 @@
       "duration_ms": 199680,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
-    },
-    {
-      "added_at": "2023-04-12 00:55:56",
-      "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     }
   ],
   "unique_name": "una playlist felice",

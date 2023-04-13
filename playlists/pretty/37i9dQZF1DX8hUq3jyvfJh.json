@@ -1,12 +1,12 @@
 {
   "description": "Lauana Prado e mais mulheres para serem ouvidas no volume m\u00e1ximo!",
-  "num_followers": 138011,
+  "num_followers": 138267,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMGFjMjE0MDI3NGM1ZGJkOWNiZWRkZDVkZDMyNjliNWE5",
+  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMGY0MjdlZDdjNGNjZmUyZTNmYjJmYWE4OWM1YzA4ZDM3",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Quando Tem Sentimento",
-        "url": "https://open.spotify.com/album/7fZqPB6JuG0QJtjPOqip6i"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 184823,
-      "name": "Quando Tem Sentimento",
-      "url": "https://open.spotify.com/track/1ZJZQlHYELgPeGe0EQPYWZ"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Identidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 165000,
       "name": "A Culpa \u00c9 Nossa - Ao Vivo",
       "url": "https://open.spotify.com/track/5aqwwgL4XOv2YJYwLiqKOZ"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Quando Tem Sentimento",
+        "url": "https://open.spotify.com/album/7fZqPB6JuG0QJtjPOqip6i"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 184823,
+      "name": "Quando Tem Sentimento",
+      "url": "https://open.spotify.com/track/1ZJZQlHYELgPeGe0EQPYWZ"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Identidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP"
+        "name": "Quando Tem Sentimento",
+        "url": "https://open.spotify.com/album/7fZqPB6JuG0QJtjPOqip6i"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 199714,
-      "name": "Felizes para Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/6givEzP7WttqaC5tqQTet1"
+      "duration_ms": 177708,
+      "name": "C\u00e3o Sem Dono",
+      "url": "https://open.spotify.com/track/0D0GhRImBnK6sV2iMBLQAP"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Quando Tem Sentimento",
-        "url": "https://open.spotify.com/album/7fZqPB6JuG0QJtjPOqip6i"
+        "name": "Identidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ezEMKDPTDsbf5h7Ifv7qP"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 177708,
-      "name": "C\u00e3o Sem Dono",
-      "url": "https://open.spotify.com/track/0D0GhRImBnK6sV2iMBLQAP"
+      "duration_ms": 199714,
+      "name": "Felizes para Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/6givEzP7WttqaC5tqQTet1"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Minha Hist\u00f3ria 2, Pt.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ"
-      },
-      "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Nojo do meu ex - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Aleat\u00f3rias",
         "url": "https://open.spotify.com/album/7l7O18Vj86XDa46RroXjpJ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 120000,
       "name": "A Gente S\u00f3 D\u00e1 Certo Junto",
       "url": "https://open.spotify.com/track/6duw8aroCMTnpFzFFJ1faN"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Minha Hist\u00f3ria 2, Pt.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SUdj6lyAcV9gUW6YL1LSJ"
+      },
+      "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Nojo do meu ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Vh0ZmlbdNmiTNPpfhDbr6"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 176260,
-      "name": "Amiga \u00e9 o Caramba - Ao Vivo",
-      "url": "https://open.spotify.com/track/37QzNJM8bMBsohYSPE5gBc"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Troca De Tiro",
         "url": "https://open.spotify.com/album/1cChSyzvD4gJ0xs3gdHaw0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 142514,
       "name": "Troca De Tiro",
       "url": "https://open.spotify.com/track/6cFtG8NWrp7WZ8Jns5mWin"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 176260,
+      "name": "Amiga \u00e9 o Caramba - Ao Vivo",
+      "url": "https://open.spotify.com/track/37QzNJM8bMBsohYSPE5gBc"
     },
     {
       "added_at": "2023-04-05 03:00:00",

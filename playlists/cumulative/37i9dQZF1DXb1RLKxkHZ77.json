@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 247464,
       "name": "Andaikan Kau Datang - From \"Miracle in Cell No. 7\"",
       "url": "https://open.spotify.com/track/7mZxM64cMYQdx2vopaGrDf"
@@ -302,6 +302,24 @@
       "duration_ms": 276343,
       "name": "Berdamai",
       "url": "https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM"
+    },
+    {
+      "album": {
+        "name": "Berkunjung Di Hari Raya",
+        "url": "https://open.spotify.com/album/7qhEWs5dLVxEv7jL6vy3aV"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187164,
+      "name": "Berkunjung Di Hari Raya",
+      "url": "https://open.spotify.com/track/6bWQZ2rQR71qPr59MGZurE"
     },
     {
       "album": {
@@ -776,7 +794,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 306377,
       "name": "Di Alam Fana Cintamu",
       "url": "https://open.spotify.com/track/5WPTrrhMfB3U5B2N6rMMUR"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 234204,
       "name": "Lantas",
       "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
@@ -2693,6 +2711,36 @@
     },
     {
       "album": {
+        "name": "Ria Raya",
+        "url": "https://open.spotify.com/album/74e48Qlaw46g649M1jgkCn"
+      },
+      "artists": [
+        {
+          "name": "Iman Troye",
+          "url": "https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq"
+        },
+        {
+          "name": "Dalia Farhana",
+          "url": "https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg"
+        },
+        {
+          "name": "Layka",
+          "url": "https://open.spotify.com/artist/0DXc8XUfxhJZ2UDqmgNndl"
+        },
+        {
+          "name": "Fimie Don",
+          "url": "https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Ria Raya",
+      "url": "https://open.spotify.com/track/585C4YGuXybdwE2prGK3g2"
+    },
+    {
+      "album": {
         "name": "Rindu Setengah Mati",
         "url": "https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj"
       },
@@ -3212,6 +3260,24 @@
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
+    },
+    {
+      "album": {
+        "name": "Suasana Hari Raya",
+        "url": "https://open.spotify.com/album/2oCUKhVOJcnliPxBa3QM9V"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Suasana Hari Raya",
+      "url": "https://open.spotify.com/track/37fHM5hdmn0PGXh7q4EIum"
     },
     {
       "album": {

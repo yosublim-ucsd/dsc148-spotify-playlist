@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: KAYTRAMINÉ + Pharrell Williams
 
-771 songs - 1 day 18 hr 41 min
+772 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,8 @@
 | [Stuck Here](https://open.spotify.com/track/54kp8q9zgXklpgZ0XqjzKE) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Stuck Here](https://open.spotify.com/album/3aavlqglM07kZh6iqnKDjK) | 3:11 | 2023-02-03 | 2023-03-04 |
 | [SummerTime](https://open.spotify.com/track/3cOOvxceUJO9Z1mfCSBwv9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [SummerTime](https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4) | 2:58 | 2022-10-28 | 2022-11-19 |
 | [Sundowners \- Original](https://open.spotify.com/track/6j0hSPmXjrTSS0AoOA0TsC) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Sundowners](https://open.spotify.com/album/0gEZHBSNu2dasnOkj5ldQz) | 6:37 | 2022-08-12 | 2022-11-12 |
-| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-10 |  |
+| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-10 | 2023-04-13 |
+| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-04-07 |  |
 | [Sunrise Blue](https://open.spotify.com/track/70dtWf6DYY53vWH7migEiJ) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Sunrise Blue](https://open.spotify.com/album/2kjMX7cPz4kESG6LSXJpWi) | 6:39 | 2022-05-06 | 2022-07-09 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-11-18 | 2022-12-24 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-15 | 2022-09-10 |
@@ -771,7 +772,7 @@
 | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN) | 3:44 | 2023-03-31 |  |
 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/5s9d3JiqxsuAkuDTDStBh6) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/album/4weY0bnYOJU2b9ras4JFbZ) | 3:30 | 2022-02-25 | 2022-06-04 |
 | [Zodiac](https://open.spotify.com/track/1WccyarZJvnRXMiwMrHRct) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL), [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Zodiac](https://open.spotify.com/album/4oNnLwtjoiaXDmxEaHkDlb) | 7:26 | 2022-06-17 | 2022-09-24 |
-| [Zodiac Killa](https://open.spotify.com/track/0JEz6hr5BUAlQzRZ8PrYCV) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Zodiac Killa](https://open.spotify.com/album/1GIa5dznL8oUIviqm4eYiq) | 3:00 | 2023-03-31 |  |
+| [Zodiac Killa](https://open.spotify.com/track/0JEz6hr5BUAlQzRZ8PrYCV) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Zodiac Killa](https://open.spotify.com/album/1GIa5dznL8oUIviqm4eYiq) | 2:58 | 2023-03-31 |  |
 | [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 | 2023-03-18 |
 | [‎mile ‎end](https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mile ‎end](https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL) | 3:12 | 2022-10-14 | 2022-12-03 |
 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 | 2023-02-10 |  |

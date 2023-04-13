@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,118 likes - 106 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,123 likes - 106 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 77 | [Fever](https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fever](https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM) | 2:52 |
 | 78 | [Passed Me By](https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Passed Me By](https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu) | 4:03 |
 | 79 | [Hold](https://open.spotify.com/track/0yAO1YpOFiNnmdRAW6CgqT) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/156cghcLQms11YhgrhLFUB) | 3:05 |
-| 80 | [Impressed by You](https://open.spotify.com/track/7IZdfkd7vFvMZqEXFZ4rBt) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [I Feel](https://open.spotify.com/album/1YcU2klhYWxLKN8rrzukgA) | 3:01 |
+| 80 | [Impressed by You](https://open.spotify.com/track/7IZdfkd7vFvMZqEXFZ4rBt) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [BLKMN](https://open.spotify.com/artist/1ZSOuuAaldKBWVZb2LOYou) | [I Feel](https://open.spotify.com/album/1YcU2klhYWxLKN8rrzukgA) | 3:01 |
 | 81 | [When It All Comes Together](https://open.spotify.com/track/7nibRvffnpZEDG4OYjhnOf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Simon Erics](https://open.spotify.com/artist/2pS4JVYMXxSI5CYHyprkqZ) | [When It All Comes Together](https://open.spotify.com/album/6ouu8EDYjTzDwO6I9Y8Tpf) | 2:19 |
 | 82 | [Feelin' Good](https://open.spotify.com/track/4jg0AtYp0dCh1BZRM525A5) | [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Funk D](https://open.spotify.com/artist/7hNmGpSTmHpCWP377St0bk), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Archer Adams](https://open.spotify.com/artist/1r11Dvje3RtizRGCipD8sF) | [Feelin' Good](https://open.spotify.com/album/60eKs1Jvzqa7zHhJKRCKDN) | 2:30 |
 | 83 | [Rebel](https://open.spotify.com/track/3GfUEpMIZwLziXkgSka1j4) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Rebel](https://open.spotify.com/album/0WyDfsoCdjAHe9JH1zfGOt) | 5:08 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,847 likes - 228 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,035 likes - 228 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 |
 | 2 | [Go the Distance](https://open.spotify.com/track/3PR9kbQzYhpHHAgI2Vyagq) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Go the Distance](https://open.spotify.com/album/1KzRpKdsaC8jizQS3XvgjA) | 3:33 |
 | 3 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 |
-| 4 | [Save Your Tears \- Piano](https://open.spotify.com/track/3iMtWRMKkHteDnHehfwUkq) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Save Your Tears \(Piano\)](https://open.spotify.com/album/0BwX1LffmvzgAWDSSou24M) | 3:18 |
-| 5 | [I Want It That Way \- Piano](https://open.spotify.com/track/1Bu86zdORjUpEc5XX778zr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [I Want It That Way \(Piano\)](https://open.spotify.com/album/6Sjse4JmBxoNchc9FMhhSs) | 2:12 |
+| 4 | [Save Your Tears \- Piano](https://open.spotify.com/track/78OHUgTkBHVGEclBhjBjkM) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Save Your Tears \(Piano\)](https://open.spotify.com/album/51Z8XzfJ2Y1tBGj2il925J) | 3:18 |
+| 5 | [I Want It That Way \- Piano](https://open.spotify.com/track/7t7sYrpWMKJgik6vTMOS14) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [I Want It That Way \(Piano\)](https://open.spotify.com/album/0UISo2FIDysqiL7uEfMQGU) | 2:12 |
 | 6 | [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 |
 | 7 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 |
 | 8 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 94 | [Forget Me](https://open.spotify.com/track/5rMhBhSAFfGcfwkEHHejRK) | [Patrick Walker\-Stiggs](https://open.spotify.com/artist/3xmMXkcixRYDZpSKT8oLPf) | [Forget Me](https://open.spotify.com/album/5C4bS73ywngd9kdgu9LUKi) | 2:38 |
 | 95 | [Heat Waves](https://open.spotify.com/track/48cSs3Ewgi5nuyhIV8byiZ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 2:58 |
 | 96 | [It's A Heartache](https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [It's A Heartache](https://open.spotify.com/album/1tOdmnCWx6X1aZScGY51xz) | 3:04 |
-| 97 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3M2wA7kvyghCBHnpLCpXrC) | 2:28 |
+| 97 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk) | 2:28 |
 | 98 | [Boyfriends](https://open.spotify.com/track/2j4pxuqfWJWtUUyGpjwPt0) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Harry's House: Piano Instrumentals](https://open.spotify.com/album/5Pg3AR2MC5SlZyMrCWbj9j) | 3:45 |
 | 99 | [Apologize \- Piano Instrumental](https://open.spotify.com/track/5clwrhS6H7zk2cQ04YYgws) | [Iannis Eralos](https://open.spotify.com/artist/2eqltLLw7NuUXF7WFMLvbD) | [Apologize \(Piano Instrumental\)](https://open.spotify.com/album/0NYxi20vRQO8iXdcwjI8uS) | 2:55 |
 | 100 | [Holy](https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Holy](https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27) | 2:41 |
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 137 | [Forever Young](https://open.spotify.com/track/5Gypv4ajIJEZGTDVJuvv4D) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Forever Young](https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX) | 3:03 |
 | 138 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
 | 139 | [Ocean Eyes](https://open.spotify.com/track/3szVnSFGkFuiivja0JF7gN) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Ludvig Hall](https://open.spotify.com/artist/3q45GtzDb65xPi6gFO3mMX) | [Ocean Eyes](https://open.spotify.com/album/2cfgNAWC7fuNLYLFTlmaiu) | 2:01 |
-| 140 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3WIu5NaDdoGCuYJS6QyQuA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:40 |
+| 140 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3vbMwZ0NXsJ1dGMNEfr9ar) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:40 |
 | 141 | [Dancing on my own](https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:38 |
 | 142 | [I Like Me Better](https://open.spotify.com/track/3w8O04Mi1efnH8n6pFg7et) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [The Beauty Of Piano](https://open.spotify.com/album/3zWYnKwjRMjWaGx7Ix95Jb) | 4:13 |
 | 143 | [Isn't She Lovely](https://open.spotify.com/track/09sIhNxVdgMezbzeGcRLIx) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Stay With Me](https://open.spotify.com/album/7FxObz6mk4OeaVu2XViEnY) | 2:02 |
@@ -237,4 +237,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 227 | [Imagine \- Piano Version](https://open.spotify.com/track/5WUOePmZdbHWTMAQ1Ap2ne) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part II](https://open.spotify.com/album/3W3nOMF7QrvKgX806FmTZZ) | 3:58 |
 | 228 | [Shape of You \(Cover\)](https://open.spotify.com/track/4D6hQqPWhVfiVsOyUbhVbg) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Relaxing Piano Covers, Vol\. 1 \(Best of 2017\)](https://open.spotify.com/album/1IRBLlv9NLMaF7ibUlrWvf) | 3:33 |
 
-Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMGI1ZGE0ZGI5NmJiNzM1ZjYwOGZhOGFkMmEzMzFlY2I0`
+Snapshot ID: `MTY3OTAxNDgwMCwwMDAwMDAwMDY1NWJmMzllOTRmOTRhZTUxMDQ2Mzk0OTlhMjk0NGQz`

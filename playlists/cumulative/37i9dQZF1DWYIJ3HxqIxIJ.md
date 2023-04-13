@@ -4,7 +4,7 @@
 
 > Royel Otis are our new RADAR artist to watch!
 
-219 songs - 11 hr 20 min
+220 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Right Now \(Used in the motion picture SCREAM VI\)](https://open.spotify.com/track/7an15q8ChuA2zKrTidBXxW) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [NOSTALGIA IS A LIAR](https://open.spotify.com/album/1JIIi8lZLcdbPpu0HMl2Xa) | 3:14 | 2023-03-12 |  |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2023-03-02 |  |
 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 | 2022-11-10 |  |
-| [Rolling Loud](https://open.spotify.com/track/7hTYdOc41vwhO8EBqRQNJ2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/0FudF3AQdTVQXVL2MV6TbP) | 2:55 | 2023-03-02 |  |
+| [Rolling Loud](https://open.spotify.com/track/55cEKK9VLkExu4RQO7gnPY) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/1PwWWKOV3XgyRLGSWjO5Nm) | 2:55 | 2023-03-12 |  |
+| [Rolling Loud](https://open.spotify.com/track/7hTYdOc41vwhO8EBqRQNJ2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/0FudF3AQdTVQXVL2MV6TbP) | 2:55 | 2023-03-02 | 2023-04-13 |
 | [Ruin My Life](https://open.spotify.com/track/3078LZDJY0jGDcLupjBFRP) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Ruin My Life](https://open.spotify.com/album/7iUpyRmyLJbkHaa1s68f2x) | 3:17 | 2022-08-15 | 2023-03-02 |
 | [Sabrina](https://open.spotify.com/track/6MWAjPXdw19mWpZxFZ1XPW) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [AfterDeath](https://open.spotify.com/artist/2stjrs7wFuofc0tK9O3utv) | [Sabrina](https://open.spotify.com/album/4G9IsiE3nEH71YX5zOTHit) | 2:13 | 2022-08-15 | 2022-11-11 |
 | [Safety](https://open.spotify.com/track/2712VhU2lg1zVicy19XYax) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Safety](https://open.spotify.com/album/5rw8OZBGecZW0MJCUAORct) | 3:57 | 2021-10-15 | 2022-08-16 |

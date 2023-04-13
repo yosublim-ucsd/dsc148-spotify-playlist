@@ -276,6 +276,24 @@
     {
       "album": {
         "name": "Better Together & Build Me Up Buttercup (Ukulele)",
+        "url": "https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208392,
+      "name": "Build Me Up Buttercup - Ukulele",
+      "url": "https://open.spotify.com/track/4i98tUpkezJsE4nKMCvj60"
+    },
+    {
+      "album": {
+        "name": "Better Together & Build Me Up Buttercup (Ukulele)",
         "url": "https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K"
       },
       "artists": [
@@ -286,7 +304,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 208392,
       "name": "Build Me Up Buttercup - Ukulele",
       "url": "https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H"
@@ -466,10 +484,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 322153,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy / Let It Be",
+        "url": "https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322153,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI"
     },
     {
       "album": {
@@ -664,10 +700,46 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 254193,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah / Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254193,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah / Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243529,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/3gt6ASrvqi8Rsv0Or4adcb"
     },
     {
       "album": {
@@ -682,7 +754,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 243529,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS"

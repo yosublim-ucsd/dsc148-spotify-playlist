@@ -1302,7 +1302,7 @@
     {
       "album": {
         "name": "Heat Waves (Guitar)",
-        "url": "https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS"
+        "url": "https://open.spotify.com/album/4xLyBp6kJNpFjYP1OaLXlK"
       },
       "artists": [
         {
@@ -1313,6 +1313,24 @@
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Heat Waves - Guitar",
+      "url": "https://open.spotify.com/track/3ViX2a4RmIXOM0z3aeaxMc"
+    },
+    {
+      "album": {
+        "name": "Heat Waves (Guitar)",
+        "url": "https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
       "duration_ms": 248000,
       "name": "Heat Waves - Guitar",
       "url": "https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh"
@@ -2248,10 +2266,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 206000,
       "name": "Perfect - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1"
+    },
+    {
+      "album": {
+        "name": "Perfect (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Perfect - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP"
     },
     {
       "album": {
@@ -2644,10 +2680,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 157000,
       "name": "Stay With Me - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx"
+    },
+    {
+      "album": {
+        "name": "Stay With Me (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f"
+      },
+      "artists": [
+        {
+          "name": "Teddy Knight",
+          "url": "https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Stay With Me - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z"
     },
     {
       "album": {

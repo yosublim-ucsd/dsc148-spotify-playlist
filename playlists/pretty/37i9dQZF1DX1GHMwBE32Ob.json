@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Bella Shmurda",
-  "num_followers": 5417,
+  "num_followers": 5486,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDQ2NmYyNTJlZmM5NGYzMjc4OTc4N2Q2MmI2MjJhNzc4",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGYyMmYzMjRhMDA5ZDhjZjQyMTNlYmEyZjQ3MzcwZjU4",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Cash App",
         "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Bad Boy Etiquette 101",
-        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "No Peace (Violence)",
-      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "New Born Fela",
-        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129807,
-      "name": "New Born Fela",
-      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "No Advise Me",
         "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178661,
       "name": "No Advise Me",
       "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 171258,
-      "name": "Fire Down",
-      "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Ikebe Supa",
         "url": "https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 141068,
       "name": "Ikebe Supa",
       "url": "https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 171258,
+      "name": "Fire Down",
+      "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 132414,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Oluchi",
         "url": "https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 162999,
       "name": "Oluchi",
       "url": "https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 132414,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI"
     },
     {
       "added_at": "2023-03-30 23:00:00",

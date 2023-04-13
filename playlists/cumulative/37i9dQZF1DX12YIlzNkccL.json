@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Bach & Beethoven",
+        "url": "https://open.spotify.com/album/3i29JBsZHpPUp15CDIPTG4"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Andrew von Oeyen",
+          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479240,
+      "name": "Beethoven: Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": III. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/4YVdlDcS7eK5CVhep29vnd"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
         "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
       },
@@ -334,28 +356,6 @@
       "duration_ms": 687426,
       "name": "Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97, \"Archduke\": II. Scherzo. Allegro",
       "url": "https://open.spotify.com/track/2tTGcRH0xsIOulHZxBlf3J"
-    },
-    {
-      "album": {
-        "name": "Bach & Beethoven",
-        "url": "https://open.spotify.com/album/3i29JBsZHpPUp15CDIPTG4"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Andrew von Oeyen",
-          "url": "https://open.spotify.com/artist/37DoQwtzVqshZVU8WfmzW0"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 479240,
-      "name": "Beethoven: Sonata No. 23 in F Minor, Op. 57, \"Appassionata\": III. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/4YVdlDcS7eK5CVhep29vnd"
     },
     {
       "album": {

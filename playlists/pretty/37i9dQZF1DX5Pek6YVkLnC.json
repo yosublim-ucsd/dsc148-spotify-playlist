@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Myke Towers",
-  "num_followers": 226762,
+  "num_followers": 226773,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0NzE2NCwwMDAwMDAwMGUyODdlYjE3OTVkYTcxYmQyZWQxZTRmNTEwYzZiNWFj",
+  "snapshot_id": "MTY4MDI0NzE2NCwwMDAwMDAwMDkwMDRjZjU4NTdjY2QzYWRkNzc5OGQzNDFmODUxYzBm",
   "tracks": [
     {
       "added_at": "2023-03-31 07:19:24",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-31 07:19:24",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Pauta & Flow",
-      "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
-    },
-    {
-      "added_at": "2023-03-31 07:19:24",
-      "album": {
         "name": "Fundota",
         "url": "https://open.spotify.com/album/5PnjVOr9NEnjP6ttNRaIBo"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2023-03-31 07:19:24",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 191489,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
+      "duration_ms": 195426,
+      "name": "Pauta & Flow",
+      "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
     },
     {
       "added_at": "2023-03-31 07:19:24",
@@ -899,6 +879,26 @@
       "duration_ms": 214323,
       "name": "6B (feat. Go Get Music)",
       "url": "https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT"
+    },
+    {
+      "added_at": "2023-03-31 07:19:24",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
     },
     {
       "added_at": "2023-03-31 07:19:24",

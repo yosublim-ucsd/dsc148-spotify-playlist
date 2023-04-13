@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-615 songs - 1 day 16 hr 35 min
+616 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Mother](https://open.spotify.com/track/0GlejgfH8mrHTcJjqfcw6s) | [VOICES FROM MARS](https://open.spotify.com/artist/2cuESGBQzXxxoG3sz06YVW) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 7:09 | 2022-06-03 | 2022-07-07 |
 | [Move The Soul](https://open.spotify.com/track/06lPpnaKh64CEQ5hXqqQNo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Move The Soul](https://open.spotify.com/album/18MU560yUVxVIjZ2bZVcmi) | 3:32 | 2022-06-21 | 2022-06-23 |
 | [MUKANJYO](https://open.spotify.com/track/1OkAWnUN7nQkWAUsGRW7Xw) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1dkeyjbXSNbbu04LSlMF3e) | 3:12 | 2022-07-26 | 2022-07-28 |
-| [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 | 2022-07-28 |  |
+| [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 | 2022-07-28 | 2023-04-13 |
 | [My Nonfiction](https://open.spotify.com/track/77wmpTzmexp0gvyeQq45zV) | [白銀御行\(CV:古川慎\)](https://open.spotify.com/artist/0oTiO95sHpwUlOp7RZ2mPp), [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [My Nonfiction](https://open.spotify.com/album/2naRwNTQ1LHtsxQjDOCZ7R) | 2:35 | 2022-07-14 | 2022-09-16 |
 | [My Song My Days](https://open.spotify.com/track/6720Nm1PzXNnaspxfDjF2T) | [SOLIDEMO](https://open.spotify.com/artist/7ccOn9dXuj9TGDZJSLZYP2), [桜men](https://open.spotify.com/artist/09nL8Bc0RxxQ43ckGEqgqN) | [My Song My Days](https://open.spotify.com/album/6INNU3w8qiQ75rRffXHpui) | 4:36 | 2022-06-14 | 2022-07-19 |
 | [nameless color](https://open.spotify.com/track/7HZED9wDIM4OFpLg2T95Qj) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [nameless color](https://open.spotify.com/album/6LeP2LZANEZJ2eg66KuS59) | 4:25 | 2022-06-24 | 2022-07-05 |
@@ -332,6 +332,7 @@
 | [Wake Up, Get Up, Get Out There](https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 4:37 | 2022-09-15 | 2022-10-19 |
 | [WALK \- movie ver.](https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [夏の夢/WALK](https://open.spotify.com/album/03sgjxuA0soDPpj5Kzf2e1) | 3:44 | 2022-07-26 | 2022-07-29 |
 | [We'll Be Alright \(Movie Edit\)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 4:18 | 2022-06-14 | 2022-07-14 |
+| [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-04-12 |  |
 | [Who are you?](https://open.spotify.com/track/1GfUfl8HGB2UxOgnncUX29) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [Who are you?](https://open.spotify.com/album/6v3OurJ28L8wVCWI7cFaIc) | 3:26 | 2022-06-03 | 2022-07-24 |
 | [will\-ill](https://open.spotify.com/track/7fJ1M28qRsUjSk8r0kKNv3) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [will\-ill](https://open.spotify.com/album/3KsCE9aD7Po22BP79o3kt0) | 5:09 | 2022-06-03 | 2022-07-18 |
 | [wit and love](https://open.spotify.com/track/1I6xj2Nn4JDMd0zdJC0Pnp) | [謎女](https://open.spotify.com/artist/1EWEmAOiffAhebNVtxywWL) | [wit and love / child dancer](https://open.spotify.com/album/5M4uuTfyrIza1ULJuHiIKm) | 3:30 | 2022-07-07 | 2022-07-26 |

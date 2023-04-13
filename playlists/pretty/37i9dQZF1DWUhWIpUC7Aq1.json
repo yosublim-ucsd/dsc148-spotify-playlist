@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 91238,
+  "num_followers": 91418,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDgxM2Y5Y2I3NWQ1NjNiODNmZGE3ZDZjNjVkYzlkZjdl",
+  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDE0ZTZlN2NjZGQyN2YxZjRhMDYwYzFlZWRmMTZiNTQw",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-04-12 00:08:37",
+      "added_at": "2023-04-13 00:08:29",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "The Only Living Boy in New York",
-      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Wincing The Night Away",
         "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 236711,
       "name": "Australia",
       "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+        "name": "Early Music",
+        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
         }
       ],
-      "duration_ms": 283746,
-      "name": "The District Sleeps Alone Tonight - Remastered",
-      "url": "https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3"
+      "duration_ms": 272080,
+      "name": "The Start of Something",
+      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Early Music",
-        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
+        "name": "Give Up (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
       },
       "artists": [
         {
-          "name": "Voxtrot",
-          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
         }
       ],
-      "duration_ms": 272080,
-      "name": "The Start of Something",
-      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
+      "duration_ms": 283746,
+      "name": "The District Sleeps Alone Tonight - Remastered",
+      "url": "https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The First Days Of Spring",
-        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Torch Song",
         "url": "https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 126971,
       "name": "Cut Your Bangs",
       "url": "https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The First Days Of Spring",
+        "url": "https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/1OtgKfkArIaanXT140hSmQ"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "When I Pretend To Fall",
-        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
-      },
-      "artists": [
-        {
-          "name": "The Long Winters",
-          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Begin to Hope",
         "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Juno - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
+        "name": "When I Pretend To Fall",
+        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
       },
       "artists": [
         {
-          "name": "Kimya Dawson",
-          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
+          "name": "The Long Winters",
+          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
         }
       ],
-      "duration_ms": 165840,
-      "name": "So Nice So Smart",
-      "url": "https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU"
+      "duration_ms": 252960,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1391,6 +1375,22 @@
       "duration_ms": 198093,
       "name": "Oh to Be in Love",
       "url": "https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Juno - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
+      },
+      "artists": [
+        {
+          "name": "Kimya Dawson",
+          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "So Nice So Smart",
+      "url": "https://open.spotify.com/track/5EAPbYyAnuOUG4EICxgBlU"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "The Good That Won't Come Out",
-      "url": "https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Truckload of Trouble",
         "url": "https://open.spotify.com/album/7DwNWxtAIKRuMEbR9TYwRd"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 232133,
       "name": "Nothing to Be Done",
       "url": "https://open.spotify.com/track/4iNVdv8dp78FqTR6Wn8WHf"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "The Good That Won't Come Out",
+      "url": "https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS"
     },
     {
       "added_at": "2023-03-14 21:50:42",

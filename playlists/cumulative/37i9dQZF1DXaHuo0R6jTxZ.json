@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 254955,
       "name": "Esa'aly",
       "url": "https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O"
@@ -1156,6 +1156,24 @@
       "duration_ms": 300160,
       "name": "\u0634\u064a\u0644\u0648\u0647\u0627 \u0634\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE"
+    },
+    {
+      "album": {
+        "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
+        "url": "https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381200,
+      "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
+      "url": "https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaHuo0R6jTxZ"

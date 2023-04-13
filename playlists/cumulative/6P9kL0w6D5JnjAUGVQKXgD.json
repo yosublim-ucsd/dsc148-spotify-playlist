@@ -566,7 +566,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Access",
       "url": "https://open.spotify.com/track/6e2hj3iWu2pKLpjC6VroJc"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 211216,
       "name": "Aftergold (feat. Tove Styrke) - Hanz Remix",
       "url": "https://open.spotify.com/track/4o9ewq4kmihwHcl1fRVdLH"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 202786,
       "name": "Bad For You (feat. 90's Kids)",
       "url": "https://open.spotify.com/track/2m70pnnWWOcItUhWHJbPu1"
@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 160887,
       "name": "Breath By Breath",
       "url": "https://open.spotify.com/track/4HSEJ8rmp21rUtqE9CNxFh"
@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2020-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 184035,
       "name": "Cloud 9 (feat. Jeremih)",
       "url": "https://open.spotify.com/track/0QDWjstXi64Xsj7yReHc3l"
@@ -5398,7 +5398,7 @@
       ],
       "date_added": "2020-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 150674,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1XFonPPCY4FKTTgJg3B089"
@@ -5700,7 +5700,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 195483,
       "name": "Congratulations - Don Diablo VIP Mix",
       "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
@@ -7212,7 +7212,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 157338,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
@@ -8562,7 +8562,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 210926,
       "name": "Fade Away - Deep Chills Remix",
       "url": "https://open.spotify.com/track/4MbHYN1eThqk0Of7IrWiUO"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 189259,
       "name": "Feeling Good - Joel Corry Remix",
       "url": "https://open.spotify.com/track/3hnm3SBxKdVT4hKUrKHo2r"
@@ -10776,7 +10776,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
@@ -11056,7 +11056,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 158048,
       "name": "Google Me (feat. Alika & Ms Banks)",
       "url": "https://open.spotify.com/track/6fg2qWBpF8vz2Ywj1TSyx2"
@@ -12375,6 +12375,28 @@
     },
     {
       "album": {
+        "name": "Home (feat. Bonn)",
+        "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239067,
+      "name": "Home (feat. Bonn)",
+      "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
+    },
+    {
+      "album": {
         "name": "Hometown Heroes",
         "url": "https://open.spotify.com/album/4iMi6VNQ8AFfYVbKIRN7eY"
       },
@@ -12936,7 +12958,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "I Don't Like Anyone",
       "url": "https://open.spotify.com/track/27QYBjA3j95pihdoVyJh1R"
@@ -13222,7 +13244,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 142142,
       "name": "I Just Got 2",
       "url": "https://open.spotify.com/track/0v5I3HwpNzrwfl5ffI0RNZ"
@@ -14620,7 +14642,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Invisible Dress - Maro Music x Skytech Remix - Short Edit",
       "url": "https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX"
@@ -15490,7 +15512,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 175992,
       "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
       "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
@@ -15698,7 +15720,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 148333,
       "name": "Lavandia",
       "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
@@ -15948,7 +15970,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 185365,
       "name": "Let It Be Me - Sondr Remix",
       "url": "https://open.spotify.com/track/2v3DuCVBbopteJqdM7aKQK"
@@ -16428,7 +16450,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
@@ -16546,7 +16568,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 164160,
       "name": "Like A Prayer (feat. Charla K)",
       "url": "https://open.spotify.com/track/6HjdL6nsBMykh2ehTv1kbb"
@@ -16942,7 +16964,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Looking For",
       "url": "https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk"
@@ -18422,7 +18444,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 202222,
       "name": "Momma Always Told Me (feat. Stanaj & Yung Bae) - Matoma Remix",
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
@@ -19384,7 +19406,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 158164,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/1jL3wCuXRWlTrpqO0pXLzg"
@@ -21264,7 +21286,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "Outside (feat. Ellie Goulding) - Hardwell Remix",
       "url": "https://open.spotify.com/track/5F65SKdHWD9l4Nl4kgMcWG"
@@ -22246,7 +22268,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 179032,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ"
@@ -24886,7 +24908,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 153870,
       "name": "Side By Side (with MKLA)",
       "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
@@ -25578,7 +25600,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 178536,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
@@ -25914,7 +25936,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 140333,
       "name": "Speak My Truth",
       "url": "https://open.spotify.com/track/6gJi6sdIK1ODJGzRTPlMLU"
@@ -27026,7 +27048,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 183866,
       "name": "Sweet Side (feat. Caitlyn Scarlett)",
       "url": "https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3"
@@ -27048,7 +27070,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 176930,
       "name": "Sweet Talker",
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
@@ -27128,7 +27150,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi"
@@ -27394,7 +27416,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -29504,7 +29526,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 177283,
       "name": "Under Your Control",
       "url": "https://open.spotify.com/track/1C4crHwRG3Qlzc6RJSCeDu"
@@ -30611,6 +30633,28 @@
     },
     {
       "album": {
+        "name": "What If I Told You That I Love You (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/3G8zAUpwiXw8WX51DRmrmd"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "What If I Told You That I Love You - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1J5ubGIOlUBT3t3WgfYidN"
+    },
+    {
+      "album": {
         "name": "What Is Love",
         "url": "https://open.spotify.com/album/03Ubhg43i9i3U7x7q10SLA"
       },
@@ -30866,7 +30910,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -30980,7 +31024,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 150256,
       "name": "Where Do We Go?",
       "url": "https://open.spotify.com/track/5i1pA6kJcxetBsFifLWtwG"
@@ -31152,7 +31196,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
@@ -31642,7 +31686,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Work That Body - Radio Edit",
       "url": "https://open.spotify.com/track/2DqigqUtFKTB0XLWOF7hGj"
@@ -32090,7 +32134,7 @@
       ],
       "date_added": "2020-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2020-06-30",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "You Are",
       "url": "https://open.spotify.com/track/418wnyeZOQ6NPVfiNbLsRk"
@@ -32196,7 +32240,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 175435,
       "name": "You for Me",
       "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
@@ -32310,7 +32354,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 126532,
       "name": "You Know",
       "url": "https://open.spotify.com/track/0upmhqjGvyv5E3kmcFls4q"

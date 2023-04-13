@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: YoungBoy Never Broke Again, Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 13 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 |
 | 14 | [Upnow \(mcvertt Mix\) \(feat\. Coi Leray\)](https://open.spotify.com/track/29T7DPhqlokMgfZqgoVySB) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow feat\. Coi Leray \(mcvertt Mix\)](https://open.spotify.com/album/1UOiHvTZl7WPuGHaZbeNdo) | 2:30 |
 | 15 | [Aint Got Time](https://open.spotify.com/track/3l7tZsu3paLDT1iVy1XiSl) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Aint Got Time](https://open.spotify.com/album/1ao8jKjlX1V1nsWgnW7eJg) | 2:49 |
-| 16 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:35 |
+| 16 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 |
 | 17 | [LIGHTS PLEASE \(feat\. Pusha T & CHASE B\)](https://open.spotify.com/track/7zBgZ7dhwTHx0WvttNExT2) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [LIGHTS PLEASE \(feat\. Pusha T & CHASE B\)](https://open.spotify.com/album/7hnP8oZmQWbbxUIMPp0MBq) | 2:51 |
 | 18 | [CAREFUL](https://open.spotify.com/track/7FET9gtiECWn7llt0sfvtU) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:29 |
 | 19 | [Off the Lot](https://open.spotify.com/track/4rwidVfKmPD2fjWpFEZk1P) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 4:17 |

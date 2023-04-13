@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 827 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 29 | [Mira Niñita \(Versión 1996\)](https://open.spotify.com/track/6GYbTb3eLDVdEoRSu6L3iU) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:27 |
 | 30 | [Presente \(El Momento en Que Estás\)](https://open.spotify.com/track/4bFUkfOd1ZGrCaszcsBP2L) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Caliente](https://open.spotify.com/album/2G0N5Sy48qkoWxCH8t4dIv) | 3:14 |
 | 31 | [Sudamérica o el Regreso a la Aurora](https://open.spotify.com/track/4I07jDewIc9GEUYq62QZ8N) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Sudamérica o el Regreso a la Aurora](https://open.spotify.com/album/6BIydkram8hHXGC8v5wQmQ) | 3:28 |
-| 32 | [Hombres de hierro](https://open.spotify.com/track/5YcGLMLhYZlFznMAUbp8fs) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 4:37 |
+| 32 | [Hombres de hierro](https://open.spotify.com/track/2JYIwI2gvuUbvEJdmJ7Aqn) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 4:37 |
 | 33 | [Día Extraño](https://open.spotify.com/track/09JI62BSHJdqgd88LwZN2S) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 5:02 |
 | 34 | [Canción para Mi Muerte \(En Vivo\)](https://open.spotify.com/track/16C986QwdOCct6VJQt4q2d) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Adiós Sui Generis Vol.I](https://open.spotify.com/album/4vW1SPHPXWIQ781Rb3cVbF) | 3:54 |
 | 35 | [Un Hada, un Cisne \(En Vivo\)](https://open.spotify.com/track/5szhB0Q15WTCkshsohogyJ) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Adios Sui Generis Vol\. II](https://open.spotify.com/album/5m4CVOIBGZeZnOviWzG3L8) | 27:28 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 45 | [Wadu Wadu](https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Wadu Wadu](https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU) | 2:36 |
 | 46 | [Represión](https://open.spotify.com/track/0bmriGQUH7zqlXzoKK1i88) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 3:35 |
 | 47 | [Regtest](https://open.spotify.com/track/5zcCEvFE8r9A7JzgdBniGy) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 3:44 |
-| 48 | [Sólo Le Pido A Dios](https://open.spotify.com/track/5ch1mwVQjqxC0XsRgwG2om) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [7 Años](https://open.spotify.com/album/1GUZb4lJhFrblNvV1BlKAE) | 4:35 |
+| 48 | [Sólo Le Pido A Dios \- Live](https://open.spotify.com/track/5V0WkSQiOubrM8whhQbyVI) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [7 Años](https://open.spotify.com/album/7nv3RirlkLNku5KQ29HU6j) | 4:35 |
 | 49 | [Guaca Rock De La Malinche](https://open.spotify.com/track/2IZjCGng9pi0s8T1eVbP3x) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 3:24 |
 | 50 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 |
 | 51 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 118 | [Florecita Rockera \(feat\. Goyo & Catalina García Barahona\)](https://open.spotify.com/track/0cewuMPpGs38dYsv18LFRW) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC), [Catalina García Barahona](https://open.spotify.com/artist/01CeOOSN2oyRaRXj1a3SJi) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 6:40 |
 | 119 | [Perro Negro \(En Vivo\)](https://open.spotify.com/track/6ydmf4dML4JjK8RNBgQgh7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm) | 3:53 |
 
-Snapshot ID: `MTY4MDE5MjM3NiwwMDAwMDAwMDQyMjExMWE4Yzk4MGYzNTNkMTQwYzhkOWVhMDhlNWVh`
+Snapshot ID: `MTY4MDE5MjM3NiwwMDAwMDAwMGYzN2I3MWVkZTZhZmQxNWY4NGRhOGM2ODQyMTczMDIy`

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-381 songs - 21 hr 23 min
+382 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Escape Reality](https://open.spotify.com/track/78aOL8eiuf4IrfCgR0kqfQ) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [Escape Reality](https://open.spotify.com/album/7a7N6ekXcTnHlwgRFImnzy) | 3:31 | 2021-08-06 | 2022-08-26 |
 | [Everybody You Hurt](https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw) | [Aaron Kates](https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT) | [Everybody You Hurt](https://open.spotify.com/album/6fQMIPsKgof7dg56n77QsF) | 3:04 | 2021-08-06 | 2022-12-24 |
 | [Everybody You Hurt](https://open.spotify.com/track/3odHCrMLEkfNslqDbrkLJt) | [Aaron Kates](https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT) | [Everybody You Hurt](https://open.spotify.com/album/2z291DYIYmPosH2qNtbDYH) | 3:04 | 2021-08-06 |  |
-| [Everything Everything](https://open.spotify.com/track/28SH5XV1NNVDiW5gPklCk7) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Drugs in California](https://open.spotify.com/album/0orGCA2NnyJwZ7MPl5uhGo) | 3:02 | 2021-10-08 |  |
+| [Everything Everything](https://open.spotify.com/track/28SH5XV1NNVDiW5gPklCk7) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Drugs in California](https://open.spotify.com/album/0orGCA2NnyJwZ7MPl5uhGo) | 3:02 | 2021-10-08 | 2023-04-13 |
 | [Everything Everything](https://open.spotify.com/track/4nlRlSpw3wKaggkpQ07Gik) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Everything Everything](https://open.spotify.com/album/0RbEX2dbX7A4EN9ZmyMsOD) | 3:02 | 2021-10-08 | 2022-07-25 |
 | [Fall In](https://open.spotify.com/track/6uEy133no179YW6ulcmalc) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Fall In](https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz) | 4:22 | 2022-03-04 | 2023-02-19 |
 | [Fall in Love Moody Good Remix](https://open.spotify.com/track/4ZnVn9qCN4ED4Nq4yNzA7z) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Fall in Love Moody Good Remix](https://open.spotify.com/album/0O35S4L5p7aT0pA3pvY8hh) | 3:15 | 2021-08-06 | 2023-02-04 |
@@ -227,6 +227,7 @@
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 | 2023-03-22 |
 | [Need U \(feat\. Madishu\)](https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Need U \(feat\. Madishu\)](https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty) | 3:26 | 2023-03-03 |  |
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-08 |  |
+| [Never Be The One](https://open.spotify.com/track/3xX4TpekL5y5ramIRsNMdj) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Makeshift Moon](https://open.spotify.com/album/4cbBlmjm17qy3EBsJG7KjT) | 3:57 | 2023-03-31 |  |
 | [Never Be The One](https://open.spotify.com/track/7vJgFCSsvnzDLc5MWFkFnz) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [Makeshift Moon](https://open.spotify.com/album/5aUCZI0mX5SZaPfdjbjL1h) | 3:57 | 2021-08-06 | 2023-03-02 |
 | [Night Goggles \- Rome in Silver Remix](https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Night Goggles \(Rome in Silver Remix\)](https://open.spotify.com/album/7js3eob7PU1CkZhcB5Ueve) | 3:21 | 2021-08-06 | 2023-03-11 |
 | [No Goodbyes](https://open.spotify.com/track/6ljsHgDtZkaiMPBw8GXQMY) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Contradictions](https://open.spotify.com/album/38kXQkFEPIDzTIvXRZcEQk) | 3:00 | 2021-08-06 | 2022-07-02 |

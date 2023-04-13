@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Tetris (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150570,
+      "name": "Benevolence - Tetris Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z"
+    },
+    {
+      "album": {
         "name": "Synchronic (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M"
       },
@@ -1766,6 +1784,24 @@
       "duration_ms": 423040,
       "name": "Let Him Goverture",
       "url": "https://open.spotify.com/track/2W6T02jcA0HiVBcuPjcRqh"
+    },
+    {
+      "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152846,
+      "name": "Level Complete",
+      "url": "https://open.spotify.com/track/4M4R19bQjkABzjResTozBt"
     },
     {
       "album": {

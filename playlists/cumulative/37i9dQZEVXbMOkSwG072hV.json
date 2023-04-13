@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 110793,
       "name": "Bate Forte e Dan\u00e7a",
       "url": "https://open.spotify.com/track/3WgeWkA124RA02ACzWai6Y"
@@ -7324,7 +7324,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 192731,
       "name": "Erro Gostoso",
       "url": "https://open.spotify.com/track/1RlRWXwiAyKgcBA407pmpZ"
@@ -10862,7 +10862,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
@@ -11358,10 +11358,28 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 119182,
       "name": "J\u00e1 Ouviu Aquele Ditado",
       "url": "https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY"
+    },
+    {
+      "album": {
+        "name": "J\u00e1 Ouviu Falar Daquele Ditado, Olhou para o Lado Eu Te Maceto",
+        "url": "https://open.spotify.com/album/4xhZfpuqMbugyKfVK7pumo"
+      },
+      "artists": [
+        {
+          "name": "Mc fefe da zl",
+          "url": "https://open.spotify.com/artist/6VN1qduGOj8sdrayA6XUH6"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120268,
+      "name": "J\u00e1 Ouviu Falar Daquele Ditado, Olhou para o Lado Eu Te Maceto",
+      "url": "https://open.spotify.com/track/0bdy6tcTwoFre4xcYOcsqd"
     },
     {
       "album": {
@@ -14142,7 +14160,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 153238,
       "name": "Montagem - Conga Conga (Remix)",
       "url": "https://open.spotify.com/track/4h3IQVSBs8lbFCvwMjGp83"
@@ -14768,12 +14786,12 @@
           "url": "https://open.spotify.com/artist/19aWf0vIIRxNrwYSu30Iqf"
         },
         {
-          "name": "MC Lipivox",
-          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
-        },
-        {
           "name": "Mc Yago",
           "url": "https://open.spotify.com/artist/3eKjUJNwglGwLmS8dELCuC"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
         }
       ],
       "date_added": "2023-04-03",

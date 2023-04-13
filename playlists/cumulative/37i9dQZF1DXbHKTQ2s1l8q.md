@@ -4,7 +4,7 @@
 
 > Beachy, acoustic tunes for lazy summer days.
 
-155 songs - 7 hr 52 min
+158 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Blackbird](https://open.spotify.com/track/6QyjSdg6KkGcSSzsCJ2lC1) | [Eva Bratt](https://open.spotify.com/artist/1gnNyXSO3QNIXZrCTFUNtg) | [Blackbird](https://open.spotify.com/album/6i4ROBArDpDqW1DGBmJJEX) | 1:59 | 2022-03-10 |  |
 | [Blackbird](https://open.spotify.com/track/1J3oa1IgWOJvkBAhjsOcEt) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Blackbird](https://open.spotify.com/album/135qzKFdS1y482SoC5Z8Og) | 1:41 | 2023-01-05 |  |
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-03-10 |  |
-| [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-03-10 |  |
+| [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/4i98tUpkezJsE4nKMCvj60) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc) | 3:28 | 2023-01-05 |  |
+| [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-03-10 | 2023-04-13 |
 | [Can't Take My Eyes Off You](https://open.spotify.com/track/46TJRia9JVaFEt8iEkzzs1) | [Hiapo](https://open.spotify.com/artist/7IGWVNg7zvboJRuWaXrL0K) | [Can't Take My Eyes Off You](https://open.spotify.com/album/4nXzck1c8g4EluvSWEOJpi) | 3:22 | 2022-03-10 |  |
 | [Chacharerita Mia](https://open.spotify.com/track/535hSZOoxufWFeB3sstnep) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Chacharerita Mia](https://open.spotify.com/album/5FWVfIerIXzDqEOB3LKeei) | 3:31 | 2022-03-10 |  |
 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 | 2022-03-10 | 2023-01-06 |
@@ -47,7 +48,8 @@
 | [Dew](https://open.spotify.com/track/6JqfE4pSUOgILE5nbkjnRQ) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Dew](https://open.spotify.com/album/0EZFTQf7FtZP5N8Qqwz4ip) | 2:32 | 2022-03-10 |  |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-10 |  |
 | [Don't Look Back](https://open.spotify.com/track/7CGhNKVYThivDTjXTV34ej) | [Luna Leigh](https://open.spotify.com/artist/15QfJ6oZojHoP3JozO2079) | [Don't Look Back](https://open.spotify.com/album/7ky9LVdqdBG450s2w7pyVy) | 2:47 | 2022-03-10 |  |
-| [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 | 2022-03-10 |  |
+| [Don't Worry Be Happy](https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 5:22 | 2022-03-10 | 2023-04-13 |
+| [Don't Worry Be Happy](https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 5:22 | 2023-01-05 |  |
 | [Dream Of Kapalua](https://open.spotify.com/track/3Ix8AFTXjJIqHbDkUdVU6z) | [Jim Kama](https://open.spotify.com/artist/4freTExwYI8GowzmoaluQJ) | [Dream Of Kapalua](https://open.spotify.com/album/2KKNEk0GmsqPx2SHsSL049) | 2:28 | 2022-03-10 |  |
 | [Easy On Me](https://open.spotify.com/track/7nZrgOtCRXGvrXCbPhuHch) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Easy On Me](https://open.spotify.com/album/1JjZRAcvYYpjY6IALupLZl) | 2:56 | 2022-03-10 |  |
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2022-03-10 |  |
@@ -68,7 +70,8 @@
 | [Gozando en Matanzas](https://open.spotify.com/track/05lZq4yh4QdWx2ZYusZjGx) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:27 | 2022-03-10 |  |
 | [Hawai](https://open.spotify.com/track/6SyZj0IIhWRZp02tVHv53n) | [ANDRIEU](https://open.spotify.com/artist/32H3Drf443gMaVe3XskfEs) | [ANDRIEU](https://open.spotify.com/album/0WI5qLuEsip8NmYR2YlZlL) | 1:32 | 2022-03-10 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 | 2022-05-05 |  |
-| [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 | 2022-03-10 |  |
+| [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 | 2022-03-10 | 2023-04-13 |
+| [Hey There Delilah](https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:14 | 2023-01-05 |  |
 | [Hoku' Ula](https://open.spotify.com/track/2sVEyh6ahydwVWDUZJV8rQ) | [The Islander](https://open.spotify.com/artist/4SVuGf4Qn6OJ3bTj6SKuY9) | [Hoku' Ula](https://open.spotify.com/album/0I3KngGPzDi2C42MG1NKcw) | 3:00 | 2022-03-10 |  |
 | [Hold Me Closer](https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hold Me Closer](https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr) | 2:27 | 2023-01-05 |  |
 | [Horai](https://open.spotify.com/track/4AoHH38lHbl78JE7rpFlcy) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548), [Eltaly](https://open.spotify.com/artist/2843lHYtQpsY6AROyz0CRg) | [Horai](https://open.spotify.com/album/15TYXN1TmXcgavXe07R4Mw) | 4:32 | 2022-03-10 | 2022-08-04 |

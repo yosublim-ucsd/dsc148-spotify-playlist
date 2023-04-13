@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Piqued Jacks in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,612 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,626 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
-| 2 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
-| 3 | [Da questo momento in poi](https://open.spotify.com/track/5aMXkADzSKqZ5QGYWY9roY) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Da questo momento in poi](https://open.spotify.com/album/1ALi5lN60hGaXWXX6q7GmO) | 3:32 |
-| 4 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
-| 5 | [Like an Animal](https://open.spotify.com/track/7nHxIAj5achKMZnYNcbzfe) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Like an Animal](https://open.spotify.com/album/4ZC0Mn6F39LpmArk28IbIo) | 2:59 |
-| 6 | [TU X ME](https://open.spotify.com/track/2UXtA9hSGW4XCDkimfkrOS) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 2:50 |
-| 7 | [CARTA, FORBICE, SESSO](https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CARTA, FORBICE, SESSO](https://open.spotify.com/album/2JTtwkyyz75fQLPfDuiNXs) | 2:49 |
+| 2 | [Da questo momento in poi](https://open.spotify.com/track/5aMXkADzSKqZ5QGYWY9roY) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Da questo momento in poi](https://open.spotify.com/album/1ALi5lN60hGaXWXX6q7GmO) | 3:32 |
+| 3 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
+| 4 | [Like an Animal](https://open.spotify.com/track/7nHxIAj5achKMZnYNcbzfe) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Like an Animal](https://open.spotify.com/album/4ZC0Mn6F39LpmArk28IbIo) | 2:59 |
+| 5 | [TU X ME](https://open.spotify.com/track/2UXtA9hSGW4XCDkimfkrOS) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 2:50 |
+| 6 | [CARTA, FORBICE, SESSO](https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CARTA, FORBICE, SESSO](https://open.spotify.com/album/2JTtwkyyz75fQLPfDuiNXs) | 2:49 |
+| 7 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
 | 8 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 |
 | 9 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
 | 10 | [Tipi a posto](https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Tipi a Posto](https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF) | 2:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 69 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 |
 | 70 | [Casa stanza letto dormi](https://open.spotify.com/track/30Yp1eG2fOC9hEyQ6jVrL8) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [Casa stanza letto dormi](https://open.spotify.com/album/5nBYAfZJPDVYwD4RmoavSY) | 6:55 |
 
-Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMGI2NzNjNjY0OWViZTE1MThiMzBjZWY0YmEzYjUxZmJm`
+Snapshot ID: `MTY4MTI4ODczMiwwMDAwMDAwMGI4Y2NhYTdmMGZiYTM3NTI5ZTEyNzZmNzlkOTMwMjJm`

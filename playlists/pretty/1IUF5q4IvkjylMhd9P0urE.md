@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 14,537 likes - 102 songs - 5 hr 31 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 14,540 likes - 102 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 19 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
 | 20 | [Phonkay](https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI), [Danny Daze](https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Homecore! Miami All\-Stars](https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd) | 2:25 |
 | 21 | [RATATA](https://open.spotify.com/track/3ve4pnOXb2zDM3oBSq7nA9) | [Baby Cocada](https://open.spotify.com/artist/2f2EmidwEUgacBJfs5QqkZ), [Fran Marco](https://open.spotify.com/artist/73a3g4dfuq0CM3VlNNhh8v), [Sacrifice.Rosse](https://open.spotify.com/artist/6fPoTt1lbihQTxz3Hr9BIK) | [RATATA](https://open.spotify.com/album/2diqa73F7SBZbIPynCm4lc) | 3:06 |
-| 22 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
+| 22 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
 | 23 | [Chosen](https://open.spotify.com/track/4To6ZmcUYr2AVHQBFfdDZs) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Chosen](https://open.spotify.com/album/3CLS1lWTcIeIZTz7Dd40dG) | 2:14 |
 | 24 | [Daddy](https://open.spotify.com/track/7FOaukJwvpts8X2g48kXSi) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Daddy](https://open.spotify.com/album/5wI4yxpS20ZASlkALcKN2z) | 4:06 |
 | 25 | [Ego Trippin' \(Part Two\)](https://open.spotify.com/track/2avmI53DtuX5r32jnx3rxt) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Shortie No Mass](https://open.spotify.com/artist/2SW5YLY1eOQryID9wt4uHM) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 3:52 |

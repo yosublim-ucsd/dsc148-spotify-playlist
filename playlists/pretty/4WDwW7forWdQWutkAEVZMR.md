@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 ### [Columbia Records: Weekly Mix](https://open.spotify.com/playlist/4WDwW7forWdQWutkAEVZMR)
 
-> Your go\-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!
+> Your go\-to playlist for this week's hottest music featuring Labrinth, Miley Cyrus &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,376 likes - 31 songs - 1 hr 34 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,375 likes - 31 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 30 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
 | 31 | [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 |
 
-Snapshot ID: `NjA1MCw4NjVmNTJjYThlYzk0MWY1YTU3ZWY1OWVkNzNlNjRjOWM4NDlkOWJl`
+Snapshot ID: `NjA1MywzZTY3ZmQyN2JiNDkzZDJmODNjMTI2YWVhOWMzY2FhYjJiOWFlN2M5`

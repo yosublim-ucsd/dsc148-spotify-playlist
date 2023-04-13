@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-614 songs - 2 day 4 hr 53 min
+615 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Forever Outsider](https://open.spotify.com/track/4KlTRjEcQvESo8jVVc7cLv) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Forever Outsider](https://open.spotify.com/album/5ueD5cxSXc04cLtz4YXaiP) | 4:09 | 2021-12-17 | 2022-07-29 |
 | [Fountainhead](https://open.spotify.com/track/2ThzCmB4XAQs1IKn7YCQuJ) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Fountainhead](https://open.spotify.com/album/188WgRHkVrDZKdu0MqSQSw) | 3:41 | 2022-07-13 | 2022-07-28 |
 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 | 2022-07-13 |  |
+| [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 | 2023-04-07 |  |
 | [From the Flame](https://open.spotify.com/track/1tBxs9BqNlBXbIxVaCBrv5) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Malina](https://open.spotify.com/album/0DvboP39IwpnJU9QrKIpDW) | 3:51 | 2021-12-17 | 2022-09-03 |
 | [Fugue](https://open.spotify.com/track/5MyJ0db4l6pNQCcrIxu3P9) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Resident Human](https://open.spotify.com/album/1FrupUpwR2Mf9rSIIoInyr) | 4:31 | 2022-09-02 | 2023-01-21 |
 | [Fugue](https://open.spotify.com/track/5Foe5fUmcOU9gsFpA03RRy) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Fugue](https://open.spotify.com/album/6wI0GHQv3wCLTrBk8vf4wo) | 4:31 | 2021-12-17 | 2022-07-29 |
@@ -473,7 +474,7 @@
 | [Such a Shame](https://open.spotify.com/track/6PGYsAkiIEJvF2w5f964ZB) | [Kôôver](https://open.spotify.com/artist/7Hr5q9aRiMPF8C3VxS3UKa) | [Power](https://open.spotify.com/album/2W3YX45J3X9L0JZvVIVhpU) | 4:13 | 2023-02-24 | 2023-04-02 |
 | [Sundowner](https://open.spotify.com/track/3xktHOVxDZqnfzd5J7YqmA) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Sundowner](https://open.spotify.com/album/5AG9QH3YQSsr2lNO0tYiTK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Sunshine Dust](https://open.spotify.com/track/2l7nVNOhkH9GveLLidCP6l) | [Skyharbor](https://open.spotify.com/artist/0YbvZPP1HufDyWIsR0ei6K) | [Sunshine Dust](https://open.spotify.com/album/4VWICVl0jvAPNIN0qePUaO) | 6:19 | 2022-01-14 | 2022-01-17 |
-| [Surrounded \- Live in NYC \- 1993](https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live in NYC \- 1993](https://open.spotify.com/album/02Y334D78pAitL6f5nxgxE) | 5:58 | 2022-03-18 |  |
+| [Surrounded \- Live in NYC \- 1993](https://open.spotify.com/track/4gi86wbezjWWY6UcSFHZut) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live in NYC \- 1993](https://open.spotify.com/album/02Y334D78pAitL6f5nxgxE) | 5:58 | 2022-03-18 | 2023-04-13 |
 | [Sylphs](https://open.spotify.com/track/4mrKtDOcSuAdxk0eBPhbWq) | [22](https://open.spotify.com/artist/0Op82sqzI45fNMecmDiJDx) | [You Are Creating: Limb2](https://open.spotify.com/album/08jFW7mypcOkvvRgdnjRKj) | 3:52 | 2021-12-17 | 2022-05-13 |
 | [Taurus](https://open.spotify.com/track/5hTRa6cl2MlpkrYyHO5zbR) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Taurus](https://open.spotify.com/album/2ze4aFb1a3SMNIQ5qL1aEj) | 4:48 | 2023-01-20 |  |
 | [Temple Of Circadia](https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 7:10 | 2021-12-17 | 2022-09-03 |

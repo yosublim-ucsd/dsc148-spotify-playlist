@@ -1520,10 +1520,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 291553,
       "name": "Nyota Yako",
       "url": "https://open.spotify.com/track/2IxodVxAhukQQskh0KW1Y9"
+    },
+    {
+      "album": {
+        "name": "Nyota Yako",
+        "url": "https://open.spotify.com/album/2Lj9jCdLSXzRg7jeSF05mj"
+      },
+      "artists": [
+        {
+          "name": "TID",
+          "url": "https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291557,
+      "name": "Nyota Yako",
+      "url": "https://open.spotify.com/track/03tmpdJzhAdQgEPOvG8KWr"
     },
     {
       "album": {

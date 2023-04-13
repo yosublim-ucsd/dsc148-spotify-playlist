@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Dovetail",
+        "url": "https://open.spotify.com/album/5Ak0Ffw2LmbrMaKPZsqWKJ"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121318,
+      "name": "Dovetail",
+      "url": "https://open.spotify.com/track/25UlllA0GGWjKK8ndbBk57"
+    },
+    {
+      "album": {
         "name": "Downstairs",
         "url": "https://open.spotify.com/album/0Zclpf48lKos6vY0bycvtI"
       },
@@ -1342,6 +1360,24 @@
       "duration_ms": 87683,
       "name": "dream river.",
       "url": "https://open.spotify.com/track/1lHYlFy54afDBxts2V3KZZ"
+    },
+    {
+      "album": {
+        "name": "Dreamers\u2019 decendants",
+        "url": "https://open.spotify.com/album/6nwwP2BhHWA1sDcg5H1JZA"
+      },
+      "artists": [
+        {
+          "name": "Kathrin Holtz",
+          "url": "https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135870,
+      "name": "Dreamers\u2019 decendants",
+      "url": "https://open.spotify.com/track/5nTseRT9NXm6QlUZy4rYSW"
     },
     {
       "album": {

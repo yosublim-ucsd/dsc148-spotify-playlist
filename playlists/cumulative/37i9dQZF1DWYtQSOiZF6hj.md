@@ -4,7 +4,7 @@
 
 > Great songs for your birthday! Let's celebrate!
 
-84 songs - 5 hr 4 min
+85 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Happy Birthday](https://open.spotify.com/track/01lewSOj9ZaXplh9TpNKL4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 5:57 | 2022-03-10 |  |
 | [Happy Birthday](https://open.spotify.com/track/6p8c6GUSBuBr05thevRLdD) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Kids Birthday Favs](https://open.spotify.com/album/5F3d3xhI5teyJaFppXQPX9) | 5:57 | 2022-03-10 | 2022-11-13 |
 | [Happy Birthday \(feat\. John Legend\)](https://open.spotify.com/track/5SAckbSHhNJ41b3bn5XwPL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:10 | 2021-11-22 |  |
-| [Happy Birthday Mr\. President](https://open.spotify.com/track/1Fk7y9wnhodbwJGcfxsPcC) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Very Best Of](https://open.spotify.com/album/4tjvO958z1XIZEgNIAbZwj) | 0:44 | 2021-11-22 |  |
+| [Happy Birthday Mr President \(Short Version\)](https://open.spotify.com/track/0YQVPdC5wm0BWOMtQn6b69) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Presenting Marilyn Monroe](https://open.spotify.com/album/7Hw28V8PQSnZRO9H5NxRjb) | 0:45 | 2023-01-03 |  |
+| [Happy Birthday Mr\. President](https://open.spotify.com/track/1Fk7y9wnhodbwJGcfxsPcC) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Very Best Of](https://open.spotify.com/album/4tjvO958z1XIZEgNIAbZwj) | 0:44 | 2021-11-22 | 2023-04-13 |
 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2022-03-10 |  |
 | [I Gotta Feeling](https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[International Version\]](https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB) | 4:49 | 2021-11-22 | 2022-07-29 |
 | [I Gotta Feeling](https://open.spotify.com/track/1K93JM7sOGRDKab1I7fPRd) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Kids Dance Party Music](https://open.spotify.com/album/3IJxyZ07BQS9q5oCZScKV2) | 4:49 | 2022-03-10 | 2022-11-14 |

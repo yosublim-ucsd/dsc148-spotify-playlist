@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-105 songs - 4 hr 47 min
+106 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/1gjzrOrBfjv21A6Ol9GhcY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Christmas: The Collection \(50 of the Greatest Original Xmas Hits\)](https://open.spotify.com/album/7bwBbFF8jfX6zqudzmxF2l) | 3:28 | 2022-03-11 |  |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/43Q4KALeZvDtLxH7GztgeK) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby, Vol.2](https://open.spotify.com/album/1cjgBwwG52o3cZQOyMcjZT) | 2:55 | 2022-03-11 |  |
 | [Somewhere over the Rainbow](https://open.spotify.com/track/0RCaO2RKZSXsaDk8bpatpi) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Lullaby Baby, Vol\. 2](https://open.spotify.com/album/0jAoTfUdILoNxyxEuEZJpm) | 2:55 | 2022-03-11 | 2022-07-29 |
-| [Somewhere Over the Rainbow](https://open.spotify.com/track/2HuL7rUWFHEglIh7X7LeKK) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/4NafQjETWnvxVOKIsOkysB) | 2:51 | 2023-01-06 |  |
+| [Somewhere Over the Rainbow](https://open.spotify.com/track/0DFRrU92NWqLAzvbOsX9gH) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/3Z9Q0CJg8PAN3WCQIFm7oa) | 2:51 | 2023-03-17 |  |
+| [Somewhere Over the Rainbow](https://open.spotify.com/track/2HuL7rUWFHEglIh7X7LeKK) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/4NafQjETWnvxVOKIsOkysB) | 2:51 | 2023-01-06 | 2023-04-13 |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/7jfoeT6J6bLHf6rgksNS6F) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6llW0Vf3YYuvnWC64o9cIB) | 2:51 | 2022-03-11 | 2023-03-10 |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/7mYEKvsWn7I9kPoW079vEL) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Lullaby](https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg) | 2:51 | 2022-03-11 | 2022-12-14 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-03-11 |  |

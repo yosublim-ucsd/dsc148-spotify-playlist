@@ -2,7 +2,7 @@
 
 ### [Columbia Records: Weekly Mix](https://open.spotify.com/playlist/4WDwW7forWdQWutkAEVZMR)
 
-> Your go\-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!
+> Your go\-to playlist for this week's hottest music featuring Labrinth, Miley Cyrus &amp; more!
 
 363 songs - 18 hr 6 min
 

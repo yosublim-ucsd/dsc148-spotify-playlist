@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-1,267 songs - 3 day 10 hr 44 min
+1,269 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Silhouette Burn](https://open.spotify.com/track/2RnFiTJllgS1AqSvdJ8zqw) | [Leon Top](https://open.spotify.com/artist/7fTmuayg1NszroLSD3TGpf), [Sorato](https://open.spotify.com/artist/1qKcWNZYG8jaquH1yDnG4T) | [Silhouette Burn](https://open.spotify.com/album/5OoGb7rmVfrglTFDt9Jg0S) | 3:12 | 2022-09-13 | 2022-09-28 |
 | [Silly romance](https://open.spotify.com/track/0Z9oufPvd3uaolj0lw4eMk) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [Silly romance](https://open.spotify.com/album/56VA0kGYvHZkzyyGMkEkcb) | 2:36 | 2022-09-13 | 2022-09-21 |
 | [Simple Song](https://open.spotify.com/track/54Wn5aSXwHUiHQgokPWFvQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Simple Song](https://open.spotify.com/album/26KjNctBC6pk7NoYN5SWzw) | 5:02 | 2022-06-02 | 2022-07-24 |
+| [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 | 2023-04-11 |  |
 | [Sixteen, Fifteen](https://open.spotify.com/track/6PjUPRfDLbzXqjU5CdiMtV) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/37ETovdRL3wZRNAxcEywzS) | 3:40 | 2023-01-24 | 2023-01-26 |
 | [Sixteen, Fifteen](https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9) | 3:40 | 2023-01-24 | 2023-02-08 |
 | [Slay the day!](https://open.spotify.com/track/3cMFOhhAWmE3VCB44ZE3xL) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Slay the day!](https://open.spotify.com/album/0hT3xd7HB2BCwLnOnPW6UV) | 3:25 | 2022-06-02 | 2022-07-22 |
@@ -688,7 +689,8 @@
 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 | 2023-04-04 | 2023-04-12 |
 | [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 | 2023-02-28 | 2023-03-15 |
 | [We've Come So Far](https://open.spotify.com/track/6dGRGV7x5kKiqLu6TJ1ua7) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/3yMGaBA6j0ruj1gnYdCGp4) | 3:58 | 2023-02-28 | 2023-03-02 |
-| [weakness](https://open.spotify.com/track/0Eu5fD6V5p08LHTXvsssoG) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [weakness](https://open.spotify.com/album/1WF9HDVPfLAMHFhHoMWtmT) | 3:43 | 2023-04-11 |  |
+| [weakness](https://open.spotify.com/track/0Eu5fD6V5p08LHTXvsssoG) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [weakness](https://open.spotify.com/album/1WF9HDVPfLAMHFhHoMWtmT) | 3:43 | 2023-04-11 | 2023-04-13 |
+| [weakness](https://open.spotify.com/track/1cn2bx66eZNu4scspbVp5W) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [weakness](https://open.spotify.com/album/0okKLRdOPi0SfISlBFFeot) | 3:43 | 2023-04-11 |  |
 | [Wear Dark Blue](https://open.spotify.com/track/6YJUZolcyToJXDJ7ypwoOD) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Wear Dark Blue](https://open.spotify.com/album/6RtPIk1oeH22Q89C0Zl1Ed) | 3:45 | 2023-03-21 | 2023-03-29 |
 | [WEEKEND](https://open.spotify.com/track/2AJNDcXp8IwJ48IL868i92) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [WEEKEND](https://open.spotify.com/album/6itx7fTirph9qbUKidhIoQ) | 3:28 | 2022-06-02 | 2022-07-20 |
 | [Wellmade](https://open.spotify.com/track/4c3w3gcinYMP7NiAGr9o30) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Wellmade](https://open.spotify.com/album/3hfhcnGgl5jypAv4eKxkOK) | 4:21 | 2022-11-29 | 2022-12-07 |
@@ -855,7 +857,7 @@
 | [ココロミュージカル](https://open.spotify.com/track/3W3gajurMrLZtjHZEUnPcJ) | [田畑実和](https://open.spotify.com/artist/3eMcH646Hc9IXNaCGfB38d) | [ココロミュージカル](https://open.spotify.com/album/3Lcd4ShGGWu1dVEImf1AwF) | 3:03 | 2022-06-02 | 2022-07-27 |
 | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/track/60TyIUjq4CyOoWUG9gaubR) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/album/73tELo06Cer78bMDnmMzDf) | 3:37 | 2022-06-02 | 2022-07-21 |
 | [サークル](https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Sketch](https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy) | 3:15 | 2023-03-07 |  |
-| [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 |  |
+| [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2023-04-11 | 2023-04-13 |
 | [シフクノトキ](https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シフクノトキ](https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj) | 3:07 | 2022-05-31 | 2022-11-30 |
 | [シルクのカーディガン](https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [シルクのカーディガン](https://open.spotify.com/album/0muk59f6rTTaYplWMMhwIn) | 4:46 | 2022-08-30 | 2022-09-07 |
 | [シンクロ](https://open.spotify.com/track/0RSWLB4Y27vATILaBddYkI) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [君に恋したときから](https://open.spotify.com/album/2OrUINaAaH0sC179JThYch) | 3:31 | 2022-08-23 | 2022-08-31 |

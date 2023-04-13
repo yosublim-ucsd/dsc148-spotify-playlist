@@ -2991,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "The Weakness",
+        "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242173,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1"
+    },
+    {
+      "album": {
         "name": "The Goldmine",
         "url": "https://open.spotify.com/album/2AcTnhjnZKm6PaGDwFTwqz"
       },
@@ -6142,7 +6160,7 @@
       ],
       "date_added": "2020-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"

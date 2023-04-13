@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Billie Marten
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,528 likes - 111 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,565 likes - 111 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 243189,
+  "num_followers": 243615,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDA1ZTU3ZWRhYTBjN2M5NmQwYjE1Y2QyNWZhM2I2NGU2",
+  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMGViMDViNjEzNTQxMDVhZWE0NTMxMTY3NjJmZWE4ZWM0",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Plastic Dreams",
-        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
-      },
-      "artists": [
-        {
-          "name": "Jaydee",
-          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "Plastic Dreams - Radio Edit",
-      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Everybody Everybody",
         "url": "https://open.spotify.com/album/6xWCKGUnDcZRXQQn1A9e5H"
       },
@@ -403,6 +387,38 @@
       "duration_ms": 320374,
       "name": "Everybody Everybody (Le Freak Mix)",
       "url": "https://open.spotify.com/track/7uhAqFWN1GDG1IX6m3C0sm"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Plastic Dreams",
+        "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
+      },
+      "artists": [
+        {
+          "name": "Jaydee",
+          "url": "https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "Plastic Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Nitelife - Armand Van Helden Remixes",
+        "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
+      },
+      "artists": [
+        {
+          "name": "Kim English",
+          "url": "https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs"
+        }
+      ],
+      "duration_ms": 417401,
+      "name": "Nitelife - Armand Van Helden Retail Mix",
+      "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -427,22 +443,6 @@
       "duration_ms": 416026,
       "name": "Where Love Lives (Come On In) - Classic Mix",
       "url": "https://open.spotify.com/track/0ilZMeXHPKDPjUc4Neu04f"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Nitelife - Armand Van Helden Remixes",
-        "url": "https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen"
-      },
-      "artists": [
-        {
-          "name": "Kim English",
-          "url": "https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs"
-        }
-      ],
-      "duration_ms": 417401,
-      "name": "Nitelife - Armand Van Helden Retail Mix",
-      "url": "https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Turn Up The Bass",
-        "url": "https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6"
-      },
-      "artists": [
-        {
-          "name": "Tyree Cooper",
-          "url": "https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn"
-        }
-      ],
-      "duration_ms": 298918,
-      "name": "Turn Up The Bass - Fast Eddie Scratch It Up Mix",
-      "url": "https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 493560,
       "name": "You Don't Know Me (feat. Duane Harden)",
       "url": "https://open.spotify.com/track/6j7Fdvi61J0qwjqh1OPeFM"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6"
+      },
+      "artists": [
+        {
+          "name": "Tyree Cooper",
+          "url": "https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn"
+        }
+      ],
+      "duration_ms": 298918,
+      "name": "Turn Up The Bass - Fast Eddie Scratch It Up Mix",
+      "url": "https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Rich in Paradise (Going Back to My Roots)",
-        "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
-      },
-      "artists": [
-        {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
-        }
-      ],
-      "duration_ms": 351373,
-      "name": "Rich in Paradise (Going Back to My Roots) - Vocal Remix",
-      "url": "https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0KbhGcgoagosU3W4Jw5eBS"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 227453,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/2ycghCtdMwb29zZQ7ffSoX"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Rich in Paradise (Going Back to My Roots)",
+        "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
+      },
+      "artists": [
+        {
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+        }
+      ],
+      "duration_ms": 351373,
+      "name": "Rich in Paradise (Going Back to My Roots) - Vocal Remix",
+      "url": "https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Everybody (All Over The World)",
-        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
-      },
-      "artists": [
-        {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Everybody (All over the World) - Dance Version",
-      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Boss Drum",
         "url": "https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "The World is Full of Trouble",
-        "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
+        "name": "Everybody (All Over The World)",
+        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
       },
       "artists": [
         {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
         }
       ],
-      "duration_ms": 446466,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
+      "duration_ms": 313813,
+      "name": "Everybody (All over the World) - Dance Version",
+      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -979,6 +963,22 @@
       "duration_ms": 211960,
       "name": "Hideaway - Deep Dish Radio Edit",
       "url": "https://open.spotify.com/track/2bpmisazTQ49QpLMGZGp1X"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "The World is Full of Trouble",
+        "url": "https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn"
+      },
+      "artists": [
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        }
+      ],
+      "duration_ms": 446466,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
     },
     {
       "added_at": "2021-09-17 08:34:50",

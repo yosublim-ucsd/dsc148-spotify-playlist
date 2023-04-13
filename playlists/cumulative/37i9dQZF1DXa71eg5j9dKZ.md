@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: TIBASKO
 
-649 songs - 1 day 22 hr 56 min
+650 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,8 @@
 | [Sugar Slip \(The Lick\)](https://open.spotify.com/track/1nVuOeLEhqNSopzOtd34Uu) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Sugar Slip \(The Lick\)](https://open.spotify.com/album/4DXvADiZnbapIFym7sn9e7) | 7:29 | 2022-01-28 | 2022-05-26 |
 | [Summer Ghost](https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Summer Ghost](https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe) | 5:10 | 2023-01-13 |  |
 | [Sunlight \(Edit\) \(feat\. Lady Blackbird\)](https://open.spotify.com/track/0V7ogB2hYyJfQyH02hiPis) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Sunlight](https://open.spotify.com/album/1QutN3qqbIejNNSCLw18ix) | 3:16 | 2021-11-24\* | 2022-01-29 |
-| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-09 |  |
+| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-09 | 2023-04-13 |
+| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-04-06 |  |
 | [Swallow Me](https://open.spotify.com/track/44ZTXLhsvi5vaXTDhQsm33) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Swallow Me](https://open.spotify.com/album/6jLS18y1cCwi7TTy8ljUBU) | 8:10 | 2022-10-06 |  |
 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 | 2022-04-22 | 2022-09-30 |
 | [Take Me High](https://open.spotify.com/track/3eQ2o9qHlzsMPdgIzeT63f) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [JOY](https://open.spotify.com/album/7k0sWYeRb1VDKDjdMOJBOp) | 4:26 | 2021-11-24\* | 2022-03-05 |

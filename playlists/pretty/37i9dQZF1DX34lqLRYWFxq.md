@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Cam Kahin
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,810 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,818 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 55 | [Whatever You Break](https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Whatever You Break](https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb) | 3:06 |
 | 56 | [Sad Dumb Game](https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Head Shrunk / Sad Dumb Game](https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ) | 2:19 |
 | 57 | [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 |
-| 58 | [No Repair](https://open.spotify.com/track/1WguNk3guCh3aO15NZorB1) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 4:27 |
+| 58 | [No Repair](https://open.spotify.com/track/2AGfCGLMpJy0FLiHANdevp) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Perfect Blue](https://open.spotify.com/album/4OtIJRa2ecK1tkWAETDjiJ) | 4:27 |
 | 59 | [Back Home](https://open.spotify.com/track/25Inf9DdQu3QYZITwtdTzN) | [Lofsky](https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4), [Lowdsound](https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9) | [Back Home](https://open.spotify.com/album/6nczsf922TS5VrzYQljA9i) | 2:44 |
 | 60 | [LoserLand](https://open.spotify.com/track/0xPV5QoRlrDDq95690BIkT) | [Po Lazarus](https://open.spotify.com/artist/2kOLImI4VIsAM8yA9KQUOi) | [LoserLand](https://open.spotify.com/album/6rDm6oPJ2k8nmc699z5VFo) | 3:37 |
 | 61 | [Heartbreaker by Design](https://open.spotify.com/track/5ueLZYReaiLhYrqLrRhpkh) | [Your ex and I](https://open.spotify.com/artist/46bnuozfnzrXzASP9d8XlZ) | [Your ex and I](https://open.spotify.com/album/1SK5c2RidvtRh8Q0ILFqvr) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Trigger Warning](https://open.spotify.com/track/0fG9brD4I1ouTnfupzT6Yl) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Trigger Warning](https://open.spotify.com/album/4nmJPlGgV2fkrsie1W1vrq) | 2:35 |
 | 100 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDAxOWM3NjE5NTFhNWZmYTVlMjBmMjljMDViYTllMDRk`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMGQxZjNjOGRlN2M0OWQ3YTVmZTY4ZTlkYjk2YmNjMGIz`

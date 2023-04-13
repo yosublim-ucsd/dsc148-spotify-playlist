@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Aquecimento Senta Senta Levanta e os funks mais 🔑 do Brasil\. Foto: MC Kevin o Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,531,500 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,533,517 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

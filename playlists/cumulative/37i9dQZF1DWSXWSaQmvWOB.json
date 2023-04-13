@@ -6014,7 +6014,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 301026,
       "name": "Let Love Run These Streets",
       "url": "https://open.spotify.com/track/4anLBhGgGT9KlAJHxhS6cU"
@@ -8252,6 +8252,36 @@
       "duration_ms": 311680,
       "name": "People Wither",
       "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
+    },
+    {
+      "album": {
+        "name": "We Never Stop",
+        "url": "https://open.spotify.com/album/5ZXGZfvx2JzjeHYXyweXwV"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Aron Hodek",
+          "url": "https://open.spotify.com/artist/2T2Ut76sWXHf36UHeEyGNU"
+        },
+        {
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/3RN9aExVAKIXHut4l7ODxx"
     },
     {
       "album": {

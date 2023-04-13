@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60647,
+  "num_followers": 60654,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDY4Y2E1NmU2ZWI0Y2VkNjgyYTcxOTQyNzY4OTk0ODdl",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGNhN2E5YmMzOTY1MGU2NzE5Njc0YmFlNjUzMTQzYmYx",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
-      },
-      "artists": [
-        {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Nadav Guedj",
         "url": "https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 180608,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
+      },
+      "artists": [
+        {
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Vive la vie (Edition sp\u00e9ciale)",
+        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Vive la vie (Edition sp\u00e9ciale)",
-        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
-      },
-      "artists": [
-        {
-          "name": "Twin Twin",
-          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
-        }
-      ],
-      "duration_ms": 169181,
-      "name": "Moustache",
-      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
     },
     {
       "added_at": "2022-05-16 13:21:08",

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 21007,
+  "num_followers": 21015,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMGM0YjY3NGNlYTBkNzA0NjJmZTgwN2I0NmRjOGRmNzAw",
+  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMDgwNzVkOGY0Y2VkNjk5MTQzM2JkMjQ4ZGNhNTE5ODky",
   "tracks": [
     {
       "added_at": "2022-12-05 10:46:12",
@@ -519,22 +519,18 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "KHAYYALA",
-        "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
+        "name": "\u0625\u0646\u0647\u0636",
+        "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
       },
       "artists": [
         {
-          "name": "EQuBE",
-          "url": "https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu"
-        },
-        {
-          "name": "Almukhtar",
-          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
+          "name": "Emsallam",
+          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
         }
       ],
-      "duration_ms": 189600,
-      "name": "KHAYYALA",
-      "url": "https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC"
+      "duration_ms": 248888,
+      "name": "\u0625\u0646\u0647\u0636",
+      "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -555,18 +551,22 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "\u0625\u0646\u0647\u0636",
-        "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
+        "name": "KHAYYALA",
+        "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
       },
       "artists": [
         {
-          "name": "Emsallam",
-          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
+          "name": "EQuBE",
+          "url": "https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu"
+        },
+        {
+          "name": "Almukhtar",
+          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
         }
       ],
-      "duration_ms": 248888,
-      "name": "\u0625\u0646\u0647\u0636",
-      "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
+      "duration_ms": 189600,
+      "name": "KHAYYALA",
+      "url": "https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC"
     },
     {
       "added_at": "2022-12-05 10:46:12",

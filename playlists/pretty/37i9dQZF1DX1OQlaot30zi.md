@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata con le nuove uscite\. Questa settimana Nitro, Geolier, Sfera, Dylan e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,908 likes - 84 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,941 likes - 84 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

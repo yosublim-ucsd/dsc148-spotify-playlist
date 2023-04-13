@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-160 songs - 13 hr 32 min
+161 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Candy](https://open.spotify.com/track/6gSikmgY3B2Pp0CvQXBjEC) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Candy](https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs) | 4:00 | 2023-01-19 | 2023-02-24 |
 | [Carol](https://open.spotify.com/track/3vKxUFJKFewfZYCPsxHECn) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 4:01 | 2022-09-08 | 2023-04-06 |
 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 | 2022-09-08 |  |
-| [Cascaraï](https://open.spotify.com/track/7MFoy8IS7CKsBaKXZKzplg) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Cascaraï](https://open.spotify.com/album/2euQu1T8ExViupJef3NREV) | 3:37 | 2023-03-02 |  |
+| [Cascaraï](https://open.spotify.com/track/58KIcDUCViSgdVFTZkmpqc) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [MACADAM](https://open.spotify.com/album/0MmXLzMi3nrfO0lec3drjK) | 3:37 | 2023-04-06 |  |
+| [Cascaraï](https://open.spotify.com/track/7MFoy8IS7CKsBaKXZKzplg) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Cascaraï](https://open.spotify.com/album/2euQu1T8ExViupJef3NREV) | 3:37 | 2023-03-02 | 2023-04-13 |
 | [Cessna](https://open.spotify.com/track/7o3kAR4Hc4cHiyk8AJwZmR) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Lure of Little Voices \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/0zWSNIQlAGSUpgS9EBnBHK) | 3:10 | 2022-09-08 |  |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2022-09-08 | 2023-03-18 |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-09-08 |  |

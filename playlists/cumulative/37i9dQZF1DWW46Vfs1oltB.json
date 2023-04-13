@@ -15423,6 +15423,28 @@
     },
     {
       "album": {
+        "name": "DIRTY PLAY",
+        "url": "https://open.spotify.com/album/2OWTSwnOpPeWcTzpbrshvC"
+      },
+      "artists": [
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "POLODARED",
+          "url": "https://open.spotify.com/artist/4R3VoFf4QWrwmkOuyxWPBR"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211417,
+      "name": "Shawty Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/2nJwN6xyty5fi7OkO3RWmv"
+    },
+    {
+      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -16664,6 +16686,36 @@
       "duration_ms": 275500,
       "name": "Survival Of The Fittest (Prod. By mil house)",
       "url": "https://open.spotify.com/track/4ALx76Q5mn6Q6o8v3W1fPa"
+    },
+    {
+      "album": {
+        "name": "SWEAT (Prod. JINBO)",
+        "url": "https://open.spotify.com/album/03CQAHup6CK4xOLGYJoI2M"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "JINBO",
+          "url": "https://open.spotify.com/artist/4SJSnnKMzPXeQ8Mtj3TViL"
+        },
+        {
+          "name": "INJAE",
+          "url": "https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD"
+        },
+        {
+          "name": "Yoon Da Hye",
+          "url": "https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220083,
+      "name": "SWEAT (Prod. JINBO)",
+      "url": "https://open.spotify.com/track/56cxM1ebfS9wD2v8Ub0nvh"
     },
     {
       "album": {

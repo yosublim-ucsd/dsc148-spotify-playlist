@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5934\)
+## Playlists \(5935\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1747,7 +1747,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Forever Country](/playlists/pretty/37i9dQZF1DX9hWdQ46pHPo.md)
 - [Found Them First](/playlists/pretty/3sJ6SlgRo56Oa7YhHcLK5l.md)
 - [Foxall's track IDs](/playlists/pretty/37i9dQZF1DX2Jggz04vUOo.md)
-- [Francos de Montréal 2022](/playlists/pretty/37i9dQZF1DWSuqJGcMjUOz.md)
+- [Francos de Montréal 2023](/playlists/pretty/37i9dQZF1DWSuqJGcMjUOz.md)
 - [Frecuencia Pop](/playlists/pretty/37i9dQZF1DXbDPWblNlzy4.md)
 - [Free & Easy](/playlists/pretty/37i9dQZF1DX6fhMYWIyuww.md)
 - [Free Form](/playlists/pretty/37i9dQZF1DX6mMeq1VVekF.md)
@@ -2288,6 +2288,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Instrumental Bluegrass](/playlists/pretty/37i9dQZF1DXby9Yl80gEWW.md)
 - [Instrumental Blues](/playlists/pretty/37i9dQZF1DXbUXCbzCkRVP.md)
 - [Instrumental Christmas Hymns](/playlists/pretty/37i9dQZF1DWViKwLyOBsJF.md)
+- [Instrumental Dance Hits](/playlists/pretty/37i9dQZF1DX8QHI5qVTd7o.md)
 - [Instrumental Funk](/playlists/pretty/37i9dQZF1DX8f5qTGj8FYl.md)
 - [Instrumental Jazz Standards](/playlists/pretty/37i9dQZF1DX5S7hzwhDSyV.md)
 - [Instrumental Madness](/playlists/pretty/37i9dQZF1DWUk47CLxI4Uo.md)

@@ -24614,10 +24614,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 259200,
       "name": "O Que \u00c9 O Que \u00c9?",
       "url": "https://open.spotify.com/track/5P1YRVQ1QaVtLsjl0M5qGj"
+    },
+    {
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0MM50Se76XvcfAnHdYQ9gy"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "O Que \u00c9 O Que \u00c9?",
+      "url": "https://open.spotify.com/track/2u6dohtPb5vRYvmqEdxbcz"
     },
     {
       "album": {

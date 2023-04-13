@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 115412,
+  "num_followers": 115445,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDI2MzYxODkyNTgzYjAzYmIwNDk0MGNjOWYwNDljYzg1",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDRmOWVmNDA3NmUwN2E1MzNmODgxZDVjNTEyYTBjOTBk",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Na Terra Parte 2/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
+        "name": "Luz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
         }
       ],
-      "duration_ms": 288000,
-      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
+      "duration_ms": 220128,
+      "name": "Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -499,18 +495,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Luz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
+        "name": "Na Terra Parte 2/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
       "artists": [
         {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
         }
       ],
-      "duration_ms": 220128,
-      "name": "Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
+      "duration_ms": 288000,
+      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Meu Valor",
         "url": "https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-03-24 03:00:00",

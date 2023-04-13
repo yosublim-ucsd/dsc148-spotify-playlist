@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-198 songs - 10 hr 6 min
+201 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 | 2022-05-20 |  |
 | [Hang with me](https://open.spotify.com/track/2czKMSrneOvVEOf2siVEiq) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Hang with me](https://open.spotify.com/album/6FlFjvvHYpeFPDnNqkkowH) | 3:02 | 2023-03-17 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U) | [Blake Wright](https://open.spotify.com/artist/3xmWhMwY31kqIzejidLlt8) | [Have You Ever Seen The Rain](https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu) | 2:25 | 2022-12-02 |  |
-| [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2023-03-17 |  |
+| [Heat Waves \- Guitar](https://open.spotify.com/track/3ViX2a4RmIXOM0z3aeaxMc) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/4xLyBp6kJNpFjYP1OaLXlK) | 4:08 | 2023-03-17 |  |
+| [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2023-03-17 | 2023-04-13 |
 | [Heaven](https://open.spotify.com/track/7yAhqUJ1LAkEdYnF8XxNN5) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Dean M Parker](https://open.spotify.com/album/2zNaQCdhfJlWgaYoedd4oP) | 1:39 | 2022-05-20 | 2022-07-02 |
 | [Hello](https://open.spotify.com/track/1d34TcAqhMCMCsS2KEZ22E) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Hello](https://open.spotify.com/album/07XgGTzEYfa2YMAOZ6tU5a) | 3:23 | 2022-09-30 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 | 2022-05-20 |  |
@@ -132,7 +133,8 @@
 | [Only Wanna Be With You](https://open.spotify.com/track/0rNgJ3RXJEQKJBCv3NPfdp) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Only Wanna Be With You](https://open.spotify.com/album/39liycElEFslWeDOpDrwt8) | 3:27 | 2022-05-20 |  |
 | [Over The Rainbow](https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Over The Rainbow](https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK) | 3:29 | 2022-12-02 |  |
 | [Paradise](https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Paradise](https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1) | 2:16 | 2022-12-02 |  |
-| [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-05-20 |  |
+| [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2022-05-20 | 2023-04-13 |
+| [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 | 2023-03-17 |  |
 | [Redbone](https://open.spotify.com/track/2j8l5R7SLINkv2BigX8aC8) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Redbone](https://open.spotify.com/album/2COTQEoQvHGD7TloluBn8L) | 2:44 | 2023-02-03 |  |
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 |  |
 | [Rewrite The Stars](https://open.spotify.com/track/6osJpF4LOPQx6Q7XkLoiKr) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Rewrite The Stars](https://open.spotify.com/album/6QcEbkz1ZSWiQ5OR4TS4lw) | 3:50 | 2023-02-10 |  |
@@ -154,7 +156,8 @@
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-10 |  |
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2022-05-20 | 2023-03-18 |
 | [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 | 2022-06-15 |  |
-| [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-05-20 |  |
+| [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-05-20 | 2023-04-13 |
+| [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-17 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-12-02 |  |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
 | [Stuck with you](https://open.spotify.com/track/3DxwjhRknMbHmPcS46zKrC) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [2](https://open.spotify.com/album/3coti4dPLbCMnZJJE2SrvV) | 3:46 | 2022-05-20 |  |

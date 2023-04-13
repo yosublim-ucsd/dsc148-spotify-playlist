@@ -13806,10 +13806,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 185404,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/2vs0RhsIWB4XzveB4nlrSw"
+    },
+    {
+      "album": {
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
+      },
+      "artists": [
+        {
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185404,
+      "name": "Reconcile",
+      "url": "https://open.spotify.com/track/7KBdFKkTlDbEvy0db2JUWS"
     },
     {
       "album": {

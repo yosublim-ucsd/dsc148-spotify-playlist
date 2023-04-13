@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-727 songs - 1 day 15 hr 28 min
+729 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [7 Phase](https://open.spotify.com/track/70lW1RWUMfDm5yCveoBx7l) | [Hapee Boparai](https://open.spotify.com/artist/2nDlRwnqU2G7R66rFpafGT) | [Seven](https://open.spotify.com/album/11aqRgdZhGIZ9VYJ2Cq4jZ) | 2:17 | 2022-07-15 | 2022-08-18 |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-02 | 2022-02-05 |
 | [9\-9 Mashukan](https://open.spotify.com/track/6ep8K2GpBFTAGcIyJWOjFP) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [9\-9 Mashukan](https://open.spotify.com/album/3LpIPAR0UJfn6NbQrLJdtY) | 2:57 | 2022-08-05 | 2023-02-02 |
+| [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2023-04-12 |  |
 | [Aadatan](https://open.spotify.com/track/5mtr6svWP09Ww4WCtZCuJS) | [Princi](https://open.spotify.com/artist/3jFonDLEme8NYY8kcd2WJy) | [Aadatan](https://open.spotify.com/album/1u1UywNfCrOZKHvPzxV1O2) | 3:02 | 2022-08-18 | 2022-09-01 |
 | [Aadi Ve](https://open.spotify.com/track/0aQCAqdET216JkGFOwZ0NL) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Walking Alone](https://open.spotify.com/album/1n6rmODHCXkbTcHyg6HOXI) | 2:38 | 2022-02-04 | 2022-02-12 |
 | [Aakad](https://open.spotify.com/track/0DziIKzDddNVB14PevbpX0) | [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Harshit Tomar](https://open.spotify.com/artist/7kp8fEjy8zTWqhYuhJeEav), [Vishaka Raghav](https://open.spotify.com/artist/5fRXkp2HikAh7gLrfoUio9), [Iza Sethia & Shivani Taneja](https://open.spotify.com/artist/4pH5ROhadz4dvdLmuhTLLS) | [Aakad](https://open.spotify.com/album/6Tbf4XYkDcdqErrvvnLQg7) | 3:17 | 2022-08-19 | 2022-09-01 |
@@ -108,6 +109,7 @@
 | [Cheen Meen](https://open.spotify.com/track/4KoJEd1038csBExw6n39UH) | [Mani Singh](https://open.spotify.com/artist/1qAmt00nD6coJWljU0je1n), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS) | [Cheen Meen](https://open.spotify.com/album/6ALlXv8l0vHVkHKkmWJNwO) | 2:37 | 2022-02-04 | 2022-03-11 |
 | [Cheer](https://open.spotify.com/track/5fYImUzPeRhtgcNVjumIVS) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Cheer](https://open.spotify.com/album/2j81LvsRNm1tFi2t24EOgC) | 2:45 | 2022-07-21 | 2022-08-18 |
 | [Chhatri](https://open.spotify.com/track/52OxwjwmruFkWaGZdpSrZp) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Tanroj Singh](https://open.spotify.com/artist/0WgBt5zi4cirA0M5Mox56A) | [Chhatri](https://open.spotify.com/album/4xHugNPfyccAaLuExgVfGP) | 3:29 | 2022-11-22 | 2023-02-02 |
+| [Chitthiyan](https://open.spotify.com/track/0jkKCoQ74XO0VFcNGs43pV) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Chitthiyan](https://open.spotify.com/album/3ejnoJrtfH5oBFWyJDoUlP) | 3:35 | 2023-04-12 |  |
 | [Chobar](https://open.spotify.com/track/4P7YZWgXIYWN5mzrAxC8UU) | [Mansher Manna](https://open.spotify.com/artist/0kXzjHtVtzMbAAnFPcnUBA) | [Chobar](https://open.spotify.com/album/1qEsfN5qg3xEmxIl5wXaPb) | 2:36 | 2022-01-21 | 2022-01-28 |
 | [Chobara](https://open.spotify.com/track/2aK4FvQCWnyac8NshliNGd) | [Mr\. Richi](https://open.spotify.com/artist/1Q4Ab6lCkxB8czhDIBjx3X) | [Chobara](https://open.spotify.com/album/6Tf7hmJaHOMyZwTEgUVR83) | 2:36 | 2022-01-31 | 2022-03-11 |
 | [Choodhe Wali](https://open.spotify.com/track/7EpBW8ix608NfhLh86wclH) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn) | [Choodhe Wali](https://open.spotify.com/album/1UxPVWhAlJFxzaiyAxqmld) | 3:21 | 2022-04-08 | 2022-04-29 |
@@ -155,7 +157,7 @@
 | [Dil Vich Kho](https://open.spotify.com/track/5aqiljS9HFXlnjK6ZfJ4gD) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 2:34 | 2022-09-23 | 2023-02-04 |
 | [Diljale](https://open.spotify.com/track/2RZh8VELzYlLlJQsedmAdy) | [Rangrez Sidhu](https://open.spotify.com/artist/3cDu4bMjtFHdCvDD93cDUN), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [The Litt Boy](https://open.spotify.com/artist/3nOgLOsTAJECooiyefNhta) | [Diljale](https://open.spotify.com/album/2DyHNBY6qhQeLaEA1eY5rG) | 3:50 | 2022-09-23 | 2022-12-16 |
 | [Din Raat](https://open.spotify.com/track/2vmYATdmQRy6jEqztI5YBW) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Ve Geetan Waleya](https://open.spotify.com/album/0wXhoRxRya32Hl9JPL3rb5) | 4:28 | 2022-03-21 | 2022-04-06 |
-| [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2021-12-02 |  |
+| [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2021-12-02 |  |
 | [Do Naina](https://open.spotify.com/track/5WjQaVXmQFxQyGGdqPLkkW) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Do Naina](https://open.spotify.com/album/0EVUyfD6cz5l3lrgpRmptO) | 3:44 | 2022-02-08 | 2022-03-11 |
 | [Don't Worry](https://open.spotify.com/track/0u84r42pZq95AQEDWo8i1i) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 2:26 | 2022-01-17 | 2022-04-06 |
 | [Dooja Pyaar](https://open.spotify.com/track/4MqRN7DQQXxxU4eZdC0zcb) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Dooja Pyaar](https://open.spotify.com/album/0afQrKmoC6O3Pm8kTWgs7E) | 3:08 | 2021-12-02 | 2022-07-06 |

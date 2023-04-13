@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Kwiaty \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,652 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,803 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 57 | [kocham wampirzyce](https://open.spotify.com/track/2MgEACcrjjIlmvPGgXZ8Ld) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Palmowski](https://open.spotify.com/artist/1qzLkJvc2HyUMvMfjcWAEp) | [kocham wampirzyce](https://open.spotify.com/album/1IKBOv5LBIWtqS8EDIyjes) | 2:38 |
 | 58 | [TY](https://open.spotify.com/track/41QJL0NRo3buGw3HZzHdeI) | [GAYA](https://open.spotify.com/artist/50GdbX0ugTIjZ15kc5lBie) | [TY](https://open.spotify.com/album/0Jf8AghhASHPJiPjd107Xy) | 3:33 |
 | 59 | [Kino Wolność](https://open.spotify.com/track/6pBFHD3GMaY4A3Ax7wiyoE) | [Ostatni Dzień Lata](https://open.spotify.com/artist/031rW8B8jh30aKYuYkwNVD) | [Kino Wolność](https://open.spotify.com/album/2V4DV8KETUx5OqIbW9f57w) | 3:59 |
-| 60 | [Oddech](https://open.spotify.com/track/2HMDRVaALcVamX5VtVweDl) | [Marysia Feduniewicz](https://open.spotify.com/artist/75nt5r5M34TVEGjx3EHEMy) | [Oddech](https://open.spotify.com/album/47Fz6BuZDptrYvakJgWLuU) | 3:06 |
+| 60 | [Oddech](https://open.spotify.com/track/2HMDRVaALcVamX5VtVweDl) | [Marysia Feduniewicz](https://open.spotify.com/artist/75nt5r5M34TVEGjx3EHEMy), [beniaminjakub](https://open.spotify.com/artist/5w0bUNzJKdtb0eRGW1weq1) | [Oddech](https://open.spotify.com/album/47Fz6BuZDptrYvakJgWLuU) | 3:06 |
 | 61 | [Dzień dobry](https://open.spotify.com/track/35QUhKKyNJmlnrVI0hnL9f) | [Kind Kids](https://open.spotify.com/artist/0tGqqW3n8GPPQW1PCvZewP) | [Dzień dobry](https://open.spotify.com/album/4OjPcN0dr7KLoA3bZPNmKY) | 2:25 |
 | 62 | [Zamienię się ciałem](https://open.spotify.com/track/5ZQAGHOk99yQpQ13OhmkCt) | [Justyna Biedrawa](https://open.spotify.com/artist/2jonFoAFilDQI0GmJJu3qE) | [Zamienię się ciałem](https://open.spotify.com/album/43LVdb6KtFcJD0b9fj1MoK) | 3:04 |
 | 63 | [braki](https://open.spotify.com/track/1omU9k4yXSWE2dS3Q6LbG2) | [dot.](https://open.spotify.com/artist/6sl6gxm8ylwM7AOa6vcxCF) | [braki](https://open.spotify.com/album/6wLIlp2wqDnGlSHCxRN4ZK) | 2:42 |

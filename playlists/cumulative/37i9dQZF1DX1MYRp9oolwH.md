@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-114 songs - 7 hr 28 min
+115 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Ninnu Choosi Choodanga](https://open.spotify.com/track/5ab5N1AiyDJBxZ1237eBqS) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Katha Venuka Katha](https://open.spotify.com/album/2jFleBZRXrLDcBHKACAucc) | 3:30 | 2023-03-10 |  |
 | [Ninnu Chusaka](https://open.spotify.com/track/6YXxe13PhXwODIjbIfIYQX) | [Junaid Kumar](https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN) | [Sridevi Shoban Babu](https://open.spotify.com/album/0MJhgnMFGR6DlPVWdm48yJ) | 4:18 | 2023-02-15 | 2023-03-28 |
 | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/track/6ijwldopdkwAHwVg2dB5z0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Srikar Velamuri](https://open.spotify.com/artist/3QuHNeC4BclLeAelyZO4MO) | [Nuv Leni Lokamlo \(From "Dil Se"\)](https://open.spotify.com/album/6uHpm30bYnsn9YL4JzVQrR) | 3:16 | 2022-06-30 | 2023-03-28 |
+| [Nuvvunte Chaalu \- From "Rudhurudu"](https://open.spotify.com/track/1JWFAxXYPU4hwK3B0Kk2Of) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Nuvvunte Chaalu \(From "Rudhurudu"\)](https://open.spotify.com/album/0T4mEjDL3HVG3vEwOEuXIf) | 4:12 | 2023-04-12 |  |
 | [O Cheli Anarkhali \(From "Nachindi Girl Friendu"\)](https://open.spotify.com/track/0IcuXHf69ZuBAiarYrnY4V) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [O Cheli Anarkhali \(From "Nachindi Girl Friendu"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2TTmIcGu9BzL3JSRX2DDdQ) | 5:00 | 2023-02-09 | 2023-03-28 |
 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 | 2022-12-20 |  |
 | [O Tene Palukula \(From "Bimbisara"\)](https://open.spotify.com/track/1moaPNMvcmSEu9XmlXo3Vh) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV), [Varikuppala Yadagiri](https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN) | [O Tene Palukula \(From "Bimbisara"\) \- Single](https://open.spotify.com/album/2pDPWuV0UN03bx0zQK45Df) | 3:55 | 2022-07-22 |  |

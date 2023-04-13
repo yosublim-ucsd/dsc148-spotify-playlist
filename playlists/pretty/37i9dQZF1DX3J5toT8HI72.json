@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 766027,
+  "num_followers": 766102,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDAzZjU2MGEzZDI1ZjMzZDdjMTdiOTE4N2M0NWVlMWUw",
+  "snapshot_id": "MTYzMDYzODAwMCwwMDAwMDAwMDljNGUyYmYwNTI4MjYwMGIzYzFiNDgyZDI4ZjYxMWQ4",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Frejat Ao Vivo No Rock In Rio",
-        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Por Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Casas",
         "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 337308,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Frejat Ao Vivo No Rock In Rio",
+        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Por Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Vem C\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4n3V55qm74LHzn5JTH6pLN"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 202265,
-      "name": "Vem C\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0EsFrHIUYEJmMDHPbMOb96"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Outono",
         "url": "https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 219257,
       "name": "Anjo Protetor",
       "url": "https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Vem C\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4n3V55qm74LHzn5JTH6pLN"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 202265,
+      "name": "Vem C\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0EsFrHIUYEJmMDHPbMOb96"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Ouro",
         "url": "https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 178622,
       "name": "Ouro",
       "url": "https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
     }
   ],
   "unique_name": "Amor I Love You",

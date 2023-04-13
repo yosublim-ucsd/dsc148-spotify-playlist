@@ -6301,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "Valency",
+        "url": "https://open.spotify.com/album/2VedgR6tAb4rLrHSPLESo8"
+      },
+      "artists": [
+        {
+          "name": "Jamyang",
+          "url": "https://open.spotify.com/artist/5SqfYCWuVR4Cc2FGFYY2Tw"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180303,
+      "name": "Left Alone",
+      "url": "https://open.spotify.com/track/5TJgSkVzp8gsj9TlPFYmeK"
+    },
+    {
+      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },

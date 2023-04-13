@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Cam Kahin
 
-209 songs - 11 hr 40 min
+210 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Moon Rock Shawty](https://open.spotify.com/track/5QIhnElSIr6PY6bslsFDjf) | [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Moon Rock Shawty](https://open.spotify.com/album/5jupYgTQVBZFFx2UVUUs0Q) | 2:40 | 2023-02-10 | 2023-03-11 |
 | [Never Not Sad](https://open.spotify.com/track/6NTxjKVv7Nzzcf1xYnayGa) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Never Not Sad](https://open.spotify.com/album/0PJDIXuUnJGJCxucyyxoA3) | 2:24 | 2023-03-03 |  |
 | [NEW GOD](https://open.spotify.com/track/3KIfk2PJbeoGV9qeDw6MJw) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [NEW GOD](https://open.spotify.com/album/5DNCUHtbfMIGXZjzhVh8tE) | 2:23 | 2023-02-10 | 2023-02-18 |
-| [No Repair](https://open.spotify.com/track/1WguNk3guCh3aO15NZorB1) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 4:27 | 2023-03-10 |  |
+| [No Repair](https://open.spotify.com/track/1WguNk3guCh3aO15NZorB1) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 4:27 | 2023-03-10 | 2023-04-13 |
+| [No Repair](https://open.spotify.com/track/2AGfCGLMpJy0FLiHANdevp) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Perfect Blue](https://open.spotify.com/album/4OtIJRa2ecK1tkWAETDjiJ) | 4:27 | 2023-04-07 |  |
 | [Noise in the Forest](https://open.spotify.com/track/5jYpmSMc0KWcj8I2StBaNf) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Noise in the Forest](https://open.spotify.com/album/5RmlPHpfwvI64T3tXk5crf) | 3:28 | 2023-02-10 | 2023-02-25 |
 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 | 2023-03-31 |  |
 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 | 2023-02-10 | 2023-02-25 |

@@ -4,7 +4,7 @@
 
 > 150%
 
-196 songs - 8 hr 34 min
+197 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 |  |
 | [Jerk \- Sped Up Version](https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Jerk \(Sped Up Version\)](https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8) | 1:53 | 2022-12-16 |  |
 | [Judas \(Lady Gaga\) \- Sped Up Version](https://open.spotify.com/track/0SfGYfOD0ipz1zg0ZCyqae) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \(Lady Gaga\) \- Sped Up Version](https://open.spotify.com/album/2MH1Q3GTGl9mLUT6oCY0ve) | 3:26 | 2023-01-27 | 2023-02-12 |
-| [Judas \- Sped Up](https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG) | [Judas \(Sped Up\)](https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt) | 3:26 | 2023-01-27 |  |
+| [Judas \- Remix](https://open.spotify.com/track/67GSlGtRJfH20l3hY3snUq) | [unhappier](https://open.spotify.com/artist/6o5lVMrUbrSMhvqSxl8mPV), [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Judas \(Remix\)](https://open.spotify.com/album/0OWgbzA8mHalgTp1LEk1EO) | 3:26 | 2023-04-11 |  |
+| [Judas \- Sped Up](https://open.spotify.com/track/0DMSs7vejX4FrV2EipYjT2) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG) | [Judas \(Sped Up\)](https://open.spotify.com/album/0HNsFQI3zpL1F1UV8ZssTt) | 3:26 | 2023-01-27 | 2023-04-13 |
 | [Judas \- Sped Up](https://open.spotify.com/track/5qn1Dz4GFUdRNgKtO40LmY) | [ethereal](https://open.spotify.com/artist/44K92k9CFKrAefHRMs0chG), [Lofis](https://open.spotify.com/artist/7iFODSQxtV2tDxZBYtyFgt) | [Judas](https://open.spotify.com/album/5sPMLLr9CwQZPEd67PbJUr) | 3:26 | 2023-01-27 | 2023-02-24 |
 | [Judas \- Sped Up](https://open.spotify.com/track/4XPtTtlrsrIzFiMlOrX3TK) | [sped up nightcore](https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55) | [Judas \- Sped Up](https://open.spotify.com/album/2UMCWd8fmH5HcBnguXciGp) | 3:26 | 2023-01-27 | 2023-03-21 |
 | [just wanna rock \(Lil Uzi Vert\) \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-10-13 |  |

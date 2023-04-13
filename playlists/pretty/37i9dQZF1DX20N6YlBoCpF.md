@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA?si=N8rjdX3CSrCVmcIEEfb9Mw">Deon Groot</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,271 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,290 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 12 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 | 13 | [Kinders van die Wind](https://open.spotify.com/track/2rvhSILvJDVBl46xXB0Omc) | [Inspirasie Veelvoud](https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo) | [Kinders van die Wind](https://open.spotify.com/album/4t3gOlgYGN14rWokHQeA44) | 3:11 |
 | 14 | [Partytjie Slaap Herhaal](https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Partytjie Slaap Herhaal](https://open.spotify.com/album/0HSsTlnjrsWTpemTJWWwhZ) | 3:20 |
-| 15 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
+| 15 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
 | 16 | [Boeremeisie](https://open.spotify.com/track/2jfNsXSHjMm0XQlE5RR6p1) | [Zander van Wyk](https://open.spotify.com/artist/1IvM3qTeipluXahp3qVbRt) | [Boeremeisie](https://open.spotify.com/album/3mGCOx0NJRHAGVCdoy2tiU) | 3:51 |
 | 17 | [Anker My](https://open.spotify.com/track/69h8coUge7LT7hjhYiRxTX) | [John Morland](https://open.spotify.com/artist/2w9ttzUhPMtSxegRmWrXdC) | [Anker My](https://open.spotify.com/album/0cPQXrIzoVaF5iMTIOk1ga) | 3:24 |
 | 18 | [Selfbeheer](https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX) | [Werner Olckers](https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG) | [Selfbeheer](https://open.spotify.com/album/6pubg9uQtO0MNZpAFMtdYG) | 3:05 |

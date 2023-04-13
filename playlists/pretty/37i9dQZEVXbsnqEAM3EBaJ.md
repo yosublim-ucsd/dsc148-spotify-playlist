@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 39 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 39 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [More the Victim](https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 2:41 |
-| 2 | [Priceless](https://open.spotify.com/track/0cB6oycfIlplPhfHWFo0h2) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/7cKcQpphR4lXUvdp4riJGS), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Priceless](https://open.spotify.com/album/1ybfkiDwvxJ7s4fxt3LO1P) | 2:18 |
+| 2 | [Just Be Mine](https://open.spotify.com/track/6OSxh7V6vCh9pOCJj5ztxp) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Just Be Mine](https://open.spotify.com/album/1EomlwRboXk162AA1B1uVN) | 3:12 |
 | 3 | [Fits Like a Glove \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/3CHYQ3WhPwhEoTrjNta8o1) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 4:53 |
 | 4 | [Hammer on Hammer](https://open.spotify.com/track/6UY9h6P1s22CO0iGhwxfZU) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Hammer on Hammer](https://open.spotify.com/album/4Ml3Ryzd78FHBNw96a1R83) | 3:09 |
 | 5 | [Aire](https://open.spotify.com/track/3wyVAvVgaKnzv5JIQSoXho) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Aire](https://open.spotify.com/album/5hcFT7y5y6nkRhOuiSS4OL) | 3:43 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 38 | [The Path to Suffering](https://open.spotify.com/track/0EwWKshGNLnR9PSsLPyCKs) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 4:07 |
 | 39 | [Willow](https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 3:51 |
 
-Snapshot ID: `MjgwMTQwMDAsMDAwMDAwMDA5Mjk3OTUxZGQ1YjMxMzAyZjhiOWUxYjZlOTRhMjMxMQ==`
+Snapshot ID: `MjgwMTQwMDAsMDAwMDAwMDAwNWQ1MzM0OTU1ZGI0YjNmOTU1NGUzNzBiNmEyODRhYw==`

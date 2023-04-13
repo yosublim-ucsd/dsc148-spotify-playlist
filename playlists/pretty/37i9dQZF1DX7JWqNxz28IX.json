@@ -1,12 +1,12 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38034,
+  "num_followers": 38053,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY4MzUyNSwwMDAwMDAwMGY5NTdkY2M3NTEyYTVlNzRkMjg4MzgyNzVkMzhhZjE4",
+  "snapshot_id": "MTY4MDY4MzUyNSwwMDAwMDAwMDhhOGEyZjQzZDlkYWNjYTE4MmI3YmNmMGJiZjNiNzg5",
   "tracks": [
     {
       "added_at": "2023-04-05 08:32:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "Testa e cuore",
-        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
-      },
-      "artists": [
-        {
-          "name": "Incubo",
-          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
-        }
-      ],
-      "duration_ms": 184087,
-      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
-      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
         "name": "Spazjo",
         "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 158307,
       "name": "un*cielo*di*stelle",
       "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
+        "name": "Testa e cuore",
+        "url": "https://open.spotify.com/album/3HAwt0yWOAlONEkWEwranZ"
+      },
+      "artists": [
+        {
+          "name": "Incubo",
+          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
+        }
+      ],
+      "duration_ms": 184087,
+      "name": "Sei stata la canzone pi\u00f9 bella del mondo",
+      "url": "https://open.spotify.com/track/68bygfznYrXh6QbTuKsoyj"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -811,22 +811,18 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "nostalgia liquida",
-        "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
       },
       "artists": [
         {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
-        },
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
         }
       ],
-      "duration_ms": 151858,
-      "name": "pensieri brutti",
-      "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
+      "duration_ms": 116933,
+      "name": "(SEMBRA BELLO)",
+      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -847,18 +843,22 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+        "name": "nostalgia liquida",
+        "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
       "artists": [
         {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
         }
       ],
-      "duration_ms": 116933,
-      "name": "(SEMBRA BELLO)",
-      "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+      "duration_ms": 151858,
+      "name": "pensieri brutti",
+      "url": "https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
         "name": "X4",
         "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
         "name": "poster",
         "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
       },
@@ -1275,6 +1275,26 @@
       "duration_ms": 169795,
       "name": "poster",
       "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
+        "name": "Shama \u00e8 buono",
+        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Shama \u00e8 buono",
+      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "Shama \u00e8 buono",
-        "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Shama \u00e8 buono",
-      "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
         "name": "Sotto lo zero",
         "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
       },
@@ -1359,6 +1359,26 @@
       "duration_ms": 127753,
       "name": "GOODBYE",
       "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
+        "name": "LOVE?",
+        "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
+      },
+      "artists": [
+        {
+          "name": "Cloud\u00ec",
+          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+        },
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Bombay Lemon",
+      "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -1399,38 +1419,22 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "LOVE?",
-        "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
-      },
-      "artists": [
-        {
-          "name": "Cloud\u00ec",
-          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
-        },
-        {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Bombay Lemon",
-      "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
-        "name": "Pagine",
-        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
       },
       "artists": [
         {
           "name": "Kia",
           "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pagine",
-      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -1595,62 +1599,6 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "ASPETTANDO IL MIRACOLO",
-        "url": "https://open.spotify.com/album/1ENGxtMXehMFKiMtvLnD1Y"
-      },
-      "artists": [
-        {
-          "name": "Jellish",
-          "url": "https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU"
-        },
-        {
-          "name": "FREESO",
-          "url": "https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI"
-        }
-      ],
-      "duration_ms": 190664,
-      "name": "ASPETTANDO IL MIRACOLO",
-      "url": "https://open.spotify.com/track/4HRrnbzrZJEXJYYuI1HU2S"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
-        }
-      ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
-        "name": "La cura, non sei te",
-        "url": "https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz"
-      },
-      "artists": [
-        {
-          "name": "Chanoir Hdn",
-          "url": "https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O"
-        }
-      ],
-      "duration_ms": 128192,
-      "name": "La cura, non sei te",
-      "url": "https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
         "name": "Io non voglio pi\u00f9 soffrire",
         "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
       },
@@ -1671,18 +1619,54 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
-        "name": "18 agosto",
-        "url": "https://open.spotify.com/album/5fqSGKBJyhYTDp5wZhh1Sc"
+        "name": "Pagine",
+        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
       },
       "artists": [
         {
-          "name": "Loshinigami",
-          "url": "https://open.spotify.com/artist/0zhf6EEDeRFf3B1d1Ck4Tq"
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
         }
       ],
-      "duration_ms": 145882,
-      "name": "18 agosto",
-      "url": "https://open.spotify.com/track/7oqehpNeFvWuVxAdqX7ocb"
+      "duration_ms": 144000,
+      "name": "Pagine",
+      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
+        "name": "ASPETTANDO IL MIRACOLO",
+        "url": "https://open.spotify.com/album/1ENGxtMXehMFKiMtvLnD1Y"
+      },
+      "artists": [
+        {
+          "name": "Jellish",
+          "url": "https://open.spotify.com/artist/33D8InnKCbdhCPUls8B4NU"
+        },
+        {
+          "name": "FREESO",
+          "url": "https://open.spotify.com/artist/0oeY7yydJwva0gTUVN5vsI"
+        }
+      ],
+      "duration_ms": 190664,
+      "name": "ASPETTANDO IL MIRACOLO",
+      "url": "https://open.spotify.com/track/4HRrnbzrZJEXJYYuI1HU2S"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
+        "name": "La cura, non sei te",
+        "url": "https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz"
+      },
+      "artists": [
+        {
+          "name": "Chanoir Hdn",
+          "url": "https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O"
+        }
+      ],
+      "duration_ms": 128192,
+      "name": "La cura, non sei te",
+      "url": "https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2023-04-05 08:32:05",
       "album": {
+        "name": "18 agosto",
+        "url": "https://open.spotify.com/album/5fqSGKBJyhYTDp5wZhh1Sc"
+      },
+      "artists": [
+        {
+          "name": "Loshinigami",
+          "url": "https://open.spotify.com/artist/0zhf6EEDeRFf3B1d1Ck4Tq"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "18 agosto",
+      "url": "https://open.spotify.com/track/7oqehpNeFvWuVxAdqX7ocb"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
         "name": "Vita Di Plastica",
         "url": "https://open.spotify.com/album/6Egb7BNm1RZzjKpvFwHPVU"
       },
@@ -1719,22 +1719,6 @@
       "duration_ms": 180937,
       "name": "Vita Di Plastica",
       "url": "https://open.spotify.com/track/6tMepxI7gnLijhWoU65HYR"
-    },
-    {
-      "added_at": "2023-04-05 08:32:05",
-      "album": {
-        "name": "Zucchero Bianco",
-        "url": "https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36"
-      },
-      "artists": [
-        {
-          "name": "Milly>",
-          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
-        }
-      ],
-      "duration_ms": 133269,
-      "name": "Zucchero Bianco",
-      "url": "https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM"
     },
     {
       "added_at": "2023-04-05 08:32:05",
@@ -1755,6 +1739,22 @@
       "duration_ms": 167000,
       "name": "Fragili",
       "url": "https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K"
+    },
+    {
+      "added_at": "2023-04-05 08:32:05",
+      "album": {
+        "name": "Zucchero Bianco",
+        "url": "https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36"
+      },
+      "artists": [
+        {
+          "name": "Milly>",
+          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
+        }
+      ],
+      "duration_ms": 133269,
+      "name": "Zucchero Bianco",
+      "url": "https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM"
     },
     {
       "added_at": "2023-04-05 08:32:05",

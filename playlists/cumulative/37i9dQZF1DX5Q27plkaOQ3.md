@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: 12th Planet
 
-333 songs - 19 hr 1 min
+334 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-12-17 | 2022-10-08 |
 | [MAKE A MOVE](https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Make A Move](https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa) | 3:46 | 2021-12-17 | 2022-05-07 |
 | [Masquerade](https://open.spotify.com/track/6647nIIdCk4bIhgAowggN3) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Masquerade](https://open.spotify.com/album/0WRIGptzXtdFiqKtjK93jU) | 4:19 | 2022-11-11 |  |
+| [Mass Destruction](https://open.spotify.com/track/1RAFDlJk4pf9VfNbuLjxMA) | [AlienPark](https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R), [Usaybflow](https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i) | [Mass Destruction](https://open.spotify.com/album/2FNnWBk29lwRlR5XikUoE8) | 3:31 | 2023-03-31 |  |
 | [Meant To Be Lonely](https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Meant To Be Lonely](https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f) | 3:34 | 2023-03-17 |  |
 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 | 2022-11-11 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-09-02 |  |
@@ -282,7 +283,7 @@
 | [Something Real](https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Prismata \(Dark\)](https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht) | 3:05 | 2022-06-24 |  |
 | [Song Of The Year](https://open.spotify.com/track/0lwjrh66nXwlyfsHtoA0Xe) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Song Of The Year](https://open.spotify.com/album/7LDZEuBiE6mViMQm7m4e02) | 2:13 | 2023-02-24 |  |
 | [Space](https://open.spotify.com/track/105lPQTSIrlhH5h6ftGpJ5) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Space EP](https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3) | 3:50 | 2021-12-17 | 2022-07-28 |
-| [Spaceship](https://open.spotify.com/track/1GZaUXs4yZ45S5qiAObPTn) | [INNOCENT](https://open.spotify.com/artist/4nLQkTmrwDF2urrLlgLj1y) | [Spaceship](https://open.spotify.com/album/3YV50C8unIF38vKAyMDeSI) | 2:20 | 2023-03-31 |  |
+| [Spaceship](https://open.spotify.com/track/1GZaUXs4yZ45S5qiAObPTn) | [INNOCENT](https://open.spotify.com/artist/4nLQkTmrwDF2urrLlgLj1y) | [Spaceship](https://open.spotify.com/album/3YV50C8unIF38vKAyMDeSI) | 2:20 | 2023-03-31 | 2023-04-13 |
 | [Spacetime \- Virtual Riot Remix](https://open.spotify.com/track/5VJuzCF7u2Q7G9hYvtd6f6) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 3:30 | 2022-12-16 |  |
 | [Special Guest](https://open.spotify.com/track/1xJkYmde9IQYvLfq0lVsSe) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Special Guest EP](https://open.spotify.com/album/6RkoUsaXtqM7bKZdeguBYm) | 3:31 | 2022-07-22 | 2022-12-31 |
 | [Special Guest](https://open.spotify.com/track/36ULZ4UnKmYje4E74xNd9p) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Special Guest EP](https://open.spotify.com/album/7KLEYOgwcEUHInKhAuKbO2) | 3:31 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > PLAYLIST<br/>Curated by <a href="https://myepiccarnival.com/">EPIC Carnival Experience</a>\- your premium experience to the Greatest Show On Earth\. Featuring the best Soca songs released for Trinidad Carnival 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,727 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,793 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 64 | [Teknique \(Bum Bum Bum\)](https://open.spotify.com/track/52ZbP7Mrj4NRupY5MyGUyR) | [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out) | [Teknique](https://open.spotify.com/album/6pZfEtXLvnilAuW2OxWxB5) | 2:47 |
 | 65 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 66 | [Action Start](https://open.spotify.com/track/5Wj5QqzrfXqgrt2dpUr6NZ) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [Noize Boyz](https://open.spotify.com/artist/2VXAG9lFkTIR1L4bfVE0mM) | [Red Dead Riddim](https://open.spotify.com/album/6pIAYVZKOC6T4e968AlhP8) | 2:09 |
-| 67 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
+| 67 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/2Fh4AvK9pyZ9PLafG64Kxa), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
 | 68 | [Gyal Road](https://open.spotify.com/track/0j2zsaheoL39ZwSQb0Gy18) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Gyal Road](https://open.spotify.com/album/2b9UXxW2d8jf0WuPMPgESV) | 2:18 |
 | 69 | [Balance Batty](https://open.spotify.com/track/08idWwtNgy9reI43iQESl7) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [Bad Weather Riddim](https://open.spotify.com/album/6CHIwBQUCHPWzrPnXgBrfv) | 2:09 |
 | 70 | [Hall of Fame](https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Hall of Fame](https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB) | 3:37 |

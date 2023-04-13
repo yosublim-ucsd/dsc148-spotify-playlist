@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-276 songs - 14 hr 42 min
+277 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Getaway Green](https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:47 | 2020-11-20 | 2022-11-13 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2020-11-20 |  |
 | [Ghost in My Home](https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/18EL26qP11mySASVZGWIAf) | 3:20 | 2020-11-20 | 2022-07-29 |
-| [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 | 2020-11-20 |  |
+| [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 | 2020-11-20 | 2023-04-13 |
 | [Gone](https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:05 | 2020-11-20 |  |
 | [Greatest Of All Time](https://open.spotify.com/track/6tJ8T00sdozc2ZSkPT8Qj1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Greatest Of All Time](https://open.spotify.com/album/4ULjQJSTpbibgr8cKFBr9o) | 2:57 | 2020-11-20 | 2022-07-29 |
 | [Grey Goose](https://open.spotify.com/track/50UpQeRX0Pebo76v3AK6S1) | [Carousel Kings](https://open.spotify.com/artist/2Dr2zHoPEuASW1kOODc5I2) | [Charm City](https://open.spotify.com/album/3IM9F9wRCdGQcmYgHS6jFx) | 3:27 | 2020-11-20 | 2022-07-26 |
@@ -218,6 +218,7 @@
 | [She's A God](https://open.spotify.com/track/2RSWXsgLoiGfuHHJk5ykxr) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [She's A God](https://open.spotify.com/album/4xxdLKcI0SaURrkrqt5LAu) | 3:20 | 2020-11-20 | 2022-07-29 |
 | [She's A God](https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [She's A God](https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s) | 3:20 | 2020-11-20 |  |
 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 | 2020-11-20 |  |
+| [She's Quiet](https://open.spotify.com/track/3YUJ8NyZfqeDcI5815TuXw) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Better Off](https://open.spotify.com/album/5AWAQJsqtuF3CjytMDOdDN) | 3:19 | 2020-11-20 |  |
 | [She's Quiet](https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Better Off](https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD) | 3:19 | 2020-11-20 | 2023-04-05 |
 | [Shh!](https://open.spotify.com/track/2njh4onOr3nyACxc7c8vPp) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Shh!](https://open.spotify.com/album/2MMz0g90OO2MUaNEbmhWQQ) | 2:38 | 2020-11-20 | 2022-07-26 |
 | [Shook By Your Shaved Head](https://open.spotify.com/track/4Nx4ytJjdpmkIQ6tyLll2p) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Shook By Your Shaved Head](https://open.spotify.com/album/3hsRuI836SopOrq3dW6T1g) | 2:43 | 2020-11-20 | 2022-07-29 |

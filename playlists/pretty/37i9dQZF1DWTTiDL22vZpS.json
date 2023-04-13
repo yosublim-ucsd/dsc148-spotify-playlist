@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 7491,
+  "num_followers": 7569,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0MTA4NCwwMDAwMDAwMDlkNGUwZTkzOWY1ZjM4NDViYjFkZGU2MDVlNzY1MmI5",
+  "snapshot_id": "MTY4MDY0MTA4NCwwMDAwMDAwMDEwNGE2YzVkZmI0MDlkZmJlMjMwYjc2ZTFkNzFiM2Fj",
   "tracks": [
     {
       "added_at": "2023-04-04 20:44:44",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-04-04 20:44:44",
       "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 185994,
-      "name": "Despacio",
-      "url": "https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac"
-    },
-    {
-      "added_at": "2023-04-04 20:44:44",
-      "album": {
         "name": "Arepa 3000",
         "url": "https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 239613,
       "name": "Qu\u00e9 Rico",
       "url": "https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg"
+    },
+    {
+      "added_at": "2023-04-04 20:44:44",
+      "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac"
     },
     {
       "added_at": "2023-04-04 20:44:44",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-04 20:44:44",
       "album": {
-        "name": "Bajo las Luces",
-        "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 212195,
-      "name": "Bajo las Luces",
-      "url": "https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP"
-    },
-    {
-      "added_at": "2023-04-04 20:44:44",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 260299,
       "name": "Funky Fiesta",
       "url": "https://open.spotify.com/track/2CtzQv3Kr59CoYrQZggwHR"
+    },
+    {
+      "added_at": "2023-04-04 20:44:44",
+      "album": {
+        "name": "Bajo las Luces",
+        "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 212195,
+      "name": "Bajo las Luces",
+      "url": "https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP"
     },
     {
       "added_at": "2023-04-04 20:44:44",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-04 20:44:44",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
+        "name": "Zoo Lion",
+        "url": "https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF"
       },
       "artists": [
         {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+          "name": "Moncho Berry",
+          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Mi Necedad",
-      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
+      "duration_ms": 266447,
+      "name": "Zoo Lion",
+      "url": "https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO"
     }
   ],
   "unique_name": "feels like latin funk",

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Break!",
+      "url": "https://open.spotify.com/track/333xDv6J2GJiNWtWphz0aw"
+    },
+    {
+      "album": {
         "name": "Las Distancias",
         "url": "https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 160213,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp"

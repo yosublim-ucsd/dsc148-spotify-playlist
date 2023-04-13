@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 226395,
+  "num_followers": 226403,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMGYxYTNhOWRlZTcwZjRlY2RhOWUwZDM0YzQ3OGJjNTYz",
+  "snapshot_id": "MTY3NDY2MjcwOSwwMDAwMDAwMGQ5MTM5MGY5Y2JkZjdkZGY3MDM1NjExMTI3YWU0NTkw",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "A Voz Do Samba (Disco 03)",
         "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 189080,
       "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
       "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2023-01-25 16:05:09",

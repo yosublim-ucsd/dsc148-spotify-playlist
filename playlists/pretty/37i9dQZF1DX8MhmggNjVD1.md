@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 
 > Featuring Jay Wheeler, Anuel AA, Ryan Castro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 25 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 25 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MhmggNjVD1.md) - [plain]
 | 13 | [GHOST](https://open.spotify.com/track/39T1OfxotN8MovPkGRseMh) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [ANKHALINO](https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6) | 2:48 |
 | 14 | [GATO MALO](https://open.spotify.com/track/7wy5kv4fYAsR9qFxKKZC5E) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:45 |
 | 15 | [Que Hay](https://open.spotify.com/track/2TK4Oy3iu4AdCaD8HXqBQf) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:15 |
-| 16 | [TRACCIÓN](https://open.spotify.com/track/7zwkHVkt7HR1RxBu9tUkDk) | [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [TRACCIÓN](https://open.spotify.com/album/6U1yVfyVWd4wnrRzgQrS10) | 3:04 |
+| 16 | [TRACCIÓN](https://open.spotify.com/track/7zwkHVkt7HR1RxBu9tUkDk) | [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TRACCIÓN](https://open.spotify.com/album/6U1yVfyVWd4wnrRzgQrS10) | 3:04 |
 | 17 | [Bebi Demasiado](https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Bebi Demasiado](https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ) | 2:28 |
 | 18 | [High School Monsterz \(feat\. María Escarmiento, Fran Laoren, Delgao, Cma, SUOB, alequi, BLNCO, detunedfreq & cyber666\)](https://open.spotify.com/track/7ECd20pOnFoN5OjXfMD05n) | [Los Monsterz](https://open.spotify.com/artist/70ztUKltM13MLUnKkSlD1E), [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN), [Cma](https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN), [SUOB](https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH), [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [BLNCO](https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K), [cyber666](https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6) | [High School Monsterz \(feat\. María Escarmiento, Fran Laoren, Delgao, Cma, SUOB, alequi, BLNCO, detunedfreq & cyber666\)](https://open.spotify.com/album/5hTvrI8GndSisvHH8r0DKI) | 3:25 |
 | 19 | [Light Zone](https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Light Zone](https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC) | 3:17 |

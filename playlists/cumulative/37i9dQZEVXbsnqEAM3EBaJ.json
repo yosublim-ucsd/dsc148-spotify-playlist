@@ -1849,6 +1849,36 @@
     },
     {
       "album": {
+        "name": "Just Be Mine",
+        "url": "https://open.spotify.com/album/1EomlwRboXk162AA1B1uVN"
+      },
+      "artists": [
+        {
+          "name": "Flannan",
+          "url": "https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ"
+        },
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Just Be Mine",
+      "url": "https://open.spotify.com/track/6OSxh7V6vCh9pOCJj5ztxp"
+    },
+    {
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/1yVHHlAsAmcUmbf7MQAGQU"
       },
@@ -2658,7 +2688,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-13",
       "duration_ms": 138240,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0cB6oycfIlplPhfHWFo0h2"

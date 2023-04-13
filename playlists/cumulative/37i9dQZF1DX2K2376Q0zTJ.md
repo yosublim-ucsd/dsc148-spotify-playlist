@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  新しい学校のリーダーズ \(ATARASHII GAKKO!\)
 
-774 songs - 1 day 22 hr 11 min
+775 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,8 @@
 | [Sugarless GiRL](https://open.spotify.com/track/3rsVKybQhaA7yum4VfkwHx) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [Sugarless GiRL](https://open.spotify.com/album/7MavWIVgSqJiIVoMAFOsXQ) | 4:09 | 2022-05-31 | 2022-07-06 |
 | [Sugarless GiRL](https://open.spotify.com/track/5HMVh68MBbkclULoOmY45r) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [Sugarless GiRL](https://open.spotify.com/album/3rPi1ImIQuVUyt5KYaVNLE) | 4:09 | 2022-09-06 | 2022-10-05 |
 | [Sugarless Kiss](https://open.spotify.com/track/3UVrd41wMv9ERbwE3IC87l) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Sugarless Kiss](https://open.spotify.com/album/5awyrxElo4j1ph2UH7nvfl) | 3:34 | 2022-09-06 | 2022-10-05 |
-| [Suki Lie](https://open.spotify.com/track/19Tzt6c75W1wUrXgv2WR2W) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [一時帰国](https://open.spotify.com/album/7u4bwVJmR4P4Z1vXKB3ruZ) | 3:15 | 2023-04-11 |  |
+| [Suki Lie](https://open.spotify.com/track/19Tzt6c75W1wUrXgv2WR2W) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [一時帰国](https://open.spotify.com/album/7u4bwVJmR4P4Z1vXKB3ruZ) | 3:15 | 2023-04-11 | 2023-04-13 |
+| [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-04-11 |  |
 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 | 2022-08-02 | 2022-09-07 |
 | [Summer Trip](https://open.spotify.com/track/0WRltZItJzyw1oXBR2iH0z) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [PLAYBACK SUMMER ver.1.3](https://open.spotify.com/album/0WKDX7uZoAcd6K1Q7mAmpx) | 3:44 | 2022-08-02 | 2022-09-07 |
 | [Summertime Blue](https://open.spotify.com/track/2QJ0kxy1AGD4LdRwLrv308) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Summertime Blue](https://open.spotify.com/album/34RWQZVuuUrk4Z6Ysior3a) | 3:25 | 2022-08-02 | 2023-01-04 |

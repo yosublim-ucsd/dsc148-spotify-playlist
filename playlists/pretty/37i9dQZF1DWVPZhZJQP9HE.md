@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,664 likes - 69 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,693 likes - 69 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 14 | [Kettu Paaru](https://open.spotify.com/track/2CwcuF6fNhmTZFFh9dmugx) | [Jay Nesh Isuran](https://open.spotify.com/artist/3q3CPxTgWd1Kb9F4Kdlvb3), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2) | [Kettu Paaru](https://open.spotify.com/album/0LJuolh9yhdltn1kuccEjy) | 2:57 |
 | 15 | [Azhagaana Vaaname](https://open.spotify.com/track/2X9AwXEdhVITzPQyNIqsxP) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW) | [Azhagaana Vaaname](https://open.spotify.com/album/4fdhheqedEO8H4Axwfw2dF) | 2:55 |
 | 16 | [Nee Cadbury](https://open.spotify.com/track/5074vxvOMww4f0LqM8cRLn) | [Barath Dhanasekar](https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD), [Aishwerya Radhakrishnan](https://open.spotify.com/artist/4vbMPVLk4phK2SiYRsqLCD) | [Kadhal Distancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22IzQzgVuim5il8fUYxpLA) | 4:35 |
-| 17 | [Aladhi Kadhale](https://open.spotify.com/track/4zNgT5XTDiU0gme9wJSstg) | [M.S\. Jones Rupert](https://open.spotify.com/artist/6QmUOk90Rs4SI07CNk7STk) | [Aladhi Kadhale](https://open.spotify.com/album/7hygqx2WfOVpxqtGBEkbO2) | 3:12 |
+| 17 | [Aladhi Kadhale](https://open.spotify.com/track/4zNgT5XTDiU0gme9wJSstg) | [M.S.Jones Rupert](https://open.spotify.com/artist/3kzeW36gRksyI7yXgEECID) | [Aladhi Kadhale](https://open.spotify.com/album/7hygqx2WfOVpxqtGBEkbO2) | 3:12 |
 | 18 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 |
 | 19 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 |
 | 20 | [Paayum Oli Nee Yenaku](https://open.spotify.com/track/6fpzmhrXPkTU1rMIxkBgtB) | [Ratchakan Sridhar](https://open.spotify.com/artist/3Udd19ENueI0Bpe9QAvX4t) | [Paayum Oli Nee Yenaku](https://open.spotify.com/album/2mDrIqUGnjhrXhf4YSMoTo) | 4:12 |

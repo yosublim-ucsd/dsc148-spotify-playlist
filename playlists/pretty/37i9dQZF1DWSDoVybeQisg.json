@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1075405,
+  "num_followers": 1075760,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDEwNzViNjMwYTI3YzE2ZmE1YzYyOTAxMWU3Y2RlNmVj",
+  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMGQ2YjdhYmQ3ZDk0YzIzMGJjYjIyYmQ4OTkyOTI3Y2M5",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "The Pusher",
-      "url": "https://open.spotify.com/track/29HbMTL672MugzhklYvStz"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222293,
       "name": "Manic Depression",
       "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "The Pusher",
+      "url": "https://open.spotify.com/track/29HbMTL672MugzhklYvStz"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -951,8 +951,8 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+        "name": "Incense & Peppermints",
+        "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
         }
       ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
+      "duration_ms": 169800,
+      "name": "Incense And Peppermints",
+      "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -979,6 +979,22 @@
       "duration_ms": 158360,
       "name": "Rainbow Chaser",
       "url": "https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "The Best of the Lemon Pipers",
+        "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Pipers",
+          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Green Tambourine",
+      "url": "https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The Best of the Lemon Pipers",
-        "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Pipers",
-          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Green Tambourine",
-      "url": "https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Roger the Engineer",
         "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
       },
@@ -1039,8 +1039,8 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Incense & Peppermints",
-        "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Incense And Peppermints",
-      "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2023-01-18 16:20:47",

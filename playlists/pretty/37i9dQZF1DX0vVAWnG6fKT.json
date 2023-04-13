@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 141473,
+  "num_followers": 141439,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDdkZDFkOWIyMmNmYTFiMDRkMjNjODA1MDgzMjc5ZDkx",
+  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDQ4ZWViYmY0YjdiZTU3ZDZlMTE3NDgxZTUzNDFhMGY2",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Guitar Legend: The RCA Years",
-        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
-      },
-      "artists": [
-        {
-          "name": "Chet Atkins & His Colorado Mountain Boys",
-          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Canned Heat - Buddha Remastered - 2000",
-      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 140866,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Guitar Legend: The RCA Years",
+        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins & His Colorado Mountain Boys",
+          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Canned Heat - Buddha Remastered - 2000",
+      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Bob Wills And His Texas Playboys",
         "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 156373,
       "name": "New San Antonio Rose",
       "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Cotton Eyed Joe - Single Version",
+      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 174053,
       "name": "My Poncho Pony",
       "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Cotton Eyed Joe - Single Version",
-      "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Louisiana",
-        "url": "https://open.spotify.com/album/46ui9aK1fJ94NsF9yurEAv"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Jimmie Davis",
-          "url": "https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 135973,
-      "name": "There's A New Moon Over My Shoulder",
-      "url": "https://open.spotify.com/track/37wv3n0GnamPkVaO0H5OLz"
+      "duration_ms": 173693,
+      "name": "Cherokee Maiden",
+      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
     }
   ],
   "unique_name": "40s Country",

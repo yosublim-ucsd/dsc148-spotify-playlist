@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 
 > Ambient waves for ethereal days
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,729 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,779 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2zbyJVaPNZ.md) - [plain]
 | 40 | [Geometric \- Version 2](https://open.spotify.com/track/5SnPJfIBhEMN8V8a5hyBJi) | [Atmoda](https://open.spotify.com/artist/09MhmAWoBHWYVo2RyKlcYw) | [Geometric](https://open.spotify.com/album/6L1cljzvurPjMM11yhel01) | 2:57 |
 | 41 | [Permafrost](https://open.spotify.com/track/45PBjkgUpbwfK4ffF3yOOE) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Dead Air](https://open.spotify.com/album/24Aqg4RHtwrkml6eQwG7u7) | 4:07 |
 | 42 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 |
-| 43 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Sleep Spa Meditation](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 |
+| 43 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Spatial Sequence](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 |
 | 44 | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/track/60OkaddPGoz4Wx3NkTgpnn) | [Abeo Abara](https://open.spotify.com/artist/0BIybKZiOMOMdUmCKZsY0O) | [Gentle Whales of the Deep \(80\-88 Hz\)](https://open.spotify.com/album/0Li6vZK0i0e1wkTK8Xo24R) | 2:32 |
 | 45 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 |
 | 46 | [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,088 likes - 236 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,147 likes - 236 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 16 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 |
 | 17 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 |
 | 18 | [Bellagio](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Bellagio](https://open.spotify.com/album/0gpz1wC0WPY7328nh0N74m) | 2:54 |
-| 19 | [electric sea](https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [electric sea](https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA) | 2:33 |
-| 20 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 |
+| 19 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 |
+| 20 | [electric sea](https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [electric sea](https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA) | 2:33 |
 | 21 | [wicked play](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [wicked play](https://open.spotify.com/album/31L7sJ9kqF3tFueTDTIJ0n) | 3:32 |
 | 22 | [10pm](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [10pm](https://open.spotify.com/album/7MJsQ6xb1pxzQxwyjM3FbU) | 2:48 |
 | 23 | [El Nido](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [El Nido](https://open.spotify.com/album/4F84GW4s5CDhSGUz0xKBOG) | 2:52 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 235 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 236 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MTY4MDc4NzIyMywwMDAwMDAwMDY0ZmNlMzgyMWY2Nzg3MTIyMWNlMTZlMmI0ZGNhMTA3`
+Snapshot ID: `MTY4MTMxMzg0OCwwMDAwMDAwMGYwY2Y3Mzg0NTgyZGU1Yjg4YzlkNzcxNTI0MGExYjM4`

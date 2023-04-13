@@ -2,9 +2,9 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood\. Cover: BONES
+> Emo feels for the misunderstood\. Cover: Lil Peep
 
-792 songs - 1 day 11 hr 56 min
+793 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Fresh Green at the Gallery](https://open.spotify.com/track/24sjsXy0RaFHP6znElPOM7) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Fresh Green at the Gallery](https://open.spotify.com/album/2fIUralisTxfs6AQiKLHEQ) | 2:46 | 2022-01-28 | 2022-04-20 |
 | [FRIENDS](https://open.spotify.com/track/6NEevR7qHIRfi9fahttXCk) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [FRIENDS](https://open.spotify.com/album/4Z4kojXG0w8rO8eAZHbNda) | 2:12 | 2021-07-31 | 2022-07-28 |
 | [FROZEN](https://open.spotify.com/track/3eK50vcGhvRBONzD4qsiSw) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [FROZEN](https://open.spotify.com/album/3skrO7iJtuMrtKMcMwXjrx) | 2:48 | 2022-02-11 | 2022-07-29 |
-| [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 | 2022-10-28 |  |
+| [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 | 2022-10-28 | 2023-04-13 |
 | [Fuck Love](https://open.spotify.com/track/4yW6cszR2DQEYX3tA1wKbD) | [Kill Jasper](https://open.spotify.com/artist/3Hxle1ifo8pdsakQ06MMUH) | [Fuck Love](https://open.spotify.com/album/4HkTdroX0x4lNDpQwTLObH) | 1:45 | 2022-02-11 | 2022-07-29 |
 | [Fuck Love \(feat\. Trippie Redd\)](https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:26 | 2020-12-13\* | 2023-01-28 |
 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2021-02-27 | 2022-07-09 |
@@ -335,7 +335,7 @@
 | [I fucked up](https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa) | [convolk](https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ) | [LONEWOLF](https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz) | 2:39 | 2022-07-22 |  |
 | [i got yr message](https://open.spotify.com/track/1ATiZWaQ3xKkXhnBUL75rV) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [monarch](https://open.spotify.com/album/7fCsdBzmfuLSerVGJpMp9Y) | 2:26 | 2022-02-11 | 2022-07-29 |
 | [I Hate Love](https://open.spotify.com/track/2Hb0xOroIPtuunNoCwKtmt) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk), [27CLUB](https://open.spotify.com/artist/75FDYkuEWuVAYlrghPNi4z) | [I Hate Love](https://open.spotify.com/album/0CWVgXuB3ugauQmVmJ4jzd) | 3:58 | 2021-01-15 | 2021-03-26 |
-| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 |  |
+| [I JUST FKN HATE YOU NOW](https://open.spotify.com/track/07od6wz8rrAeXVYQoXZU2W) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [I JUST FKN HATE YOU NOW](https://open.spotify.com/album/0wPrCcLVViMFDvRCmCJyfu) | 1:52 | 2022-05-20 | 2023-04-13 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-05-29 | 2022-04-13 |
 | [I Know You Well](https://open.spotify.com/track/7ytLyMShHFZlvzLbDhdUVt) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [I Know You Well](https://open.spotify.com/album/17oX3YBKy2BE3OHjM4PEMH) | 2:25 | 2023-04-07 |  |
 | [I lied when I said that I'm okay](https://open.spotify.com/track/6vyuUfnwPZK2z7KKgRzcxM) | [Paris Snow](https://open.spotify.com/artist/2QKsUEpStygXfQeQDwkw8E) | [I lied when I said that I'm okay](https://open.spotify.com/album/4bx4OqlgZvrrsgg9K5hyka) | 2:16 | 2021-09-22 | 2022-04-18 |
@@ -528,7 +528,7 @@
 | [patience.](https://open.spotify.com/track/6PkmgGS8wwfLgwqIzwv8zt) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [patience.](https://open.spotify.com/album/3p8TvJfEMWmd1rM0P1o57z) | 2:28 | 2022-05-13 | 2022-05-19 |
 | [PAVEMENT](https://open.spotify.com/track/3s5NHQg2jTcOTVM1myA8V3) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [CHASING BUTTERFLIES](https://open.spotify.com/album/3uQxnxiEOlKgkTnxZ2IXuD) | 3:36 | 2021-09-17 | 2022-04-05 |
 | [Penance](https://open.spotify.com/track/4jJsIHgePHhMHSa6J6P9ZB) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Penance](https://open.spotify.com/album/3NWoWLDEQQaBNlAiYU1IEr) | 3:18 | 2023-03-24 | 2023-04-09 |
-| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 | 2023-03-12 |
+| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 |  |
 | [Petrified](https://open.spotify.com/track/2M85nUhefR3JP7k5EXhlqE) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Petrified](https://open.spotify.com/album/1ORMjwQE0Gz64gU3iIwxel) | 3:06 | 2020-12-13\* | 2021-06-19 |
 | [Phone Down](https://open.spotify.com/track/6zzoT6kZHM4SpPCjLdfLVg) | [Boy Pape](https://open.spotify.com/artist/5HHhIPYoYyTyp1mvCngnkZ) | [Phone Down](https://open.spotify.com/album/6MOkdkDvzJ7CmXMdDLq4tc) | 2:12 | 2020-12-18 | 2021-01-05 |
 | [picture us](https://open.spotify.com/track/6anqdTarC0O3k4MZfaSOnz) | [Gun Boi Kaz](https://open.spotify.com/artist/7MwXfL45fq9pA1RwQHxhxy), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [picture us](https://open.spotify.com/album/0ZgKrG7VgRfHY5FvfWOEJO) | 2:44 | 2021-09-17 | 2022-04-18 |
@@ -763,6 +763,7 @@
 | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/track/5qwfWcdl8h0EhhSVTTH8gN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [when the hospital was my home \(feat\. Rxseboy\)](https://open.spotify.com/album/2U0vmDrXqf3yzxJUniy7uZ) | 2:33 | 2020-12-13\* | 2021-05-29 |
 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 | 2022-05-23 |  |
 | [Where Am I?](https://open.spotify.com/track/02eaXkFgymQiEOXUSbPXKO) | [Ohsolow](https://open.spotify.com/artist/6PBi2MZwwSxgnb9oY5ZrVn), [sayk\_](https://open.spotify.com/artist/0tEV99Mi95s1JxCUezOgeo) | [Where Am I?](https://open.spotify.com/album/66VkDNLzrLayhSA5U61gGb) | 1:47 | 2020-12-13\* | 2021-02-25 |
+| [whilesupplieslast](https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [thishouseisnotahome](https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2) | 1:20 | 2023-04-13 |  |
 | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/track/0a2Yk4ORO4MsGaJ4DI03qx) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Whipski \(feat\. Lil Skies & Internet Money\)](https://open.spotify.com/album/69zRKx6ZZQx652iPq1PRyp) | 3:03 | 2021-04-10 | 2022-03-02 |
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2021-10-23 | 2021-10-30 |
 | [white tee](https://open.spotify.com/track/6KjkgYu4mjsMVYy4aCzyw6) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [crybaby](https://open.spotify.com/album/6ay4qFjg5VgZFqJmiGcIIm) | 2:12 | 2022-04-08 | 2022-07-30 |

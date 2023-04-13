@@ -9361,6 +9361,32 @@
     },
     {
       "album": {
+        "name": "Nayaka Jananayaka (From \"Prabhutva\")",
+        "url": "https://open.spotify.com/album/6dyCn9uxHm7wx7yRwwQstG"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Emil Mohammed",
+          "url": "https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx"
+        },
+        {
+          "name": "Chethan Kumar P",
+          "url": "https://open.spotify.com/artist/4c8Dd0WuhxeSQInZGtaY0T"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Nayaka Jananayaka (From \"Prabhutva\")",
+      "url": "https://open.spotify.com/track/5ojvEoold5NRu7Y3iPv1le"
+    },
+    {
+      "album": {
         "name": "Nee Iralu Nannali (from \"Samarthya\")",
         "url": "https://open.spotify.com/album/2xkBK7AGf6wiZP5VckIUGl"
       },
@@ -12800,6 +12826,32 @@
       "duration_ms": 281364,
       "name": "Singara Siriye (From \"Kantara\")",
       "url": "https://open.spotify.com/track/0kfBKwOe5frtCXdi0mA8QM"
+    },
+    {
+      "album": {
+        "name": "Single Sundara (From \"Raghavendra Stores\")",
+        "url": "https://open.spotify.com/album/3k1ycyhXi58YeCo5QJ3uUV"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Single Sundara (From \"Raghavendra Stores\")",
+      "url": "https://open.spotify.com/track/171etuRcF92SOVIuHnDm4u"
     },
     {
       "album": {

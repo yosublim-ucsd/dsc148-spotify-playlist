@@ -2,7 +2,7 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> Viraal gaan is ook gaan! Cover: Manu Chao
+> Viraal gaan is ook gaan! Cover: Carlos Santana
 
 110 songs - 5 hr 30 min
 

@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-143 songs - 7 hr 50 min
+144 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Free](https://open.spotify.com/track/3M7xHMsoIeNKLkrJ2wY4i6) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Free](https://open.spotify.com/album/6wPLbn1Zht0zxBAmqmoOtv) | 3:11 | 2022-04-01 | 2022-07-29 |
 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 | 2022-04-01 | 2023-04-09 |
 | [Get up and Try](https://open.spotify.com/track/6oGuW5SBGbQBDyb0cZ1fru) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:54 | 2022-04-01 | 2023-04-09 |
+| [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 | 2023-04-13 |  |
 | [Goodbye Sun, Hello Moon](https://open.spotify.com/track/6btBus1HKjmT0JhXY0Qo3Y) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Goodbye Sun, Hello Moon](https://open.spotify.com/album/3aoYs8itExQbGs4y2vnizg) | 3:34 | 2023-01-20 | 2023-04-09 |
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-04-01 |  |
 | [Heart of Mine](https://open.spotify.com/track/6QBMx8FuorZiRIDHhQaJ3R) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 1:59 | 2022-04-01 | 2023-04-09 |
@@ -136,7 +137,7 @@
 | [Upside Down](https://open.spotify.com/track/4JWZTNlLBlNoa5t7qn1M8i) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down \(UK MaxiSingEnhanced\)](https://open.spotify.com/album/0aCRJrY78QHUIJSqxOhwFW) | 3:29 | 2022-04-01 | 2022-07-29 |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 | 2022-04-01 |  |
 | [What a Wonderful World](https://open.spotify.com/track/4JlWuaAEZss5M4nEGkSJXJ) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 3:16 | 2022-04-01 | 2023-04-09 |
-| [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 | 2022-04-01 |  |
+| [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 | 2022-04-01 | 2023-04-13 |
 | [What Will You Be](https://open.spotify.com/track/6s4JhPW2vesedW9obEBhUO) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Songs for Charlie](https://open.spotify.com/album/1uvvolXhAoaH0OjhL2byva) | 3:22 | 2022-04-01 | 2023-04-09 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/16SdawEQLWqG7Cuq8ov7EP) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [Berceuses jazz](https://open.spotify.com/album/7ir05fsbOa22VHZ92nPdML) | 5:48 | 2022-04-01 | 2022-11-13 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/2qC4zeqyQ4qUPM3WoK8OYe) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [I Believe in Little Things](https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj) | 5:48 | 2022-04-01 | 2022-07-29 |

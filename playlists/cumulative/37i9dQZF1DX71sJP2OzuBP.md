@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-683 songs - 1 day 20 hr 46 min
+684 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Miss.玫瑰](https://open.spotify.com/track/4ZMbB7AQLRKrjiWsgVJ5KF) | [钟棋煜](https://open.spotify.com/artist/07MT1Eaz9hqPIaUhAEziDp) | [Miss.玫瑰](https://open.spotify.com/album/499ZJl4lz8JcuKMgWpkSvL) | 3:08 | 2023-03-06 | 2023-03-28 |
 | [More Than Friends](https://open.spotify.com/track/1scVLZ6QXeuspo5keN8RWP) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [More Than Friends](https://open.spotify.com/album/1q3X4774wlT9J7OaI35zi6) | 3:17 | 2022-08-22 | 2022-09-06 |
 | [More Than Friends \- 《HIStory5\-遇見未來的你》LINE TV插曲](https://open.spotify.com/track/4yGZew60P96l30QrYTrqgh) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [More Than Friends \(《HIStory5\-遇見未來的你》LINE TV插曲\)](https://open.spotify.com/album/3b6BxLlIsWDYigRwLSIfui) | 3:30 | 2023-03-06 |  |
-| [Morning Kiss \(feat\. Bernard Wee Shen\)](https://open.spotify.com/track/54vpX1TtYZJqjI7I23khDB) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe), [Bernard Wee Shen](https://open.spotify.com/artist/7l4OMGKEU8DGCOCHnLKhhE) | [Morning Kiss \(feat\. Bernard Wee Shen\)](https://open.spotify.com/album/46gwODPFz0A1GsfIYNf5eu) | 3:34 | 2023-04-10 |  |
+| [Morning Kiss](https://open.spotify.com/track/7kSsIt7dEp8KtXy30QG6vJ) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe), [Bernard Wee Shen](https://open.spotify.com/artist/7l4OMGKEU8DGCOCHnLKhhE) | [Morning Kiss](https://open.spotify.com/album/1EhqcOqa3XJWANpxseAZ6A) | 3:34 | 2023-04-10 |  |
+| [Morning Kiss \(feat\. Bernard Wee Shen\)](https://open.spotify.com/track/54vpX1TtYZJqjI7I23khDB) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe), [Bernard Wee Shen](https://open.spotify.com/artist/7l4OMGKEU8DGCOCHnLKhhE) | [Morning Kiss \(feat\. Bernard Wee Shen\)](https://open.spotify.com/album/46gwODPFz0A1GsfIYNf5eu) | 3:34 | 2023-04-10 | 2023-04-13 |
 | [My Blue Angel \(茁劇場 走過愛的蠻荒 片尾曲\)](https://open.spotify.com/track/4o8TvAY9ke0kRUm9Pg7kxG) | [DJ Didilong](https://open.spotify.com/artist/4VP44ZwK51R0y7ZbjJLHJR) | [My Blue Angel \(茁劇場 走過愛的蠻荒 片尾曲\)](https://open.spotify.com/album/26zSNfcTpNIOF5dA8xCbot) | 4:46 | 2022-09-26 | 2022-12-27 |
 | [My Dear Father \- "Workers the Movie" Theme Song](https://open.spotify.com/track/5rL7fD2TKWItLZNpvZprnC) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [My Dear Father](https://open.spotify.com/album/6BzXXPB49JFeJqWoqM9eDm) | 5:25 | 2023-04-03 |  |
 | [My Tiffany](https://open.spotify.com/track/3ThM5aCfTL8yjAxrsbZaqQ) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [My Tiffany](https://open.spotify.com/album/6NDstGNTEHxpy1GlMlSw4i) | 4:15 | 2022-09-19 | 2022-10-25 |

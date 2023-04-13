@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,569 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,684 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 28 | [Chiove Assaj](https://open.spotify.com/track/0ZuAYzsQJtC0jFmGv57Yox) | [Edulevelup](https://open.spotify.com/artist/4U0vJ2SihWva1i9jCy7aJz), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chiove Assaj](https://open.spotify.com/album/4TRnncmDJzeOCC4X62vTCF) | 2:58 |
 | 29 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
 | 30 | [TT NGRIPPAT](https://open.spotify.com/track/3o1X6zIjTaw1qlMHtGBhWW) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [TT NGRIPPAT](https://open.spotify.com/album/6pMFcJZQVbDncGcLi6a2z6) | 2:34 |
-| 31 | [Scale \(con Luchè\)](https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:32 |
+| 31 | [Scale \(con Luchè\)](https://open.spotify.com/track/1odrZy5kTuj3SGdfgzhMzq) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:32 |
 | 32 | [Popp ice](https://open.spotify.com/track/2S0vyxbeTnlEvCWRsLVfI2) | [Tony Amatore](https://open.spotify.com/artist/0Y0lt6UuYcT4C6uldl4yqm), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp), [Renato Biancardi](https://open.spotify.com/artist/7yZdnHF92fQaJS0a4T9MtF) | [Popp ice](https://open.spotify.com/album/56vxL1JVFKyqGybNEmQgdV) | 2:35 |
 | 33 | [TE NE VAJE](https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a), [Stefania Lay](https://open.spotify.com/artist/1NNf3Zix93zZ6REk39stcD) | [Tredici](https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O) | 2:45 |
 | 34 | [‘O Mar For](https://open.spotify.com/track/6P1AALlzkAOIyU6iBuQ9nU) | [Stefano Lentini](https://open.spotify.com/artist/064Wlx4YXsDEqEG0o5Hjxg), [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [Raiz](https://open.spotify.com/artist/6lEWyvLmlGZnwDdsUtu13P) | [The Sea Beyond \(Original TV Series Soundtrack\)](https://open.spotify.com/album/1x1DFGOBEtllKlV1PwwzG5) | 3:19 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Dio nun c mann a nisciun](https://open.spotify.com/track/3JVHZwqC5nz9ikKg6nUjn6) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [Dio nun c mann a nisciun](https://open.spotify.com/album/0hrFrBtJAgdIAsFsn4NHhA) | 2:29 |
 | 55 | [SGUARDI PERSI](https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [SGUARDI PERSI](https://open.spotify.com/album/35yHTPThuoMhZT48qyZ7C0) | 2:38 |
 
-Snapshot ID: `MTY4MDgyMjA2MCwwMDAwMDAwMDU5MjNkYmFlMzUzMjQ1OWZmOGU3YTQyYzQ1ODA4ZTlj`
+Snapshot ID: `MTY4MDgyMjA2MCwwMDAwMDAwMDA3YjU5YWQyNjYyMTk2MGU2ODdiMDQ1YmRjNjIxYTM2`

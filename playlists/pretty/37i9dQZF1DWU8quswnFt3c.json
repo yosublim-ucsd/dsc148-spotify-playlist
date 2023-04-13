@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892219,
+  "num_followers": 892463,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2NzIwMCwwMDAwMDAwMGUzZGY1NjY2YmQzMTk2NjlhYTI3OGU0ZTMwZWFhYjZm",
+  "snapshot_id": "MTY4MDY2NzIwMCwwMDAwMDAwMDBhNDIxMjJmZTM3OGY1OTIwODliMzI3MDQxY2I3ZWEy",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 226506,
+      "name": "Believing",
+      "url": "https://open.spotify.com/track/1J7Z8dFAgNKiIbiRO3VNhp"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Asphalt (feat. pH-1)",
         "url": "https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 176000,
       "name": "Asphalt (feat. pH-1)",
       "url": "https://open.spotify.com/track/58mChQUTpqCnaGYC6CCSD0"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 226506,
-      "name": "Believing",
-      "url": "https://open.spotify.com/track/1J7Z8dFAgNKiIbiRO3VNhp"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "La flor (Mov.1: La Flor)",
-        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "La flor - Mov.1: La Flor",
-      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
         "url": "https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180437,
       "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
       "url": "https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "La flor (Mov.1: La Flor)",
+        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "La flor - Mov.1: La Flor",
+      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Tiba Tiba Hilang",
-        "url": "https://open.spotify.com/album/13peROZOrOtZVAXj31Szfq"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 265999,
-      "name": "Tiba Tiba Hilang",
-      "url": "https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/1mFnNicKCQPKlth8V3zovY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228893,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Tiba Tiba Hilang",
+        "url": "https://open.spotify.com/album/13peROZOrOtZVAXj31Szfq"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 265999,
+      "name": "Tiba Tiba Hilang",
+      "url": "https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
-      },
-      "artists": [
-        {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Ana Wein",
         "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 232857,
       "name": "Ana Wein",
       "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Soul Ties",
-        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Soul Ties",
-      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Soul Ties",
+        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Soul Ties",
+      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "FORA",
-        "url": "https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9"
-      },
-      "artists": [
-        {
-          "name": "701",
-          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
-        }
-      ],
-      "duration_ms": 218149,
-      "name": "FORA",
-      "url": "https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Malibu Babie SZN: Vol I",
         "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 143124,
       "name": "IBTC",
       "url": "https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "FORA",
+        "url": "https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9"
+      },
+      "artists": [
+        {
+          "name": "701",
+          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
+        }
+      ],
+      "duration_ms": 218149,
+      "name": "FORA",
+      "url": "https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1"
     },
     {
       "added_at": "2023-04-05 04:00:00",

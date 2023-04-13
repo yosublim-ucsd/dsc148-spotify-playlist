@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44187,
+  "num_followers": 44221,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDJjNDUwMGNhMzYyYWZjN2U1NGVlZDMyNjYzZGFhYjg0",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMGU4NTQ1Njc3MDcxYzMyOWNlM2E4MTUyMjdmNjgyOGRl",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Friendzone",
         "url": "https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Junggigo Sings Brazil",
         "url": "https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K"
       },
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
-      "added_at": "2023-04-12 00:15:54",
+      "added_at": "2023-04-13 00:55:48",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "\ud558\uc9c0 \ub9d0\ub77c\uba74 \ub354 \ud558\uace0 19 Part.2",
         "url": "https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6"
       },
@@ -989,7 +973,23 @@
       "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
     },
     {
-      "added_at": "2023-04-12 00:15:54",
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "added_at": "2023-04-13 00:55:48",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Leave like this",
-        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
-      },
-      "artists": [
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        },
-        {
-          "name": "Blue Mangtto",
-          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Leave like this",
-      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "LISH",
+        "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "So Jung of LADIES\u2019 CODE",
+          "url": "https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ"
+        }
+      ],
+      "duration_ms": 224778,
+      "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
+      "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1231,42 +1231,38 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "LISH",
-        "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
       "artists": [
         {
-          "name": "JUNGKEY",
-          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         },
         {
-          "name": "So Jung of LADIES\u2019 CODE",
-          "url": "https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ"
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
         }
       ],
-      "duration_ms": 224778,
-      "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
-      "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
     },
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "cozy christmas",
-        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
+        "name": "Cliche",
+        "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
       "artists": [
         {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Eily",
-          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+          "name": "ROJO",
+          "url": "https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl"
         }
       ],
-      "duration_ms": 123666,
-      "name": "Today and other days (Feat. Eily)",
-      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
+      "duration_ms": 186697,
+      "name": "Cliche",
+      "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
