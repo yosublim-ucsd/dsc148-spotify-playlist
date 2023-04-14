@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [301](https://open.spotify.com/track/5GJBSWrbSZRj0M9yi0nDdS) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/4FnPPFM3Pb9SF9lIuQeEEC) | 2:49 | 2022-05-24 |  |
+| [301](https://open.spotify.com/track/5GJBSWrbSZRj0M9yi0nDdS) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [301](https://open.spotify.com/album/4FnPPFM3Pb9SF9lIuQeEEC) | 2:49 | 2022-05-24 | 2023-04-14 |
 | [5 de Septiembre \- Reggaeton Version](https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [En Honor A La Verdad](https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW) | 2:57 | 2022-10-12 |  |
 | [5 Letras](https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [Sobrenatural](https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf) | 3:15 | 2021-12-17 |  |
 | [6 AM](https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 4:03 | 2021-12-17 |  |
@@ -305,7 +305,7 @@
 | [Siente El Boom](https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [El Documental II](https://open.spotify.com/album/01i4xjoO8LfObh7LbIZy8z) | 3:08 | 2021-12-17 |  |
 | [Sigue Bailando Amor](https://open.spotify.com/track/779XeyOdJTHIcPuyW4yrWc) | [El Rockie](https://open.spotify.com/artist/1SKXy5ppTwhVNobciJ844c) | [Sigue Bailando Amor](https://open.spotify.com/album/2n1qutg8DjXjP1BbEXdeVB) | 3:20 | 2022-05-13 | 2022-10-15 |
 | [Sigue Bailando Mi Amor](https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM) | [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4) | [Sigue Bailando Mi Amor](https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr) | 3:18 | 2022-09-26 |  |
-| [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2021-12-17 | 2023-03-30 |
+| [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2021-12-17 |  |
 | [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2021-12-17 |  |
 | [Sola](https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 2:53 | 2021-12-17 |  |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2022-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,176 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,236 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 41 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 |
 | 42 | [Lo Que No Me Dices](https://open.spotify.com/track/1RSBgWXopVCzHkoCr2k3pH) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Lo Que No Me Dices](https://open.spotify.com/album/1ItkcM4JZTgPYwU9DSMuKO) | 3:26 |
 | 43 | [En el Aire](https://open.spotify.com/track/6HUKvqvzgh1cr83BqlqrzA) | [Vega Almohalla](https://open.spotify.com/artist/5XGMdl7ZEKx6q1WI3i3oWc) | [Amapola](https://open.spotify.com/album/2rRs2vFcgJkKr5nCatnKaR) | 3:06 |
-| 44 | [Female Trouble](https://open.spotify.com/track/66MPgb5iW49G83HerzsRuQ) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Steady Lover](https://open.spotify.com/album/70U0rtni5bQ41VNX34KHv4) | 3:55 |
+| 44 | [Female Trouble](https://open.spotify.com/track/2StdiVkAqF28qtbRhjpKMq) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Steady Lover](https://open.spotify.com/album/4dcRrknsqUK9wJtq0FdCeS) | 3:55 |
 | 45 | [1982](https://open.spotify.com/track/7KwWxaYacPDQpbGoMGLE4L) | [Vimala](https://open.spotify.com/artist/6Jx5WE8A0eq0ByRqipIliK) | [1982 / Cost](https://open.spotify.com/album/4FjfRAg1jBGSoqe5AdXd40) | 4:00 |
 | 46 | [Pleasant](https://open.spotify.com/track/6ShyYKs7q5Z5Vhng0ATAOc) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:10 |
 | 47 | [Profite \- Capyac's Magic Potion Remix](https://open.spotify.com/track/2aZFlHRrYZSpwfsez7Sht1) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Profite \(Remixes\)](https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6) | 3:51 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MTY3NjQ4MjgyOCwwMDAwMDAwMDg2ZTg2MDQ5MmUzNTAxMjkwNTdhYWRhMzRmOGVjZTNl`
+Snapshot ID: `MTY3NjQ4MjgyOCwwMDAwMDAwMDAyNDhkYzJkY2I4NWRmZTljZWE0NzJlODFiYmZjMTU5`

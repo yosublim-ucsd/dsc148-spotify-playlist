@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-392 songs - 22 hr 32 min
+393 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [SENSE AGAIN](https://open.spotify.com/track/3707JCg368dfwEnevPlqpr) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [Flip Phone Fantasy](https://open.spotify.com/album/0Usgtnb9x0c1NXTFNABFf9) | 3:03 | 2021-11-30 | 2022-07-25 |
 | [Separation](https://open.spotify.com/track/46MroZ6OGJef6YKyABvk2R) | [Vagrants](https://open.spotify.com/artist/4WLao04vBPdHGLJS5YIogU) | [Separation](https://open.spotify.com/album/775vVZBPc4LrvVBDdE4GpS) | 3:59 | 2021-11-30 | 2022-07-27 |
 | [Shade](https://open.spotify.com/track/01qepvQsz0gMKfeQXvXlq4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/0Q6FKFBM1tSvPMwWS42myR) | 3:25 | 2021-11-30 | 2022-07-22 |
-| [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 | 2022-04-01 | 2023-04-11 |
+| [Shade](https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Crown Shyness](https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW) | 3:25 | 2022-04-01 |  |
 | [Shadow The Day](https://open.spotify.com/track/7h5y4boQvUezQktpDFWvYK) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [SIOIS](https://open.spotify.com/album/1PAtw7zQhKsMkvg1KQhdcv) | 3:26 | 2021-11-30 | 2022-06-15 |
 | [Shadows](https://open.spotify.com/track/2j5zbp4uYmaRwTqIQ0jxcu) | [We Set Signals](https://open.spotify.com/artist/4XM7gdCotrXDsX0MA1LwAP) | [Abandon Hope](https://open.spotify.com/album/2eNBAkxoEyh1pZ1eayNUs0) | 2:48 | 2022-01-21 | 2022-05-02 |
 | [Shake The Fear](https://open.spotify.com/track/0vriVSMC39p9PAysEw8Pbh) | [Words Like Wildfire](https://open.spotify.com/artist/4fL5vxgHJhwg6tRS6nqrv0), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Classic Tragedy](https://open.spotify.com/album/2RDhBkMPSRCaIOiN3XsLqE) | 3:06 | 2021-11-30 | 2022-07-27 |
@@ -343,7 +343,7 @@
 | [Still Breathing](https://open.spotify.com/track/7B0haLvZqqZFWkmfLl6JXS) | [Elusive](https://open.spotify.com/artist/6myEKXiRQOo8qxdF2YHdDZ) | [Still Breathing](https://open.spotify.com/album/0Qct6u71GJTwvSQJPzLgJq) | 4:31 | 2021-11-30 | 2022-05-19 |
 | [Strangers \- Radio Edit](https://open.spotify.com/track/1u1Lm8J4ELoKPUTYuBH39o) | [Spring.Fall.Sea](https://open.spotify.com/artist/07DpdTcJtQoY1aXSvjTtEB) | [Strangers \(Radio Edit\)](https://open.spotify.com/album/3wSfxVgiyNOd3o7qi4xAXs) | 3:37 | 2021-11-30 | 2022-04-21 |
 | [Sudden Sky](https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 4:20 | 2021-11-30 | 2022-12-04 |
-| [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 |  |
+| [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-04-14 |
 | [Swipe](https://open.spotify.com/track/5Xm3q9DHDSCGyQg2o3RGhD) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Swipe](https://open.spotify.com/album/4xdo8J0AGTVlvxQoIkR0jB) | 3:13 | 2021-11-30 | 2022-07-27 |
 | [Synthetic](https://open.spotify.com/track/0TjdRpN1VNAqmQPmGkwGBd) | [Summer Wars](https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy), [Nick Casasanto](https://open.spotify.com/artist/3IwnEcBxXV4WR3M4zroChh) | [Synthetic](https://open.spotify.com/album/6HVeTYGVcf6Qazkj2jXR2f) | 3:47 | 2021-11-30 | 2022-06-24 |
 | [Synthetic Sympathy](https://open.spotify.com/track/6IzY4FSs1vsPjjkeFJNIkL) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:34 | 2022-04-01 | 2022-11-26 |
@@ -384,7 +384,8 @@
 | [Useless Hands](https://open.spotify.com/track/4RaO6AytPosGrVFMKLZznb) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Useless Hands](https://open.spotify.com/album/6b8Vk2RmN89BMFCqVSfaaz) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Velvet Dreams](https://open.spotify.com/track/6EX9kqSPHt2oJKnWiiYADD) | [A Boy Named John](https://open.spotify.com/artist/7fYxDRNZREuC9Dht93kX5G) | [Velvet Dreams](https://open.spotify.com/album/5FuYsZlepb3G4NxazH0HlP) | 4:06 | 2021-11-30 | 2022-07-07 |
 | [Walk On](https://open.spotify.com/track/4vUWzxdmtVqMonTp97JIOf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Walk On](https://open.spotify.com/album/5854MVXCfaOOY1GHuZJEjg) | 3:34 | 2021-11-30 | 2022-07-28 |
-| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-19 |  |
+| [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-03-17 |  |
+| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-19 | 2023-04-14 |
 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-11-30 | 2022-11-13 |
 | [We’ll Always Have Paris](https://open.spotify.com/track/4sYQbdudBHfgKDXhrVmycI) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [We'll Always Have Paris](https://open.spotify.com/album/3iKYHiyK0w7wo72SzKOv9l) | 3:47 | 2021-11-30 | 2022-07-27 |
 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 | 2022-04-01 |  |

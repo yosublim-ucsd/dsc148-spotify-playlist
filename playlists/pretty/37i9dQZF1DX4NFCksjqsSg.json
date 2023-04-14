@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 25938,
+  "num_followers": 25945,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDZlOTlmZjBiZTM0M2JjMTk2ZjNkOGY2YTlmZDZkZGJl",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMGRlYzMyMjY0OWM5Zjg1MTExNzJiOTQ1MWU1ZTM1ODk5",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -111,22 +111,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fais comme l'oiseau",
         "url": "https://open.spotify.com/album/3OElRBTgFwCluz9sF4wlSt"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 194853,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5jWaYdEILLzuElA854tfXV"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
       },
@@ -255,22 +239,6 @@
       "duration_ms": 246400,
       "name": "Tu ne sauras jamais",
       "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "A Chacun Son Histoire",
-        "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "Je n'ai que mon \u00e2me",
-      "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -291,6 +259,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "A Chacun Son Histoire",
+        "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "Je n'ai que mon \u00e2me",
+      "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Au Nom De La Lune",
         "url": "https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 258333,
       "name": "La neige au Sahara",
       "url": "https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "On ne change pas",
-      "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Snob",
         "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 253160,
       "name": "Donne-moi ma chance",
       "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "On ne change pas",
+      "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
-        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
-      },
-      "artists": [
-        {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Learn French Thru Music",
         "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
+        "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298986,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
-        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
-      },
-      "artists": [
-        {
-          "name": "Diane Tell",
-          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
-        }
-      ],
-      "duration_ms": 287253,
-      "name": "Si j'\u00e9tais un homme",
-      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 263786,
       "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
+        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
+      },
+      "artists": [
+        {
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
+        }
+      ],
+      "duration_ms": 287253,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "La berceuse du petit diable",
-      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Volume un",
         "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 204493,
       "name": "Je reviendrai \u00e0 montr\u00e9al",
       "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "La berceuse du petit diable",
+      "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
     },
     {
       "added_at": "2020-04-07 15:18:18",

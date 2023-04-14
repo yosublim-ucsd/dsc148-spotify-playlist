@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3864,7 +3864,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -5838,7 +5838,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -6458,7 +6458,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 348447,
       "name": "\u05d0\u05d4\u05dc\u05df \u05d5\u05e1\u05d4\u05dc\u05df",
       "url": "https://open.spotify.com/track/5paLSZ9sF5jc3aSOSjQf3b"
@@ -8059,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "\u05d7\u05d2\u05d9\u05d2\u05d4 \u05de\u05e8\u05d5\u05e7\u05d0\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/2zCCZGoHnjyu4jmh0INAMD"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370259,
+      "name": "\u05d4\u05d8\u05dc\u05e4\u05d5\u05df",
+      "url": "https://open.spotify.com/track/7zfKIDPGyPDFLZVBuehvoR"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
         "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
       },
@@ -8421,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d9\u05e9 \u05d5\u05db\u05d9\u05e0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/1DCDMIX37gG2VuPuZxvnl7"
+      },
+      "artists": [
+        {
+          "name": "Lehakat Sfataim",
+          "url": "https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279405,
+      "name": "\u05d6\u05d9\u05df \u05dc\u05d9\u05e2\u05d8\u05d0\u05e7 \u05d0\u05dc\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/3qZJ51pKnamRCCaDCSv70z"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d9\u05e8\u05d9 \u05e4\u05d5\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/1w9xbILauVplO0HuE1Qg3y"
       },
@@ -8450,7 +8486,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 231105,
       "name": "\u05d7\u05d3\u05d5\u05d6'\u05d4",
       "url": "https://open.spotify.com/track/3eq8LeiHeLe1nTtQobQpTo"
@@ -9258,7 +9294,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 291000,
       "name": "\u05db\u05e0\u05e4\u05d9\u05d9\u05dd - Live",
       "url": "https://open.spotify.com/track/7Jeh9SPQdyULPmdIqTNo3y"
@@ -9760,7 +9796,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 234710,
       "name": "\u05dc\u05dc\u05d4 \u05d9\u05d8\u05de\u05dc\u05dc\u05d9 \u05d7\u05d1\u05d9\u05d1\u05d9 \u05d3\u05d9\u05d0\u05dc\u05d9",
       "url": "https://open.spotify.com/track/5ysowMwW2N5oOtFvFl0z7T"
@@ -9778,7 +9814,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 383843,
       "name": "\u05dc\u05dc\u05d4 \u05e4\u05d8\u05d9\u05de\u05d4",
       "url": "https://open.spotify.com/track/4q90kBzpTkuWDqUjVkb4ny"
@@ -9814,7 +9850,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 197481,
       "name": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6"
@@ -9880,7 +9916,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 120000,
       "name": "\u05de\u05d0\u05de\u05d9",
       "url": "https://open.spotify.com/track/2gpNRdJs3Sy5GI1G7pTgbZ"
@@ -10318,7 +10354,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 445000,
       "name": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea \u05e9\u05d9\u05e8\u05d9 \u05d7\u05d9\u05e0\u05d4",
       "url": "https://open.spotify.com/track/1FY2cAziLE3VYAcUL3v46r"
@@ -10336,7 +10372,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 166947,
       "name": "\u05de\u05d8\u05e4\u05e1\u05d9\u05dd \u05e2\u05dc \u05d4\u05e7\u05d9\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO"
@@ -10394,7 +10430,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 201380,
       "name": "\u05de\u05d9 \u05dc\u05d0 \u05d9\u05d1\u05d5\u05d0",
       "url": "https://open.spotify.com/track/0Ap742kKOE7chXEdDZWvOq"
@@ -11546,7 +11582,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 250878,
       "name": "\u05e2\u05d9\u05e8 \u05e0\u05de\u05dc",
       "url": "https://open.spotify.com/track/6NUzJGlQORUv6NjUwcefr8"
@@ -11940,7 +11976,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 163355,
       "name": "\u05e7\u05d5\u05e4\u05d9\u05d3\u05d5\u05df (Prod. By Triangle)",
       "url": "https://open.spotify.com/track/4W1G1xlxcirdtXosgsR0m0"
@@ -12656,7 +12692,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"

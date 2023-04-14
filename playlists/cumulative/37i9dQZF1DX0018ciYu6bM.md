@@ -4,7 +4,7 @@
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: FIFTY FIFTY
 
-381 songs - 20 hr 55 min
+383 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 | 2022-11-03 | 2023-01-06 |
 | [Lovesick Girls](https://open.spotify.com/track/0u5FYJWJLcLzSN9S1Wb2ag) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/4DrS5uqr2LBqfTF5nsRtyT) | 3:12 | 2022-04-05 | 2022-07-29 |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2022-07-28 | 2022-10-04 |
-| [Lovin' Me](https://open.spotify.com/track/3QjEH4qz8mZEe5mwpxTequ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [THE FIFTY](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 3:09 | 2023-03-06 |  |
+| [Lovin' Me](https://open.spotify.com/track/0V8fsKaS2pdhTkDfJKBCTY) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [THE FIFTY](https://open.spotify.com/album/3EDWNnbmr36DRQOkyoLQRS) | 3:09 | 2023-04-11 |  |
+| [Lovin' Me](https://open.spotify.com/track/3QjEH4qz8mZEe5mwpxTequ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [THE FIFTY](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 3:09 | 2023-03-06 | 2023-04-14 |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-04-05 | 2022-05-27 |
 | [Lxxk 2 U](https://open.spotify.com/track/5U7emXCoCl8EOEJUVNbguC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 3:02 | 2022-04-05 | 2022-04-21 |
 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 | 2022-06-30 | 2022-08-26 |
@@ -324,7 +325,8 @@
 | [TAP](https://open.spotify.com/track/2akAk7J7bCvf1aXwoqnYVx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [TAP](https://open.spotify.com/album/0AV5eIIcY9AXVLIXKgPoGl) | 3:26 | 2022-11-25 | 2023-01-10 |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-20 |  |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-17 | 2022-08-06 |
-| [Tell Me](https://open.spotify.com/track/7i8Jxfd0Sx98271iuNYSQp) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [THE FIFTY](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 3:37 | 2023-03-06 |  |
+| [Tell Me](https://open.spotify.com/track/1UglC0beXmI87ubdZgTXbr) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [THE FIFTY](https://open.spotify.com/album/3EDWNnbmr36DRQOkyoLQRS) | 3:37 | 2023-04-11 |  |
+| [Tell Me](https://open.spotify.com/track/7i8Jxfd0Sx98271iuNYSQp) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [THE FIFTY](https://open.spotify.com/album/5Khk4qZMCH9iMJWBzzdbNP) | 3:37 | 2023-03-06 | 2023-04-14 |
 | [Tell me \(Sampling From \`Two Of Hearts\`\)](https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [The Wonder Years](https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD) | 3:37 | 2023-02-28 |  |
 | [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-26 | 2022-06-10 |
 | [Tell me this is real](https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [My chilling roommate \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/3JJWRFZW2JRUrPK1DCeFQa) | 3:38 | 2022-06-17 | 2022-07-29 |

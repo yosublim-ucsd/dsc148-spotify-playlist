@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-150 songs - 12 hr 5 min
+151 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3inehom Mesawsa](https://open.spotify.com/track/2z23EvZj7MNw02iE0neRgx) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [3inehom Mesawsa](https://open.spotify.com/album/6NPGIRvX3VViWqisaCEs07) | 3:50 | 2023-02-10 | 2023-02-24 |
 | [3inehom Mesawsa](https://open.spotify.com/track/4XskIx5sYsCbfpC1AQeHv9) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 3:50 | 2023-02-20 |  |
 | [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 | 2021-10-19 | 2023-02-11 |
+| [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 | 2023-04-14 |  |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0TZ6DTWepaTh3yniKcaNYz) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:15 | 2022-05-11 | 2022-08-25 |
 | [Alach ana manansach](https://open.spotify.com/track/65rxGidLak2RsVEl2vkMAM) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Alach ana manansach](https://open.spotify.com/album/2bOKrFNEjE5BZUaba94RyW) | 6:40 | 2022-09-20 | 2022-10-24 |
@@ -141,7 +142,7 @@
 | [Wahda Bwahda](https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Wahda Bwahda](https://open.spotify.com/album/4uxtyscFwFbNrck3U4lvjQ) | 4:41 | 2022-09-27 | 2022-11-21 |
 | [Way Way](https://open.spotify.com/track/4fhtWJkjPXZNRfS6x94OZf) | [Mouss Maher](https://open.spotify.com/artist/7n40iNdXEPUvQkURa7c3Xv), [Cheikh Nano](https://open.spotify.com/artist/2DcBVx9B2rez95bOTb1cDH) | [Way Way](https://open.spotify.com/album/0gdIW2pOUSBwTUagG5IwfU) | 4:19 | 2022-09-20 | 2022-10-26 |
 | [Wayn Rakom Ya Hbabi](https://open.spotify.com/track/3CbMZTL6zwiA6r5BvGnMZE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Wayn Rakom Ya Hbabi](https://open.spotify.com/album/6Z14yylSHkwvie7957DHtB) | 5:09 | 2021-10-19 | 2022-12-30 |
-| [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 | 2023-01-28 |  |
+| [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 | 2023-01-28 | 2023-04-14 |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 |  |
 | [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 | 2023-01-30 |  |

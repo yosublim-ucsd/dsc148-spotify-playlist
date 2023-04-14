@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-475 songs - 1 day 13 hr 0 min
+476 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Twilight World](https://open.spotify.com/track/3JGsItcybgESM56HDiJDXJ) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Interplay](https://open.spotify.com/album/0UnkXHHiAXwBLohRURnemy) | 4:30 | 2022-02-10 |  |
 | [Twins](https://open.spotify.com/track/041E7613Qaw4buZMVpaLcd) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:55 | 2022-02-10 |  |
 | [Tzuri](https://open.spotify.com/track/7gmZDVFYIPzjdT8JSfg6qG) | [Omer Klein](https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho), [Haggai Cohen Milo](https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Tzuri](https://open.spotify.com/album/3j2Zir8eXVdfMPpNgkVYsz) | 3:57 | 2023-03-10 |  |
-| [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2022-11-12 |  |
+| [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2022-11-12 | 2023-04-14 |
 | [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-03-02 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-12 |  |
 | [Veco](https://open.spotify.com/track/6KgwMaRTlYyYmb2tJ8LKkr) | [Shayke](https://open.spotify.com/artist/2V42WfGGdVvOuru7D0QXWF), [correa](https://open.spotify.com/artist/7weBOfhbUlxj3I3iU09z8w), [francelet](https://open.spotify.com/artist/3A9bGZrbpAZAnEwKY6LKMg) | [Veco](https://open.spotify.com/album/2hvRh5qdn4bvkT7LHY9UNh) | 6:25 | 2022-08-30 |  |
@@ -447,6 +447,7 @@
 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 | 2022-11-12 |  |
 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 | 2023-01-12 |  |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2022-11-12 |  |
+| [Went Another Way](https://open.spotify.com/track/6ytZNOW8k2wQ8kdFLZPzsC) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Went Another Way](https://open.spotify.com/album/7dEl9BJgn3IJ5TSfwuxA0l) | 2:43 | 2023-04-13 |  |
 | [What A Difference A Day Made](https://open.spotify.com/track/7n8x83Z1a5q1Ct4eWCSDbU) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [What A Difference A Day Made](https://open.spotify.com/album/4VrMjhLhsy4nvXqfX7xKe1) | 2:43 | 2022-09-01 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-12 |  |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |

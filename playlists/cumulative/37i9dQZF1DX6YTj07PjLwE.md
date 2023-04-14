@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-637 songs - 1 day 22 hr 43 min
+638 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Black Leather](https://open.spotify.com/track/2dsamqceYOKqLNx2Ch6Zhz) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 4:08 | 2022-04-28 | 2022-07-10 |
 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 | 2022-04-28 | 2022-07-26 |
 | [Black Velveteen](https://open.spotify.com/track/04kdmFl6BJSbeLXFmSKXtR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:48 | 2022-04-28 | 2022-05-24 |
-| [Bled for Days](https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:45 | 2022-04-28 |  |
+| [Bled for Days](https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:45 | 2022-04-28 | 2023-04-14 |
 | [Blow Up The Outside World](https://open.spotify.com/track/5TLA7O0ogTqwZHbS3ERabw) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 5:45 | 2022-04-28 | 2023-02-19 |
 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 | 2022-04-28 |  |
 | [Blue Sky Mine \- 2011 Remaster](https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Blue Sky Mining \(Remastered\)](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S) | 4:15 | 2022-04-28 |  |
@@ -303,6 +303,7 @@
 | [Lit Up](https://open.spotify.com/track/1OBMSzh2ocRqK2gUFaMBSM) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Buckcherry](https://open.spotify.com/album/3H83sHnGmb6Sn9toZchZho) | 3:35 | 2022-04-28 |  |
 | [Live](https://open.spotify.com/track/49f4UfSML06C1nqobkoUh3) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 5:10 | 2022-04-28 | 2022-07-26 |
 | [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 | 2022-04-28 | 2023-04-05 |
+| [Livin' On The Edge](https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 6:21 | 2023-01-18 |  |
 | [Livin' On The Edge Of The Night](https://open.spotify.com/track/0xGFngTneJV4OzN310i8Qh) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 3:38 | 2022-04-28 | 2022-07-29 |
 | [Locomotive \(Complicity\)](https://open.spotify.com/track/2UqzzArv2T0NnHSTIUa13V) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 8:42 | 2022-04-28 | 2022-07-28 |
 | [Long Day](https://open.spotify.com/track/4r7im8h2DTRPvl25YfNyIT) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 | 2022-04-28 |  |

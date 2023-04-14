@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "ANGRY ANGRY",
+        "url": "https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "ANGRY ANGRY",
+      "url": "https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz"
+    },
+    {
+      "album": {
         "name": "Asayake no Mukou",
         "url": "https://open.spotify.com/album/3GurbiI6aWgptNIkGKJ9Xs"
       },
@@ -938,6 +960,42 @@
       "duration_ms": 220098,
       "name": "Get High",
       "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
+    },
+    {
+      "album": {
+        "name": "Girl in the mirror",
+        "url": "https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190594,
+      "name": "Girl in the mirror",
+      "url": "https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X"
     },
     {
       "album": {
@@ -1958,7 +2016,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 199500,
       "name": "Old Fashioned",
       "url": "https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6"
@@ -2160,7 +2218,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212142,
       "name": "Ratpark",
       "url": "https://open.spotify.com/track/451krgfVbiNmFxAIXTGQjL"
@@ -4846,7 +4904,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 242488,
       "name": "\u4f55\u5e74\u5148\u3082\u61b6\u3048\u3066\u3066\u307b\u3057\u3044",
       "url": "https://open.spotify.com/track/79OJr7RyMwOCupcDtZSX9Y"
@@ -5185,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "\u5c4a\u304f\u3001\u672a\u6765\u3078",
+        "url": "https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217874,
+      "name": "\u5c4a\u304f\u3001\u672a\u6765\u3078",
+      "url": "https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb"
+    },
+    {
+      "album": {
         "name": "\u5e78\u305b\u306e\u679c\u3066\u306b",
         "url": "https://open.spotify.com/album/4rYOedvAE0DQaTgl8hSuyI"
       },
@@ -5340,7 +5416,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 275957,
       "name": "\u6182\u3044\u685c",
       "url": "https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw"

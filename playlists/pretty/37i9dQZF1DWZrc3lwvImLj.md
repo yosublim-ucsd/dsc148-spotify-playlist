@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,865 likes - 210 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,941 likes - 210 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 103 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 |
 | 104 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 |
 | 105 | [Faith](https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P) | [Oscar Grönborg](https://open.spotify.com/artist/6oelQEIUrYRIGVxWcFmtwn) | [Faith](https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE) | 2:00 |
-| 106 | [On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 |
+| 106 | [Bowden: On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 |
 | 107 | [Berceuse Lunaire](https://open.spotify.com/track/0zmrJp1U0cMtlYPmYw8nQU) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/16LXWruj5pIr0cJ9dVntNL) | 2:53 |
 | 108 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 |
 | 109 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 |

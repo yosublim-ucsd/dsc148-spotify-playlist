@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-182 songs - 12 hr 16 min
+183 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Jordão](https://open.spotify.com/track/0OOjWnUSSQzwav02OSctR2) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Parva Naturalia](https://open.spotify.com/album/5tHvENdIkbBl0ItOTva9W8) | 4:23 | 2022-02-18 | 2023-04-01 |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-02-18 | 2023-02-02 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-06-23 | 2023-02-28 |
-| [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 | 2020-10-20 |  |
+| [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 | 2020-10-20 | 2023-04-14 |
 | [KLK](https://open.spotify.com/track/5An8NQkXTYa5gz8BIWeWk5) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 3:47 | 2020-10-20 | 2022-07-29 |
 | [La Morte Muore \- Part 3](https://open.spotify.com/track/3JHiHqwApntqpWnukIxYHh) | [OvO](https://open.spotify.com/artist/4DBspZAitax26H5f7ay6zg) | [La Morte Muore \(Part 3\)](https://open.spotify.com/album/0a4gYYEd1DDv5bKbTi5wTi) | 4:30 | 2022-08-19 | 2023-03-25 |
 | [Le Samouraï](https://open.spotify.com/track/1DFE2U27L7JgQlBL831UGo) | [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Still](https://open.spotify.com/album/44xQ4JlxgaSiT8my6ahJhS) | 5:05 | 2022-08-31 | 2023-04-01 |
@@ -172,6 +172,7 @@
 | [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2020-10-20 |  |
+| [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-14 |  |
 | [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2020-10-20 | 2023-01-03 |
 | [What They Call Us](https://open.spotify.com/track/4r7bIvlgghaidRNJghhs3o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What They Call Us](https://open.spotify.com/album/67rERGR5WbUsR5baHR8wIR) | 4:27 | 2022-10-10 | 2023-03-14 |
 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 | 2022-10-10 |  |

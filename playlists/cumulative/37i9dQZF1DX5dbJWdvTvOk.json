@@ -347,24 +347,6 @@
     },
     {
       "album": {
-        "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
-        "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00ednio Fernandes",
-          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216850,
-      "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
-      "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
-    },
-    {
-      "album": {
         "name": "Beber",
         "url": "https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km"
       },
@@ -2244,6 +2226,24 @@
       "duration_ms": 152670,
       "name": "Like no other",
       "url": "https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW"
+    },
+    {
+      "album": {
+        "name": "Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216850,
+      "name": "Lobo, Buarque: Beatriz (Arr. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673"
     },
     {
       "album": {

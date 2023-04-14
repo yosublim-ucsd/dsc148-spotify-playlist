@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 21706,
+  "num_followers": 21738,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGY5NmJmNmEyZmRkOWVlYjM2N2JiMmE5YmVhMTAyM2Nj",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGFiZGU5ZjFjZjgzNGQ1ODZlMmFkNTE2NmNlNThjY2Vm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -460,6 +460,22 @@
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Bad Axe",
+      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
       "artists": [
@@ -491,22 +507,6 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bad Axe",
-      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Cover To Cover",
@@ -667,6 +651,22 @@
       "duration_ms": 247640,
       "name": "Stop On By",
       "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 240605,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
+    },
+    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -767,22 +783,6 @@
       "duration_ms": 183520,
       "name": "Take Me Just As I Am",
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Dumb It Down",
-      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "I Smell Smoke",
-      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Hoodoo Kings",
         "url": "https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 266426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "I Smell Smoke",
+      "url": "https://open.spotify.com/track/4ihshArvoPJsADnFAg889U"
     }
   ],
   "unique_name": "Funky Blues",

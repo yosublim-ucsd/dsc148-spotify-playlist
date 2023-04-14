@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Pin-Up Daddy",
+        "url": "https://open.spotify.com/album/3wOUeHEdo8G3QY3N6e0LwR"
+      },
+      "artists": [
+        {
+          "name": "Rett Madison",
+          "url": "https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251158,
+      "name": "Pin-Up Daddy",
+      "url": "https://open.spotify.com/track/4VQ8UDGBLpCxBgTNbOmnxs"
+    },
+    {
+      "album": {
         "name": "Pluto",
         "url": "https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9"
       },

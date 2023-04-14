@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,670,256 likes - 73 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670,220 likes - 73 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179761,
       "name": "Can\u2019t Stay Away",
       "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
@@ -3067,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+    },
+    {
+      "album": {
         "name": "Samlade s\u00e5nger",
         "url": "https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL"
       },
@@ -3176,7 +3194,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 187632,
       "name": "Even It Out",
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
@@ -3592,6 +3610,24 @@
       "duration_ms": 193894,
       "name": "First Place",
       "url": "https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J"
+    },
+    {
+      "album": {
+        "name": "Fluent Stutter",
+        "url": "https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "Fluent Stutter",
+      "url": "https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt"
     },
     {
       "album": {
@@ -4054,6 +4090,24 @@
       "duration_ms": 276110,
       "name": "Glittret",
       "url": "https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK"
+    },
+    {
+      "album": {
+        "name": "glued to the floor",
+        "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138953,
+      "name": "glued to the floor",
+      "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
     },
     {
       "album": {
@@ -7083,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
+    },
+    {
+      "album": {
         "name": "Too Late for Edelweiss",
         "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
       },
@@ -7332,7 +7404,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 240262,
       "name": "Mormor",
       "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
@@ -12508,7 +12580,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 207460,
       "name": "YES",
       "url": "https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY"

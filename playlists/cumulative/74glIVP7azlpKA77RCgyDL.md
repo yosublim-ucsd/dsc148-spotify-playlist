@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Buggin
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Pupil Slicer
 
-377 songs - 1 day 0 hr 10 min
+382 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Behind Closed Doors](https://open.spotify.com/track/40bblUc6CcCwM8jaZ9r9Rf) | [Wormrot](https://open.spotify.com/artist/3vMnvW7u5207ATyxTQIxNz) | [Behind Closed Doors](https://open.spotify.com/album/57hOF9F8e7ww6Q5PJyWes6) | 1:27 | 2022-03-18 |  |
 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 | 2023-03-03 |  |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 |  |
+| [Big Man](https://open.spotify.com/track/5RvkIiOCUCUNpHRnrbzpEC) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Big Man](https://open.spotify.com/album/0aVjveFPW5GO8RnwSu0JjP) | 1:45 | 2023-04-13 |  |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 |  |
 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 |  |
 | [Blood Feast](https://open.spotify.com/track/5hZfFjT1jpsOGqlaPEEXFR) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Blood Feast](https://open.spotify.com/album/3AH1Rojety6iTDmI3XzOYs) | 4:16 | 2023-02-24 |  |
@@ -147,6 +148,7 @@
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 |  |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-03 |  |
+| [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2R1jLZ4CV3nh9pT5GIJkDs) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4Rq0ZN8Thuzx1HkRyXyJjh) | 3:53 | 2023-04-13 |  |
 | [Glorious Devastation](https://open.spotify.com/track/5wUe3PMvFts4OLglUTRq6B) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Glorious Devastation](https://open.spotify.com/album/74gmjJ9wVTo2mzSERuGNrM) | 2:43 | 2022-10-14 |  |
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 |  |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 |  |
@@ -181,6 +183,7 @@
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 |  |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 |  |
+| [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-13 |  |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 |  |
 | [Journey of the Host](https://open.spotify.com/track/7fm2ipYq1hEBTdOkAGqdOm) | [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Journey of the Host](https://open.spotify.com/album/00BeFzpaDtXKCWkEoglFqz) | 2:40 | 2023-03-10 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 |  |
@@ -188,6 +191,7 @@
 | [Killing Floor](https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Killing Floor](https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ) | 2:53 | 2022-11-18 |  |
 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 | 2022-10-07 |  |
 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-02-24 |  |
+| [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-13 |  |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 |  |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 |  |
 | [Life Unknown](https://open.spotify.com/track/0trsDMSa16iKVLvGuwoee2) | [Praise](https://open.spotify.com/artist/5pBjhwqwoCpxGm4igqvgCi) | [Life Unknown](https://open.spotify.com/album/2OHDTjpGe1QosiQiy7UVwe) | 3:37 | 2022-04-22 |  |
@@ -224,6 +228,7 @@
 | [NMP](https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa), [Vyva Melinkolya](https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX) | [NMP](https://open.spotify.com/album/0MOfr3DoxeFA5hSGEVAfR4) | 7:45 | 2023-03-17 |  |
 | [No Escape From Now \(feat\. Tony Iommi\)](https://open.spotify.com/track/3EJAW7s7KWyiJvmKAtDTgA) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 6:46 | 2022-09-09 |  |
 | [No Good At Goodbyes](https://open.spotify.com/track/6IeBSwVGgwJG0phWB0TfJM) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/6iFrrrFNh7EfI7FyDmAxIk) | 2:14 | 2022-02-25 |  |
+| [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 |  |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 |  |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 |  |
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 |  |

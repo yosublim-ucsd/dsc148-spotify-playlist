@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9080,
+  "num_followers": 9085,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDU1N2FlOWMzM2I1NWQ4YTFkNWQ3NTQzOGM2MjczMWE2",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDFmYTc0OTdhYjUxZDc5OTI1NWM5OTNmMDk3MDRmY2Y4",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 237131,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 237131,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rate Who Rate You",
-        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Rate Who Rate You",
-      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Rate Who Rate You",
+        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Rate Who Rate You",
+      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 335725,
       "name": "To Chick",
       "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"

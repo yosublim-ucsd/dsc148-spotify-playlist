@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | This week is all about ARTY",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: ARTY",
   "name": "Armada Today",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165853,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/54C72WBiGX5leus7p8y418"
@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/1GC97Ymd8QQ8pGs41HH1bZ"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0czsh9nvN2LIY73Qlb2r97"
+    },
+    {
+      "album": {
         "name": "California Dreamin (LNY TNZ Remix)",
         "url": "https://open.spotify.com/album/1Eqcbi0tlTDXZgPODT7WDx"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 155034,
       "name": "Chasing Tomorrow",
       "url": "https://open.spotify.com/track/5fVqumMSkKG5hPaV6vqWLR"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 186184,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu"
@@ -2866,6 +2884,24 @@
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4f8Cne72orm5d0yGHARn0t"
+      },
+      "artists": [
+        {
+          "name": "New Hype",
+          "url": "https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5uFQ1MJxo94U9DOEQSlpTP"
     },
     {
       "album": {
@@ -5818,7 +5854,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 220776,
       "name": "Love Will Tear Us Apart - Tensnake Remix",
       "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
@@ -6284,7 +6320,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
@@ -6677,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "Open Up The Night",
+        "url": "https://open.spotify.com/album/1f4bWNv7x3umNB4vqvhtr5"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Open Up The Night",
+      "url": "https://open.spotify.com/track/0Rf0OXjxFcxgwL0Ni6RjRz"
+    },
+    {
+      "album": {
         "name": "Optimum",
         "url": "https://open.spotify.com/album/2twX4o0DfHH0XjE4DYFgKb"
       },
@@ -6826,6 +6880,28 @@
       "duration_ms": 244513,
       "name": "Paradise - \u00c2me Remix",
       "url": "https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs"
+    },
+    {
+      "album": {
+        "name": "Parallel Universes (That Should Be Me)",
+        "url": "https://open.spotify.com/album/7gJH11XXGiTRKKaWK7BeCL"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Parallel Universes (That Should Be Me)",
+      "url": "https://open.spotify.com/track/469kpGPbPdVljJWbQQp5gS"
     },
     {
       "album": {
@@ -7296,7 +7372,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 147410,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5wXpoS2j5VYb7V3nK66xDe"
@@ -7646,7 +7722,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
@@ -7690,6 +7766,28 @@
       "duration_ms": 169354,
       "name": "Run",
       "url": "https://open.spotify.com/track/1704XhUx9ZXSXmRQxUfQ3X"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/69mSGGmuHWmUr6z3RLRoQJ"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201070,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3KaOuwuIuZYfR1VhAENRXG"
     },
     {
       "album": {
@@ -8442,6 +8540,28 @@
       "duration_ms": 169534,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4zA1GmTijWtxqbzoXQMS7w"
+    },
+    {
+      "album": {
+        "name": "Sofrito (Do It Like That)",
+        "url": "https://open.spotify.com/album/19pyRIlQUCdj7vd6yM7Ya4"
+      },
+      "artists": [
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        },
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196889,
+      "name": "Sofrito (Do It Like That)",
+      "url": "https://open.spotify.com/track/39mRogfOcY1NWb1diQrRJo"
     },
     {
       "album": {
@@ -10198,7 +10318,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 297635,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG"
@@ -10678,6 +10798,24 @@
       "duration_ms": 220957,
       "name": "We Were Once Kings",
       "url": "https://open.spotify.com/track/2N6euoPS5FbKPHcQE8nuwf"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/32XBCg7wNQnGMp4vtUNeZ0"
+      },
+      "artists": [
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2rFKeB8bks9lvcBTDTVlmY"
     },
     {
       "album": {

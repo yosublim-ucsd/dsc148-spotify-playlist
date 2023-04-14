@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amanda Magalh\u00e3es, Dj Nyack",
-  "num_followers": 159425,
+  "num_followers": 159436,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGUwN2Q5YjA4MzU1M2JkNzBhZGM4MTI0ZjU0YWQ5MmJk",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGQ1NzE2NDdkZDg0Y2IyZTkwNjNlMzZlOTdlZjY1Yzc5",
   "tracks": [
     {
       "added_at": "2023-04-07 03:01:00",
@@ -407,22 +407,18 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
+        "name": "Gosto de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
       },
       "artists": [
         {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
+      "duration_ms": 170628,
+      "name": "Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -443,18 +439,22 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Gosto de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
       },
       "artists": [
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
-      "duration_ms": 170628,
-      "name": "Gosto de Voc\u00ea",
-      "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184489,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -779,6 +779,30 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Caos",
+      "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -831,22 +855,6 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -871,6 +879,22 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -907,46 +931,6 @@
       "duration_ms": 227234,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
-      },
-      "artists": [
-        {
-          "name": "Annick",
-          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
-        },
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Caos",
-      "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 133564,
       "name": "Eterno Esquema",
       "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "Cora\u00e7\u00e3o de Fogo",
+        "url": "https://open.spotify.com/album/2kOawmhLWEE2XifSM9boX2"
+      },
+      "artists": [
+        {
+          "name": "Truh",
+          "url": "https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 136044,
+      "name": "Cora\u00e7\u00e3o de Fogo",
+      "url": "https://open.spotify.com/track/5PTljxsqsyMwwEBIm083rj"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Respostas",
         "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
@@ -1291,38 +1311,18 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Fogo",
-        "url": "https://open.spotify.com/album/2kOawmhLWEE2XifSM9boX2"
+        "name": "LIN9ERIE",
+        "url": "https://open.spotify.com/album/1kdJQ3yi1SOy33FxWcObAx"
       },
       "artists": [
         {
-          "name": "Truh",
-          "url": "https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         }
       ],
-      "duration_ms": 136044,
-      "name": "Cora\u00e7\u00e3o de Fogo",
-      "url": "https://open.spotify.com/track/5PTljxsqsyMwwEBIm083rj"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+      "duration_ms": 183531,
+      "name": "LIN9ERIE",
+      "url": "https://open.spotify.com/track/31pFOOZmHH4eLlYFXmlkeN"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Inten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "LIN9ERIE",
-        "url": "https://open.spotify.com/album/1kdJQ3yi1SOy33FxWcObAx"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 183531,
-      "name": "LIN9ERIE",
-      "url": "https://open.spotify.com/track/31pFOOZmHH4eLlYFXmlkeN"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me liga",
+      "url": "https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Tanto Querer",
         "url": "https://open.spotify.com/album/4UbZ7isvuoDykLIN9Qb98C"
       },
@@ -1451,30 +1475,6 @@
       "duration_ms": 196363,
       "name": "Tanto Querer",
       "url": "https://open.spotify.com/track/4ctAt6FuCTZfXYsO8cReLj"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Me liga",
-      "url": "https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh"
     },
     {
       "added_at": "2023-04-07 03:01:00",

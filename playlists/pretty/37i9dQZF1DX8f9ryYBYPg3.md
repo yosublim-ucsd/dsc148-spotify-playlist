@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,581 likes - 151 songs - 1 day 0 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,612 likes - 151 songs - 1 day 0 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

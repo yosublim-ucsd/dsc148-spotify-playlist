@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 181000,
       "name": "Isla Bonita - Radio Edit",
       "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
@@ -4796,6 +4796,28 @@
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "album": {
+        "name": "Ya Rayeh",
+        "url": "https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "Latif El Idrissi",
+          "url": "https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330150,
+      "name": "Ya Rayeh",
+      "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
     },
     {
       "album": {

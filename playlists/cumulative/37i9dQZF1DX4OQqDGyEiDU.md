@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-481 songs - 1 day 3 hr 41 min
+482 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ai no Sukima](https://open.spotify.com/track/2shwfq9XQBHMnSnhPOJECa) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Ai no Sukima](https://open.spotify.com/album/2vSPw6zQcdOEE7QBbbs31V) | 3:39 | 2022-07-14 | 2022-07-19 |
 | [Alice in N.Y.](https://open.spotify.com/track/1iPRe1ptuXReCWKRjzjelt) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [If the world3](https://open.spotify.com/album/7pguOxS2emX530AOO34KC4) | 3:53 | 2022-06-23 | 2022-07-15 |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-10-13 |  |
-| [Aoku Aoku Hikaru](https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:47 | 2023-03-09 |  |
+| [Aoku Aoku Hikaru](https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:47 | 2023-03-09 | 2023-04-14 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-03-09 | 2023-03-13 |
 | [ATELIER](https://open.spotify.com/track/55HkMllhxhnB78YXanuwgK) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ave](https://open.spotify.com/album/7gGyCGkce4VpXWGSopZEKy) | 3:41 | 2022-06-14 | 2022-06-22 |
 | [Awake Now](https://open.spotify.com/track/14NNOtVmIhGHLcwaluyoHn) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/0pivFXtrPhKw6TZvksvBVO) | 3:16 | 2022-07-26 | 2022-08-17 |
@@ -189,6 +189,7 @@
 | [アニマル](https://open.spotify.com/track/1b0zIQJV4TMwPXudWcHjQv) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アニマル](https://open.spotify.com/album/2dPOTYm0jQ6elPeoCKJFE9) | 2:32 | 2022-06-09 | 2022-07-25 |
 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 | 2022-09-22 | 2023-01-13 |
 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 | 2023-03-21 |  |
+| [アメリ](https://open.spotify.com/track/1u7mr7J4ylfkLS2CK642Ge) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [アメリ](https://open.spotify.com/album/29r8WuUupgXV8BYV4FcDgX) | 3:26 | 2023-04-13 |  |
 | [アユミ☆マジカルショータイム](https://open.spotify.com/track/2zuxjeU8HhNjhwAImmdLWn) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [アユミ☆マジカルショータイム](https://open.spotify.com/album/3DjcAS0tISWGmfmDsgohHS) | 3:53 | 2022-06-09 | 2022-07-25 |
 | [アルティメットセンパイ](https://open.spotify.com/track/5Lsdr0kU6beWlXns5yRzfT) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [アルティメットセンパイ](https://open.spotify.com/album/7jhZ6DlDkoave3d9EluECt) | 3:38 | 2022-06-09 | 2022-07-03 |
 | [アングレイデイズ](https://open.spotify.com/track/0D6nkihMwftoet1pTtxfV4) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [SAKKAC CRAFT](https://open.spotify.com/album/55Rv0QRBYFu3X1rlrxwExc) | 3:00 | 2022-06-14 | 2022-07-23 |

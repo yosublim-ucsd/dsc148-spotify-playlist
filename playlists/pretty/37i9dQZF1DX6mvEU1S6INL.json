@@ -1,15 +1,15 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
-  "num_followers": 1126008,
+  "num_followers": 1126062,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjMyMiwwMDAwMDAwMDVmODE3ODk2MDdhYzc0OTg2OGU0Y2VmOTNhZGI3M2Ey",
+  "snapshot_id": "MTY3NjMwMjMyMiwwMDAwMDAwMGY5NDE3OTBkNmIyODg1OTg5ZTU3NzNiMmU0YjIxYTdj",
   "tracks": [
     {
-      "added_at": "2023-04-13 01:04:54",
+      "added_at": "2023-04-14 00:57:04",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
-      "added_at": "2023-04-13 01:04:54",
+      "added_at": "2023-04-14 00:57:04",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
-      "added_at": "2023-04-13 01:04:54",
+      "added_at": "2023-04-14 00:57:04",
       "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -381,7 +365,23 @@
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
-      "added_at": "2023-04-13 01:04:54",
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj"
+    },
+    {
+      "added_at": "2023-04-14 00:57:04",
       "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
         "name": "For the Light",
         "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
     },
     {
-      "added_at": "2023-04-13 01:04:54",
+      "added_at": "2023-04-14 00:57:04",
       "album": {
         "name": "Visions Of A Life",
         "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Era Vulgaris",
-        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+        "name": "Sadnecessary (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 290493,
-      "name": "Make It Wit Chu",
-      "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+      "duration_ms": 261973,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
+        "name": "Era Vulgaris",
+        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Make It Wit Chu",
+      "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
       },
@@ -747,38 +763,6 @@
       "duration_ms": 235266,
       "name": "Youuu",
       "url": "https://open.spotify.com/track/1JsVSz41mZAl02GXUApmGp"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Sadnecessary (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
         "name": "Stateless",
         "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -843,22 +859,6 @@
       "duration_ms": 237560,
       "name": "Honest - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Indigo Puff",
-        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
       "artists": [
         {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 231721,
-      "name": "Indigo Puff",
-      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
+      "duration_ms": 247186,
+      "name": "Lover, Please Stay",
+      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+        "name": "Indigo Puff",
+        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 247186,
-      "name": "Lover, Please Stay",
-      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
+      "duration_ms": 231721,
+      "name": "Indigo Puff",
+      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/79zkXOJ2uCrl6pXQPPG1ME"
-      },
-      "artists": [
-        {
-          "name": "Pacific Air",
-          "url": "https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/3yt2uGIGep27Q3vtwMXM7d"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/0x0YbXUtghcHTTv8adby0j"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 182973,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3UKIiR93VUGPRcrAmCHU2Y"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/79zkXOJ2uCrl6pXQPPG1ME"
+      },
+      "artists": [
+        {
+          "name": "Pacific Air",
+          "url": "https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/3yt2uGIGep27Q3vtwMXM7d"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB"
+        "name": "The Temper Trap",
+        "url": "https://open.spotify.com/album/3KQtomPjY6Cgvo0mMDFY8s"
       },
       "artists": [
         {
-          "name": "Andrew Simple",
-          "url": "https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
         }
       ],
-      "duration_ms": 235174,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB"
+      "duration_ms": 279693,
+      "name": "Trembling Hands",
+      "url": "https://open.spotify.com/track/1RmbJuUUXafxb6kEZigEcg"
     },
     {
       "added_at": "2023-01-05 16:51:45",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-01-05 16:51:45",
       "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Simple",
+          "url": "https://open.spotify.com/artist/1M0cxaU3RraBiLTci09gxG"
+        }
+      ],
+      "duration_ms": 235174,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB"
+    },
+    {
+      "added_at": "2023-01-05 16:51:45",
+      "album": {
         "name": "Love Songs for Losers",
         "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 246133,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
-    },
-    {
-      "added_at": "2023-01-05 16:51:45",
-      "album": {
-        "name": "The Temper Trap",
-        "url": "https://open.spotify.com/album/3KQtomPjY6Cgvo0mMDFY8s"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Trembling Hands",
-      "url": "https://open.spotify.com/track/1RmbJuUUXafxb6kEZigEcg"
     },
     {
       "added_at": "2023-01-05 16:51:45",

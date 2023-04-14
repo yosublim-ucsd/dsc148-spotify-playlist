@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Eve
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,778 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,972 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 37 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 |
 | 38 | [Not Tonight \(feat\. Da Brat, Left Eye, Missy "Misdemeanor" Elliott and Angie Martinez\) \- Remix](https://open.spotify.com/track/42OhQBFNIbMyxRGxyPOvQA) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Angie Martinez](https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:12 |
 | 39 | [Gettin' Some](https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Block Music](https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR) | 3:22 |
-| 40 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
-| 41 | [Love Is Blind](https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Let There Be Eve...Ruff Ryders' First Lady](https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE) | 4:20 |
-| 42 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
-| 43 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
-| 44 | [Afro Puffs](https://open.spotify.com/track/156hYP1YuXlLEEtWVtuIIw) | [The Lady Of Rage](https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:48 |
+| 40 | [Love Is Blind](https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Let There Be Eve...Ruff Ryders' First Lady](https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE) | 4:20 |
+| 41 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
+| 42 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
+| 43 | [Afro Puffs](https://open.spotify.com/track/156hYP1YuXlLEEtWVtuIIw) | [The Lady Of Rage](https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:48 |
+| 44 | [What Ya Want](https://open.spotify.com/track/7trv6zFBS6YUuJsZf5U8uE) | [Ruff Ryders](https://open.spotify.com/artist/2q0HDEYPYC2oZjXgYqAWMZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Nokio](https://open.spotify.com/artist/6Cn6oLgoPl6s19Qo2AkxbM) | [Ryde Or Die, Vol.1](https://open.spotify.com/album/1mQkCjNNs32GHM7nlEpA2N) | 4:21 |
 | 45 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 | 46 | [Big Momma Thang](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
 | 47 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 50 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
 
-Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGEyYzc1NzYxYTMzNDI5NDRlNThjNmY0NGZkMzMzMmY2`
+Snapshot ID: `MTY3NzgxOTYwMCwwMDAwMDAwMGQ3MjQ5YjNkMGI3N2M0OTE3YzE5OTU3NjM1MmY5MTBm`

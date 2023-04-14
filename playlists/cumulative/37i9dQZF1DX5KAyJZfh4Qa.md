@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Sweet Pill
 
-100 songs - 5 hr 30 min
+101 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 | 2023-02-11 |  |
 | [Quick to Change](https://open.spotify.com/track/0giMELEPXXuYjt8zNEfeHS) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Retirement Party](https://open.spotify.com/album/2RkRj6eJxTf9DTUf2VdIBL) | 3:46 | 2022-11-25 |  |
 | [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 | 2022-11-25 | 2023-01-06 |
-| [Real Life](https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:44 | 2022-11-25 |  |
+| [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 | 2023-04-03 |  |
+| [Real Life](https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:44 | 2022-11-25 | 2023-04-14 |
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-25 | 2023-02-12 |
 | [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 |  |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-11-25 |  |

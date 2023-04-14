@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-140 songs - 8 hr 35 min
+141 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 | 2022-06-02 | 2023-01-18 |
 | [Achfa](https://open.spotify.com/track/5t1doPqDqgFotgdXezDeea) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/6OOqXK1DmU094IBelKPdha) | 3:40 | 2022-07-27 | 2023-01-12 |
 | [Adieu c'est fini](https://open.spotify.com/track/0dKRDmt9mpBhmhWsp1dpxU) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Sofiane DMC](https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u) | [Adieu c'est fini](https://open.spotify.com/album/4cWQhb83fr3KYK0sg99e3Q) | 6:32 | 2022-05-26 | 2022-08-20 |
+| [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 | 2023-04-14 |  |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-09 | 2023-02-07 |
 | [Ana & Rasi](https://open.spotify.com/track/5lEg43432gVU8BzwIJULVO) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Ana & Rasi](https://open.spotify.com/album/7F94Bil1ZSQviELlNzBtty) | 3:27 | 2021-12-09 | 2022-05-27 |
 | [Anta](https://open.spotify.com/track/3SaJambg6zRQ6MWf2pOAC9) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7) | [Anta](https://open.spotify.com/album/4vPYDw5xJNhJwqFDDJXyfY) | 2:43 | 2022-09-01 | 2022-09-09 |
@@ -34,7 +35,7 @@
 | [Bent Sultan](https://open.spotify.com/track/5XvzmPFcVRlfdlCw3KK2Jb) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Bent Sultan](https://open.spotify.com/album/2pQbg9uIkWzsUFeNxNU2nI) | 3:57 | 2021-12-09 |  |
 | [Bladi hiya el Djazair](https://open.spotify.com/track/4n0UiHNnwkgwQ8kCGRUJEH) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Algeria to Brazil \(22 titres originaux\)](https://open.spotify.com/album/1vQe7TMzcH64RJXN4DuxeN) | 3:24 | 2022-11-20 | 2022-11-25 |
 | [Bondia](https://open.spotify.com/track/5fu9Sc4DNuvQMWo5BxmgKH) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:59 | 2022-11-03 |  |
-| [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 | 2022-12-25 |  |
+| [Calma](https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Calma](https://open.spotify.com/album/71QAMPU0A2r9fVPFIXBjbu) | 4:14 | 2022-12-25 | 2023-04-14 |
 | [Caravan To Baghdad](https://open.spotify.com/track/3caRGauTC1JlnZldRHegmm) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Amine tefaha](https://open.spotify.com/artist/1YflNttEHeX8HtnJlngZ5L), [Arslane Bouras](https://open.spotify.com/artist/5d9Q3LiOKZNjeQVkiMP1Rm) | [Caravan To Baghdad](https://open.spotify.com/album/2scmA3Bz7R4MdoSfoatypC) | 2:58 | 2022-05-19 | 2023-03-18 |
 | [Chayef Ch'hal](https://open.spotify.com/track/4OtsNadXnYK0NDgmlZSCs8) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Chayef Ch'hal](https://open.spotify.com/album/78AH3bGTSnqg3TXCdKGvv3) | 3:19 | 2023-03-06 |  |
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-09 | 2022-08-23 |
@@ -101,7 +102,7 @@
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-02-28 | 2023-02-07 |
 | [Nar El Hob](https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Nar El Hob](https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5) | 3:26 | 2022-05-04 | 2022-08-20 |
 | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU) | 3:14 | 2022-07-13 | 2022-10-09 |
-| [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2023-02-06 |  |
+| [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2023-02-06 | 2023-04-14 |
 | [Nhassel fi Chkoune](https://open.spotify.com/track/1nQuz3XdgcRgYtCIGBN82I) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh) | [Nhassel fi Chkoune](https://open.spotify.com/album/0oSld3Mvd2nIvnhnAHvDOz) | 4:16 | 2021-12-09 | 2022-05-20 |
 | [No Stop](https://open.spotify.com/track/6VD64LAe1raY65BTkJdt5v) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [No Stop](https://open.spotify.com/album/14FD9LxC7IR05LPeDK5Ts9) | 3:46 | 2022-03-09 | 2023-02-07 |
 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 | 2021-12-09 | 2023-01-12 |

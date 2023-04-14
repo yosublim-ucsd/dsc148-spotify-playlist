@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-156 songs - 10 hr 59 min
+157 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Driving Wheel](https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:40 | 2022-06-14 | 2023-01-28 |
 | [Dry Run](https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Dry Run](https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH) | 3:16 | 2022-09-12 | 2022-09-17 |
 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 | 2022-10-03 |  |
+| [Elevator Ride](https://open.spotify.com/track/1zbl9UvKYIY319p7T8VGjp) | [Jen Mize](https://open.spotify.com/artist/2C3bFKXjKsUB3iBMJ6qLEP), [The Rough & Tumble](https://open.spotify.com/artist/3PrY8MR7AOxCZs9MmQjD8T) | [Elevator Ride](https://open.spotify.com/album/6VeuQwjxqAp8kHYVG3czyc) | 4:06 | 2023-04-14 |  |
 | [Ex's House Party](https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc) | 4:39 | 2022-11-17 | 2023-01-22 |
 | [Eyes on You](https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 4:50 | 2022-10-03 |  |
 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2022-05-25 |  |
@@ -61,7 +62,7 @@
 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 | 2022-07-08 |  |
 | [Forget What I Said](https://open.spotify.com/track/12tomJynzttjC14htb6SBE) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/5DiqFt60EYh2nEa3NzoCbp) | 3:19 | 2022-07-08 | 2022-07-21 |
 | [Fortunate Few](https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:25 | 2022-10-03 |  |
-| [Get These Blues Off Me](https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 4:28 | 2022-05-25 |  |
+| [Get These Blues Off Me](https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 4:28 | 2022-05-25 | 2023-04-14 |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-05-25 |  |
 | [Got Me a Party](https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Got Me a Party](https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk) | 2:20 | 2023-01-20 |  |
 | [Gravity](https://open.spotify.com/track/3KulI9oSHnhB9OZ41O3zMb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/5RGlC4xXZ5IxdySWnCfEnY) | 4:05 | 2022-05-25 | 2022-07-28 |

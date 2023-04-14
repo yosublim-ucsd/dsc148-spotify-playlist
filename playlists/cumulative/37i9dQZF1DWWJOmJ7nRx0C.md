@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Greta Van Fleet
 
-725 songs - 1 day 19 hr 28 min
+726 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,7 +685,8 @@
 | [Waiting On You](https://open.spotify.com/track/71f22NnyQgS5r0Ekyfrxrm) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Waiting On You](https://open.spotify.com/album/6I10Qzb2BTNRs6pftG2q54) | 3:16 | 2022-05-13 | 2022-07-29 |
 | [Waiting on You](https://open.spotify.com/track/7kAH59f7kgFaRScFnPI8BL) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Rain City Drive](https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm) | 3:16 | 2022-07-22 | 2023-02-25 |
 | [Wake Up Dead](https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead](https://open.spotify.com/album/6P0dS26zzxkYkxDFiLSrre) | 3:43 | 2022-04-01 | 2022-04-29 |
-| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 |  |
+| [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-04-07 |  |
+| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-20 | 2023-04-14 |
 | [War Inside of Me](https://open.spotify.com/track/5Ikzq8g78raDl7brDayxCk) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me](https://open.spotify.com/album/0c2tRUa9zzsyRp0tFbGdPG) | 2:53 | 2022-10-07 | 2023-01-14 |
 | [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/track/4Yg3nF8svtZsmNw9iUOtBM) | [ZILLION](https://open.spotify.com/artist/3pDWTeyjUZ0742NHsyUFjl), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [War Inside of Me \(feat\. Pop Evil\)](https://open.spotify.com/album/3vE2gbz9yzHbWESicfDrFZ) | 2:53 | 2022-07-29 | 2022-10-14 |
 | [Warrior](https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior](https://open.spotify.com/album/3nxyPoazh75KnTzqSXfRDY) | 2:47 | 2021-08-30 | 2022-01-15 |

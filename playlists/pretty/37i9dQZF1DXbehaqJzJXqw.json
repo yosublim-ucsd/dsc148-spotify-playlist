@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 272002,
+  "num_followers": 272434,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMwNjI3MSwwMDAwMDAwMDg2YTliYjFlYWRjYzQ0ODQ4Mjk0MmJmZWVkNzNkNjBi",
+  "snapshot_id": "MTY4MTMwNjI3MSwwMDAwMDAwMGNjMmZkNTRmMWQwMzFiODUyZWJiMmM5NDUwMWQyMWE0",
   "tracks": [
     {
       "added_at": "2023-03-28 12:41:06",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Hoping for Love",
-        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Le Poisson Des Mers Du Sud",
-      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 150973,
       "name": "Cette Nuit l\u00e0",
       "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Hoping for Love",
+        "url": "https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Antena",
+          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Le Poisson Des Mers Du Sud",
+      "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Manquait Plus Qu'Ca",
         "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 155120,
       "name": "M'envoyer des fleurs",
       "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Le Temps D'un Jazz",
+        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "DANIEL ROURE",
+          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Salle des pas perdus",
-      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
+      "duration_ms": 233653,
+      "name": "Le Temps D'Un Jazz",
+      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Le Temps D'un Jazz",
-        "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "DANIEL ROURE",
-          "url": "https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 233653,
-      "name": "Le Temps D'Un Jazz",
-      "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+      "duration_ms": 172293,
+      "name": "Salle des pas perdus",
+      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1095,22 +1095,6 @@
       "duration_ms": 169143,
       "name": "Quand on s'balade",
       "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "\u00c7a valait la peine",
-      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 323060,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/2UI4CNjKxIkCZ0g14ckmM9"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Paris Combo",
         "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 323060,
-      "name": "Ces bottes sont faites pour marcher",
-      "url": "https://open.spotify.com/track/2UI4CNjKxIkCZ0g14ckmM9"
+      "duration_ms": 111626,
+      "name": "\u00c7a valait la peine",
+      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1235,38 +1235,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 374243,
-      "name": "Le Mal de Vivre",
-      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "La mer opale",
-      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "La disparition",
         "url": "https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd"
       },
@@ -1283,6 +1251,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 374243,
+      "name": "Le Mal de Vivre",
+      "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "La Chapelle Au Clair De Lune",
         "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 187626,
       "name": "En septembre sous la pluie",
       "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "La mer opale",
+      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Jamais Seule",
+        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
+      },
+      "artists": [
+        {
+          "name": "Loane",
+          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Aim\u00e9",
+      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Chante Vian et Higelin",
         "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 141306,
       "name": "La Grippe",
       "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Jamais Seule",
-        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
-      },
-      "artists": [
-        {
-          "name": "Loane",
-          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Aim\u00e9",
-      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
     },
     {
       "added_at": "2023-03-28 12:41:06",

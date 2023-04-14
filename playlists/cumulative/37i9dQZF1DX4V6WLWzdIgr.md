@@ -4,7 +4,7 @@
 
 > Wes kadung sayang lalu ditinggal rabi 😢
 
-39 songs - 3 hr 9 min
+41 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,8 @@
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2021-09-08 |  |
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-02-03 |  |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2021-09-08 |  |
+| [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-13 |  |
+| [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 | 2023-04-13 |  |
 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 | 2021-09-08 |  |
 | [Sewates Konco](https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Destya Eka](https://open.spotify.com/artist/2tm1IWxQUHQJNbqZRIH49s) | [Sewates Konco](https://open.spotify.com/album/6X6IZWFp4R4ViCcXrJIXqs) | 5:03 | 2023-03-31 |  |
 | [Sing Tak Sayang Ilang](https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU) | [Dory Harsa](https://open.spotify.com/artist/4srslZ2sGZ7GQoikELwXsX) | [Sing Tak Sayang Ilang](https://open.spotify.com/album/1IUvBhHScJl87iPOS081TH) | 4:26 | 2021-09-08 |  |

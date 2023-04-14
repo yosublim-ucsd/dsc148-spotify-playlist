@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 265056,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe"
@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238761,
+      "name": "READY WHEN YOU ARE",
+      "url": "https://open.spotify.com/track/75Xk8awb6BTEC8ywUS151D"
+    },
+    {
+      "album": {
         "name": "Sashiiro",
         "url": "https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI"
       },
@@ -1877,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
+      "album": {
         "name": "Maybe I'll Find You Again",
         "url": "https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX"
       },
@@ -1949,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Sour Heart",
+        "url": "https://open.spotify.com/album/1omvXKTbAVKPArsEkljrs4"
+      },
+      "artists": [
+        {
+          "name": "Laura Ribeiro",
+          "url": "https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a"
+        },
+        {
+          "name": "Chocoholic",
+          "url": "https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217856,
+      "name": "Sour Heart",
+      "url": "https://open.spotify.com/track/5mt3zQZrKbAwkeez64zS7j"
+    },
+    {
+      "album": {
         "name": "Start Again",
         "url": "https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX"
       },
@@ -1967,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Still do",
+        "url": "https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224056,
+      "name": "Still do",
+      "url": "https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g"
       },
@@ -1982,7 +2058,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 226206,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs"
@@ -2062,7 +2138,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 185571,
       "name": "Telephone dream",
       "url": "https://open.spotify.com/track/7AlBJGFpGi9BR1HfaNWnDi"
@@ -2602,7 +2678,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"

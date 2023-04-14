@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-139 songs - 10 hr 33 min
+140 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 | 2022-06-22 |  |
 | [Bereden väg för Herran \(Psalm 103\)](https://open.spotify.com/track/5ByxDTuCTKA07FhevL1ISz) | [Anders Widmark Trio](https://open.spotify.com/artist/74lV0oMFa3sSpDxUlfZ5yI) | [Psalmer](https://open.spotify.com/album/58TQrEfi5T1bi5KQVhRJ9r) | 3:15 | 2021-11-08 |  |
 | [Björninnan](https://open.spotify.com/track/3oLPEf51U1bqzhShUUftHo) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Björninnan](https://open.spotify.com/album/0FnuW2ON9ZAjIXJek3svU4) | 2:26 | 2021-11-08 |  |
-| [Blinded by the Night](https://open.spotify.com/track/2XOZ0xW1TB3R0lrETZXtUH) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Everybody Digs](https://open.spotify.com/album/3rcp6HZfqgBfFHLmStvEXl) | 6:16 | 2021-11-08 |  |
+| [Blinded by the Night](https://open.spotify.com/track/2XOZ0xW1TB3R0lrETZXtUH) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Everybody Digs](https://open.spotify.com/album/3rcp6HZfqgBfFHLmStvEXl) | 6:16 | 2021-11-08 | 2023-04-14 |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Blåa dar](https://open.spotify.com/track/1cYCRmHWTGc76LovSirNJF) | [Anders Boson Jazz Ensemble](https://open.spotify.com/artist/41da8g6o6JZKF3sX5OOYaL) | [Blåa Dar](https://open.spotify.com/album/75na6wT3GKe2HUEczxKBiQ) | 4:31 | 2023-03-23 |  |
 | [Brudmarsch från Boda](https://open.spotify.com/track/3k3h25bsMzaXMSsWEhRi7Q) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DVjEzweNkvMlFBepu9crb) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/7bkTkuMV6QvkKBVkWJf7Sf) | 2:09 | 2023-03-23 |  |
@@ -141,6 +141,7 @@
 | [Värmlandsvisan](https://open.spotify.com/track/2AlHBryGkTFdhCcXWxfMKb) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Värmlandsvisan](https://open.spotify.com/album/0lsjVtRIR5S7Av3J0zY1Ab) | 2:56 | 2021-11-08 | 2022-07-29 |
 | [Walk and Talk](https://open.spotify.com/track/0V41B4y5ttrA7QqyKzJ9oM) | [Karl Olandersson](https://open.spotify.com/artist/4Sx4xZbzOfZm3aXJ3icVe7) | [Walk and Talk](https://open.spotify.com/album/0g1u4YLCnzvakanT4ZJllC) | 4:20 | 2021-11-08 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UmSpoIcHl74x58dleXMul) | [Isabella Lundgren](https://open.spotify.com/artist/58Ftd7Tzkeve7Ht36LYL2j), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Look for the Silver Lining](https://open.spotify.com/album/5vDSlnXD8tdlY8KmhbizcX) | 3:03 | 2021-11-08 |  |
+| [Whole Foods](https://open.spotify.com/track/2ZWejGOCrCBCh5XWpSRLlM) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Whole Foods](https://open.spotify.com/album/5ayHH5soMQKXwsARFxFIPE) | 6:38 | 2023-04-13 |  |
 | [Winterpoem](https://open.spotify.com/track/26ObAFYbpsN1l5Cq2DdvNc) | [Tommy Kotter Trio](https://open.spotify.com/artist/4BBORrvVDzZFAA54IZ04JO), [Tommy Kotter](https://open.spotify.com/artist/52Y2n1SPSTH6e4Qz1Qe6OX), [Yasuhito Mori](https://open.spotify.com/artist/0gSsRQJ7tNMmQv7yT2KRFv), [David Sundby](https://open.spotify.com/artist/40gguU9UmxYcqyLnEVk7hz) | [Improvisation](https://open.spotify.com/album/3XUusOZ3SM8gvOfEfvoXFo) | 4:29 | 2021-11-08 |  |
 | [Wish You Were Gay](https://open.spotify.com/track/4S5d8XmM81odJDBC3laDJT) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:07 | 2022-06-22 | 2022-12-02 |
 | [Wish You Were Gay](https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Wish You Were Gay](https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb) | 3:07 | 2021-11-08 |  |

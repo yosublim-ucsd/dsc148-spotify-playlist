@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
 
-148 songs - 12 hr 11 min
+150 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dalan Gronjal \- From "Cidro Asmoro"](https://open.spotify.com/track/6tfxkAa670aN3qNTFJYJ8n) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Dalan Gronjal \(From "Cidro Asmoro"\)](https://open.spotify.com/album/5SPba33BiUJoctUYy6h8oi) | 5:32 | 2023-02-09 |  |
 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 | 2022-05-26 | 2022-06-10 |
 | [Dalan Liyane \- Koplo](https://open.spotify.com/track/1vJ6MxPyg7ICttbTvKhvJL) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Dalan Liyane \(Koplo\)](https://open.spotify.com/album/44FEnvngkJ8rX2K0gacMqe) | 4:12 | 2022-05-26 |  |
+| [Dalane Ati](https://open.spotify.com/track/6cd5f1jT2FZrT3A9cUQ6xl) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Dalane Ati](https://open.spotify.com/album/1WSI89Vc8q4KTPdpsaY1EE) | 5:36 | 2023-04-13 |  |
 | [Damar Opo Lilin](https://open.spotify.com/track/7mbw5J7jSrcUJnWF5QCCeu) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Damar Opo Lilin](https://open.spotify.com/album/7zgynxvALxYEkXDEvvWvEl) | 4:42 | 2022-05-26 | 2022-06-17 |
 | [Dinggo Bukti \(Acoustic\) \- Live](https://open.spotify.com/track/1AVahi38InAvtCnPjRden4) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Acoustic \(Live\)](https://open.spotify.com/album/7c18hfhW7SzmQYfcHyNSWK) | 5:51 | 2022-05-26 | 2022-06-10 |
 | [Durung Ikhlas](https://open.spotify.com/track/0dokrFBhI5MAJ9UYGplJWx) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Durung Ikhlas](https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr) | 4:02 | 2023-02-03 |  |
@@ -39,7 +40,7 @@
 | [Full Senyum Sayang](https://open.spotify.com/track/1MgqHpz3FQLaaUSK7fhGvL) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/2JXj5teDGxv4RQ2KfWfSIy) | 4:06 | 2022-10-07 | 2023-02-18 |
 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 | 2022-07-01 | 2022-10-11 |
 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 | 2023-02-16 |  |
-| [ganti ayang](https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [ganti ayang](https://open.spotify.com/album/5lgxKOsUiNGYHhRqY6VgJQ) | 4:36 | 2022-07-01 |  |
+| [ganti ayang](https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [ganti ayang](https://open.spotify.com/album/5lgxKOsUiNGYHhRqY6VgJQ) | 4:36 | 2022-07-01 | 2023-04-14 |
 | [Gemati](https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/2enGHcl2AbelLyrkd7VhkG) | 4:38 | 2022-11-14 | 2023-02-15 |
 | [Gemati](https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/6lxoEW6DXryJb8wP4wSz1d) | 4:38 | 2023-02-09 |  |
 | [Gerombolan Mantan](https://open.spotify.com/track/6OXCe6zKZnFNYM6NvyJMMd) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Gerombolan Mantan](https://open.spotify.com/album/3Gs9Z8x3X9dj00lJ5eLHVb) | 3:21 | 2023-03-02 |  |
@@ -78,7 +79,7 @@
 | [Moro Moro Teko \- From "Cidro Asmoro"](https://open.spotify.com/track/2Dbdw6yYIatVj2ka3tUa8l) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Moro Moro Teko \(From "Cidro Asmoro"\)](https://open.spotify.com/album/2A3Acl80HV6wwTqFiVURi8) | 4:46 | 2022-05-26 | 2022-11-14 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 |  |
 | [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 | 2023-03-03 |
-| [Ngapura](https://open.spotify.com/track/6kUpP1bV37DKjSiEiwvSzm) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Ngapura](https://open.spotify.com/album/1peHbBIKdEoejW32BBh7Zq) | 4:26 | 2022-05-26 |  |
+| [Ngapura](https://open.spotify.com/track/6kUpP1bV37DKjSiEiwvSzm) | [Gerap Gurita](https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz) | [Ngapura](https://open.spotify.com/album/1peHbBIKdEoejW32BBh7Zq) | 4:26 | 2022-05-26 | 2023-04-14 |
 | [Ngeliyo](https://open.spotify.com/track/2cFLpZRRzUt8amkXI2lJ66) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Ngeliyo](https://open.spotify.com/album/7oPQIl6KbUr9uAfbAywkOq) | 5:03 | 2023-03-15 |  |
 | [Ngeman](https://open.spotify.com/track/0ZQWph1RquCqAPhBrRaC5C) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Ngeman](https://open.spotify.com/album/5Q92SAizxdSn2L2DinpKJH) | 3:59 | 2023-01-20 |  |
 | [Ngemong Ati](https://open.spotify.com/track/2QnOedQK855tVUnNEhrb1n) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Ngemong Ati](https://open.spotify.com/album/5skqolqrAXZwxnZRb0h5ld) | 4:54 | 2023-03-30 |  |
@@ -111,7 +112,7 @@
 | [Ra Bakal Keganti](https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Ra Bakal Keganti](https://open.spotify.com/album/0QRVAgABQ1R6wrNPhzpshS) | 4:09 | 2022-05-26 | 2022-12-09 |
 | [Raiso Dadi Siji](https://open.spotify.com/track/3gA9NVMBvhfztFQRYxCzx8) | [Difarina Indra Adella](https://open.spotify.com/artist/0ForVkf5ioNFzly6SjAzkC), [Fendik Adella](https://open.spotify.com/artist/6dNBjlIEj3aWcYBvH82XQq) | [Raiso Dadi Siji](https://open.spotify.com/album/3cfccXUASX1GMldjNhn3tV) | 5:26 | 2023-03-06 |  |
 | [Raiso Dadi Siji](https://open.spotify.com/track/2AmH9mOGhfr4I8el6dLaVO) | [Dike Sabrina](https://open.spotify.com/artist/0GNWekJiQIg0kUCCJqjgGF) | [Raiso Dadi Siji](https://open.spotify.com/album/09OJPKUUSaxq43trhC0zsw) | 4:19 | 2023-03-15 |  |
-| [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 |  |
+| [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 | 2023-04-14 |
 | [Roso Atiku](https://open.spotify.com/track/6OCoaRux8abVtVxPhE5N0M) | [Rindra Putra](https://open.spotify.com/artist/48eHObVYwCaw6k3ct9mWCO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Roso Atiku](https://open.spotify.com/album/6f3YYxy5mYMnH8Bx4iN6eJ) | 6:01 | 2022-05-26 |  |
 | [Roso Atiku](https://open.spotify.com/track/1d8I3k13qDu1lbRQ8xDqeh) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Roso Atiku](https://open.spotify.com/album/6qHPSIAC97V7cV2SD8C3BO) | 4:45 | 2022-05-26 | 2022-06-10 |
 | [Rungkad](https://open.spotify.com/track/07eMEyNQOl1j6Wo5d9LDjI) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rungkad](https://open.spotify.com/album/3F0PuEp4j1Fug3FIPSottp) | 5:08 | 2022-12-14 | 2023-02-16 |
@@ -122,6 +123,7 @@
 | [Sambat](https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Sambat](https://open.spotify.com/album/51FhShmdp9AHOVwTd4rNT4) | 3:40 | 2023-02-02 |  |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2022-05-26 | 2022-08-26 |
 | [Sanes](https://open.spotify.com/track/6xbi77Vq9RALnKc59kSXIS) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sanes](https://open.spotify.com/album/0EhdH1xsrPR1YjSMCjr4Wf) | 5:01 | 2023-04-12 |  |
+| [Sanes](https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sanes](https://open.spotify.com/album/1il9TxFotfDyWgAzq4q2K5) | 5:04 | 2023-04-13 |  |
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2022-05-26 |  |
 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 | 2022-05-26 |  |
 | [satru 2](https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [satru 2](https://open.spotify.com/album/575vP6DZdLtJiMBTPMo5Hq) | 4:45 | 2022-07-01 |  |

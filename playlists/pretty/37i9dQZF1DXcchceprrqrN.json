@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 31372,
+  "num_followers": 31530,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDhjYzIxODY2YmU3YzI2ZTNlNjQ4NjI2YzFiY2Q5YmU3",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDQyOGYzNDcwZWVlN2FjMDAzMGRkMDViZDYwMmZkZWEx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Applause",
-        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
-      },
-      "artists": [
-        {
-          "name": "Liily",
-          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Frights",
         "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 259239,
       "name": "Crust Bucket",
       "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Bass Drum of Death",
         "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 229946,
       "name": "Crawling After You",
       "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Boat Songs",
-        "url": "https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "Hangover Game",
-      "url": "https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Get Damaged",
         "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 180266,
       "name": "Becky",
       "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Boat Songs",
+        "url": "https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "Hangover Game",
+      "url": "https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Makes Me Sick Makes Me Smile",
-        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+        "name": "Hand Grenade",
+        "url": "https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG"
       },
       "artists": [
         {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
         }
       ],
-      "duration_ms": 230381,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/2LmFju01RfconFtiqKtmMb"
+      "duration_ms": 177168,
+      "name": "Hand Grenade",
+      "url": "https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0"
     }
   ],
   "unique_name": "hair dye",

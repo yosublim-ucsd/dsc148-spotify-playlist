@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-237 songs - 15 hr 14 min
+239 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 | 2021-12-15 |  |
 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-06-30 |  |
 | [Fixed It All](https://open.spotify.com/track/1kfn8rDlkRsuHZCOBLSj26) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/2SU0zDS8TIZ1kVSYEaqq5w) | 4:21 | 2021-12-15 | 2022-07-29 |
+| [Flowers for Handcuffs](https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz) | 2:53 | 2023-04-14 |  |
 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 | 2021-12-15 | 2022-07-29 |
 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 |  |
 | [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2022-07-29 |
@@ -148,7 +149,7 @@
 | [Murderology](https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn) | [Yard of Blondes](https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg) | [Murderology](https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti) | 4:23 | 2021-12-15 | 2022-07-28 |
 | [My time](https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [Garage Is Dead](https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH) | 3:44 | 2022-04-17 |  |
 | [Nasty Habits](https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX) | 3:58 | 2022-06-30 | 2022-07-29 |
-| [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2022-04-17 |  |
+| [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2022-04-17 | 2023-04-14 |
 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 | 2022-06-30 | 2022-11-06 |
 | [Never Let You Go](https://open.spotify.com/track/0GK8EEqEtmkWk3l0oktBgH) | [The Bad News](https://open.spotify.com/artist/6kH8meMNRgXiIpF8vMqQkc) | [The Bad News](https://open.spotify.com/album/5LcGP2S4Of0XmCDtsQalCb) | 2:56 | 2021-12-31 | 2022-07-29 |
 | [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-17 |  |
@@ -201,6 +202,7 @@
 | [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 | 2022-06-30 |  |
 | [So Sorry](https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Thousand Shadows Vol.1](https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3) | 3:21 | 2022-04-17 |  |
 | [Someone Will Come For You](https://open.spotify.com/track/4hzHtrLB8mWhLqDA4WC8ub) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [Someone Will Come For You](https://open.spotify.com/album/4WE7A9E3ed18Z9ZbU3ip8V) | 3:32 | 2023-02-03 | 2023-02-15 |
+| [Sometimes I Wanna Fight](https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I) | 3:22 | 2023-03-30 |  |
 | [Sometimes I Wanna Fight](https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/1Mw2YPYz9Ed4TzjFo0pgSG) | 3:22 | 2021-12-15 | 2023-01-27 |
 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 | 2021-12-15 |  |
 | [Spring Harvest](https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Spring Harvest](https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll) | 3:36 | 2023-01-26 |  |
@@ -219,7 +221,7 @@
 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 | 2022-06-30 |  |
 | [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 | 2023-04-13 |
 | [The Ejector Side](https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [The Ejector Side](https://open.spotify.com/album/4zjmdGy8wezpjAwXwPboBx) | 2:53 | 2021-12-30 | 2022-07-25 |
-| [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 |  |
+| [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 | 2023-04-14 |
 | [The Party](https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4) | 3:15 | 2022-11-28 | 2023-02-02 |
 | [The Party](https://open.spotify.com/track/763AHSnGhS2mBy5jhdGUio) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/449OW4ceXx64cWDDCrHM0i) | 3:15 | 2022-01-27 | 2022-04-20 |
 | [The Password](https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx) | [Merge](https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m) | [Ineffable](https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz) | 4:14 | 2022-03-24 |  |

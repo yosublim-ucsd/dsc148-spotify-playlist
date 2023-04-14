@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 370510,
+  "num_followers": 370506,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY0Mzc1NywwMDAwMDAwMDY1OWViOTI4MzdmNTg2YWY1NTc1MmM1OGVmNGJmMDAx",
+  "snapshot_id": "MTY3MzY0Mzc1NywwMDAwMDAwMDQwMjRhOWI3MWVmYjhkN2QxM2IxMGU1ZDNiN2IwYjg1",
   "tracks": [
     {
       "added_at": "2023-01-13 21:02:37",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "The Joker And The Queen",
-      "url": "https://open.spotify.com/track/3NuLxTXowTRcguTh9RsPmM"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
       },
@@ -1443,22 +1427,18 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Slidin' (feat. Kodak Black)",
-        "url": "https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 156300,
-      "name": "Slidin' (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/173ff06by7Ujur3An4cHWf"
+      "duration_ms": 185586,
+      "name": "The Joker And The Queen",
+      "url": "https://open.spotify.com/track/3NuLxTXowTRcguTh9RsPmM"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1479,6 +1459,26 @@
       "duration_ms": 203947,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Slidin' (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156300,
+      "name": "Slidin' (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/173ff06by7Ujur3An4cHWf"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "ok on your own",
-      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Meteorite",
         "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "ok on your own",
+      "url": "https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw"
     },
     {
       "added_at": "2023-01-13 21:02:37",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 239053,
       "name": "Burning Bridges - Acoustic Version",
       "url": "https://open.spotify.com/track/5RsLCQoBZPriFVQ5rkITVt"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
     },
     {
       "added_at": "2023-01-13 21:02:37",

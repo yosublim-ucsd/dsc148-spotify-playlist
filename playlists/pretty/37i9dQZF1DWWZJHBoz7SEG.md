@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Junior H, Gabito Ballesteros y Peso Pluma; Cazzu y Young Miko, LA FIRMA, y más para disfrutar Semana Santa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,568 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,706 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

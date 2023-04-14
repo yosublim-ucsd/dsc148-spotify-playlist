@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,993 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,152 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 84 | [Cocktails](https://open.spotify.com/track/3wyFLLFpboXM3tRxQqMNwX) | [doVicente](https://open.spotify.com/artist/3LZegs6tK4WeVei1K0WaNU), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Cocktails](https://open.spotify.com/album/5XU8F5Of2syUtb1p0LR5od) | 2:54 |
 | 85 | [Sexy](https://open.spotify.com/track/7H6prnTv8tLlZQSW3c50Q4) | [Blanche](https://open.spotify.com/artist/7r9SvYfMdBZECjHhwS9AmQ) | [Sexy](https://open.spotify.com/album/2CQFr1P0ullkVZiK3rUei3) | 2:33 |
 | 86 | [Dépêche\-toi](https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f) | 3:16 |
-| 87 | [Dis\-moi où on va](https://open.spotify.com/track/0xpHgDh6JZbnjOKitcIz7h) | [Ferielle](https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN) | [Dis\-moi où on va](https://open.spotify.com/album/4r5iY4vz9XaLuvYe1bmbMC) | 3:47 |
+| 87 | [dis\-moi où on va](https://open.spotify.com/track/0xpHgDh6JZbnjOKitcIz7h) | [Ferielle](https://open.spotify.com/artist/5mec3516HpwhOAlfoEmjKN) | [dis\-moi où on va](https://open.spotify.com/album/4r5iY4vz9XaLuvYe1bmbMC) | 3:47 |
 | 88 | [Back to Heaven](https://open.spotify.com/track/3tJ8ICMDwtw0oisXLiGhA7) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Walking On the Line](https://open.spotify.com/album/0IzRb9JqkitCfJaayIBkf4) | 3:39 |
 | 89 | [Dans les strass](https://open.spotify.com/track/3R4bENsQh9W0exzSiwobQ9) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Nuits sans sommeil](https://open.spotify.com/album/4C9Kpy7l6PPlPljLlwbKO2) | 3:24 |
 | 90 | [Burning Hour](https://open.spotify.com/track/2dje3ZBu1j1r0QfR7mtS0l) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Hyper Romance](https://open.spotify.com/album/08oR5PmpCJQ9FfWjsQtpXc) | 4:38 |

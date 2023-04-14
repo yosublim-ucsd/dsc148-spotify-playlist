@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,464 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,605 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 15 | [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 |
 | 16 | [Culpables](https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Culpables](https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w) | 3:46 |
 | 17 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
-| 18 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/4rbj52UIyw3wd42EMaS0Tp) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
+| 18 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
 | 19 | [YaMeFui](https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [YaMeFui](https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2) | 3:02 |
 | 20 | [Como Estrellas](https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM) | 3:39 |
 | 21 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 52 | [Dejar Atrás / Rompe Corazones](https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:05 |
 | 53 | [Desperte Sin Ti \(Remix\)](https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Desperte Sin Ti \(Remix\)](https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh) | 5:19 |
 | 54 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
-| 55 | [C14TORCE II](https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE II](https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk) | 3:16 |
-| 56 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
+| 55 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
+| 56 | [C14TORCE II](https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE II](https://open.spotify.com/album/7xKDKUJqp6Q2hxpH3ny9Jk) | 3:16 |
 | 57 | [Quedate Sola](https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Quedate Sola](https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl) | 4:30 |
 | 58 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |
 | 59 | [Primera Vez](https://open.spotify.com/track/0jRnQ0qTi3BRei6p0AunAH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 |
 | 100 | [Aguacero](https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Aguacero](https://open.spotify.com/album/7g8vsyjuRMKX8dGXdt8c65) | 3:16 |
 
-Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDhlN2U3OWM5MGJkZGU3MjNhZWE0Yzc5ZWUxODk5Zjdh`
+Snapshot ID: `MTY3MDU1NDgwMCwwMDAwMDAwMDljNmU5MmQ4MWViMTAyMTk0YWRjZmNmZjg0NGFiMmJj`

@@ -134,7 +134,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 213750,
       "name": "Apart Together",
       "url": "https://open.spotify.com/track/0X7YZdWOn5deNtx5WUJZGV"
@@ -1547,6 +1547,28 @@
     },
     {
       "album": {
+        "name": "Lost Souls",
+        "url": "https://open.spotify.com/album/3bND9QfvmMqYSi2j3Y8p5y"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+        },
+        {
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184994,
+      "name": "Lost Souls",
+      "url": "https://open.spotify.com/track/5Vxu6H5I0j0R5HQrODozRq"
+    },
+    {
+      "album": {
         "name": "MAKI",
         "url": "https://open.spotify.com/album/5GcKpNowan68GzPLcW1WKX"
       },
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 195468,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/2IsmnQVMlumwHQ4vAkaVIa"
@@ -2010,6 +2032,32 @@
       "duration_ms": 188793,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5ic27VIYvnEnHgBuXWLa9a"
+    },
+    {
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK"
+      },
+      "artists": [
+        {
+          "name": "ATSY x Taner",
+          "url": "https://open.spotify.com/artist/5AaJLPsvIhcIx2ZlgGTlvB"
+        },
+        {
+          "name": "Burnhaze",
+          "url": "https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J"
+        },
+        {
+          "name": "Amin Salmee",
+          "url": "https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215644,
+      "name": "River",
+      "url": "https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ"
     },
     {
       "album": {

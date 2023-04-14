@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De Mi",
+        "url": "https://open.spotify.com/album/1lLfKvbH4T00XyWPg5grYF"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235093,
+      "name": "Lo Mejor de Mi",
+      "url": "https://open.spotify.com/track/5cEGQnaurid1T3sI5LyIL1"
+    },
+    {
+      "album": {
         "name": "Solo Lo Mejor",
         "url": "https://open.spotify.com/album/3e46Eikg0L550c67joreHb"
       },
@@ -5334,7 +5352,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 189626,
       "name": "Que Te la Pongo",
       "url": "https://open.spotify.com/track/0ZacQFzx0DShPZOwf7IdZS"

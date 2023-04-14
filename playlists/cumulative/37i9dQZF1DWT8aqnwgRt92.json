@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 253300,
       "name": "Akatsuki",
       "url": "https://open.spotify.com/track/574u5IAlTW7pCG5C8oRlJO"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 234474,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/0Gq4an04Rw1eXUyKrUonve"
@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cSPY\u00d7FAMILY\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV"
       },
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 217789,
       "name": "KIRIKIZU",
       "url": "https://open.spotify.com/track/4axioKS5nckvIhhZgfFxd5"
@@ -8130,7 +8148,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 233133,
       "name": "\u30b9\u30af\u30ef\u30c3\u30c9!",
       "url": "https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd"
@@ -8496,6 +8514,28 @@
       "duration_ms": 176116,
       "name": "\u30c8\u30ea\u30c3\u30af\u30fb\u30a2\u30fc\u30c8",
       "url": "https://open.spotify.com/track/466WrVxdpRXkuRDU4vF16l"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        },
+        {
+          "name": "Chinozo",
+          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2"
     },
     {
       "album": {
@@ -11040,6 +11080,24 @@
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
+    },
+    {
+      "album": {
+        "name": "\u7d42\u7109\u306eDestiny",
+        "url": "https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv"
+      },
+      "artists": [
+        {
+          "name": "\u6e15\u4e0a \u821e",
+          "url": "https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u7d42\u7109\u306eDestiny",
+      "url": "https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-128 songs - 6 hr 2 min
+129 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,8 +81,9 @@
 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 | 2021-04-08 |  |
 | [Put Your Head on My Shoulder](https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Sings His Favorites](https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ) | 2:35 | 2021-04-07 |  |
 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 | 2021-04-07 |  |
+| [River of No Return](https://open.spotify.com/track/6B9SSmR5pQ8goIU8lCf7Lz) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Presenting Marilyn Monroe](https://open.spotify.com/album/7Hw28V8PQSnZRO9H5NxRjb) | 2:13 | 2022-05-30 |  |
 | [River of No Return](https://open.spotify.com/track/1JQdEwIjo3lzhaMWUvrIzV) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Saga All Stars: Heat Wave / Selected Film Tracks 1950\-1957](https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ) | 2:15 | 2021-04-07 | 2022-07-29 |
-| [Rivers Of No Return](https://open.spotify.com/track/0Smy9pU6cl87BUJsBO1PIN) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Essentials](https://open.spotify.com/album/2KarlyCvqzzVdsbhGaH2bI) | 2:14 | 2022-05-30 |  |
+| [Rivers Of No Return](https://open.spotify.com/track/0Smy9pU6cl87BUJsBO1PIN) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [The Essentials](https://open.spotify.com/album/2KarlyCvqzzVdsbhGaH2bI) | 2:14 | 2022-05-30 | 2023-04-14 |
 | [Since I Don't Have You](https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You](https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL) | 2:40 | 2021-04-07 | 2022-07-29 |
 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 | 2022-05-30 |  |
 | [Since I Dont Have You](https://open.spotify.com/track/5fejU6RLfBJymV8HHbGm94) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Love Songs Of The 50's](https://open.spotify.com/album/19EI1NMrvy4Il88NHqPex6) | 2:39 | 2022-05-30 | 2022-11-13 |

@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Hay Niveles (Deluxe)",
+        "url": "https://open.spotify.com/album/57wH0J3vSAfAGuBFfofS9r"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Nom\u00e1s El Pilar Qued\u00f3",
+      "url": "https://open.spotify.com/track/61KmU6lrXP0GPITY0uo47P"
+    },
+    {
+      "album": {
         "name": "Olv\u00eddala Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6VJ0vupv8Zz3Ixm9IbybTr"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 219813,
       "name": "Seria Una Flor",
       "url": "https://open.spotify.com/track/4gAEmR4qMioTuqRmKN9B3S"

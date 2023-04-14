@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179076,
       "name": "Amorphous",
       "url": "https://open.spotify.com/track/3C8zrHlJxohCkkofSuuoQO"
@@ -56300,7 +56300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 138326,
       "name": "Mad Hatters",
       "url": "https://open.spotify.com/track/65y6tOf0C8XFuQE6bpPZzL"
@@ -62692,7 +62692,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 134256,
       "name": "My House, Your Rules",
       "url": "https://open.spotify.com/track/6qAFemH2WWhEM9ZNn5dcBN"
@@ -73450,7 +73450,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 101647,
       "name": "Present",
       "url": "https://open.spotify.com/track/0ICLmKVuRYleOtxyrp2fQ8"
@@ -77661,6 +77661,24 @@
     },
     {
       "album": {
+        "name": "Roadburn",
+        "url": "https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV"
+      },
+      "artists": [
+        {
+          "name": "Oslo",
+          "url": "https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104594,
+      "name": "Roadburn",
+      "url": "https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi"
+    },
+    {
+      "album": {
         "name": "Roadmap",
         "url": "https://open.spotify.com/album/1w4ibNlF67RGfAIM5EIGQR"
       },
@@ -78836,7 +78854,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 143657,
       "name": "Sail Slow",
       "url": "https://open.spotify.com/track/5RgT76SQWQY6ACdPaWx1ZW"
@@ -83172,7 +83190,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 143773,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get"
@@ -84534,6 +84552,28 @@
       "duration_ms": 108000,
       "name": "So What's Next",
       "url": "https://open.spotify.com/track/2K7WZXs3r1xkhTuopHTBkf"
+    },
+    {
+      "album": {
+        "name": "Soaring Anticipation",
+        "url": "https://open.spotify.com/album/0RKoDZUssXKqMYSVmumcNj"
+      },
+      "artists": [
+        {
+          "name": "Hydrogenii",
+          "url": "https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF"
+        },
+        {
+          "name": "POSTPARTUM.",
+          "url": "https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Soaring Anticipation",
+      "url": "https://open.spotify.com/track/3uEg8h7ZvNbUOSO8Er0Cjf"
     },
     {
       "album": {

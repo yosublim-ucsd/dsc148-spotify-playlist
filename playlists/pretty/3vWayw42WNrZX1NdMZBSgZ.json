@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Becky G, Peso Pluma",
-  "num_followers": 56492,
+  "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Marshmello, Farruko",
+  "num_followers": 56485,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "Mzc1NSxiNDM1NDk1ODA5NjZkMWRmZTk4OTc0MmFjNWVjYmU2ZDc0ZjNiODM3",
+  "snapshot_id": "Mzc1OCw5YjQ0Y2FkZDk4NWNkYzI2MDdiZjliYmM5OTQ1MGRkNWIzYzk5NjNl",
   "tracks": [
+    {
+      "added_at": "2023-04-14 00:02:14",
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
     {
       "added_at": "2023-03-31 00:09:14",
       "album": {

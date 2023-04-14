@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Vicenta
 
-338 songs - 20 hr 31 min
+339 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Nudo](https://open.spotify.com/track/5b5tle4kRgZuhHj0p0WLB7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:25 | 2022-04-15 | 2022-07-29 |
 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 | 2022-07-22 | 2022-12-10 |
 | [NUNCA +](https://open.spotify.com/track/1pYUCxr8jevPjnbmMXlusx) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Carliane Tamara](https://open.spotify.com/artist/0cYMTYd2asosLnMfAiQEZX) | [NUNCA +](https://open.spotify.com/album/4VhWGDxXEveBrL8GdeQkWn) | 3:24 | 2023-04-07 |  |
+| [Obsesión \- Remix](https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Obsesión \(Remix\)](https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9) | 3:30 | 2023-04-13 |  |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2022-09-23 | 2023-01-28 |
 | [Papel](https://open.spotify.com/track/4rE16lTqf0Itc1jcpnyDYx) | [May Villalobos](https://open.spotify.com/artist/2v6dIFNgGkqAwvSdeR6D8D), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Papel](https://open.spotify.com/album/1qmqSiUdglS1nHtMpGDFAt) | 3:06 | 2022-04-15 | 2023-01-28 |
 | [Para la Patada y el Combo](https://open.spotify.com/track/5EqJ3TSj75pQHoegv0qT5U) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Palabritas y Palabrotas](https://open.spotify.com/album/3Vg9TvBUqkOZRDj0qPNazM) | 3:06 | 2022-10-07 |  |
@@ -283,7 +284,7 @@
 | [Somos los Mismos de Siempre](https://open.spotify.com/track/01GpVopX5wsjHrSwU5IKiQ) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Somos los Mismos de Siempre](https://open.spotify.com/album/5eSI1GGV109quSOi7YXreh) | 4:28 | 2022-04-15 | 2022-07-29 |
 | [Sonámbulo](https://open.spotify.com/track/27yWuiO04OMNr0ikpQj0Oo) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Sonámbulo](https://open.spotify.com/album/6XGv3w6gzMpsxesukAXsGi) | 3:09 | 2022-04-15 | 2022-12-10 |
 | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/track/4h0uvgfrsbblEhfn98qO51) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6) | [Suave \(Fernanda Arrau Remix\)](https://open.spotify.com/album/6zgo4JJtSQmDlg7gcAWEo0) | 5:00 | 2022-04-15 | 2022-07-26 |
-| [sudreik](https://open.spotify.com/track/0H5ntnGLMwYbmhnHjicnYZ) | [HAKANNA](https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO), [Joshvatunes](https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc) | [sudreik](https://open.spotify.com/album/1nfU1ud5v3bMwpoFeeitI6) | 2:57 | 2023-02-17 |  |
+| [sudreik](https://open.spotify.com/track/0H5ntnGLMwYbmhnHjicnYZ) | [HAKANNA](https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO), [Joshvatunes](https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc) | [sudreik](https://open.spotify.com/album/1nfU1ud5v3bMwpoFeeitI6) | 2:57 | 2023-02-17 | 2023-04-14 |
 | [Sulamita](https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Sulamita](https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp) | 4:26 | 2022-07-22 | 2022-10-20 |
 | [Sulamita](https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 4:26 | 2022-10-14 |  |
 | [Supernova](https://open.spotify.com/track/54iljSq1Sdn7ujYKiN4sal) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN) | [Supernova](https://open.spotify.com/album/6ujuBLcCHGjvpD6CxEqmy4) | 3:54 | 2022-07-01 | 2022-08-20 |

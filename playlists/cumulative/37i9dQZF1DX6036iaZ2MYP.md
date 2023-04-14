@@ -2,7 +2,7 @@
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Aya Nakamura
+> Tracks popping off in the Afro scene\. Cover: Victor Thompson
 
 143 songs - 7 hr 18 min
 

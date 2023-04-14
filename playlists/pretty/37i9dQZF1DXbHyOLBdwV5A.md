@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Kennto, YoungJhow, JoyFull
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,129 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,188 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 37 | [Não Sou Merecedor](https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Não Sou Merecedor](https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89) | 2:27 |
 | 38 | [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Caio Cesar](https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 |
 | 39 | [Festa de Crente](https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Bruninho Music](https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH) | [Festa de Crente](https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ) | 2:15 |
-| 40 | [Tropa de Jesus Eletro](https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Igor Dj](https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw), [Junior Souto](https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2) | [Tropa de Jesus Eletro](https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf) | 2:45 |
-| 41 | [Controle](https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Controle](https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx) | 4:07 |
+| 40 | [Controle](https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Controle](https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx) | 4:07 |
+| 41 | [Tropa de Jesus Eletro](https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Igor Dj](https://open.spotify.com/artist/5X7UJPMUcLHr9bdcnnRxSw), [Junior Souto](https://open.spotify.com/artist/0NQgbieTc1NAJnrc2ZH6F2) | [Tropa de Jesus Eletro](https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf) | 2:45 |
 | 42 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
 | 43 | [Uma Vida É Pouco pra Te Amar \- Remix](https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2), [Izaac Santos](https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip) | [Uma Vida É Pouco pra Te Amar \(Remix\)](https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0) | 2:41 |
 | 44 | [Rei da Glória](https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Fabio Martin](https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E) | [Rei da Glória](https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9) | 4:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 75 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDM0NDJjMDFhNTA0MjE0NWNiMTdkYTBmODkyYTEyOTM0`
+Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMDE2Njk2OTAxZmE3NDg5NzM4NWUyYWMzZTZmNjcwNjA5`

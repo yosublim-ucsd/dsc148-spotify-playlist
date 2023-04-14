@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 55129,
+  "num_followers": 55246,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDE1YWU0NDdlNmNhZThlYWU2N2Y5N2IwOWRjZDlhMDQy",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDM3YThkMTM4NGVjNjU1NmZjMGQzNmZmZDY5N2JjMTJi",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Ongiara",
-        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Your Rocky Spine",
-      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 271600,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Mouthfuls",
-        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "When U Love Somebody",
-      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Mouthfuls",
+        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Crane Wife",
-        "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Sons & Daughters",
-      "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 257213,
       "name": "Ready, Able",
       "url": "https://open.spotify.com/track/5mIbLV3Aa4NcQDgMY4XgCT"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Crane Wife",
+        "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 313600,
+      "name": "Sons & Daughters",
+      "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Convict Pool",
-        "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Alone Again Or",
-      "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Ghosts of the Great Highway",
         "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 381040,
       "name": "Carry Me Ohio",
       "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Convict Pool",
+        "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Alone Again Or",
+      "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
     },
     {
       "added_at": "2022-02-04 22:01:34",

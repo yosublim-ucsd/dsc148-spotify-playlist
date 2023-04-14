@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633871,
+  "num_followers": 633866,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMDZiOTg2ZDU5M2Q3NGQ0NzNmYWU4MWE2ZjI3Yzk2NGYy",
+  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMDczMmZiZTk2NDU4N2I0N2M2M2I0MzJiN2EyMGM2MGM0",
   "tracks": [
     {
       "added_at": "2023-03-30 15:48:08",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "My Halo Orbit",
         "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 199923,
       "name": "My Halo Orbit",
       "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
       "artists": [
         {
-          "name": "Ljomo",
-          "url": "https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt"
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
         }
       ],
-      "duration_ms": 252000,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
       "artists": [
         {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+          "name": "Ljomo",
+          "url": "https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+      "duration_ms": 252000,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Meadow / Forests",
-        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
       "artists": [
         {
-          "name": "Sebastian Winskog",
-          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+          "name": "They Dream By Day",
+          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
         }
       ],
-      "duration_ms": 140878,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
+      "duration_ms": 134210,
+      "name": "We Are Forever",
+      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
       },
       "artists": [
         {
-          "name": "They Dream By Day",
-          "url": "https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV"
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
         }
       ],
-      "duration_ms": 134210,
-      "name": "We Are Forever",
-      "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+      "duration_ms": 140878,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
+        "name": "The Acoustic Mind - Vol. 1",
+        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Trigo",
+          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
+        }
+      ],
+      "duration_ms": 172589,
+      "name": "Headroom",
+      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 193095,
       "name": "Winter Night Mist",
       "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
-        "name": "The Acoustic Mind - Vol. 1",
-        "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
-      },
-      "artists": [
-        {
-          "name": "Aur\u00e9lien Trigo",
-          "url": "https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE"
-        }
-      ],
-      "duration_ms": 172589,
-      "name": "Headroom",
-      "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
-      },
-      "artists": [
-        {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 267756,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "duration_ms": 129274,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
         "name": "The Seasons",
         "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Dramatique Musique Classique",
-        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
-      },
-      "artists": [
-        {
-          "name": "Marcel Depuis",
-          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Pavane, Op. 50",
-      "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1411,34 +1411,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Time Capsule",
-        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+        "name": "Dramatique Musique Classique",
+        "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
       },
       "artists": [
         {
-          "name": "Moments Of Divinity",
-          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+          "name": "Marcel Depuis",
+          "url": "https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa"
         }
       ],
-      "duration_ms": 129274,
-      "name": "Time Capsule",
-      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
-        "name": "The Shortest Flight",
-        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 118600,
-      "name": "The Shortest Flight",
-      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
+      "duration_ms": 208596,
+      "name": "Pavane, Op. 50",
+      "url": "https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Healing Keys of Light",
-        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
+        "name": "The Shortest Flight",
+        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Healing Keys of Light",
-      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
+      "duration_ms": 118600,
+      "name": "The Shortest Flight",
+      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1487,6 +1471,22 @@
       "duration_ms": 213878,
       "name": "Liquid Air",
       "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Healing Keys of Light",
+        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Healing Keys of Light",
+      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Memory Canvas",
-        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
-      },
-      "artists": [
-        {
-          "name": "Kilometre Club",
-          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
-        }
-      ],
-      "duration_ms": 215418,
-      "name": "Becker's",
-      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Aion",
         "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+        "name": "Memory Canvas",
+        "url": "https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
+      "duration_ms": 215418,
+      "name": "Becker's",
+      "url": "https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1615,6 +1599,22 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Purity 432hz",
+        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Purity 432hz",
+      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
     }
   ],
   "unique_name": "DayDreamer",

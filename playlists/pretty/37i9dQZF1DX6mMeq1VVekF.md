@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,676 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,757 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 57 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 58 | [Hello](https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Unlimited](https://open.spotify.com/album/72vlLzn1FIEi1mHwJjfsW5) | 2:58 |
 | 59 | [Memories](https://open.spotify.com/track/1ENMwElCCao8ejBvXCjWN1) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:44 |
-| 60 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
+| 60 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
 
-Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMDk4NTMzZDg5ZTE4YTYzMzYwNDk4ZDQxNWI4NDNlNGU2`
+Snapshot ID: `MTY2Njk1MzM3MCwwMDAwMDAwMGVmNjc2NjkxYzY2ZmE4ODg2NTU5YzhhZjFmZGIxM2Mx`

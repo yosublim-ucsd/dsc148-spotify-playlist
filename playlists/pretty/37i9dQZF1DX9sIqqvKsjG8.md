@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,302 likes - 320 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,725,342 likes - 320 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 189 | [Time Lapse](https://open.spotify.com/track/7xVyUAYKQ2a2Z8509J2EI3) | [Reece Marshburn](https://open.spotify.com/artist/2qzyY3Znnk0VZka0UQ9Zqk) | [Time Lapse](https://open.spotify.com/album/1DjuJspUziskT5uTPrJtVB) | 2:58 |
 | 190 | [Patchouli](https://open.spotify.com/track/3QIfNvbHw3XP1y6uN9mEeU) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Images](https://open.spotify.com/album/79tOBdX8qqoeTOMyb561af) | 1:52 |
 | 191 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 |
-| 192 | [On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 |
+| 192 | [Bowden: On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 |
 | 193 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 |
 | 194 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 |
 | 195 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 |

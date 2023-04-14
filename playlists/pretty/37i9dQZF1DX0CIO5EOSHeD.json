@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 420785,
+  "num_followers": 421010,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDkwNzdhZWI0ZjY2MmM0MGJiMTQ3MDAzY2E0ZmI4MGFj",
+  "snapshot_id": "MTY3Nzc4NTQ5MSwwMDAwMDAwMDdhNjc3ZjdiOTU1YjNiMmEzYTU0ZmQyOTY3YzM0Njhi",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Big Day",
         "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 152571,
       "name": "High",
       "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
-      "added_at": "2022-12-13 12:51:47",
-      "album": {
-        "name": "Pastlife (Deluxe)",
-        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 182203,
-      "name": "Cold Like Me",
-      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
-    },
-    {
       "added_at": "2022-09-13 23:04:24",
       "album": {
         "name": "I Want To Be With You",
@@ -1011,6 +995,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
+    },
+    {
+      "added_at": "2022-12-13 12:51:47",
+      "album": {
+        "name": "Pastlife (Deluxe)",
+        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 182203,
+      "name": "Cold Like Me",
+      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
+      },
+      "artists": [
+        {
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
+      },
+      "artists": [
+        {
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "i run like this",
         "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 136506,
       "name": "i want to die in your arms",
       "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
       },
       "artists": [
         {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
         }
       ],
-      "duration_ms": 297567,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/6jPznbXCFgzmQqcvrrRH2L"
       },
       "artists": [
         {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+      "duration_ms": 297567,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/3RdOdQF97UdwklpRXudSV8"
     },
     {
       "added_at": "2022-09-13 23:04:24",

@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 95046,
+  "num_followers": 95114,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDk2NWI0Y2Q4ZmQ3ZGYyNjYxMTViYzIxMTFhMDhmNmE5",
+  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMGIyY2EyZDYwN2M0MGYzYWNmNWVkMjQxOWY0MjgwNDRh",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+        "name": "Quiero Amanecer",
+        "url": "https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO"
       },
       "artists": [
         {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
         }
       ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
+      "duration_ms": 172170,
+      "name": "Quiero Amanecer",
+      "url": "https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Quiero Amanecer",
-        "url": "https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO"
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
       "artists": [
         {
-          "name": "Bareto",
-          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
         }
       ],
-      "duration_ms": 172170,
-      "name": "Quiero Amanecer",
-      "url": "https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH"
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Expreso Tropical Parada 1",
-        "url": "https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9"
-      },
-      "artists": [
-        {
-          "name": "Corazon Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Decid\u00ed Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Mejor Que Nunca...Sola Hay Una...!",
         "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 243533,
       "name": "Voy a Buscarme un Amor",
       "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n De Iquitos",
+          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
+        }
+      ],
+      "duration_ms": 246141,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
     }
   ],
   "unique_name": "Cumbias de Oro",

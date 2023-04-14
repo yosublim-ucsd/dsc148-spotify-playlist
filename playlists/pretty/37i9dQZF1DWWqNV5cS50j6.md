@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Curtis Waters makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,596 likes - 113 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,636 likes - 113 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 42 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 43 | [MONA LISA](https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5) | 3:41 |
 | 44 | [Hypnotized \(with skaiwater\)](https://open.spotify.com/track/1QwoK3ypxUCpvyBqAkpFrn) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Disturb The Norm](https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA) | 1:59 |
-| 45 | [until my heart stops beating](https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [until my heart stops beating](https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6) | 3:24 |
+| 45 | [until my heart stops beating](https://open.spotify.com/track/4lLD8aU0V105kUOYj3h4sJ) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:24 |
 | 46 | [I Did Drugs For You](https://open.spotify.com/track/3MwKRb5GB9phdL9ktdvBsv) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [I Did Drugs For You](https://open.spotify.com/album/1slOW8dpDzyLjFJ2BPNHoO) | 3:12 |
 | 47 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 |
 | 48 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 112 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
 | 113 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
 
-Snapshot ID: `MTY4MTMxNTMyOSwwMDAwMDAwMDdlYWVmNWI1OWUxNGVkOThhODI5ZmQxMTdlMWJlMjQ1`
+Snapshot ID: `MTY4MTMxNTMyOSwwMDAwMDAwMDdkNmI1ZjM4ZjkwOTE5YmYxMDY2NTE5M2ZiNmM1M2Ex`

@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165213,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx"
@@ -2358,6 +2358,24 @@
       "duration_ms": 196160,
       "name": "Old Sob Story",
       "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
+    },
+    {
+      "album": {
+        "name": "On A Roll",
+        "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
     },
     {
       "album": {

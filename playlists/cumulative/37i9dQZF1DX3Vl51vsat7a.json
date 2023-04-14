@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Mayberg",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: LIE NING",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 189420,
       "name": "Confession",
       "url": "https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 224033,
       "name": "coq au vin",
       "url": "https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 96693,
       "name": "Das Sch\u00f6nste",
       "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr jeden aber nicht f\u00fcr dich",
+        "url": "https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134385,
+      "name": "F\u00fcr jeden aber nicht f\u00fcr dich",
+      "url": "https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI"
+    },
+    {
+      "album": {
         "name": "Ghetto Tekkno",
         "url": "https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq"
       },
@@ -1390,6 +1408,24 @@
       "duration_ms": 165240,
       "name": "I See Love",
       "url": "https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp"
+    },
+    {
+      "album": {
+        "name": "utopia",
+        "url": "https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215366,
+      "name": "i see you",
+      "url": "https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm"
     },
     {
       "album": {
@@ -2196,7 +2232,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 211800,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT"
@@ -2424,7 +2460,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 200464,
       "name": "pressure & release",
       "url": "https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY"
@@ -2468,6 +2504,24 @@
       "duration_ms": 244023,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs"
+    },
+    {
+      "album": {
+        "name": "rimini tape",
+        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
     },
     {
       "album": {
@@ -2636,6 +2690,24 @@
       "duration_ms": 285336,
       "name": "She's A Star",
       "url": "https://open.spotify.com/track/1WTdWqP7VUEVuSrBcoAAtU"
+    },
+    {
+      "album": {
+        "name": "Shirt & Handtuch",
+        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214786,
+      "name": "Shirt & Handtuch",
+      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
     },
     {
       "album": {
@@ -2972,6 +3044,24 @@
       "duration_ms": 209902,
       "name": "This Ain't Your Home",
       "url": "https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK"
+    },
+    {
+      "album": {
+        "name": "Time (is a healer)",
+        "url": "https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228064,
+      "name": "Time (is a healer)",
+      "url": "https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8"
     },
     {
       "album": {

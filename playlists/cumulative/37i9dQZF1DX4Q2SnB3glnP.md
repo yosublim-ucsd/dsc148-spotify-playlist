@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-267 songs - 14 hr 14 min
+269 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2021-12-08 |  |
 | [Calm](https://open.spotify.com/track/3Pcd6tCQ84hbnBDhkIhO4g) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [New Light](https://open.spotify.com/album/5CFrWmXkc0iHtduRrZYgmY) | 3:35 | 2021-12-08 |  |
 | [Calm Waters](https://open.spotify.com/track/5ipVdxQrpHlOWHC0sRFavT) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Water & Harp \- vol.1](https://open.spotify.com/album/6BFMvYIexJIrHC7PGqBf7I) | 3:12 | 2021-12-08 |  |
+| [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 | 2023-04-14 |  |
 | [Calming Violin](https://open.spotify.com/track/48c5vYKQayPMiohaGiOhcm) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Songs To Let Go](https://open.spotify.com/album/57Bw2jFpmGB0bASSgbBwir) | 3:06 | 2021-12-08 | 2023-03-18 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2021-12-08 |  |
 | [Cianalas](https://open.spotify.com/track/4kLNF1BFyLnJ3sQjcS7Rqm) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Cianalas](https://open.spotify.com/album/0gArimZ25shLa9v1Y2CYVi) | 2:45 | 2021-12-08 |  |
@@ -205,6 +206,7 @@
 | [Self Disintegrator](https://open.spotify.com/track/53p4YtXM09rYmXAtcpccfh) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Yet Undiscovered](https://open.spotify.com/album/5DKtUx5YIWfeT0LKsrCY2R) | 4:00 | 2021-12-08 | 2022-08-24 |
 | [Self\-Reflection](https://open.spotify.com/track/5zeo2UddrkVqbHg7dt3jYb) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Self\-Reflection](https://open.spotify.com/album/10khRZPxXlxObbjZGHWLpV) | 2:50 | 2021-12-08 |  |
 | [Semper Fidelis](https://open.spotify.com/track/554NJ5Ny6aTx4UqUG07BsW) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 3:18 | 2022-09-30 |  |
+| [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 |  |
 | [Separated](https://open.spotify.com/track/24Q4s34r5lTO9bCkdZnNaO) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Separated](https://open.spotify.com/album/3PGOAxYU1IJgQgwTY0ddSQ) | 2:37 | 2021-12-08 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2021-12-08 |  |
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2021-12-08 |  |

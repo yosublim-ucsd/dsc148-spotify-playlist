@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 471381,
+  "num_followers": 471413,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDRmNDI3ZDdjMDkyNzJlZWI2OGI4ZGNlMDg3ZDA0OWUy",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDAwNDdiOGQwMTNhY2IzNGI4OWM1YWQ3NjQ3NzQ4ZmYy",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/794IGyga5qnhlzOUimLOMw"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Trouble\u2019s Coming",
         "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 228400,
       "name": "Trouble\u2019s Coming",
       "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/794IGyga5qnhlzOUimLOMw"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Myopic",
-        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Myopic",
-      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "You Deserve Love",
         "url": "https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 237013,
       "name": "Might Be Right",
       "url": "https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Myopic",
+        "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Myopic",
+      "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Voodoo Science",
         "url": "https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 241859,
-      "name": "Lava Lamp Pisco",
-      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Need You No More",
-        "url": "https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm"
+        "name": "Back Foot",
+        "url": "https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ"
       },
       "artists": [
         {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Need You No More",
-      "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
+      "duration_ms": 188653,
+      "name": "Back Foot",
+      "url": "https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Back Foot",
-        "url": "https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ"
+        "name": "Need You No More",
+        "url": "https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm"
       },
       "artists": [
         {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
         }
       ],
-      "duration_ms": 188653,
-      "name": "Back Foot",
-      "url": "https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH"
+      "duration_ms": 198133,
+      "name": "Need You No More",
+      "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Present Is a Foreign Land",
-        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 201177,
-      "name": "Going Clear",
-      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 197777,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Present Is a Foreign Land",
+        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 201177,
+      "name": "Going Clear",
+      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Seven White Horses",
-        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
-      },
-      "artists": [
-        {
-          "name": "Starbenders",
-          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
-        }
-      ],
-      "duration_ms": 220816,
-      "name": "Seven White Horses",
-      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Seven White Horses",
+        "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "duration_ms": 220816,
+      "name": "Seven White Horses",
+      "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+        "name": "STATUES (v2)",
+        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
       },
       "artists": [
         {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
         }
       ],
-      "duration_ms": 257398,
-      "name": "Father Of Lies",
-      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+      "duration_ms": 293354,
+      "name": "STATUES (v2)",
+      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "STATUES (v2)",
-        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
+        "name": "Eye For An Eye",
+        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
       },
       "artists": [
         {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
         }
       ],
-      "duration_ms": 293354,
-      "name": "STATUES (v2)",
-      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
+      "duration_ms": 184931,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
-      },
-      "artists": [
-        {
-          "name": "Loose Lips",
-          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
-        }
-      ],
-      "duration_ms": 184931,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "FLAG (Feel Like A Girl)",
         "url": "https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG"
       },
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+        "name": "One + One",
+        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
       "artists": [
         {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
         }
       ],
-      "duration_ms": 127093,
-      "name": "Choking",
-      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+      "duration_ms": 226296,
+      "name": "One + One",
+      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "One + One",
-        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
       "artists": [
         {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 226296,
-      "name": "One + One",
-      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "The Next Curse",
+        "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
+      },
+      "artists": [
+        {
+          "name": "Slothrust",
+          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        }
+      ],
+      "duration_ms": 241638,
+      "name": "The Next Curse",
+      "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 187447,
       "name": "Tear Me To Pieces",
       "url": "https://open.spotify.com/track/5zJiFmoADZPlvXPO1PuI0d"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "The Next Curse",
-        "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
-      },
-      "artists": [
-        {
-          "name": "Slothrust",
-          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
-        }
-      ],
-      "duration_ms": 241638,
-      "name": "The Next Curse",
-      "url": "https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 196457,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Come On",
-        "url": "https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m"
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/5ImkIruicv0jQFE6jv2bbA"
       },
       "artists": [
         {
-          "name": "Mondo Cozmo",
-          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+          "name": "Mourners",
+          "url": "https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7"
         }
       ],
-      "duration_ms": 209528,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU"
+      "duration_ms": 190212,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/4sFfItk3bF8wrs1KmTJxU6"
     },
     {
       "added_at": "2023-03-17 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 225596,
+  "num_followers": 225773,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMDExYjg2NDhhMzFiOWY2ZTdkZmRkMzI2N2Q3OGY0Mjcy",
+  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMDBlNGNhY2Y0NDg4ZmIzOTk4MWY2OWI1YmNmZmNiZWQw",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Soul Searchin'",
-        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 292786,
       "name": "I Just Can't Let Go",
       "url": "https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Soul Searchin'",
+        "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+      },
+      "artists": [
+        {
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+        }
+      ],
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Take My Time",
         "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
       },
@@ -847,38 +863,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Quinella",
-        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
-      },
-      "artists": [
-        {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
-        }
-      ],
-      "duration_ms": 284186,
-      "name": "That Girl Is Gone",
-      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Quinella",
+        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Desert Moon",
-        "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
-      },
-      "artists": [
-        {
-          "name": "Dennis DeYoung",
-          "url": "https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68"
-        }
-      ],
-      "duration_ms": 368800,
-      "name": "Desert Moon",
-      "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Invisible Touch",
         "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 230533,
       "name": "Throwing It All Away",
       "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Desert Moon",
+        "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
+      },
+      "artists": [
+        {
+          "name": "Dennis DeYoung",
+          "url": "https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68"
+        }
+      ],
+      "duration_ms": 368800,
+      "name": "Desert Moon",
+      "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "It Will Be Alright",
-      "url": "https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "All Dressed Up",
         "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 230417,
       "name": "Anywhere You Run To",
       "url": "https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "It Will Be Alright",
+      "url": "https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM"
     },
     {
       "added_at": "2023-03-30 14:38:10",

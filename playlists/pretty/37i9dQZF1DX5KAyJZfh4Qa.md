@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Sweet Pill
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,001 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,126 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 35 | [Jimmy Neutron](https://open.spotify.com/track/0QQHnDejdUQbpnOhPgyYmE) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Jimmy Neutron](https://open.spotify.com/album/7dBwBWAzcOAJmXma3PeQ5G) | 3:51 |
 | 36 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
 | 37 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
-| 38 | [Real Life](https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:44 |
+| 38 | [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 |
 | 39 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 |
 | 40 | [Make It Happen](https://open.spotify.com/track/2PtUBYpj5WHsmlzLxTQslG) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Denent](https://open.spotify.com/album/0rIM5fJXyZXGL27qoaqeuu) | 3:07 |
 | 41 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [If This is Sadness, I Don't Like It One Bit](https://open.spotify.com/track/3ttOAHJLXSoWRpN5oYLlRd) | [Mt\. Oriander](https://open.spotify.com/artist/2Kq6yQuA3lw7tMfUvPQYXo), [Joie De Vivre](https://open.spotify.com/artist/1sUOIv1YrZ2WRmTg0GRi0V), [Warren Franklin](https://open.spotify.com/artist/5ub2IP1YottOMHKb6ECb8b) | [Then the Lightness Leaves and I Become Heavy Again](https://open.spotify.com/album/7s5pO2fLBtRuSqY1SSm6lK) | 3:24 |
 | 80 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 
-Snapshot ID: `MTY4MDUzODIzMSwwMDAwMDAwMDRmYzEyMzI5ZWQzOWYxMWEwYTBmMTI2MDM3ZDQ4N2Fi`
+Snapshot ID: `MTY4MDUzODIzMSwwMDAwMDAwMDk2NDQ0YTc1ZWRhYzM5ZmFjMjdhYjI2MTNiZTVhOWUy`

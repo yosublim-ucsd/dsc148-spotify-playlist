@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7166,
+  "num_followers": 7180,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODI0MywwMDAwMDAwMDA4NmQyNGZiOTdlNWQ4OTJmZGUwN2I3MzM1YjNiNTc0",
+  "snapshot_id": "MTY4MDI1ODI0MywwMDAwMDAwMGRjYjAzNzJlNzc4YWZmMjYxOWU2ZGJjMGRkYmYwYWIw",
   "tracks": [
     {
       "added_at": "2023-03-27 08:17:10",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-03-27 08:17:10",
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
-      },
-      "artists": [
-        {
-          "name": "Chuu",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        },
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
-    },
-    {
-      "added_at": "2023-03-27 08:17:10",
-      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-03-27 08:17:10",
+      "album": {
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        },
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
     },
     {
       "added_at": "2023-03-27 08:17:10",

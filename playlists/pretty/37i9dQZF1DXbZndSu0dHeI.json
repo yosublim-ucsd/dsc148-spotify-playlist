@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 167637,
+  "num_followers": 167723,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI3NzA0NiwwMDAwMDAwMDY4ODIwNDIzOGY5MzllNDc4MTY1NjRiMzNiOGY5NmUy",
+  "snapshot_id": "MTY3ODI3NzA0NiwwMDAwMDAwMDNmNTU3MzE5N2IwYWE3NDU0MGI0MmExOTM4YTBjNmMz",
   "tracks": [
     {
       "added_at": "2023-01-13 13:15:53",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Birdcage",
+      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 193240,
       "name": "Call Me in the Afternoon",
       "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Atlas",
@@ -975,6 +959,22 @@
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Quiet Is The New Loud",
-        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "I Don't Know What I Can Save You From",
-      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "So My Darling",
-        "url": "https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku"
+        "name": "Quiet Is The New Loud",
+        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
         }
       ],
-      "duration_ms": 269914,
-      "name": "So My Darling",
-      "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
+      "duration_ms": 277506,
+      "name": "I Don't Know What I Can Save You From",
+      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1103,6 +1087,22 @@
       "duration_ms": 191493,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "So My Darling",
+        "url": "https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 269914,
+      "name": "So My Darling",
+      "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "About A Boy Soundtrack",
-        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
-      },
-      "artists": [
-        {
-          "name": "Badly Drawn Boy",
-          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Del Water Gap",
@@ -1231,6 +1215,22 @@
       "duration_ms": 241168,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "About A Boy Soundtrack",
+        "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
+      },
+      "artists": [
+        {
+          "name": "Badly Drawn Boy",
+          "url": "https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Hot & Heavy",
-        "url": "https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Hot & Heavy",
-      "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "The Boy With The Arab Strap",
         "url": "https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 314173,
       "name": "The Boy With The Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Hot & Heavy",
+        "url": "https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Hot & Heavy",
+      "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
     },
     {
       "added_at": "2022-08-05 10:31:40",

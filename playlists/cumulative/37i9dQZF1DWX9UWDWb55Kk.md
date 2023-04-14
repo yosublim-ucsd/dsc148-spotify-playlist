@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-355 songs - 22 hr 42 min
+356 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2021-09-01 |  |
 | [Feel More / With Less](https://open.spotify.com/track/2zDUCq8qmxMAMoMDH1PZ49) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Liela Moss](https://open.spotify.com/artist/69yCD4Jh0p9vCdm6WbhWx6), [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1) | [The Road: Part II / Lost Highway](https://open.spotify.com/album/5HnywhepRUiWBiBqJ7Xs5k) | 6:02 | 2021-09-01 |  |
 | [Feelings](https://open.spotify.com/track/6ljsncathslMO7j041HwBF) | [Rush Week](https://open.spotify.com/artist/0OBjNPFO2EhBB5apG0s5Ur) | [Feelings](https://open.spotify.com/album/0fOCPxvNBLLyD6XdxJhD8L) | 3:27 | 2021-09-01 |  |
-| [Female Trouble](https://open.spotify.com/track/66MPgb5iW49G83HerzsRuQ) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Steady Lover](https://open.spotify.com/album/70U0rtni5bQ41VNX34KHv4) | 3:55 | 2022-11-24 |  |
+| [Female Trouble](https://open.spotify.com/track/2StdiVkAqF28qtbRhjpKMq) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Steady Lover](https://open.spotify.com/album/4dcRrknsqUK9wJtq0FdCeS) | 3:55 | 2022-11-24 |  |
+| [Female Trouble](https://open.spotify.com/track/66MPgb5iW49G83HerzsRuQ) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Steady Lover](https://open.spotify.com/album/70U0rtni5bQ41VNX34KHv4) | 3:55 | 2022-11-24 | 2023-04-14 |
 | [Fiebre \(Prod\. King DouDou\)](https://open.spotify.com/track/5xtxxuIqInrLDSfjA6Co3o) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Slow Wine Mixtape](https://open.spotify.com/album/0ShnVtpw8BRsf8vzHVQvas) | 4:07 | 2021-09-01 |  |
 | [Final Feliz](https://open.spotify.com/track/2W2Pq6Ysd0wZTSq1xQTAlZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Final Feliz](https://open.spotify.com/album/586rQ6vz35Wf4VKvZmFKoS) | 3:05 | 2021-09-01 |  |
 | [Flerte Revival](https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 3:10 | 2022-04-08 |  |

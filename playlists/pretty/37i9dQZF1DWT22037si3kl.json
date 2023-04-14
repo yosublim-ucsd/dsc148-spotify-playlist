@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: WC no Beat, Young Mafia",
-  "num_followers": 94822,
+  "num_followers": 94973,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMDhhYjlmOGE0MWM2YTEwMjlhMzYzNTM5ZGY4OTQ3MmUy",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGQ1ODkzODM1NThjY2I5NGE2MWRmMTZlOWYwYjg2YzU2",
   "tracks": [
     {
       "added_at": "2023-03-31 19:56:02",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
     },
     {
-      "added_at": "2023-04-13 00:09:14",
+      "added_at": "2023-04-14 00:04:53",
       "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
@@ -927,30 +927,6 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
-        "name": "Rel\u00f3gio",
-        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 160796,
-      "name": "Rel\u00f3gio",
-      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
-    },
-    {
-      "added_at": "2023-03-31 19:56:02",
-      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
+    },
+    {
+      "added_at": "2023-03-31 19:56:02",
+      "album": {
+        "name": "Rel\u00f3gio",
+        "url": "https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 160796,
+      "name": "Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
     },
     {
       "added_at": "2023-03-31 19:56:02",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
-        "name": "Silenciador",
-        "url": "https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Silenciador",
-      "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
-    },
-    {
-      "added_at": "2023-03-31 19:56:02",
-      "album": {
         "name": "Louis Vuitton",
         "url": "https://open.spotify.com/album/1djSlbou23jCXL7EUzDIZy"
       },
@@ -1195,26 +1171,6 @@
     {
       "added_at": "2023-03-31 19:56:02",
       "album": {
-        "name": "Dores",
-        "url": "https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 195224,
-      "name": "Dores",
-      "url": "https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P"
-    },
-    {
-      "added_at": "2023-03-31 19:56:02",
-      "album": {
         "name": "Melhor Gest\u00e3o",
         "url": "https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT"
       },
@@ -1235,6 +1191,50 @@
       "duration_ms": 206281,
       "name": "Melhor Gest\u00e3o",
       "url": "https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg"
+    },
+    {
+      "added_at": "2023-03-31 19:56:02",
+      "album": {
+        "name": "Silenciador",
+        "url": "https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Silenciador",
+      "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
+    },
+    {
+      "added_at": "2023-03-31 19:56:02",
+      "album": {
+        "name": "Dores",
+        "url": "https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 195224,
+      "name": "Dores",
+      "url": "https://open.spotify.com/track/1QR6k0AkMSjAe05bB1Cu2P"
     },
     {
       "added_at": "2023-03-31 19:56:02",
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/34wNrOoymUk3WuTsmYleuT"
     },
     {
-      "added_at": "2023-04-13 00:09:14",
+      "added_at": "2023-04-14 00:04:53",
       "album": {
         "name": "Dog Mal",
         "url": "https://open.spotify.com/album/33XVi2HdqcGZRcwVskVZ8a"

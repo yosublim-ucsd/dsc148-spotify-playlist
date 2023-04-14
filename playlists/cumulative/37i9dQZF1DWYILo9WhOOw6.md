@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-92 songs - 4 hr 46 min
+93 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Behind the Wall \(Delta Wave 2.5 Hz\)](https://open.spotify.com/track/7HLvT7GdFDKARKPx4Kqs4M) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian \(Binaural Beat Remix\)](https://open.spotify.com/album/5MDw4nbZfhpreocqNAShM1) | 3:44 | 2023-01-20 |  |
 | [Binaural 1HZ Delta \- 87HZ \- 88HZ](https://open.spotify.com/track/0dkDiq6NzOTStndyEBdi6W) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Healing Sines Binaural](https://open.spotify.com/album/0AbJLoQG79vDi859ELxGJi) | 2:13 | 2023-01-20 |  |
 | [Binaural Beats \(Healing Music\)](https://open.spotify.com/track/7e3DMaYWz3PyUfjGu8vWKa) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleeping Music: Soothing Binaural Beats and Dream Sleep Sounds for Deep Sleep, Relaxing Sleep Aid, Asmr and Sleep Music](https://open.spotify.com/album/22yQ8lgVEHKJyVrOvrMiNe) | 1:57 | 2023-01-20 |  |
+| [Binaural Delta 110\-112 Hz](https://open.spotify.com/track/3kZpjmsjqQW56uOxxHBMII) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Binaural Delta 110\-112 Hz](https://open.spotify.com/album/0Ah1ciN69hSt2YtZB1YTiE) | 2:55 | 2023-04-13 |  |
 | [Binaural Delta 2 Hz](https://open.spotify.com/track/4HbRNPuvixnD5XDlIK6AnO) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2023-01-20 |  |
 | [Binaural Delta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/1LSQ8a2oFahaR1pxzXdUMc) | [Heals My Heart](https://open.spotify.com/artist/5QPA7LX2GxnEwy9Fybc6ge) | [Binaural Delta Sinus 100 Hz \- 101 Hz](https://open.spotify.com/album/0jH9JHE9uqA3lYgDMBQR2S) | 2:24 | 2023-01-20 |  |
 | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/track/6JXlGLYJT2DnpM9yzmJSGG) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/album/1pP5mixoFr0RTFJ3SzKQji) | 2:21 | 2023-01-20 |  |

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-216 songs - 13 hr 30 min
+217 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-03-11 | 2023-04-01 |
 | [Joyful Noise \- The Colleagues remix](https://open.spotify.com/track/3UBF6emB78JFBl1cl3tgan) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW), [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Love Euphoria](https://open.spotify.com/album/30KIjBSM3C6FzgR4aRuncF) | 4:06 | 2023-02-24 | 2023-03-11 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-10-03 |  |
+| [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 | 2023-02-25 |
 | [Last Request](https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [The Anthology](https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD) | 5:35 | 2021-12-03 | 2022-07-29 |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-08 |  |
@@ -155,7 +156,7 @@
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-03-11 | 2023-03-29 |
 | [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 | 2022-11-11 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-24 |  |
-| [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 |  |
+| [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 | 2023-04-14 |
 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 | 2022-10-21 |  |
 | [People Get Ready \- From "I Can't Breathe / Music For the Movement"](https://open.spotify.com/track/3LERAXOWvNVreOnYySWU7U) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [People Get Ready \(From "I Can't Breathe / Music For the Movement"\)](https://open.spotify.com/album/0MmKsaUxCz8XZrwKoLSFDG) | 3:34 | 2021-12-03 | 2022-07-29 |
 | [Perspective](https://open.spotify.com/track/28MAAESOa6h4OgYLBBd9TK) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3) | 2:57 | 2023-03-10 | 2023-04-09 |

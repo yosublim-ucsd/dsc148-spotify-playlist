@@ -4,7 +4,7 @@
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-153 songs - 10 hr 15 min
+154 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Back Beat](https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters 35: Johnny Hodges](https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr) | 7:27 | 2023-01-17 |  |
 | [Back Beat](https://open.spotify.com/track/6YflSNd6sPlzlazQsA3QFK) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:28 | 2021-12-16 | 2022-07-29 |
 | [Back in Your Own Back Yard](https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [William Galison](https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn) | [Got You on My Mind](https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S) | 2:32 | 2021-12-16 |  |
-| [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2021-12-16 |  |
+| [Blue Moon](https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2021-12-16 | 2023-04-14 |
 | [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 | 2023-02-10 |  |
 | [C'est si bon](https://open.spotify.com/track/5yYJNiQ3oapwwxu2A7Ch0A) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:03 | 2022-06-28 |  |
 | [C'est si bon](https://open.spotify.com/track/3YrbJ9Y7SU0AIYFjYnXzIp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:07 | 2022-05-25 | 2022-07-29 |
@@ -75,6 +75,7 @@
 | [I'm Putting All My Eggs In One Basket](https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 2:21 | 2021-12-16 |  |
 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 | 2021-12-16 |  |
 | [I've Told Ev'ry Little Star](https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 3:39 | 2021-12-16 |  |
+| [In the Cool, Cool, Cool of the Evening \(with Harry James & Harry James' Orchestra\)](https://open.spotify.com/track/2NThME2zwT3u2ZiaFan2Fl) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Harry James & Harry James' Orchestra](https://open.spotify.com/artist/5VLCpvLH5dVusqfgK8wFhL) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:59 | 2023-04-13 |  |
 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 | 2021-12-16 |  |
 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 | 2021-12-16 |  |
 | [It Might as Well Be Spring](https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [It Might as Well Be Spring](https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG) | 4:52 | 2022-04-07 |  |

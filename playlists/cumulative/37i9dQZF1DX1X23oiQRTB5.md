@@ -2,15 +2,15 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Werenoi et Ninho au top de la première playlist de rap français !
+> SDM au top de la première playlist de rap français !
 
-156 songs - 7 hr 59 min
+158 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22](https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:21 | 2022-07-28 | 2022-11-11 |
 | [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-16 | 2022-07-29 |
-| [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 | 2023-02-16 |  |
+| [3 singes](https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 singes](https://open.spotify.com/album/1zyctO1OPYpG3lMmbFWaLO) | 3:02 | 2023-02-16 | 2023-04-14 |
 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 | 2022-01-06 | 2022-12-09 |
 | [A la base](https://open.spotify.com/track/0GUH7Qb3w9xOcfRIWoaJmt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna](https://open.spotify.com/album/4G2UgJhnsWIdYYuTtILd7I) | 4:26 | 2022-01-06 | 2022-07-29 |
 | [A la base](https://open.spotify.com/track/0VJwgZkDmZZLZygKnPj2s6) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 4:26 | 2022-07-28 | 2022-08-26 |
@@ -29,6 +29,7 @@
 | [Bruce Wayne](https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 3:07 | 2022-01-06 | 2022-06-03 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-24 | 2022-07-08 |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-20 | 2022-10-14 |
+| [Capitaine](https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1 & 2\)](https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS) | 2:35 | 2023-04-13 |  |
 | [CELINE 3X](https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [CELINE 3X](https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT) | 2:38 | 2022-05-26 | 2022-12-09 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-08 | 2022-12-24 |
 | [Chic choc](https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [VOL 169 ATTERRISSAGE](https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh) | 3:11 | 2022-05-12 | 2022-11-04 |
@@ -69,7 +70,7 @@
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-26 |  |
 | [Indiana](https://open.spotify.com/track/38g82yE6pxULo8b1S6r4pb) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Indiana](https://open.spotify.com/album/1oPS42gz0hOy0L3knvCjT5) | 2:49 | 2022-09-22 | 2023-02-17 |
 | [Ingé son](https://open.spotify.com/track/2Jof799F251cl0DyUW2dqW) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 3:25 | 2023-02-09 | 2023-03-18 |
-| [Ingé son](https://open.spotify.com/track/2kJeLSnGbiFN6j2nARWhzU) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [Stratos](https://open.spotify.com/album/0qwxx9ouUc5kGmMWHglDpq) | 3:25 | 2023-03-16 |  |
+| [Ingé son](https://open.spotify.com/track/2kJeLSnGbiFN6j2nARWhzU) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [Stratos](https://open.spotify.com/album/0qwxx9ouUc5kGmMWHglDpq) | 3:25 | 2023-03-16 | 2023-04-14 |
 | [Intro](https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 2:27 | 2022-10-20 |  |
 | [Introduction](https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Introduction](https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ) | 1:34 | 2023-01-19 | 2023-03-10 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2022-01-06 | 2022-11-11 |
@@ -83,6 +84,7 @@
 | [La 14](https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 14](https://open.spotify.com/album/0DSaOBR0QbYpz3d0l9ksvM) | 2:51 | 2022-01-06 | 2022-01-21 |
 | [La 15 \(GSXR\)](https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 15 \(GSXR\)](https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n) | 2:50 | 2022-06-02 | 2022-07-22 |
 | [La Force Tranquille](https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La Force Tranquille](https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9) | 4:04 | 2023-02-23 |  |
+| [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-04-13 |  |
 | [Laisse tomber](https://open.spotify.com/track/1qnEPb5kyJXaIq1xau0dRr) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [SUAVEMENTE](https://open.spotify.com/album/4VM0NDn0OQlz3odTKvnTJf) | 3:11 | 2022-11-10 | 2022-11-13 |
 | [Laisse tomber](https://open.spotify.com/track/2I09PaS6In9XUCrREVo4C6) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Racines](https://open.spotify.com/album/6yVw74sZZ2lDyvVVnWPTRc) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 | 2022-07-28 | 2022-11-18 |

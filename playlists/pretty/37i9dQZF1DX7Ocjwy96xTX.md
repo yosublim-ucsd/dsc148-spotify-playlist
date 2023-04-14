@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > dark & dreamy for night creatures
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,474 likes - 86 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,822 likes - 86 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 22 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 |
 | 23 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
 | 24 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 25 | [Massif Central](https://open.spotify.com/track/057wVpkAoz9DtXLLTI28wg) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [No Repair](https://open.spotify.com/album/1JHO44zLQD1EzgiSBwArqV) | 3:06 |
+| 25 | [Massif Central](https://open.spotify.com/track/2C8ODJvrmKV0hCQlCRczMf) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Perfect Blue](https://open.spotify.com/album/4OtIJRa2ecK1tkWAETDjiJ) | 3:06 |
 | 26 | [Vampiro](https://open.spotify.com/track/2ZgKOGthLtSzmDWde75FtY) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Haunted Castle \(Extended Play\)](https://open.spotify.com/album/4hQBvgh0Cq2VoXccNVnbBu) | 2:16 |
 | 27 | [Real Time](https://open.spotify.com/track/49KOZITkRDw4EKs1UnHSyh) | [Goo Munday](https://open.spotify.com/artist/540egazqjMY2Lm7NPclRQ2) | [Real Time](https://open.spotify.com/album/38WVA1P7jfefbIVryXvB6O) | 3:31 |
 | 28 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet EP](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 85 | [When I'm Small](https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp) | 4:09 |
 | 86 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 |
 
-Snapshot ID: `MTY3OTUyMTAzMiwwMDAwMDAwMGZhNmI4OTJmNjJhYjUzMjUzNGQyZjY4YzJmNTg3ZDAz`
+Snapshot ID: `MTY3OTUyMTAzMiwwMDAwMDAwMDE5NmRhZjY1NWJjZWUzZDg4MTVjNDMwNjdlMmQ2ODNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,158 likes - 168 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,234 likes - 168 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 150 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 |
 | 151 | [Flamenkito](https://open.spotify.com/track/2gZWsOLfX0W1Fu57qgFMQM) | [Simbad "El nano"](https://open.spotify.com/artist/5BEc3tZMMB0L1HBePMp6xS), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Flamenkito](https://open.spotify.com/album/6JWc5p5djyJLBKz9hdZnvk) | 1:46 |
 | 152 | [Haute Garonne](https://open.spotify.com/track/76loNX1slkkTetxZZQ183q) | [Christopher Renault](https://open.spotify.com/artist/3QrTQRLyYqfw8K2zzFsEn4) | [back in time](https://open.spotify.com/album/1iZlR1EQhzM6itJ396l41C) | 3:18 |
-| 153 | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 |
+| 153 | [Lobo, Buarque: Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/17wRtZlmO6TEZqGDpZv673) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Beatriz \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0UYrRuHrJcz2il0oww8zeW) | 3:36 |
 | 154 | [Todo Es Mi Culpa](https://open.spotify.com/track/5YEiLgjWOoWQdmy8ziS42B) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Todo Es Mi Culpa](https://open.spotify.com/album/2i3eS5YpZIAjskFF5mffpd) | 3:24 |
 | 155 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 |
 | 156 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 |

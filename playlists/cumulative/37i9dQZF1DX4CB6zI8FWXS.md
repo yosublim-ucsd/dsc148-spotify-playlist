@@ -2,9 +2,9 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Mahalia
+> R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-103 songs - 5 hr 33 min
+104 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-23 |  |
 | [Better Thangs \(with Summer Walker\)](https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77) | 3:34 | 2023-03-16 |  |
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2023-03-16 |  |
-| [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-23 |  |
+| [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-23 | 2023-04-14 |
 | [Can We Do This?](https://open.spotify.com/track/5Tanr4u1BgG8I1Qth9o66M) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Can We Do This?](https://open.spotify.com/album/37GaMBFRIKZtKxmcdjcb6O) | 2:57 | 2023-03-16 | 2023-03-31 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2023-03-16 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-03-16 |  |
@@ -58,7 +58,7 @@
 | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Inhale / Exhale \(with Sabrina Claudio\)](https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c) | 2:50 | 2023-03-16 |  |
 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 | 2023-03-16 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-03-16 |  |
-| [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2023-03-16 |  |
+| [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2023-03-16 | 2023-04-14 |
 | [Lean In \(feat\. Bayanni\)](https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Lean In \(feat\. Bayanni\)](https://open.spotify.com/album/3nhEm72CmZfeccLKAFAfZY) | 2:36 | 2023-03-23 |  |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-03-16 |  |
 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 |  |
@@ -98,6 +98,7 @@
 | [The Process](https://open.spotify.com/track/5A5d8Coap6LIWcbk3xGDXi) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jordyn](https://open.spotify.com/artist/57vgy9KlvaYvEpbujOUofN) | [The Process](https://open.spotify.com/album/1nMvsDua4e4T1Y1q53bCvN) | 2:51 | 2023-03-16 |  |
 | [The Woman](https://open.spotify.com/track/0F7J5lCUj8AI7tUwfCPs0t) | [KADOKAWA DREAMS](https://open.spotify.com/artist/7M8zIrlEAfMONHBkFhKpII), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [The Woman](https://open.spotify.com/album/2UwnnyuVKnrS6MxOln4loe) | 2:41 | 2023-04-06 |  |
 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 | 2023-03-16 |  |
+| [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-13 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-03-16 |  |
 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2023-03-16 |  |
 | [Wait On Me](https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nü Moon](https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O) | 3:20 | 2023-04-06 |  |

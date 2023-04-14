@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Andei",
+        "url": "https://open.spotify.com/album/24dAnXjwVd5T47qKguogCO"
+      },
+      "artists": [
+        {
+          "name": "Vileiro",
+          "url": "https://open.spotify.com/artist/1pYXI1pkQgJceBl4rqf2sQ"
+        },
+        {
+          "name": "Zi",
+          "url": "https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Andei",
+      "url": "https://open.spotify.com/track/6il1MOwp9CEG7mGyhgQhkZ"
+    },
+    {
+      "album": {
         "name": "Anonymous",
         "url": "https://open.spotify.com/album/3IsEzzDit3f383Jee4Y0jA"
       },
@@ -558,6 +580,24 @@
       "duration_ms": 200045,
       "name": "Apert\u00e1",
       "url": "https://open.spotify.com/track/7aReKeLwVz4IdlxMQCP4e0"
+    },
+    {
+      "album": {
+        "name": "Aporia",
+        "url": "https://open.spotify.com/album/1X5cNpPTWPyXQizh5FumCL"
+      },
+      "artists": [
+        {
+          "name": "Dsaidan",
+          "url": "https://open.spotify.com/artist/2pn3vtmFaJT4XGHGojOulh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104498,
+      "name": "Aporia",
+      "url": "https://open.spotify.com/track/1OVG8pnopqq2GXVrvsGNBN"
     },
     {
       "album": {
@@ -798,6 +838,28 @@
       "duration_ms": 162206,
       "name": "BAG",
       "url": "https://open.spotify.com/track/1RVx5RzVcALnTgLY8RbUnt"
+    },
+    {
+      "album": {
+        "name": "Bagagem",
+        "url": "https://open.spotify.com/album/4UzVhNv7CG3u4sxwF0bA7m"
+      },
+      "artists": [
+        {
+          "name": "Estraca",
+          "url": "https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq"
+        },
+        {
+          "name": "Ricardo Ribeiro",
+          "url": "https://open.spotify.com/artist/3MBRBHfVbEyQB1FqByWR7B"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Bagagem",
+      "url": "https://open.spotify.com/track/1L0E92ZXvTuV4c22fe1eoi"
     },
     {
       "album": {
@@ -2231,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Entorpecente",
+        "url": "https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC"
+      },
+      "artists": [
+        {
+          "name": "Manaux",
+          "url": "https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Entorpecente",
+      "url": "https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg"
+    },
+    {
+      "album": {
         "name": "Entra na Dan\u00e7a",
         "url": "https://open.spotify.com/album/50CADWwFYuNhVuhW2ZLb3w"
       },
@@ -3070,7 +3150,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 162461,
       "name": "Girat\u00f3rio",
       "url": "https://open.spotify.com/track/2YBAtQKZlPuhI1IWKlQlYD"
@@ -4476,7 +4556,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 141230,
       "name": "MOIS\u00c9S",
       "url": "https://open.spotify.com/track/7FRLKyhv0TyMoI9lASUFx7"
@@ -4512,7 +4592,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 159924,
       "name": "Monop\u00f3lio",
       "url": "https://open.spotify.com/track/553qmZjEAtsTf3PtEVwSxN"
@@ -5322,7 +5402,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 169756,
       "name": "N\u00e3o Presta",
       "url": "https://open.spotify.com/track/59PIvemLKTt0DHZHguTjZo"
@@ -5822,6 +5902,24 @@
       "duration_ms": 189334,
       "name": "Pele de Crocodilo",
       "url": "https://open.spotify.com/track/7DnVyBp0YXeN9BZwhPEKgG"
+    },
+    {
+      "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/3D4GrroGK00DL5svXt5jUq"
+      },
+      "artists": [
+        {
+          "name": "Westy",
+          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222995,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/0YIK0ULri5o6sdXo5N3duR"
     },
     {
       "album": {
@@ -6384,10 +6482,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 114623,
       "name": "REDFLAGS",
       "url": "https://open.spotify.com/track/6CFlhf6PbF7muUZHx0s1se"
+    },
+    {
+      "album": {
+        "name": "REFUND",
+        "url": "https://open.spotify.com/album/2LznvNC9ID3OF2nPs2XxJT"
+      },
+      "artists": [
+        {
+          "name": "Zt35",
+          "url": "https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "REFUND",
+      "url": "https://open.spotify.com/track/7IAJ1G5DDwOvng8cEJ5r1V"
     },
     {
       "album": {
@@ -7392,7 +7508,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 196702,
       "name": "S\u00f3 Cifr\u00e3o",
       "url": "https://open.spotify.com/track/5Rzp6jDWsicB8YpqUAGify"

@@ -4,7 +4,7 @@
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 44 min
+28 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Stella](https://open.spotify.com/track/0V1Ww4KZzeNvImlv3BnLBl) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 4:40 | 2022-09-16 |  |
 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 | 2022-09-16 |  |
 | [Summer](https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 5:01 | 2022-09-16 |  |
+| [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 | 2023-04-13 |  |
 | [Supermachine](https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:52 | 2022-09-24 | 2022-10-11 |
 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 | 2022-09-16 |  |
 | [Taste Of Gasoline](https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:46 | 2022-09-16 |  |

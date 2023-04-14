@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6VnROBOaibXtXYqqpV1REk"
+      },
+      "artists": [
+        {
+          "name": "Sundance Darling",
+          "url": "https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/01PU5WIqYi1ub9gZ4ZnBag"
+    },
+    {
+      "album": {
         "name": "Dreaming While Awake",
         "url": "https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5"
       },
@@ -626,6 +644,24 @@
       "duration_ms": 169411,
       "name": "Entering Orbit",
       "url": "https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs"
+    },
+    {
+      "album": {
+        "name": "Epoque",
+        "url": "https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw"
+      },
+      "artists": [
+        {
+          "name": "ARCADIA",
+          "url": "https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "Epoque",
+      "url": "https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk"
     },
     {
       "album": {
@@ -828,6 +864,24 @@
       "duration_ms": 120360,
       "name": "Floating Particles",
       "url": "https://open.spotify.com/track/6jQcQ1Ysb299iqeotY3Iy2"
+    },
+    {
+      "album": {
+        "name": "Folds",
+        "url": "https://open.spotify.com/album/43uRd28euFG1OYGTZDobV7"
+      },
+      "artists": [
+        {
+          "name": "Anders Schill Paulsen",
+          "url": "https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196803,
+      "name": "Folds",
+      "url": "https://open.spotify.com/track/1upFTZnAallS4AfzHZ7RmP"
     },
     {
       "album": {
@@ -1722,6 +1776,24 @@
       "duration_ms": 150306,
       "name": "Nuraghe",
       "url": "https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju"
+    },
+    {
+      "album": {
+        "name": "Nuvem",
+        "url": "https://open.spotify.com/album/4cyJAvQAiqbZSgbQh75Vth"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00f3",
+          "url": "https://open.spotify.com/artist/4Fa4skLUM0AQbzqOqknYbS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174518,
+      "name": "Nuvem",
+      "url": "https://open.spotify.com/track/4PspiFxRshtDPg7hnh0MXp"
     },
     {
       "album": {
@@ -2754,7 +2826,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 336506,
       "name": "The Real Devil",
       "url": "https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv"
@@ -2776,6 +2848,24 @@
       "duration_ms": 196513,
       "name": "The Second Sun",
       "url": "https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J"
+    },
+    {
+      "album": {
+        "name": "thelightestbreeze",
+        "url": "https://open.spotify.com/album/7DFijxI7h9XYmK0EzqrxMB"
+      },
+      "artists": [
+        {
+          "name": "Axpro Oum",
+          "url": "https://open.spotify.com/artist/4XX60hMPnPt7Y90qRP9XgZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154655,
+      "name": "thelightestbreeze",
+      "url": "https://open.spotify.com/track/7tzn02Ocbvy8M10Qmeup6S"
     },
     {
       "album": {

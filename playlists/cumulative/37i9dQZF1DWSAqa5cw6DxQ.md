@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-137 songs - 6 hr 51 min
+141 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2022-02-28 |  |
 | [Dock Of A Bay](https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Dock Of A Bay](https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j) | 3:05 | 2023-04-06 |  |
 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 | 2022-02-28 |  |
+| [Dreametheral](https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Dreametheral](https://open.spotify.com/album/73tedZgmVrBYQvGRpnJALO) | 2:57 | 2023-04-14 |  |
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2022-02-28 |  |
 | [Drifting](https://open.spotify.com/track/6XgxMjACtxIGyMpHjXGQ1y) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Drifting](https://open.spotify.com/album/3n3ri3uLMAQYMxeFDPAyqJ) | 2:57 | 2023-01-27 |  |
 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 | 2022-09-13 |  |
@@ -52,6 +53,8 @@
 | [Fais de beaux rêves](https://open.spotify.com/track/7fl8RV1XaQbClOH3cDyJEl) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:28 | 2022-10-21 |  |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-02-28 |  |
 | [Fleeting Thoughts](https://open.spotify.com/track/7KIiDekYdnY4vQUjyzsG8N) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Fleeting Thoughts](https://open.spotify.com/album/2Lh2xrVBPsJXMOkW7xLQmD) | 2:55 | 2023-01-13 |  |
+| [Floating Dreams](https://open.spotify.com/track/0EEJNWq8aoSCCi8JtJZdsU) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Floating Dreams](https://open.spotify.com/album/78tgqwStPHndZPZtMSzzgD) | 2:11 | 2023-04-14 |  |
+| [Fluire](https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Fluire](https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5) | 2:36 | 2023-04-14 |  |
 | [Forests and Hills](https://open.spotify.com/track/2SGRhqZAjesAw183DQmV9L) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Forests and Hills](https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF) | 4:14 | 2022-02-28 | 2023-02-25 |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-02-28 | 2022-12-31 |
 | [Gymnopedie](https://open.spotify.com/track/3TB9KL7iUVd7N5ihzghGw4) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 3:37 | 2022-02-28 |  |
@@ -105,6 +108,7 @@
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2022-02-28 | 2022-05-20 |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2022-02-28 |  |
 | [Reposeful](https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf) | [Jonas Bergwall](https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5) | [Reposeful](https://open.spotify.com/album/6W600f8bk6lwStjaswF53R) | 2:23 | 2023-01-20 |  |
+| [Reposeful Views](https://open.spotify.com/track/1nz7X92O6UlyjKe2qg0lSd) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Reposeful Views](https://open.spotify.com/album/1OM9rRIk5WsQyGIsHmPfZB) | 3:04 | 2023-04-14 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 |  |
 | [Restore Calm](https://open.spotify.com/track/2kWgnixsXJN1kOOeTU84fE) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:35 | 2022-02-28 |  |
 | [Sail Away](https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Sail Away](https://open.spotify.com/album/6aeoXB2a6hKW11kJ4NIfKB) | 5:38 | 2022-05-19 |  |

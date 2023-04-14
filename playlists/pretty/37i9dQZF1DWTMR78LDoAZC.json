@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Miya Folick",
-  "num_followers": 112366,
+  "num_followers": 112523,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIxNzM4MSwwMDAwMDAwMDEzZDI3ZDNjNWY1NWNiMTJlOWE2ZDFhZWU4MTJhNjE1",
+  "snapshot_id": "MTY3ODIxNzM4MSwwMDAwMDAwMGYyMDk4NjA4Zjc2ZGUyNjNhYmRiYWViY2ZhNmM1NGYx",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "are you?",
-        "url": "https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "are you?",
-      "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "are you?",
+        "url": "https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "are you?",
+      "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229341,
-      "name": "You're The One - Spotify Singles",
-      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 207000,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229341,
+      "name": "You're The One - Spotify Singles",
+      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "claire (deluxe)",
-        "url": "https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA"
-      },
-      "artists": [
-        {
-          "name": "kezia",
-          "url": "https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI"
-        }
-      ],
-      "duration_ms": 149955,
-      "name": "megan fox",
-      "url": "https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 303600,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "claire (deluxe)",
+        "url": "https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA"
+      },
+      "artists": [
+        {
+          "name": "kezia",
+          "url": "https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI"
+        }
+      ],
+      "duration_ms": 149955,
+      "name": "megan fox",
+      "url": "https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "forevher",
-        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "religion (u can lay your hands on me)",
-      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "forevher",
+        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "religion (u can lay your hands on me)",
+      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 173000,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
     },
     {
       "added_at": "2023-03-07 19:29:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NMIXX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,920 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 4 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 5 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 |
 | 6 | [All Eyes On Me](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:43 |
-| 7 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 |
+| 7 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
 | 8 | [My Satisfaction](https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 3:13 |
 | 9 | [an idiotic heart](https://open.spotify.com/track/0ZiY1UsorcoYJltw0xRfIe) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3), [HANBIN](https://open.spotify.com/artist/5As1uvyadQ18yD1vvqXwqW) | [an idiotic heart](https://open.spotify.com/album/45O8eYtkbEHVIMz3NUru0B) | 4:05 |
 | 10 | [Closer](https://open.spotify.com/track/5GigASfstvSEqljLyLyrAp) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Closer \(A Business Proposal OST Part.7\)](https://open.spotify.com/album/57pa5j63LDObd5zqj0GTGx) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Vein \- 2023 BAND VERSION](https://open.spotify.com/track/2atbd5rnb7DEHzAh2R5AP8) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 4:15 |
 | 50 | [Tinder \- 2023 BAND VERSION](https://open.spotify.com/track/4WC66QqUDalRIb2n5jGLL7) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [SWIPE ME RIGHT \(2023 BAND VER.\)](https://open.spotify.com/album/7pbUMHC83x9AUtsYYEC5Sc) | 2:21 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDRlMTYyYzYxNDFiODUzZDY5OTU4N2EwNmM1Njc1NTcz`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDc2ZjI5YWRmZjE0ZDM1MDQwY2Q0MjZlYjE4YjRhYzE5`

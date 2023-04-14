@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Brandee Younger",
+  "description": "The best jazz new releases. Cover: Gabriels ",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 150076,
       "name": "around the world",
       "url": "https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU"
@@ -730,6 +730,24 @@
       "duration_ms": 264360,
       "name": "Captured Time",
       "url": "https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7"
+    },
+    {
+      "album": {
+        "name": "Colors (Deluxe)",
+        "url": "https://open.spotify.com/album/4YwQsMg3LG3z032y3KPHYE"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Reinhardt",
+          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192515,
+      "name": "Cargo of Oranges",
+      "url": "https://open.spotify.com/track/1Vuo6uCHh9Zf3CAiu4Vr2C"
     },
     {
       "album": {
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 191033,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG"
@@ -2580,6 +2598,28 @@
       "duration_ms": 269106,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/06PsxVo9cUtgP97EjxFUs7"
+    },
+    {
+      "album": {
+        "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355456,
+      "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR"
     },
     {
       "album": {
@@ -3579,6 +3619,28 @@
     },
     {
       "album": {
+        "name": "Pennies from Heaven",
+        "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330240,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
+    },
+    {
+      "album": {
         "name": "Gabi Hartmann",
         "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
       },
@@ -4448,7 +4510,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 364800,
       "name": "Teo",
       "url": "https://open.spotify.com/track/3O90QPnqAyFoTlpU9nBPkt"
@@ -5117,6 +5179,32 @@
     },
     {
       "album": {
+        "name": "Vuma (feat. Thandiswa, Joel Ross)",
+        "url": "https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Vuma (feat. Thandiswa, Joel Ross)",
+      "url": "https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw"
+    },
+    {
+      "album": {
         "name": "Walton St",
         "url": "https://open.spotify.com/album/5hxXApzEe9LJOMvoWXtNdW"
       },
@@ -5398,7 +5486,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 339757,
       "name": "Why Should We Care",
       "url": "https://open.spotify.com/track/1N5P9bFKXgUiwRzNrI7Enb"

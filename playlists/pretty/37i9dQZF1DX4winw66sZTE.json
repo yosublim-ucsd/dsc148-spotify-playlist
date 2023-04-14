@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 10424,
+  "num_followers": 10455,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMGEwZWU5ZmRhMDMwMzJiYmYzMDI4MTQ2MTBhMzc1Y2Q3",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDYxMDJhZWUzOGQxMzM5ZTExMDVlOTJkOTRhZmNhYWEy",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 217051,
-      "name": "Blood Sweat & Tears",
-      "url": "https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 211350,
       "name": "DDU-DU DDU-DU",
       "url": "https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 217051,
+      "name": "Blood Sweat & Tears",
+      "url": "https://open.spotify.com/track/2u54HNQamwFuOMLSuhSRom"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -291,6 +291,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "I Am The Best",
+        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 208730,
+      "name": "I Am The Best",
+      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 216786,
       "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
       "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "I Am The Best",
-        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 208730,
-      "name": "I Am The Best",
-      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Girl's Day Love Second Album",
-        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 200705,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Ma Boy",
         "url": "https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 196702,
       "name": "Ma Boy",
       "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 200705,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 270452,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Only One - The 7th Album",
-        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 217085,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Secret Garden",
         "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 220099,
       "name": "NoNoNo",
       "url": "https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
-        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "\ubbf8\uc778\uc544 Bonamana",
-      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
+        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "\ubbf8\uc778\uc544 Bonamana",
+      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "/// (You, Clouds, Rain)",
         "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 189410,
       "name": "Don't Know You",
       "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "THE SECRET",
-        "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 222581,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

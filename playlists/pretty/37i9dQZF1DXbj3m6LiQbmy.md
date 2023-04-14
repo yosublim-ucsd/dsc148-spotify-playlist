@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Ethan in cover! <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">Qua la playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,348 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,352 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 29 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
 | 30 | [Ecco la Notte](https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Ecco la Notte](https://open.spotify.com/album/3KvGybqvwIKaGSSUGefaZ0) | 5:44 |
 | 31 | [ONDE](https://open.spotify.com/track/269ZySgpz2Q6uFoxdKvT3v) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [ONDE](https://open.spotify.com/album/3SzXhtjlHzKlcskuHFNh9Z) | 2:49 |
-| 32 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
-| 33 | [Cicale](https://open.spotify.com/track/4c2ypSbxlEtTNcyJ6uZcdn) | [Heather Parisi](https://open.spotify.com/artist/1HgVjrg402nAvOjDlXXA2n) | [Disco Bambina](https://open.spotify.com/album/7hQWrNaDBlO6LxgoXycwL7) | 3:54 |
+| 32 | [Cicale](https://open.spotify.com/track/4c2ypSbxlEtTNcyJ6uZcdn) | [Heather Parisi](https://open.spotify.com/artist/1HgVjrg402nAvOjDlXXA2n) | [Disco Bambina](https://open.spotify.com/album/7hQWrNaDBlO6LxgoXycwL7) | 3:54 |
+| 33 | [Disco \(I Love It\)](https://open.spotify.com/track/01D5X1yRPDEeDgeXNjnonl) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Disco \(I Love It\)](https://open.spotify.com/album/1IJJLQAlYysEf5un1KsmsB) | 2:58 |
 | 34 | [Ogni pensiero vola](https://open.spotify.com/track/5827FRbvRNgF7F1yNuvUbw) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [Magica Musica](https://open.spotify.com/album/4Pd36LZx3udvliJX2ukwAB) | 3:53 |
 | 35 | [S.T.A.R.](https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/2TdAEnj9JvAGLWJ3wVSvUw) | 3:38 |
 | 36 | [Le cose che non dico](https://open.spotify.com/track/0QEWhtOJ1uj6YDaMt9OnAc) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Questa Fragile Bellezza](https://open.spotify.com/album/7dZyON07BaLqqXcXhEb0F3) | 2:45 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 63 | [Notte Divina \- Vocal Night Version](https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr) | [Moy Boy](https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms), [Frank'O Moiraghi](https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI) | [Notte divina](https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8) | 6:45 |
 | 64 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
 | 65 | [Godi](https://open.spotify.com/track/6XpjLXTgXl3gHbrd5gM29p) | [Faust'o](https://open.spotify.com/artist/4BgqktLeGqB17L9WEVoGjV) | [Suicidio](https://open.spotify.com/album/0hL1QZ2GTU2EN9auyN4DcA) | 3:24 |
-| 66 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
-| 67 | [Credo che tra un po'](https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Credo che tra un po'](https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF) | 3:38 |
-| 68 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 |
+| 66 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 |
+| 67 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
+| 68 | [Credo che tra un po'](https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Credo che tra un po'](https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF) | 3:38 |
 | 69 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
 | 70 | [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN), [Icon Mode](https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2) | [QUEERADISE](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 |
 | 71 | [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 |
 | 72 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
-| 73 | [La Suora](https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk) | 3:03 |
-| 74 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
-| 75 | [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 |
+| 73 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 74 | [Young Boy](https://open.spotify.com/track/44S6dzwZux8Juxe8wP5y6E) | [Maria Violenza](https://open.spotify.com/artist/0Z9mBVXA1TwmOpN6AP8wFy) | [Tendres Tenebres](https://open.spotify.com/album/7GV3u6Of9ZC5tSeBJJjtIZ) | 4:19 |
+| 75 | [La Suora](https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk) | 3:03 |
 
-Snapshot ID: `MTY4MTI4OTEyNSwwMDAwMDAwMDA2MzhhYTRiNTlmZWE4NzU1YTJkMDFhMzZiNWMxYzU5`
+Snapshot ID: `MTY4MTI4OTEyNSwwMDAwMDAwMDMxMGE1MzRiYTEwYWJlOTI0ODVlODcwZTc3ZjM2NjIz`

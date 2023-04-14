@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,285 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,314 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 26 | [lucky train!](https://open.spotify.com/track/2lgSULgfMD8HvvcRz1ZDV9) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:29 |
 | 27 | [ハッピィクレッシェンド](https://open.spotify.com/track/31ksLd0NZHIKf4DLvLzinq) | [わか・ふうり・すなお・れみ・ゆな・えり from STAR☆ANIS](https://open.spotify.com/artist/2vrc7Q9n1doChHTUALK8NZ) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 4:39 |
 | 28 | [fashion check!](https://open.spotify.com/track/3EkrkoXhZ47Wuz7YTkpJgL) | [わか・ふうり・すなお・れみ・もえ from STAR☆ANIS](https://open.spotify.com/artist/5luj8dLsbPa7sDj57qTmvK) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:43 |
-| 29 | [SHINING LINE\* \- いちご & あかり & ゆめ & あいね & みお & らき ver.](https://open.spotify.com/track/0PP187zRDwhm1AhFGIBWiw) | [らき from BEST FRIENDS!](https://open.spotify.com/artist/6rJjAKdKS0aH7G0a1nT9K5), [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67), [わか](https://open.spotify.com/artist/1zh5yvO4dDoZiGru8W7J3n), [るか](https://open.spotify.com/artist/7rCYAf0qUImNs8pqy04vzl), [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd) | [アイカツ!シリーズ 10th Anniversary Album Vol.01「Ring Ring Carnival」](https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu) | 4:34 |
+| 29 | [G線上のShining Sky](https://open.spotify.com/track/44fD8wJpSM0yRpOxtS23wp) | [れみ・わか from STAR☆ANIS](https://open.spotify.com/artist/00xJMFXojHoKnLRaLGcn3W) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 5:10 |
 | 30 | [ダイヤモンドハッピー](https://open.spotify.com/track/3mqrEi3pYXH9YqO0AHr2fn) | [わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:08 |
-| 31 | [G線上のShining Sky](https://open.spotify.com/track/44fD8wJpSM0yRpOxtS23wp) | [れみ・わか from STAR☆ANIS](https://open.spotify.com/artist/00xJMFXojHoKnLRaLGcn3W) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 5:10 |
+| 31 | [SHINING LINE\* \- いちご & あかり & ゆめ & あいね & みお & らき ver.](https://open.spotify.com/track/0PP187zRDwhm1AhFGIBWiw) | [らき from BEST FRIENDS!](https://open.spotify.com/artist/6rJjAKdKS0aH7G0a1nT9K5), [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67), [わか](https://open.spotify.com/artist/1zh5yvO4dDoZiGru8W7J3n), [るか](https://open.spotify.com/artist/7rCYAf0qUImNs8pqy04vzl), [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd) | [アイカツ!シリーズ 10th Anniversary Album Vol.01「Ring Ring Carnival」](https://open.spotify.com/album/1QvMF8zo4vYf1eidom6ttu) | 4:34 |
 | 32 | [Angel Snow](https://open.spotify.com/track/1pRb5IciSded4aNxDD8AJZ) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 3:36 |
 | 33 | [Chica×Chica](https://open.spotify.com/track/2RTZbsl5jQ03rchE32LRtT) | [みほ・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/04Pzgjj5UlS28N9sKeIXwX) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS9](https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt) | 4:07 |
 | 34 | [Kira・pata・shining](https://open.spotify.com/track/4U6WZhonhK9NUKjad9GDG3) | [すなお from STAR☆ANIS](https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 49 | [Du\-Du\-Wa DO IT!!](https://open.spotify.com/track/0T3cBfYrttpWkZeIhcmXMe) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6), [わか from STAR☆ANIS](https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:01 |
 | 50 | [ありがと ⇄ 大丈夫 \- あいね ver.](https://open.spotify.com/track/20G4d0MZkzYxrxVedsPDTO) | [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3) | [アイカツ!シリーズ 10th Anniversary Album Vol.02「Pure Sweet Harmony」](https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ) | 4:09 |
 
-Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMGQyYjgzOTk4MmMwZTlkZDI5NmIwNzdhMzBjZDBiZWI2`
+Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMGQ4MDI3ZGU1NjBhNGExYjZmODdlYmRiNTNhZjhlNTNk`

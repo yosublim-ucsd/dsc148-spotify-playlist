@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,440 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,444 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 50 | [What I Was Made For](https://open.spotify.com/track/1hk4vnmDj37es8cEpJjRVB) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:01 |
 | 51 | [For Who You Are](https://open.spotify.com/track/5YJG5A01wPavs17Zv09Jka) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 3:20 |
 
-Snapshot ID: `MjgwMjE2OTQsMDAwMDAwMDAyNjM3YzVjMjRhNGY3ZWQ0OWU3M2Q3MjI2YTNkZjczYg==`
+Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDBhNjY0MDU3Y2VmYjE1MDZhYmJmNGI2YjI5NTRkMTZlYQ==`

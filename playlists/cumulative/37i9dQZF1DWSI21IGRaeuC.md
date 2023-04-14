@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-161 songs - 13 hr 56 min
+162 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-07-01 |  |
 | [Dance Of The Shaman](https://open.spotify.com/track/2zGULLp2IsYlWeRaF0ZV13) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Dance Of The Shaman](https://open.spotify.com/album/16gssDflHOT9uFtZh7AJsv) | 7:02 | 2022-06-03 | 2022-07-27 |
-| [Dance With Me](https://open.spotify.com/track/4ElK9xhUZXhigP26T6CIqN) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Dance With Me](https://open.spotify.com/album/5sFZ2Ev2UyuhgeTzhtXlmK) | 7:07 | 2023-03-17 |  |
+| [Dance With Me](https://open.spotify.com/track/4ElK9xhUZXhigP26T6CIqN) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Dance With Me](https://open.spotify.com/album/5sFZ2Ev2UyuhgeTzhtXlmK) | 7:07 | 2023-03-17 | 2023-04-14 |
 | [Dangerous \- Bailey Ibbs Remix](https://open.spotify.com/track/4LocLlqHWsmiS9GqaevYF0) | [Michael Dangerous](https://open.spotify.com/artist/4HSRGJTvC1MxEQTVeqTiti), [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Dangerous](https://open.spotify.com/album/5bIb9T2gF7fRJlKjGKj2w5) | 5:31 | 2022-06-17 | 2022-07-23 |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-03 |  |
 | [Dilemma](https://open.spotify.com/track/3yGIQywO2T8BK6ANMTrjcs) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Dilemma](https://open.spotify.com/album/3Davr9dzq7S23vh9R7Fq2i) | 3:05 | 2022-08-12 |  |
@@ -149,6 +149,7 @@
 | [The Ciggie](https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [The Ciggie](https://open.spotify.com/album/5TijfininJwDUX6P1iSyf7) | 6:13 | 2022-06-03 |  |
 | [The Key](https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP) | [Umberto Pagliaroli](https://open.spotify.com/artist/4wShOgYAKFtg2grzqostEI), [Calypse](https://open.spotify.com/artist/5AlXpYWCJe4VSQmk7up88A), [Grasso & Maxim](https://open.spotify.com/artist/2CEohVbXylc1fCqUlGh2Rk) | [Movements, Pt.3](https://open.spotify.com/album/0zkmWtgsX7D4Jkslo3qHX2) | 6:40 | 2022-06-10 | 2022-07-29 |
 | [The Mascot](https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo) | [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [The Mascot](https://open.spotify.com/album/4UXxHyBwW1lOedH3vV9x4O) | 3:15 | 2022-07-15 | 2022-08-30 |
+| [The Smoke](https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx) | [The Smoke](https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3) | 3:10 | 2023-04-07 |  |
 | [The Source](https://open.spotify.com/track/0IGSz0dzwfcon4rI6kyLTU) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [The Source](https://open.spotify.com/album/4770p58faNGmjvEwsafhXX) | 7:54 | 2022-06-03 | 2022-07-14 |
 | [The Truth](https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH) | 6:24 | 2022-07-15 | 2022-08-23 |
 | [The Truth](https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i) | 6:24 | 2022-07-15 | 2023-01-02 |

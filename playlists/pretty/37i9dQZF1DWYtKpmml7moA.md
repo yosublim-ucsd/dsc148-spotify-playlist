@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,106 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,214 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 12 | [The Voices Of Sweet Jamaica \- All Star Remix](https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Josey Wales](https://open.spotify.com/artist/2hqyZpGViBQDIaMCme0DKC), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [T.O.K.](https://open.spotify.com/artist/4c4iX8pe1SV13xToguoelN), [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM), [Singing Melody](https://open.spotify.com/artist/1I6w9pHnP2Wo6ygwgpKuHQ), [Tony Curtis](https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ), [Ce'Cile](https://open.spotify.com/artist/1RnGhd2JfN5nbVOvYmhDyO), [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj), [Leroy Sibbles](https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [The Voices Of Sweet Jamaica](https://open.spotify.com/album/7CZ9pJ8wS1qyal2hnMf2qj) | 4:06 |
 | 13 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 14 | [Solitude](https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:39 |
-| 15 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 |
-| 16 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 15 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
+| 16 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 |
 | 17 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 18 | [Show Love](https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:12 |
 | 19 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
 | 50 | [Rubble Rebel \(Champion\)](https://open.spotify.com/track/4Z5n21KUp7pcMVMaRS4ntJ) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [The Expanders](https://open.spotify.com/artist/6TofIIqBhodHJAZU6vh9sT), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Walshy Fire & The Expanders Present Thanks For Life](https://open.spotify.com/album/0fl9DMj0gxIiueUMgPNZ7i) | 4:32 |
 
-Snapshot ID: `MTY2NTY5NzQ3NiwwMDAwMDAwMDM3NTdkOTliMDI3MWJmMmE2YjRkMzgxZDkyZTEyYWRm`
+Snapshot ID: `MTY2NTY5NzQ3NiwwMDAwMDAwMDQ3MDczNjc0YjBlYzhmYzBlNDVjNTM0MzJkNmNkZjlk`

@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 275644,
       "name": "Acidation",
       "url": "https://open.spotify.com/track/7yGdO5rlZepMVKl43PgnDS"
@@ -992,6 +992,28 @@
       "duration_ms": 386051,
       "name": "Blood In The Snow - Tibi Dabo Remix",
       "url": "https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN"
+    },
+    {
+      "album": {
+        "name": "Boa Noite (La Noche)",
+        "url": "https://open.spotify.com/album/7m1mis2i6R6Rhv64wgpXpQ"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tonina",
+          "url": "https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282580,
+      "name": "Boa Noite (La Noche)",
+      "url": "https://open.spotify.com/track/0e5tqOMASIDGrRrdl8IgbI"
     },
     {
       "album": {
@@ -3341,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
+    },
+    {
+      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw"
       },
@@ -4478,7 +4518,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 219364,
       "name": "Kontinuum",
       "url": "https://open.spotify.com/track/7igvHZiaSaHHTrU3DLS5uM"
@@ -7458,7 +7498,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 423692,
       "name": "Sizo",
       "url": "https://open.spotify.com/track/3mUJM6maruA7Bw0Pq5tQcD"
@@ -7831,6 +7871,24 @@
     },
     {
       "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj"
+    },
+    {
+      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
       },
@@ -7896,7 +7954,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 361187,
       "name": "Sun",
       "url": "https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx"
@@ -8364,6 +8422,24 @@
       "duration_ms": 324208,
       "name": "The Morning Song",
       "url": "https://open.spotify.com/track/3vmzRuy5jBUSoAGQH9jRRX"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301838,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
     },
     {
       "album": {

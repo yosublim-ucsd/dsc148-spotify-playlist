@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-76 songs - 5 hr 45 min
+78 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,8 @@
 | [Cumulus Revisited](https://open.spotify.com/track/2ez9u28AzhRDfvjg3PHaro) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:54 | 2023-01-31 |  |
 | [Detropia Theme Pt\. 2 \- Original Mix](https://open.spotify.com/track/6gBoS2GWFPjv8ysRszX2Se) | [Blair French](https://open.spotify.com/artist/7IRQwSJSMH7eQkLAezNZKQ) | [Detropia](https://open.spotify.com/album/3EE4WBaI3wbzbLCsUKp4Sc) | 2:47 | 2023-01-31 |  |
 | [Dust](https://open.spotify.com/track/0SVkJnFaT6y5eCMosHwvVZ) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Shikasta](https://open.spotify.com/album/0IONJPCk2P7ym03G3RGwh9) | 4:47 | 2023-01-31 |  |
+| [Echo](https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c) | [Lennon Hutton](https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ) | [The Connection](https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8) | 2:09 | 2023-04-14 |  |
+| [Electric Pulses](https://open.spotify.com/track/5EPNlsmQpNiE3AQZMsMaDs) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 2:58 | 2023-04-14 |  |
 | [Enchanting](https://open.spotify.com/track/3JBLGpxaBZrhnrOwmUV99n) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Lifetracks](https://open.spotify.com/album/1wM3q5NJN8n0Y2hi4fPfSi) | 5:13 | 2023-01-31 |  |
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2023-01-31 |  |
 | [Finding Determination](https://open.spotify.com/track/1IZ8OjFT6GAVAQ1wQCEIlv) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Balearic Pulse](https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC) | 2:56 | 2023-03-17 |  |

@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-154 songs - 14 hr 32 min
+155 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Point of No Return](https://open.spotify.com/track/4AVjVPLrElTPP4JIDY8QPv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Point of No Return](https://open.spotify.com/album/5cgMOLRkAZ1DJNbR6qWeOM) | 5:54 | 2022-08-15 | 2022-08-27 |
 | [Portal](https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G) | 6:24 | 2022-07-11 | 2022-10-29 |
 | [Portal](https://open.spotify.com/track/3mwpXrMLka70VsDLn1hunw) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/5n4aScv2NiUPaLnNGeZrWt) | 6:24 | 2022-07-05 | 2022-07-29 |
-| [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-07 |  |
+| [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-04-13 |  |
+| [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-07 | 2023-04-14 |
 | [Quiet Woman \- Simina Grigoriu Remix](https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Quiet Woman](https://open.spotify.com/album/3CVBDukXHdeMX4Tntt1O98) | 6:05 | 2023-02-10 |  |
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-07-05 |  |
 | [Rave Nation \- Radio](https://open.spotify.com/track/5hhkzvkDqJEPVpDV6tolDf) | [Waztoo](https://open.spotify.com/artist/0MP4QHK5BlSbmwJxOncnfB) | [Rave Nation](https://open.spotify.com/album/32DBhQoPK7eYWA2vqEnwmW) | 5:37 | 2022-07-11 | 2022-07-29 |

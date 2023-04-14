@@ -1,12 +1,12 @@
 {
   "description": "Check out the official playlist from Umbrella Academy. Watch now on Netflix. ",
-  "num_followers": 402948,
+  "num_followers": 403031,
   "original_name": "The Umbrella Academy Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA3OTQ0NywwMDAwMDAwMDdlMmE1NzM4NzlkNmJjZjZiYWFkMzJmZDJmODVlNzFh",
+  "snapshot_id": "MTY1NjA3OTQ0NywwMDAwMDAwMDY4ZTI0OWUzMzVhOTc3MjQ1Yjc0YTBiOTZjODkwNzk3",
   "tracks": [
     {
       "added_at": "2022-06-22 15:55:51",
@@ -659,18 +659,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll",
-        "url": "https://open.spotify.com/album/4qqK6IrMUj5S7nbv6RNrDm"
+        "name": "Goodies Old Is New: Come Dance With Me",
+        "url": "https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy"
       },
       "artists": [
+        {
+          "name": "A Look At Yesterday",
+          "url": "https://open.spotify.com/artist/4RujBj5x2TPbUgjrdgPmSn"
+        },
         {
           "name": "The Genies",
           "url": "https://open.spotify.com/artist/0pxIV7HgczzPnHLTPQqsNu"
         }
       ],
-      "duration_ms": 138004,
-      "name": "Who's That Knockin'",
-      "url": "https://open.spotify.com/track/7eG80yBKCgkReWgbgJyv5Z"
+      "duration_ms": 137920,
+      "name": "Who's That Knocking",
+      "url": "https://open.spotify.com/track/3eYHhoaTGFYJ5XAjRFduUd"
     },
     {
       "added_at": "2022-06-17 04:02:00",

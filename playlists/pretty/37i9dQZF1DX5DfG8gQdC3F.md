@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Daniel Caesar, Drake, KAYTRAMINÉ, and Ellie Goulding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,162 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,181 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 11 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 |
 | 12 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
 | 13 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 |
-| 14 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
+| 14 | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 15 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
 | 16 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 |
 | 17 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
 | 18 | [The Idea](https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 3:31 |
-| 19 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/3AvpyCAgied0ZUj2Y1nJey) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:37 |
+| 19 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 |
 | 20 | [ELEVATOR](https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:55 |
 | 21 | [Nicky Nine Door](https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Nicky Nine Door](https://open.spotify.com/album/4xdOcLPursBFxoEArmUPPa) | 2:08 |
 | 22 | [More the Victim](https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Love Story](https://open.spotify.com/track/1IvmGrhW7ZKW0M0Vwf4iLl) | [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh) | [Love Story](https://open.spotify.com/album/5ouNtvb80m803ACgmihk1n) | 2:48 |
 | 100 | [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 |
 
-Snapshot ID: `MTY4MDg4MzAxMiwwMDAwMDAwMDc4NmU1ZTQwY2U2YjEyNDA2NmMwYTM4MDQyMTAzOGU5`
+Snapshot ID: `MTY4MDg4MzAxMiwwMDAwMDAwMGQxODZhZTU4NzEyNDAyOTUzNzk3OGVlYzI3MDFjNzEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,055 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 49,100 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 51 | [STAY A LITTLE WHILE \- Remastered](https://open.spotify.com/track/37wZ8DvKdV6mPqMR00o0kw) | [Tooz](https://open.spotify.com/artist/4CxFjw8gtxkYR5LKv3a6kN) | [STAY A LITTLE WHILE 2.0](https://open.spotify.com/album/4Sby22NxLRVwU1jsOzkjuu) | 3:01 |
 | 52 | [Lost Souls](https://open.spotify.com/track/1HLmCdpRN0He8Fuk35Zs2c) | [Mission One](https://open.spotify.com/artist/3D7skYTaenS1rRN6zCjYOa), [Raym](https://open.spotify.com/artist/3LSB4Iikob9iFXRShz5hoH) | [Lost Souls](https://open.spotify.com/album/7JJx3IvqHGm80wnPDmecJo) | 3:44 |
 | 53 | [Shabaka](https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL) | 3:33 |
-| 54 | [インキャインパルス\(Inkya Impulse\)](https://open.spotify.com/track/6FSCClIrk0Q1DhXnjUZWef) | [二口魔菜 Futakuchi Mana](https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29) | [Covers 2021](https://open.spotify.com/album/0GnuVPbMZOyajT6qWcfsMi) | 4:31 |
+| 54 | [Inkya Impulse](https://open.spotify.com/track/6FSCClIrk0Q1DhXnjUZWef) | [二口魔菜 Futakuchi Mana](https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29) | [Covers 2021](https://open.spotify.com/album/0GnuVPbMZOyajT6qWcfsMi) | 4:31 |
 | 55 | [津波](https://open.spotify.com/track/6o1mOuSSNwzCDsjJlPTqGC) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Oceans](https://open.spotify.com/album/066RpUMirkDRbBWvcyB3QT) | 2:49 |
 | 56 | [DISGUSTING!](https://open.spotify.com/track/00Vy5lKB6e40kKZONUCATl) | [Undead Papi](https://open.spotify.com/artist/0oahYd3VWxnAka5gHpY3D0), [Saush](https://open.spotify.com/artist/0NUiVNeyctDYZBPasa8w2J) | [DISGUSTING!](https://open.spotify.com/album/0LQ4gSVHZbFSAQMpZMZX1d) | 2:08 |
 | 57 | [We Are the Reason You Run and Hide](https://open.spotify.com/track/6cVi4NQqX4cT8TQLkSzgxK) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [We Are the Reason You Run and Hide](https://open.spotify.com/album/1pnLhbXbP112zOzDQubXoV) | 3:28 |

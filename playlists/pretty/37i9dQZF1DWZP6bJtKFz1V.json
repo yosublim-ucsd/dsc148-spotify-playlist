@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 86135,
+  "num_followers": 86153,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDYwNWY0YzRjMzFiYjAwOTdlODJjZmQ0YWQ1ZTBkOGM0",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDgzZTY4ZmEyMTdmMDA2MDRmMjQ4NzE1MmZkOTU4N2Nm",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 189202,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 231533,
       "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 189202,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Sagittarius",
         "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 144280,
       "name": "Into My Body",
       "url": "https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 193549,
-      "name": "Fog Machine",
-      "url": "https://open.spotify.com/track/3n0rrjFlZyNSjkYkI3GCdy"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "off the grid (deluxe)",
         "url": "https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw"
       },
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 193549,
+      "name": "Fog Machine",
+      "url": "https://open.spotify.com/track/3n0rrjFlZyNSjkYkI3GCdy"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Anything But You",
         "url": "https://open.spotify.com/album/2lVpuysUoXYL2hBVeujKn1"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 165608,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Future Shine",
         "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 173363,
       "name": "Skate",
       "url": "https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/0bG8tpGG0eY8VW4PLXa6uC"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 165608,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/1YfbJV5J2V2fU5OcFmzi03"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Robbery",
         "url": "https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 148212,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM"
     },
     {
       "added_at": "2023-01-13 05:00:00",

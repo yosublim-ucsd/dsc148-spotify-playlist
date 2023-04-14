@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Pop x Rock. Cover: McFly",
+  "description": "Pop x Rock. Cover: Busted ",
   "name": "X",
   "tracks": [
     {
@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t"
+      },
+      "artists": [
+        {
+          "name": "lleo",
+          "url": "https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168548,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx"
+    },
+    {
+      "album": {
         "name": "Call Me Up",
         "url": "https://open.spotify.com/album/01PBDRObq98AepDMLCLYAT"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 171889,
       "name": "Call Me Up",
       "url": "https://open.spotify.com/track/362rlBjH5QCosaI0tjoISk"
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
         "name": "Chloe (feat. Jutes)",
         "url": "https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi"
       },
@@ -244,7 +280,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 205254,
       "name": "Chloe (feat. Jutes)",
       "url": "https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d"
@@ -346,7 +382,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 200004,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0"
@@ -802,6 +838,28 @@
       "duration_ms": 200014,
       "name": "Lose My Mind (feat. Josh Franceschi)",
       "url": "https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6"
+    },
+    {
+      "album": {
+        "name": "Loser Kid 2.0",
+        "url": "https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223269,
+      "name": "Loser Kid 2.0",
+      "url": "https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV"
     },
     {
       "album": {

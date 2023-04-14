@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 182727,
       "name": "Apothimeno",
       "url": "https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe"
@@ -17493,6 +17493,28 @@
     },
     {
       "album": {
+        "name": "P\u00e1li",
+        "url": "https://open.spotify.com/album/4lyphonCgrDLgvqgtvf3V9"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "P\u00e1li",
+      "url": "https://open.spotify.com/track/6qtXBZ4tjzLcobqjZhjgeD"
+    },
+    {
+      "album": {
         "name": "Amantes Amentes",
         "url": "https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF"
       },
@@ -18930,7 +18952,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 123045,
       "name": "Skoni",
       "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
@@ -20838,7 +20860,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 148677,
       "name": "Tn",
       "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"

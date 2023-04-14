@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "I Shall Know Him",
+        "url": "https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Cleophus Robinson",
+          "url": "https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314373,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy"
+    },
+    {
+      "album": {
         "name": "Because You Loved Me (The Voice Performance)",
         "url": "https://open.spotify.com/album/3yiqJHde7MhHGTo2BVsTwB"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 269375,
       "name": "Calvary Came Through",
       "url": "https://open.spotify.com/track/4o6iz8qGodqmMECbiCA9iK"
@@ -1337,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Recorded Live In Houston, Texas",
+        "url": "https://open.spotify.com/album/6vvOBOMBAfmtmiXyliumwH"
+      },
+      "artists": [
+        {
+          "name": "The Gospel Music Workshop Of America Mass Choir",
+          "url": "https://open.spotify.com/artist/6bDPP8FTOoi25WFyzPmeFg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590993,
+      "name": "For God So Loved The World",
+      "url": "https://open.spotify.com/track/2l5E2CG8hSYNpGP6USNAPn"
+    },
+    {
+      "album": {
         "name": "Kandace Springs",
         "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
       },
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 257293,
       "name": "Give Me A Clean Heart",
       "url": "https://open.spotify.com/track/4JqqDnj1bxS9anq6m6IPy0"
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 226265,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/7lFaPvzijNbkEdlh1sUbCb"
@@ -2164,7 +2200,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
@@ -2200,7 +2236,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 244133,
       "name": "I Need A Word",
       "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
@@ -2282,7 +2318,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 286486,
       "name": "I Stand All Amazed - Live",
       "url": "https://open.spotify.com/track/5G74ieDqpEJZJe3V7yLxBH"
@@ -2676,7 +2712,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 243893,
       "name": "It's All In The Worship",
       "url": "https://open.spotify.com/track/7CLwhGARPJHLobduuM3wGO"
@@ -2698,6 +2734,24 @@
       "duration_ms": 196306,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/3tHIYPR7c30pHyvq7cqNUz"
+    },
+    {
+      "album": {
+        "name": "Hope of the World",
+        "url": "https://open.spotify.com/album/2BT7UEAdEFnZpH8OgC4rl2"
+      },
+      "artists": [
+        {
+          "name": "Donnie Harper & New Jersey Mass",
+          "url": "https://open.spotify.com/artist/46deE0EeElcUJnie4dMH6g"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "It's in Jesus",
+      "url": "https://open.spotify.com/track/3Jx03tVctQUhfCDGwQqR3P"
     },
     {
       "album": {
@@ -2850,7 +2904,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 224332,
       "name": "Jesus Keep Me Near the Cross",
       "url": "https://open.spotify.com/track/48mvXNlAbV4fBM4Td4OJgm"
@@ -2904,7 +2958,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 258853,
       "name": "Jesus, You Brought Me All the Way",
       "url": "https://open.spotify.com/track/7dQH1NEUQy4xVpI8ievWLE"
@@ -2940,7 +2994,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 322866,
       "name": "Just Come / Amen",
       "url": "https://open.spotify.com/track/6sYe3tc7r0tSYrQraXU7Gv"
@@ -3546,7 +3600,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 237173,
       "name": "Mindful - 1 Mic 1 Take",
       "url": "https://open.spotify.com/track/4wXPSCC2tBNdViNoOx8T7W"
@@ -3976,7 +4030,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 100133,
       "name": "On The Lord's Day",
       "url": "https://open.spotify.com/track/03wYhrhIi6qe8M3yn2DgdN"
@@ -4500,7 +4554,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 241662,
       "name": "Seamless",
       "url": "https://open.spotify.com/track/4TV3QRmZ95Fo9HDcncBOk9"
@@ -4953,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "The Awakening of Le'Andria Johnson",
+        "url": "https://open.spotify.com/album/4KcJ63drhHv268sFJKsFsQ"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307960,
+      "name": "Sunday Best Medley 1",
+      "url": "https://open.spotify.com/track/1AUuZwDpStVoX557mfssY1"
+    },
+    {
+      "album": {
         "name": "Swing Low, Sweet Chariot: 20 Gospel Favourites",
         "url": "https://open.spotify.com/album/6TW7cghV3tj1ecoe04lWWo"
       },
@@ -5380,7 +5452,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 142000,
       "name": "The Storm Is Passing Over (Hymnal #595)",
       "url": "https://open.spotify.com/track/5d79A761pLh6BOWVNDVUgu"
@@ -5492,7 +5564,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 58933,
       "name": "Two Little Fishes",
       "url": "https://open.spotify.com/track/6DiBlaMK5r7TzkxSACKsPk"
@@ -5734,7 +5806,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 146644,
       "name": "When You Hear of My Homegoing",
       "url": "https://open.spotify.com/track/1zB58yUMlg3iT70savwdUF"

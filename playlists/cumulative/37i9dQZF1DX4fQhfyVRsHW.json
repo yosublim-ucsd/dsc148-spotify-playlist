@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Green Dreams",
+        "url": "https://open.spotify.com/album/2EWJJsQKhPBmfUbsWBg5vh"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173384,
+      "name": "Green Dreams",
+      "url": "https://open.spotify.com/track/5y7jjnINUxT2sz6t8xMJf7"
+    },
+    {
+      "album": {
         "name": "Hanami",
         "url": "https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76278,
+  "num_followers": 76293,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDRjYWEwYzgyNjNmZDY0ODQyNWEzODM5NWY3N2JhMGNk",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDQzMWNiM2FlYTQ0NmNjZjNhNjg1MTNlODQyOTQ1MzAx",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 350493,
-      "name": "A Mi Manera - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/78fl7FwLL7HK60Oa6xg4Ng"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Un Mexicano en la M\u00e9xico",
         "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 154733,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Un Azteca en el Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 350493,
+      "name": "A Mi Manera - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/78fl7FwLL7HK60Oa6xg4Ng"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "A Mis 80's",
-        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180529,
-      "name": "Cuando Me Digas",
-      "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 185106,
       "name": "Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "A Mis 80's",
+        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180529,
+      "name": "Cuando Me Digas",
+      "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 198253,
       "name": "Mujeres Divinas - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/1MyJ9P4O7Jmhvx8CtPELkx"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/1dsIlMbsQao9WntC9SrwvO"
     },
     {
       "added_at": "2021-12-14 16:21:13",

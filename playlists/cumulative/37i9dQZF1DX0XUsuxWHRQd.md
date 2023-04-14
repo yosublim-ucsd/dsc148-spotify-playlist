@@ -4,7 +4,7 @@
 
 > New music from Drake, YoungBoy Never Broke Again and Lil Yachty.
 
-1,577 songs - 3 day 9 hr 21 min
+1,578 songs - 3 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Camelot](https://open.spotify.com/track/70oTjr1OpM2VOuBY36WWWz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \[Remix\]](https://open.spotify.com/album/58gXxUxvp38hNEXjplbw4m) | 2:28 | 2019-12-06 | 2019-12-07 |
 | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \- Remix](https://open.spotify.com/track/05JdgtCKkZ5CoOjM5KS4EG) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Camelot \(feat\. Yo Gotti, BlocBoy JB & Moneybagg Yo\) \[Remix\]](https://open.spotify.com/album/58gXxUxvp38hNEXjplbw4m) | 3:18 | 2019-12-07 | 2020-02-04 |
 | [Can't Believe It \(feat\. 2 Chainz\)](https://open.spotify.com/track/1r3qUIDhMvoTct7cxPnbdN) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 2:52 | 2022-09-30 | 2022-10-29 |
+| [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 | 2023-04-13 |  |
 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 | 2022-09-30 | 2022-11-19 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-22 | 2022-01-29 |
 | [Captain Hook](https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:56 | 2020-03-06 | 2020-03-20 |

@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Memory Shards",
+        "url": "https://open.spotify.com/album/6oy2YFOEtHRVdatDvJu2UY"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        },
+        {
+          "name": "marbre",
+          "url": "https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144031,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/23vxGeR3KXZWTuajuZAdDd"
+    },
+    {
+      "album": {
         "name": "Road of Souls",
         "url": "https://open.spotify.com/album/70x6CSEElVI4ioYvu6WsU5"
       },
@@ -1215,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Cloudy days",
+        "url": "https://open.spotify.com/album/4RZlj3U0bB74lg8QFDD2Oi"
+      },
+      "artists": [
+        {
+          "name": "LOFI LAND",
+          "url": "https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114214,
+      "name": "Cloudy days",
+      "url": "https://open.spotify.com/track/2XZZi9nIXtmEhCQoXbheUz"
+    },
+    {
+      "album": {
         "name": "cloudy dreams & husky sun",
         "url": "https://open.spotify.com/album/36DWp8DF7nFJlo9zp3DK2u"
       },
@@ -1400,6 +1440,24 @@
       "duration_ms": 133333,
       "name": "cotton candy clouds",
       "url": "https://open.spotify.com/track/34VlfUUS5Ogo3IM5lb7EZY"
+    },
+    {
+      "album": {
+        "name": "Cozy Cabin",
+        "url": "https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9"
+      },
+      "artists": [
+        {
+          "name": "Fiber Zone",
+          "url": "https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128072,
+      "name": "Cozy Cabin",
+      "url": "https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW"
     },
     {
       "album": {
@@ -1787,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "deep breathing",
+        "url": "https://open.spotify.com/album/2oBhIFVSPwfp1IA6nwn7OV"
+      },
+      "artists": [
+        {
+          "name": "haki donzo",
+          "url": "https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113207,
+      "name": "deep breathing",
+      "url": "https://open.spotify.com/track/5in3QCqDmxFzI5ilDQPnmK"
+    },
+    {
+      "album": {
         "name": "Deep Dreams",
         "url": "https://open.spotify.com/album/4qsbMhFToSj1UEanSkkfkw"
       },
@@ -1904,6 +1980,24 @@
       "duration_ms": 145079,
       "name": "Despite the Falling Rain",
       "url": "https://open.spotify.com/track/2lSUiEOYZxFfBZNjqeaCtT"
+    },
+    {
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120615,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
     },
     {
       "album": {
@@ -6119,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "night light",
+        "url": "https://open.spotify.com/album/33sJUwDxZnNZMenr7uLDMe"
+      },
+      "artists": [
+        {
+          "name": "bed beats",
+          "url": "https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "night light",
+      "url": "https://open.spotify.com/track/5wMikXDW1ltaJjDlwrU9SX"
+    },
+    {
+      "album": {
         "name": "Night never ends",
         "url": "https://open.spotify.com/album/2oTxE9A3SLOdMWTxIlxUl0"
       },
@@ -7122,6 +7234,28 @@
       "duration_ms": 133448,
       "name": "puddles",
       "url": "https://open.spotify.com/track/1ICqwks7d1Jw0ivRAjnIUt"
+    },
+    {
+      "album": {
+        "name": "The Feel Better Experience",
+        "url": "https://open.spotify.com/album/4GbhLYat5rXhSELUlje2Ef"
+      },
+      "artists": [
+        {
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Purify The Mind",
+      "url": "https://open.spotify.com/track/7DyXcgVDaWMuH7EwdcoUSo"
     },
     {
       "album": {
@@ -9361,6 +9495,24 @@
     },
     {
       "album": {
+        "name": "Thinking of you",
+        "url": "https://open.spotify.com/album/3npdrpVJTTk07pk0tNvGHL"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98472,
+      "name": "Thinking of you",
+      "url": "https://open.spotify.com/track/7o5dVuBnQyNJpp2RLOw9aO"
+    },
+    {
+      "album": {
         "name": "this dark night",
         "url": "https://open.spotify.com/album/4ERGLrI1n5VDhUIaRdYo3P"
       },
@@ -10066,6 +10218,24 @@
       "duration_ms": 118209,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/2vWHzlYJmWEkqRkEj2dxIF"
+    },
+    {
+      "album": {
+        "name": "Will-O-Wisp",
+        "url": "https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA"
+      },
+      "artists": [
+        {
+          "name": "Kuma",
+          "url": "https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154772,
+      "name": "Will-O-Wisp",
+      "url": "https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep"
     },
     {
       "album": {

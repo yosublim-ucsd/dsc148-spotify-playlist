@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring Daniel Caesar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,311 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,325 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/3AvpyCAgied0ZUj2Y1nJey) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:37 |
+| 1 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 |
 | 2 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
 | 3 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
 | 4 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 73 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/4dmNBu6IEQahPJDlQQOY69) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back of My Mind](https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1) | 3:34 |
 | 74 | [Open \(feat\. Majid Jordan\)](https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 3:47 |
 
-Snapshot ID: `MTY4MDk2OTU2NiwwMDAwMDAwMDNhOTAzOWUzMGY2MjJlNDk2MWYwMzg3NTBiMGM4Yzg2`
+Snapshot ID: `MTY4MDk2OTU2NiwwMDAwMDAwMDZjZDZlNDlmMjhiYTk2YmExOTdlZmVmZjczYzUwZTE2`

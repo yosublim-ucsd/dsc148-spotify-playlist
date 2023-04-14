@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-498 songs - 22 hr 59 min
+499 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,8 @@
 | [YOU](https://open.spotify.com/track/0rXaoCJbmIUdMIKQwinA0k) | [J\-Wright](https://open.spotify.com/artist/4ZwarqrZFCfYgb3F4KS6gr) | [YOU](https://open.spotify.com/album/2AMsS7LgT4DAgMfRTTo7r0) | 2:58 | 2022-06-03 | 2022-11-30 |
 | [you](https://open.spotify.com/track/249pLzwkXDMii8wHyfZpZD) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [you](https://open.spotify.com/album/25zQdgsABXUprCCJp82mph) | 2:41 | 2022-02-04 | 2022-07-02 |
 | [You Say](https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [You Say](https://open.spotify.com/album/4WWh2CNXxoAweEEcsZqadG) | 3:44 | 2023-04-04 |  |
-| [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/46BkJ2O37x5Tg8BjjYVcMj) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/3WekRkctnb3QRPomnKFG3K) | 3:20 | 2023-04-07 |  |
+| [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/46BkJ2O37x5Tg8BjjYVcMj) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/3WekRkctnb3QRPomnKFG3K) | 3:20 | 2023-04-07 | 2023-04-14 |
+| [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/6tDSxtJwyvQ6TL5jJK5RjJ) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/6yktPF79RZehdGx93H9wwh) | 3:20 | 2023-04-07 |  |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 | 2022-08-06 |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

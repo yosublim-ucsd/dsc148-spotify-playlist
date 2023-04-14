@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,404 likes - 95 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,494 likes - 95 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 41 | [Honesty & Truth \- 10\-Minute Mix For Meditation & Massage](https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Spa Music: Tibet \(80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation\)](https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3) | 10:59 |
 | 42 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 |
 | 43 | [Earth and Sky](https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ) | [Terry Oldfield](https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j) | [Yoga Harmony](https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai) | 8:19 |
-| 44 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
-| 45 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 |
-| 46 | [Garden of Peace](https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba) | [Philip Guyler](https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY) | [Holistic Relaxation](https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R) | 6:04 |
-| 47 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
+| 44 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 |
+| 45 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
+| 46 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
+| 47 | [Garden of Peace](https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba) | [Philip Guyler](https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY) | [Holistic Relaxation](https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R) | 6:04 |
 | 48 | [Savasana](https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50) | [Kai Franz](https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE) | [Surya Namaskar](https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj) | 15:18 |
 | 49 | [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 |
 | 50 | [Flutes of Harmony](https://open.spotify.com/track/7uHPpDHBB42j8cPmIDjKpn) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s), [Raman Marharjan](https://open.spotify.com/artist/6woWbiCbnSbegIEX4SDwls) | [Echoes of Silence](https://open.spotify.com/album/4i5kqpHHr4fjDNzusQeDuH) | 3:37 |
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 55 | [Oxygen Bar](https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe) | 5:31 |
 | 56 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
 | 57 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
-| 58 | [Barefoot](https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Pendulum](https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE) | 4:07 |
-| 59 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
+| 58 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
+| 59 | [Barefoot](https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Pendulum](https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE) | 4:07 |
 | 60 | [Hopefull](https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:18 |
 | 61 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
 | 62 | [Loving Kindness](https://open.spotify.com/track/3BVhaPjedEZLZYVGpRQVSd) | [Ashana](https://open.spotify.com/artist/31LMvrFFvlQQh51k6ZlMIW) | [All Is Forgiven](https://open.spotify.com/album/6iAissytkJ7K7MBYLO25n3) | 9:21 |
-| 63 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
-| 64 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
+| 63 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
+| 64 | [Heaven](https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb) | 5:28 |
 | 65 | [Between the Worlds Yoga Nidra \- Sunset Flow](https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 7:51 |
-| 66 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
-| 67 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 |
+| 66 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 |
+| 67 | [Hands of Love](https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc) | 3:35 |
 | 68 | [Descending](https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Shakuhachi Sleep Music](https://open.spotify.com/album/4t1knEf4OemS9en0BH7CGf) | 9:41 |
 | 69 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
 | 70 | [Spacious Offerings](https://open.spotify.com/track/03h1p2QOhlQtFIhnup56ao) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI), [Desert Dwellers](https://open.spotify.com/artist/6EN5zX1Q2W7qcesyatdUfO), [Liquid Bloom](https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS) | [Asudha Yoga Dub Grooves](https://open.spotify.com/album/6nEIf1fbM3aTmFTNp4nMBM) | 5:52 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 94 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 | 95 | [Pearls](https://open.spotify.com/track/65ubCt2SVFiRJuEv7bICfL) | [Heads Over Dreams](https://open.spotify.com/artist/4WPD5ddaSmq6gKDwvHIZHj) | [INFINITY](https://open.spotify.com/album/5VFvR7a0Z4xqRvFT0bAaGk) | 2:19 |
 
-Snapshot ID: `MTY3OTY0MTc3OSwwMDAwMDAwMGQ2ZjljMzI0MDE1NTkzMTA1MTBjN2U4MjZhMTJlZjIx`
+Snapshot ID: `MTY3OTY0MTc3OSwwMDAwMDAwMDE5YTYwMzg1OGI3ZmEzZmQ1ZmQ4YTkxNDc2OWJlNDIz`

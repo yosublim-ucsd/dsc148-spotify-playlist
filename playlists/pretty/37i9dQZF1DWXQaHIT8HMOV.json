@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1421,
+  "num_followers": 1422,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg2Njg3NSwwMDAwMDAwMDM5YjI0MTdlNDRlYmE5YTlmM2ZjMWVlZTY5MTgyZTQx",
+  "snapshot_id": "MTY4MDg2Njg3NSwwMDAwMDAwMGI3MTk0NzgzOTliMTAxNzM4MDQ0OWNmYmUwZmI4OWQ3",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
     },
     {
-      "added_at": "2023-04-13 01:02:52",
+      "added_at": "2023-04-14 01:03:46",
       "album": {
         "name": "Tewekweka | An Xpressions UG Session",
         "url": "https://open.spotify.com/album/1pSGVnCffm5YwXctqIrdem"
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Bulamu",
         "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 193246,
       "name": "Bulamu",
       "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -711,8 +711,8 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+        "name": "Byowaba",
+        "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+      "duration_ms": 224947,
+      "name": "Byowaba",
+      "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Latinum",
-          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
-        }
-      ],
-      "duration_ms": 201822,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Bega Bega",
         "url": "https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 172016,
       "name": "Bega Bega",
       "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
+        }
+      ],
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -855,24 +855,24 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+        "name": "Kampala",
+        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+      "duration_ms": 189544,
+      "name": "Kampala",
+      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
     },
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Byowaba",
-        "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
         }
       ],
-      "duration_ms": 224947,
-      "name": "Byowaba",
-      "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2023-04-06 20:59:00",

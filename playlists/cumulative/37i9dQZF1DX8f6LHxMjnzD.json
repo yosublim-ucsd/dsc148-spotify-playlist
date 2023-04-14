@@ -8077,7 +8077,7 @@
     },
     {
       "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
+        "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
@@ -8094,7 +8094,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
+      "name": "Caught A Body (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
@@ -19930,10 +19930,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 185026,
       "name": "Hold",
       "url": "https://open.spotify.com/track/0yAO1YpOFiNnmdRAW6CgqT"
+    },
+    {
+      "album": {
+        "name": "Jesus At The Gay Bar",
+        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 745105,
+  "num_followers": 745187,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk4OTE1NCwwMDAwMDAwMGRjODgyZTY1MDlmZTc4MjdlNDQyNjg5ZjBlMzQ0Nzll",
+  "snapshot_id": "MTY4MDk4OTE1NCwwMDAwMDAwMDk2MGFjYzgzYTUxYjIzNjkxODZiOTQ5ZTZkMTJjZDNk",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -217,20 +217,20 @@
       "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2023-04-08 21:25:54",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5"
     },
     {
       "added_at": "2023-04-03 16:57:20",
@@ -297,20 +297,20 @@
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
-      "added_at": "2023-04-08 21:25:54",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5"
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Show & Prove",
+        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Show & Prove",
+      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "age/sex/location",
@@ -675,22 +691,6 @@
       "duration_ms": 205453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Show & Prove",
-        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Show & Prove",
-      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -769,6 +769,26 @@
       "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 301081,
+      "name": "Boy Bye (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Closer (Deluxe)",
@@ -821,24 +841,20 @@
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
         }
       ],
-      "duration_ms": 301081,
-      "name": "Boy Bye (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9"
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2023-02-12 14:52:23",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "I Need To Know",
-        "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 240889,
-      "name": "I Need To Know",
-      "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "The Piano Album",
@@ -1229,36 +1245,20 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-02-12 14:52:23",
       "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/2pCNvQ7AcClmXZmpIfyP2N"
+        "name": "I Need To Know",
+        "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/2364WrvPTUHobDNURudCbM"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "PHILEO",
-        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 168235,
-      "name": "Scene 1",
-      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+      "duration_ms": 240889,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6"
     },
     {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "On the Run",
@@ -1393,20 +1409,20 @@
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
     },
     {
-      "added_at": "2022-08-26 04:46:22",
+      "added_at": "2022-10-03 05:27:10",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
+      "duration_ms": 370213,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 220249,
       "name": "Demon Time (with Ari Lennox) - Remix",
       "url": "https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 370213,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -1613,6 +1613,22 @@
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Go b/w Fight Club",
+        "url": "https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 206396,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
+    },
+    {
       "added_at": "2022-09-30 04:06:57",
       "album": {
         "name": "without you",
@@ -1643,22 +1659,6 @@
       "duration_ms": 396825,
       "name": "Don't Think You Ever Loved Me",
       "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Go b/w Fight Club",
-        "url": "https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 206396,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1729,6 +1729,22 @@
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 199903,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Panna Cotta",
@@ -1753,22 +1769,6 @@
       "url": "https://open.spotify.com/track/7jLsZNfZHaUfWtdQw5tmvK"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Sometimes, I'm Speechless",
-        "url": "https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE"
-      },
-      "artists": [
-        {
-          "name": "IYAMAH",
-          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt"
-    },
-    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Angels & Queens",
@@ -1785,20 +1785,20 @@
       "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+        "name": "Sometimes, I'm Speechless",
+        "url": "https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+      "duration_ms": 174637,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt"
     }
   ],
   "unique_name": "Soul Coffee",

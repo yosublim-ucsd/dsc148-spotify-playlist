@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 5155,
+  "num_followers": 5168,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDg1YmVjZDQ4ZWJlMTRhM2UyNDAzNGM2YzU0MTFhYzdm",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDEzMTBlMTkzZDk2MmVlYzE0NTk4NjNhNjk4NTg1OTQ3",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
+        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
+      },
+      "artists": [
+        {
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
+        }
+      ],
+      "duration_ms": 252725,
+      "name": "Open the Eyes of My Heart Lord",
+      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Worship Initiative, Vol. 2",
         "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 229487,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
-        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
-      },
-      "artists": [
-        {
-          "name": "Elevation",
-          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
-        }
-      ],
-      "duration_ms": 252725,
-      "name": "Open the Eyes of My Heart Lord",
-      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
     },
     {
       "added_at": "2021-06-29 13:36:02",

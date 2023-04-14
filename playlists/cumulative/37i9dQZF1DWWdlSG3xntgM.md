@@ -4,7 +4,7 @@
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-184 songs - 15 hr 39 min
+185 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Mua Nua Dem](https://open.spotify.com/track/4yA7tlu0YKYqFPp17hNmX1) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Mua Buon Nho Anh](https://open.spotify.com/album/52stq8h34xtnE8NhLhXVVV) | 4:09 | 2022-03-11 | 2022-07-27 |
 | [Mùa xuân trông thư em](https://open.spotify.com/track/3zyzXofWUfEN5pT6u00nV0) | [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Tình bạn tình lính](https://open.spotify.com/album/1lnlA5sXZmqDr41U44qpA2) | 4:31 | 2023-01-19 |  |
 | [Mãi Là Niềm Đau](https://open.spotify.com/track/0HwirubE0A00VYVLGOM5wp) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Mãi Là Niềm Đau](https://open.spotify.com/album/5OOBWwpjpjoZg9UuT8LyD3) | 4:53 | 2022-03-11 |  |
-| [Mùa Xuân Đó Có Em](https://open.spotify.com/track/61WAhBqLVRTESiLSNka4mO) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Xuân](https://open.spotify.com/album/71yY4SX6OLZTyPXL6AkDUg) | 4:13 | 2023-01-18 |  |
+| [Mùa Xuân Đó Có Em](https://open.spotify.com/track/61WAhBqLVRTESiLSNka4mO) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Xuân](https://open.spotify.com/album/71yY4SX6OLZTyPXL6AkDUg) | 4:13 | 2023-01-18 | 2023-04-14 |
+| [Mùa Xuân Đó Có Em](https://open.spotify.com/track/5upOJADeXfN0FDRQcIbYfm) | [Chế Linh](https://open.spotify.com/artist/4H5amMkzRSO9xZpeAv4xlT) | [Xuân Tha Hương Xuân Lạc Xứ](https://open.spotify.com/album/3E7RCcMsmi8kTbTj9n1RS4) | 4:12 | 2023-01-19 |  |
 | [Mùa xuân đó có em](https://open.spotify.com/track/6Nv1ftXQQxQrgwTgUioXg8) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mùa Xuân Đó Có Em](https://open.spotify.com/album/11Zy14Xv73QRBRFMykcFz5) | 4:35 | 2022-03-11 |  |
 | [Mùa Xuân Đầu Tiên](https://open.spotify.com/track/0eDhBO2EewSusnQNFp0gxQ) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [The Son](https://open.spotify.com/artist/4hmo0RtMEIDYCsEj26S1xH) | [Mùa Xuân Đầu Tiên \- Tình Khúc Tuấn Khanh](https://open.spotify.com/album/5yJFzyd7Zz2edvAGrp2PKH) | 5:02 | 2023-01-17 |  |
 | [Mưa Lệ](https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH) | [Tuấn Anh](https://open.spotify.com/artist/4zQeGGpvdaprG8JNG2pueS) | [Hương Tình Cũ 2](https://open.spotify.com/album/6dx0sFloEPYu8goYx9Hmpr) | 4:21 | 2022-03-11 | 2023-01-20 |

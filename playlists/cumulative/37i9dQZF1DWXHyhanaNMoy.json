@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Alleen maar motion en good vibes. Cover: Becky G",
+  "description": "Alleen maar motion en good vibes. Cover: Mello & Architrackz",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 138305,
       "name": "2:30",
       "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 93509,
       "name": "Dyscalculie",
       "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
@@ -3248,7 +3248,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 101818,
       "name": "Fiets",
       "url": "https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j"
@@ -4931,6 +4931,40 @@
     },
     {
       "album": {
+        "name": "Kiekeboe (The Remixes)",
+        "url": "https://open.spotify.com/album/7FZCoTY4vC1c26W6DZfkAA"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Deeno Deshh",
+          "url": "https://open.spotify.com/artist/2rtZrTzDp2lvaraXfbron0"
+        },
+        {
+          "name": "Jorda",
+          "url": "https://open.spotify.com/artist/2JFrOlm8n2quN9uQ2lkeO5"
+        },
+        {
+          "name": "Peso El Connect",
+          "url": "https://open.spotify.com/artist/3DHIq4oCIITJXI82lGv4IC"
+        },
+        {
+          "name": "JM Fuego",
+          "url": "https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "Kiekeboe - Spanish Version",
+      "url": "https://open.spotify.com/track/1KD3zcXE6hjVcsNouvOGlD"
+    },
+    {
+      "album": {
         "name": "Koffie Op De Maan",
         "url": "https://open.spotify.com/album/3FALwdm6Iy2xT2xkfOKc6v"
       },
@@ -5270,6 +5304,32 @@
       "duration_ms": 207547,
       "name": "Last Van Jou",
       "url": "https://open.spotify.com/track/573h9TLFe81ewUHQ3p6zPW"
+    },
+    {
+      "album": {
+        "name": "Lastig Zijn (feat. Major Dreamin' & Demmaa & Jav\u00e9)",
+        "url": "https://open.spotify.com/album/6rqWs95cuR2jNiUX31uqHI"
+      },
+      "artists": [
+        {
+          "name": "BuenosDiaz",
+          "url": "https://open.spotify.com/artist/3qMCibsPjK04k9BAijQCRM"
+        },
+        {
+          "name": "Major Dreamin'",
+          "url": "https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG"
+        },
+        {
+          "name": "Demmaa & Jav\u00e9",
+          "url": "https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lastig Zijn (feat. Major Dreamin' & Demmaa & Jav\u00e9)",
+      "url": "https://open.spotify.com/track/7IQrCysITq82Es5RSxVP8S"
     },
     {
       "album": {
@@ -6076,7 +6136,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 163240,
       "name": "MI DROGA",
       "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
@@ -9191,6 +9251,28 @@
     },
     {
       "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "album": {
         "name": "TIK TAK",
         "url": "https://open.spotify.com/album/4ClBHOlRXu010U7o5jdnQ3"
       },
@@ -9488,6 +9570,24 @@
       "duration_ms": 137124,
       "name": "UNO",
       "url": "https://open.spotify.com/track/4OjKntAuj6ztxjwgXPu9QQ"
+    },
+    {
+      "album": {
+        "name": "Urau",
+        "url": "https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Urau",
+      "url": "https://open.spotify.com/track/3ar209bZ8iKi049HcYhRFQ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 372110,
+  "num_followers": 372184,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMDk0NDFiNjA0MTgyYjlmZmIzOTIwYWZjYzViMDZlMDMw",
+  "snapshot_id": "MTY4MTM5NzI0MCwwMDAwMDAwMDJlOWY1YzllYzAzMzhhNTRlYWVkMjU4Zjk2YWRhNGYw",
   "tracks": [
     {
       "added_at": "2023-04-06 14:00:00",
@@ -79,22 +79,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "To Be Yours (feat. Claud)",
-        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 211782,
-      "name": "To Be Yours (feat. Claud)",
-      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -119,22 +119,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+        "name": "To Be Yours (feat. Claud)",
+        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+      "duration_ms": 211782,
+      "name": "To Be Yours (feat. Claud)",
+      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -309,6 +309,26 @@
       "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
     },
     {
+      "added_at": "2023-04-14 00:42:44",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/4hrFvYVpmSWQu415WpGQ7V"
+      },
+      "artists": [
+        {
+          "name": "SUPEREGO",
+          "url": "https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER"
+        },
+        {
+          "name": "Sakidasumi",
+          "url": "https://open.spotify.com/artist/007w6UZAPGJnCgeUixkyOT"
+        }
+      ],
+      "duration_ms": 221606,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/7vYSljwfq9zqQzLaHU7Jot"
+    },
+    {
       "added_at": "2023-04-06 14:00:00",
       "album": {
         "name": "Here",
@@ -439,22 +459,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Oaks Are Real",
         "url": "https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54"
       },
@@ -467,6 +471,22 @@
       "duration_ms": 172769,
       "name": "Oaks Are Real",
       "url": "https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -491,38 +511,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -539,6 +527,22 @@
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -567,6 +571,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 199000,
       "name": "Hopedrunk Everasking",
       "url": "https://open.spotify.com/track/7y4aQuePr8SgBH14rXzheh"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 197150,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -711,6 +715,22 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/1GHlNPJAitCBKvrjJeaZsO"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 197150,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/1JdScfytE2eaLeVJ7a7KUQ"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -843,22 +863,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All I've Ever Known",
-      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Rolling Back (Durante Remix)",
         "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
@@ -875,6 +879,22 @@
       "duration_ms": 238000,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "All I've Ever Known",
+      "url": "https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -927,22 +947,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Soldiner",
         "url": "https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu"
       },
@@ -955,6 +959,22 @@
       "duration_ms": 346214,
       "name": "Soldiner",
       "url": "https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1003,22 +1023,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 206601,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -1035,6 +1039,22 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 206601,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1075,46 +1095,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Above the Salt",
-        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
-      },
-      "artists": [
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 226690,
-      "name": "Above the Salt",
-      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Protocol",
         "url": "https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m"
       },
@@ -1139,6 +1119,46 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Above the Salt",
+        "url": "https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE"
+      },
+      "artists": [
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 226690,
+      "name": "Above the Salt",
+      "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "malo okoma",
         "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
@@ -1159,18 +1179,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
         }
       ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1195,22 +1219,18 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+        "name": "A Quiet Voice",
+        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
       },
       "artists": [
         {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+      "duration_ms": 282812,
+      "name": "A Quiet Voice",
+      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Fade Into Black",
-        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Fade Into Black",
-      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Ask",
-        "url": "https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD"
+        "name": "Fade Into Black",
+        "url": "https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR"
       },
       "artists": [
         {
-          "name": "Dual Sessions",
-          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Style Project",
-          "url": "https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Ask",
-      "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
+      "duration_ms": 244878,
+      "name": "Fade Into Black",
+      "url": "https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6"
     }
   ],
   "unique_name": "Just Chill",

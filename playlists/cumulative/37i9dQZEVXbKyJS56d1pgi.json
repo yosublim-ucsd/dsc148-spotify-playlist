@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 224252,
       "name": "AO TEU LADO",
       "url": "https://open.spotify.com/track/58R8vYNL4ALPC7LtnzYqXp"
@@ -2391,7 +2391,7 @@
     },
     {
       "album": {
-        "name": "chamada n\u00e3o atendida",
+        "name": "chamada n\u00e3o Atendida",
         "url": "https://open.spotify.com/album/3BYMDX4fOqP8KI7UamT5Ji"
       },
       "artists": [
@@ -2404,7 +2404,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204733,
-      "name": "chamada n\u00e3o atendida",
+      "name": "chamada n\u00e3o Atendida",
       "url": "https://open.spotify.com/track/0oKpBxCq4U5IvUZqMuVMM3"
     },
     {
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"

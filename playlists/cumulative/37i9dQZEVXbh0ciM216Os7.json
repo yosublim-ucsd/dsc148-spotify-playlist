@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 239400,
       "name": "Cat and Mouse With the Light",
       "url": "https://open.spotify.com/track/1MHEC9hJ7lIHSQfyrHLHtt"
@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282426,
+      "name": "Marie and the Undersea",
+      "url": "https://open.spotify.com/track/1ht61Ev8xu5vq2joimHeE6"
+    },
+    {
+      "album": {
         "name": "Meeting The Master",
         "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
       },
@@ -2859,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Death Below",
+        "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83186,
+      "name": "Sevink",
+      "url": "https://open.spotify.com/track/1mhJkIAXpaR1x7JcE2d2vL"
+    },
+    {
+      "album": {
         "name": "Silent Running (feat. Adeleye Omotayo)",
         "url": "https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9"
       },
@@ -3298,7 +3334,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 467849,
       "name": "The Cleansing",
       "url": "https://open.spotify.com/track/3Ma0TI2DDjuZtrH2IvYt7D"
@@ -3964,20 +4000,20 @@
       },
       "artists": [
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Fashawn",
-          "url": "https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY"
-        },
-        {
           "name": "Meeco",
           "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
         },
         {
           "name": "DJ Access",
           "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Fashawn",
+          "url": "https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY"
         }
       ],
       "date_added": "2023-03-17",

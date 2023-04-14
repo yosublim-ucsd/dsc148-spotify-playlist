@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,890 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,015 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 6 | [El 3achk S3ib](https://open.spotify.com/track/0waRpeDDFkMZooRQtr3bOa) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [El 3achk S3ib](https://open.spotify.com/album/2V49uoeC49aaRrRRT7tVw5) | 3:56 |
 | 7 | [Lgalb Lgalb](https://open.spotify.com/track/1oBFL6Oi6gfVqpe6ma1SoD) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Lgalb Lgalb](https://open.spotify.com/album/4WfhNfj7kIHN0Y34eMA5nt) | 5:53 |
 | 8 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 |
-| 9 | [Allah Ghaleb](https://open.spotify.com/track/1w1C72J7CTI02ZJabhqiF8) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Allah Ghaleb](https://open.spotify.com/album/5tz0bhi47zfLWciF35NHsW) | 5:11 |
-| 10 | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG) | [Dz Prod](https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf) | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS) | 3:13 |
-| 11 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 |
-| 12 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 |
-| 13 | [EL KHAYNA](https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [EL KHAYNA](https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq) | 3:40 |
-| 14 | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 |
-| 15 | [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb djalil](https://open.spotify.com/artist/2aTFw3gTDHVHXYYzgRf3xy) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 |
-| 16 | [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 |
-| 17 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 |
-| 18 | [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 |
-| 19 | [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 |
+| 9 | [Adieu El Ouzoubia](https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Adieu El Ouzoubia](https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ) | 4:02 |
+| 10 | [Allah Ghaleb](https://open.spotify.com/track/1w1C72J7CTI02ZJabhqiF8) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Tchikou 22](https://open.spotify.com/artist/1Awe2WHMc69DBEf6TG6WvX) | [Allah Ghaleb](https://open.spotify.com/album/5tz0bhi47zfLWciF35NHsW) | 5:11 |
+| 11 | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG) | [Dz Prod](https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf) | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS) | 3:13 |
+| 12 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 |
+| 13 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 |
+| 14 | [EL KHAYNA](https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [EL KHAYNA](https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq) | 3:40 |
+| 15 | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 |
+| 16 | [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb djalil](https://open.spotify.com/artist/2aTFw3gTDHVHXYYzgRf3xy) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 |
+| 17 | [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 |
+| 18 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 |
+| 19 | [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 |
 | 20 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 |
 | 21 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 |
 | 22 | [Manich Kima Bakri](https://open.spotify.com/track/1b6ylP8XBdY7jOD7bwSWZk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/3cjlTzZoHAlpC7VsWJBv8F) | 5:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 60 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY4MTI2NjU3MywwMDAwMDAwMDQxMjE1YzA2ODNlY2NlYTJlMWZiOGJmODE5NDM2ZThi`
+Snapshot ID: `MTY4MTQzMzQzMSwwMDAwMDAwMDM1OGI5YTM4MzIwOGQ0MWYyMGQxNGY4NTk1YjI5Zjc1`

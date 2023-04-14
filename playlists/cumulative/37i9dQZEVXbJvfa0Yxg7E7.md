@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,029 songs - 2 day 5 hr 41 min
+1,030 songs - 2 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Har du plass?](https://open.spotify.com/track/6NxAnq1esWHaY9E0XEqurV) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Har du plass?](https://open.spotify.com/album/2HwOrNzv9ELtxRJ1gMwOah) | 2:47 | 2022-11-19 | 2022-11-27 |
 | [Harryhandel Halleluja](https://open.spotify.com/track/2nERzk99mUpwd8XrBOVADz) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Harryhandel Halleluja](https://open.spotify.com/album/7CX0XAiJpBFkFr2sA376fo) | 2:03 | 2021-11-28 | 2022-01-01 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 | 2022-12-28 |
+| [HAWAII](https://open.spotify.com/track/58WuR6KguEQwc0YqGs5mq9) | [Lassesaelevik](https://open.spotify.com/artist/6qGpra6DbgWvvyC8mOVvxV) | [HAWAII](https://open.spotify.com/album/5EktXzearpx05ITBc0uwHJ) | 1:56 | 2023-04-13 |  |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-01-22 | 2022-01-30 |
 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 | 2021-03-27\* | 2021-05-03 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-19 | 2022-03-13 |
@@ -718,7 +719,7 @@
 | [Oliver Twist](https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Oliver Twist](https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5) | 2:54 | 2021-06-09 | 2021-06-20 |
 | [Om du dro ifra mæ](https://open.spotify.com/track/6utV33OqCk2MxxRERcTUFY) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Om du dro ifra mæ](https://open.spotify.com/album/5TQvq8KWO6gkwBLBeeWozh) | 2:51 | 2021-10-12 | 2021-10-23 |
 | [OMG](https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [OMG](https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf) | 2:48 | 2022-06-11 | 2023-01-05 |
-| [Ompa](https://open.spotify.com/track/76LVkvbe0YmC216gQ1ItfU) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Ompa](https://open.spotify.com/album/4TrxcTk82sVLEEQ8LFLOYC) | 2:12 | 2023-04-01 |  |
+| [Ompa](https://open.spotify.com/track/76LVkvbe0YmC216gQ1ItfU) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Ompa](https://open.spotify.com/album/4TrxcTk82sVLEEQ8LFLOYC) | 2:12 | 2023-04-01 | 2023-04-14 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-13 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-27 | 2022-07-10 |
 | [One Life](https://open.spotify.com/track/4qeMMEoVX97kGLbGgfFm2r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/0CL15DrwVyxiR9lnrYeDDG) | 3:51 | 2022-05-28 | 2022-05-30 |

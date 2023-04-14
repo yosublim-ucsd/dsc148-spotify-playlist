@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> C.R.O & Duki en la casa del Trap de Argentino.
+> C.R.O & Duki en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,828 likes - 103 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,096 likes - 103 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 102 | [West Side](https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [West Side](https://open.spotify.com/album/1EFPBMgpUspW5wp7JUkwIV) | 2:31 |
 | 103 | [Almanaque](https://open.spotify.com/track/5N5E4FH3cNaRV23HvmYNEe) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Almanaque](https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l) | 3:20 |
 
-Snapshot ID: `MTY4MDgzNjQwMCwwMDAwMDAwMGZlZmIxNzYzNTRhYTg1YjZmYTMxMmE5ZDdiNzE3Nzk4`
+Snapshot ID: `MTY4MTQwNDc5OCwwMDAwMDAwMDhhNWU0ZWE2MWZhODQ4ZDc0ZjNjNDY0MDZiMDI3ZTI5`

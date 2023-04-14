@@ -2853,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "ATTICS",
+        "url": "https://open.spotify.com/album/1x7LWVx6wowoOFcbpImeEy"
+      },
+      "artists": [
+        {
+          "name": "Diana Bidea",
+          "url": "https://open.spotify.com/artist/0jxlc4VvGS9CXhDgJRtXmW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196718,
+      "name": "ATTICS",
+      "url": "https://open.spotify.com/track/1teIYf42bX3jT3lpPn5KKd"
+    },
+    {
+      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/6b2aFLcRgVfz0vImU7sASa"
       },

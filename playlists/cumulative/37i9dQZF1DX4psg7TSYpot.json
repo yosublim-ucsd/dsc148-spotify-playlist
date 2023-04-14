@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231647,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo"
+    },
+    {
+      "album": {
         "name": "All Shook Up",
         "url": "https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR"
       },
@@ -38,6 +56,42 @@
       "duration_ms": 104947,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC"
+    },
+    {
+      "album": {
+        "name": "All Star - Acoustic",
+        "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230535,
+      "name": "All Star - Acoustic",
+      "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199252,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b"
     },
     {
       "album": {
@@ -106,7 +160,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 194667,
       "name": "Back For Good",
       "url": "https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp"
@@ -203,6 +257,42 @@
     },
     {
       "album": {
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
+    },
+    {
+      "album": {
+        "name": "Blank Space - Acoustic",
+        "url": "https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245795,
+      "name": "Blank Space - Acoustic",
+      "url": "https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm"
+    },
+    {
+      "album": {
         "name": "Bound For The Floor",
         "url": "https://open.spotify.com/album/02bm3jjVSoyLWTPgbsT3lN"
       },
@@ -218,6 +308,24 @@
       "duration_ms": 173454,
       "name": "Bound For The Floor",
       "url": "https://open.spotify.com/track/31PCgVHSfF31y58BPMt59H"
+    },
+    {
+      "album": {
+        "name": "breakeven",
+        "url": "https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210783,
+      "name": "breakeven",
+      "url": "https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP"
     },
     {
       "album": {
@@ -272,6 +380,24 @@
       "duration_ms": 220121,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3oWSDDSjKpLsqbszAvzOap"
+    },
+    {
+      "album": {
+        "name": "Call Me Maybe",
+        "url": "https://open.spotify.com/album/6jz6kfRiAOzpd0VMh0MPQh"
+      },
+      "artists": [
+        {
+          "name": "Graham Carter",
+          "url": "https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188125,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/5dX20XdA69FD8D7ZXHuLnN"
     },
     {
       "album": {
@@ -365,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx"
       },
@@ -394,7 +538,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 227500,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
@@ -448,7 +592,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 239133,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/3IDYyNRmL5npjqm3x6fqjQ"
@@ -509,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Do You Realize??",
+        "url": "https://open.spotify.com/album/5inltNW8Q3wOkGU0ByPFkC"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264374,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2uYkJwySHVj7DpLBsbum60"
+    },
+    {
+      "album": {
         "name": "Don't Be Cruel",
         "url": "https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq"
       },
@@ -520,7 +682,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 161002,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z"
@@ -671,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Funny Face",
+        "url": "https://open.spotify.com/album/04FKFeQfYlRSkC5sDBlQf7"
+      },
+      "artists": [
+        {
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181039,
+      "name": "Funny Face",
+      "url": "https://open.spotify.com/track/4OwJUKO2xmpPy8CoauqhaT"
+    },
+    {
+      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
@@ -682,7 +862,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 172992,
       "name": "Girls Just Wanna Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
@@ -909,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
+      },
+      "artists": [
+        {
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206101,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
+    },
+    {
+      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
@@ -999,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "I don't care",
+        "url": "https://open.spotify.com/album/2hsM55o3e7s7NH2fUgHHfO"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210125,
+      "name": "I don't care",
+      "url": "https://open.spotify.com/track/4v6GiciF50s2mX1FtqXpue"
+    },
+    {
+      "album": {
         "name": "I Don't Care (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI"
       },
@@ -1039,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "I like me better",
+        "url": "https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192065,
+      "name": "I like me better",
+      "url": "https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p"
+    },
+    {
+      "album": {
         "name": "I Love The Way You Love Me",
         "url": "https://open.spotify.com/album/648cHrWoPorXBdwHNU3bzS"
       },
@@ -1050,7 +1284,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 203232,
       "name": "I Love The Way You Love Me",
       "url": "https://open.spotify.com/track/1DcKLf37erdwo5A3rEw9qL"
@@ -1112,7 +1346,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 191114,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/6ifRkrDOVOl894U1YuuTfM"
@@ -1202,7 +1436,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 227007,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx"
@@ -1224,6 +1458,24 @@
       "duration_ms": 174857,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
+    },
+    {
+      "album": {
+        "name": "I'm So Tired...",
+        "url": "https://open.spotify.com/album/3XqIOJaJckjEYwx8zOhslK"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175432,
+      "name": "I'm So Tired...",
+      "url": "https://open.spotify.com/track/3KUBVgFUF0JfXI0MkcHgQO"
     },
     {
       "album": {
@@ -1407,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Lavender Haze",
+        "url": "https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223437,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1"
+    },
+    {
+      "album": {
         "name": "Let Her Go",
         "url": "https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc"
       },
@@ -1476,6 +1746,24 @@
       "duration_ms": 227882,
       "name": "Life Is Confusing",
       "url": "https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY"
+    },
+    {
+      "album": {
+        "name": "Light On - Acoustic",
+        "url": "https://open.spotify.com/album/0imzEngLXNZ5hJdqvYtrYC"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209632,
+      "name": "Light On - Acoustic",
+      "url": "https://open.spotify.com/track/0jYvXzBclRZWMh3G4Q1zpU"
     },
     {
       "album": {
@@ -1627,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Milkshake (Acoustic)",
+        "url": "https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H"
+      },
+      "artists": [
+        {
+          "name": "John Buckley",
+          "url": "https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148255,
+      "name": "Milkshake (Acoustic)",
+      "url": "https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
@@ -1746,10 +2052,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 183814,
       "name": "One",
       "url": "https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head And Back In My Bed",
+        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190561,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
     },
     {
       "album": {
@@ -1854,7 +2178,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 191250,
       "name": "River",
       "url": "https://open.spotify.com/track/5bSKmBnxZx9BXtqs3yYgbG"
@@ -1930,6 +2254,24 @@
       "duration_ms": 141880,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az"
+    },
+    {
+      "album": {
+        "name": "Say you won't let go",
+        "url": "https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199587,
+      "name": "Say you won't let go",
+      "url": "https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH"
     },
     {
       "album": {
@@ -2023,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Someone I Used To Know",
+        "url": "https://open.spotify.com/album/4JT9X9aNNbHLLpXF2HMBZR"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141237,
+      "name": "Someone I Used To Know",
+      "url": "https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW"
+    },
+    {
+      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/3BY5B7BMQJ2LwKAjw5SJu8"
       },
@@ -2034,7 +2394,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/5VhW6Px1Nxc2gTqdS4isdl"
@@ -2190,10 +2550,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 185600,
       "name": "The A Team",
       "url": "https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz"
+    },
+    {
+      "album": {
+        "name": "the middle",
+        "url": "https://open.spotify.com/album/4aPHv1yKosqeIAgpbR78Rb"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200700,
+      "name": "the middle",
+      "url": "https://open.spotify.com/track/27v7ld43GiWxEPYph8WiEd"
     },
     {
       "album": {
@@ -2212,6 +2590,24 @@
       "duration_ms": 223658,
       "name": "The Middle - Acoustic",
       "url": "https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX"
+    },
+    {
+      "album": {
+        "name": "There's No Getting' Over Me",
+        "url": "https://open.spotify.com/album/37l3XG7AzVLWEmYS94XUwp"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243970,
+      "name": "There's No Getting' Over Me",
+      "url": "https://open.spotify.com/track/0QzqvHYCh9WecfpMIo9Zdv"
     },
     {
       "album": {
@@ -2313,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/7F9CzPe6XFDYIEzh8KVtpc"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        },
+        {
+          "name": "Beck Pete",
+          "url": "https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197882,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/4HwUDalB30KzSQVbSbr4je"
+    },
+    {
+      "album": {
         "name": "We Can't Stop (Acoustic)",
         "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
       },
@@ -2346,6 +2764,24 @@
       "duration_ms": 197118,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA"
+    },
+    {
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-124 songs - 6 hr 7 min
+125 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Lynx](https://open.spotify.com/track/4s1x24SHjzNCY9WwNBHqmy) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Lynx](https://open.spotify.com/album/40EdzNq78gdx26YiQb59DO) | 4:30 | 2022-08-05 |  |
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-08-05 |  |
 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 | 2022-10-08 |  |
-| [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 |  |
+| [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 | 2023-04-14 |
 | [Miracles 963 Hz](https://open.spotify.com/track/2nPdV0GQD5RZoCRdHRLvKE) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Miracles 963 Hz](https://open.spotify.com/album/7LXqzXuY3fzG7cY0gOYEQJ) | 2:45 | 2022-12-02 |  |
 | [Mirrors](https://open.spotify.com/track/4AxLkuDH6lAh4zfAqnMk1n) | [Tairata](https://open.spotify.com/artist/6S03l2FptTA5eeHeXo115b) | [Mirrors](https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5) | 2:18 | 2022-08-05 |  |
 | [Misquah Hills](https://open.spotify.com/track/1GQoCwdl4wQkg5ANrY7eGc) | [Stone Martyrs](https://open.spotify.com/artist/5TQiCNGub87gWCQRZuncKK) | [Agioi Deka](https://open.spotify.com/album/2FrbVqHALaeSUSfJ46sMes) | 3:19 | 2022-08-05 |  |
@@ -94,6 +94,7 @@
 | [Reflexion](https://open.spotify.com/track/5GYechptfXvISLcJKLMB0l) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Reflexion](https://open.spotify.com/album/75xsR4b1EL3pkChLyo1VGG) | 3:08 | 2022-08-05 |  |
 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 | 2022-08-05 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-08-05 |  |
+| [Rilassato](https://open.spotify.com/track/1SWUsO1b7aqUkBBlDHuBNS) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Rilassato](https://open.spotify.com/album/6BCs0xXInKgZdnR2e5T9OE) | 2:48 | 2023-04-13 |  |
 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 | 2023-01-20 |  |
 | [Sabaku](https://open.spotify.com/track/0z3GwhoT2D7ywKpjffpJJH) | [Phillipsburg](https://open.spotify.com/artist/2jzPSPZe2GbEpuaCJVvzbL) | [Direct Flight](https://open.spotify.com/album/7xVhHAltBelFy4Iy5i7zqM) | 3:12 | 2022-08-05 |  |
 | [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 | 2022-08-23 |  |

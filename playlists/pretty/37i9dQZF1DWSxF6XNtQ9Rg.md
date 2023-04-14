@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,818 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,936 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 31 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 |
 | 32 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
 | 33 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
-| 34 | [MARYLEAN \(feat\. Marracash\) \- prod\. Low Kidd](https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:24 |
-| 35 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 |
+| 34 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 |
+| 35 | [MARYLEAN \(feat\. Marracash\) \- prod\. Low Kidd](https://open.spotify.com/track/28fRkU3vhqAJdl9i9458pQ) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:24 |
 | 36 | [Tesla \(feat\. Sfera Ebbasta & DrefGold\)](https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:05 |
 | 37 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 38 | [KUMITE](https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 2:50 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 56 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 |
 | 57 | [Blue Sky](https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Kepler](https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog) | 3:07 |
 | 58 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 |
-| 59 | [P Secondigliano \- 2020 Remaster](https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [P Secondigliano \(2020 Remaster\)](https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq) | 3:49 |
-| 60 | [Allenamento \#2](https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Allenamento \#2](https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT) | 2:31 |
+| 59 | [Allenamento \#2](https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Allenamento \#2](https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT) | 2:31 |
+| 60 | [P Secondigliano \- 2020 Remaster](https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [P Secondigliano \(2020 Remaster\)](https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq) | 3:49 |
 | 61 | [Mon Fre \- feat\. Emis Killa](https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mon Fre \(feat\. Emis Killa\)](https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K) | 3:44 |
 | 62 | [Malibu](https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Bellaria](https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD) | 3:31 |
 | 63 | [Bottiglie Privè](https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Bottiglie Privè](https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [GASOLINA](https://open.spotify.com/track/3uaQK6iP56b0oVzFWUO6mn) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [GASOLINA](https://open.spotify.com/album/3ZBJbeVGumukG3EFsUN8ch) | 2:25 |
 | 100 | [Fiori Del Male \(feat.Sfera Ebbasta\)](https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j) | [Dark Polo Gang](https://open.spotify.com/artist/4CuMwzDzEdlUJMEna38VQ0), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [The Dark Album](https://open.spotify.com/album/6dcABz37PK2Q9bnv8kYTt0) | 3:08 |
 
-Snapshot ID: `MTY4MDc2MzgxMSwwMDAwMDAwMGUxODY4ZDBjYjQ2Nzg3ZTdhNzdjZjY2YWVkODQxZTBh`
+Snapshot ID: `MTY4MDc2MzgxMSwwMDAwMDAwMGJlNWY0NmZmN2JjYzlkZjczMjQ5YjIwNjY3NzkzOTVk`

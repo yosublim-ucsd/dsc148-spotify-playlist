@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Calming Measures",
+        "url": "https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8"
+      },
+      "artists": [
+        {
+          "name": "Maurie",
+          "url": "https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Calming Measures",
+      "url": "https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ"
+    },
+    {
+      "album": {
         "name": "Canes Venatici",
         "url": "https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 134865,
       "name": "Falling Autumn Leaves",
       "url": "https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF"

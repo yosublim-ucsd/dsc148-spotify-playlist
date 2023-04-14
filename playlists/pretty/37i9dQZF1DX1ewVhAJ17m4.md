@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,925 likes - 82 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,034 likes - 82 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 9 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 |
 | 10 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 |
 | 11 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 |
-| 12 | [2005](https://open.spotify.com/track/7mBH6K8EkUEZmSavjoqkV7) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [2005](https://open.spotify.com/album/75OoXT2GLguj296VYuaRMz) | 2:51 |
+| 12 | [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 |
 | 13 | [Light Switch](https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Light Switch](https://open.spotify.com/album/7yBLWbLDEZp3ZLNKC1oB35) | 3:08 |
 | 14 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 | 15 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 81 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 |
 | 82 | [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 |
 
-Snapshot ID: `MTY4MDI4MDI0MiwwMDAwMDAwMDk0NjMxMGJkNjQxNDkwODVlNDE5NDRjZmUwMDVlZWVl`
+Snapshot ID: `MTY4MDI4MDI0MiwwMDAwMDAwMDk0OTgwNGU2YzQzMGI2ZDBmNWJhNzU4OWJmZDIxNjY2`

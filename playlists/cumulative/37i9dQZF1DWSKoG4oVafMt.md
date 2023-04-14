@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
 
-729 songs - 1 day 15 hr 33 min
+730 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 | 2022-03-29 |  |
 | [Geet Lagdai](https://open.spotify.com/track/4iQOHCJsh7uYgq52NCpO3T) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Another Side](https://open.spotify.com/album/3wd8Hr4S8649tc3kTuy3ch) | 3:59 | 2023-01-16 | 2023-02-04 |
 | [Gehri Akh](https://open.spotify.com/track/0pqTSGAe2FtV7mMAg3zVFX) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 3:39 | 2022-07-18 | 2022-08-18 |
+| [God's Art](https://open.spotify.com/track/1plZ5d6vaJZJKgX1ynCAJk) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [God's Art](https://open.spotify.com/album/7CylNHjNTHdcBcOzZu8dpT) | 3:45 | 2023-04-13 |  |
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-07-13 | 2023-02-02 |
 | [Goriye](https://open.spotify.com/track/73xwtIVQno0EEoiiFpbjG4) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Goriye](https://open.spotify.com/album/0be9lG0TVPkMnTupK6YGvF) | 2:44 | 2022-03-11 | 2022-04-06 |
 | [Grace](https://open.spotify.com/track/5iZR5MN9qvGgnyOblSdlH1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Grace](https://open.spotify.com/album/3BIuAv9phvIqWSXhgWCfXV) | 3:00 | 2022-09-26 |  |

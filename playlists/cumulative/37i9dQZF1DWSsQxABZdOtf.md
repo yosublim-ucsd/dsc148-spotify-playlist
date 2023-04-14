@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-201 songs - 11 hr 59 min
+202 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Steamin](https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Steamin](https://open.spotify.com/album/00ciJacke9mRfbm616SfWq) | 3:48 | 2022-09-08 | 2022-11-19 |
 | [Still](https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 4:07 | 2022-09-08 | 2022-11-19 |
 | [Still Flowing Water \- Edit](https://open.spotify.com/track/6rSIyjJakGuPx7DL1GoMan) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 3:30 | 2022-11-18 | 2023-03-18 |
-| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-16 |  |
+| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 | 2023-03-16 | 2023-04-14 |
+| [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-03-16 |  |
 | [Tablet](https://open.spotify.com/track/7lXPGmCwhYJhFwzvUniAwo) | [Hi Tom](https://open.spotify.com/artist/0GN2frrUMNI0zqj9bFXMxE) | [Tablet](https://open.spotify.com/album/33uIa1aHQ4IqCeGUQJbxWn) | 4:03 | 2022-11-18 | 2023-03-18 |
 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-16 | 2023-02-14 |
 | [Take Off](https://open.spotify.com/track/1i4to6HDLB4v41wPz9hUa1) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf) | [Take Off](https://open.spotify.com/album/3baRS0atOGXgfCMHCxFjvW) | 3:18 | 2022-11-18 | 2023-02-14 |

@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421740,
+  "num_followers": 421747,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4MjgwMCwwMDAwMDAwMGE4MDIzMWNiMGE1NTRkNzQ3MTY2Nzg2NjI2OTI1NzNk",
+  "snapshot_id": "MTY4MTM2OTIwMCwwMDAwMDAwMDk3YzFmOWNjOTQxYTU1YTU3ZWQ2ZTI0NzQyNWJmZjZl",
   "tracks": [
+    {
+      "added_at": "2023-04-13 07:00:00",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6"
+      },
+      "artists": [
+        {
+          "name": "Flor de Jamaica",
+          "url": "https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f"
+        }
+      ],
+      "duration_ms": 224378,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8"
+    },
     {
       "added_at": "2023-04-12 07:00:00",
       "album": {
@@ -851,22 +867,6 @@
       "duration_ms": 189230,
       "name": "Juego",
       "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Papaya dulce",
-        "url": "https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1"
-      },
-      "artists": [
-        {
-          "name": "Aristi",
-          "url": "https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1"
-        }
-      ],
-      "duration_ms": 211581,
-      "name": "Papaya dulce",
-      "url": "https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb"
     },
     {
       "added_at": "2023-04-10 18:00:00",

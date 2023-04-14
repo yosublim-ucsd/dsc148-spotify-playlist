@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-433 songs - 1 day 5 hr 33 min
+434 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2022-10-19 | 2022-12-08 |
 | [Stump](https://open.spotify.com/track/62ZdXwdsquKzNIajsopirn) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:21 | 2022-08-24 | 2022-09-29 |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-12 |  |
+| [Suicide Dream 1 \- Claire Rousay presents 'Suicide Dreams'](https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [What Remains \(Remixes\)](https://open.spotify.com/album/106vLquuGTSOmZnGl9lHBq) | 7:37 | 2023-04-13 |  |
 | [Sundown](https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 4:48 | 2023-04-12 |  |
 | [Sundown Lake](https://open.spotify.com/track/6vIQCQ7RDSZR3bnSYFJcqU) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [Sundown Lake](https://open.spotify.com/album/4G5DwjWXkJG8rXeXclTN0T) | 3:48 | 2022-11-23 | 2023-01-19 |
 | [Sunlight In Motion](https://open.spotify.com/track/62YkwzjdDsMv0jC88axnv5) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Sunlight In Motion](https://open.spotify.com/album/2QAT7VPy9T5uXUjfZqvqsq) | 5:05 | 2022-06-29 | 2022-08-11 |

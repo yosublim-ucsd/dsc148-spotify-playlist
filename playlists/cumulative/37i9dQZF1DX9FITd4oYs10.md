@@ -4,7 +4,7 @@
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-210 songs - 15 hr 15 min
+211 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Dizeres](https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK) | 4:17 | 2022-08-01 |  |
 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 | 2022-03-25 | 2022-10-15 |
 | [Diáspora](https://open.spotify.com/track/5pQLWAxfDcnR23YxDKVaBP) | [DV Tribo](https://open.spotify.com/artist/4cePVnCFqOt3chPXh4qAMr), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Diáspora](https://open.spotify.com/album/3vPqZcU6mbhcpqBHr3INSJ) | 5:15 | 2022-03-16 | 2022-07-29 |
+| [Diáspora](https://open.spotify.com/track/5Ry5dvgGqRn6FJzF3dlH25) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [DV Tribo](https://open.spotify.com/artist/4cePVnCFqOt3chPXh4qAMr) | [Diáspora](https://open.spotify.com/album/1Q03zZsHWMBmW1LJ0Qo9f8) | 5:15 | 2023-03-10 |  |
 | [Django](https://open.spotify.com/track/0VRFoEqPC03gta2QbWL9gd) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [No Dia dos Nossos](https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu) | 2:43 | 2022-03-25 | 2022-07-27 |
 | [Do crossfader ao microfone de aço](https://open.spotify.com/track/6DFJWOQ8wFBhdKpN8kmZ8d) | [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Andrômeda](https://open.spotify.com/artist/1nFt4b1nzivh1yG9ZXJLFU) | [Rotação 33](https://open.spotify.com/album/0ona6F4Fs9537SYapOU6Qp) | 2:33 | 2022-03-25 | 2022-07-26 |
 | [Dominium](https://open.spotify.com/track/76mxsO9UwVSoPtk27R1P6F) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Non Ducor Duco](https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG) | 4:05 | 2022-03-25 | 2022-07-27 |
@@ -80,7 +81,7 @@
 | [Finanças](https://open.spotify.com/track/2AWq8ujh3GIawY7KBru8ZQ) | [DV Tribo](https://open.spotify.com/artist/4cePVnCFqOt3chPXh4qAMr) | [2016](https://open.spotify.com/album/4xXv3Xd7mf9ex8aUBK4qCT) | 4:36 | 2022-03-25 | 2022-07-15 |
 | [Flo Jo](https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 3:54 | 2022-03-25 | 2022-07-28 |
 | [Flor da Pele](https://open.spotify.com/track/40cFdqt6KZtBw1yjCW0V6q) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Flor da Pele](https://open.spotify.com/album/3h7i9ae6y3ZMZmFo7uVZqb) | 4:06 | 2022-03-16 | 2022-07-27 |
-| [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 | 2022-03-25 |  |
+| [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 | 2022-03-25 | 2023-04-14 |
 | [Fuga](https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fuga](https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost) | 3:52 | 2022-03-16 |  |
 | [Fuso](https://open.spotify.com/track/4qaU4FTMlxianpgYPSRE9y) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Fuso](https://open.spotify.com/album/7el0tnGjAszKQP1hcjuk66) | 3:06 | 2022-03-25 | 2022-07-19 |
 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 | 2022-03-25 | 2022-07-28 |

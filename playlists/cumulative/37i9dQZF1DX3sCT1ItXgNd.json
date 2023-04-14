@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Aitana",
+  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Lola Indigo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188087,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 184195,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
@@ -1498,7 +1520,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 166153,
       "name": "PAS",
       "url": "https://open.spotify.com/track/4NiPgL5Vicj6rVks2Ismc5"
@@ -2052,6 +2074,28 @@
       "duration_ms": 138071,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/4dOoEYZjHIiCQbt7u4lJ9h"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161855,
+      "name": "ULTRAVIOLETA",
+      "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
     },
     {
       "album": {

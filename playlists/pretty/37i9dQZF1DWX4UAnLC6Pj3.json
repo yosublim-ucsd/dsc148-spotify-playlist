@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
-  "num_followers": 1105194,
+  "num_followers": 1105565,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5OTg3NiwwMDAwMDAwMGQ5YTRmNzhiNWQ4ZWVjNGQ2NTUyYTA0NzBmN2FmYTE0",
+  "snapshot_id": "MTY4MDg5OTg3NiwwMDAwMDAwMDU4NWMzMDBiNmE5Y2I2MTA3MDk5YTk0OTQzM2JkMmI3",
   "tracks": [
     {
       "added_at": "2023-04-07 20:37:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "12 Rifles",
-        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 173500,
-      "name": "12 Rifles",
-      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
+        "name": "12 Rifles",
+        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "12 Rifles",
+      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1251,18 +1247,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+      "duration_ms": 201400,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
         "name": "Aplaca Tus Berrinches",
         "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 190840,
       "name": "Aplaca Tus Berrinches",
       "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "La Llamada De Mi Ex (En Vivo)",
-        "url": "https://open.spotify.com/album/7shF1UXzVbKqIkesVBrPH1"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 218282,
-      "name": "La Llamada De Mi Ex (En Vivo)",
-      "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
         "url": "https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 222202,
       "name": "Que Me Digan Loco",
       "url": "https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "La Llamada De Mi Ex (En Vivo)",
+        "url": "https://open.spotify.com/album/7shF1UXzVbKqIkesVBrPH1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 218282,
+      "name": "La Llamada De Mi Ex (En Vivo)",
+      "url": "https://open.spotify.com/track/0AsxTIT6xA2qjwXc8nqBqF"
     },
     {
       "added_at": "2023-04-07 20:37:55",

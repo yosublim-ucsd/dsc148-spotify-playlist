@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Gold Fang",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: The 046",
   "name": "Local Hype",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 138947,
       "name": "B.B.L (Bad Bitch Love)",
       "url": "https://open.spotify.com/track/3rCGwUaOvhS3NDIF3DKb5a"
@@ -1097,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "BRRR!",
+        "url": "https://open.spotify.com/album/4yfPgsIBRLexX1hhKJgBTH"
+      },
+      "artists": [
+        {
+          "name": "Figuero Jones",
+          "url": "https://open.spotify.com/artist/0x07QTPyIoE2xSihIAncYF"
+        },
+        {
+          "name": "Aywy",
+          "url": "https://open.spotify.com/artist/6r38VaW3wElzmIlJ69Cz2L"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184307,
+      "name": "BRRR!",
+      "url": "https://open.spotify.com/track/3YiMaJXsnMefvg5JPdj9vQ"
+    },
+    {
+      "album": {
         "name": "Bubblin Up (Get Fizzy)",
         "url": "https://open.spotify.com/album/4Djd23enDq6cpMknWNlC1V"
       },
@@ -1319,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/6sSwcmateR8ewm6ztIae2x"
+      },
+      "artists": [
+        {
+          "name": "Tbi$h",
+          "url": "https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/21QQ3YJv6FZ7UQwhTim5SQ"
+    },
+    {
+      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/7nO3ZsoO7mpn3hLPGD8LoQ"
       },
@@ -1480,7 +1520,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 162202,
       "name": "COME UP (feat. Day1)",
       "url": "https://open.spotify.com/track/0Utkkycc0zoHoxljF4SwKE"
@@ -1633,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Rain",
+        "url": "https://open.spotify.com/album/6IeqZTdSgMTalmRM5GWIol"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/17xba4xQ0g7JbC74SFuRRA"
+    },
+    {
+      "album": {
         "name": "DASH (feat. T-Pain) [T-Mix]",
         "url": "https://open.spotify.com/album/7HNd8Zsp8Duyvz65e0b1Fq"
       },
@@ -1706,7 +1764,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 226874,
       "name": "Deadset 10 - (feat. Manning)",
       "url": "https://open.spotify.com/track/4khQKeEOy202MjC5z3r1en"
@@ -1816,6 +1874,24 @@
       "duration_ms": 174625,
       "name": "Designer Love",
       "url": "https://open.spotify.com/track/7HxMnQqgokBq8ORg7AKHRa"
+    },
+    {
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/76g1M4uhH3SkLi2O8krx9b"
+      },
+      "artists": [
+        {
+          "name": "FERBY",
+          "url": "https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/5PwUzPWESCGAZhK0Tuwsw9"
     },
     {
       "album": {
@@ -1988,6 +2064,24 @@
       "duration_ms": 178466,
       "name": "DOWN UNDER",
       "url": "https://open.spotify.com/track/706YbVUDO1KTtyw0QhJvRc"
+    },
+    {
+      "album": {
+        "name": "Down Under",
+        "url": "https://open.spotify.com/album/2zKedbS0oV2u8Yl3uOCruF"
+      },
+      "artists": [
+        {
+          "name": "Lavez",
+          "url": "https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150236,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/3HaKlD9R8q4KNoIAGuXMwT"
     },
     {
       "album": {
@@ -2993,6 +3087,28 @@
     },
     {
       "album": {
+        "name": "GUMBOOTS",
+        "url": "https://open.spotify.com/album/3yStjZxyoWkJq3cLjTvmiN"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "Babyface Mal",
+          "url": "https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "GUMBOOTS",
+      "url": "https://open.spotify.com/track/0XX0hnpdxKvof7fgXSZaZI"
+    },
+    {
+      "album": {
         "name": "Handle It",
         "url": "https://open.spotify.com/album/2dF5XfyWIxHltWizNawVdL"
       },
@@ -3138,7 +3254,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 145000,
       "name": "Helmut Lang",
       "url": "https://open.spotify.com/track/3fegtZrtpwZlcPRJOAm6yG"
@@ -3160,7 +3276,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 187619,
       "name": "Her Way",
       "url": "https://open.spotify.com/track/4fBzfDgAfmM0Y4m3fVkQvp"
@@ -3784,7 +3900,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 235414,
       "name": "Keep It Different",
       "url": "https://open.spotify.com/track/5kE4JmCuJIcLvmGKaIsIki"
@@ -4858,7 +4974,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165600,
       "name": "MY TURN",
       "url": "https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl"
@@ -5198,7 +5314,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 129795,
       "name": "NOBODY KNOWS - Spotify Singles",
       "url": "https://open.spotify.com/track/09CaMPTzbkUkqpi4963qi6"
@@ -5871,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0mKsUwoZOTS4ZSjd7DUOwB"
+      },
+      "artists": [
+        {
+          "name": "AMUthaMC",
+          "url": "https://open.spotify.com/artist/4IdDa7k5yOYE7PBlCKKxI0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/167gEZCecUYYbPGpYXHtxk"
+    },
+    {
+      "album": {
         "name": "PULL'D UP (11PM)",
         "url": "https://open.spotify.com/album/7lm8mKJ8kOnAdrZ4BJsq4u"
       },
@@ -6340,7 +6474,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 170737,
       "name": "RUN",
       "url": "https://open.spotify.com/track/2oyWAosM0IuBZfepiqPh5R"
@@ -6928,7 +7062,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212210,
       "name": "Still G's",
       "url": "https://open.spotify.com/track/3jhXPxvc6iUvHPTW0Y6gyL"
@@ -7150,6 +7284,28 @@
       "duration_ms": 156000,
       "name": "TELL ME HOW",
       "url": "https://open.spotify.com/track/5qTj33yVvAA1EXmh0cKEML"
+    },
+    {
+      "album": {
+        "name": "Rhythm & Gutta",
+        "url": "https://open.spotify.com/album/6E3Oy06YRd8PwT9Wq4ssZe"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        },
+        {
+          "name": "Say True God?",
+          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207888,
+      "name": "Test Us",
+      "url": "https://open.spotify.com/track/7A4j8vSJ1P256IxK3p2FEo"
     },
     {
       "album": {

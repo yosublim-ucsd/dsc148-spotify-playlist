@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.   Cover:  <a href="https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=wEJYVJRbSaiPI4IjOxEWrA">Phil Wickham</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,767 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,144 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

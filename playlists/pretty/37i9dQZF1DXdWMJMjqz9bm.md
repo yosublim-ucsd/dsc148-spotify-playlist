@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,194 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,250 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 6 | [fvcked up](https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU) | 1:52 |
 | 7 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 |
 | 8 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 |
-| 9 | [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/46BkJ2O37x5Tg8BjjYVcMj) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/3WekRkctnb3QRPomnKFG3K) | 3:20 |
+| 9 | [YOUNG RUETTIGER \(I DO WHAT I WANT\)](https://open.spotify.com/track/6tDSxtJwyvQ6TL5jJK5RjJ) | [Watsky](https://open.spotify.com/artist/3mJ9GlkLzj8Ka7Z7EQaCMi), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [INTENTION](https://open.spotify.com/album/6yktPF79RZehdGx93H9wwh) | 3:20 |
 | 10 | [Hazel Eyes](https://open.spotify.com/track/0GE6MaJmhLob3IEdU0nJpY) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Hazel Eyes](https://open.spotify.com/album/75ajVtZ1Ezt3bBNgKiDWI2) | 2:18 |
 | 11 | [2hrs](https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [2hrs](https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6) | 1:04 |
 | 12 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 89 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 |
 | 90 | [Decide](https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 2:38 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGQ1NWMyMGYwMTM3Y2MzNmU4NjJlN2Y5ODRmNGU1NTQw`
+Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGMzMGZjYzJkNDQ2ZTUzNWI2OWU4Yzg0OGM2NjM2YjI0`

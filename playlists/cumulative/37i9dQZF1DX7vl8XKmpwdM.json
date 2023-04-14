@@ -617,6 +617,32 @@
     },
     {
       "album": {
+        "name": "Dowlathana Rowdy (From \"Kathar Basha Endra Muthuramalingam\")",
+        "url": "https://open.spotify.com/album/1ClToUKOZ8XRhxm7uoOGug"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash Kumar",
+          "url": "https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn"
+        },
+        {
+          "name": "Kanchana Logan",
+          "url": "https://open.spotify.com/artist/4YlcUldKvCYKAzWaFSthi9"
+        },
+        {
+          "name": "Junior Nithya",
+          "url": "https://open.spotify.com/artist/40ZhJCJheQU4Vgv544SLV3"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219216,
+      "name": "Dowlathana Rowdy (From \"Kathar Basha Endra Muthuramalingam\")",
+      "url": "https://open.spotify.com/track/6LXffI6gZ5TIEF562fA4u6"
+    },
+    {
+      "album": {
         "name": "Edakku Modakku (From \"Naai Sekar\")",
         "url": "https://open.spotify.com/album/0yEnhyVVbO7StjERiZMwOX"
       },

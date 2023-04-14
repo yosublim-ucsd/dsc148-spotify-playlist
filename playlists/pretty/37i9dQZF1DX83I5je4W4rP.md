@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,366 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,410 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 45 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 |
 | 46 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
 | 47 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
-| 48 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
+| 48 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
 | 49 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
-| 50 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
+| 50 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
 | 51 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
 | 52 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
 | 53 | [Gimme Love](https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Gimme Love](https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
 | 100 | [Breakdown](https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation](https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L) | 4:13 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGUxZTBhYjQxZjI5NmUwZTJiZmE0MzliY2NkNzFiZWRl`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMGM1ODZjNTMzMDdiM2MwYmY2YTMxNjdhYzE0NzgzZGQ2`

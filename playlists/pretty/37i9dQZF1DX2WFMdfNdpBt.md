@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WFMdfNdpBt.md) - [plain]
 
 > Synonymous with Bass Music, <a href="spotify:artist:76M2Ekj8bG8W7X2nbx2CpF">NGHTMRE</a>, will get you feeling like it's festival season in this exclusive mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 30 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 30 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

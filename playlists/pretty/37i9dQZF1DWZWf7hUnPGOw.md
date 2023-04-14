@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,960 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,024 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

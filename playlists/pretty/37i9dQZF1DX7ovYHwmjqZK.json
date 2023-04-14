@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 175366,
+  "num_followers": 175495,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMjMxMSwwMDAwMDAwMGI5YTg3YTFjNGVjNGY5OTE4NjBiZDhkYTA2YTI3N2I3",
+  "snapshot_id": "MTY3OTAxMjMxMSwwMDAwMDAwMGIyNTIyMTE1YTk5MDRlZTlmNTlkY2NiMmJmNmFmMmY0",
   "tracks": [
     {
       "added_at": "2023-03-17 00:18:30",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "After You've Gone",
-        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "Blue Bossa",
-      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Ataraxia",
         "url": "https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 183656,
       "name": "Ataraxia",
       "url": "https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "After You've Gone",
+        "url": "https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 191174,
+      "name": "Blue Bossa",
+      "url": "https://open.spotify.com/track/0rotku7FgElbTKbks8Zof5"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -611,22 +611,18 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
-        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
+        "name": "S\u00f3 Agora",
+        "url": "https://open.spotify.com/album/1n0Y919WafjPZjJcxZcmFZ"
       },
       "artists": [
         {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        },
-        {
-          "name": "Leila Pinheiro",
-          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 204394,
-      "name": "Cl\u00e1udia",
-      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
+      "duration_ms": 152933,
+      "name": "S\u00f3 Agora",
+      "url": "https://open.spotify.com/track/0JAR5NO542VuQ0gE16gSAk"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -651,18 +647,86 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "S\u00f3 Agora",
-        "url": "https://open.spotify.com/album/1n0Y919WafjPZjJcxZcmFZ"
+        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
+        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
       },
       "artists": [
         {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        },
+        {
+          "name": "Leila Pinheiro",
+          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
         }
       ],
-      "duration_ms": 152933,
-      "name": "S\u00f3 Agora",
-      "url": "https://open.spotify.com/track/0JAR5NO542VuQ0gE16gSAk"
+      "duration_ms": 204394,
+      "name": "Cl\u00e1udia",
+      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Vivo Sohando - Stereo Version",
+      "url": "https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Fuerza Extra\u00f1a",
+        "url": "https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o"
+      },
+      "artists": [
+        {
+          "name": "Maria Escobar",
+          "url": "https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Samba da rosa",
+      "url": "https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Afro Choro",
+        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 298014,
+      "name": "Afro Choro",
+      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -691,42 +755,22 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Afro Choro",
-        "url": "https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP"
+        "name": "Veja Bem Meu Bem (Single)",
+        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
       },
       "artists": [
         {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
         },
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Yves Dharamraj",
+          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
         }
       ],
-      "duration_ms": 298014,
-      "name": "Afro Choro",
-      "url": "https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Fuerza Extra\u00f1a",
-        "url": "https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o"
-      },
-      "artists": [
-        {
-          "name": "Maria Escobar",
-          "url": "https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL"
-        },
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Samba da rosa",
-      "url": "https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp"
+      "duration_ms": 322202,
+      "name": "Veja Bem Meu Bem",
+      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -759,26 +803,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Veja Bem Meu Bem (Single)",
-        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Yves Dharamraj",
-          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
-        }
-      ],
-      "duration_ms": 322202,
-      "name": "Veja Bem Meu Bem",
-      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "All or Nothing at All",
         "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 375108,
       "name": "All or Nothing at All",
       "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Vivo Sohando - Stereo Version",
-      "url": "https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Depressa a Vida Passa",
+        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
+      },
+      "artists": [
+        {
+          "name": "Renato Braz",
+          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "Depressa a Vida Passa",
+      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Storytellers",
         "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 270386,
       "name": "Duro Na Queda",
       "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Depressa a Vida Passa",
-        "url": "https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH"
-      },
-      "artists": [
-        {
-          "name": "Renato Braz",
-          "url": "https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "Depressa a Vida Passa",
-      "url": "https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "\u00cdndia",
-        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
-      },
-      "artists": [
-        {
-          "name": "Last Aliens in Rio",
-          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
-        }
-      ],
-      "duration_ms": 188597,
-      "name": "\u00cdndia - Tarde de Sol",
-      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 300126,
       "name": "A Mac\u0327a\u0303",
       "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "\u00cdndia",
+        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
+      },
+      "artists": [
+        {
+          "name": "Last Aliens in Rio",
+          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
+        }
+      ],
+      "duration_ms": 188597,
+      "name": "\u00cdndia - Tarde de Sol",
+      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "D\u00e1jazz",
-        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
-      },
-      "artists": [
-        {
-          "name": "Lili Araujo",
-          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "A Voz do Brasil",
-      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Quem Foi Que Disse Que Eu N\u00e3o Fa\u00e7o Samba...",
         "url": "https://open.spotify.com/album/1ohAo7XvtqAnByfw9N0GTf"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 194576,
       "name": "Maria e o Samba",
       "url": "https://open.spotify.com/track/6dCTNvsRrNdYTRxExM2AnP"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "D\u00e1jazz",
+        "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
+      },
+      "artists": [
+        {
+          "name": "Lili Araujo",
+          "url": "https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs"
+        }
+      ],
+      "duration_ms": 303346,
+      "name": "A Voz do Brasil",
+      "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
-      },
-      "artists": [
-        {
-          "name": "Francis Hime",
-          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Samba Dolente",
-      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
         "name": "Media\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2023-03-17 00:18:30",
       "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I"
+      },
+      "artists": [
+        {
+          "name": "Francis Hime",
+          "url": "https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Samba Dolente",
+      "url": "https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
         "name": "Autoral",
         "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 240458,
       "name": "Cris",
       "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2023-03-17 00:18:30",
-      "album": {
-        "name": "Vida C\u00f3digo",
-        "url": "https://open.spotify.com/album/1SM0FwKInAuPooN8WDEclV"
-      },
-      "artists": [
-        {
-          "name": "Tigan\u00e1 Santana",
-          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Meios",
-      "url": "https://open.spotify.com/track/5Rudj6giXiwtgrKrzcCqJN"
     },
     {
       "added_at": "2023-03-17 00:18:30",
@@ -1495,6 +1479,22 @@
       "duration_ms": 226653,
       "name": "Terra do Nunca",
       "url": "https://open.spotify.com/track/7ccMcBkYbGyEdXxQF85kGV"
+    },
+    {
+      "added_at": "2023-03-17 00:18:30",
+      "album": {
+        "name": "Vida C\u00f3digo",
+        "url": "https://open.spotify.com/album/1SM0FwKInAuPooN8WDEclV"
+      },
+      "artists": [
+        {
+          "name": "Tigan\u00e1 Santana",
+          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Meios",
+      "url": "https://open.spotify.com/track/5Rudj6giXiwtgrKrzcCqJN"
     },
     {
       "added_at": "2023-03-17 00:18:30",

@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ねぐせ
 
-787 songs - 2 day 0 hr 36 min
+789 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-04-12 | 2022-07-13 |
 | [And / you](https://open.spotify.com/track/7ecm8hr7HyPz009himM2kI) | [Kouichi Arakawa](https://open.spotify.com/artist/0jjsQnz7M1lFD3vFEWlwSw) | [Late night talking](https://open.spotify.com/album/0pxvbsmcAKroIlXjJp4Luk) | 2:52 | 2022-09-27 | 2022-10-05 |
 | [and i](https://open.spotify.com/track/56cG2g8dIJluJUY26SOCua) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [まちあわせ \- EP](https://open.spotify.com/album/6OI2liQOHd024WUmM1ZAA4) | 3:03 | 2022-05-31 | 2022-06-22 |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [As you are](https://open.spotify.com/track/4MXe4P4d0PuX7l9wc6bTod) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/3PhgUhmbejD4Oo4BKQhlQS) | 3:07 | 2022-05-12 | 2022-05-18 |
 | [Awesome Day](https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Awesome Day](https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T) | 3:18 | 2023-02-28 | 2023-03-22 |
@@ -295,7 +296,7 @@
 | [nothin'](https://open.spotify.com/track/0Y7NneU33uLwvMPm3FoKtr) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [side\_effects+.](https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ) | 3:38 | 2022-07-26 | 2022-08-03 |
 | [Old Fashion](https://open.spotify.com/track/3BWiI5D14eg9Fx0VRWf6ic) | [PUTAINS](https://open.spotify.com/artist/6PxC8ulLsgICt4Y8R5V9GG) | [Old Fashion](https://open.spotify.com/album/18PhbyXYAaQrpZpcEoqPHy) | 2:38 | 2022-06-14 | 2022-07-15 |
 | [Old Fashioned](https://open.spotify.com/track/04pzS2S9nK0kw84Yu0pslx) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3A4Yb0z1thFYO9uysqeVGv) | 3:19 | 2023-02-16 | 2023-02-18 |
-| [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 |  |
+| [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-04-14 |
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-03-29 |
 | [ORANGE](https://open.spotify.com/track/67fIYaw4rsHDl24r2iXQrI) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [ORANGE](https://open.spotify.com/album/6dNCmvgmk5gaT9y0qMTQRP) | 4:02 | 2022-10-04 | 2022-11-09 |
 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 | 2022-08-02 | 2023-02-02 |
@@ -394,6 +395,7 @@
 | [STARR](https://open.spotify.com/track/0zDBgKXgJMfPDrRBbMULja) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 3:00 | 2022-08-15 | 2022-09-15 |
 | [Stay](https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Stay](https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis) | 2:29 | 2022-12-01 | 2023-01-13 |
 | [Stay alive](https://open.spotify.com/track/52EbacHlCatprydFHbfMDT) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [PUR](https://open.spotify.com/album/2XdTtSLr0muUcImZtDF2HK) | 4:02 | 2023-04-11 |  |
+| [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 | 2023-04-13 |  |
 | [Strange World](https://open.spotify.com/track/3QOuemHPvUS3rnTFBrmNzb) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/2bn6O3GayBt7HyEysgcSxR) | 3:05 | 2022-05-26 | 2022-06-15 |
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-11 | 2022-11-16 |
 | [Sugar](https://open.spotify.com/track/3zyq4nGYgTYNHcp3vXP58R) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [菅原圭](https://open.spotify.com/artist/6QOnk7zoSFeg8ysHCUAOA8) | [Sugar](https://open.spotify.com/album/3f2Odv10uR5PgTLvDBdn5v) | 1:31 | 2022-05-12 | 2022-06-01 |
@@ -519,7 +521,7 @@
 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 | 2023-04-11 |  |
 | [ふたり計画](https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ふたり計画](https://open.spotify.com/album/22YTXwYEfHp9f0pb4c7dTG) | 2:32 | 2022-05-10 | 2022-08-17 |
 | [ふらふら](https://open.spotify.com/track/0oTkCxdu7FGmc00WbnGofM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [ふらふら](https://open.spotify.com/album/3Or1rjZO4SfB7kpxUDBif2) | 3:42 | 2022-02-17 | 2022-03-09 |
-| [ふりだし](https://open.spotify.com/track/56wpNTB0ormf1aja4r2OFX) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [ふりだし](https://open.spotify.com/album/5kRfjdpnQwvgn25RrUofl6) | 3:35 | 2023-03-09 |  |
+| [ふりだし](https://open.spotify.com/track/56wpNTB0ormf1aja4r2OFX) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [ふりだし](https://open.spotify.com/album/5kRfjdpnQwvgn25RrUofl6) | 3:35 | 2023-03-09 | 2023-04-14 |
 | [ぼく](https://open.spotify.com/track/5E126Hhzr684Nr7iBt05o4) | [麗奈](https://open.spotify.com/artist/5DwNbc9qoOadKsP5btdj6O) | [ぼく](https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4) | 4:17 | 2022-03-22 | 2022-04-13 |
 | [また会いましょう](https://open.spotify.com/track/5jyW5o0BprwhBDhQoiuIQK) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [フセン](https://open.spotify.com/album/5vJwjDHlrutM9c0sMGcg3e) | 4:59 | 2022-10-25 | 2022-11-30 |
 | [もういらない](https://open.spotify.com/track/5lHUcQLVfpvLHcr7X43xiy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [もういらない](https://open.spotify.com/album/7xZFgZa8BvTmMddFmXNu9K) | 2:46 | 2022-09-26 | 2022-12-21 |

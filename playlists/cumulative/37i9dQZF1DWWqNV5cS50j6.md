@@ -4,7 +4,7 @@
 
 > Curtis Waters makes anti pop
 
-1,330 songs - 2 day 16 hr 11 min
+1,331 songs - 2 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,7 +1239,8 @@
 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 | 2023-01-20 |  |
 | [Unimpressed](https://open.spotify.com/track/1Hx0E0KVi3yRXzXU93G40z) | [Prettyboyworldwyde](https://open.spotify.com/artist/4ij8hiJFbjYUq3n0Dw06gw) | [Unimpressed](https://open.spotify.com/album/0PeNDGDKTdFwwdOmKMFrio) | 3:24 | 2021-04-24 | 2022-02-12 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-05-06 | 2022-07-01 |
-| [until my heart stops beating](https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [until my heart stops beating](https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6) | 3:24 | 2022-11-11 |  |
+| [until my heart stops beating](https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [until my heart stops beating](https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6) | 3:24 | 2022-11-11 | 2023-04-14 |
+| [until my heart stops beating](https://open.spotify.com/track/4lLD8aU0V105kUOYj3h4sJ) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:24 | 2023-03-01 |  |
 | [Up Up and Away](https://open.spotify.com/track/5MzAdOahVsGuDw40wOcZmJ) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Epochs](https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug) | 3:34 | 2020-10-13\* | 2021-12-22 |
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2021-02-13 | 2021-10-16 |
 | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn) | 2:38 | 2023-01-20 |  |

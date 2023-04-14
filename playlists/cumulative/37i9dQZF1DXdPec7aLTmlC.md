@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-727 songs - 1 day 14 hr 31 min
+728 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,6 +679,7 @@
 | [Vacation](https://open.spotify.com/track/7cdy4PbCdDZZNjyxoZyE0c) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Vacation](https://open.spotify.com/album/7xR5BJoQg0x0bHac8GMipk) | 3:29 | 2021-02-27 | 2022-04-20 |
 | [View](https://open.spotify.com/track/3cYMUCsmJ7q426xP1ZR5Qw) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [View](https://open.spotify.com/album/3jGMs6pXjlVNUTXypa0jd9) | 2:58 | 2020-06-08 | 2020-10-09 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2019-07-14 | 2019-10-25 |
+| [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-06 |  |
 | [Wake Me Up](https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:07 | 2019-10-23 | 2019-10-26 |
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 | 2019-07-07 | 2019-08-27 |
 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 | 2019-07-10 | 2019-08-02 |
@@ -689,7 +690,7 @@
 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 | 2019-12-23 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-07-21 |  |
 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 | 2021-04-24 | 2022-07-29 |
-| [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2019-05-26\* |  |
+| [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2019-05-26\* | 2023-04-14 |
 | [Way Less Sad](https://open.spotify.com/track/3cwaaelWghY5W6Lsj1K8ss) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Way Less Sad](https://open.spotify.com/album/6VgefCQHHsA3y8xP9R4r5S) | 3:26 | 2021-02-26 | 2022-04-21 |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt) | 3:37 | 2021-05-16 | 2021-05-27 |
 | [We Built This City](https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0I0eWeNKn0flG4FryxVjGx) | 4:56 | 2019-07-06 | 2019-08-10 |

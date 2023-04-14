@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Ronald Borjas & Tito Nieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,888 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,922 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 37 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 38 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
 | 39 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
-| 40 | [Perro Arrepentido](https://open.spotify.com/track/0krBST4JusyJApb2M30PZr) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Perro Arrepentido](https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts) | 4:00 |
-| 41 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 40 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 41 | [Perro Arrepentido](https://open.spotify.com/track/0krBST4JusyJApb2M30PZr) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Perro Arrepentido](https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts) | 4:00 |
 | 42 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
 | 43 | [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 |
 | 44 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/0Upe0FIOS01lwUu7d4WSrR) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT) | 3:06 |
-| 45 | [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 |
-| 46 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 45 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 46 | [Peligro de Amor](https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Peligro de Amor](https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp) | 4:16 |
 | 47 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
 | 48 | [Ya No Te Amo](https://open.spotify.com/track/4oEHUVWr6GnvaszaHqSdoi) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Ya No Te Amo](https://open.spotify.com/album/70clE19xMTQeZRbMx5DIMM) | 3:56 |
 | 49 | [Ya Supérame](https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Ya Supérame](https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1) | 2:05 |
 | 50 | [El Ignorante](https://open.spotify.com/track/3KdbrghT4Y4uiCC5Bo2NCI) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [El Ignorante](https://open.spotify.com/album/5s5OS8ox9J6dTzY2LY8A5a) | 4:04 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDg0OTdiZmY3ZjUyNWFjMDI4Mzc0N2Q0NGU2YjYxZDE0`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDdhYzhlY2RhYjNkNmE2MTU4Yjg2NDVlODM2NTYwMjY2`

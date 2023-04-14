@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 
 > The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,490 likes - 24 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,517 likes - 24 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Behavior \- Mixed](https://open.spotify.com/track/3thgdRIcfdcYBka4DMnmyS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior \(Mixed\)](https://open.spotify.com/album/6R6EknXO3rbO9Qlxy2K30D) | 3:16 |
+| 1 | [Bad Behavior \- Mixed](https://open.spotify.com/track/0Ay0gLxN2xqJWn9ad2ZYNP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Bad Behavior \(Mixed\)](https://open.spotify.com/album/4wVHqCpgUkm4WQPXqwdBwa) | 3:16 |
 | 2 | [Raw Cuts \#5 \- Mixed](https://open.spotify.com/track/6UlPnSHnmWJ4B1C7WomVbm) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#5 \(Mixed\)](https://open.spotify.com/album/19Ou8JZCHN5Yo5qw95yhNy) | 3:23 |
 | 3 | [Gold \- Mixed](https://open.spotify.com/track/3n432V76KidXqmrUrictjd) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold \(Mixed\)](https://open.spotify.com/album/5cedqECNj4tlBsfz194Bol) | 2:48 |
 | 4 | [On Read \- Mixed](https://open.spotify.com/track/0ETbZxRe07bjXI2fN1WHTX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [On Read \(Mixed\)](https://open.spotify.com/album/0pugEfuWzaV9Q5qEyz2OFi) | 2:29 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 | 23 | [Ride \- Mixed](https://open.spotify.com/track/7ffdDoyugMNyplWKXNY2px) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [Ride \(Mixed\)](https://open.spotify.com/album/7dtFnjxB5o9la4oWSc595H) | 2:50 |
 | 24 | [No Sleep Til MTL \- Mixed](https://open.spotify.com/track/4ucoiL4jKdF1aMW6UQP615) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [No Sleep Til MTL \(Mixed\)](https://open.spotify.com/album/6ZxeYA3nBnZGckdncnC5yu) | 5:02 |
 
-Snapshot ID: `MTY2NzE4ODgwMCwwMDAwMDAwMDZlODcwOTRiOGY2ZWRlOTI5NGY2NmFlMTk1M2NiZDA0`
+Snapshot ID: `MTY4MTQyMjUzNSwwMDAwMDAwMDQ3MTk0NjI2YzIxY2E4OTllYWQ5MDgwY2E0NDc1OGY3`

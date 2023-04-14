@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk.
 
-108 songs - 6 hr 52 min
+109 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 | 2022-10-10 |  |
 | [Black Minnie](https://open.spotify.com/track/3BUFXtna2b15Sg4Ppj1KVu) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 2:55 | 2023-01-06 | 2023-01-21 |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-12-17 |  |
+| [Blues Jumped a Rabbit](https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Blues Jumped a Rabbit](https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4) | 3:55 | 2023-04-14 |  |
 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 | 2021-12-17 |  |
 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 | 2021-12-17 |  |
 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 | 2021-12-17 |  |
@@ -63,7 +64,7 @@
 | [Lazy Sunday](https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a) | [Eddie Martin](https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU) | [The Birdcage Sessions](https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S) | 4:16 | 2021-12-17 |  |
 | [Let Your Light Shine on Me](https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:08 | 2022-05-11 |  |
 | [Lonely Days](https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 2:32 | 2021-12-17 |  |
-| [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 | 2022-05-27 |  |
+| [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 | 2022-05-27 | 2023-04-14 |
 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 | 2021-12-17 |  |
 | [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 | 2021-12-17 | 2023-04-05 |
 | [Mama Don't Tear Your Clothes](https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [That's All Right](https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS) | 1:56 | 2023-01-06 |  |

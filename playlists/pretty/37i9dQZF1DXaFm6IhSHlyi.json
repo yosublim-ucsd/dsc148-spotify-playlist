@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 137986,
+  "num_followers": 138026,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDJiZWY3MmE4ZDk5ZGY3MTRmNjljOGMwMWRiN2JhNGI1",
+  "snapshot_id": "MTY3NTg1NjQ0NywwMDAwMDAwMDM0ZDAzNmUxYWE0NTYzOTcxZmVjZjM0ZjEyMjRkY2Vh",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Meri Pyaari Bindu",
         "url": "https://open.spotify.com/album/5aB2ao1SUs9f4bAmptE1yM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 264614,
       "name": "Maana Ke Hum Yaar Nahin",
       "url": "https://open.spotify.com/track/1O3WfEwaSpsgZ6tw8jNT8I"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Elyanna",
+        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 62969,
+      "name": "Majnony Ana",
+      "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Ohebbou Yadayka",
         "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Elyanna",
-        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 62969,
-      "name": "Majnony Ana",
-      "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 178906,
       "name": "Stories",
       "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Akustikhane",
-        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
-      },
-      "artists": [
-        {
-          "name": "Kahraman Deniz",
-          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
-        }
-      ],
-      "duration_ms": 331607,
-      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
-      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - Sugar Man3 Episode.11",
         "url": "https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB"
       },
@@ -2135,26 +2119,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
+        "name": "Akustikhane",
+        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
       },
       "artists": [
         {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Red Farrow",
-          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
         }
       ],
-      "duration_ms": 230000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+      "duration_ms": 331607,
+      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
+      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2195,6 +2171,30 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Red Farrow",
+          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "DOCUMENTARY",
         "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
@@ -2227,26 +2227,6 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
-        }
-      ],
-      "duration_ms": 195273,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2299,6 +2279,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kezbi Wara Kezbi",
+        "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 236697,
+      "name": "Wassellik Khabar",
+      "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Maghihintay",
         "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
@@ -2347,6 +2343,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+        }
+      ],
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 272288,
       "name": "Ang Kwento Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kezbi Wara Kezbi",
-        "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 236697,
-      "name": "Wassellik Khabar",
-      "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "How We Love",
         "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 230000,
       "name": "How We Love",
       "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
+      },
+      "artists": [
+        {
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",

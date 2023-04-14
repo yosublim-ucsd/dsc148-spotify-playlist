@@ -1,15 +1,15 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1475195,
+  "num_followers": 1475574,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMDQ3M2M1YmI0NGZmNTY3NTczNGQyNjJlZGJjOTBmZmUz",
+  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMGZkNzM5MjZmM2JkY2JiMDVjODU2YTY4MjA5NDQzOTQ1",
   "tracks": [
     {
-      "added_at": "2023-04-13 00:43:30",
+      "added_at": "2023-04-14 00:27:43",
       "album": {
         "name": "thishouseisnotahome",
         "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "agoraphobic",
         "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
       },
@@ -837,22 +853,6 @@
       "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
-        }
-      ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Midnight Thoughts",
@@ -869,20 +869,36 @@
       "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
+        "name": "switch up",
+        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
       },
       "artists": [
         {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+      "duration_ms": 104173,
+      "name": "switch up",
+      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 119371,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -903,34 +919,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/2hSvhL75eTTQLmbaCKWbAE"
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
         }
       ],
-      "duration_ms": 119371,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "switch up",
-        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 104173,
-      "name": "switch up",
-      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "F*ck Love",
-        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 197368,
-      "name": "F*ck Love",
-      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Never With You Again",
@@ -1015,6 +999,22 @@
       "duration_ms": 132000,
       "name": "Never With You Again",
       "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "F*ck Love",
+        "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 197368,
+      "name": "F*ck Love",
+      "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "I\u2019ll Keep You Safe",
         "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 140338,
       "name": "I\u2019ll Keep You Safe",
       "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Ethereal",
-        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
       },
       "artists": [
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "Teddi Jones",
-          "url": "https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP"
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
         }
       ],
-      "duration_ms": 177866,
-      "name": "BLUE MOON (feat. Teddi Jones)",
-      "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
+      "duration_ms": 164154,
+      "name": "BAD NEWS",
+      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z"
       },
       "artists": [
         {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Teddi Jones",
+          "url": "https://open.spotify.com/artist/34a5LXFoUFNHj9MdFECobP"
         }
       ],
-      "duration_ms": 164154,
-      "name": "BAD NEWS",
-      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
+      "duration_ms": 177866,
+      "name": "BLUE MOON (feat. Teddi Jones)",
+      "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1609,6 +1609,22 @@
       "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
@@ -1633,36 +1649,20 @@
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
       },
       "artists": [
         {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
         }
       ],
-      "duration_ms": 206270,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Can't Leave",
-        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Can't Leave",
-      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1685,24 +1685,20 @@
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "YellowStone",
-        "url": "https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp"
+        "name": "Can't Leave",
+        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "Eddy Baker",
-          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
         }
       ],
-      "duration_ms": 189309,
-      "name": "YellowStone",
-      "url": "https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F"
+      "duration_ms": 174545,
+      "name": "Can't Leave",
+      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1737,20 +1733,24 @@
       "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
+        "name": "YellowStone",
+        "url": "https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp"
       },
       "artists": [
         {
-          "name": "Yung Pinch",
-          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "Eddy Baker",
+          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
+      "duration_ms": 189309,
+      "name": "YellowStone",
+      "url": "https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F"
     }
   ],
   "unique_name": "tear drop",

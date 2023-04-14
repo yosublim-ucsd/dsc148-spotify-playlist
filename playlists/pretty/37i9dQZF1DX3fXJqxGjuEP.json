@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 644022,
+  "num_followers": 644151,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI2MjE4MiwwMDAwMDAwMGQxNTE2YzM4YTU1YTRlNDFmMWM4MzFhMDViOGIwZjA0",
+  "snapshot_id": "MTY4MTI2MjE4MiwwMDAwMDAwMGYzNWEwY2ZjYjg2OGI1OTQ2YzE3MDQ5OTQ1NTYzZTQ1",
   "tracks": [
     {
       "added_at": "2022-05-09 03:43:40",
@@ -243,8 +243,8 @@
     {
       "added_at": "2023-03-28 05:40:01",
       "album": {
-        "name": "Strange Salsa",
-        "url": "https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC"
+        "name": "Octopus",
+        "url": "https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy"
       },
       "artists": [
         {
@@ -254,7 +254,7 @@
       ],
       "duration_ms": 216053,
       "name": "Moody Cumbia",
-      "url": "https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9"
+      "url": "https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -293,42 +293,6 @@
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
-      "added_at": "2022-09-16 04:48:46",
-      "album": {
-        "name": "Me Duele",
-        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Me Duele",
-      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
-    },
-    {
-      "added_at": "2023-03-31 19:49:52",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0LFLrXTwicezm8KkIfNvtT"
-      },
-      "artists": [
-        {
-          "name": "Ritmo Machine",
-          "url": "https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw"
-        }
-      ],
-      "duration_ms": 206951,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4M741Ru3lGDY3GWY01WBoU"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Verte",
@@ -351,6 +315,42 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+    },
+    {
+      "added_at": "2023-03-31 19:49:52",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0LFLrXTwicezm8KkIfNvtT"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Machine",
+          "url": "https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw"
+        }
+      ],
+      "duration_ms": 206951,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4M741Ru3lGDY3GWY01WBoU"
+    },
+    {
+      "added_at": "2022-09-16 04:48:46",
+      "album": {
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "B\u00e9same Morenita",
+        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 247733,
       "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
       "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "B\u00e9same Morenita",
-        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -667,6 +667,26 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Serenatas Frente al Mar",
+        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Serenatas Frente al Mar",
+      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 268280,
       "name": "T\u00fa S\u00ed Sabes Quererme",
       "url": "https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Serenatas Frente al Mar",
-        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 197850,
-      "name": "Serenatas Frente al Mar",
-      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -965,26 +965,6 @@
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
-      "added_at": "2021-11-10 16:29:39",
-      "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Quisiera",
@@ -1007,6 +987,26 @@
       "duration_ms": 233333,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
+    },
+    {
+      "added_at": "2021-11-10 16:29:39",
+      "album": {
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Churupaca",
-        "url": "https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX"
-      },
-      "artists": [
-        {
-          "name": "Churupaca",
-          "url": "https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H"
-        },
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Duda Morena",
-      "url": "https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Churupaca",
+        "url": "https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX"
+      },
+      "artists": [
+        {
+          "name": "Churupaca",
+          "url": "https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H"
+        },
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Duda Morena",
+      "url": "https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1353,6 +1353,26 @@
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+    },
+    {
       "added_at": "2022-11-17 23:07:04",
       "album": {
         "name": "El Sabor del Viejo Mar",
@@ -1377,26 +1397,6 @@
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
       "added_at": "2022-06-08 03:35:19",
       "album": {
         "name": "Skin and Bones",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La F\u00f3rmula del Mambo",
-        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "\u201dZamba Puta\u201d",
         "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 203807,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "La F\u00f3rmula del Mambo",
+        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
-      "added_at": "2022-09-03 02:45:23",
-      "album": {
-        "name": "Las 4:40",
-        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 197017,
-      "name": "Las 4:40",
-      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Dividido",
@@ -1569,36 +1553,20 @@
       "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-09-03 02:45:23",
       "album": {
-        "name": "Con la Fiesta a Cuestas",
-        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+        "name": "Las 4:40",
+        "url": "https://open.spotify.com/album/6pmJmeza6r8945UIiY6dpW"
       },
       "artists": [
         {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Luna Completa",
-        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Luna Completa",
-      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+      "duration_ms": 197017,
+      "name": "Las 4:40",
+      "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1619,6 +1587,38 @@
       "duration_ms": 207621,
       "name": "Paso a Huella - Captain Planet Remix",
       "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Luna Completa",
+        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Luna Completa",
+      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Con la Fiesta a Cuestas",
+        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 230076,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "R\u00fambala",
         "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 230076,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Espiritual",
-        "url": "https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP"
-      },
-      "artists": [
-        {
-          "name": "Pachar\u00e1",
-          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
-        }
-      ],
-      "duration_ms": 231275,
-      "name": "Espiritual",
-      "url": "https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Gardenia",
         "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Espiritual",
+        "url": "https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP"
+      },
+      "artists": [
+        {
+          "name": "Pachar\u00e1",
+          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
+        }
+      ],
+      "duration_ms": 231275,
+      "name": "Espiritual",
+      "url": "https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ"
     },
     {
       "added_at": "2021-10-20 20:06:54",

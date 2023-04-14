@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Choses Sauvages",
-  "num_followers": 36282,
+  "num_followers": 36294,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDM0YWU1NjA3MTM3MTJjZTRiYjk2NTBjN2UzNGU1YmY3",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDkwMTVmNzY1MWNmOTMyNjZhYmM1NGI0ODQ0NDIxOTZj",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Mes affaires",
-        "url": "https://open.spotify.com/album/5yCcPQUL1zdTO9lcI73YwO"
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Mes affaires",
-      "url": "https://open.spotify.com/track/5Ug50Tcin5Gc3MPDw13sKC"
+      "duration_ms": 221653,
+      "name": "Nous deux",
+      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -195,34 +195,34 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
+        "name": "Mes affaires",
+        "url": "https://open.spotify.com/album/5yCcPQUL1zdTO9lcI73YwO"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
+      "duration_ms": 190666,
+      "name": "Mes affaires",
+      "url": "https://open.spotify.com/track/5Ug50Tcin5Gc3MPDw13sKC"
     },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Loup blanc",
-        "url": "https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r"
+        "name": "FAM",
+        "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
       },
       "artists": [
         {
-          "name": "Rim'K",
-          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
         }
       ],
-      "duration_ms": 160897,
-      "name": "Loup blanc",
-      "url": "https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm"
+      "duration_ms": 173041,
+      "name": "FAM",
+      "url": "https://open.spotify.com/track/0PrBe0j3bFmVjkGAx0nRIW"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "FAM",
-        "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
+        "name": "Loup blanc",
+        "url": "https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r"
       },
       "artists": [
         {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
         }
       ],
-      "duration_ms": 173041,
-      "name": "FAM",
-      "url": "https://open.spotify.com/track/0PrBe0j3bFmVjkGAx0nRIW"
+      "duration_ms": 160897,
+      "name": "Loup blanc",
+      "url": "https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Cullinan (Gel\u00e9e Royale 1 & 2)",
-        "url": "https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 159474,
-      "name": "Verre de trop",
-      "url": "https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "uet",
         "url": "https://open.spotify.com/album/72KOX2Y7P9LoTWgv7zKNPy"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 150053,
       "name": "uet",
       "url": "https://open.spotify.com/track/2tUfesk6jwISYkygWV9481"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Cullinan (Gel\u00e9e Royale 1 & 2)",
+        "url": "https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 159474,
+      "name": "Verre de trop",
+      "url": "https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -491,42 +491,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "La Masia",
-        "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
-      },
-      "artists": [
-        {
-          "name": "L'Allemand",
-          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
-        }
-      ],
-      "duration_ms": 142868,
-      "name": "La Masia",
-      "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "La grande d\u00e9sillusion",
-        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Epps",
-          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "tr\u00e8s tard le soir (feat. Josman)",
-      "url": "https://open.spotify.com/track/6eS9MESvWbhLv2zvv4Zc7T"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "R\u00eave",
         "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
       },
@@ -567,6 +531,42 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "La grande d\u00e9sillusion",
+        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "tr\u00e8s tard le soir (feat. Josman)",
+      "url": "https://open.spotify.com/track/6eS9MESvWbhLv2zvv4Zc7T"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "La Masia",
+        "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
+      },
+      "artists": [
+        {
+          "name": "L'Allemand",
+          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
+        }
+      ],
+      "duration_ms": 142868,
+      "name": "La Masia",
+      "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Chaud",
         "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "FEEL GOOD",
-        "url": "https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF"
-      },
-      "artists": [
-        {
-          "name": "Julien Granel",
-          "url": "https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "FEEL GOOD",
-      "url": "https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Junior",
         "url": "https://open.spotify.com/album/4Q8mmF3BDRqpCz3vLITcgh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 185613,
       "name": "RECETTE",
       "url": "https://open.spotify.com/track/0Yh28SkiYPRoVGQs73aTfb"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/0nUUsu6S1qzEjiTZ7ibxQF"
+      },
+      "artists": [
+        {
+          "name": "Julien Granel",
+          "url": "https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "FEEL GOOD",
+      "url": "https://open.spotify.com/track/4818KPM4qB4jOHL3wCx4xv"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 154069,
+      "name": "Combien de fois",
+      "url": "https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "La Voix 2023",
         "url": "https://open.spotify.com/album/1LtGxOzpH5yYf9jIb7JpfX"
       },
@@ -860,8 +876,8 @@
           "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
         },
         {
-          "name": "M\u00e9lodie-Jade Valiquette Claude",
-          "url": "https://open.spotify.com/artist/5BDjymGQw59ZRpvMFZcAIn"
+          "name": "M\u00e9lodie-Jade",
+          "url": "https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK"
         }
       ],
       "duration_ms": 209440,
@@ -883,22 +899,6 @@
       "duration_ms": 223285,
       "name": "Aimer d'amour",
       "url": "https://open.spotify.com/track/0MaQf08KMSfzFAokIBLxGW"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 154069,
-      "name": "Combien de fois",
-      "url": "https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

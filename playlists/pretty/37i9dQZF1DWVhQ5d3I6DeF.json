@@ -1,12 +1,12 @@
 {
   "description": "Catchy pop music to keep those legs going.",
-  "num_followers": 311834,
+  "num_followers": 312438,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMzI3MywwMDAwMDAwMGVjMWUxNjAwYjI3OTJhM2NmNjlmMjg4NWUxYzcwMGE3",
+  "snapshot_id": "MTY3NjAzMzI3MywwMDAwMDAwMDc1YzU0NDJiNTkwYWZmMjI0ZWYzYjYwZGIxODBlYzBl",
   "tracks": [
     {
       "added_at": "2023-02-10 12:47:53",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
-        "name": "No Money",
-        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
         }
       ],
-      "duration_ms": 189126,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
     }
   ],
   "unique_name": "Fast Pop Run",

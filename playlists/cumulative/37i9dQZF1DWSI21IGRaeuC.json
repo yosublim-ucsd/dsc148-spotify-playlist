@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 427669,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4ElK9xhUZXhigP26T6CIqN"
@@ -2780,6 +2780,24 @@
       "duration_ms": 195692,
       "name": "The Mascot",
       "url": "https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo"
+    },
+    {
+      "album": {
+        "name": "The Smoke",
+        "url": "https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa"
     },
     {
       "album": {

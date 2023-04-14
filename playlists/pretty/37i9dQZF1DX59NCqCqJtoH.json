@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1133640,
+  "num_followers": 1133878,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzNDQyMiwwMDAwMDAwMDUxZDE1NjM0N2I1M2ZhNzVlYmI4NDEyNzI2Y2RmZGQ5",
+  "snapshot_id": "MTY4MDYzNDQyMiwwMDAwMDAwMDU3YmM1ZGUxNGY0NjAzN2QxODU0ODc5NTUyNzdiYzEy",
   "tracks": [
     {
       "added_at": "2023-03-21 17:38:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "I'm Sorry I'm Like This",
-        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "Somewhere in the Universe",
-      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "crush (demos)",
         "url": "https://open.spotify.com/album/2ha2R9dZOJ6B0aYnNanUwQ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 60869,
       "name": "my fault",
       "url": "https://open.spotify.com/track/36WabQN781ejYiSWKQAzDD"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "I'm Sorry I'm Like This",
+        "url": "https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "Somewhere in the Universe",
+      "url": "https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "you missed the best part",
         "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 124743,
       "name": "hospital beach",
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Safe.",
         "url": "https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 119089,
       "name": "I Know You so Well",
       "url": "https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "Don't Leave, Don't Go / Bleed",
         "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
       },
@@ -1199,38 +1199,6 @@
       "duration_ms": 168960,
       "name": "Idea of Her",
       "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
       "added_at": "2023-03-23 19:39:36",
@@ -1267,6 +1235,38 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 166389,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/44olvKgVfAJMgRtxjup3xN"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "When the City Sleeps",
-        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 216514,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1315,6 +1299,22 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "When the City Sleeps",
+        "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 216514,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Smoke Signals (feat. Tessa Violet)",
-        "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 208966,
-      "name": "Smoke Signals (feat. Tessa Violet)",
-      "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 120032,
       "name": "I even told my mom about u",
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Smoke Signals (feat. Tessa Violet)",
+        "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 208966,
+      "name": "Smoke Signals (feat. Tessa Violet)",
+      "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
-      },
-      "artists": [
-        {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
-        }
-      ],
-      "duration_ms": 207955,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "Coming Clean",
         "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
     }
   ],
   "unique_name": "idk.",

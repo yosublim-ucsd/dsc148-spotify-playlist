@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Geolier
+> La playlist urban più grande d'Italia 🔥 Cover: Icy Subzero
 
 263 songs - 12 hr 59 min
 

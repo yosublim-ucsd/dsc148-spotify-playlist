@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: スピッツ \*👉 <a href="https://spice.eplus.jp/articles/317111?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,073 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,173 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [Fine.](https://open.spotify.com/track/7wp0L3Ywn8oE2VHApCRgfw) | [Houkago Hotal](https://open.spotify.com/artist/6CTXHqUj5LQSZXGIujgK0h) | [Fine.](https://open.spotify.com/album/2fJnAOy73sKxFHf5Bjd8GQ) | 2:39 |
 | 70 | [sissy](https://open.spotify.com/track/0LJv2yuJgyruUY0tlKEeGZ) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [sissy](https://open.spotify.com/album/38yPxEEUW4I5HbCksPCzBe) | 3:28 |
 | 71 | [セメテモノダンス](https://open.spotify.com/track/3MdgP6R5e73Dc9ocWuqF9v) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [セメテモノダンス](https://open.spotify.com/album/6zwuu3cYU86BcJsCqcuw7J) | 4:19 |
-| 72 | [What Do You Wanna Know?](https://open.spotify.com/track/3r8Xk84QKJDP6I5FuMsgrj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Mindmash](https://open.spotify.com/album/1oTfStADdknHMWouQkQ6Kt) | 4:19 |
+| 72 | [What Do You Wanna Know?](https://open.spotify.com/track/3r8Xk84QKJDP6I5FuMsgrj) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Mindwash](https://open.spotify.com/album/1oTfStADdknHMWouQkQ6Kt) | 4:19 |
 | 73 | [Gamofu](https://open.spotify.com/track/1o2dd2Xtrvxp0gDsgR6cRz) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Gamofu](https://open.spotify.com/album/3sUzxE34EnW9v60WwYMKcI) | 2:33 |
 | 74 | [夢占](https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [水中庭園](https://open.spotify.com/album/4FxkA4os4gczMz5KifOc8b) | 2:19 |
 | 75 | [Endless Blue](https://open.spotify.com/track/65N6CHBeC10wQeP4bS3Nlq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Endless Blue](https://open.spotify.com/album/7iUPNZlBd24eWoC4dgYSyt) | 4:11 |

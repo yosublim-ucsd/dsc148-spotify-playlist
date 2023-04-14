@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Jordan Sandhu & Mahira Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,003 likes - 83 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,085 likes - 83 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Te Sharaab](https://open.spotify.com/track/0oUfa6l7wLkVAdXpuZv1Es) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Tu Te Sharab](https://open.spotify.com/album/2WkHsdB7xX7Iogc6V3mMCc) | 3:15 |
-| 2 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/4UThAkJdbDOcmxGfeCtrNd) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 |
+| 2 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 |
 | 3 | [Gang](https://open.spotify.com/track/6JUucJOwksTvrjjnq3yyqQ) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Turner](https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Gang](https://open.spotify.com/album/4iaAssa1mvJrF2JeOi3V3U) | 2:46 |
 | 4 | [Shawty Like A Melody](https://open.spotify.com/track/6FThFO8Pnz9YEbgyERV9XG) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Win Win Situation](https://open.spotify.com/album/4FwjJj6xPDaGCbSYWxgkJk) | 3:44 |
 | 5 | [Shohrat](https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Shohrat](https://open.spotify.com/album/67gVqqexjN9khVmggJsLg5) | 3:39 |

@@ -2,9 +2,9 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> Si la rompe está acá\. Foto: Taiu & Milo J.
+> Si la rompe está acá\. Foto: FMK, Big One & Ke Personajes.
 
-241 songs - 12 hr 42 min
+242 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Locura y Maldad](https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Locura y Maldad](https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j) | 3:20 | 2022-06-16 | 2022-08-19 |
 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 | 2022-02-24 | 2022-04-29 |
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-06-30 | 2022-10-07 |
-| [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 | 2023-01-05 |  |
+| [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 | 2023-01-05 | 2023-04-14 |
+| [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 | 2023-04-13 |  |
 | [Mal Acostumbrao](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2021-12-31 | 2022-04-07 |
 | [Mala Mía](https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:10 | 2021-12-31 | 2022-02-15 |
 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2022-05-24 | 2022-10-21 |

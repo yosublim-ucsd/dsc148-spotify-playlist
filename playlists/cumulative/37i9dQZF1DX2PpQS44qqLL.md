@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-418 songs - 1 day 3 hr 47 min
+419 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Lo Dudo](https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 3:39 | 2021-12-21 |  |
 | [Lo Dudo \- Remasterizado](https://open.spotify.com/track/67WFZbVpcNl0xiRHJ7QNFH) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José José \- Secretos 30 Aniversario](https://open.spotify.com/album/0ExU6HD9OWFwDtLu0eFqDY) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Lo Mejor de Mi](https://open.spotify.com/track/3deEKI2RwUPAvKEZrXJrD4) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/4k5g8lCMPYaAdjc7Urzz4Z) | 3:55 | 2021-12-21 | 2022-07-29 |
+| [Lo Mejor de Mi](https://open.spotify.com/track/5cEGQnaurid1T3sI5LyIL1) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/1lLfKvbH4T00XyWPg5grYF) | 3:55 | 2021-12-21 |  |
 | [Lo Que Son Las Cosas](https://open.spotify.com/track/2SYYgNrzGeDrrARWb7Lqk6) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Solo Lo Mejor](https://open.spotify.com/album/3e46Eikg0L550c67joreHb) | 4:39 | 2021-12-21 |  |
 | [Lo Siento Mi Amor](https://open.spotify.com/track/4NtwvBrXStiOyN1xOJ1mUR) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:34 | 2021-12-21 | 2022-07-27 |
 | [Lo Siento Mi Amor](https://open.spotify.com/track/2X27vrGVFUGGxXzM8PMtHC) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:35 | 2021-12-21 |  |
@@ -301,7 +302,7 @@
 | [Prometes](https://open.spotify.com/track/1Qf1Z6EtcjmfvaU6pJlPI0) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Dueña de mi corazón](https://open.spotify.com/album/5tVO7XieYjimEPG6Azp6Uv) | 3:00 | 2021-12-21 | 2022-07-08 |
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/3GoKDP0kBKnsj9SlK1oYVz) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [Que Ganas de No Verte Nunca Mas](https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:55 | 2021-12-21 |  |
-| [Que Te la Pongo](https://open.spotify.com/track/0ZacQFzx0DShPZOwf7IdZS) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Grandes Éxitos](https://open.spotify.com/album/6Nojw3wtF9h9yvdeHyJgcw) | 3:09 | 2021-12-21 |  |
+| [Que Te la Pongo](https://open.spotify.com/track/0ZacQFzx0DShPZOwf7IdZS) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Grandes Éxitos](https://open.spotify.com/album/6Nojw3wtF9h9yvdeHyJgcw) | 3:09 | 2021-12-21 | 2023-04-14 |
 | [Que Vuelva](https://open.spotify.com/track/3nXYvJhqP24KnlXvfW3Mi7) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:46 | 2021-12-21 | 2022-11-13 |
 | [Que Vuelva](https://open.spotify.com/track/1s3mmKSCM9rg2OrYvDj9a7) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Arrepentida y Sola](https://open.spotify.com/album/3LOBPKeloBNKmpQ3qjOUcZ) | 3:41 | 2021-12-21 | 2022-07-29 |
 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 | 2021-12-21 |  |

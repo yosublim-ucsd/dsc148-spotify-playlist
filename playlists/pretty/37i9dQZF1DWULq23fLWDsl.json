@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 159328,
+  "num_followers": 159674,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDU2OTQ2ZGJhYTYzNTVkOTVmZTYyZTk2YzlmNjNkZWNj",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMDM1YjVlMDhmOWU1YmU1YWVkYTVmMWVkMjdkODM3Y2E4",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Solitude Is Bliss",
-      "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 203773,
       "name": "Everlasting Light",
       "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Solitude Is Bliss",
+      "url": "https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Why Won't You Make Up Your Mind?",
-      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 303653,
       "name": "Down in the Valley",
       "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Why Won't You Make Up Your Mind?",
+      "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ready to Start",
-      "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Alter Ego",
-      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
+      "duration_ms": 255893,
+      "name": "Ready to Start",
+      "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -759,22 +743,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 325546,
-      "name": "Sprawl II (Mountains Beyond Mountains)",
-      "url": "https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "James Blake",
         "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
       },
@@ -807,6 +775,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Pickin' up the Pieces",
         "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 321533,
-      "name": "It Is Not Meant To Be",
-      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
+      "duration_ms": 325546,
+      "name": "Sprawl II (Mountains Beyond Mountains)",
+      "url": "https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -887,22 +871,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 364493,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
       },
@@ -915,6 +883,22 @@
       "duration_ms": 138293,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4wtxSmTTeg6CiuhwIVKv0b"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 364493,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -951,6 +935,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 321533,
+      "name": "It Is Not Meant To Be",
+      "url": "https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "High Violet",
         "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 275933,
       "name": "Bloodbuzz Ohio",
       "url": "https://open.spotify.com/track/3lnF83kG6ePhTSWRoW62dO"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "InnerSpeaker",
-        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "InnerSpeaker",
+        "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "One Life Stand",
-        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 321496,
-      "name": "One Life Stand",
-      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Suburbs",
         "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Forgiveness Rock Record",
-        "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
       },
       "artists": [
         {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 309306,
-      "name": "Sweetest Kill",
-      "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1171,6 +1155,22 @@
       "duration_ms": 206733,
       "name": "Horchata",
       "url": "https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Forgiveness Rock Record",
+        "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "Sweetest Kill",
+      "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 449373,
-      "name": "He Would Have Laughed",
-      "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "The Suburbs (Deluxe)",
         "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+      },
+      "artists": [
+        {
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+        }
+      ],
+      "duration_ms": 449373,
+      "name": "He Would Have Laughed",
+      "url": "https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "/\\/\\ /\\ Y /\\",
         "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 247493,
       "name": "BORN FREE",
       "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Giving Up the Gun",
+      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1315,22 +1331,6 @@
       "duration_ms": 158106,
       "name": "King of the Beach",
       "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "Giving Up the Gun",
-      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "White Sky",
-      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Infinite Arms",
         "url": "https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 205213,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "White Sky",
+      "url": "https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU"
     },
     {
       "added_at": "2022-09-05 11:29:45",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 340186,
-      "name": "England",
-      "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Pickin' up the Pieces",
         "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 272933,
       "name": "Little Girl (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/6lGzMfAWjZbvPPf8SLpu0Y"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 340186,
+      "name": "England",
+      "url": "https://open.spotify.com/track/3KpJsilpYiHAVEMoCKYjFv"
     },
     {
       "added_at": "2021-10-05 08:40:49",

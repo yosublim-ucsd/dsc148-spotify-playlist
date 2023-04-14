@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: MINOVA
 
-1,384 songs - 3 day 3 hr 47 min
+1,385 songs - 3 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [SAVING GRACE](https://open.spotify.com/track/6XTS0mSi9fSewFudr1pY2j) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [19 MASTERS](https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN) | 2:52 | 2022-06-15 | 2022-07-07 |
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-03-02 | 2022-04-27 |
 | [Say Something](https://open.spotify.com/track/5AhfqcqPibd5jtfvSux8YY) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Good Grief](https://open.spotify.com/album/7jUvRK4rxgdtGPZIxFjKor) | 3:06 | 2023-03-01 | 2023-03-29 |
+| [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 | 2023-04-14 |  |
 | [Scatter Brains](https://open.spotify.com/track/3m241a2mFTD9BVqUsRZ3rt) | [The Bots](https://open.spotify.com/artist/4BytPrwCFHaxTtfKxoaaxD) | [2 Seater](https://open.spotify.com/album/0J1KnmiVyAvXjVhZS8oskC) | 4:26 | 2022-09-14 | 2022-10-20 |
 | [Seabird](https://open.spotify.com/track/3R11mM7L0MDY7xVHUp5TUX) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Seabird](https://open.spotify.com/album/7oG2VgFoXxqkrelrDhKlOU) | 3:02 | 2022-03-02 | 2022-04-27 |
 | [Seasick](https://open.spotify.com/track/3NMyjZgMXKHbUQzvL15fsA) | [Hollie Col](https://open.spotify.com/artist/4JyT0CxxEic1JhENHbXfR1) | [Seasick](https://open.spotify.com/album/2EXfynLGUCWEvEWhMe4Ptv) | 2:54 | 2022-02-16 | 2022-03-17 |

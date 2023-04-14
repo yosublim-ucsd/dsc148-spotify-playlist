@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 62127,
+  "num_followers": 62174,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGE5YjRiMmJjNjdhNTM5ODZmM2UyODExMjAyYTg5MDk2",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMGY5OGUxOGI0ZGY3NTgxYzRlOWMzNGFiZjhkNmRiMWY1",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "DHL",
         "url": "https://open.spotify.com/album/1Fh1gzTOImG12M35w3nqQF"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 268893,
       "name": "DHL",
       "url": "https://open.spotify.com/track/2INhKpUdzh7v0j041gZNsz"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Angles (feat. JME)",
         "url": "https://open.spotify.com/album/5FlTltS0elrbjIOCR4eRNn"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 183083,
       "name": "Angles (feat. JME)",
       "url": "https://open.spotify.com/track/2xcinH0acfCEZhflJuokip"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "You Got The Body",
-        "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 176619,
-      "name": "You Got The Body",
-      "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
-        "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
+        "name": "You Got The Body",
+        "url": "https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG"
       },
       "artists": [
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 377852,
-      "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
-      "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
+      "duration_ms": 176619,
+      "name": "You Got The Body",
+      "url": "https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1291,6 +1271,26 @@
       "duration_ms": 215848,
       "name": "Coco Blood",
       "url": "https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
+        "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 377852,
+      "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
+      "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
+      },
+      "artists": [
+        {
+          "name": "TORA",
+          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "TyrTape (Deluxe)",
         "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 200168,
       "name": "I Blodet (feat. Natnael)",
       "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6"
     },
     {
       "added_at": "2023-01-12 23:00:00",

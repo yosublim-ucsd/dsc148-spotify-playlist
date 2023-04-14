@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 110700,
+  "num_followers": 110729,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDNjNjFiYWMxZDQyZDI5MWMwNjkzZmQyNWRmNDUwZmUx",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDU0NjRhZGYyNTNiOTFmODIzMzhjZmE5YzhmYTNlYjM5",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
+        "name": "I Dare You!",
+        "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
       },
       "artists": [
         {
-          "name": "Casey MacGill & the Spirits of Rhythm",
-          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
+          "name": "Blue Harlem",
+          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
         }
       ],
-      "duration_ms": 197160,
-      "name": "Whadaya Want",
-      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
+      "duration_ms": 179453,
+      "name": "I Dare You Baby",
+      "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "I Dare You!",
-        "url": "https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2"
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
       },
       "artists": [
         {
-          "name": "Blue Harlem",
-          "url": "https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90"
+          "name": "Casey MacGill & the Spirits of Rhythm",
+          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
         }
       ],
-      "duration_ms": 179453,
-      "name": "I Dare You Baby",
-      "url": "https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw"
+      "duration_ms": 197160,
+      "name": "Whadaya Want",
+      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Salutes the Great Entertainers",
-        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
-      },
-      "artists": [
-        {
-          "name": "Ray Gelato",
-          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "The Joint is Jumpin'",
-      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Torch This Place",
         "url": "https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189466,
       "name": "Swing Sweet Pussycat",
       "url": "https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "One Hour Mama",
+        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Oo Poppa Do",
+      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "One Hour Mama",
-        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
+        "name": "Salutes the Great Entertainers",
+        "url": "https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s"
       },
       "artists": [
         {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+          "name": "Ray Gelato",
+          "url": "https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Oo Poppa Do",
-      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
+      "duration_ms": 165933,
+      "name": "The Joint is Jumpin'",
+      "url": "https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "rapid city muscle car",
-        "url": "https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i"
-      },
-      "artists": [
-        {
-          "name": "Cherry Poppin' Daddies",
-          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Pink Elephant",
-      "url": "https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Everybody's Talkin' 'Bout Miss Thing!",
         "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 250200,
       "name": "Honey Pie",
       "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "rapid city muscle car",
+        "url": "https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Pink Elephant",
+      "url": "https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF"
     },
     {
       "added_at": "2022-03-28 19:13:18",

@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 300134,
+  "num_followers": 300266,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDU0OWQzOGIxZTAwN2FiMmZmNzJiMzFmY2QzNzc0ODFl",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDhiZWUyMGI2Y2JkYzg1ZTRjZjA0YzQ2ZGMwM2UyM2Q4",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -811,6 +811,30 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Nightrider",
+        "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 300990,
+      "name": "Nightrider",
+      "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Rendezvous (with Miraa May)",
         "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Nightrider",
-        "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 300990,
-      "name": "Nightrider",
-      "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Gravitate",
+        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 341826,
+      "name": "Gravitate",
+      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Gravitate",
-        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 341826,
-      "name": "Gravitate",
-      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
     },
     {
       "added_at": "2022-06-20 14:19:42",

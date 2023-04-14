@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,433 likes - 147 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,511 likes - 147 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

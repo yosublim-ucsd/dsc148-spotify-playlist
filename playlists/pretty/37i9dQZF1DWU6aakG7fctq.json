@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Camila Orantes & Simon Grossman",
-  "num_followers": 509760,
+  "num_followers": 509789,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDY4ZDNlNTEyNzk3MTg1YjFhZDQ4ZWIyZDhhYmU1MTkz",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDJhNGFmZmQwMjM1MDkwYmUzNjk2OTc0OWM1MzlhZDE4",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -223,18 +223,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+        "name": "Mamita Santa",
+        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 190580,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+      "duration_ms": 239400,
+      "name": "Mamita Santa",
+      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -311,22 +315,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Mamita Santa",
-        "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
       "artists": [
         {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Mamita Santa",
-      "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "A Mi Cama",
-        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "A Mi Cama",
-      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "A Mi Cama",
+        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "A Mi Cama",
+      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
+      },
+      "artists": [
+        {
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Las Flores Sangran",
         "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
@@ -431,22 +451,6 @@
       "duration_ms": 198405,
       "name": "Las Flores Sangran",
       "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -471,6 +475,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Laguna",
-        "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
-      },
-      "artists": [
-        {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Laguna",
-      "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -539,6 +539,22 @@
       "duration_ms": 150773,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Nena, dime algo.",
+        "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Nena, dime algo.",
-        "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Cortes Modernos",
         "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Levitando Lento",
         "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 222634,
       "name": "Levitando Lento",
       "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "tiempo",
-      "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Todo est\u00e1 bien",
         "url": "https://open.spotify.com/album/5bQI76VLd3mxqse1gRF6y0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 241141,
       "name": "amigos con beneficios",
       "url": "https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/535DppotJEFD9C8636VIYQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "capturas de pantalla",
+        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "capturas de pantalla",
+      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Verte Otra Vez",
         "url": "https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 192631,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "capturas de pantalla",
-        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "capturas de pantalla",
-      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
-        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
-      },
-      "artists": [
-        {
-          "name": "L\u00daA",
-          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
-      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Nublado",
         "url": "https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 230982,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+        "url": "https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL"
+      },
+      "artists": [
+        {
+          "name": "L\u00daA",
+          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "\u00bfQu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1119,42 +1119,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 154361,
-      "name": "REPROGRAMAR",
-      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "LA RUTA NATURAL",
-        "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 197179,
-      "name": "LA RUTA NATURAL",
-      "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Fuego - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k"
       },
@@ -1167,6 +1131,22 @@
       "duration_ms": 199402,
       "name": "Fuego - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 154361,
+      "name": "REPROGRAMAR",
+      "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1187,6 +1167,26 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "LA RUTA NATURAL",
+        "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 197179,
+      "name": "LA RUTA NATURAL",
+      "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 182470,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 225714,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 182470,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/74sh4vrghtKQ7J2Ws6aZYX"
+        "name": "en la ciudad",
+        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
       "artists": [
         {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "d\u00f3ntia",
+          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
         }
       ],
-      "duration_ms": 233109,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6C7p3BcxCK9aTgAI87o3LW"
+      "duration_ms": 211986,
+      "name": "en la ciudad",
+      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1375,6 +1379,22 @@
       "duration_ms": 180026,
       "name": "OTRAS MUJERES",
       "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "BAD PREMONITION",
+        "url": "https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1399,38 +1419,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "en la ciudad",
-        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/74sh4vrghtKQ7J2Ws6aZYX"
       },
       "artists": [
         {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "d\u00f3ntia",
-          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
         }
       ],
-      "duration_ms": 211986,
-      "name": "en la ciudad",
-      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "BAD PREMONITION",
-        "url": "https://open.spotify.com/album/3pittQTMimOMMBzkx9gWl5"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK"
+      "duration_ms": 233109,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6C7p3BcxCK9aTgAI87o3LW"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "AMOR O PAZ",
-        "url": "https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "AMOR O PAZ",
-      "url": "https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "\u00bfQUI\u00c9N TE MANDA?",
         "url": "https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 229622,
       "name": "Mis Amantes",
       "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "AMOR O PAZ",
+        "url": "https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "AMOR O PAZ",
+      "url": "https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg"
     },
     {
       "added_at": "2023-04-07 04:00:00",

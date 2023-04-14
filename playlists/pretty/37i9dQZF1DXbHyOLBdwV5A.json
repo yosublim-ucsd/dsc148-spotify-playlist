@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 99129,
+  "num_followers": 99188,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDM0NDJjMDFhNTA0MjE0NWNiMTdkYTBmODkyYTEyOTM0",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDE2Njk2OTAxZmE3NDg5NzM4NWUyYWMzZTZmNjcwNjA5",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Tropa de Jesus Eletro",
         "url": "https://open.spotify.com/album/0ahzYa0d2h5snCgZ5UIpAf"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 165418,
       "name": "Tropa de Jesus Eletro",
       "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2023-03-17 03:00:00",

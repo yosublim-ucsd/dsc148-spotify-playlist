@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Black Honey",
+  "description": "The best in current indie rock. Cover: Gengahr",
   "name": "pulp",
   "tracks": [
     {
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 177529,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu"
@@ -3419,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324906,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx"
+    },
+    {
+      "album": {
         "name": "Wrong Girl, Honey",
         "url": "https://open.spotify.com/album/5TZUx1zHRakzdtq7kPY7oJ"
       },
@@ -4301,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
+    },
+    {
+      "album": {
         "name": "My Very Best",
         "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
       },
@@ -4546,7 +4582,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 206573,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"

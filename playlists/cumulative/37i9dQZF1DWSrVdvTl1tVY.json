@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Sam Divine & Hayley May",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Romy",
   "name": "UK House Music",
   "tracks": [
     {
@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "album": {
         "name": "Erase Me",
         "url": "https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX"
       },
@@ -3639,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/3hjJzEkTSmxZMYE0WdWjqA"
+      },
+      "artists": [
+        {
+          "name": "Dan Shake",
+          "url": "https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302600,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4GFNgyeHtAPq0QdIRecPx1"
+    },
+    {
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG"
       },
@@ -3730,7 +3766,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 176944,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/6vnPFsCT41OXitO00YmthV"
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 129375,
       "name": "Hungry (For Love)",
       "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
@@ -7169,6 +7205,24 @@
     },
     {
       "album": {
+        "name": "Ride with Me",
+        "url": "https://open.spotify.com/album/6sMZobKh3zdJnGHu8c2isr"
+      },
+      "artists": [
+        {
+          "name": "Husko",
+          "url": "https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252187,
+      "name": "Ride with Me",
+      "url": "https://open.spotify.com/track/5sNdKGysH1psecORNfilZV"
+    },
+    {
+      "album": {
         "name": "Rise Again",
         "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
       },
@@ -8652,7 +8706,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 208124,
       "name": "The Otherside (feat. Robinson)",
       "url": "https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3"
@@ -8900,7 +8954,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 240239,
       "name": "Tom Tune",
       "url": "https://open.spotify.com/track/4K7597R5TJY28eIzoepPKo"
@@ -9144,7 +9198,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 292946,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk"

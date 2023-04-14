@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > Una selezione speciale a cura di <a href="spotify:artist:7x68038NwGK0HcnZh49aMB">Bebo Ferra</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,464 likes - 49 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,467 likes - 49 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Feist ",
-  "num_followers": 1603193,
+  "num_followers": 1603253,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDE3ZmYxMWJlYzk4MDkzZjRlZmUyOWNkOWMxYzdhMjgy",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDA3Y2E1NmNlZGVkMWFmMGNhM2E0ZGU3ZDZmM2M3Mzdi",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "i'm watching you",
-        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 214533,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "i'm watching you",
+        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -971,26 +971,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 187788,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
+      "duration_ms": 199576,
+      "name": "Love Is Complicated (The Angels Sing)",
+      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1011,18 +1003,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
         }
       ],
-      "duration_ms": 199576,
-      "name": "Love Is Complicated (The Angels Sing)",
-      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
+      "duration_ms": 187788,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Nothing's Free",
-        "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 278760,
-      "name": "Nothing's Free",
-      "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Nothing's Free",
+        "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 278760,
+      "name": "Nothing's Free",
+      "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
     },
     {
       "added_at": "2023-03-31 04:00:00",

@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:3SjPZFpbGUgmdGqpLIZ2lc">IMRSQD</a>
 
-308 songs - 19 hr 2 min
+309 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,10 +229,11 @@
 | [Scotoma](https://open.spotify.com/track/0QXYZ9DHNY2D3jjkDveTdq) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Scotoma](https://open.spotify.com/album/3D67jo28f5OAlDX3dBgSMv) | 1:57 | 2023-02-20 |  |
 | [Seabird](https://open.spotify.com/track/3R11mM7L0MDY7xVHUp5TUX) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Seabird](https://open.spotify.com/album/7oG2VgFoXxqkrelrDhKlOU) | 3:02 | 2023-02-24 |  |
 | [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2023-02-24 | 2023-03-11 |
-| [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 |  |
+| [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 | 2023-04-14 |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2023-02-19 |  |
 | [Slow Down](https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Slow Down](https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy) | 3:07 | 2020-12-18 | 2023-02-19 |
 | [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 | 2023-02-19 |  |
+| [Soldier](https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Soldier](https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm) | 2:12 | 2023-04-14 |  |
 | [Somebody](https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Somebody](https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E) | 3:12 | 2023-02-24 | 2023-04-09 |
 | [Something You Once Knew](https://open.spotify.com/track/5Nbim16j7SNmatgnUmA8D7) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Something You Once Knew](https://open.spotify.com/album/45a35sVDNqX5DpTEAwisRl) | 1:38 | 2023-02-24 | 2023-03-11 |
 | [Somewhere between](https://open.spotify.com/track/5aVklpCL6bUVQcGQgOuIH5) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Somewhere between](https://open.spotify.com/album/2lFKtJILpor4Z7DN0XNKS1) | 3:53 | 2023-04-09 |  |

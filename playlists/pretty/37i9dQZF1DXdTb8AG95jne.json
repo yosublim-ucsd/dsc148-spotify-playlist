@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Glen Check(\uae00\ub80c\uccb4\ud06c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 432829,
+  "num_followers": 433049,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDg4MSwwMDAwMDAwMDJkYWMwYjg3M2NlMDk3MmI1ZWNiODE3MjA0Y2ZlNGQ4",
+  "snapshot_id": "MTY4MDg0MDg4MSwwMDAwMDAwMGFiNGMyZWU4NGRkZmNlODkxYTgwYjE1MzUxNzUzYjcw",
   "tracks": [
     {
       "added_at": "2023-04-04 09:26:11",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-04-04 09:26:11",
       "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
-    },
-    {
-      "added_at": "2023-04-04 09:26:11",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-04-04 09:26:11",
+      "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
       "added_at": "2023-04-04 09:26:11",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-04-04 09:26:11",
       "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
       "added_at": "2023-04-04 09:26:11",
@@ -411,22 +415,18 @@
     {
       "added_at": "2023-04-04 09:26:11",
       "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2023-04-04 09:26:11",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-04 09:26:11",
       "album": {
-        "name": "Round and Round",
-        "url": "https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq"
-      },
-      "artists": [
-        {
-          "name": "\uae40\uc218\uc601 Kim Suyoung",
-          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
-    },
-    {
-      "added_at": "2023-04-04 09:26:11",
-      "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
+    },
+    {
+      "added_at": "2023-04-04 09:26:11",
+      "album": {
+        "name": "Round and Round",
+        "url": "https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
     },
     {
       "added_at": "2023-04-04 09:26:11",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-04 09:26:11",
       "album": {
-        "name": "Meaningless",
-        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 160370,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
-    },
-    {
-      "added_at": "2023-04-04 09:26:11",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 192452,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b"
+    },
+    {
+      "added_at": "2023-04-04 09:26:11",
+      "album": {
+        "name": "Meaningless",
+        "url": "https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 160370,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u"
     },
     {
       "added_at": "2023-04-04 09:26:11",

@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: GREY D",
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi.",
   "name": "RADAR Vietnam",
   "tracks": [
+    {
+      "album": {
+        "name": "7711 (b\u1ea3y b\u1ea3y m\u1ed9t m\u1ed9t) [Acoustic Ver]",
+        "url": "https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193949,
+      "name": "7711 (b\u1ea3y b\u1ea3y m\u1ed9t m\u1ed9t) [Acoustic Ver]",
+      "url": "https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy"
+    },
+    {
+      "album": {
+        "name": "Bad Performance",
+        "url": "https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222883,
+      "name": "Bad Performance",
+      "url": "https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x"
+    },
     {
       "album": {
         "name": "Bi\u1ebft Sao \u0110\u01b0\u1ee3c",
@@ -111,6 +147,46 @@
     },
     {
       "album": {
+        "name": "Door To Nowhere",
+        "url": "https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+        },
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221304,
+      "name": "C\u00e1nh C\u1eeda",
+      "url": "https://open.spotify.com/track/6dvh8dpUCNvKRoJt8m2eMM"
+    },
+    {
+      "album": {
+        "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+        "url": "https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
+      "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
+    },
+    {
+      "album": {
         "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
         "url": "https://open.spotify.com/album/5G0VCs90WtjTJV3CaRBbL1"
       },
@@ -134,6 +210,50 @@
       "duration_ms": 186151,
       "name": "C\u00f4 N\u00e0ng Kh\u00e1c Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/0lXtQXwhZImnpjmpze8ykX"
+    },
+    {
+      "album": {
+        "name": "WRONGWAY",
+        "url": "https://open.spotify.com/album/2cRmVgMV3XeYG6ZRd1gu2U"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        },
+        {
+          "name": "Bbynascar",
+          "url": "https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225796,
+      "name": "DAM DUOI",
+      "url": "https://open.spotify.com/track/1fR5VXsWg8PI1eDiSbV121"
+    },
+    {
+      "album": {
+        "name": "Du Ca Kh\u00fac",
+        "url": "https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Lazii",
+          "url": "https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118757,
+      "name": "Du Ca Kh\u00fac",
+      "url": "https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs"
     },
     {
       "album": {
@@ -206,6 +326,24 @@
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
+    },
+    {
+      "album": {
+        "name": "GIAYPHUT",
+        "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "GIAYPHUT",
+      "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
     },
     {
       "album": {
@@ -431,6 +569,32 @@
     },
     {
       "album": {
+        "name": "If You Said So (feat. Wxrdie & 2Pillz)",
+        "url": "https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        },
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156302,
+      "name": "If You Said So (feat. Wxrdie & 2Pillz)",
+      "url": "https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0"
+    },
+    {
+      "album": {
         "name": "In The Rain",
         "url": "https://open.spotify.com/album/1HCjPwy3asgEGXF0U1465m"
       },
@@ -631,6 +795,24 @@
     },
     {
       "album": {
+        "name": "R\u1eebng \u0110om \u0110\u00f3m",
+        "url": "https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn"
+      },
+      "artists": [
+        {
+          "name": "The Cassette",
+          "url": "https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "N\u1ebfu Ng\u00e0y Mai T\u00f4i Kh\u00f4ng Tr\u1edf V\u1ec1",
+      "url": "https://open.spotify.com/track/33Lp6YwMsoES08PFMHgO28"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav"
       },
@@ -760,6 +942,28 @@
       "duration_ms": 190894,
       "name": "Th\u00e0nh Ph\u1ed1 \u0110\u00eam",
       "url": "https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk"
+    },
+    {
+      "album": {
+        "name": "Th\u1ebf Gi\u1edbi C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/0SkClw8Gjjd9EotloigIVT"
+      },
+      "artists": [
+        {
+          "name": "Minh \u0110inh",
+          "url": "https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu"
+        },
+        {
+          "name": "Pixel Neko",
+          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216987,
+      "name": "Th\u1ebf Gi\u1edbi C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz"
     },
     {
       "album": {
@@ -897,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "R\u1eebng \u0110om \u0110\u00f3m",
+        "url": "https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn"
+      },
+      "artists": [
+        {
+          "name": "The Cassette",
+          "url": "https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "\u00c1nh \u0110\u00e8n Ph\u1ed1",
+      "url": "https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib"
+    },
+    {
+      "album": {
         "name": "\u0110\u01b0\u1eddng T\u00f4i Ch\u1edf Em V\u1ec1",
         "url": "https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW"
       },
@@ -912,6 +1134,28 @@
       "duration_ms": 266000,
       "name": "\u0110\u01b0\u1eddng T\u00f4i Ch\u1edf Em V\u1ec1",
       "url": "https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ebfn \u0110\u00f3n Em \u0110i Ch\u01a1i \u0110i Anh",
+        "url": "https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        },
+        {
+          "name": "Duy Manh",
+          "url": "https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182149,
+      "name": "\u0110\u1ebfn \u0110\u00f3n Em \u0110i Ch\u01a1i \u0110i Anh",
+      "url": "https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM"

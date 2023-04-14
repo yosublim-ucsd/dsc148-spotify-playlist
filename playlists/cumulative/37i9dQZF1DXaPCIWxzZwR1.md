@@ -4,7 +4,7 @@
 
 > next gen pop\. Cover: Maisie Peters
 
-1,419 songs - 2 day 20 hr 54 min
+1,420 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,7 +720,8 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-10 | 2021-08-14 |
 | [Kiss You](https://open.spotify.com/track/61vlpInisekQjqqipr7HkP) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Kiss You](https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c) | 2:32 | 2022-11-25 | 2023-02-04 |
 | [Kissing Strangers](https://open.spotify.com/track/70I0UY5ltNHEqHNEYIO4SZ) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Kissing Strangers](https://open.spotify.com/album/0CaOLjewQmhr1UUBFatLnE) | 2:43 | 2021-03-23 | 2021-04-10 |
-| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-31 |  |
+| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-31 | 2023-04-14 |
+| [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-07 |  |
 | [Knife out of my back](https://open.spotify.com/track/0meZ7F49dEIkVlOHelUB7h) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Knife out of my back](https://open.spotify.com/album/26y43ycALZGdoE9tFNkP06) | 2:29 | 2021-02-16\* | 2021-02-26 |
 | [Kulture Klub \- Sped Up](https://open.spotify.com/track/2P3LdHUtN4ECUaK5MaYhaJ) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Kulture Klub \(Sped Up\)](https://open.spotify.com/album/4TGNGExd9CeQVsHG34gwOt) | 1:59 | 2023-03-17 |  |
 | [la di da \- acoustic](https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 3](https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5) | 1:28 | 2022-04-10 | 2022-05-20 |
@@ -1337,7 +1338,7 @@
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2021-02-16\* | 2021-04-10 |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2021-02-26 | 2021-04-10 |
 | [Vitamins](https://open.spotify.com/track/1b4bVlE2c1Sef4IXDrTiEf) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Vitamins](https://open.spotify.com/album/5OmRWEVKq80g4fPdsARTS5) | 2:28 | 2022-04-01 | 2022-04-29 |
-| [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-29 |  |
+| [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:10 | 2023-03-29 |  |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-07 | 2023-03-11 |
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-09-04 | 2021-09-17 |
 | [Walk Backwards](https://open.spotify.com/track/4HtwantcVnMCOzGmiyeGmT) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Walk Backwards](https://open.spotify.com/album/0ti1WWYsz8tMMYupwHag7b) | 2:33 | 2021-02-16\* | 2021-03-06 |

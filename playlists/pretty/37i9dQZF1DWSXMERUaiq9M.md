@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,670 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,883 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 17 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
 | 18 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 19 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 |
-| 20 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 |
+| 20 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
 | 21 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [Ch4yn](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 |
-| 22 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
+| 22 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 |
 | 23 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 | 24 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 25 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 43 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 |
 | 44 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 |
 | 45 | [MY BODY IS GOD ON ACID](https://open.spotify.com/track/4qf2TmjFImuZkpAwmP1LKE) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [MY BODY IS GOD ON ACID](https://open.spotify.com/album/5ON20qgoweG6jjxVXrQdZh) | 6:09 |
-| 46 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 |
-| 47 | [Through My Veins \- Edit](https://open.spotify.com/track/17wUCYjzJFiGXiipM7QMIW) | [Marhu](https://open.spotify.com/artist/25az6IQ02a8MQRCKU4JEea) | [Through My Veins EP](https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod) | 3:30 |
-| 48 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
-| 49 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 |
+| 46 | [Through My Veins \- Edit](https://open.spotify.com/track/17wUCYjzJFiGXiipM7QMIW) | [Marhu](https://open.spotify.com/artist/25az6IQ02a8MQRCKU4JEea) | [Through My Veins EP](https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod) | 3:30 |
+| 47 | [Atlantyda](https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [The World Of Monnom Black II](https://open.spotify.com/album/1Qmlt7Lujv1VgCP44rCKJT) | 6:36 |
+| 48 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 |
+| 49 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
 | 50 | [Pump This](https://open.spotify.com/track/3zv6z0evv8QiIJjA8yOWAf) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Pump This](https://open.spotify.com/album/0vYFogRb0q1U9UhVcy9o8f) | 4:09 |
 
-Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMGFkMmJmOGVkNTE3MDExZTRiMmNhNWMxMTIyYmFhMzQ5`
+Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMDQyYmFhODc0OTEzODVhODE3ZDQ1OGIwZjE5MDhkNDYy`

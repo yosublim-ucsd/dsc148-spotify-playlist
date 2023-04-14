@@ -228,10 +228,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 288800,
       "name": "Baby Please",
       "url": "https://open.spotify.com/track/0TmitblYFOtTvESsvQpiAS"
+    },
+    {
+      "album": {
+        "name": "Mzansi Rhythms of Love",
+        "url": "https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek"
+      },
+      "artists": [
+        {
+          "name": "Robbie Malinga",
+          "url": "https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD"
+        },
+        {
+          "name": "Kelly Khumalo",
+          "url": "https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288800,
+      "name": "Baby Please",
+      "url": "https://open.spotify.com/track/3Cije2983YXxgFlV9pqcsn"
     },
     {
       "album": {

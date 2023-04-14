@@ -9466,7 +9466,7 @@
       ],
       "date_added": "2019-09-05",
       "date_added_asterisk": true,
-      "date_removed": "2019-09-09",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -27298,7 +27298,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 144651,
       "name": "Low Down",
       "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
@@ -34424,6 +34424,24 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Peaches (from The Super Mario Bros. Movie)",
+        "url": "https://open.spotify.com/album/7JWqADIrUFMSRExaRpaRll"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches (from The Super Mario Bros. Movie)",
+      "url": "https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz"
     },
     {
       "album": {
@@ -46336,7 +46354,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 215571,
       "name": "Thought You Should Know",
       "url": "https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb"

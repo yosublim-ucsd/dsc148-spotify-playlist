@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Rise Of The Northstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,892 likes - 56 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,001 likes - 56 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

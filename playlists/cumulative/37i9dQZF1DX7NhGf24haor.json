@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Hard Driver",
+  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: D-Block & S-te-Fan & Headhunterz",
   "name": "Hardstyle Adrenaline! 2023",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 224516,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
@@ -140,6 +140,28 @@
       "duration_ms": 241600,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1uWlyajmUxyaYhn8q6o2x1"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140812,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5MnWyrdtbs9iRv54D1bVvx"
     },
     {
       "album": {
@@ -750,7 +772,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 261959,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/5QW0cHTxlj7zeLxQC9shaS"
@@ -1245,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/2GOzAZNCu2LWGJgDaUQmpb"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/6nyagZS2y0Q60bhFvCFsar"
+    },
+    {
+      "album": {
         "name": "Enchant\u00e9 (Tungevaag Remix)",
         "url": "https://open.spotify.com/album/1tR2Tfbf1MfbnAqYyMleoA"
       },
@@ -1276,6 +1320,32 @@
       "duration_ms": 176000,
       "name": "Enchant\u00e9 - Tungevaag Remix",
       "url": "https://open.spotify.com/track/2g2ImCRTlsi6SsQiIuZWpO"
+    },
+    {
+      "album": {
+        "name": "Entourage",
+        "url": "https://open.spotify.com/album/0C69ETLOFB8RRCFlzdtmw0"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        },
+        {
+          "name": "Snowflake",
+          "url": "https://open.spotify.com/artist/1rPM4GwuDLiRsMX0rfNNg5"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246193,
+      "name": "Entourage",
+      "url": "https://open.spotify.com/track/4E2ZG5TSfmDpG767wiIOCL"
     },
     {
       "album": {
@@ -1346,7 +1416,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 222875,
       "name": "Extermination",
       "url": "https://open.spotify.com/track/6TVUZrDHsqpIO9a1VCX7oQ"
@@ -1390,6 +1460,32 @@
       "duration_ms": 118125,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/64tneFBKCANLgkyno7T0TO"
+    },
+    {
+      "album": {
+        "name": "Fantasy (Tricky Disco)",
+        "url": "https://open.spotify.com/album/4HRfZCdUzjykr5kYddLy6m"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "TRIIIPL3 INC.",
+          "url": "https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Fantasy (Tricky Disco)",
+      "url": "https://open.spotify.com/track/7KxiqXmrEikGonyuxz50Qk"
     },
     {
       "album": {
@@ -1644,7 +1740,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 185806,
       "name": "Forget You Pt. 2",
       "url": "https://open.spotify.com/track/1dblMQ3nClfC0r8HvWUvgA"
@@ -1684,10 +1780,32 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 175741,
       "name": "From Star To Stardust",
       "url": "https://open.spotify.com/track/05SYnVLCdvhvJ96HykxN2p"
+    },
+    {
+      "album": {
+        "name": "Gabber Style",
+        "url": "https://open.spotify.com/album/5cfi9mCr5KXpp00c7MnKi4"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Gabber Style",
+      "url": "https://open.spotify.com/track/2PZgHAuKdSVxtGY5WkKTAL"
     },
     {
       "album": {
@@ -2617,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "Keepers Of Our Legacy",
+        "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252549,
+      "name": "Keepers Of Our Legacy",
+      "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
+    },
+    {
+      "album": {
         "name": "Ketamine Klappers",
         "url": "https://open.spotify.com/album/3AJga5CGI2yGDb6yxc0exd"
       },
@@ -2684,7 +2824,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 191664,
       "name": "Killswitch",
       "url": "https://open.spotify.com/track/3KP46YO181FPy23BkBQB3g"
@@ -3087,6 +3227,28 @@
     },
     {
       "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/5J4tlMAFaroN45dkGM3E4p"
+      },
+      "artists": [
+        {
+          "name": "Mike Enemy",
+          "url": "https://open.spotify.com/artist/1OKLZ6g7k4btXpP37eCnVO"
+        },
+        {
+          "name": "Elesha Alice Thorn",
+          "url": "https://open.spotify.com/artist/0nlKalbgkDXRKxRwLVhLxz"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244637,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/2ZG71NsbuG4Hu7aYJSI5tx"
+    },
+    {
+      "album": {
         "name": "Luv with U",
         "url": "https://open.spotify.com/album/5cI3iGYRx5fGEVF7g7pSHm"
       },
@@ -3264,7 +3426,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 207230,
       "name": "Marble - Marc Blou Remix",
       "url": "https://open.spotify.com/track/68D3lp57w0TBdJd8Z64Exi"
@@ -3794,7 +3956,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212658,
       "name": "One And The Same",
       "url": "https://open.spotify.com/track/6NNRhitDn0DE7bRGcEESgb"
@@ -3984,7 +4146,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 202838,
       "name": "Peace Of Mind - Extended Mix",
       "url": "https://open.spotify.com/track/16OC6JKjTfjPJOl7fjLSVa"
@@ -4010,7 +4172,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179673,
       "name": "Phat Brahms - Coone Remix 2.0",
       "url": "https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY"
@@ -4032,7 +4194,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 211741,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/5Etsx97MnyfPKJB2HvNTE8"
@@ -4427,6 +4589,32 @@
     },
     {
       "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/1Asba0atd2ByCO3mqNpXFV"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        },
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228070,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/2pj7hxep2gW4oGlTWoI8CQ"
+    },
+    {
+      "album": {
         "name": "Riders Of The Storm",
         "url": "https://open.spotify.com/album/5s6MqBY1z62WaZ7MBgnwIA"
       },
@@ -4472,6 +4660,24 @@
       "duration_ms": 219874,
       "name": "Rise and Unite - Insanity Anthem | 2023 Edit",
       "url": "https://open.spotify.com/track/7xRbIW7Gm3BXDSSl4FIkX2"
+    },
+    {
+      "album": {
+        "name": "Rise Of The Tribe",
+        "url": "https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Rise Of The Tribe",
+      "url": "https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq"
     },
     {
       "album": {
@@ -5265,6 +5471,28 @@
     },
     {
       "album": {
+        "name": "The Kraken",
+        "url": "https://open.spotify.com/album/2LmBua3Yh0Y5b5N83kDRKK"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272895,
+      "name": "The Kraken",
+      "url": "https://open.spotify.com/track/398aJwlA11z0Nep0NQlORu"
+    },
+    {
+      "album": {
         "name": "The Limelight",
         "url": "https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j"
       },
@@ -5422,7 +5650,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 204800,
       "name": "The Shadows",
       "url": "https://open.spotify.com/track/0lVrGeAbo6pzYB3NIP4apo"
@@ -5742,6 +5970,28 @@
       "duration_ms": 208979,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7"
+    },
+    {
+      "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "album": {
@@ -6194,6 +6444,28 @@
       "duration_ms": 143600,
       "name": "Weekend Party",
       "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+    },
+    {
+      "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
     },
     {
       "album": {

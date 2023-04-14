@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416500,
+      "name": ".Y",
+      "url": "https://open.spotify.com/track/0zxdVwyiPVxmBkZFTHe2xl"
+    },
+    {
+      "album": {
         "name": "00 Fala Bonito",
         "url": "https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv"
       },
@@ -271,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Beber Para Esquecer",
+        "url": "https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183046,
+      "name": "Beber Para Esquecer",
+      "url": "https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf"
+    },
+    {
+      "album": {
         "name": "Bimba Y Lola",
         "url": "https://open.spotify.com/album/7CtTCSTIrFUnRlqCKe4oM3"
       },
@@ -442,7 +478,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 210504,
       "name": "Cobras e Serpentes",
       "url": "https://open.spotify.com/track/0P3v4kHlw5Xa90JCMLAFjm"
@@ -802,6 +838,24 @@
       "duration_ms": 197360,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
+    },
+    {
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186529,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
     },
     {
       "album": {
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 213333,
       "name": "Louco",
       "url": "https://open.spotify.com/track/6kJKJrVzOYhqnfeO9NDqIi"
@@ -1532,7 +1586,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220080,
-      "name": "Moncler",
+      "name": "MONCLER",
       "url": "https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu"
     },
     {
@@ -1548,7 +1602,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 278211,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX"
@@ -1988,6 +2042,28 @@
       "duration_ms": 210600,
       "name": "Rockstar Shit",
       "url": "https://open.spotify.com/track/55dHzXldRhyknlMCNSlxZS"
+    },
+    {
+      "album": {
+        "name": "Rubi",
+        "url": "https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Midas",
+          "url": "https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223634,
+      "name": "Rubi",
+      "url": "https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN"
     },
     {
       "album": {

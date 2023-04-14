@@ -4119,6 +4119,28 @@
     },
     {
       "album": {
+        "name": "God's Art",
+        "url": "https://open.spotify.com/album/7CylNHjNTHdcBcOzZu8dpT"
+      },
+      "artists": [
+        {
+          "name": "Harkirat Sangha",
+          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225542,
+      "name": "God's Art",
+      "url": "https://open.spotify.com/track/1plZ5d6vaJZJKgX1ynCAJk"
+    },
+    {
+      "album": {
         "name": "GODSPEED",
         "url": "https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0"
       },

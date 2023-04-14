@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 126055,
+  "num_followers": 126069,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDE5Y2ExMzY4NGUzYTNhNTRjMDY1YjI1YjBlMzQ1NThh",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMGU4MzBmNmRlMTdjYjg5ZjY2OTg2OWUyOWMxZDdkOWQ2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Los Besos",
-        "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Los Besos",
-      "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 161060,
       "name": "Ella Dice",
       "url": "https://open.spotify.com/track/4foIsT0s9Ime0OPxTpl6N6"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Los Besos",
+        "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Los Besos",
+      "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Tu Foto Del DNI",
-        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Tu Foto Del DNI",
-      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Tu Foto Del DNI",
+        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Tu Foto Del DNI",
+      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
     },
     {
       "added_at": "2020-12-01 05:03:00",

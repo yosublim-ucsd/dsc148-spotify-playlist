@@ -4,7 +4,7 @@
 
 > Linkin Park along with today's Rock songs you need to hear.
 
-301 songs - 16 hr 54 min
+302 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,8 @@
 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-11-25 | 2023-02-11 |
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2021-11-05 | 2022-03-12 |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-05-06 | 2022-07-30 |
-| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-27 |  |
+| [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-04-07 |  |
+| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-27 | 2023-04-14 |
 | [Warrior](https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior](https://open.spotify.com/album/3nxyPoazh75KnTzqSXfRDY) | 2:47 | 2021-10-20\* | 2021-10-23 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-17 |  |
 | [What Happens After You?](https://open.spotify.com/track/5x7Ffxc1Obg13x5IzM1XXV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Autumn](https://open.spotify.com/album/1ZuTYUdoALghOAKTISys6n) | 3:19 | 2022-09-23 | 2023-01-06 |

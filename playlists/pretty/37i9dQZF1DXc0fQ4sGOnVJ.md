@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,521 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,539 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 21 | [Duramax \(feat\. Young Gunner\)](https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1) | [The Grind](https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE) | 3:06 |
 | 22 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
 | 23 | [Crank It Up](https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:20 |
-| 24 | [Down the Road \(feat\. Colt Ford\) \- Remix](https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Down the Road \(feat\. Colt Ford\) \[Remix\]](https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb) | 2:45 |
+| 24 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
 | 25 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |
-| 26 | [Put in Work](https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Bubba Mathis EP](https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G) | 3:31 |
+| 26 | [Down the Road \(feat\. Colt Ford\) \- Remix](https://open.spotify.com/track/4CmYl83JZSKuMMjssiALgs) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Down the Road \(feat\. Colt Ford\) \[Remix\]](https://open.spotify.com/album/5yc1gjIdUXeSY6U6Qa1jwb) | 2:45 |
 | 27 | [Dirt Road](https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dirt Road](https://open.spotify.com/album/4TZ5hONwJtP0pYCkIzb7Zo) | 2:45 |
 | 28 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 |
 | 29 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
 | 75 | [Southern Boy](https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk) | 3:14 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDYwYWVjMDQ5NTZmZDk0NGY1OWNmOGM1NjcwZTNjYmQy`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJmYWVmOGNjMTRmNjRhNWIyNzJhZWE5NzczNmQyYTBk`

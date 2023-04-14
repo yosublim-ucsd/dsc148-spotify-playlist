@@ -216,7 +216,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 140826,
       "name": "Ask",
       "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
@@ -1158,6 +1158,28 @@
       "duration_ms": 225183,
       "name": "Len\u00e7\u00f3is (Love Me)",
       "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
+    },
+    {
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/4hrFvYVpmSWQu415WpGQ7V"
+      },
+      "artists": [
+        {
+          "name": "SUPEREGO",
+          "url": "https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER"
+        },
+        {
+          "name": "Sakidasumi",
+          "url": "https://open.spotify.com/artist/007w6UZAPGJnCgeUixkyOT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221606,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/7vYSljwfq9zqQzLaHU7Jot"
     },
     {
       "album": {

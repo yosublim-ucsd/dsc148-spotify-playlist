@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,058 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,065 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 42 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
 | 43 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
 | 44 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
-| 45 | [Summer Vibe](https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7) | 2:59 |
-| 46 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
+| 45 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
+| 46 | [Summer Vibe](https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7) | 2:59 |
 | 47 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 |
 | 48 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
 | 49 | [Make It Work](https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Make It Work](https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9) | 2:49 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 57 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
 | 58 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
 | 59 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
-| 60 | [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 |
+| 60 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDY4NzgxYjYwZjUzODc4MmJmYjgxZTdmNzk3ODYzNmZh`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDkzN2VhY2NmMjE3YWIyZmIxZWUxM2ZlNDliOTA3ZGE1`

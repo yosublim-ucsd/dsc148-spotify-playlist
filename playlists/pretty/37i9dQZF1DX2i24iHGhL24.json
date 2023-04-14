@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: John Legend",
-  "num_followers": 95285,
+  "num_followers": 95393,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1MjM2NCwwMDAwMDAwMDRkYjM1OWZhYWU5MTQ5MTRjMWYzOWM3NGEzOTMxNDRk",
+  "snapshot_id": "MTY3NzI1MjM2NCwwMDAwMDAwMGNjNGVlNTkwNDc4NmY1ZGNlMWFiMTNhNDJiZmIyOWI5",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 241776,
       "name": "You'll Be In My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 176921,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 176921,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 228827,
       "name": "August - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
       "artists": [
         {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1803,6 +1787,22 @@
       "duration_ms": 149189,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Nothing Breaks Like A Heart",
         "url": "https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD"
       },
@@ -1971,18 +1987,34 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+        "name": "Covers by Cannons",
+        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 266280,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+      "duration_ms": 176508,
+      "name": "Golden - Originally Performed By Harry Styles",
+      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 243562,
+      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2027,38 +2059,6 @@
       "duration_ms": 289276,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
-        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
-      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Covers by Cannons",
-        "url": "https://open.spotify.com/album/72TswqpNqHygmzS47oS4v4"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 176508,
-      "name": "Golden - Originally Performed By Harry Styles",
-      "url": "https://open.spotify.com/track/6OPbfOqtL7y51EwpDIiqMm"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2141,7 +2141,7 @@
       "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
     },
     {
-      "added_at": "2023-04-13 01:12:09",
+      "added_at": "2023-04-14 00:23:30",
       "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"

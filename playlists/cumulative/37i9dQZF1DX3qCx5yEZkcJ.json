@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+    },
+    {
+      "album": {
         "name": "A Place of Dreams",
         "url": "https://open.spotify.com/album/3L0VmKE6wwyKRxWliEsHrq"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 172808,
       "name": "Britnaeys new baby [125 BPM]",
       "url": "https://open.spotify.com/track/5aD97KsD4tekRetjMLbL4i"
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 133333,
       "name": "Camberwell",
       "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
@@ -2246,6 +2268,24 @@
       "duration_ms": 128000,
       "name": "Evening Drive",
       "url": "https://open.spotify.com/track/5Q9BHeEnFBt4KAPRTc3MmZ"
+    },
+    {
+      "album": {
+        "name": "EVOKE",
+        "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "EVOKE",
+      "url": "https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t"
     },
     {
       "album": {
@@ -4364,7 +4404,7 @@
       ],
       "date_added": "2020-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 168000,
       "name": "Lofi Loyal Caf\u00e9 Customer",
       "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
@@ -5112,6 +5152,28 @@
       "duration_ms": 100949,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs"
+    },
+    {
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/2l9Ag3O0tfmogbuJ8ravko"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90424,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/2y8veQasjoS5HrSoJwRdaX"
     },
     {
       "album": {

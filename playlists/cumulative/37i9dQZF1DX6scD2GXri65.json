@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
+    },
+    {
+      "album": {
         "name": "Another Love (Hardstyle - Sped Up)",
         "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 155804,
       "name": "In the Light",
       "url": "https://open.spotify.com/track/1MpQKl4T6Po9Kywj98Ccuu"
@@ -1645,6 +1663,32 @@
     },
     {
       "album": {
+        "name": "One And The Same",
+        "url": "https://open.spotify.com/album/7GKygds15lUloYYV0wyINF"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Level One",
+          "url": "https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212658,
+      "name": "One And The Same",
+      "url": "https://open.spotify.com/track/6NNRhitDn0DE7bRGcEESgb"
+    },
+    {
+      "album": {
         "name": "Open Up Your Heart",
         "url": "https://open.spotify.com/album/2HIciu2sc1pzveLUV6x3wu"
       },
@@ -1774,7 +1818,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 218419,
       "name": "Respawn",
       "url": "https://open.spotify.com/track/0fFwgoY1RTsZyC2lhKbzaZ"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMTQwMDAsMDAwMDAwMDAwNWQ1MzM0OTU1ZGI0YjNmOTU1NGUzNzBiNmEyODRhYw==",
+  "snapshot_id": "MjgwMTQwMDAsMDAwMDAwMDBlYTY1MzFmOTIwMjJmOWY4NzhmMzg5NThlNTJlOWU1Yw==",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -87,7 +87,7 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Aire",
+        "name": "Aire (Documental Elementos)",
         "url": "https://open.spotify.com/album/5hcFT7y5y6nkRhOuiSS4OL"
       },
       "artists": [
@@ -97,7 +97,7 @@
         }
       ],
       "duration_ms": 223928,
-      "name": "Aire",
+      "name": "Aire (Documental Elementos)",
       "url": "https://open.spotify.com/track/3wyVAvVgaKnzv5JIQSoXho"
     },
     {
@@ -187,31 +187,7 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Indian Summer",
-        "url": "https://open.spotify.com/album/7GppzVps2cmaJUJ5pvGMIp"
-      },
-      "artists": [
-        {
-          "name": "LM.ORG",
-          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
-        },
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        },
-        {
-          "name": "Vibe Culture",
-          "url": "https://open.spotify.com/artist/3JnyZWqZOKQ1NeMI13FBj6"
-        }
-      ],
-      "duration_ms": 340081,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/3Yq2LrXkn04nfOrKVvtpm8"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
+        "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
@@ -225,7 +201,7 @@
         }
       ],
       "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
+      "name": "Caught A Body (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
@@ -676,9 +652,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 179419,
-      "name": "I'd Be Fine (If I Never Saw You Again)",
-      "url": "https://open.spotify.com/track/0cLNjebMun5VyYDORebAkp"
+      "duration_ms": 167827,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/3CxAUJgKdfDzS0CIbn8mqQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",

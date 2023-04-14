@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 117400,
+  "num_followers": 117448,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDkwMjcxOCwwMDAwMDAwMGZlM2I1OTI1MWQ2MTQzZjBlOTRmMTQyNWU4Y2QwNDg2",
+  "snapshot_id": "MTY4MDkwMjcxOCwwMDAwMDAwMDBiZTZmZjA1M2JhZWUyMzIzYzY3NjllYWI5Y2RhMjc4",
   "tracks": [
     {
       "added_at": "2023-04-07 21:25:17",
@@ -193,24 +193,24 @@
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2023-04-07 21:25:17",
       "album": {
-        "name": "Vanice",
-        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+        "name": "Caught A Body (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Dear Silas",
-          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Violin",
-      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
+      "duration_ms": 149110,
+      "name": "Caught A Body (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2023-03-31 06:27:27",
@@ -229,24 +229,24 @@
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
-      "added_at": "2023-04-07 21:25:17",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+        "name": "Vanice",
+        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
         }
       ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
+      "duration_ms": 109714,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -765,26 +765,6 @@
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Remember Your North Star",
-        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "DJ Nativesun",
-          "url": "https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "pour up",
-      "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
-    },
-    {
       "added_at": "2023-03-31 06:27:27",
       "album": {
         "name": "Lock Up",
@@ -803,6 +783,26 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Remember Your North Star",
+        "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "DJ Nativesun",
+          "url": "https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "pour up",
+      "url": "https://open.spotify.com/track/0NzTOeYLPLOGFL40dOX3ho"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -921,6 +921,26 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
+      "added_at": "2023-04-07 21:25:17",
+      "album": {
+        "name": "Who's Taking You Home",
+        "url": "https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 162892,
+      "name": "Who's Taking You Home",
+      "url": "https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
@@ -959,26 +979,6 @@
       "duration_ms": 187275,
       "name": "Been Thinking",
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
-    },
-    {
-      "added_at": "2023-04-07 21:25:17",
-      "album": {
-        "name": "Who's Taking You Home",
-        "url": "https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 162892,
-      "name": "Who's Taking You Home",
-      "url": "https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4"
     }
   ],
   "unique_name": "Choice Edit",

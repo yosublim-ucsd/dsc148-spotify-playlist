@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,512 likes - 66 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,514 likes - 66 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 11 | [♡here4u♡](https://open.spotify.com/track/44KLFClKb2kuQ5rOffSKqG) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va) | 3:16 |
 | 12 | [horizons](https://open.spotify.com/track/1ZlvV1GxdHPjcOAUcSbxaX) | [Dropout Marsh](https://open.spotify.com/artist/3sAAbeQsvTFk48V33n5xuo) | [Horizons](https://open.spotify.com/album/4P0IRmJNHUnZAzctBc7C09) | 3:34 |
 | 13 | [SPOKE 2 ALIENS FINALLY 1.3 \[2020 Export Wav\]](https://open.spotify.com/track/1wLalJlMX5NVaYa8BykQmV) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:40 |
-| 14 | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/2avmc6AW7RbsYOC77jJhmi) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:42 |
+| 14 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/2avmc6AW7RbsYOC77jJhmi) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:42 |
 | 15 | [just 2 c u](https://open.spotify.com/track/0S20teLh1sCSArY53SQq8i) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [just 2 c u / how u hatin?](https://open.spotify.com/album/627ZS2K3g9N6F0IqT5fuK3) | 3:07 |
 | 16 | [The Only Way Out](https://open.spotify.com/track/4GZ2cJpzV3mpRP5gh5sC2j) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [The Only Way Out](https://open.spotify.com/album/03V9xh6irzQQCRA9IHhaq7) | 5:34 |
 | 17 | [EVERYTHING](https://open.spotify.com/track/6UWkppVroKJKXLaur8Pljf) | [SLOUCHO](https://open.spotify.com/artist/0tra0xmq3lbJkWbXGf2da6) | [EVERYTHING](https://open.spotify.com/album/7A5rfCbdZEASTIs1AtdNUE) | 4:34 |

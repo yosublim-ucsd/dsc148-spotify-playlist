@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,168 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,218 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 20 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 |
 | 21 | [Be the One \(feat\. MORGAN, Digga D & TIKE\)](https://open.spotify.com/track/1kXHqvq1R8dkx1Mm52nH9g) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [TIKE](https://open.spotify.com/artist/6OiH2Ok0TqhVP2Ah65Bm8Y) | [Be the One \(feat\. MORGAN, Digga D & TIKE\)](https://open.spotify.com/album/7r5CwbVuzJNhDe5eHviDj5) | 3:05 |
 | 22 | [This Time of Morning \- Mikey B Remix](https://open.spotify.com/track/2ZHeK3mdGj6IirKolEQ50z) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [This Time of Morning \(Mikey B Remix\) \(feat\. Local\)](https://open.spotify.com/album/4XYjOIWcFXIPmvCBpNASXD) | 3:40 |
-| 23 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 |
-| 24 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
+| 23 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
+| 24 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 |
 | 25 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 26 | [On A Beach \- Champion Remix](https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Double S](https://open.spotify.com/artist/2hs495y9Yso0hfotMuVaHC) | [On a Beach \(Champion Remix\)](https://open.spotify.com/album/2sNfSTxofKnG8FyNltocnp) | 2:45 |
 | 27 | [Bebey](https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Bebey](https://open.spotify.com/album/4AV5ofpjUgJdZSqprqDrq6) | 2:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 |
 | 60 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 
-Snapshot ID: `MTY3OTUwMzAxNSwwMDAwMDAwMDcxYTZkZTFmN2FkOTJlMDA1NjAwYjcxNDdhMGZhZjg5`
+Snapshot ID: `MTY3OTUwMzAxNSwwMDAwMDAwMDMyMjE0NDcyMGJlMWUxZTE1M2NlZmJmMTg0NGIwZDE5`

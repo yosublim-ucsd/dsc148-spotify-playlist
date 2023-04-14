@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 827114,
+  "num_followers": 827231,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU2NzExNSwwMDAwMDAwMDc1Zjg3YjUxMDdmNzc3MTUyMDQ1ODVjODE2OTU3NGEy",
+  "snapshot_id": "MTY4MDU2NzExNSwwMDAwMDAwMDY2MzI0OGIzY2MwY2MyYWE0MTU0NGQ0OWQ4NWQ4Mjg4",
   "tracks": [
     {
       "added_at": "2023-04-04 00:11:55",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 219183,
-      "name": "CONTINGENTE",
-      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
+      "duration_ms": 219183,
+      "name": "CONTINGENTE",
+      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "Fing\u00edas",
-        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Fing\u00edas",
-      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
+        "name": "Fing\u00edas",
+        "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Fing\u00edas",
+      "url": "https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
         "name": "Me Ense\u00f1aste (Remix)",
         "url": "https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 240773,
       "name": "Me Ense\u00f1aste - Remix",
       "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "D\u00e9jalo",
-        "url": "https://open.spotify.com/album/3YSK4FRq9vmpR58F1I79d4"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "D\u00e9jalo",
-      "url": "https://open.spotify.com/track/4VTTpwcAxVSQNzEZLi75d0"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 177397,
       "name": "Un Minuto",
       "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
+        "name": "D\u00e9jalo",
+        "url": "https://open.spotify.com/album/3YSK4FRq9vmpR58F1I79d4"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "D\u00e9jalo",
+      "url": "https://open.spotify.com/track/4VTTpwcAxVSQNzEZLi75d0"
     },
     {
       "added_at": "2023-04-04 00:11:55",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-04-04 00:11:55",
       "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k"
-      },
-      "artists": [
-        {
-          "name": "Darkiel",
-          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8"
-    },
-    {
-      "added_at": "2023-04-04 00:11:55",
-      "album": {
         "name": "TERMINAMOS",
         "url": "https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 157927,
       "name": "TERMINAMOS",
       "url": "https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL"
+    },
+    {
+      "added_at": "2023-04-04 00:11:55",
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8"
     },
     {
       "added_at": "2023-04-04 00:11:55",

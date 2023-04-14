@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stones Taro
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Romy
 
-170 songs - 12 hr 32 min
+171 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [en skog](https://open.spotify.com/track/6I0qoxCuCJjBVyDZY0Sx5B) | [Frog 3](https://open.spotify.com/artist/4sRWBaiv58EbKHgZwVGkXb) | [en skog](https://open.spotify.com/album/7JwaprGwzwWgqE9ghsQvkz) | 4:46 | 2023-03-16 |  |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2023-03-16 |  |
 | [Endless](https://open.spotify.com/track/3n4exznFpCunrvLV5ePD5f) | [KÉDU CARLÖ](https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC) | [Endless](https://open.spotify.com/album/1ig5AkNAuzIpa7R9JdyyjM) | 5:11 | 2023-03-16 |  |
+| [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-13 |  |
 | [Everything \- DJ Nobu Remix](https://open.spotify.com/track/4GdTGFtRYvOLCWG7FQq8is) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [Unspoken Words Remixes I](https://open.spotify.com/album/3erKNm0B6Y5ATBF07eht6z) | 5:52 | 2023-03-16 |  |
 | [Falling Off \- Club Mix](https://open.spotify.com/track/6o98BHCAJs67DTIfhg7ung) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Falling Off \(Club Mix\)](https://open.spotify.com/album/4ZuObWTTTVcwo19TS7Cth9) | 3:19 | 2023-03-16 |  |
 | [Far Behind \- TIBASKO Remix](https://open.spotify.com/track/6Ra6mFxKs7kZLhV5LXNylR) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Far Behind \(TIBASKO Remix\)](https://open.spotify.com/album/39dXSWdKDzgT39aVfKJZJG) | 4:05 | 2023-03-16 | 2023-03-31 |

@@ -243,6 +243,42 @@
     },
     {
       "album": {
+        "name": "The Connection",
+        "url": "https://open.spotify.com/album/2V8xXCTr5pZfa1YoQOGKu8"
+      },
+      "artists": [
+        {
+          "name": "Lennon Hutton",
+          "url": "https://open.spotify.com/artist/1zRbXAxKsGfip1PbJfggLJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129632,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1v57YftYtPtqI7HPPBIj2c"
+    },
+    {
+      "album": {
+        "name": "Electric Pulses",
+        "url": "https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM"
+      },
+      "artists": [
+        {
+          "name": "Lonely Roads",
+          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "Electric Pulses",
+      "url": "https://open.spotify.com/track/5EPNlsmQpNiE3AQZMsMaDs"
+    },
+    {
+      "album": {
         "name": "Lifetracks",
         "url": "https://open.spotify.com/album/1wM3q5NJN8n0Y2hi4fPfSi"
       },

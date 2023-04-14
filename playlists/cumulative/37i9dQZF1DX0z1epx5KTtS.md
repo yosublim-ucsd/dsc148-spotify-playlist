@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : DOUPI PAPILLON
+> African dance party music from Paris to Abidjan\. Photo : Bello Falcao
 
-120 songs - 7 hr 10 min
+121 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 |  |
 | [C'est Tromper](https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW) | [Nifa Fanafoule](https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O) | [C'est Tromper](https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g) | 3:16 | 2022-09-01 | 2022-10-28 |
 | [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |
-| [Cabri Mort \- Remix](https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Cabri Mort \(Remix\)](https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC) | 2:59 | 2022-05-26 |  |
+| [Cabri Mort \- Remix](https://open.spotify.com/track/6oMr9YN0oodyAnR8lfiHZ2) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Cabri Mort \(Remix\)](https://open.spotify.com/album/2wEh88diaPfNN7VAJ0plXC) | 2:59 | 2022-05-26 | 2023-04-14 |
 | [Caléçon](https://open.spotify.com/track/02KynjfpJDJFKmNlxGMcUE) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Coco Argentée](https://open.spotify.com/artist/3eZbaZtJasAh4P1ptj7bOe) | [Caléçon](https://open.spotify.com/album/7krsg8jshA79Nbd3dnT7In) | 3:28 | 2021-12-20 | 2022-05-27 |
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 | 2023-01-12 |  |
@@ -61,6 +61,7 @@
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
 | [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |
+| [Kabato](https://open.spotify.com/track/0umgit0awfo3yy5qy1wmqA) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/0fbnFf6YWQa9blwHrvMh1v) | 3:25 | 2023-04-13 |  |
 | [Ketebo](https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Ketebo](https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A) | 2:54 | 2023-03-23 |  |
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 |  |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |

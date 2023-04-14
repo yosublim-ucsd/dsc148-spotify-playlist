@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/1JDiDQ4xtzLADSb9z6BpyA"
@@ -104,7 +104,7 @@
           "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
         }
       ],
-      "date_added": "2023-04-09",
+      "date_added": "2023-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135087,
@@ -164,6 +164,24 @@
       "duration_ms": 202570,
       "name": "Aras",
       "url": "https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM"
+    },
+    {
+      "album": {
+        "name": "Ascension (Sound Bath)",
+        "url": "https://open.spotify.com/album/33vdk5V9T8Ag5WkBZzjowy"
+      },
+      "artists": [
+        {
+          "name": "Eos Astraeus",
+          "url": "https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137789,
+      "name": "Ascension (Sound Bath)",
+      "url": "https://open.spotify.com/track/5QhHxzGiHveCh5ul5UAz4Q"
     },
     {
       "album": {
@@ -293,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Corals",
+        "url": "https://open.spotify.com/album/3R3upyibOF7PGPeDNGhBnI"
+      },
+      "artists": [
+        {
+          "name": "Kumatra",
+          "url": "https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145458,
+      "name": "Corals",
+      "url": "https://open.spotify.com/track/2zLPRWzrufYPYAemBsT1nR"
+    },
+    {
+      "album": {
         "name": "Countryside",
         "url": "https://open.spotify.com/album/3P5GsO5dYCjBD7nLXMANPG"
       },
@@ -340,7 +376,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 146506,
       "name": "Dawning - Sound Bath",
       "url": "https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4"
@@ -524,6 +560,24 @@
       "duration_ms": 181500,
       "name": "Godric",
       "url": "https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa"
+    },
+    {
+      "album": {
+        "name": "Growing Tall",
+        "url": "https://open.spotify.com/album/43g1BdXllghZAwj2t4Mhjo"
+      },
+      "artists": [
+        {
+          "name": "Homesong",
+          "url": "https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Growing Tall",
+      "url": "https://open.spotify.com/track/5Icz0gJeaDlMBUQLOcBDPV"
     },
     {
       "album": {
@@ -833,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Morning blizz",
+        "url": "https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124250,
+      "name": "Morning blizz",
+      "url": "https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH"
+    },
+    {
+      "album": {
         "name": "Mosaic Patterns",
         "url": "https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot"
       },
@@ -844,7 +916,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 173841,
       "name": "Mosaic Patterns",
       "url": "https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj"
@@ -1085,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Piccola Valle Verde",
+        "url": "https://open.spotify.com/album/331p32IoM4u2VYT264nO4g"
+      },
+      "artists": [
+        {
+          "name": "Die Kaiserin",
+          "url": "https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177329,
+      "name": "Piccola Valle Verde",
+      "url": "https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a"
+    },
+    {
+      "album": {
         "name": "Places Of Placidity",
         "url": "https://open.spotify.com/album/1x3a9URe9AivSduWwuo6m4"
       },
@@ -1215,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Sogno Illuminum",
+        "url": "https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd"
+      },
+      "artists": [
+        {
+          "name": "Enchanted Feel",
+          "url": "https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149839,
+      "name": "Sogno Illuminum",
+      "url": "https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq"
+    },
+    {
+      "album": {
         "name": "From the meadow",
         "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
       },
@@ -1262,7 +1370,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 269696,
       "name": "Sostenuto",
       "url": "https://open.spotify.com/track/5qD6H1TpKDs9oHobHFymJw"

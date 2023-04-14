@@ -1,29 +1,13 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 201862,
+  "num_followers": 202065,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDJlYzAwZTFmZGNmMjI0ZWM0OTM5OTNkMWYyZDI4NTJl",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDg4YTc2OGQwOTYxZTIzZDdjNTMwOWE1OTNmOTk3Nzg0",
   "tracks": [
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 196257,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE"
-    },
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 218720,
       "name": "Out Of My Hands",
       "url": "https://open.spotify.com/track/1u21AFQtqUHHlqePHk3qUL"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -79,22 +79,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Hymns Live",
-        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 378076,
-      "name": "I Will Wait for You (Psalm 130) [Live]",
-      "url": "https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Saved",
         "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 174285,
       "name": "Saved",
       "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 378076,
+      "name": "I Will Wait for You (Psalm 130) [Live]",
+      "url": "https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -295,6 +295,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
+        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Haven't Seen It Yet - Acoustic",
+      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
-        "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Haven't Seen It Yet - Acoustic",
-      "url": "https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -599,26 +599,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
         "url": "https://open.spotify.com/album/7lD371T7NrKgCnOHQq42gk"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 211251,
       "name": "With Lifted Hands (Acoustic) [feat. Martin Smith]",
       "url": "https://open.spotify.com/track/5Vmj0vCnP9Kf6PuxzERwic"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "Luke Smallbone",
+          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -755,18 +755,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
+        "name": "Resting Place (To the Cross)",
+        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
       },
       "artists": [
         {
-          "name": "Allan McKinlay",
-          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
+      "duration_ms": 243346,
+      "name": "Resting Place (To the Cross)",
+      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -803,18 +803,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Resting Place (To the Cross)",
-        "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "Allan McKinlay",
+          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
         }
       ],
-      "duration_ms": 243346,
-      "name": "Resting Place (To the Cross)",
-      "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
+      "duration_ms": 282000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "VILLAIN",
         "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246760,
       "name": "Avalanche - Piano Version",
       "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+      },
+      "artists": [
+        {
+          "name": "York Worship",
+          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+        }
+      ],
+      "duration_ms": 374117,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Now I See",
         "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Heavenly Father",
-        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
       "artists": [
         {
-          "name": "York Worship",
-          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
         }
       ],
-      "duration_ms": 374117,
-      "name": "Heavenly Father",
-      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
       "artists": [
         {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1203,22 +1219,6 @@
       "duration_ms": 354407,
       "name": "Praise You In This Storm - New York Sessions",
       "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Well Done (Acoustic)",
-        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Well Done - Acoustic",
-      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1291,6 +1291,38 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Worth Mine",
         "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
       },
@@ -1327,22 +1359,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "A Dawn I Remember",
         "url": "https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 254146,
       "name": "Love Together",
       "url": "https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "The Longing",
-        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
-      },
-      "artists": [
-        {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
-        }
-      ],
-      "duration_ms": 289048,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "The Longing",
+        "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
+      },
+      "artists": [
+        {
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+        }
+      ],
+      "duration_ms": 289048,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Eternal Gospel",
         "url": "https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 247533,
       "name": "For The Joy Set Before Him",
       "url": "https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     },
     {
       "added_at": "2020-08-31 15:19:19",

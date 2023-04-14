@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 381081,
+  "num_followers": 381121,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGIwNGJlNGE0ODZlZDJiNTM1NzI5MWUwODgwMmU4NjA3",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDU1MGIzYTQzZWY3OGNjY2M5NzkwNmQ1ZGNkODk5YjQw",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
+      "added_at": "2021-02-26 05:01:00",
       "album": {
-        "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
-        "url": "https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh"
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
       },
       "artists": [
         {
-          "name": "Thad Jones-Mel Lewis Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 348733,
-      "name": "Three In One",
-      "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
+      "duration_ms": 184506,
+      "name": "Luck Be a Lady",
+      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     }
   ],
   "unique_name": "Big Band",

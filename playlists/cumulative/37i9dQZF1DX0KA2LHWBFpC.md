@@ -4,7 +4,7 @@
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-72 songs - 5 hr 35 min
+73 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Fireworks Festival](https://open.spotify.com/track/1IISJrJingJVC2JItzHG67) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 3:04 | 2022-09-30 |  |
 | [First Aid](https://open.spotify.com/track/1dgGQZhEOxiQw2Wn0REjAa) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 1:24 | 2022-11-11 |  |
 | [First Part Time Job As Sunshine Girl](https://open.spotify.com/track/53I0J03P282PSumZukDHsX) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 1:19 | 2022-09-30 |  |
-| [Giza Giza Heart no Komoriuta](https://open.spotify.com/track/6B9896DwhyX1IGdVgVNywP) | [The Checkers](https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1) | [Final Tour Budoukan Live](https://open.spotify.com/album/1d15Or6YvXpD6EAlmKlJVY) | 4:27 | 2022-11-10 |  |
+| [Giza Giza Heart no Komoriuta](https://open.spotify.com/track/6B9896DwhyX1IGdVgVNywP) | [The Checkers](https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1) | [Final Tour Budoukan Live](https://open.spotify.com/album/1d15Or6YvXpD6EAlmKlJVY) | 4:27 | 2022-11-10 | 2023-04-14 |
 | [Grand Escape \(Movie Edit\) \[feat\. Toko Miura\]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 3:08 | 2022-09-30 |  |
 | [Hello Goodbye & Hello \(For Movie\)](https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [劇場アニメーション映画 星を追う子ども Original SoundTrack](https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq) | 5:00 | 2022-09-30 |  |
 | [History of Mimizu](https://open.spotify.com/track/52get1japYJ9yHVHe3puSm) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 1:26 | 2022-11-10 |  |
@@ -69,6 +69,7 @@
 | [「聴く小説・すずめの戸締まり」まとめ\(1\-30話\)](https://open.spotify.com/episode/5zN35BEzRUY4bDh3NGI60N) | [聴く小説・すずめの戸締まり](https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5) | [聴く小説・すずめの戸締まり](https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5) | 1:42:45 | 2022-11-15 | 2023-01-20 |
 | [きみのこえ](https://open.spotify.com/track/4K1MF8LEThwlvklwxvobLN) | [ハート](https://open.spotify.com/artist/7pmcLNwJyf09QTxgqZRk0z) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/59CGpIQ02102FKPMemsKtr) | 5:36 | 2022-09-30 |  |
 | [けんかをやめて](https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R) | [Naoko Kawai](https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu) | [けんかをやめて](https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N) | 4:31 | 2022-11-10 |  |
+| [ギザギザハートの子守唄](https://open.spotify.com/track/68V2EbvUklK3ORiiKl0c3Z) | [The Checkers](https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1) | [ギザギザハートの子守唄](https://open.spotify.com/album/6f4c3mNtbtNOB3KPViiuhF) | 2:56 | 2023-04-13 |  |
 | [バレンタイン・キッス](https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy) | [Sayuri Kokusho](https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t), [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [バレンタイン・キッス](https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c) | 3:36 | 2022-11-10 |  |
 | [メインテーマ](https://open.spotify.com/track/5ynaMlHUTnUwcKQQ2wgRdk) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/2ZWQnipGzWgVUWcphJElZ1) | 1:28 | 2022-09-30 |  |
 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2022-11-10 | 2022-11-16 |

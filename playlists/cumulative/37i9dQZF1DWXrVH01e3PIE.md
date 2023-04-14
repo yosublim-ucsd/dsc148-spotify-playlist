@@ -2,7 +2,7 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> C.R.O & Duki en la casa del Trap de Argentino.
+> C.R.O & Duki en la casa del Trap Argentino.
 
 190 songs - 9 hr 17 min
 

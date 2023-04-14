@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Yaeji
 
-766 songs - 2 day 2 hr 21 min
+767 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Nobody Scared](https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Nobody Scared](https://open.spotify.com/album/3ssYNO0NqPUMYJFjk9qtAW) | 3:39 | 2021-06-25 | 2022-07-26 |
 | [Nobody Scared](https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1) | 3:39 | 2021-06-25 | 2022-10-13 |
 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 | 2022-09-09 | 2023-04-01 |
+| [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 |  |
 | [Not My Girl \- Yuksek Remix](https://open.spotify.com/track/6Hkr4K98wyBiphwh8oMDNi) | [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Not My Girl \(Yuksek Remix\)](https://open.spotify.com/album/1fC2o7HEalSglSvmNRE6Y8) | 3:53 | 2021-04-20 | 2022-02-03 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-13 |  |
 | [Nothing On Me](https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Nothing On Me](https://open.spotify.com/album/6Fs2nzfKvHQTtUy00L7slL) | 2:34 | 2022-03-11 | 2022-07-29 |
@@ -496,7 +497,7 @@
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-04-08 | 2022-05-19 |
 | [Off You](https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Off You](https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo) | 3:21 | 2021-08-06 | 2022-04-16 |
 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-10-18 |
-| [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 |  |
+| [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 | 2023-04-14 |
 | [On My Mind \- Short Version](https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [On My Mind / About U](https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg) | 3:57 | 2021-08-06 | 2022-07-27 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-11 | 2022-07-19 |
 | [One More](https://open.spotify.com/track/01irEqIoLSxEZxlvCxP9wf) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [One More EP](https://open.spotify.com/album/5kTyDrG1kqjuriepThjxWA) | 7:08 | 2022-12-09 | 2023-02-11 |

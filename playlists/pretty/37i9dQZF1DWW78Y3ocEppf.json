@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: THEY.",
-  "num_followers": 40701,
+  "num_followers": 40727,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQ2YzZkYTk1YmYyNzUxZDM1ODJjZWVhNmJkMDkyYjUy",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGE0MzI4NjE1OWUzY2M2Nzk4OTZhYjFhZGVlOTE5NzA5",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Spin the Block",
-        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229052,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Big Vibez",
@@ -823,6 +807,22 @@
       "duration_ms": 166808,
       "name": "Big Vibez",
       "url": "https://open.spotify.com/track/7a1ICdYKiQPHYmxH740gfM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229052,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+        "name": "Before We Crash",
+        "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
       },
       "artists": [
         {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
         }
       ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
+      "duration_ms": 229447,
+      "name": "Better Than Him",
+      "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1017,20 +1017,20 @@
       "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Before We Crash",
-        "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 229447,
-      "name": "Better Than Him",
-      "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 154473,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
+    },
+    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Queen Space (with Summer Walker)",
@@ -1195,22 +1211,6 @@
       "duration_ms": 152545,
       "name": "Party",
       "url": "https://open.spotify.com/track/1MSKQ5sxTezNLajz0CBlWk"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "'95 Civic",
-        "url": "https://open.spotify.com/album/4VPp2kFBlAIX0GhxB4l3Or"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 154473,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1309,26 +1309,6 @@
       "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "What It Do",
-        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
-      },
-      "artists": [
-        {
-          "name": "Zae France",
-          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 185566,
-      "name": "What It Do (with Fridayy)",
-      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Not a Statistic",
@@ -1347,6 +1327,26 @@
       "duration_ms": 136813,
       "name": "The One",
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "What It Do",
+        "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
+      },
+      "artists": [
+        {
+          "name": "Zae France",
+          "url": "https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 185566,
+      "name": "What It Do (with Fridayy)",
+      "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1379,6 +1379,22 @@
       "duration_ms": 141428,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1415,22 +1431,6 @@
       "duration_ms": 240048,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt"
     },
     {
-      "added_at": "2022-11-04 06:34:53",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
-      },
-      "artists": [
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Sock It 2 Me",
@@ -1595,6 +1579,22 @@
       "duration_ms": 201802,
       "name": "Sock It 2 Me",
       "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
+      "added_at": "2022-11-04 06:34:53",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
+      },
+      "artists": [
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "added_at": "2022-12-09 05:00:00",

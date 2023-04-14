@@ -1,12 +1,12 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 165000,
+  "num_followers": 165066,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMGIxMWFjYTY5YmFkZmEwMjk3YzllMzU1MDk4ZGNlNGM2",
+  "snapshot_id": "MTY2NDg5NzA3NCwwMDAwMDAwMGFiMDQ1ZTQzOGZmZWZlZTI3ZTk3MWFkNjM3MWM5Yzgx",
   "tracks": [
     {
       "added_at": "2022-06-30 13:51:59",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-06-30 13:51:59",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2022-06-30 13:51:59",
-      "album": {
         "name": "The Lady Killer",
         "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 222933,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"
+    },
+    {
+      "added_at": "2022-06-30 13:51:59",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2022-06-30 13:51:59",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 46485,
+  "num_followers": 46498,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGQ0MDM5ZGVhMmY2NDkzNWJlYjVmMzIxMDA3MWY2NmU5",
+  "snapshot_id": "MTY3NjYwNTIwNiwwMDAwMDAwMGFiODdlYTg0YzU2YjM1Y2Y1ZjNiNDc3MGNiY2QwZjdj",
   "tracks": [
     {
       "added_at": "2023-02-17 03:40:06",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "NI\u00d1XS ROTXS",
-        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         }
       ],
-      "duration_ms": 206928,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1"
+        "name": "NI\u00d1XS ROTXS",
+        "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
         }
       ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA"
+      "duration_ms": 206928,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/29DyVpcvZ8Sl5j9ROFXyz7"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 146023,
+      "name": "Oye Mi Ritmo",
+      "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "A Quien Pueda Interesar",
         "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 198000,
       "name": "MIA BEACH",
       "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 146023,
-      "name": "Oye Mi Ritmo",
-      "url": "https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq"
     },
     {
       "added_at": "2023-02-17 03:40:06",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-02-17 03:40:06",
       "album": {
+        "name": "50 \u00e9xitos de salsa cubana",
+        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
+    },
+    {
+      "added_at": "2023-02-17 03:40:06",
+      "album": {
         "name": "Sleng Teng Riddim",
         "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 180853,
       "name": "Fettuccine",
       "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
-    },
-    {
-      "added_at": "2023-02-17 03:40:06",
-      "album": {
-        "name": "50 \u00e9xitos de salsa cubana",
-        "url": "https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb"
     },
     {
       "added_at": "2023-02-17 03:40:06",

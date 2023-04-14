@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 139927,
+  "num_followers": 140193,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMDEyODE1NTRkMTg1NDRlYzlkZDI5MWJjZDUyNDgyNTlh",
+  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMDY4ZDJjMzUwM2FlZjJhZDcxZjg1MmVlN2QxNmIyOTI3",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -619,22 +619,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
         }
       ],
-      "duration_ms": 279520,
-      "name": "I'm Waiting For The Man",
-      "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -655,18 +651,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
       "artists": [
         {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
+      "duration_ms": 279520,
+      "name": "I'm Waiting For The Man",
+      "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
     },
     {
       "added_at": "2021-03-22 17:56:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,455 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,552 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 37 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
 | 38 | [Out Of The Blue](https://open.spotify.com/track/7fIfO8fZ55Eq5qtd5vCd6z) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Remastered\)](https://open.spotify.com/album/0Wd7GMaUkqotsEb1RCYx2V) | 3:54 |
 | 39 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
-| 40 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
-| 41 | [Believe](https://open.spotify.com/track/0hHvlq1VgIGd2Y6Zclxd5V) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/153xLyo7yD307pl84VRrFG) | 3:26 |
-| 42 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/1vWbaoRAG0INnakzFlHJb8) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/0s770IMN5qa5eXKmTKLMRS) | 3:39 |
-| 43 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
+| 40 | [Believe](https://open.spotify.com/track/0hHvlq1VgIGd2Y6Zclxd5V) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/153xLyo7yD307pl84VRrFG) | 3:26 |
+| 41 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
+| 42 | [It's A Fine Day](https://open.spotify.com/track/3jjhHmTYb7t0mFCTiDg0Kg) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:52 |
+| 43 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/1vWbaoRAG0INnakzFlHJb8) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/0s770IMN5qa5eXKmTKLMRS) | 3:39 |
 | 44 | [Free](https://open.spotify.com/track/1epnoXa2XpGrQXaKxzrfLb) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [Sound & Vision](https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG) | 3:10 |
 | 45 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 46 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 54 | [Airwave \- Album Cut](https://open.spotify.com/track/06h6Y3nklQ8NgRwemZlQDS) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Symsonic](https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z) | 4:59 |
 | 55 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
 | 56 | [The Ride](https://open.spotify.com/track/0cWSMnw5SX1ItDdQzBe51E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [The Ultimate Ride](https://open.spotify.com/album/5XbDQJJx1vai2UQBG1SKYb) | 4:08 |
-| 57 | [Popcorn \- Radio Version](https://open.spotify.com/track/7N11HyzA0kxa65hvChHNbT) | [Richi M.](https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b) | [Popcorn](https://open.spotify.com/album/7jrWu7WEkqygGZ3FymVock) | 3:23 |
-| 58 | [Be Cool \- Radio Edit](https://open.spotify.com/track/2Qzq9wJtrEYdWgxXiUFjsP) | [Paffendorf](https://open.spotify.com/artist/6ncUTZAXal93c05AUvr94d) | [Planet Dance](https://open.spotify.com/album/2N7bn0chb5HOeYzq1fvw5P) | 3:32 |
+| 57 | [Be Cool \- Radio Edit](https://open.spotify.com/track/2Qzq9wJtrEYdWgxXiUFjsP) | [Paffendorf](https://open.spotify.com/artist/6ncUTZAXal93c05AUvr94d) | [Planet Dance](https://open.spotify.com/album/2N7bn0chb5HOeYzq1fvw5P) | 3:32 |
+| 58 | [Popcorn \- Radio Version](https://open.spotify.com/track/7N11HyzA0kxa65hvChHNbT) | [Richi M.](https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b) | [Popcorn](https://open.spotify.com/album/7jrWu7WEkqygGZ3FymVock) | 3:23 |
 | 59 | [Paradoxx \- Original Album Version](https://open.spotify.com/track/5qF7pHGeAns5TtLZDMLJ2F) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Special Edition\)](https://open.spotify.com/album/0O4qBIZ7IKKuPzLftLxA92) | 3:57 |
 | 60 | [Cream \- Radio Edit](https://open.spotify.com/track/2yxVVo6w8es8K3k0WGH4Zu) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [In Da Mix \(Super Deluxe Edition\)](https://open.spotify.com/album/6IKcZW1oukGGs6KoY7GNxB) | 3:16 |
 | 61 | [Universal Nation \- Radio Edit](https://open.spotify.com/track/6mRj9RSLe4RU1vWarhxDnG) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [A State Of Trance 600](https://open.spotify.com/album/62lXAqif61gAUTTDtBgGQY) | 3:45 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 69 | [Fly Away \- Full Vocal Version](https://open.spotify.com/track/3AdjHhN66vLKskEtKMIMEc) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Fly Away](https://open.spotify.com/album/49WdVSU2t95TJpsz36TXIl) | 8:21 |
 | 70 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/2iWHVKISSU9axCE6sncM0M) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [In Silence \(Remixes\)](https://open.spotify.com/album/4raE2IqKCFUNF8KJwzhLXa) | 11:15 |
 | 71 | [The Anthem 2002 \- Radio Edit](https://open.spotify.com/track/24ojHsvYBzAkhcL25yJqY3) | [Sensation](https://open.spotify.com/artist/12JbiAmiTFt8dg0mgzGVJp) | [Anthem 2002](https://open.spotify.com/album/088t7VuRO6VQFSgogK23rk) | 2:53 |
-| 72 | [Time Is The Healer \- Armin van Buuren Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 |
-| 73 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/0twDKQyNGVsQ6uvIauUG2i) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/4jXF49oY4Zm486fVk4Dd0U) | 8:44 |
+| 72 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/0twDKQyNGVsQ6uvIauUG2i) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/4jXF49oY4Zm486fVk4Dd0U) | 8:44 |
+| 73 | [Time Is The Healer \- Armin van Buuren Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 |
 | 74 | [4 Elements](https://open.spotify.com/track/6RuojdtUR7zkIuJqMxaij5) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance Classics, Vol.2](https://open.spotify.com/album/4MZ7o3YmVjt9QaTHJiSf80) | 7:02 |
 | 75 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 |
 | 76 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MTY3Nzg1MTQwMCwwMDAwMDAwMGQ4MjM1ZThjOTQ1NDJkM2UzZGFjMTA2MTlhOTkwMzFi`
+Snapshot ID: `MTY3Nzg1MTQwMCwwMDAwMDAwMGMzZTY5YzRjZDUyNzhiMzlkOTdiYmYzNjQwMGRiNDE2`

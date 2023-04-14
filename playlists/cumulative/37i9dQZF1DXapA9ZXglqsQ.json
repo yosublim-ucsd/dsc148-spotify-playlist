@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
+        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "\u30ed\u30a4\u30e4\u30eb\u30fb\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30fc\u7ba1\u5f26\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
+      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30ed\u30c7\u30a3\u30d5\u30a9\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1"
       },

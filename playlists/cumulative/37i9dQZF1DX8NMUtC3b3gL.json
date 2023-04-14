@@ -1183,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Color Me",
+        "url": "https://open.spotify.com/album/5jyANXLXzMpjxky4bzQTPf"
+      },
+      "artists": [
+        {
+          "name": "Momentology",
+          "url": "https://open.spotify.com/artist/3Hg0Oo6hrlDBYcWqQtTTNr"
+        },
+        {
+          "name": "Luckey",
+          "url": "https://open.spotify.com/artist/35EOgHRH89io9NfKvkSBkA"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133348,
+      "name": "Color Me",
+      "url": "https://open.spotify.com/track/4VOkKi42MQoLzBXNILzSoc"
+    },
+    {
+      "album": {
         "name": "Colora",
         "url": "https://open.spotify.com/album/5uNNfZZDqFxFGdoATsnIQK"
       },
@@ -1747,6 +1769,50 @@
     },
     {
       "album": {
+        "name": "Eu\u00e1",
+        "url": "https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "Eu\u00e1",
+      "url": "https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc"
+    },
+    {
+      "album": {
+        "name": "Days Of Yore",
+        "url": "https://open.spotify.com/album/0s6u4pNR4KPehvx5QyekDj"
+      },
+      "artists": [
+        {
+          "name": "Benno",
+          "url": "https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L"
+        },
+        {
+          "name": "Disruptive LoFi",
+          "url": "https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/06oKp6UTshj7081DDthQXg"
+    },
+    {
+      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/2oSelUMgjI9HcpPabP204o"
       },
@@ -1762,7 +1828,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 156000,
       "name": "Face",
       "url": "https://open.spotify.com/track/6cVR8d5JBwANwCUNr9Dk49"
@@ -2581,6 +2647,28 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0ulwOH308qSJ5dcoUnehtV"
+      },
+      "artists": [
+        {
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4sXh3eo15M3C5TTPWzo52L"
+    },
+    {
+      "album": {
         "name": "Lofi Summer: For Everything There is a Season",
         "url": "https://open.spotify.com/album/3WTNXPDkLxMOU0uMxNBTb4"
       },
@@ -2636,6 +2724,24 @@
       "duration_ms": 117564,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/5tRZ5EMRDkuRiJ49iCzudM"
+    },
+    {
+      "album": {
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/4I8emTVXQz9SwQJ4n0sDio"
+      },
+      "artists": [
+        {
+          "name": "SP-Mato",
+          "url": "https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "In My Lifetime",
+      "url": "https://open.spotify.com/track/4xnUnOJbzbWZEVY4Ktublu"
     },
     {
       "album": {
@@ -2943,6 +3049,32 @@
     },
     {
       "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/5yKsTeuD4WKJOoyMWm3dgV"
+      },
+      "artists": [
+        {
+          "name": "Horace Bray",
+          "url": "https://open.spotify.com/artist/2jIZEoSCmhxiHyA1rMc01u"
+        },
+        {
+          "name": "Teddy Roxpin",
+          "url": "https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A"
+        },
+        {
+          "name": "Smile High",
+          "url": "https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129281,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/3PDahjvEAF9s02hVvdAVFv"
+    },
+    {
+      "album": {
         "name": "leave the lights on",
         "url": "https://open.spotify.com/album/7sh2RAqZITfrhnAOhoTKmi"
       },
@@ -2976,6 +3108,24 @@
       "duration_ms": 132936,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/3zyz4vMxFmUEBuSyA19zVa"
+    },
+    {
+      "album": {
+        "name": "Lemon Market",
+        "url": "https://open.spotify.com/album/0P5mOLIUgPkOoD2TClx4vW"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Kidd",
+          "url": "https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "Lemon Market",
+      "url": "https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc"
     },
     {
       "album": {
@@ -3154,6 +3304,24 @@
       "duration_ms": 144000,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM"
+    },
+    {
+      "album": {
+        "name": "Lovebites",
+        "url": "https://open.spotify.com/album/6p6lIvpJt7O9t5QNVs8A9u"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93157,
+      "name": "Lovebites",
+      "url": "https://open.spotify.com/track/4Qil9aFPFjPxo4kUcL7Zym"
     },
     {
       "album": {
@@ -3709,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Ocean view",
+        "url": "https://open.spotify.com/album/19mGPmYIQDX59svRvMjAoB"
+      },
+      "artists": [
+        {
+          "name": "SoFo",
+          "url": "https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Ocean view",
+      "url": "https://open.spotify.com/track/67KV197aojEW3rNeGj6Vxe"
+    },
+    {
+      "album": {
         "name": "off the grid",
         "url": "https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba"
       },
@@ -3822,6 +4008,24 @@
       "duration_ms": 107200,
       "name": "our future",
       "url": "https://open.spotify.com/track/4WBdS3TlzAFYVKhpNqyDSy"
+    },
+    {
+      "album": {
+        "name": "Palmeiras",
+        "url": "https://open.spotify.com/album/2x3oSfL2a0VYXSVXGXfaY7"
+      },
+      "artists": [
+        {
+          "name": "Konteks",
+          "url": "https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100666,
+      "name": "Palmeiras",
+      "url": "https://open.spotify.com/track/4f5CyiauVztsfF9JI8HIUC"
     },
     {
       "album": {
@@ -4313,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "resilience",
+        "url": "https://open.spotify.com/album/73FsXK6FzizLlXM3rXlMcR"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80025,
+      "name": "resilience",
+      "url": "https://open.spotify.com/track/61l6SanwGoOBFmKPWa08wl"
+    },
+    {
+      "album": {
         "name": "Alone at Dusk",
         "url": "https://open.spotify.com/album/2M24MgxeKXbrPBY1GYppfF"
       },
@@ -4791,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/7uhbQFA0Jcvwc3exGK53Ib"
+      },
+      "artists": [
+        {
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/0K10ENKa2CiPZCVtctyqwf"
+    },
+    {
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/4wub7J4LP8LsMC1Zj4kuDR"
       },
@@ -5225,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "take five",
+        "url": "https://open.spotify.com/album/2XiwPNXXIPLo5uK5fmUB0m"
+      },
+      "artists": [
+        {
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "take five",
+      "url": "https://open.spotify.com/track/6cEbLX3p88YPsGrOuZNrWk"
+    },
+    {
+      "album": {
         "name": "Technical Difficulties",
         "url": "https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG"
       },
@@ -5280,6 +5538,24 @@
       "duration_ms": 143414,
       "name": "that 90s low",
       "url": "https://open.spotify.com/track/1pzOWECKHnMy5UrKeJduNB"
+    },
+    {
+      "album": {
+        "name": "That Gurl",
+        "url": "https://open.spotify.com/album/29oDud6HPKoTiQuQRSuaK4"
+      },
+      "artists": [
+        {
+          "name": "Gesmis",
+          "url": "https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121479,
+      "name": "That Gurl",
+      "url": "https://open.spotify.com/track/5E2ZlARzfpAfvM6F5Db1Iz"
     },
     {
       "album": {

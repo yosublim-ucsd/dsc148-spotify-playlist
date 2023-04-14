@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 75729,
+  "num_followers": 75750,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMDM0NjkyZGZiYWIzMDRiMmNiNGJmNzViMDFlZGY1MmU3",
+  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMGExODQ4NmRhNTUzYmJlMzBlNmRjNTA3YjBkM2U0YjMy",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
+        "name": "damn Right Pt. 2",
+        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
       "artists": [
         {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
+      "duration_ms": 186666,
+      "name": "damn Right Pt. 2",
+      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "damn Right Pt. 2",
-        "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
         }
       ],
-      "duration_ms": 186666,
-      "name": "damn Right Pt. 2",
-      "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
+      "duration_ms": 145173,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "damn Right",
+        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "damn Right",
+      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Hot One",
         "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
       },
@@ -723,18 +739,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "damn Right",
-        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+        "name": "Kinda Hate U Kinda Love U",
+        "url": "https://open.spotify.com/album/4lh9iEtOSP6VD8X4mN4E1A"
       },
       "artists": [
         {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+          "name": "Alex Sloane",
+          "url": "https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha"
         }
       ],
-      "duration_ms": 164605,
-      "name": "damn Right",
-      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+      "duration_ms": 193894,
+      "name": "Kinda Hate U Kinda Love U",
+      "url": "https://open.spotify.com/track/3g684aXyFCH7mGH00LLMDk"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -759,22 +791,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 253202,
       "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Kinda Hate U Kinda Love U",
-        "url": "https://open.spotify.com/album/4lh9iEtOSP6VD8X4mN4E1A"
-      },
-      "artists": [
-        {
-          "name": "Alex Sloane",
-          "url": "https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha"
-        }
-      ],
-      "duration_ms": 193894,
-      "name": "Kinda Hate U Kinda Love U",
-      "url": "https://open.spotify.com/track/3g684aXyFCH7mGH00LLMDk"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "How Many Times Have You Driven By",
-        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 164169,
-      "name": "Crying on the Subway",
-      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Introspection Reimagined",
         "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 213213,
       "name": "Pretty Girl Hi Reimagined",
       "url": "https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "How Many Times Have You Driven By",
+        "url": "https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 164169,
+      "name": "Crying on the Subway",
+      "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chatter",
-        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
       },
       "artists": [
         {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
         }
       ],
-      "duration_ms": 173686,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
+      "duration_ms": 218400,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
+        "name": "Chatter",
+        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
       },
       "artists": [
         {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        },
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
+      "duration_ms": 173686,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
     }
   ],
   "unique_name": "Dope AF",

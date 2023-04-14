@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-226 songs - 10 hr 52 min
+227 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 | 2021-12-14 | 2022-11-13 |
 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 | 2021-12-14 |  |
 | [Gravöl](https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66) | 3:06 | 2021-12-14 | 2022-07-29 |
-| [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
+| [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 | 2023-04-14 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 | 2021-12-14 |  |
 | [Hjärtat](https://open.spotify.com/track/3XTik0pTi7YpPrX4MtsaUi) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/3mlS9bxC2vrgFrLRnpSx3Z) | 3:06 | 2021-12-14 | 2022-07-21 |
@@ -231,6 +231,7 @@
 | [Äganderätt?](https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F) | [Gymnastiken](https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2) | [Ännu En Gång](https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F) | 2:35 | 2021-12-14 | 2022-07-24 |
 | [Älska Mig](https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/4L8BOlcLg6VbsLeT9bbdXm) | 3:05 | 2021-12-14 |  |
 | [Älska Mig](https://open.spotify.com/track/3UQTJo6Hck0rknKPIX0tDa) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Far Åt Helvete](https://open.spotify.com/album/6LT6QbifZJaNnYbNYwHxJU) | 3:07 | 2021-12-14 | 2022-07-29 |
+| [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 | 2023-04-13 |  |
 | [Är det bra?](https://open.spotify.com/track/5MUKNZ1vPkuLvxPT7Q3QtQ) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb) | 2:53 | 2021-12-14 | 2022-07-29 |
 | [Åt helvete med kungafamiljen](https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 1:12 | 2021-12-14 | 2022-07-26 |
 | [Örnar Över Amerika](https://open.spotify.com/track/4zosRoaCz85ScOVAWkjzVM) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [Örnar Över Amerika](https://open.spotify.com/album/4KkDPSsmbycy3NpS3gpECc) | 2:50 | 2021-12-14 | 2022-07-15 |

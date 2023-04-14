@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle ",
-  "num_followers": 72,
+  "num_followers": 95,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5NjM4MCwwMDAwMDAwMDU2YjkyNjVjZmJiZWU2ODY1NTgxNWVhY2U4YTcyNzRi",
+  "snapshot_id": "MTY4MDc5NjM4MCwwMDAwMDAwMDgyNTNjYWU2NzVmMGZlZmVhYjg4ZTE3NTA2N2Y5MTcz",
   "tracks": [
     {
       "added_at": "2023-04-06 15:53:00",
@@ -791,18 +791,22 @@
     {
       "added_at": "2023-04-06 15:53:00",
       "album": {
-        "name": "Mensuro",
-        "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
+        "name": "Adom Bi",
+        "url": "https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO"
       },
       "artists": [
         {
-          "name": "Miriam Afari",
-          "url": "https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR"
+          "name": "Prophet Dominion",
+          "url": "https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc"
+        },
+        {
+          "name": "Brother Sammy",
+          "url": "https://open.spotify.com/artist/462css63bI6oOmHwsofdDM"
         }
       ],
-      "duration_ms": 404300,
-      "name": "Mensuro",
-      "url": "https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO"
+      "duration_ms": 319870,
+      "name": "Adom Bi",
+      "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
     },
     {
       "added_at": "2023-04-06 15:53:00",
@@ -823,22 +827,18 @@
     {
       "added_at": "2023-04-06 15:53:00",
       "album": {
-        "name": "Adom Bi",
-        "url": "https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO"
+        "name": "Mensuro",
+        "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
       },
       "artists": [
         {
-          "name": "Prophet Dominion",
-          "url": "https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc"
-        },
-        {
-          "name": "Brother Sammy",
-          "url": "https://open.spotify.com/artist/462css63bI6oOmHwsofdDM"
+          "name": "Miriam Afari",
+          "url": "https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR"
         }
       ],
-      "duration_ms": 319870,
-      "name": "Adom Bi",
-      "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
+      "duration_ms": 404300,
+      "name": "Mensuro",
+      "url": "https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO"
     },
     {
       "added_at": "2023-04-06 15:53:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,382 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,407 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 34 | [Don The Theme](https://open.spotify.com/track/6d7MSaXaEBSzRG39HNODNz) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 4:09 |
 | 35 | [The Mood of Satya](https://open.spotify.com/track/18spm4j6IeNxSh74ZUKRyw) | [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy) | [Satya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR) | 2:20 |
 | 36 | [Maachis Theme Closing](https://open.spotify.com/track/5H83kULz9wDkDdNkFUFFuI) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Maachis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kc4rAQ1kkW3orZ87Le7M6) | 2:57 |
-| 37 | [](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 |
+| 37 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 |
 | 38 | [Kaise Mujhe \(Instrumental\)](https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ghajini](https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ) | 4:01 |
-| 39 | [Sarbjit Theme](https://open.spotify.com/track/7i6ISlTSvgYFZFy7d9o8fO) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Sarbjit](https://open.spotify.com/album/3gFdzTRV0jUP8da5miEWyU) | 2:56 |
+| 39 | [](https://open.spotify.com/track/62KAX5PbRgblMOiHxGK4r4) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj) | 0:00 |
 | 40 | [Vegas Theme \- Instrumental](https://open.spotify.com/track/2AnjzK3GxOGf45ttwYxT4z) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 2:05 |
 | 41 | [The Staircase Of Life](https://open.spotify.com/track/6SFKUn0A9oPOPb78DRJ8pa) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Saina](https://open.spotify.com/album/6NJ8ytX4jY0bkVy4OoL9ME) | 2:31 |
 | 42 | [Charminar](https://open.spotify.com/track/3fbM7XnAJOF5S4W3cqJhJd) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Amit Heri](https://open.spotify.com/artist/0EfPLCM3YgAj83a4K4TVMg), [Rajesh Vaidya](https://open.spotify.com/artist/4H83oUEiCke2zJcFbJAmCw) | [Morning Raga \- A Meeting Of Worlds](https://open.spotify.com/album/0WzQ9zO97qwwntyQ1mgaCE) | 1:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 | 50 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 |
 
-Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDBmNTk0MTZiMjhiZTc2Y2UxMDc5MTljNTI4NTg4OTI2`
+Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMGU3MDY0ODQ0NjExOTgyZDdlOGFjMTdhZTgwNGYyMzM1`

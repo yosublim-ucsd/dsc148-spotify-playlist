@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Cinta",
+        "url": "https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq"
+      },
+      "artists": [
+        {
+          "name": "Dalkhan Panova",
+          "url": "https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179458,
+      "name": "Cinta",
+      "url": "https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk"
       },
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 177500,
       "name": "Lahko no\u010d",
       "url": "https://open.spotify.com/track/0djscTMVix3pGLzMJ3D9X8"
@@ -5370,7 +5388,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 167586,
       "name": "Supine",
       "url": "https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS"
@@ -6076,6 +6094,24 @@
       "duration_ms": 163709,
       "name": "Where Dreams Begin",
       "url": "https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7"
+    },
+    {
+      "album": {
+        "name": "Whispered Views",
+        "url": "https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY"
+      },
+      "artists": [
+        {
+          "name": "Jon Laer",
+          "url": "https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Whispered Views",
+      "url": "https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe"
     },
     {
       "album": {

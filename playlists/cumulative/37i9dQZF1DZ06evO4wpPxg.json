@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2Lw2Tc9PmdbbbGaAlKpFOw"
+    },
+    {
+      "album": {
         "name": "Blues & Ragtime (Live)",
         "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 281293,
       "name": "Cincinnati Flow Rag",
       "url": "https://open.spotify.com/track/2p8WdZPvblhbehUGrqnnVY"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 169830,
       "name": "God's Gonna Separate",
       "url": "https://open.spotify.com/track/0ABg6LnEmuwyFdYBTRi6Zx"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 174733,
       "name": "I Belong To The Band",
       "url": "https://open.spotify.com/track/3aGOyp9ty4PnRoQKDh0huq"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 286426,
       "name": "If I Had My Way",
       "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 189906,
       "name": "Let Us Get Together Right Down Here",
       "url": "https://open.spotify.com/track/5cicntULcN9AtVoCu1fT4n"
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 184000,
       "name": "Saddle It Around",
       "url": "https://open.spotify.com/track/0XQiWWZG1sbOWF2uwgQTpP"
@@ -2950,7 +2968,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 156266,
       "name": "West Coast Blues (Blind Blake)",
       "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"

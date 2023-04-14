@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 10717,
+  "num_followers": 10769,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDM4ZDdmOGQxNDM2YmEyYzIyM2QyM2M1NzhmYjQ0NjAx",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGFkMjNiMDBhOTcyYTFhOTAyMDBhOTU2ZDgwZmY4OWI5",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Is My Wailin' Wall",
-        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mo Rodgers",
-          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Miss Lavelle",
         "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 234760,
       "name": "Yes, I've Been Crying",
       "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Blues Is My Wailin' Wall",
+        "url": "https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mo Rodgers",
+          "url": "https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Midnight Blues",
-        "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
-      },
-      "artists": [
-        {
-          "name": "Crystal Shawanda",
-          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
-        }
-      ],
-      "duration_ms": 215803,
-      "name": "I Want My Soul Back",
-      "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Guitar Man",
@@ -395,6 +379,22 @@
       "duration_ms": 257560,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Midnight Blues",
+        "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "duration_ms": 215803,
+      "name": "I Want My Soul Back",
+      "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Stronger Than You Need To Be",
-      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Make It Rain",
         "url": "https://open.spotify.com/album/7mSgK9b9TLn1KA6xOoe2FF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 316533,
       "name": "What Can A Man Do?",
       "url": "https://open.spotify.com/track/03mq9rVxvMrzu7qBQQZ588"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Stronger Than You Need To Be",
+      "url": "https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Hurt No More",
-        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
+        "name": "Doin' The Funky Thing",
+        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
       },
       "artists": [
         {
-          "name": "Buddy Ace",
-          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
+          "name": "Walter Wolfman Washington",
+          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Chockin' Kind",
-      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
+      "duration_ms": 313813,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Doin' The Funky Thing",
-        "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
-      },
-      "artists": [
-        {
-          "name": "Walter Wolfman Washington",
-          "url": "https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Bridge to a Legacy",
         "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189093,
       "name": "Who's Still in Love",
       "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
+        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "Blues All Over You",
+      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Ghosts of Mississippi Meet the Gods of Africa",
-        "url": "https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ"
+        "name": "Don't Hurt No More",
+        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
       },
       "artists": [
         {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+          "name": "Buddy Ace",
+          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
         }
       ],
-      "duration_ms": 221586,
-      "name": "Blues All Over You",
-      "url": "https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd"
+      "duration_ms": 207106,
+      "name": "Chockin' Kind",
+      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -839,38 +839,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talkin' About Chicago",
-        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Sweet Dynamite!",
-      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -887,18 +855,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tiger in a Cage",
-        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
       "artists": [
         {
-          "name": "Johnny Rawls",
-          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
         }
       ],
-      "duration_ms": 265053,
-      "name": "Reckless Heart",
-      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -919,22 +887,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
-      },
-      "artists": [
-        {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "I Can't Hold It",
-      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Blues Is On Fire",
         "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
       },
@@ -951,18 +903,50 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Cheatin' Habit",
-        "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
+        "name": "Talkin' About Chicago",
+        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Kick My Cheatin' Habits",
-      "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
+      "duration_ms": 271426,
+      "name": "Sweet Dynamite!",
+      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Tiger in a Cage",
+        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rawls",
+          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
+        }
+      ],
+      "duration_ms": 265053,
+      "name": "Reckless Heart",
+      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "I Can't Hold It",
+      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -979,6 +963,22 @@
       "duration_ms": 236146,
       "name": "Black Cat Roun' My Do'",
       "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Cheatin' Habit",
+        "url": "https://open.spotify.com/album/6eeNKMUfztxq7CL6nYKyQc"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Kick My Cheatin' Habits",
+      "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
     }
   ],
   "unique_name": "Soul Blues",

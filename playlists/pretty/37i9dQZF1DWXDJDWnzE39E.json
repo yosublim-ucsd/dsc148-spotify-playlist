@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 609990,
+  "num_followers": 610377,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMGNkNDA1YWI5MWIyMzk1ZWJkMzFlNThmYTFhOWQxYzkx",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDA3OTQyYmIzZDcwMzQ5NjhjMmQwMjkzMWZmZDY0YTI1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
     },
     {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "You're Not Gone, You're Just Dead!",
+        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 175229,
+      "name": "You're Not Gone, You're Just Dead!",
+      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
+    },
+    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Seize the Power",
@@ -263,22 +279,6 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "You're Not Gone, You're Just Dead!",
-        "url": "https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 175229,
-      "name": "You're Not Gone, You're Just Dead!",
-      "url": "https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1"
     },
     {
       "added_at": "2023-01-20 14:00:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 225692,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
       "added_at": "2023-02-10 15:44:35",
@@ -395,22 +395,6 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
     },
     {
       "added_at": "2023-03-02 22:02:34",
@@ -431,22 +415,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "The Phantom Agony (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Sensorium",
-      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 302179,
       "name": "How's the Heart?",
       "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -639,38 +639,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Sad Girl Mixtape",
-        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 155342,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
-    },
-    {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 245470,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 155342,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -737,10 +737,10 @@
       "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-02 22:02:34",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+        "name": "BEAVER CAGE",
+        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+      "duration_ms": 218487,
+      "name": "BEAVER CAGE",
+      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 300647,
       "name": "Flux",
       "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
+      },
+      "artists": [
+        {
+          "name": "ODC",
+          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
+        }
+      ],
+      "duration_ms": 221987,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
-      },
-      "artists": [
-        {
-          "name": "ODC",
-          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
-        }
-      ],
-      "duration_ms": 221987,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 189773,
       "name": "My Demon",
       "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Ghost Myself",
+        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ghost Myself",
+      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1207,22 +1223,6 @@
       "duration_ms": 193068,
       "name": "Do Or Die (feat. Nathan James)",
       "url": "https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Ghost Myself",
-        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ghost Myself",
-      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Selkie",
-        "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 263799,
-      "name": "Selkie",
-      "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
-    },
-    {
       "added_at": "2023-03-24 00:00:00",
       "album": {
         "name": "HATE PARTY",
@@ -1307,6 +1291,22 @@
       "duration_ms": 148591,
       "name": "HATE PARTY",
       "url": "https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Selkie",
+        "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 263799,
+      "name": "Selkie",
+      "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
     },
     {
       "added_at": "2022-11-18 01:31:53",

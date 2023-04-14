@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Kuban",
+  "description": "Il meglio dell'R&B italiano. Cover: Ernia, Mara Sattei",
   "name": "anima R&B",
   "tracks": [
     {
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Acquario & Scorpione",
+        "url": "https://open.spotify.com/album/4cDyy2xlGdSLJSevWQosQn"
+      },
+      "artists": [
+        {
+          "name": "Nane'",
+          "url": "https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Acquario & Scorpione",
+      "url": "https://open.spotify.com/track/6gafnI4O74FPg2l78XZEgl"
+    },
+    {
+      "album": {
         "name": "NHP+",
         "url": "https://open.spotify.com/album/4b8b3XF7WiMNaUXQ8Kf5Yi"
       },
@@ -234,6 +252,24 @@
       "duration_ms": 143865,
       "name": "As Long As You Love Me",
       "url": "https://open.spotify.com/track/00QIeW8X78Q8Mse4bfXyFS"
+    },
+    {
+      "album": {
+        "name": "ascensore",
+        "url": "https://open.spotify.com/album/2CMho8a9CufZTptXTsOAyJ"
+      },
+      "artists": [
+        {
+          "name": "Sbazzee",
+          "url": "https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171785,
+      "name": "ascensore",
+      "url": "https://open.spotify.com/track/1PHNQ4SfHZKi7pqokee82n"
     },
     {
       "album": {
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 198519,
       "name": "IL MIO NOME",
       "url": "https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa"
@@ -3045,6 +3081,32 @@
     },
     {
       "album": {
+        "name": "Lucky Strike (feat. Hermes & 3 di Fiori)",
+        "url": "https://open.spotify.com/album/3f2u1DrrW9DkhqQbj3RwJN"
+      },
+      "artists": [
+        {
+          "name": "Simon Bayle",
+          "url": "https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay"
+        },
+        {
+          "name": "HERMES",
+          "url": "https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm"
+        },
+        {
+          "name": "3 di Fiori",
+          "url": "https://open.spotify.com/artist/42BlcLDQwItNbFvWrMf8lT"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173999,
+      "name": "Lucky Strike - feat. Hermes & 3 di Fiori",
+      "url": "https://open.spotify.com/track/0xvnUwtqupUxIZ6omHeRqi"
+    },
+    {
+      "album": {
         "name": "Lui",
         "url": "https://open.spotify.com/album/1bIh6pQCJh7OBIWpqtQDZd"
       },
@@ -3208,7 +3270,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 191524,
       "name": "Mama",
       "url": "https://open.spotify.com/track/3Ry2ZBM6XaCDPpZaMuFE9v"
@@ -3896,7 +3958,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 146473,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/3HKKh1DDcgRxOFAFFd0sAi"
@@ -4495,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Rolling Back",
+        "url": "https://open.spotify.com/album/1FYTeNMwFwtqxlHtTStLPz"
+      },
+      "artists": [
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/4EGBfa2ShqPAm6t4djglFj"
+    },
+    {
+      "album": {
         "name": "Rompicapo",
         "url": "https://open.spotify.com/album/6MFIK0ZAfWVeu8gnqmWY3R"
       },
@@ -4576,6 +4656,24 @@
       "duration_ms": 208636,
       "name": "Sabbie Mobili (feat. Davide Shorty)",
       "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
+    },
+    {
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/629H7nL8k2fc0etekuLo27"
+      },
+      "artists": [
+        {
+          "name": "Kaze",
+          "url": "https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178788,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75"
     },
     {
       "album": {
@@ -5528,7 +5626,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 181764,
       "name": "tsunami",
       "url": "https://open.spotify.com/track/2Nj2I8V46TI6xIobJ2GWYn"
@@ -5894,7 +5992,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 197713,
       "name": "Volevo Portarti Al Mare",
       "url": "https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr"

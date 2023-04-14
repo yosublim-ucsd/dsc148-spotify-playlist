@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,591 likes - 365 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,027 likes - 364 songs - 17 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,20 +18,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 8 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 |
 | 9 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 |
 | 10 | [Alima](https://open.spotify.com/track/60ihi5DukD0bd4kUBvteWe) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Alima](https://open.spotify.com/album/3TWKhBt6dL1MfBQ4jFz4Iy) | 2:46 |
-| 11 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 |
-| 12 | [Expression](https://open.spotify.com/track/5zdCyjtjf8iQmgm0wTqDa8) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 3:12 |
-| 13 | [Gliese](https://open.spotify.com/track/7C5x254psvTlNDG2mEChM8) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Gliese](https://open.spotify.com/album/1OhiQouKE3J1m02zsDZ1JR) | 2:25 |
-| 14 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
-| 15 | [My Heartland](https://open.spotify.com/track/6TMW0y1ArS2OZrqUjD1eVK) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [My Heartland](https://open.spotify.com/album/4lMEywIVP4PrPT3ZTiZsGc) | 2:34 |
-| 16 | [Soothing Silence](https://open.spotify.com/track/3upcrEDvoH2Bz9i7hZc2Jh) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Soothing Silence](https://open.spotify.com/album/4eQ7KKy8yS84W0SrvIH7LP) | 3:10 |
-| 17 | [Serene Whispers](https://open.spotify.com/track/0TBVoUf9V9At4BqV9cLPGb) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Droplets of Dreams](https://open.spotify.com/album/0iRfBFgAWo7mLLbp4eJzxg) | 3:18 |
-| 18 | [Transcendent \(Ambient\)](https://open.spotify.com/track/1Vy4HAb0RScGjasnr0KOJ8) | [Valentinah Garcia](https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN) | [Transcendent](https://open.spotify.com/album/0Ic6OFgw0fuyvTcdW2Hgcd) | 2:13 |
-| 19 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 |
-| 20 | [Anwylyd](https://open.spotify.com/track/50SAhWlin3hqIkk87Gaxu7) | [Conah Bouvet](https://open.spotify.com/artist/5KfatZQz2qU0zfnk3rU8mE) | [Anwylyd](https://open.spotify.com/album/1eiFCzhN1sar6JXDdOG5Df) | 3:32 |
-| 21 | [Shaping](https://open.spotify.com/track/52dK8dvRR0CE4FvQi6HeVv) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Clouds](https://open.spotify.com/album/2y4o1nOSUMFUmlGJxWCS31) | 3:18 |
-| 22 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 |
-| 23 | [Moreno](https://open.spotify.com/track/2vPeFaECZD3zK4rY3cdweX) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [Moreno](https://open.spotify.com/album/2mXxVSVr7GGRGY9PPjt9F2) | 2:27 |
-| 24 | [Pile](https://open.spotify.com/track/49gyEFmwyvHPkKkM3rs6Pu) | [Tine’s](https://open.spotify.com/artist/5xAkneraY1ncz5eO2xopg6) | [Darshannon](https://open.spotify.com/album/36SUU4avh3y7Sv1Tymap0l) | 3:32 |
+| 11 | [Whispered Views](https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Whispered Views](https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY) | 2:52 |
+| 12 | [Here And There](https://open.spotify.com/track/2CHT0b02VjzQokfGso30lz) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Pulse](https://open.spotify.com/album/3ASv66CgbPxVKDPzq7ELGT) | 2:58 |
+| 13 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 |
+| 14 | [Expression](https://open.spotify.com/track/5zdCyjtjf8iQmgm0wTqDa8) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 3:12 |
+| 15 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
+| 16 | [My Heartland](https://open.spotify.com/track/6TMW0y1ArS2OZrqUjD1eVK) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [My Heartland](https://open.spotify.com/album/4lMEywIVP4PrPT3ZTiZsGc) | 2:34 |
+| 17 | [Soothing Silence](https://open.spotify.com/track/3upcrEDvoH2Bz9i7hZc2Jh) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Soothing Silence](https://open.spotify.com/album/4eQ7KKy8yS84W0SrvIH7LP) | 3:10 |
+| 18 | [Serene Whispers](https://open.spotify.com/track/0TBVoUf9V9At4BqV9cLPGb) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Droplets of Dreams](https://open.spotify.com/album/0iRfBFgAWo7mLLbp4eJzxg) | 3:18 |
+| 19 | [Transcendent \(Ambient\)](https://open.spotify.com/track/1Vy4HAb0RScGjasnr0KOJ8) | [Valentinah Garcia](https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN) | [Transcendent](https://open.spotify.com/album/0Ic6OFgw0fuyvTcdW2Hgcd) | 2:13 |
+| 20 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 |
+| 21 | [Anwylyd](https://open.spotify.com/track/50SAhWlin3hqIkk87Gaxu7) | [Conah Bouvet](https://open.spotify.com/artist/5KfatZQz2qU0zfnk3rU8mE) | [Anwylyd](https://open.spotify.com/album/1eiFCzhN1sar6JXDdOG5Df) | 3:32 |
+| 22 | [Shaping](https://open.spotify.com/track/52dK8dvRR0CE4FvQi6HeVv) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Clouds](https://open.spotify.com/album/2y4o1nOSUMFUmlGJxWCS31) | 3:18 |
+| 23 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 |
+| 24 | [Moreno](https://open.spotify.com/track/2vPeFaECZD3zK4rY3cdweX) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [Moreno](https://open.spotify.com/album/2mXxVSVr7GGRGY9PPjt9F2) | 2:27 |
 | 25 | [Kupenya](https://open.spotify.com/track/67E5gHkxme0nSKxCrWC5LJ) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Kupenya](https://open.spotify.com/album/2fQ2GPh52TOEG2s3YWVSzR) | 3:10 |
 | 26 | [Unistades](https://open.spotify.com/track/5x7KQWWwQDcqvMN0HbfjfM) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Unistades](https://open.spotify.com/album/3zzLmx3Gmgis01wXxcMi9H) | 2:45 |
 | 27 | [Bland Minnen](https://open.spotify.com/track/1GPtXZ0BuMsaURDQQxQIR1) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Bland Minnen](https://open.spotify.com/album/3QKjt5vYNd6cGTbdCgRbQQ) | 2:38 |
@@ -372,6 +372,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 362 | [Mission Control](https://open.spotify.com/track/12qiIPwFmB7J7Ufmru88XD) | [Astor Petra](https://open.spotify.com/artist/5nhT90eO0VFPDhiBS7tuOE) | [One Astronaut](https://open.spotify.com/album/3FXc1aNU0tqaoOy0md8GZS) | 3:12 |
 | 363 | [Inside Preciousness](https://open.spotify.com/track/2eelYEZLIgBo2teCZ1HoMg) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Continuum](https://open.spotify.com/album/1HRBd6bU9JxHmzGOHX2HJn) | 3:51 |
 | 364 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 |
-| 365 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 |
 
-Snapshot ID: `MTY4MDc4Nzg4MCwwMDAwMDAwMGZkNjY0OWRkNGQ1ZTNhNTc1Nzg1NzQxODc5YzA3Yjlm`
+Snapshot ID: `MTY4MTQwMjIyNSwwMDAwMDAwMGZiODI4ZGQ4NTNkNjNlYTI3YjJiZWI1YzUxNmUzNmZi`

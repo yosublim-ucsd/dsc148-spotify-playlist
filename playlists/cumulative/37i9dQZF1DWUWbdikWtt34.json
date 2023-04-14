@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Aulia",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -602,6 +602,24 @@
       "duration_ms": 270733,
       "name": "Kartonyono Medot Janji",
       "url": "https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t"
+    },
+    {
+      "album": {
+        "name": "Kau Tawarkan Setia",
+        "url": "https://open.spotify.com/album/1N2X1b2rkqK6XGUjjdyDfv"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264355,
+      "name": "Kau Tawarkan Setia",
+      "url": "https://open.spotify.com/track/1OvqS8BSe9fd89WLb6B2vR"
     },
     {
       "album": {

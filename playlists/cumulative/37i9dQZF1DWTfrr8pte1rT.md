@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: Sullivan King \\m/
 
-293 songs - 16 hr 49 min
+294 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Drowning In It](https://open.spotify.com/track/41wvy0sdybjSqAQZ3dD9x5) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [What is Really Underneath?](https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y) | 3:08 | 2023-02-17 | 2023-03-20 |
 | [Dummy \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 2:22 | 2022-06-24 |  |
 | [Dummy \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/4Fgbypn4hVKhTOod1znr7R) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0nYANmyBQ7XDagp9SZfAvc) | 2:22 | 2021-12-10 | 2022-07-29 |
-| [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 | 2022-06-24 |  |
+| [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 | 2022-06-24 | 2023-04-14 |
 | [Dying To Know You](https://open.spotify.com/track/7KD8qQSdaWUVjECHhqRtaQ) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/33Efdv2w7tLBoLOm0mtVt9) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [Dynamo](https://open.spotify.com/track/7A0T48jL3L6IjqUDku4QWc) | [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [Monstercat Instinct Vol\. 1](https://open.spotify.com/album/5Pk3QLxMsbaj3vwxffAG3X) | 3:59 | 2021-12-10 | 2022-01-29 |
 | [Electric Eye \- Single Edit](https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Electric Eye](https://open.spotify.com/album/0wOIF81jYqP2a77QPJVbf3) | 2:45 | 2022-07-15 | 2022-12-06 |
@@ -167,6 +167,7 @@
 | [LOVE ME](https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ) | 3:24 | 2021-12-10 | 2023-03-15 |
 | [LOVE ME](https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu), [Gabriel Paris](https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4) | [LOVE ME](https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb) | 3:24 | 2023-03-17 |  |
 | [LOVE ME HATE ME \- VIP](https://open.spotify.com/track/3vM9GmGlJxPnFTPuBffPOD) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [NEW BREED \(DELUXE VIP\)](https://open.spotify.com/album/0RTU6XjmR2EBcY8rJwUgs9) | 3:18 | 2023-01-13 |  |
+| [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 | 2023-04-14 |  |
 | [Love You For All Time](https://open.spotify.com/track/3Lu1fijr9XkO4eSfhya2cG) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Love You For All Time](https://open.spotify.com/album/0nQSAZ1UORnjj5L3SVkCkm) | 2:37 | 2022-04-01 | 2022-11-12 |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2021-12-10 |  |
 | [Mad Love](https://open.spotify.com/track/0J2EcQZQUsmUzO5YFXz7PS) | [Big X](https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu), [Eko Zu](https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ) | [Mad Love](https://open.spotify.com/album/0JP9RVQrQJ4Da54nfOJWJs) | 2:28 | 2022-06-24 | 2022-12-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 628338,
+  "num_followers": 628600,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMGYzNjkzMTkwNGJmZmNiNGI5NzMwMDk1OTFhYmRkMDM0",
+  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMDc2ZTNmYTQ0NGQzNGY3YjMxMDM4YjRjNzM0MWM3NTMy",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Intensamente Con Canciones de Juan Gabriel",
         "url": "https://open.spotify.com/album/3OrTxdDP1E286UALbB9T0D"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 239363,
       "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/27dI6gpXKW1EYl0L7JHsJb"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+        "name": "Muy Agradecido",
+        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
+      "duration_ms": 273746,
+      "name": "La Salsa Vive",
+      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Muy Agradecido",
-        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 273746,
-      "name": "La Salsa Vive",
-      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Grandes Exitos - Live",
-        "url": "https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 441360,
-      "name": "Un Verano En Nueva York",
-      "url": "https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Una Historia Musical",
         "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Grandes Exitos - Live",
+        "url": "https://open.spotify.com/album/68YffUBPn4Td5mBE1hxFgE"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 441360,
+      "name": "Un Verano En Nueva York",
+      "url": "https://open.spotify.com/track/2BNonWqC7arlCrknZPyoEN"
     },
     {
       "added_at": "2023-03-17 00:48:14",

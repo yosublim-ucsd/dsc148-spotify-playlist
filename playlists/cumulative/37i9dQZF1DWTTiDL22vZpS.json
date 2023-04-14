@@ -182,10 +182,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 196588,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
+    },
+    {
+      "album": {
+        "name": "Comida",
+        "url": "https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219505,
+      "name": "Comida",
+      "url": "https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa"
     },
     {
       "album": {
@@ -549,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
+    },
+    {
+      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -731,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202563,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI"
+    },
+    {
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -790,7 +848,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 166475,
       "name": "LIKE THAT! \u26a1",
       "url": "https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A"
@@ -826,7 +884,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Mi Necedad",
       "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
@@ -982,7 +1040,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 237909,
       "name": "nuncatevayasnunca",
       "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
@@ -1069,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+    },
+    {
+      "album": {
         "name": "Multicolor",
         "url": "https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC"
       },
@@ -1120,7 +1196,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
@@ -1250,7 +1326,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 234880,
       "name": "Todos Lo Hacen",
       "url": "https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0"

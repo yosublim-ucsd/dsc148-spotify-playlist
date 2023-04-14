@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-366 songs - 1 day 0 hr 33 min
+367 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-11-03 | 2023-03-29 |
 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 | 2023-03-14 | 2023-04-05 |
 | [I'll take it](https://open.spotify.com/track/4AHLzWKtDb1eBIdHpOCOmz) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [DESSERTS](https://open.spotify.com/album/4fPMQPu5tsW7LxXrunroaD) | 3:28 | 2023-03-28 |  |
-| [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-25 |  |
+| [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-25 | 2023-04-14 |
 | [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-03-02 | 2023-03-25 |
 | [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 | 2023-02-28 |  |
 | [in a bad mood](https://open.spotify.com/track/2DYV8CJNubnEoC9SDW02FV) | [Saki Ideshima](https://open.spotify.com/artist/1EyeJihPNpFqi21fhxEvkh) | [in a bad mood](https://open.spotify.com/album/5oAiPDiYRt7Io4TjGU2WMi) | 5:05 | 2023-01-31 | 2023-03-01 |
@@ -145,6 +145,7 @@
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2022-10-20 | 2023-01-11 |
 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 | 2023-02-28 |  |
 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-05 | 2023-02-17 |
+| [LAW OF AWAKENING](https://open.spotify.com/track/2ZpaOyC5BtYzVCkWERZqW0) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Anzu Suhara](https://open.spotify.com/artist/6u30byKtb0cli6RU2iD1yj), [Junpei Hayashida](https://open.spotify.com/artist/7EFqed0fHG85IGP3XEbGo3), [Kensuke Yamauchi](https://open.spotify.com/artist/06xDUa8BpV0lfRPwWxBr15) | [LAW OF AWAKENING](https://open.spotify.com/album/7JWMMfWgw4fPYXm0cpWwgC) | 4:32 | 2023-04-13 |  |
 | [Le Cygne \(The Swan\)](https://open.spotify.com/track/1Ke4gVLpNH2FB8DoyfKU1D) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [宮田 大](https://open.spotify.com/artist/6NlblLui5L3Nj9yLEa7Tze) | [Le Cygne \(The Swan\)](https://open.spotify.com/album/0n9PAU1YiFqWuc1u6wqUZu) | 3:10 | 2023-02-28 | 2023-03-10 |
 | [Le sacre du printemps / Pt\. 1: L'Adoration de la terre: I\. Introduction](https://open.spotify.com/track/6rDWYsrUT5AWGzKrd6HBcn) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Stravinsky: The Rite of Spring & The Firebird](https://open.spotify.com/album/00nSKllX1m5sYIaGiSw3Sf) | 3:33 | 2023-03-23 |  |
 | [LE TOMBEAU DE COUPERIN:V\. Menuet](https://open.spotify.com/track/0vdUSUa8qNz4m9T73rr17v) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [AYA NAGATOMI](https://open.spotify.com/artist/5yP9w1BcV6K0yW51Njt8tv) | [Maurice RAVEL: Gaspard de la Nuit](https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu) | 5:26 | 2023-02-28 |  |

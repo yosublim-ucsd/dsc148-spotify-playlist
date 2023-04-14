@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 188368,
       "name": "love nwantiti (feat. Dj Yo! & AX'EL) - Remix",
       "url": "https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU"
@@ -1941,6 +1941,32 @@
     },
     {
       "album": {
+        "name": "Mas Existe um Lugar (speed)",
+        "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141615,
+      "name": "Mas Existe um Lugar - speed",
+      "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
+    },
+    {
+      "album": {
         "name": "Meca Cereja",
         "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
       },
@@ -1997,6 +2023,32 @@
     },
     {
       "album": {
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -2012,6 +2064,24 @@
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+    },
+    {
+      "album": {
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "album": {
@@ -2154,6 +2224,32 @@
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "Ningu\u00e9m T\u00e1 Puro!",
+        "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160975,
+      "name": "Noite Fria",
+      "url": "https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY"
     },
     {
       "album": {
@@ -3142,7 +3238,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 130254,
       "name": "Ultimamente Speed",
       "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
@@ -3205,6 +3301,32 @@
     },
     {
       "album": {
+        "name": "Vacil\u00e3o",
+        "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Igow",
+          "url": "https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "Vacil\u00e3o",
+      "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
+    },
+    {
+      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -3216,7 +3338,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 152690,
       "name": "VERMELHO",
       "url": "https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7"

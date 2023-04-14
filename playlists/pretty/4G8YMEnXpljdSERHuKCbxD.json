@@ -1,13 +1,29 @@
 {
   "description": "Listen to the same playlist that\u2019s playing through the halls of the world famous Warner Records!",
-  "num_followers": 8269,
+  "num_followers": 8273,
   "original_name": "Now Playing at Warner Records",
   "owner": {
     "name": "Warner Records",
     "url": "https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h"
   },
-  "snapshot_id": "NDUyLGFhZDkxZGU0M2Q3MmY5NjcwMTg2OThhNDhiZDEzZjg4NGMxOWUxODU=",
+  "snapshot_id": "NDU0LDA0NGEyMzAzNGM4M2JmNzY2NDg3NDgzOTU2NWNmMmQ2MDgwYzUxMTQ=",
   "tracks": [
+    {
+      "added_at": "2023-04-13 23:54:38",
+      "album": {
+        "name": "Pin-Up Daddy",
+        "url": "https://open.spotify.com/album/3wOUeHEdo8G3QY3N6e0LwR"
+      },
+      "artists": [
+        {
+          "name": "Rett Madison",
+          "url": "https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F"
+        }
+      ],
+      "duration_ms": 251158,
+      "name": "Pin-Up Daddy",
+      "url": "https://open.spotify.com/track/4VQ8UDGBLpCxBgTNbOmnxs"
+    },
     {
       "added_at": "2022-02-16 18:12:44",
       "album": {

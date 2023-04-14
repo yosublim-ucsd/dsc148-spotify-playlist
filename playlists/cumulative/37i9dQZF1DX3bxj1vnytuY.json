@@ -3467,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Take Care (Maz Remix)",
+        "url": "https://open.spotify.com/album/1A6cETJramuODrakRUSlWH"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308934,
+      "name": "Take Care - Maz Remix",
+      "url": "https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0"
+    },
+    {
+      "album": {
         "name": "Teak",
         "url": "https://open.spotify.com/album/3pdVTHeoE6XsBd1rWFEOUr"
       },

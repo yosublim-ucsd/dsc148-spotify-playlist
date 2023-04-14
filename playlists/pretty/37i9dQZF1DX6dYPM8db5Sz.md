@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=GRkdBRNXRs\-c3\_OL2XTfrA">Lucy Kruger & The Lost Boys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,750 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,760 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

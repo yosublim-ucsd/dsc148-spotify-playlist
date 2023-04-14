@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 470833,
+  "num_followers": 470861,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDFhODhlZDllNGQyMzYzY2EyODczMGY3NTkwMTM1OWY1",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGM0NTQwMjMxNjhiMjZiYTdiZjgxMTE4MmI1OWM5YWVk",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Anti-Hero (Country Version)",
         "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 190470,
       "name": "Anti-Hero - Country Version",
       "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "For Better, Or Worse",
-        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Fiona Prine",
-          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
-        }
-      ],
-      "duration_ms": 175334,
-      "name": "My Happiness (feat. Fiona Prine)",
-      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Farewell Transmission b/w The Dark Don\u2019t Hide It",
         "url": "https://open.spotify.com/album/1ArXidz2XpohzAXAFYm2tF"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Fiona Prine",
+          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
+        }
+      ],
+      "duration_ms": 175334,
+      "name": "My Happiness (feat. Fiona Prine)",
+      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1660,22 +1660,6 @@
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX"
       },
@@ -1723,6 +1723,22 @@
       "duration_ms": 295334,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1759,34 +1775,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+      "duration_ms": 201160,
+      "name": "You Turn Me On, I'm a Radio - Acoustic",
+      "url": "https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1807,34 +1807,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 201160,
-      "name": "You Turn Me On, I'm a Radio - Acoustic",
-      "url": "https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Bluebird Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1851,6 +1835,22 @@
       "duration_ms": 201851,
       "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Gentle On My Mind",
-        "url": "https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 245315,
-      "name": "Gentle On My Mind",
-      "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "This Land Is Your Land",
         "url": "https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 220621,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Gentle On My Mind",
+        "url": "https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 245315,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Skinny Love (Country Version)",
-        "url": "https://open.spotify.com/album/6RSaaIs4oHwZuA5wh9muvC"
+        "name": "Little Hands",
+        "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "Charlie Simpson",
+          "url": "https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9"
         }
       ],
-      "duration_ms": 158340,
-      "name": "Skinny Love (Country Version)",
-      "url": "https://open.spotify.com/track/7gUDLbl3co7AL5oo4xPYu9"
+      "duration_ms": 367333,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
     }
   ],
   "unique_name": "Folksy Covers",

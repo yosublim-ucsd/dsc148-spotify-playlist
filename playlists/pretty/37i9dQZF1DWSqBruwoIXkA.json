@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: Lizzy McAlpine",
-  "num_followers": 1487781,
+  "num_followers": 1488703,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI0MzE2MCwwMDAwMDAwMDBkNjI3YTY2OWQ4ODc4NDQ3NzU2ZGZlZWNkNTRmOTU5",
+  "snapshot_id": "MTY4MTI0MzE2MCwwMDAwMDAwMDA1NzQ0ODkwOWViYTQ4NTBjZTA5MjUwN2M1Zjc2MDJl",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "My Mind & Me",
-        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "My Mind & Me",
-      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "My Mind & Me",
+        "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 191830,
-      "name": "this is what sadness feels like",
-      "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "closer to closure",
         "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 191830,
+      "name": "this is what sadness feels like",
+      "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 127293,
+      "name": "While You're At It",
+      "url": "https://open.spotify.com/track/3SQJJ5wTW8y40TE0abStR6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
         }
       ],
-      "duration_ms": 127293,
-      "name": "While You're At It",
-      "url": "https://open.spotify.com/track/3SQJJ5wTW8y40TE0abStR6"
+      "duration_ms": 143960,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 198053,
       "name": "Just Married",
       "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Girl Of My Dreams (Deluxe)",
-        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Better Version (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "better off without me",
         "url": "https://open.spotify.com/album/6NpbtHJjrRHeYqlyUaZa35"
       },
@@ -1831,22 +1811,6 @@
       "duration_ms": 170211,
       "name": "better off without me",
       "url": "https://open.spotify.com/track/1Ip5p31SowqjJLo2ss1afJ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Never Had a Chance",
-        "url": "https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Never Had a Chance",
-      "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1867,6 +1831,42 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Girl Of My Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Better Version (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Never Had a Chance",
+        "url": "https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Never Had a Chance",
+      "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Keep Your Head Up Princess",
         "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
       },
@@ -1879,6 +1879,22 @@
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "trust issues",
-        "url": "https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 134262,
-      "name": "trust issues",
-      "url": "https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "I Tried",
         "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 136182,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "trust issues",
+        "url": "https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 134262,
+      "name": "trust issues",
+      "url": "https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1959,22 +1975,6 @@
       "duration_ms": 132106,
       "name": "dear god",
       "url": "https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 341733,
-      "name": "Silver Springs - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
-      "url": "https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "georgia got colder",
         "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
@@ -2043,6 +2027,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Silver Springs - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Fat Funny Friend (sadder)",
         "url": "https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY"
       },
@@ -2055,6 +2055,22 @@
       "duration_ms": 202319,
       "name": "Fat Funny Friend (sadder)",
       "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2105,22 +2121,6 @@
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "pain's my only home",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Three. Two. One.",
-        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Forget I Exist",
         "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 172626,
       "name": "Forget I Exist",
       "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Three. Two. One.",
+        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 221377,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "LET THE GRASS GROW",
         "url": "https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu"
       },
@@ -2267,18 +2283,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk"
+        "name": "amnesia",
+        "url": "https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
         }
       ],
-      "duration_ms": 221377,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
+      "duration_ms": 172723,
+      "name": "amnesia",
+      "url": "https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2299,22 +2315,6 @@
       "duration_ms": 266219,
       "name": "london",
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "amnesia",
-        "url": "https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH"
-      },
-      "artists": [
-        {
-          "name": "Camylio",
-          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "amnesia",
-      "url": "https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "if depression gets the best of me",
-        "url": "https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "if depression gets the best of me",
-      "url": "https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Secondhand Smoke",
         "url": "https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 243180,
       "name": "Secondhand Smoke",
       "url": "https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "if depression gets the best of me",
+        "url": "https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "if depression gets the best of me",
+      "url": "https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,043 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,076 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 40 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
 | 41 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 |
 | 42 | [Canciones de Don](https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Canciones de Don](https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz) | 2:44 |
-| 43 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 |
-| 44 | [Dm](https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv) | 3:04 |
+| 43 | [Dm](https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv) | 3:04 |
+| 44 | [Tas Clara](https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tas Clara](https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc) | 3:50 |
 | 45 | [necesito un break de tanta pendejad\*](https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [necesito un break de tanta pendejad\*](https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT) | 2:58 |
 | 46 | [Ceniza](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Ceniza](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 |
 | 47 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 49 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
 | 50 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 |
 | 51 | [Me Tientas \- Remix](https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe) | [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Me Tientas \(Remix\)](https://open.spotify.com/album/2JZUX0M1kl0BGD5dBqem6Z) | 3:05 |
-| 52 | [El Baile De Perrito](https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5) | [Partylifemusic](https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [El Baile De Perrito](https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd) | 2:32 |
-| 53 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
+| 52 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
+| 53 | [El Baile De Perrito](https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5) | [Partylifemusic](https://open.spotify.com/artist/5OVeNR2p1uGMI10M1iwwGX), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [El Baile De Perrito](https://open.spotify.com/album/1pvqhia3KYzfs50eMyRqkd) | 2:32 |
 | 54 | [SUÉLTATE](https://open.spotify.com/track/5nufaDKoPcE2A6P9aQG48Y) | [ADRYY](https://open.spotify.com/artist/5O63cA75kC3bexODJyDXRu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [JEANN](https://open.spotify.com/artist/6MtGRdbt1jvr6GJJHTyOHy) | [SUÉLTATE](https://open.spotify.com/album/49UiQIdZCwPpf3KVo7RO2C) | 3:48 |
 | 55 | [Viaje](https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Viaje](https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI) | 3:24 |
 
-Snapshot ID: `MTY4MDg0NzIwMCwwMDAwMDAwMDE2YTZkM2UxNzVlOWZmZTVlNWVlOTc0MDA4MWIzYjNm`
+Snapshot ID: `MTY4MDg0NzIwMCwwMDAwMDAwMDQ2OTVjYThhOGI1MzUxNzY4YTk5OTViOWQ4ZWU1OWRm`

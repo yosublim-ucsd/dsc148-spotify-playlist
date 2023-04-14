@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: ODIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,069 likes - 110 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,255 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: Q",
-  "num_followers": 778666,
+  "num_followers": 778650,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDU0ZjYxZDgyZmEwZjkyM2E3NDJlMmNmMTg3NjIyOGQ1",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDkxYWZkMjVhZmY4ZDA2ZWFhMTFjODMxMzI4NzZhYWJl",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -867,42 +867,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        },
-        {
-          "name": "Rosie Lowe",
-          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -939,6 +903,42 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        },
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK"
       },
@@ -951,26 +951,6 @@
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Honeysuckle Neckbone",
-        "url": "https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Honeysuckle Neckbone",
-      "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -991,6 +971,26 @@
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Honeysuckle Neckbone",
+        "url": "https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Honeysuckle Neckbone",
+      "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1055,6 +1055,38 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "For Granted (feat. Arin Ray & 9th Wonder)",
+        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "For Granted (feat. Arin Ray & 9th Wonder)",
+      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1115,6 +1147,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -1135,50 +1183,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Rainforest",
-        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 162436,
-      "name": "Rainforest",
-      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 201917,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Stressed - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Stressed - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Stressed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Stressed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Athletic Progression",
         "url": "https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 271250,
       "name": "White Crayon",
       "url": "https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/7bHN1qUOLFRDJN1yclz0vg"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/7euupBRn1BnMdWecnyBWU6"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/5SusLOd5pOU6akwkkODXf5"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Go! Common Classics",
+        "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "Love Of My Life (An Ode To Hip Hop) - Longer Album Version",
+      "url": "https://open.spotify.com/track/0ieS2bue78yadTdPiyzsaO"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -1623,22 +1643,6 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "From A Lover",
-      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Go! Common Classics",
-        "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 337573,
-      "name": "Love Of My Life (An Ode To Hip Hop) - Longer Album Version",
-      "url": "https://open.spotify.com/track/0ieS2bue78yadTdPiyzsaO"
+      "duration_ms": 175173,
+      "name": "From A Lover",
+      "url": "https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Comfortable Enough",
+        "url": "https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 140035,
+      "name": "To Be",
+      "url": "https://open.spotify.com/track/197dKSfHn5wKcyIIAsx5iP"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "If The Love Goes - A COLORS SHOW",
         "url": "https://open.spotify.com/album/39QsjJesAI2ufMadu1NRzu"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 223963,
       "name": "If The Love Goes - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6fcFACL3GGEynUlyvmbqRt"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Comfortable Enough",
-        "url": "https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 140035,
-      "name": "To Be",
-      "url": "https://open.spotify.com/track/197dKSfHn5wKcyIIAsx5iP"
     },
     {
       "added_at": "2023-04-07 04:01:00",

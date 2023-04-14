@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5935\)
+## Playlists \(5937\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -300,7 +300,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [A Very Mindy Weiss Wedding](/playlists/pretty/37i9dQZF1DWWcp8vZ8TtVI.md)
 - [A.M\. Commute](/playlists/pretty/1UQo7foKwUUMjb9KnaBE3S.md)
 - [ABAT∑RA](/playlists/pretty/37i9dQZF1DWYtEjm4ihp5w.md)
-- [ACM Honors 2022](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md)
+- [ACM Awards 2023](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md)
 - [AGLF Playlist](/playlists/pretty/3g2x83PnE4udquzQctBOSF.md)
 - [ALT NOW](/playlists/pretty/37i9dQZF1DWVqJMsgEN0F4.md)
 - [ALTER\-native](/playlists/pretty/37i9dQZF1DWVx80ckNwI92.md)
@@ -1843,6 +1843,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#042](/playlists/pretty/37i9dQZF1DX5Kud7MBZwLV.md)
 - [Fuego \#043 \- Eladio Carrion's Mixtape](/playlists/pretty/37i9dQZF1DX4Ftreulr4K7.md)
 - [Fuego \#044](/playlists/pretty/37i9dQZF1DX4ZrAsKbr4qB.md)
+- [Fuego \#045](/playlists/pretty/37i9dQZF1DXavshLo85ZrG.md)
+- [Fuego \#046](/playlists/pretty/37i9dQZF1DWTXn4tNlkDvU.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
 - [Funk & Disco Zamaan](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md)
@@ -2001,7 +2003,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- Peso Pluma & Blessd](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- d4vd](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)

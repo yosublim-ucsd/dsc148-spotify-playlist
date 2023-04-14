@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-289 songs - 13 hr 28 min
+291 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [18 ÅR \(Vennepunktet\)](https://open.spotify.com/album/1SfB3H7a92iIff63XWUOz3) | 2:57 | 2022-03-24 | 2023-03-02 |
 | [20 i hue](https://open.spotify.com/track/0RHeLUY9dxaCeVvBc2xQfu) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [20 i hue](https://open.spotify.com/album/3UUjJpEjmSMSTdJGy3nsXI) | 3:22 | 2021-12-16 | 2022-07-10 |
 | [2010](https://open.spotify.com/track/3Vo04mpLNaOsFvBfQmXwv3) | [Bastupojkarna](https://open.spotify.com/artist/3CMNg47101P5uCOI0ywTOQ), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [2010](https://open.spotify.com/album/6MIuZmdka8h6vy84CcItzN) | 3:12 | 2022-03-17 | 2022-07-06 |
+| [5 SHOTS](https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [5 SHOTS](https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln) | 2:08 | 2023-04-13 |  |
 | [A H7 E](https://open.spotify.com/track/5xyCLB8PVyxYIJJdw42oZp) | [Ingemars](https://open.spotify.com/artist/4UfyXFE2NHOawKTKOFQ62J) | [I Finnskogens Rike](https://open.spotify.com/album/3WUNAJ2dwXIKIPAm1nNCkf) | 3:05 | 2021-12-16 | 2022-01-01 |
 | [Adjø](https://open.spotify.com/track/72byZWY2WfbuSI48TINr3g) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Adjø](https://open.spotify.com/album/0cguembDHQiT70WPMNcNJK) | 2:39 | 2021-12-16 | 2022-07-12 |
 | [Aldri tilbake](https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Aldri tilbake](https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O) | 3:21 | 2021-12-16 |  |
@@ -142,6 +143,7 @@
 | [Hæljetur](https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7) | 2:25 | 2021-12-16 | 2022-07-28 |
 | [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 |  |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-19 |  |
+| [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-13 |  |
 | [Ingen Fara, Mamma!](https://open.spotify.com/track/5pKIWdiohAHDgGUwjXJiLm) | [Truse Tarzan](https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ), [Brünost](https://open.spotify.com/artist/0iAVl7yqzaGpEM3LLVT589) | [Ingen Fara, Mamma!](https://open.spotify.com/album/1PnczWmm84V0DfpyYfdqrA) | 2:19 | 2021-12-16 | 2022-10-16 |
 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 | 2022-10-15 |  |
 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 | 2021-12-16 | 2022-07-24 |
@@ -202,7 +204,7 @@
 | [Nå Er Det Fredan Igjen](https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/0kFw68XIGOIjPDa39wgSKb) | 2:50 | 2021-12-16 | 2022-05-11 |
 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 | 2021-12-16 | 2022-11-16 |
 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 | 2021-12-16 |  |
-| [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 |  |
+| [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-10 | 2023-04-14 |
 | [Oppi Ein Dal](https://open.spotify.com/track/6JMatYYmKlvo1I0dNKes5R) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande Fant](https://open.spotify.com/album/6NQHQ6V4o7d2Vd1EGF1lsn) | 3:01 | 2022-01-13 | 2022-04-21 |
 | [Oppi ein dal](https://open.spotify.com/track/6WiAX5SXrCj5z6kk5YrxGb) | [Kruttrøyk](https://open.spotify.com/artist/1e1vDSbWqUyPfETrVY5mM8) | [Farande fant](https://open.spotify.com/album/2hmiqt8cfsJajxqRGJrnUh) | 3:01 | 2022-10-13 | 2022-10-16 |
 | [Oslo \- Takk, jeg er ferdig](https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Oslo \(Takk, jeg er ferdig\)](https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc) | 2:24 | 2021-12-16 | 2022-10-16 |
@@ -244,7 +246,7 @@
 | [SKIPET](https://open.spotify.com/track/2FoaNJ0TLBYI3YbEYF377u) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/7mWe2qgLah9gxLlDXHYEVb) | 2:31 | 2022-04-21 | 2022-05-20 |
 | [SKIPET](https://open.spotify.com/track/2PIEzb11ggvjMpLLSQWjIp) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/280AD6mveKaBGutfj8UWMp) | 2:31 | 2022-05-19 | 2022-07-27 |
 | [Skjenkestopp](https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Skjenkestopp](https://open.spotify.com/album/7LgYrxQA5yqoUp21iiOXZR) | 2:39 | 2021-12-16 | 2022-07-23 |
-| [Skyfri himmel](https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Skyfri himmel](https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM) | 2:52 | 2023-03-16 |  |
+| [Skyfri himmel](https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Skyfri himmel](https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM) | 2:52 | 2023-03-16 | 2023-04-14 |
 | [Snakkes](https://open.spotify.com/track/3gApFQhR9CEqjkCFG1WlKM) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Snakkes](https://open.spotify.com/album/3tf842G9r8jBlGl6ZVdbDp) | 2:43 | 2021-12-16 | 2022-07-14 |
 | [Sofa fra IKEA](https://open.spotify.com/track/02YrJmoMxJEzpede9KDnu6) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Sofa fra IKEA](https://open.spotify.com/album/7HSWhHfsWZf8EbFrq3fGtG) | 2:34 | 2021-12-16 | 2022-07-24 |
 | [Sommar i hardangerfjord](https://open.spotify.com/track/58fywUsgOwg80CV71OrJrO) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Sommar i hardangerfjord](https://open.spotify.com/album/1xaOuqjb9QvqhM3DpOidxD) | 3:22 | 2022-01-27 | 2022-04-21 |

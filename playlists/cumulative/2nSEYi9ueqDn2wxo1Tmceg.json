@@ -6853,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "What Remains (Remixes)",
+        "url": "https://open.spotify.com/album/106vLquuGTSOmZnGl9lHBq"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        },
+        {
+          "name": "Claire Rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457000,
+      "name": "Suicide Dream 1 - Claire Rousay presents 'Suicide Dreams'",
+      "url": "https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX"
+    },
+    {
+      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },

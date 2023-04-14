@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-603 songs - 1 day 2 hr 20 min
+604 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Gocce d'acqua](https://open.spotify.com/track/5GYKdUcKo5iuhHla2ekgS9) | [Andrea Binotto](https://open.spotify.com/artist/5Xns08ygOlTCdopDUjG9x7) | [Gocce d'acqua](https://open.spotify.com/album/575inVw37bOZM4Kn5Pa37f) | 1:49 | 2022-04-21 |  |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2022-04-21 | 2022-07-21 |
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-21 |  |
-| [Gran Paradiso](https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL) | [Sabrina Liszt](https://open.spotify.com/artist/6n135dZybVFYAp3fyK5RgU) | [Tiger Mountain](https://open.spotify.com/album/1rphq17hTPA0uYSToevcdY) | 3:29 | 2022-04-21 |  |
+| [Gran Paradiso](https://open.spotify.com/track/4Yzal0YrY55V7aQeXIeCvL) | [Sabrina Liszt](https://open.spotify.com/artist/6n135dZybVFYAp3fyK5RgU) | [Tiger Mountain](https://open.spotify.com/album/1rphq17hTPA0uYSToevcdY) | 3:29 | 2022-04-21 | 2023-04-14 |
 | [Grandma's Place](https://open.spotify.com/track/75ZDycp7yczZ6AP5FuKb6M) | [Alexandra Zvereca](https://open.spotify.com/artist/3QqdShmpvga08ONuf6PHQZ) | [Grandma's Place](https://open.spotify.com/album/36G7CKOJqo55ZwOfT35CDR) | 1:56 | 2022-04-21 | 2022-07-20 |
 | [Gravitat](https://open.spotify.com/track/3pYRI1DeHnAu5MDsQxdR1U) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Gravitat](https://open.spotify.com/album/5d9ZEYv11fZMtrWx0pJuqd) | 2:30 | 2022-04-21 | 2022-07-21 |
 | [Growth](https://open.spotify.com/track/0qLSBrPZWS7vq9nYo6tcIe) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Growth](https://open.spotify.com/album/680N4M21R3aq1pcyKmJ7Mt) | 2:43 | 2022-04-21 |  |
@@ -468,6 +468,7 @@
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2022-04-21 | 2022-09-24 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-21 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2022-04-21 | 2022-09-24 |
+| [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-12 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2022-04-21 |  |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2022-04-21 | 2023-03-23 |
 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-04-21 | 2022-09-24 |

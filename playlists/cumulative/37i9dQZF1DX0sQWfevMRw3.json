@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "5 SHOTS",
+        "url": "https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128772,
+      "name": "5 SHOTS",
+      "url": "https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H"
+    },
+    {
+      "album": {
         "name": "99 FLASKOR SPRIT",
         "url": "https://open.spotify.com/album/3kRZ4ywZCJDIfFHkiDoumP"
       },
@@ -226,7 +248,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 169906,
       "name": "ALDRIG S\u00c4GA F\u00d6RL\u00c5T",
       "url": "https://open.spotify.com/track/4nitJoSi05WNCerU74T08E"
@@ -580,7 +602,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 153363,
       "name": "BANKA BANKA",
       "url": "https://open.spotify.com/track/48ThTgiCCug6yQK6XGtmsH"
@@ -708,7 +730,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 157571,
       "name": "Bed\u00f6vning",
       "url": "https://open.spotify.com/track/6p2u5DXlH5n075PYM2V0XX"
@@ -1710,6 +1732,32 @@
       "duration_ms": 142376,
       "name": "DANS",
       "url": "https://open.spotify.com/track/7eFhEOgNajLPQKlKW4SDep"
+    },
+    {
+      "album": {
+        "name": "DANSA UTAN DIG",
+        "url": "https://open.spotify.com/album/2EB6zjk7Fpxux71NJL5l3f"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        },
+        {
+          "name": "Dalmas",
+          "url": "https://open.spotify.com/artist/3Y9NKrahmq33XaJCNjtbka"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147808,
+      "name": "DANSA UTAN DIG",
+      "url": "https://open.spotify.com/track/01I13TY1pgfk7ZhkFsuKbz"
     },
     {
       "album": {
@@ -3122,6 +3170,24 @@
       "duration_ms": 175785,
       "name": "Fanny And The Wee",
       "url": "https://open.spotify.com/track/5WHPsg0Imug3nqXtPZikzz"
+    },
+    {
+      "album": {
+        "name": "FARA NER P\u00c5 BYN",
+        "url": "https://open.spotify.com/album/3IxDWVtKUW57X7hqjIAkzM"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "FARA NER P\u00c5 BYN",
+      "url": "https://open.spotify.com/track/3WIaPlB4A0RxRT03GmtiXk"
     },
     {
       "album": {
@@ -5185,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Ikv\u00e4ll Igen",
+        "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137727,
+      "name": "Ikv\u00e4ll Igen",
+      "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
+    },
+    {
+      "album": {
         "name": "In & Out",
         "url": "https://open.spotify.com/album/0A3P2TMwxcVTM0iLTbLCFc"
       },
@@ -5686,7 +5770,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 118158,
       "name": "JAG \u00c4R EN NYKTERIST",
       "url": "https://open.spotify.com/track/4JBDQ3eh4l6BOXc97dvvqe"
@@ -5850,7 +5934,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 136725,
       "name": "KAN INTE ST\u00c5",
       "url": "https://open.spotify.com/track/6hTCGlOMC0T0DWRw1Jktcu"
@@ -5960,7 +6044,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 130302,
       "name": "KN\u00d6X WHITE",
       "url": "https://open.spotify.com/track/3k8M5AGx0L4sfWqhNyZAj7"
@@ -6246,7 +6330,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 147000,
       "name": "Lallare (feat. Fjortisper & Isak L\u00f6b)",
       "url": "https://open.spotify.com/track/4sYY9yh77rqUEepvhYXZGG"
@@ -6268,6 +6352,24 @@
       "duration_ms": 166166,
       "name": "Lambo i Norrlando",
       "url": "https://open.spotify.com/track/2xLwdG8OWHahVwf8EicJqc"
+    },
+    {
+      "album": {
+        "name": "LANDET",
+        "url": "https://open.spotify.com/album/6oWOyII7A5FTy6VZ1PRuAC"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126792,
+      "name": "LANDET",
+      "url": "https://open.spotify.com/track/0XtvruPem7FuwlCPnnE9Vk"
     },
     {
       "album": {
@@ -6993,6 +7095,28 @@
     },
     {
       "album": {
+        "name": "Mera br\u00e4nnvin (EPA Remix)",
+        "url": "https://open.spotify.com/album/0cTkAQyENznnac2bQCAlf2"
+      },
+      "artists": [
+        {
+          "name": "Eddie Meduza",
+          "url": "https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "Mera br\u00e4nnvin - N!NE EPA Remix",
+      "url": "https://open.spotify.com/track/7EEaznwwsJaylvW4mhrBrB"
+    },
+    {
+      "album": {
         "name": "Mera E",
         "url": "https://open.spotify.com/album/4Bq39X6FqqE8iQQt7VnEBk"
       },
@@ -7084,7 +7208,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 138947,
       "name": "MIN K\u00c4RA MAMMA",
       "url": "https://open.spotify.com/track/5hFzPWi9fAXzrEuuL6Sufn"
@@ -8632,6 +8756,32 @@
       "duration_ms": 165700,
       "name": "Raggarkung - EPA Remix - Dansbandsrave",
       "url": "https://open.spotify.com/track/3vAtzHQ37XAG434Us7d1Vp"
+    },
+    {
+      "album": {
+        "name": "RAGGARTJEJ",
+        "url": "https://open.spotify.com/album/1DqRR6G367zSAAWFSCrh6R"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Baddies",
+          "url": "https://open.spotify.com/artist/3xyExNQNROZjTvur6Za2DW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151161,
+      "name": "RAGGARTJEJ",
+      "url": "https://open.spotify.com/track/3Fj4SihlXMFK5ziDs2y9vR"
     },
     {
       "album": {
@@ -10716,6 +10866,28 @@
       "duration_ms": 141375,
       "name": "S\u00c4NK DIESELPRISET",
       "url": "https://open.spotify.com/track/1NF8op28TqKOUPAb5NEpLC"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 kommer k\u00e4nslorna tillbaka",
+        "url": "https://open.spotify.com/album/2GxPeFHyST0Vzado2OFzav"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190451,
+      "name": "S\u00e5 kommer k\u00e4nslorna tillbaka - J.O.X EPA Remix",
+      "url": "https://open.spotify.com/track/6Kk5b5nJ65MsYybzSvGbqF"
     },
     {
       "album": {

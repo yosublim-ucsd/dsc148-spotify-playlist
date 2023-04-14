@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Taylor Swift. ",
-  "num_followers": 736618,
+  "num_followers": 736703,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2Njg4OCwwMDAwMDAwMDczZGI4ZjU0YjUxZGEyYTU4YzhkNWViOThkMWY2Mjll",
+  "snapshot_id": "MTY3MzQ2Njg4OCwwMDAwMDAwMGVhYzMzM2NjNWY0NzYwOTkzMGY5ODIyOWIxYWI0N2Jl",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -220,6 +220,26 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "duration_ms": 221665,
+      "name": "Spooky - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
@@ -247,26 +267,6 @@
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        }
-      ],
-      "duration_ms": 221665,
-      "name": "Spooky - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -944,22 +944,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
@@ -971,6 +955,22 @@
       "duration_ms": 255126,
       "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1176,22 +1176,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 177161,
-      "name": "There She Goes - Spotify Singles",
-      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn"
       },
       "artists": [
@@ -1203,6 +1187,22 @@
       "duration_ms": 181954,
       "name": "Cry For You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 177161,
+      "name": "There She Goes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
-        "name": "Wide Open Spaces - Spotify Singles",
-        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 240224,
-      "name": "Wide Open Spaces - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 259373,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Wide Open Spaces - Spotify Singles",
+        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1628,22 +1628,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 240522,
-      "name": "No One - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD"
       },
       "artists": [
@@ -1655,6 +1639,22 @@
       "duration_ms": 204255,
       "name": "cool girl - Recorded at Spotify Studios, NYC / 2016",
       "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 240522,
+      "name": "No One - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
     },
     {
       "added_at": "2023-01-11 19:54:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,784 likes - 112 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,832 likes - 112 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 6 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
 | 7 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 |
 | 8 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 |
-| 9 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 |
+| 9 | [Rilassato](https://open.spotify.com/track/1SWUsO1b7aqUkBBlDHuBNS) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Rilassato](https://open.spotify.com/album/6BCs0xXInKgZdnR2e5T9OE) | 2:48 |
 | 10 | [Unbound](https://open.spotify.com/track/4ghUO9O50m6yPI7FZMa03z) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Unbound](https://open.spotify.com/album/3PG4mfCiY3g58lK1nmMmsV) | 2:39 |
 | 11 | [Tranquility Space](https://open.spotify.com/track/0Bs7Sfx9k6bycJAlgeYeYL) | [Flux Demir](https://open.spotify.com/artist/4YlHxcP57eD0lRSrw1D0WB) | [Tranquility Space](https://open.spotify.com/album/5vcii3BKMTKuKna0GPRFg2) | 2:54 |
 | 12 | [Forest Mirror](https://open.spotify.com/track/7ntZRwSVb2CS4kmZq1akX8) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Forest Mirror](https://open.spotify.com/album/1x0q06xpTyHw2EEWxCA4Tp) | 2:18 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 111 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 |
 | 112 | [Surficial](https://open.spotify.com/track/3Yf1WOs2Qmp26M0h81gJVr) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Surficial](https://open.spotify.com/album/06LUgatj9BWv7fuaGAGYjJ) | 2:34 |
 
-Snapshot ID: `MTY4MDgyNTY2MCwwMDAwMDAwMDU2YTc1ODhmY2JkMWIxYjdmMGIzNzY4NTUyNmY0ZGU4`
+Snapshot ID: `MTY4MTQwMzcwNywwMDAwMDAwMDkzYzNmNjg5MGM0Yzc1MDY1NjU4MWEzYTRlYjRiMWJh`

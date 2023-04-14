@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: ROBI",
-  "num_followers": 279862,
+  "num_followers": 279881,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyMzExOSwwMDAwMDAwMDYzN2Y0YTlhZjQwNTBkNWU3YjRiZjNiYjFkZGI4N2Y0",
+  "snapshot_id": "MTY4MTIyMzExOSwwMDAwMDAwMGY3YTYwZGVlNzNlNTQwZTg1OWNjYjZhMDljZjU1ZjUx",
   "tracks": [
     {
       "added_at": "2023-04-11 14:25:19",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-04-11 14:25:19",
       "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "added_at": "2023-04-11 14:25:19",
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 177826,
       "name": "Nublado (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
-    },
-    {
-      "added_at": "2023-04-11 14:25:19",
-      "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2023-04-11 14:25:19",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-11 14:25:19",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
-    },
-    {
-      "added_at": "2023-04-11 14:25:19",
-      "album": {
         "name": "Al menos ahora",
         "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 183342,
       "name": "Al menos ahora",
       "url": "https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D"
+    },
+    {
+      "added_at": "2023-04-11 14:25:19",
+      "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-04-11 14:25:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-11 14:25:19",
       "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
-    },
-    {
-      "added_at": "2023-04-11 14:25:19",
-      "album": {
         "name": "M\u00e1s Tuyo",
         "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 179891,
       "name": "M\u00e1s Tuyo",
       "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
+    },
+    {
+      "added_at": "2023-04-11 14:25:19",
+      "album": {
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "added_at": "2023-04-11 14:25:19",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-11 14:25:19",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 177348,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
-    },
-    {
-      "added_at": "2023-04-11 14:25:19",
-      "album": {
         "name": "Vuelta en U",
         "url": "https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-04-11 14:25:19",
       "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 177348,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb"
+    },
+    {
+      "added_at": "2023-04-11 14:25:19",
+      "album": {
         "name": "S\u00f3lo Eres T\u00fa",
         "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-11 14:25:19",
       "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
-    },
-    {
-      "added_at": "2023-04-11 14:25:19",
-      "album": {
         "name": "El Ding Dong",
         "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 159829,
       "name": "El Ding Dong",
       "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
+    },
+    {
+      "added_at": "2023-04-11 14:25:19",
+      "album": {
+        "name": "Adictos",
+        "url": "https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Adictos",
+      "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
     },
     {
       "added_at": "2023-04-11 14:25:19",

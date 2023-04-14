@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 15728,
+  "num_followers": 15756,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY0MTcxMCwwMDAwMDAwMDYxMThjZTdkNDEwMjE3N2QzOTcwMDgyYTNhZmFkMzhj",
+  "snapshot_id": "MTY3OTY0MTcxMCwwMDAwMDAwMGU4MWYzYWNlYzRlZTBkNzRlNjQ2OGUwM2EwODg1NjJk",
   "tracks": [
     {
       "added_at": "2023-03-09 10:14:44",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Inside Impromptu",
-      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
-    },
-    {
-      "added_at": "2023-03-09 10:14:44",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2023-03-09 10:14:44",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Inside Impromptu",
+      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Nights At The Turntable",
+      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
+    },
+    {
+      "added_at": "2023-03-09 10:14:44",
+      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -203,18 +219,18 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan Quartet",
-          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 175080,
-      "name": "Nights At The Turntable",
-      "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
+      "duration_ms": 210533,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -235,22 +251,6 @@
       "duration_ms": 345920,
       "name": "Fall Out",
       "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
-    },
-    {
-      "added_at": "2023-03-09 10:14:44",
-      "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Walkin' Shoes",
-      "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2023-03-09 10:14:44",
+      "album": {
         "name": "Chet is Back",
         "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 463346,
       "name": "The Eagle Flies",
       "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
-    },
-    {
-      "added_at": "2023-03-09 10:14:44",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "Four!",
-        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
       "artists": [
         {
-          "name": "Hampton Hawes",
-          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
         }
       ],
-      "duration_ms": 294600,
-      "name": "Thou Swell",
-      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
+      "duration_ms": 338773,
+      "name": "On The Street Where You Live - Instrumental",
+      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+        "name": "Four!",
+        "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
       "artists": [
         {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+          "name": "Hampton Hawes",
+          "url": "https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK"
         }
       ],
-      "duration_ms": 338773,
-      "name": "On The Street Where You Live - Instrumental",
-      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
+      "duration_ms": 294600,
+      "name": "Thou Swell",
+      "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
-    },
-    {
-      "added_at": "2023-03-09 10:14:44",
-      "album": {
         "name": "Nothing But The Blues",
         "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 361760,
       "name": "Patti Cake",
       "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
+    },
+    {
+      "added_at": "2023-03-09 10:14:44",
+      "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "Gongs East!",
-        "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton",
-          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Beyond the Blue Horizon",
-      "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
-    },
-    {
-      "added_at": "2023-03-09 10:14:44",
-      "album": {
         "name": "Take Me Along",
         "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 304093,
       "name": "Sid, Ol' Kid",
       "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2023-03-09 10:14:44",
+      "album": {
+        "name": "Gongs East!",
+        "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton",
+          "url": "https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Beyond the Blue Horizon",
+      "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
     },
     {
       "added_at": "2023-03-09 10:14:44",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-09 10:14:44",
       "album": {
-        "name": "The Quartet and the Quintet",
-        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
-      },
-      "artists": [
-        {
-          "name": "Jack Sheldon",
-          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Ahmoore",
-      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
-    },
-    {
-      "added_at": "2023-03-09 10:14:44",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 523426,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
+    },
+    {
+      "added_at": "2023-03-09 10:14:44",
+      "album": {
+        "name": "The Quartet and the Quintet",
+        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Ahmoore",
+      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
     },
     {
       "added_at": "2023-03-09 10:14:44",

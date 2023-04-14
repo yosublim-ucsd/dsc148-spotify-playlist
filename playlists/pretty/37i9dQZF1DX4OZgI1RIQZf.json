@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 21924,
+  "num_followers": 22059,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDg2ODA3NmY5ZDQzNDI4ZWY1ODcxZDA2NjkxMzc2MDc2",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDBiNzE5OGRmNDIzODdhZWMwYmI3MjQzNDE5MTUxNmFi",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "A Quick One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Boris The Spider - Mono Version",
-      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Beat the Devil's Tattoo",
         "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 235746,
       "name": "River Styx",
       "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "A Quick One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Boris The Spider - Mono Version",
+      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
-      },
-      "artists": [
-        {
-          "name": "Teleman",
-          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Skeleton Dance",
-      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Dark and Stormy",
         "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 295840,
       "name": "Dark and Stormy",
       "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
+      },
+      "artists": [
+        {
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
     },
     {
       "added_at": "2023-02-09 23:00:00",

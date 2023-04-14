@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 89234,
+  "num_followers": 89239,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEwMzQwNywwMDAwMDAwMDU1YWRjYmYxNzBmYjcwMDM3YWQzM2RmNGNjYTBmY2M1",
+  "snapshot_id": "MTY4MTEwMzQwNywwMDAwMDAwMDhkZjJmZjRmYjYwYzc4MmYzNTViNmQwNGU1Zjc4NTNk",
   "tracks": [
     {
       "added_at": "2023-04-10 05:10:07",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u81ea\u5b9a\u7fa9",
-        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
-      },
-      "artists": [
-        {
-          "name": "\u8a31\u5d69",
-          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
-        }
-      ],
-      "duration_ms": 240027,
-      "name": "\u6709\u4f55\u4e0d\u53ef",
-      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
-    },
-    {
-      "added_at": "2023-04-10 05:10:07",
-      "album": {
         "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 177757,
       "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
+    },
+    {
+      "added_at": "2023-04-10 05:10:07",
+      "album": {
+        "name": "\u81ea\u5b9a\u7fa9",
+        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u5d69",
+          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+        }
+      ],
+      "duration_ms": 240027,
+      "name": "\u6709\u4f55\u4e0d\u53ef",
+      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u597d\u559c\u6b61\u4f60",
-        "url": "https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "\u597d\u559c\u6b61\u4f60",
-      "url": "https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z"
-    },
-    {
-      "added_at": "2023-04-10 05:10:07",
-      "album": {
         "name": "\u7b2c\u4e8c\u5929\u5802",
         "url": "https://open.spotify.com/album/3Hl00RKpdMnWtOal6WBlGK"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 254000,
       "name": "\u8c46\u6f3f\u6cb9\u689d",
       "url": "https://open.spotify.com/track/7vva2pL13vWP3XHKltJNJ7"
+    },
+    {
+      "added_at": "2023-04-10 05:10:07",
+      "album": {
+        "name": "\u597d\u559c\u6b61\u4f60",
+        "url": "https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 267272,
+      "name": "\u597d\u559c\u6b61\u4f60",
+      "url": "https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa"
+        "name": "\u6539\u8b8a\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
       },
       "artists": [
         {
-          "name": "Sun Day Night.",
-          "url": "https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD"
-        },
-        {
-          "name": "\u67ef\u6df3\u6069",
-          "url": "https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82"
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
         }
       ],
-      "duration_ms": 227000,
-      "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5"
+      "duration_ms": 166693,
+      "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u6539\u8b8a\u81ea\u5df1",
-        "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
+        "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa"
       },
       "artists": [
         {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+          "name": "Sun Day Night.",
+          "url": "https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD"
+        },
+        {
+          "name": "\u67ef\u6df3\u6069",
+          "url": "https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82"
         }
       ],
-      "duration_ms": 166693,
-      "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
+      "duration_ms": 227000,
+      "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5"
     },
     {
       "added_at": "2023-04-10 05:10:07",

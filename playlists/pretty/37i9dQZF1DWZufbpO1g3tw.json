@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 39297,
+  "num_followers": 39320,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMDkxODVmY2UyMTM0MWNhNjVkMDBhNjQzYjRkOThmZDlh",
+  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMDNhMTI2Mzg0YTY4ZDc2MDE5NWQxNWU4NjUwN2RhMmZl",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -81,7 +81,7 @@
       "artists": [
         {
           "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
       "duration_ms": 201168,
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Solo Cumbias",
-        "url": "https://open.spotify.com/album/3OrPozsgIvSVIZRXfNNwex"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 224182,
-      "name": "Lejan\u00eda",
-      "url": "https://open.spotify.com/track/6uba6FMkBMkQGzDhzXnPf3"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Coraz\u00f3n M\u00e1gico",
         "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 160653,
       "name": "Las Mulas De Moreno",
       "url": "https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Solo Cumbias",
+        "url": "https://open.spotify.com/album/3OrPozsgIvSVIZRXfNNwex"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 224182,
+      "name": "Lejan\u00eda",
+      "url": "https://open.spotify.com/track/6uba6FMkBMkQGzDhzXnPf3"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Gypsy Woman",
-        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Director Nestor Mili",
-        "url": "https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z"
-      },
-      "artists": [
-        {
-          "name": "Los Zafiros",
-          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
-        }
-      ],
-      "duration_ms": 156853,
-      "name": "La Luna en Tu Mirada",
-      "url": "https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Baile Bucanero",
         "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 213333,
       "name": "Lazalypso",
       "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Director Nestor Mili",
+        "url": "https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z"
+      },
+      "artists": [
+        {
+          "name": "Los Zafiros",
+          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
+        }
+      ],
+      "duration_ms": 156853,
+      "name": "La Luna en Tu Mirada",
+      "url": "https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ"
     },
     {
       "added_at": "2022-10-28 19:05:39",

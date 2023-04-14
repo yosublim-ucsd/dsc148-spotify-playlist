@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Dhurata Dora
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,788 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,801 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sonne](https://open.spotify.com/track/1YQ3TaEUHDgTwbiUFqiyHR) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [DHURATA](https://open.spotify.com/album/1BaQKcXBkeFVnyo6W2tWY2) | 2:54 |
-| 2 | [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 |
-| 3 | [Was mir gefällt](https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Was mir gefällt](https://open.spotify.com/album/1JK0xNjVPJLAgH81xYY76Z) | 2:18 |
+| 2 | [Was mir gefällt](https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Was mir gefällt](https://open.spotify.com/album/1JK0xNjVPJLAgH81xYY76Z) | 2:18 |
+| 3 | [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 |
 | 4 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 |
 | 5 | [Liebesbeweis](https://open.spotify.com/track/4SrtQaDn680nEeQJrZkJ17) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Liebesbeweis](https://open.spotify.com/album/5sxaky5BPuWs2qeUuWdfcC) | 2:21 |
 | 6 | [Bestie](https://open.spotify.com/track/3EyH39kLsNm2MKDYGRuSfK) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [Bestie](https://open.spotify.com/album/2cLfZKuInLoQFSiNS48bbQ) | 2:40 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Take That](https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz), [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX) | [Take That](https://open.spotify.com/album/7cFPpACcw4uo8ioN0IY2Px) | 5:46 |
 | 17 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 |
 | 18 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
-| 19 | [Happening](https://open.spotify.com/track/17IG2GzlTpFK3Axropk1Jm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4ctUmGTDSaPBK4nxPopOKk) | 3:12 |
-| 20 | [awg](https://open.spotify.com/track/5xiYSLtU88Vom101qBUhep) | [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [awg](https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS) | 1:41 |
+| 19 | [awg](https://open.spotify.com/track/5xiYSLtU88Vom101qBUhep) | [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [awg](https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS) | 1:41 |
+| 20 | [Happening](https://open.spotify.com/track/17IG2GzlTpFK3Axropk1Jm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4ctUmGTDSaPBK4nxPopOKk) | 3:12 |
 | 21 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 22 | [Emily](https://open.spotify.com/track/2U2lyoHXSjeseI46wG13dN) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Emily](https://open.spotify.com/album/1FDXDv6hx7cFn1Nx1mEnUI) | 2:53 |
 | 23 | [Whenever You Want](https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Whenever You Want](https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25) | 3:59 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [here/hier](https://open.spotify.com/track/0xmR39qz8TYHv9fvyDnyND) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [here/hier](https://open.spotify.com/album/72NsiImn6WLTte7lxTQ9g8) | 2:50 |
 | 26 | [Besser wird's nicht](https://open.spotify.com/track/2jkasSIO7dCWmZ3N1lFFjd) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Besser wird's nicht](https://open.spotify.com/album/3GYd3oBb4CtrclZg2N3tJy) | 4:22 |
 | 27 | [He Nur Da](https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [He Nur Da](https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG) | 2:54 |
-| 28 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 |
-| 29 | [Dunkles Herz](https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Dunkles Herz](https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u) | 3:04 |
-| 30 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 |
-| 31 | [i don’t get stressed](https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [i don’t get stressed](https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf) | 2:29 |
+| 28 | [Dunkles Herz](https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Dunkles Herz](https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u) | 3:04 |
+| 29 | [i don’t get stressed](https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [i don’t get stressed](https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf) | 2:29 |
+| 30 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 |
+| 31 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 |
 | 32 | [ASK FOR IT](https://open.spotify.com/track/1pMHhbNvIHrAWN7D7DtxDh) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [ASK FOR IT](https://open.spotify.com/album/3vtmwmHlxsruXPLFiSuG1S) | 2:34 |
-| 33 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 |
+| 33 | [Sweet Moment](https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Sweet Moment](https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10) | 2:54 |
 | 34 | [Wann fängt es wieder an aufzuhören?](https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Wann fängt es wieder an aufzuhören?](https://open.spotify.com/album/5ohQhVkAOMWVeWUVX3ulz2) | 3:16 |
 | 35 | [Suitable](https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Suitable](https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n) | 3:04 |
 | 36 | [alchemy](https://open.spotify.com/track/4gjiMTM8zCkQm7B2rY2xSi) | [fraen again](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [alchemy](https://open.spotify.com/album/3fuR8WG0xvkhknmAlIumtm) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Schubidu](https://open.spotify.com/track/4HbZ7D4AslgbGnwi5MrTH1) | [DCCM](https://open.spotify.com/artist/2wMFibdNVlRu9xPt7bFjm0), [SektSpätStück](https://open.spotify.com/artist/5DeKxh1EpLz9xYQXwvRSJr) | [Schubidu](https://open.spotify.com/album/1p5pGrYo3VHcxdgmNwGCZn) | 2:45 |
 | 50 | [The Girl With No Skin](https://open.spotify.com/track/1pIiJKqTDqVnSY1kAxVt6x) | [Ella Ronen](https://open.spotify.com/artist/4WF8HMNJfUpjkG3KjBSje2) | [The Girl With No Skin](https://open.spotify.com/album/1sSteohBRyN8SLn7zIsS2k) | 4:28 |
 
-Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMGVhMWYzZGFmNDA5NDc2ZDVmNDRmNjlmZDdmZmM2Mzc3`
+Snapshot ID: `MTY4MDY0NTYwMCwwMDAwMDAwMGI0NmNjYzFmNzI5MjQzMzkxYmExZGVjZThlMGE1NDZj`

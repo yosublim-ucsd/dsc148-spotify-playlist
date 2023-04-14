@@ -2,9 +2,9 @@
 
 ### [X](https://open.spotify.com/playlist/37i9dQZF1DXcItj8Rw7Oqd)
 
-> Pop x Rock\. Cover: McFly
+> Pop x Rock\. Cover: Busted
 
-82 songs - 4 hr 9 min
+85 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,15 +17,17 @@
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-17 |  |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-12-09 |  |
 | [Blisters](https://open.spotify.com/track/1ytnxZRMYJ8QsTMBqD9GXb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Greatest Thing I’ll Never Learn](https://open.spotify.com/album/4wdBZxpMVkbKFpHZPcsV5S) | 3:21 | 2022-12-09 |  |
-| [Call Me Up](https://open.spotify.com/track/362rlBjH5QCosaI0tjoISk) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Call Me Up](https://open.spotify.com/album/01PBDRObq98AepDMLCLYAT) | 2:51 | 2022-12-09 |  |
+| [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 | 2023-04-13 |  |
+| [Call Me Up](https://open.spotify.com/track/362rlBjH5QCosaI0tjoISk) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Call Me Up](https://open.spotify.com/album/01PBDRObq98AepDMLCLYAT) | 2:51 | 2022-12-09 | 2023-04-14 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-12-09 |  |
 | [Checkered Vans](https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Checkered Vans](https://open.spotify.com/album/23ebC7TSnXeAh3tt21tIap) | 3:18 | 2023-02-17 |  |
-| [Chloe \(feat\. Jutes\)](https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chloe \(feat\. Jutes\)](https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi) | 3:25 | 2022-12-09 |  |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-13 |  |
+| [Chloe \(feat\. Jutes\)](https://open.spotify.com/track/0XtBf7rln64ml07ElJcd2d) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chloe \(feat\. Jutes\)](https://open.spotify.com/album/6Hy3g8ulHSwRNj4TpgAATi) | 3:25 | 2022-12-09 | 2023-04-14 |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-12-09 |  |
 | [Dead Weight](https://open.spotify.com/track/4Bk0UuN8RsKZ0mw9b53zM0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Gimme a Minute](https://open.spotify.com/album/6Af35YWo27RaZdOhU3gZ7b) | 3:27 | 2022-12-09 |  |
 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2022-12-09 |  |
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-12-09 |  |
-| [Every Night](https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Every Night](https://open.spotify.com/album/1erO19ZiBDTVHMOVj9dFUI) | 3:20 | 2022-12-09 |  |
+| [Every Night](https://open.spotify.com/track/342eeP9yZTw5mpqNUDh8I0) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Every Night](https://open.spotify.com/album/1erO19ZiBDTVHMOVj9dFUI) | 3:20 | 2022-12-09 | 2023-04-14 |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-24 |  |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-03-24 |  |
 | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Eyes Open \(Taylor's Version\)](https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3) | 4:03 | 2023-03-24 |  |
@@ -50,6 +52,7 @@
 | [LAZY](https://open.spotify.com/track/2pUsVdWX8cCwznDqTKil2G) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [LAZY](https://open.spotify.com/album/5R4N50KXCR8YzZ5JaNqNue) | 3:23 | 2022-12-09 |  |
 | [Look At You](https://open.spotify.com/track/3A85Rb4KqDVh5tycRdu2OH) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 2:44 | 2023-02-17 |  |
 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3) | 3:20 | 2022-12-09 |  |
+| [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 |  |
 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 | 2022-12-09 |  |
 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 | 2022-12-09 |  |
 | [love u in the morning](https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [love u in the morning](https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ) | 2:44 | 2022-12-09 |  |

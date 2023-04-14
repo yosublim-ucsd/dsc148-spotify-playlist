@@ -4,7 +4,7 @@
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Olivia Belli
 
-77 songs - 6 hr 32 min
+78 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Azuretta](https://open.spotify.com/track/098c7lLo1bTZzsGriiIVEA) | [Regina Harris Baiocchi](https://open.spotify.com/artist/5InPAjUoFRnSt1RKZWcBaz), [Deanne Tucker](https://open.spotify.com/artist/74IlzeALIlHC9rtPxbG5Ix) | [Where Freedom Rings: Compositions by Contemporary African American Composers](https://open.spotify.com/album/3GrknGxdgjKmpnalj44vq0) | 3:37 | 2021-12-13 |  |
 | [Beach: Romance Op\. 23](https://open.spotify.com/track/0X4j0IqoVICreUoHuKblYA) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Bomsori](https://open.spotify.com/artist/6eg0Lhwxk31hrFEAXfpCd1), [Julia Okruashvili](https://open.spotify.com/artist/50N93jelFkX4eRnA1hYyEX) | [Beach: Romance, Op\. 23 \(Musical Moments\)](https://open.spotify.com/album/7tT7cT89NiYB04l6aiEGgL) | 6:34 | 2022-04-29 |  |
 | [Berceuse](https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Sara Chenal](https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo), [Jean\-Pierre Ferey](https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8) | [Violon au féminin: Compositrices françaises](https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F) | 2:28 | 2022-01-26 |  |
-| [Billow Gently](https://open.spotify.com/track/0y35QjZtAK3bGxwsiKmssf) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 3:15 | 2023-03-17 |  |
+| [Billow Gently](https://open.spotify.com/track/0G6oaTsBqKgZ3VHPGZFrwL) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 3:15 | 2023-03-17 |  |
+| [Billow Gently](https://open.spotify.com/track/0y35QjZtAK3bGxwsiKmssf) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 3:15 | 2023-03-17 | 2023-04-14 |
 | [Bright Star](https://open.spotify.com/track/0eNmPoRTUgk7XmRZS7SnQY) | [Margaret Bonds](https://open.spotify.com/artist/5rAjCNBtMjC6cP6IVpaC9l), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [Bright Star](https://open.spotify.com/album/6eMjICXr9rv1eqSvofY8TM) | 1:26 | 2022-07-01 |  |
 | [Bright Star \(Arr\. L\. Downes\)](https://open.spotify.com/track/0poqcwY3KzT86iRCwxTTuJ) | [Margaret Bonds](https://open.spotify.com/artist/5rAjCNBtMjC6cP6IVpaC9l), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [Bright Star \(Arr\. L\. Downes\)](https://open.spotify.com/album/1Wv6mx3vxz6ZsnFAB8TTrO) | 1:26 | 2021-12-13 | 2022-07-29 |
 | [C\. Schumann: 3 Romances, Op\. 22 \- No\. 1, Andante molto \(Arr\. Knoth for Cello and Piano\)](https://open.spotify.com/track/4p9KKWwIbCJHzKGbQt5PgT) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Sophie Kauer](https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO), [Kunal Lahiry](https://open.spotify.com/artist/3vArgOb02B95jlv2WianoI) | [Unsung](https://open.spotify.com/album/2itnOSYnhB8PC0Wg11Lvm7) | 3:10 | 2023-03-17 |  |

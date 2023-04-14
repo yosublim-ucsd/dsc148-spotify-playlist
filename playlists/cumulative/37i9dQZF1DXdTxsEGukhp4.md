@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: KANA\-BOON
 
-114 songs - 6 hr 28 min
+117 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,11 +28,11 @@
 | [Forget about you](https://open.spotify.com/track/0xnxrUxBgLVUFgnjrJ7RhL) | [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr) | [Forget about you](https://open.spotify.com/album/1tSO0QRB14Cb1anUiUJEUK) | 4:15 | 2023-01-26 | 2023-02-24 |
 | [Fuckin' Good](https://open.spotify.com/track/5pe3jeI0WtpNWC1ZweCipP) | [Super SHIMADA Brothers](https://open.spotify.com/artist/2jqtZgeWtsc0tRdXK3x7yT), [OTUY PARK](https://open.spotify.com/artist/4hlSejvq1rjc5ac5Ds02kl) | [Over There That](https://open.spotify.com/album/1WJ9FbcbVCiKrA7XAjTFtJ) | 3:27 | 2023-02-09 |  |
 | [Full moon](https://open.spotify.com/track/3xxLNIhdGefFM4Xj3Cj5AP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 1:21 | 2023-01-26 | 2023-02-24 |
-| [Give Love](https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 2:56 | 2023-03-09 |  |
-| [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-03-09 |  |
+| [Give Love](https://open.spotify.com/track/2A3ShNautqXezP1lFDePwa) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 2:56 | 2023-03-09 | 2023-04-14 |
+| [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-03-09 | 2023-04-14 |
 | [Green Green Grass \- Sped\-Up](https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass \(Sped\-Up\)](https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0) | 2:08 | 2023-02-09 |  |
 | [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 | 2023-02-09 | 2023-03-25 |
-| [Hey baby!](https://open.spotify.com/track/0MyB2GqSgFY5pK37jHSSH3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Dejavu](https://open.spotify.com/album/1wEHnUyeTsnlJFXuh5dWBY) | 2:35 | 2023-02-23 |  |
+| [Hey baby!](https://open.spotify.com/track/0MyB2GqSgFY5pK37jHSSH3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Dejavu](https://open.spotify.com/album/1wEHnUyeTsnlJFXuh5dWBY) | 2:35 | 2023-02-23 | 2023-04-14 |
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-03-03 | 2023-03-18 |
 | [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 | 2023-03-17 | 2023-04-06 |
 | [Hitoriuta \~September How YOU doin'?\~](https://open.spotify.com/track/6ABICqJ7vqiDjP97ggD4TJ) | [Ujita Mai](https://open.spotify.com/artist/6AnqPUKLgWAkXJAFLrSoBf) | [Hitoriuta \~September How YOU doin'?\~](https://open.spotify.com/album/1LoaaFwNrpyiIZRx93kmGi) | 3:17 | 2023-01-26 | 2023-02-24 |
@@ -54,6 +54,7 @@
 | [Lose Control \(feat\. Shungudzo\)](https://open.spotify.com/track/5IHi5WPEKTAY9YrIFAWZaB) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Lose Control \(feat\. Shungudzo\)](https://open.spotify.com/album/0vIxfwmpmqFsPFHgQFEvAu) | 3:06 | 2023-03-30 |  |
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2023-01-26 | 2023-02-24 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-01-26 |  |
+| [meow bell](https://open.spotify.com/track/0u8kiQsb059uWLMxL5Foio) | [nogika chaba](https://open.spotify.com/artist/3vbtMfAWkjNFOFrcQRFZyZ) | [TEA TIME](https://open.spotify.com/album/4pLBNMAi00WNFyiBSUgq29) | 2:08 | 2023-04-13 |  |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-26 | 2023-02-24 |
 | [Mrs\. Right](https://open.spotify.com/track/4N4CHJqFZHyB7SBUuSFu1y) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA), [Diggy Simmons](https://open.spotify.com/artist/28ABOA2akZrXN9kQpqwvVg) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 4:08 | 2023-02-16 | 2023-03-31 |
 | [NaNaNa Tokyo](https://open.spotify.com/track/1wj4yYURESSkb67NIxxm8m) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [NaNaNa Tokyo](https://open.spotify.com/album/5ZtzL00EDIBLZQho1vKQ49) | 3:15 | 2023-04-06 |  |
@@ -115,12 +116,14 @@
 | [万々歳](https://open.spotify.com/track/4ZPl090JODD2F8Yz0KAQV4) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [万々歳](https://open.spotify.com/album/77XpTzNk0bmSVsbsXl8c7R) | 3:58 | 2023-01-26 |  |
 | [会いたいわ](https://open.spotify.com/track/5g1SvaEtzlKEqre9FbPQEc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [life ep](https://open.spotify.com/album/2bJPkcW3Zi3tWizPcKiOkp) | 4:28 | 2023-01-26 | 2023-02-03 |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-02-16 |  |
+| [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/6Ovj4KMDE0X326qnynqQSO) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:36 | 2023-04-13 |  |
 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2023-03-03 |  |
 | [大切な君へ](https://open.spotify.com/track/1w4kMFSzcpQj2knJGfF84s) | [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [\#17](https://open.spotify.com/album/07ahKwKVmoFvybSvq8RvSa) | 4:15 | 2023-01-26 | 2023-02-10 |
 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 | 2023-03-30 |  |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-04-06 |  |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-01-26 |  |
+| [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-04-13 |  |
 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 | 2023-01-26 | 2023-03-18 |
 
 \*This playlist was first scraped on 2023-02-01. Prior content cannot be recovered.

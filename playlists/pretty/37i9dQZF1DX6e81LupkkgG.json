@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 340469,
+  "num_followers": 340496,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDM2MjU5N2EzNzhjZWJjZTc1OGJiMTc4MmFhMTdkZDcz",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDZlYTVlYjJiNjM0OWExZTYyNmI1YzhlNDllNjY5NmIw",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Everybody Needs Someone (feat. Vance Joy)",
+        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 178819,
+      "name": "Everybody Needs Someone (feat. Vance Joy)",
+      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "My Only One (No Hay Nadie M\u00e1s)",
         "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Everybody Needs Someone (feat. Vance Joy)",
-        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "Everybody Needs Someone (feat. Vance Joy)",
-      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Te Amar Demais",
         "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Daddy\u2019s Eyes",
-        "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 182969,
-      "name": "Daddy's Eyes",
-      "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Conversations in the Dark",
         "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237426,
       "name": "Conversations in the Dark",
       "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Daddy\u2019s Eyes",
+        "url": "https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 182969,
+      "name": "Daddy's Eyes",
+      "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "would you love me now?",
-        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 205646,
-      "name": "would you love me now?",
-      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Finally // beautiful stranger",
         "url": "https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 221095,
       "name": "Finally // beautiful stranger",
       "url": "https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "would you love me now?",
+        "url": "https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 205646,
+      "name": "would you love me now?",
+      "url": "https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Heaven in a World so Cold",
-        "url": "https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj"
-      },
-      "artists": [
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 194286,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/7x2fnP5eaWfb3izrpm0U6u"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Heaven in a World so Cold",
+        "url": "https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 194286,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/7x2fnP5eaWfb3izrpm0U6u"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Carry It Well",
-        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 215048,
-      "name": "Carry It Well",
-      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Carry It Well",
+        "url": "https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 215048,
+      "name": "Carry It Well",
+      "url": "https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq"
     },
     {
       "added_at": "2023-04-07 03:00:00",

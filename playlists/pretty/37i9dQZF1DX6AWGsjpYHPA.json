@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 101300,
+  "num_followers": 101400,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDA2YmFmZDZiNWJhNmU0YmQxMDdiMjViYTA4N2E3ODRm",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDI5YzI4N2I1NWMzZWNiMjU5MGE0MWUwMDE3ODRiMmFi",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Heartbreak / 6000 Ft.",
-        "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 336092,
-      "name": "6000 Ft.",
-      "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Heartbreak / 6000 Ft.",
+        "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 336092,
+      "name": "6000 Ft.",
+      "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 275719,
       "name": "Garden",
       "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "That Secret Sauce",
-        "url": "https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ"
-      },
-      "artists": [
-        {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1159,6 +1143,22 @@
       "duration_ms": 252413,
       "name": "Asa Branca",
       "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "That Secret Sauce",
+        "url": "https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 384986,
+      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
         }
       ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
       },
       "artists": [
         {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2022-09-15 22:32:37",

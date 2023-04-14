@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,016 likes - 404 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,331 likes - 404 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 95 | [If You Want Me To Stay](https://open.spotify.com/track/6ppxI6qxTQnyJlpoBoDdBA) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [If You Want Me To Stay](https://open.spotify.com/album/2axBvm9VWTwYhCGXa7Iq3J) | 2:19 |
 | 96 | [Hollie Would](https://open.spotify.com/track/1Am4BvMjQ8iFBOq1w8V1XM) | [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ) | [Hollie Would](https://open.spotify.com/album/7z8CAYtyyKgjKdPwWOHAsP) | 1:55 |
 | 97 | [Discovery](https://open.spotify.com/track/3vykDH0xx2xUdOiUcnvjXr) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Discovery](https://open.spotify.com/album/0RU6LDriSf3YOoPoWHC66k) | 2:17 |
-| 98 | [Feel Something](https://open.spotify.com/track/3zSfNWdoWlvKylST7NXs1Y) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Feel Something](https://open.spotify.com/album/36z0xfW0euKDfGCfcbmDFy) | 2:02 |
+| 98 | [Feel Something](https://open.spotify.com/track/3zSfNWdoWlvKylST7NXs1Y) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Feel Something](https://open.spotify.com/album/36z0xfW0euKDfGCfcbmDFy) | 2:02 |
 | 99 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 |
 | 100 | [Picnick](https://open.spotify.com/track/6CyYIjbUN6lMnkQUH2c0Lj) | [La Boucle](https://open.spotify.com/artist/6R14Zw9WcySCc35CvliDbV) | [Picnick](https://open.spotify.com/album/2ywLc02L8RRBeQsPlSBUFo) | 3:10 |
 | 101 | [It's just a phase](https://open.spotify.com/track/1lbU8i2RPO0DKGWCzkjdDP) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [It's just a phase](https://open.spotify.com/album/2UbjJdAj76M4lMHp2m0ZAN) | 2:18 |

@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=a3LmGbMbRQeQYCPHH6EAGg">Wilma Van Heerden</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=2B0znxhWQXSVqpHhurbo6g">Riaan Benadé</a>
 
-130 songs - 7 hr 18 min
+131 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 | 2023-02-03 |
 | [Bring Dit](https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Groot Afrikaans Treffers](https://open.spotify.com/album/7tIHjz5g4qfELNLTxO0xm8) | 2:52 | 2023-03-09 |  |
 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 | 2023-03-30 |  |
-| [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 |  |
+| [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-22 | 2023-03-31 |
 | [Die Dansvloer](https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy) | [Janie Bay](https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM) | [Die Dansvloer](https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx) | 3:04 | 2023-02-02 |  |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 |  |
@@ -68,6 +68,7 @@
 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 | 2023-03-09 |  |
 | [Klaar Gesmeek](https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Klaar Gesmeek](https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ) | 2:28 | 2023-03-16 |  |
 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 | 2023-03-23 |  |
+| [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 | 2023-04-13 |  |
 | [Klippe Kou](https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V) | [Jack and June](https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq) | [Klippe Kou](https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3) | 2:58 | 2022-10-13 | 2023-03-03 |
 | [Kom En Lê My Neer](https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:25 | 2023-03-09 |  |
 | [Koue Pizza](https://open.spotify.com/track/1fEZOVHd17gcqv0ND1fpcV) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Koue Pizza](https://open.spotify.com/album/0UE7Fs2XSTfjAtcwNKe439) | 3:01 | 2022-10-20 | 2022-11-11 |

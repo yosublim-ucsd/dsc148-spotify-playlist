@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 199385,
+  "num_followers": 199495,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGMxYWExNjUyMjI4OTc3ZjYxMWIyMDdhYTZhZTZmY2M4",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDNhYTVkODIwNjBmMWJmYmUwNTZlOTBiN2RlYjUxY2Jl",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 316266,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 316266,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
-        }
-      ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Get It Right (Expanded Edition)",
         "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

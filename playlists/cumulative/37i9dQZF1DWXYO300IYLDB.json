@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 158857,
       "name": "Come Over (feat. Anne-Marie) - Acoustic",
       "url": "https://open.spotify.com/track/40F7w1M0B4KODoiCsbZy8W"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 232000,
       "name": "Do You Want It? - Live from NQ",
       "url": "https://open.spotify.com/track/3PgOYE84ABJujGjQIp0S2E"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 240581,
       "name": "Don't Wake Me Up (feat. Scouting For Girls & TILI)",
       "url": "https://open.spotify.com/track/5MivG1BSNasLlikanG37Lf"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 224085,
       "name": "Falling - Spotify Singles",
       "url": "https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 305762,
       "name": "Foxglove Through The Clearcut - Acoustic",
       "url": "https://open.spotify.com/track/4EfROdTKT8NTmJg8gxgXQi"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 226840,
       "name": "Haru o Matazu Kimi o Hanare",
       "url": "https://open.spotify.com/track/44n6FlfY0wNwF5sVfh8mqV"
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332960,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "album": {
         "name": "I Don't Care (Acoustic)",
         "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 214003,
       "name": "i love u",
       "url": "https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 140533,
       "name": "Inconvenient",
       "url": "https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582"
@@ -1588,6 +1606,24 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+    },
+    {
+      "album": {
+        "name": "Just Don't Know It Yet",
+        "url": "https://open.spotify.com/album/3XLyVpNKVG7alNAIZ1jVXE"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177175,
+      "name": "Just Don't Know It Yet",
+      "url": "https://open.spotify.com/track/3gATMpdrZqQIws1Bks8n0O"
     },
     {
       "album": {
@@ -1968,10 +2004,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 172627,
       "name": "My Boo - Acoustic",
       "url": "https://open.spotify.com/track/3jksD6ZdMZSjfH3zgT0SEg"
+    },
+    {
+      "album": {
+        "name": "My Stupid Heart (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5WFL3TMZVnWb69W7w4zlKt"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Luminati Suns",
+          "url": "https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162584,
+      "name": "My Stupid Heart - Acoustic Version",
+      "url": "https://open.spotify.com/track/3WQz7iXHJZ9x5ASGfp45r7"
     },
     {
       "album": {
@@ -2195,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "a girl a bottle a boat",
+        "url": "https://open.spotify.com/album/26OJfCFh7u9WmHd3Y3q8IS"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "Play That Song",
+      "url": "https://open.spotify.com/track/77hjM9bMmgfTGJXv14UFmi"
+    },
+    {
+      "album": {
         "name": "Purple Rain (Acoustic)",
         "url": "https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00"
       },
@@ -2210,6 +2286,24 @@
       "duration_ms": 154173,
       "name": "Purple Rain - Acoustic",
       "url": "https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1"
+    },
+    {
+      "album": {
+        "name": "Put A Little Love On Me",
+        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     },
     {
       "album": {
@@ -2630,7 +2724,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 229595,
       "name": "Somewhere In A Dream",
       "url": "https://open.spotify.com/track/6e7ssY4QRLN9PewN49CzLl"
@@ -2666,10 +2760,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 205733,
       "name": "Soul Song",
       "url": "https://open.spotify.com/track/3Z5vkiyWuzmrgY8yzyGwtb"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "album": {
@@ -2724,10 +2836,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "album": {
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "album": {
@@ -2768,7 +2898,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 258850,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/6Hrk4OKWYn7LQenJzWzPyh"
@@ -2826,7 +2956,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 460840,
       "name": "The New York Trader",
       "url": "https://open.spotify.com/track/4E8adJfg82ZSghGefjTj5f"
@@ -2880,7 +3010,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 273362,
       "name": "The Ones We Once Loved",
       "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
@@ -3150,7 +3280,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 266466,
       "name": "Wasteland, Baby!",
       "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
@@ -3172,6 +3302,28 @@
       "duration_ms": 193146,
       "name": "We Are Never Ever Getting Back Together",
       "url": "https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND"
+    },
+    {
+      "album": {
+        "name": "Cover Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "We Can't Stop",
+      "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
     },
     {
       "album": {
@@ -3262,6 +3414,24 @@
       "duration_ms": 239880,
       "name": "Where's My Love - Acoustic",
       "url": "https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ"
+    },
+    {
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "album": {
@@ -3370,7 +3540,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Your Song - Bonus Track",
       "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"

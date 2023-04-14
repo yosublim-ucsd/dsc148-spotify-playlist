@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,441 likes - 120 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,658 likes - 120 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 105 | [Rebuilding \(528 Hz\)](https://open.spotify.com/track/0DGkQDV3p7MrQPAFDxkkZ5) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Solfeggios for the Solar Plexus Chakra](https://open.spotify.com/album/7ch4M4NHVGSkDDvzi0v124) | 3:28 |
 | 106 | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/track/4ODuujsx5VRf6W7UfJv4uP) | [Marun Valenti](https://open.spotify.com/artist/0UFMKIKMcCZApRPCnS23pt) | [Imagination Booster \(528 Hz Solfeggio Frequency\)](https://open.spotify.com/album/1bekhuWpcVqb39OVKJQiW6) | 2:42 |
 | 107 | [528 Hz Morning Miracle](https://open.spotify.com/track/3DZulX7snXKBp91TG8tTje) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Morning Miracle](https://open.spotify.com/album/4A2KCK3kY9pOVWdmVmFWoW) | 3:02 |
-| 108 | [528 Hz Manipura Chakra](https://open.spotify.com/track/2j0c51SLIcRPJkh5WuFpCR) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Transformation & Miracles DNA Repair \(The Solar Plexus Chakra\)](https://open.spotify.com/album/4SCQHNlpxUOyKu9xgoCr8g) | 3:21 |
+| 108 | [528 Hz Manipura Chakra](https://open.spotify.com/track/6KkWAocfZ9bRqxwapOhPBb) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Solfeggio Frequency](https://open.spotify.com/album/5zW84fjGlZMEdgFzzwl2bo) | 3:21 |
 | 109 | [528 Hertz \- Solar Plexus Chakra](https://open.spotify.com/track/3kEz4qG9NTVEYWBpuZQPus) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Solfeggio \#2](https://open.spotify.com/album/0hFVXILa2hJgT8aVZIlhya) | 3:29 |
 | 110 | [528 Hz – Transformation and Miracles](https://open.spotify.com/track/3MXGM825MDWkbb5fFaIqVv) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Transformation and Miracles](https://open.spotify.com/album/4v5ABlOSpf8UwLeOQXlPqn) | 3:04 |
 | 111 | [Expressive Binaural Beat](https://open.spotify.com/track/2HUvs4LPYAb22yYDAdOIpp) | [Plexus](https://open.spotify.com/artist/5dbFQbGTkfAvqr9ECyJRsU) | [Floating Sounds](https://open.spotify.com/album/47odIFYF7fKx0gJ54onduE) | 2:30 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 119 | [528 Hz – Delta](https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Delta](https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM) | 2:09 |
 | 120 | [Distant Shores](https://open.spotify.com/track/7g6FnYrGcwTSSlTVLA0gFh) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Solar Wind](https://open.spotify.com/album/16wm7HaUsJXzFIbW2yTTfi) | 2:57 |
 
-Snapshot ID: `MTY4MDc4MjM3NiwwMDAwMDAwMDNlNTgyNWFmMWMzMTJjOWM2NTZhMzkyMjhlNmQwMWQ1`
+Snapshot ID: `MTY4MDc4MjM3NiwwMDAwMDAwMGFkNDM3MzQ1ZjRmODkwMGI5MjU2NjVhMjIzNTBlYThm`

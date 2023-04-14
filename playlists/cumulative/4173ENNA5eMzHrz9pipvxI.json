@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Tungevaag x Orange Inc",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Showtek",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -112,6 +112,28 @@
       "duration_ms": 159200,
       "name": "4Ever",
       "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
+    },
+    {
+      "album": {
+        "name": "5th Symphony",
+        "url": "https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "5th Symphony",
+      "url": "https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe"
     },
     {
       "album": {
@@ -246,7 +268,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 136727,
       "name": "ADRENALINE",
       "url": "https://open.spotify.com/track/15iXvAmIGYzfo0pJ1oTVlj"
@@ -276,6 +298,32 @@
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
+    },
+    {
+      "album": {
+        "name": "After Midnight (feat. Xoro) [Tribute Mix]",
+        "url": "https://open.spotify.com/album/0g2PV7TphyeGzhECPIaVbS"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142206,
+      "name": "After Midnight (feat. Xoro) - Tribute Mix",
+      "url": "https://open.spotify.com/track/010y9pmQWuycencglMYegU"
     },
     {
       "album": {
@@ -454,7 +502,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 241600,
       "name": "Alive (with Und3rsound)",
       "url": "https://open.spotify.com/track/3D8NVux74xT04G4HZfufIW"
@@ -568,6 +616,58 @@
       "duration_ms": 163320,
       "name": "Alone Again (feat. Afrojack & Mougleta)",
       "url": "https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc"
+    },
+    {
+      "album": {
+        "name": "Alone Again (feat. Afrojack & Mougleta) [Vion Konger Remix]",
+        "url": "https://open.spotify.com/album/1MUbnp0xeerxtl8TzEIvan"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Alone Again (feat. Afrojack & Mougleta) [Vion Konger Remix]",
+      "url": "https://open.spotify.com/track/0tSLOizn6KrqwNhPxq9D6F"
+    },
+    {
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/3hv6DpbPmyPaDBO7hrRqJ5"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/3V1XM5IEWW34oUHBBXBjq8"
     },
     {
       "album": {
@@ -890,7 +990,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 156826,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES"
@@ -1130,6 +1230,28 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/0ekaoNdCYnqDhUcA9yDLR7"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Goshfather",
+          "url": "https://open.spotify.com/artist/2g7WWQ12c4FLTtdk0z5mwI"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196087,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/0wRYC5lwtYtJgDLtn1C579"
     },
     {
       "album": {
@@ -2800,7 +2922,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165500,
       "name": "Deep In Your Mind",
       "url": "https://open.spotify.com/track/7FKsdCuo1yykdXGtLuG7rI"
@@ -2848,7 +2970,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 215238,
       "name": "Deeper Love",
       "url": "https://open.spotify.com/track/7c4p2hXyhgQJ1ZGL3bkt4a"
@@ -4233,6 +4355,40 @@
     },
     {
       "album": {
+        "name": "Fiesta (feat. RMA, Lyon Monster)",
+        "url": "https://open.spotify.com/album/0F91yILdvzQ8rxqMRSiERL"
+      },
+      "artists": [
+        {
+          "name": "Bounce Inc.",
+          "url": "https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq"
+        },
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Lyon Monster",
+          "url": "https://open.spotify.com/artist/7GQeq4UJRBOmvxUDes0rjN"
+        },
+        {
+          "name": "RMA",
+          "url": "https://open.spotify.com/artist/4oec5igR3Vg3bsftusWtlL"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "Fiesta (feat. RMA, Lyon Monster)",
+      "url": "https://open.spotify.com/track/5KVarKzAH2S9rzI8W7RmdC"
+    },
+    {
+      "album": {
         "name": "Find Out Who We Are (feat. Lusaint)",
         "url": "https://open.spotify.com/album/1vjph34Y6lOE0t6FXwz9AV"
       },
@@ -4537,6 +4693,28 @@
     },
     {
       "album": {
+        "name": "Free Coke (feat. Def Rhymz)",
+        "url": "https://open.spotify.com/album/21uTKbyC7FlAXYE6dfpdRR"
+      },
+      "artists": [
+        {
+          "name": "Vessbroz",
+          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
+        },
+        {
+          "name": "Def Rhymz",
+          "url": "https://open.spotify.com/artist/5MP0NXMhl5TfFKtG3Q5uk2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Free Coke (feat. Def Rhymz)",
+      "url": "https://open.spotify.com/track/2dIVPfcnxiinalzOQpHWq8"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
       },
@@ -4577,6 +4755,28 @@
     },
     {
       "album": {
+        "name": "Gabber Style",
+        "url": "https://open.spotify.com/album/5cfi9mCr5KXpp00c7MnKi4"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Gabber Style",
+      "url": "https://open.spotify.com/track/2PZgHAuKdSVxtGY5WkKTAL"
+    },
+    {
+      "album": {
         "name": "Gam Gam (feat. SMACK) [Slowed]",
         "url": "https://open.spotify.com/album/1cnGtRbSpP5SKvQtuWru2u"
       },
@@ -4592,7 +4792,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 253125,
       "name": "Gam Gam (feat. SMACK) - Slowed",
       "url": "https://open.spotify.com/track/0BIQan6lhyaH5TvUnSt6sR"
@@ -4614,7 +4814,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179939,
       "name": "Gam Gam (feat. SMACK) - Sped Up Nightcore",
       "url": "https://open.spotify.com/track/4hFfL76BI1rcRWNlHTBWzJ"
@@ -4657,6 +4857,32 @@
     },
     {
       "album": {
+        "name": "Get Get Down",
+        "url": "https://open.spotify.com/album/1Qs4DpLrl9Wdpgzykr6esW"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Da Brozz",
+          "url": "https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Get Get Down",
+      "url": "https://open.spotify.com/track/3TMb7QD4W1mN5UD41zLurG"
+    },
+    {
+      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/42T9vOwFLuLmFDqWqBk0Zb"
       },
@@ -4694,6 +4920,28 @@
       "duration_ms": 169523,
       "name": "Get Me High",
       "url": "https://open.spotify.com/track/0yI0lF9hm1V8J5OZbaJjVF"
+    },
+    {
+      "album": {
+        "name": "Get Shaky (Macon's HYPERTECHNO Remix)",
+        "url": "https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi"
+      },
+      "artists": [
+        {
+          "name": "Ian Carey Project",
+          "url": "https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH"
+        },
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "Get Shaky (Macon's HYPERTECHNO Remix)",
+      "url": "https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM"
     },
     {
       "album": {
@@ -4748,7 +4996,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 154790,
       "name": "GOA",
       "url": "https://open.spotify.com/track/0Kx5s2zyl6KQitP0MDKJwz"
@@ -4870,6 +5118,42 @@
       "duration_ms": 170235,
       "name": "Gravity (feat. Mary Jensen)",
       "url": "https://open.spotify.com/track/5PYCuWpTi45nGbzp4RQnAb"
+    },
+    {
+      "album": {
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/32eRz4zK1Mz4113eASeTtB"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4ByUi288uL4M7UI6M42JFA"
     },
     {
       "album": {
@@ -5568,7 +5852,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 229863,
       "name": "I Can\u2019t Be (with Hakan Akkus) - Slowed Version",
       "url": "https://open.spotify.com/track/3R30i3ZyUp92gnjhKhZzdk"
@@ -5590,7 +5874,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 162537,
       "name": "I Can\u2019t Be (with Hakan Akkus) - Sped Up Version",
       "url": "https://open.spotify.com/track/5HY6WHk5wfb2b3M1LgDgOp"
@@ -5790,7 +6074,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 124426,
       "name": "I Gotta Bounce (HUTS & Charlie Ray Remix)",
       "url": "https://open.spotify.com/track/6A5EHp1H85GnAhci5Xbaoz"
@@ -5878,6 +6162,24 @@
       "duration_ms": 144374,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/0xxX8kHivOoE4ffDVkX7iw"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/3xztCVZEMTiU5er5V5RL0H"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt"
     },
     {
       "album": {
@@ -6168,7 +6470,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 139928,
       "name": "In The House",
       "url": "https://open.spotify.com/track/0FgjmjnCcua8BmqbY08v6y"
@@ -6190,6 +6492,24 @@
       "duration_ms": 147360,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3THwIbFtoroiaFF96X7G1q"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01"
+      },
+      "artists": [
+        {
+          "name": "INDOX",
+          "url": "https://open.spotify.com/artist/1DPs7yxCNV6k92Srsoem4E"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/45nWlWMBYoAGixCKgSLHIy"
     },
     {
       "album": {
@@ -7672,7 +7992,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 224881,
       "name": "Love Like This (Max Styler Remix)",
       "url": "https://open.spotify.com/track/7tOy32q4yj3IDoJD1Lv6ym"
@@ -7804,7 +8124,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 193038,
       "name": "Lovely Day (feat. JANNA)",
       "url": "https://open.spotify.com/track/3pIvZAjkgJXDLlgFaHEuk7"
@@ -8142,7 +8462,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 150000,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/6N4oW9eNyI6skalFOH38OU"
@@ -8164,7 +8484,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 172380,
       "name": "Mamacita (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/3BDaQ8OZwJxRvnrMDJssCL"
@@ -8472,7 +8792,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 155180,
       "name": "MOLLY (ESSEL Remix)",
       "url": "https://open.spotify.com/track/2YFwJSnIT4LJmEQXUhR4Kp"
@@ -8498,7 +8818,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 199111,
       "name": "MOLLY (Will Sparks Remix)",
       "url": "https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y"
@@ -8520,7 +8840,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 162800,
       "name": "Monday (Feat. Philip Strand)",
       "url": "https://open.spotify.com/track/1AvK4RTschGx3fDiYfSwbO"
@@ -9172,6 +9492,24 @@
       "duration_ms": 156895,
       "name": "Need U (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/3jQm9vFT0rePqjLGdk5B7W"
+    },
+    {
+      "album": {
+        "name": "Need You Tonight",
+        "url": "https://open.spotify.com/album/4IME2Pa4fwU3cf8BU1EtQw"
+      },
+      "artists": [
+        {
+          "name": "Marvel Riot",
+          "url": "https://open.spotify.com/artist/5cI4WAoXtZwW7uz55thjkZ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/3xwxnASKPl5ZiFKwoEX1NG"
     },
     {
       "album": {
@@ -10489,6 +10827,24 @@
     },
     {
       "album": {
+        "name": "PH\u00d8NKY DR3AM$",
+        "url": "https://open.spotify.com/album/3ZJb4QWWl0yUWEx94X449a"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140629,
+      "name": "PH\u00d8NKY DR3AM$",
+      "url": "https://open.spotify.com/track/08AMou5UO617XrWMVBXgRi"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS"
       },
@@ -10622,7 +10978,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 161419,
       "name": "Praise Me (feat. Stefi Novo)",
       "url": "https://open.spotify.com/track/4A4OFV3OWOi46aQ3Hw0cs0"
@@ -11818,7 +12174,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 176190,
       "name": "Sippin' on Sunshine",
       "url": "https://open.spotify.com/track/1hwSk273mDWtyWymnzsF6v"
@@ -12684,6 +13040,28 @@
       "duration_ms": 242307,
       "name": "sweet escape",
       "url": "https://open.spotify.com/track/4wrsZKDowF7AFJGfSrFSsa"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209714,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
     },
     {
       "album": {
@@ -14055,6 +14433,28 @@
     },
     {
       "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5ZKuwfrNcsFhS0MwioR6vI"
+      },
+      "artists": [
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "United",
+      "url": "https://open.spotify.com/track/41dLnC4YJrcsKSPP1G6Ya6"
+    },
+    {
+      "album": {
         "name": "Until The Bassline Drops",
         "url": "https://open.spotify.com/album/47yMkJ1LpnuGIldlxTTzb9"
       },
@@ -14136,7 +14536,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 144374,
       "name": "Wahran (Squid Kids Remix)",
       "url": "https://open.spotify.com/track/77T75YsPLPsiqSuRVRVfNH"
@@ -14980,7 +15380,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 154620,
       "name": "Wrong or Right (The Riddle)",
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
@@ -15130,7 +15530,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 151951,
       "name": "YOU (feat. Dotter)",
       "url": "https://open.spotify.com/track/0axT0DfgcNn3qH9lnsTB19"

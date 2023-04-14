@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-214 songs - 10 hr 30 min
+215 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2022-05-05 |  |
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-02-18 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-18 |  |
-| [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 |  |
+| [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-04-13 |  |
+| [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 | 2023-04-14 |
 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-14 |  |
 | [Consonance](https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Consonance](https://open.spotify.com/album/0yKguZ6t1oKjlFSDYkDuzF) | 3:02 | 2022-11-11 |  |
 | [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2022-02-18 |  |
@@ -185,7 +186,7 @@
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-02-18 |  |
 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 | 2022-02-18 |  |
 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 | 2022-02-18 |  |
-| [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2022-02-18 |  |
+| [Spaces](https://open.spotify.com/track/3ihG28Sd7TNFsUQ7pu7f7P) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Mountains](https://open.spotify.com/album/57R4gLdl1jbaEZuyYzhI3n) | 3:25 | 2022-02-18 | 2023-04-14 |
 | [Speed of Light](https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Sleep](https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob) | 2:01 | 2022-02-18 | 2022-12-31 |
 | [Sphera](https://open.spotify.com/track/5uUoengCI6EGB5dSGJuhWG) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Sphera](https://open.spotify.com/album/6mGJWXzSM9eEQOPitK2a9D) | 3:05 | 2022-11-22 |  |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2022-02-18 |  |

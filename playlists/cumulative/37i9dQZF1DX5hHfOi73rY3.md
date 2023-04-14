@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-116 songs - 9 hr 10 min
+117 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Lost In Your Love](https://open.spotify.com/track/0YHO4FoviUi3v4q5d81bS1) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Lost In Your Love](https://open.spotify.com/album/6LFFQHqGu0AhDQNjkCyxpF) | 3:49 | 2020-11-06 | 2022-07-29 |
 | [Low Frequency \- Radio Edit](https://open.spotify.com/track/6BllD3i0p0CuCP0MmkNmv9) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Low Frequency \(Radio Edit\)](https://open.spotify.com/album/4LxCVPvUgub106lO5CKw5J) | 7:15 | 2020-11-06 | 2022-07-10 |
 | [More Than Me](https://open.spotify.com/track/20ieXcjQBv4ePXkWxhvKPV) | [Eliphino](https://open.spotify.com/artist/7xqnFwk6ZueWJ1IA8gsEWM) | [More Than Me](https://open.spotify.com/album/6YTxgb9rMiCvShgFH3gRHG) | 7:01 | 2020-11-06 | 2022-06-27 |
-| [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 | 2020-11-06 |  |
+| [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/track/0BqGOXOlhbxZ0qEDTEEYjG) | [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/album/7C15SGQEeYhm2EN05O9KBU) | 3:25 | 2020-11-06 |  |
+| [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 | 2020-11-06 | 2023-04-14 |
 | [My Head Is A Jungle \- Remix](https://open.spotify.com/track/58cqk8lrssnTQGMWp6wgI3) | [CursedSanity](https://open.spotify.com/artist/3GTQ50msSR4uuj5rax5eEH), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI), [twexih](https://open.spotify.com/artist/3MEAyqQ8SL7qsbnNEcbFQz) | [My Head Is A Jungle \(Remix\)](https://open.spotify.com/album/6TtfObVSatzAH0o0IMzCik) | 3:26 | 2020-11-06 | 2023-01-30 |
 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 | 2020-11-06 |  |
 | [Need U \(100%\) \(feat\. A\*M\*E\)](https://open.spotify.com/track/08ES6fbMwR0D1tIrm8MAKg) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \[Remixes\] \(feat\. A\*M\*E\)](https://open.spotify.com/album/26fxjOkjJc8rTXAj0Uu8GA) | 2:51 | 2020-11-06 | 2022-07-29 |

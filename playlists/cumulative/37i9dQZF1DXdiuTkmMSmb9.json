@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tropical jams to catch a vibe and whine to. Cover: Uncle Waffles",
+  "description": "Tropical jams to catch a vibe and whine to. Cover: Davido",
   "name": "Afro Fusion",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 183349,
       "name": "All Of Us (Ashawo)",
       "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 225266,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3HJ7QmjAgQPrQMfLBcZSCV"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165507,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -1186,6 +1186,28 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
     },
     {
       "album": {
@@ -1462,6 +1484,28 @@
       "duration_ms": 134978,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/1UpnuuaN0ZUEOiprBsHTJF"
+    },
+    {
+      "album": {
+        "name": "Fine Wine",
+        "url": "https://open.spotify.com/album/2iTQdKYKL3X9lKwTKweBhf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bukuru",
+          "url": "https://open.spotify.com/artist/64vfsqk9SccdA5Eqr8XPP7"
+        },
+        {
+          "name": "Lil Nafy",
+          "url": "https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/1D7jWrYO8n5FUbwKfuauQK"
     },
     {
       "album": {
@@ -1829,6 +1873,32 @@
     },
     {
       "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1982,6 +2052,24 @@
       "duration_ms": 188943,
       "name": "Joro",
       "url": "https://open.spotify.com/track/2Ieg17N2qwNJAlocVDObdz"
+    },
+    {
+      "album": {
+        "name": "JULIE",
+        "url": "https://open.spotify.com/album/06ZSuNmm8YWEoZLAKkW93V"
+      },
+      "artists": [
+        {
+          "name": "Quadzzy Sachiv",
+          "url": "https://open.spotify.com/artist/4oaP5o7GkafPbLDNkekIdr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177658,
+      "name": "JULIE",
+      "url": "https://open.spotify.com/track/6oCG7ogQjq210CwMmcpvLk"
     },
     {
       "album": {
@@ -2950,7 +3038,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 145920,
       "name": "My Lil Dancer",
       "url": "https://open.spotify.com/track/4eKr7ZffDd4SigyNaKCkr3"
@@ -3944,7 +4032,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 177972,
       "name": "SADEH",
       "url": "https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN"
@@ -4637,6 +4725,28 @@
     },
     {
       "album": {
+        "name": "TIME TELLS",
+        "url": "https://open.spotify.com/album/09158rfQsbt2I2rDPjrsuV"
+      },
+      "artists": [
+        {
+          "name": "VOLDY",
+          "url": "https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA"
+        },
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "TIME TELLS",
+      "url": "https://open.spotify.com/track/7ELCXw1QxMe1tOcAcEv8KN"
+    },
+    {
+      "album": {
         "name": "To The Beach",
         "url": "https://open.spotify.com/album/2hxrhZ91PVhpoZBaCLMLSU"
       },
@@ -4799,6 +4909,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A"
       },
@@ -4846,7 +4978,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 174545,
       "name": "understand",
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"

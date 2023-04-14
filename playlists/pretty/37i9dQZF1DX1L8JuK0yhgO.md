@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,790 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,792 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 54 | [black enuff](https://open.spotify.com/track/0L9p0fF3HdxKEvKLaNBM4w) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black enuff](https://open.spotify.com/album/6hm8EXSOCKbRxEypqsmag4) | 2:35 |
 | 55 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 | 56 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
-| 57 | [Unstoppable](https://open.spotify.com/track/5ryMNelb7g9CyoqMiWErpm) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:07 |
+| 57 | [Unstoppable](https://open.spotify.com/track/3G5VXWj5wPx25khGIFICtg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/2z9lM6LDS58F70IGyQ1XMK) | 4:07 |
 | 58 | [Nuska](https://open.spotify.com/track/26UhMjAIiO0sV0VsXexUVR) | [Maya Ongaku](https://open.spotify.com/artist/5lVVOY2g3vHmkkHoDdZUmA) | [Nuska](https://open.spotify.com/album/03vp8u64BPXF2urnUZiC5B) | 4:44 |
 | 59 | [The Suite 'A Journey'](https://open.spotify.com/track/5EwfJszotDE5BPeSHlxRgz) | [uami](https://open.spotify.com/artist/3xiMlcfR162PpRFXtCV6fE) | [The Suite 'A Journey'](https://open.spotify.com/album/1wQVGmIEC88O2SCjen0tnY) | 6:39 |
 | 60 | [同じ街を見ている](https://open.spotify.com/track/2leB8GyY3F7WHObWxDR8yV) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [同じ街を見ている](https://open.spotify.com/album/53qmlLtEDEi6hQkLyPRZrK) | 7:45 |
 
-Snapshot ID: `MTY4MTA4MzU0MiwwMDAwMDAwMDUyMjg3YjAwYWQ4ZDkzNTQyNTdlZTBjMmM5ZjcxNzE0`
+Snapshot ID: `MTY4MTA4MzU0MiwwMDAwMDAwMDkwNWYyYjA5NTdiOTI2ZjUyMjZlNzQyMWY0MmFiMzA4`

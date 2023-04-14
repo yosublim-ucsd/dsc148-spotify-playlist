@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-117 songs - 6 hr 17 min
+118 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Awareness Delta Sinus 147Hz \- 150Hz](https://open.spotify.com/track/7jBc8kimjBFz2SNB6NZJ55) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:12 | 2021-12-22 |  |
 | [Bergruf Delta 83Hz \- 86Hz](https://open.spotify.com/track/5gytJm0G0FhSigCcYM1SEs) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 4:00 | 2021-12-22 |  |
 | [Binaural 1HZ Delta \- 87HZ \- 88HZ](https://open.spotify.com/track/0dkDiq6NzOTStndyEBdi6W) | [Healing Sines Binaural](https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms) | [Healing Sines Binaural](https://open.spotify.com/album/0AbJLoQG79vDi859ELxGJi) | 2:13 | 2022-12-22 |  |
+| [Binaural Delta 110\-112 Hz](https://open.spotify.com/track/3kZpjmsjqQW56uOxxHBMII) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Binaural Delta 110\-112 Hz](https://open.spotify.com/album/0Ah1ciN69hSt2YtZB1YTiE) | 2:55 | 2023-04-13 |  |
 | [Binaural Delta 160 Hz \- 165 Hz](https://open.spotify.com/track/4op2Y7dhZqdCqW9sZ7JyDv) | [Qhol](https://open.spotify.com/artist/1hdHCi0RoW0eZN8LzyzzLY) | [Binaural Beats Delta](https://open.spotify.com/album/2QeKfVOzOWztD4nwJ1Jcwb) | 3:32 | 2021-12-22 | 2022-08-13 |
 | [Binaural Delta 1hz 123hz and 124hz](https://open.spotify.com/track/1n2HzVLCZSEZ2ME1AutT73) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:32 | 2021-12-22 |  |
 | [Binaural Delta 2 Hz](https://open.spotify.com/track/4HbRNPuvixnD5XDlIK6AnO) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2021-12-22 |  |

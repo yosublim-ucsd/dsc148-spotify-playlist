@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 591370,
+  "num_followers": 591906,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxMzgyMCwwMDAwMDAwMGM5ZGNhZWZmZGM1NzY1MmY5ZTgwZGNiYjNjMmMxNmE2",
+  "snapshot_id": "MTY3OTAxMzgyMCwwMDAwMDAwMDhjM2IzODViOWNjNjliNGJjODYzZDg5NmFlYjY5ZGMx",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Suicide (2019 - Remaster)",
         "url": "https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 153440,
       "name": "Ghost Rider - 2019 - Remaster",
       "url": "https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 486240,
-      "name": "Tower Of Strength",
-      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Forever (Expanded Edition)",
         "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 185226,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 486240,
+      "name": "Tower Of Strength",
+      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
     },
     {
       "added_at": "2021-10-15 04:04:50",

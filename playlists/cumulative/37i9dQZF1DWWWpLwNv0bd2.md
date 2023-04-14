@@ -2,9 +2,9 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Vaathi
+> Check out the Latest Romance Tracks.<br/>Cover : Rudhran
 
-127 songs - 8 hr 34 min
+128 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Oru Arai Unathu](https://open.spotify.com/track/12I5lJG6IdTtt0QjNHFgHr) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sanah Moidutty](https://open.spotify.com/artist/20Gkw6vtNrfmiPP1q7TakX) | [Maara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/07zKfMmyPo0FCMqngBBckL) | 4:05 | 2021-11-29 | 2022-06-21 |
 | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/55mEN7iiqTNzWfYjF8QbQn) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7) | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/69MQlshE2Cveetu5T2b2JT) | 5:40 | 2021-11-29 | 2022-10-19 |
 | [Over'a Feel Pannuren \(From "Hero"\)](https://open.spotify.com/track/6APkITSPsI5hnSQty3RK1h) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [MC Sanna](https://open.spotify.com/artist/79U8u5jWzt6NFUlwgMMGT0) | [Over'a Feel Pannuren \(From "Hero"\)](https://open.spotify.com/album/3drmLuiNDXe1vqU5ZWwVvK) | 3:43 | 2021-11-29 | 2022-06-21 |
+| [Paadatha Pattellam \(From "Rudhran"\)](https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Emcee D](https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8), [Viswananthan \- Ramamoorthy](https://open.spotify.com/artist/4boLbuKNNyZVHPALfmbtN4), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Kannadasan](https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB) | [Paadatha Pattellam \(From "Rudhran"\) \- Single](https://open.spotify.com/album/5l3eBNA5oU8nLlLty57mUT) | 4:47 | 2023-04-13 |  |
 | [Paathi Nee Paathi Naan \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/track/670iKfSnpak9BdFsrArKSB) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Paathi Nee Paathi Naan \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/album/6Jjewe3aw0BpZDtkssx7ZG) | 6:10 | 2022-10-27 | 2022-11-06 |
 | [Pacha Elai](https://open.spotify.com/track/5jmW454u8igkIgEVgvfSOE) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 3:30 | 2023-01-04 |  |
 | [Paniththuli](https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Raangi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20nZf9JmukKgEA5dlqiYED) | 4:06 | 2022-12-30 |  |

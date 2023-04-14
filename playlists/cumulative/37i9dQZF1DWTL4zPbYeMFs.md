@@ -4,13 +4,13 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-49 songs - 3 hr 52 min
+50 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5hRXhmEuQW3SJwX94BBV6u) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6jz8TnD4K4fOeGHAnd3fwM) | 0:00 | 2022-03-14 |  |
+| [](https://open.spotify.com/track/5hRXhmEuQW3SJwX94BBV6u) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6jz8TnD4K4fOeGHAnd3fwM) | 0:00 | 2022-03-14 | 2023-04-14 |
 | [](https://open.spotify.com/track/5sleet26J1GCHLL42Dn6OV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nankana](https://open.spotify.com/album/1t6NDICI2JD505CLOLT0WV) | 0:00 | 2022-03-14 | 2023-02-24 |
-| [](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 0:00 | 2022-03-14 |  |
+| [](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 0:00 | 2022-03-14 | 2023-04-14 |
 | [Aaj Sajeya](https://open.spotify.com/track/1Oyfarj5ipZwEup8DUM7hA) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya \- Single](https://open.spotify.com/album/5K07SMgR7RxfpsgDcNmD2o) | 3:49 | 2023-02-23 |  |
 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 | 2022-03-14 |  |
 | [Baari Barsi](https://open.spotify.com/track/16168M9xvIA5FqGlurQfsv) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:42 | 2022-03-14 |  |
@@ -42,6 +42,7 @@
 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 | 2022-03-14 |  |
 | [Mehndi Ki Raat](https://open.spotify.com/track/6yyC676TchwgOyhVfOykxA) | [Models](https://open.spotify.com/artist/7rH3S7xMKRVSr0JrpqTUIZ) | [Jaana Hai Bollywood](https://open.spotify.com/album/1ZhKxioBc0HF6CDGYHXMpx) | 4:23 | 2022-03-14 |  |
 | [Mehndi Ki Raat](https://open.spotify.com/track/7y6GHj9Jc5ZT0pMNwkw95x) | [Shree Lekha](https://open.spotify.com/artist/1pjbVA2ocNjqiOaFbFvabI), [Sonali Das](https://open.spotify.com/artist/4D6r0qWAWcU9gzfTi6uinn), [Dipali](https://open.spotify.com/artist/2hbLXaqzGVQ2YLXuDMja39), [Anuja](https://open.spotify.com/artist/5V8DocXmZeYm3zZ3dYS8IF), [Bhushan Dua](https://open.spotify.com/artist/4PhJv48oy3YJMQ5hDt9BFu) | [Mehndi Ki Raat](https://open.spotify.com/album/3ZiZ9EigOAvzrAe24eE9sJ) | 45:51 | 2022-03-14 |  |
+| [Mehndi Rach Gayi](https://open.spotify.com/track/4r2fV0KNndCU7txcDtozPp) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Raghav](https://open.spotify.com/artist/3eU2hgCTO4RdLni6qYMEtr) | [Mehndi Rach Gayi](https://open.spotify.com/album/1QWCGnoYkQ1nHH31CMIxbs) | 3:48 | 2023-04-13 |  |
 | [Mere Wala Sardar](https://open.spotify.com/track/4lSSJcfptqRAv9cTzpherg) | [Jagraj Sandhu, Dr\. Shree](https://open.spotify.com/artist/3xnffjIEcOUvK7FUu38Mh9) | [Mere Wala Sardar](https://open.spotify.com/album/06RDH8jeLq7ySpetjFtr5I) | 5:16 | 2022-03-14 | 2022-07-29 |
 | [Mere Wala Sardar](https://open.spotify.com/track/3hCLDKPwRELWLnYF3nOY5J) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Mere Wala Sardar](https://open.spotify.com/album/4ak8uKr82XTB2QVh48CAkC) | 5:16 | 2022-03-14 |  |
 | [Mere Wala Sardar](https://open.spotify.com/track/3ytXkORQXWSs4EKUj2T9z0) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Hits Of Dr\. Shree](https://open.spotify.com/album/6MurzRDPW3lMSMirQfAG24) | 5:16 | 2022-03-14 | 2022-11-14 |

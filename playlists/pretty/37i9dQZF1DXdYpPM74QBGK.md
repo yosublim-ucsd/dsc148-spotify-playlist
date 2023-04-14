@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 
 > Party on with these top children's tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

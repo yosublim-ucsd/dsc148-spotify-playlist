@@ -4,12 +4,13 @@
 
 > Exceptionally vivid icebreaker in your love pursuit.
 
-77 songs - 4 hr 28 min
+78 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 |  |
+| [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 | 2023-04-13 |  |
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 |  |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 | 2022-11-08 |
@@ -64,7 +65,7 @@
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 |  |
 | [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 | 2022-09-24 |
 | [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 |  |
-| [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 |  |
+| [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 | 2023-04-14 |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2023-02-10 |
 | [Nitakupenda](https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h) | [Lafrik](https://open.spotify.com/artist/5218C7zgbDGmoMXmf852Fr) | [Love Freaks](https://open.spotify.com/album/1ZSYlH5K7t5wNnM1jq45zT) | 4:05 | 2022-11-17 | 2023-01-20 |
 | [Nitaubeba](https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Nitaubeba](https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI) | 4:10 | 2022-10-27 |  |

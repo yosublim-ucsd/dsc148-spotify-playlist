@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 268249,
+  "num_followers": 268407,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDA1MmUwZGIxMGVkNTUwOGIzYjEyYmQ3MmI1YzBhYTM1",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDI3ZWVjYWMzZDM3ZTRkYjdiNjkxNzU0Y2E0MWZhZTgz",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Cyber Love",
         "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 149508,
       "name": "The Way U Make Me Feel",
       "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1183,42 +1183,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "You Can't Run",
-        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "You Can't Run",
-      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "\u9055\u3046",
-        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "\u9055\u3046",
-      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1239,6 +1203,42 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "\u9055\u3046",
+        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "\u9055\u3046",
+      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "You Can't Run",
+        "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "You Can't Run",
+      "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 170634,
       "name": "Kratos in Love",
       "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "REFRESH",
+        "url": "https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "REFRESH",
+      "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1283,22 +1299,6 @@
       "duration_ms": 245901,
       "name": "Virtual World",
       "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "REFRESH",
-        "url": "https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "REFRESH",
-      "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Montaime, Vol. 1",
-        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
       "artists": [
         {
-          "name": "Bazz",
-          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
         }
       ],
-      "duration_ms": 369500,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
       },
       "artists": [
         {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
-      },
-      "artists": [
-        {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "SOUL MATES",
         "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 149028,
       "name": "CHERRY BLOSSOMS",
       "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "#TRUE FUTURE",
+        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+      },
+      "artists": [
+        {
+          "name": "Q-Rabbit",
+          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "keep down flyday",
+      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
         }
       ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
       },
       "artists": [
         {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
     },
     {
       "added_at": "2022-11-04 05:37:30",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: BLOK3",
   "name": "NKVT",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 182117,
       "name": "AFFETMEM",
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
+    },
+    {
+      "album": {
+        "name": "ANLARSIN",
+        "url": "https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "ANLARSIN",
+      "url": "https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK"
     },
     {
       "album": {
@@ -274,7 +296,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 116572,
       "name": "D\u00fcnya Fani",
       "url": "https://open.spotify.com/track/0zryFWOTwY1BDcED6t27Sl"
@@ -757,7 +779,7 @@
     },
     {
       "album": {
-        "name": "\u0130MPARATOR",
+        "name": "\u0130mparator",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
       },
       "artists": [
@@ -774,7 +796,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 124716,
-      "name": "\u0130MPARATOR",
+      "name": "\u0130mparator",
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
     },
     {
@@ -819,7 +841,7 @@
     },
     {
       "album": {
-        "name": "\u0130NT\u0130KAM",
+        "name": "\u0130ntikam",
         "url": "https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p"
       },
       "artists": [
@@ -840,7 +862,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156233,
-      "name": "\u0130NT\u0130KAM",
+      "name": "\u0130ntikam",
       "url": "https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP"
     },
     {
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 134265,
       "name": "OU LA LA",
       "url": "https://open.spotify.com/track/24FZ92GqBPpb0mGjxFGFm3"
@@ -1364,6 +1386,24 @@
       "duration_ms": 110500,
       "name": "Patron",
       "url": "https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV"
+    },
+    {
+      "album": {
+        "name": "CAFFEINEE",
+        "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104521,
+      "name": "PHONK (200mg)",
+      "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
     },
     {
       "album": {
@@ -1440,6 +1480,24 @@
       "duration_ms": 123629,
       "name": "Sahibinden",
       "url": "https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn"
+    },
+    {
+      "album": {
+        "name": "Sanr\u0131",
+        "url": "https://open.spotify.com/album/2aw9aPehxFaGsSOF7gvokf"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Sanr\u0131",
+      "url": "https://open.spotify.com/track/76eX8w7u3if9mc7DkTWa6g"
     },
     {
       "album": {
@@ -1604,7 +1662,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 149508,
       "name": "Tarihin En \u0130yisi",
       "url": "https://open.spotify.com/track/3mgF1mUM8j1VmKVwjhnxGk"

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,643 likes - 116 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,696 likes - 116 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tramonto](https://open.spotify.com/track/3smLYiUCcqOwOVmYroTDN7) | [Aamina Russo](https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO) | [Tramonto](https://open.spotify.com/album/2pOZVs9uO37Uk63vlU7ZIG) | 2:13 |
 | 2 | [Najwa](https://open.spotify.com/track/70NPUSdBzHpn8XK3Me2Ib4) | [Le Palade](https://open.spotify.com/artist/5jP3W8hxwSZ0VsyQ3jiMbu) | [Najwa](https://open.spotify.com/album/0yFoH1OOoU1FNV3qmto91u) | 2:53 |
 | 3 | [Gliding \(432 Hz\)](https://open.spotify.com/track/3rzxwzDHfFVSFLFi2AoIjS) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Gliding \(432 Hz\)](https://open.spotify.com/album/3UG5yRWKkbkewqYDC1Raus) | 2:45 |
-| 4 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
-| 5 | [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 |
-| 6 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 |
-| 7 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 |
-| 8 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 |
-| 9 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
+| 4 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 |
+| 5 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
+| 6 | [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 |
+| 7 | [Jij bent alles](https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In het licht van de maan](https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP) | 3:40 |
+| 8 | [Rejuvenate](https://open.spotify.com/track/2BMsZTRgwxpLN4tQFSUcSo) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Rejuvenate](https://open.spotify.com/album/0ovPC1p3FWLW1NHSgiobYf) | 3:13 |
+| 9 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 |
 | 10 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 |
 | 11 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 |
 | 12 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 115 | [infinity](https://open.spotify.com/track/6EMvtm8uRwnPU6nvTgMHV7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [inner focus \(meditation\)](https://open.spotify.com/album/17UAPjFDSI5stoNdmqvLAn) | 2:55 |
 | 116 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 
-Snapshot ID: `MTY4MDIyMDg2MCwwMDAwMDAwMDY0NjNjYTU5ODRmMTAwM2M5NDRlNzEyZmVkYjVlZmVm`
+Snapshot ID: `MTY4MTQwMzAxMCwwMDAwMDAwMDk4NjAxZDZkYmFiZjhhYTQ4OTVhNjlhMDFjODVmYzYw`

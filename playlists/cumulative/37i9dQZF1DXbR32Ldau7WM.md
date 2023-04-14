@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Ling tosite sigure\(凛として時雨\)
 
-579 songs - 1 day 14 hr 32 min
+580 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 | 2022-07-26 |  |
 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 | 2023-02-21 |  |
 | [SUPER SHINING](https://open.spotify.com/track/7wshhBA3bfHSnSHELxoWBD) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [1997](https://open.spotify.com/album/6yxrNvlYKjfx2yRRiMquCb) | 4:38 | 2022-11-29 | 2022-12-07 |
-| [TABUN MAYBE MEIJI feat\. A, TAGIRENTAROU](https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [A, TAGIRENTAROU](https://open.spotify.com/artist/7nBxAYdWlDlGkjEAEnOvm3) | [Rekishichi](https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7) | 3:31 | 2023-03-28 |  |
+| [TABUN MAYBE MEIJI feat\. A, TAGIRENTAROU](https://open.spotify.com/track/4A82whhuPt2nvg4InDrtYP) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [A, TAGIRENTAROU](https://open.spotify.com/artist/7nBxAYdWlDlGkjEAEnOvm3) | [Rekishichi](https://open.spotify.com/album/2mOomPDvaYSmHgexSdxWq7) | 3:31 | 2023-03-28 | 2023-04-14 |
 | [Taiyo to Ikaros](https://open.spotify.com/track/3xLIAnOBUvz3tcMIn6zh7L) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Taiyo to Ikaros](https://open.spotify.com/album/2ZC6smjFEaTONbYg0vnaBx) | 4:30 | 2023-03-07 | 2023-03-22 |
 | [Talk To You \- Prototype PGM Ver](https://open.spotify.com/track/1xDQCYeYMobil20w3vVyPH) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [MILAD \#2](https://open.spotify.com/album/4n9vbVhcs7u64Hcz10NgRu) | 2:58 | 2022-05-31 | 2022-06-02 |
 | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/track/6ih5w4QRlo6h75rbfqgBZg) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [Tanoshii Oshigoto Aikokai](https://open.spotify.com/album/7HTlTlJ0rWjVvVyR5ExNHh) | 5:31 | 2022-11-10 | 2022-11-23 |
@@ -338,6 +338,7 @@
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-14 |  |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |
+| [WHAT A VIBE](https://open.spotify.com/track/2KX9MYhJIEnMxwk4e7e1nd) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [8 STRAIGHT](https://open.spotify.com/album/0uRTvsBQIiW5inVvIwzHPU) | 3:52 | 2023-04-13 |  |
 | [What a View](https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [I Want to See You So Badly](https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00) | 2:04 | 2023-02-28 | 2023-03-08 |
 | [When the Ship Rolls In](https://open.spotify.com/track/6IUulBDi2zoxZoTlDXLuRe) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Adjusted](https://open.spotify.com/album/3vi50McgHideZ6Ke8dBCzz) | 4:07 | 2022-12-13 | 2022-12-21 |
 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 | 2022-07-19 | 2022-08-04 |

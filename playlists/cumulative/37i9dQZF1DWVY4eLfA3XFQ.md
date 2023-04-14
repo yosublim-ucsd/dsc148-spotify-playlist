@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Joshwa
 
-997 songs - 2 day 10 hr 59 min
+998 songs - 2 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Give It to Me](https://open.spotify.com/track/3XXAkCPRpobjhmIgBltXVG) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Give It to Me](https://open.spotify.com/album/0TmMKbUwgUWNR8u0PqKQl4) | 3:01 | 2022-05-13 | 2022-07-16 |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2021-11-26 | 2022-04-02 |
 | [Glasgow's Jazz \- Derrick Carter Remix](https://open.spotify.com/track/1EjJxLLLN0f19k9scdmmZN) | [DJ Q](https://open.spotify.com/artist/1MrYB01nLTzUsGov6Srt3C), [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm) | [Elvis Never Meant Shit to me](https://open.spotify.com/album/6KIh5vfylDn73InRJIQMRY) | 7:49 | 2022-12-28 | 2023-01-06 |
-| [Goa](https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [Goa](https://open.spotify.com/album/4Y3cDaMSVNiZ2LJwNO0ANm) | 2:31 | 2023-02-17 |  |
+| [Goa](https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [Goa](https://open.spotify.com/album/4Y3cDaMSVNiZ2LJwNO0ANm) | 2:31 | 2023-02-17 | 2023-04-14 |
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-05 | 2023-02-11 |
 | [Goodies](https://open.spotify.com/track/68q05Ar0SJHEI1padmFRp9) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Goodies](https://open.spotify.com/album/1C1b1rHuDE9xVal5ybjaz2) | 2:55 | 2022-02-25 | 2022-04-23 |
 | [Gory Love](https://open.spotify.com/track/6M8iLzSQZ3DAe79X0hDlkL) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj) | [Gory Love](https://open.spotify.com/album/2alPuqga9DmG6ojNm26eXM) | 7:24 | 2022-12-28 | 2023-01-06 |
@@ -828,6 +828,7 @@
 | [Summertime Chi](https://open.spotify.com/track/3HlPJZPGeUwU3MdTCpuzvj) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Summertime Chi](https://open.spotify.com/album/3YLzNH6gHFJM0c28DLIAMJ) | 3:51 | 2022-05-13 | 2022-05-28 |
 | [Sun Goes Down \(feat\. KILLUA\) \- Guz Remix](https://open.spotify.com/track/5OqjDdZd9Yo2dbjrllnUjs) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Sun Goes Down \(feat\. KILLUA\) \[Guz Remix\]](https://open.spotify.com/album/542hQ6L27oSozwt1v4OOeU) | 2:39 | 2022-09-23 | 2022-10-15 |
 | [Sunshine](https://open.spotify.com/track/0qH77q5xCLdGaf19ZNNRxA) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [J Farrukh](https://open.spotify.com/artist/4JM9FW5tJQBkarX1rLTRT0) | [Sunshine](https://open.spotify.com/album/2c6jGCUhdCwGktUHo2DfQ8) | 3:10 | 2022-07-22 | 2022-09-06 |
+| [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/track/5kYwg6VjXxq33Ur7MYwfCb) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/album/6EPQ2xDyB71ZdEis7MVNlg) | 2:07 | 2023-04-07 |  |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-07-16 |
 | [Supernatural \- feat\. Ursula Rucker](https://open.spotify.com/track/2AqSeHrVaD64Csir2xKsDj) | [King Britt](https://open.spotify.com/artist/3dLfgaGJjjkkF1OUNiEput), [Firefly](https://open.spotify.com/artist/1MSiu4alHI6S2lZtiFvUjH), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj), [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm) | [Supernatural \(feat\. Ursula Rucker\)](https://open.spotify.com/album/0PWh8841UagFUDH5Xw1bR3) | 9:30 | 2022-12-28 | 2023-01-06 |
 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 | 2022-12-09 | 2023-02-04 |

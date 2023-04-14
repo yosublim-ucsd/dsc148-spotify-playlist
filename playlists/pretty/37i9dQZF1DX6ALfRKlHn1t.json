@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1034071,
+  "num_followers": 1034415,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzNDc5MywwMDAwMDAwMDdmNzE0OWNiMDY3ZTM1NjliZWIwYjA0N2RmYzZjYTA4",
+  "snapshot_id": "MTY4MDAzNDc5MywwMDAwMDAwMDRiNDY4OTFlNWViYzEwODgxNThmOTBmYzA4OGQ5Yjhm",
   "tracks": [
     {
       "added_at": "2023-03-14 21:21:02",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
     },
     {
-      "added_at": "2023-04-13 00:47:36",
+      "added_at": "2023-04-14 00:48:26",
       "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
+        "name": "Sadnecessary (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
         "name": "The Best Of Sugar Ray",
         "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 205065,
       "name": "Straight Jacket",
       "url": "https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
-        "name": "Sadnecessary (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/2UAWVtEwFLJqdJsT8FCzKX"
     },
     {
       "added_at": "2023-03-14 21:21:02",

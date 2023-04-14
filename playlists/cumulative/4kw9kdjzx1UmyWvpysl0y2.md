@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-453 songs - 1 day 2 hr 30 min
+454 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
 | [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 |  |
+| [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 |  |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |
@@ -90,7 +91,7 @@
 | [Collide](https://open.spotify.com/track/57qkaXRbGABcwhXSitxCNy) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Collide](https://open.spotify.com/album/0OsvXFnxq0BxmMYMonipLZ) | 3:43 | 2022-10-14 | 2022-11-20 |
 | [Collide](https://open.spotify.com/track/5DsHIpQYhemlXf5OZ1VYlw) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:43 | 2022-11-19 | 2022-11-22 |
 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 | 2022-11-09 | 2023-02-04 |
-| [Come Closer](https://open.spotify.com/track/3IpPQ5sXybfzGycTxDTe4d) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Come Closer](https://open.spotify.com/album/6lDUSSyVDMwhHGzDfyopfK) | 3:58 | 2023-01-27 |  |
+| [Come Closer](https://open.spotify.com/track/3IpPQ5sXybfzGycTxDTe4d) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Come Closer](https://open.spotify.com/album/6lDUSSyVDMwhHGzDfyopfK) | 3:58 | 2023-01-27 | 2023-04-14 |
 | [Come With Me](https://open.spotify.com/track/6YtkMh0vUE21T6f2P1G5XG) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Sally Jay](https://open.spotify.com/artist/6XkbDOU2h2CIOWzP0BiKQb) | [Come With Me](https://open.spotify.com/album/7xwEXVETqYsp5GBbHGQZaO) | 3:30 | 2022-04-18 | 2022-06-30 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |

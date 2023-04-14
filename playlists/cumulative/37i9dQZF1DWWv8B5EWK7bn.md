@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-288 songs - 20 hr 46 min
+290 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 | 2021-10-15 |  |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 |  |
 | [Glass & Patron](https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [M3LL155X](https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3) | 4:18 | 2023-01-20 | 2023-03-18 |
-| [Gloss](https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Gloss](https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76) | 2:25 | 2022-10-05 |  |
+| [Gloss](https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Gloss](https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76) | 2:25 | 2022-10-05 | 2023-04-14 |
 | [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-08-13 |  |
 | [Golden Air](https://open.spotify.com/track/0lk1ZMt8nhJzLKHCABWn3U) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 5:42 | 2022-05-24 | 2022-07-29 |
 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 | 2022-05-24 | 2022-09-10 |
@@ -115,6 +115,7 @@
 | [Homing](https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:40 | 2021-10-06 | 2022-11-04 |
 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 6:23 | 2023-01-20 | 2023-03-25 |
 | [hua\(3\)](https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu) | [Eupholks](https://open.spotify.com/artist/2yYhno6kAd33lPC1lLyS1o) | [hua\(3\)](https://open.spotify.com/album/60fPszZFgxX6fpYz3vYINi) | 3:00 | 2022-03-11 | 2022-07-16 |
+| [Huff + Puff](https://open.spotify.com/track/5W3qqq6iOPAqzPzDdW6Ikk) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [82](https://open.spotify.com/album/7jr975DQBFo5C1645zw17C) | 3:57 | 2023-04-14 |  |
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2023-01-20 | 2023-03-18 |
 | [I KNOW YOU'RE HAPPY](https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:15 | 2023-01-20 |  |
 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 | 2023-01-20 | 2023-03-18 |
@@ -175,7 +176,7 @@
 | [Nisemono](https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 3:01 | 2022-09-09 | 2023-03-25 |
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-08-02 |  |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2022-10-21 |
-| [NOISE OF YOU](https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NOISE OF YOU](https://open.spotify.com/album/20pMri0ddvWd39kpDSSjgl) | 5:15 | 2023-01-20 |  |
+| [NOISE OF YOU](https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NOISE OF YOU](https://open.spotify.com/album/20pMri0ddvWd39kpDSSjgl) | 5:15 | 2023-01-20 | 2023-04-14 |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-09-03 |  |
 | [Nothing's Wrong](https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 3:49 | 2023-03-31 |  |
 | [Ocean noir](https://open.spotify.com/track/0JWtd6oSI8wlvMz4Tvctts) | [SKYGGE](https://open.spotify.com/artist/4aGSoPUP1v4qh7RfBlvgbR), [Benoît Carré](https://open.spotify.com/artist/3CmH9mzBhbcOu7ugWxFW5V) | [Ocean noir](https://open.spotify.com/album/6loTihjQ0lHtEFxjOcPjC3) | 3:57 | 2022-02-15 | 2022-08-04 |
@@ -194,6 +195,7 @@
 | [Phantom Throb](https://open.spotify.com/track/4HTssxgiSfzBgJz0OpGflP) | [Hymie's Basement](https://open.spotify.com/artist/13EcvIBumjgScGWRdX4z3b), [WHY?](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH), [Fog](https://open.spotify.com/artist/07fCHWZAafI3Dd4T1svHhd) | [Phantom Throb](https://open.spotify.com/album/30nUHO4LbymjkGJLDM2QTq) | 3:54 | 2022-01-11 |  |
 | [Plans](https://open.spotify.com/track/08IFsxnFORrTeM1mz4EuvH) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/1GmdNCH9lvYzn0ZgtG8Mpa) | 5:38 | 2021-10-06 | 2022-07-29 |
 | [Plans](https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:38 | 2021-10-06 |  |
+| [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 | 2023-04-13 |  |
 | [Quirk](https://open.spotify.com/track/326iKm66vm3bhCXAOxh3xK) | [Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y) | [Really From](https://open.spotify.com/album/06jgHnFcljRkBImNYTddpB) | 4:12 | 2021-10-06 | 2022-07-15 |
 | [Rain Take Me Back Himalaya](https://open.spotify.com/track/4S2be7DT90dt19piW7wj8O) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Plexiglass](https://open.spotify.com/album/34vLOdj6NXH9oESFFJa9F1) | 4:27 | 2022-07-04 | 2022-09-23 |
 | [Ready To Ball](https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Ready To Ball](https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp) | 3:27 | 2023-03-23 |  |

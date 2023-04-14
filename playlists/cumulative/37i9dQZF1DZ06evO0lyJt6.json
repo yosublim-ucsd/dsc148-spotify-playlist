@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "A Trav\u00e9s Del Vaso (Remix)",
+        "url": "https://open.spotify.com/album/04p0aiRCV9JcI0w4tY8fOZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        },
+        {
+          "name": "Sencilla Conexion",
+          "url": "https://open.spotify.com/artist/2ZtiUpyZARUBzAeirKPDHd"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222693,
+      "name": "A Trav\u00e9s Del Vaso - Remix",
+      "url": "https://open.spotify.com/track/7hGOJhq8xVG1J1UyQnU2GE"
+    },
+    {
+      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3"
       },

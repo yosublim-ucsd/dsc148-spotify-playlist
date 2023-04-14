@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
@@ -6913,6 +6913,32 @@
     },
     {
       "album": {
+        "name": "Morgenlicht",
+        "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173499,
+      "name": "Morgenlicht",
+      "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
+    },
+    {
+      "album": {
         "name": "Mr Brightside",
         "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
       },
@@ -8630,6 +8656,28 @@
       "duration_ms": 197939,
       "name": "Renaissance Of Rave",
       "url": "https://open.spotify.com/track/4Pz8GNHkByRlPSnhBK0Qj9"
+    },
+    {
+      "album": {
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
     },
     {
       "album": {
@@ -12029,6 +12077,24 @@
     },
     {
       "album": {
+        "name": "Where is the Beat?",
+        "url": "https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Where is the Beat?",
+      "url": "https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS"
+    },
+    {
+      "album": {
         "name": "Whiskey",
         "url": "https://open.spotify.com/album/1yHjM9qOSBKTIF9e9lBnAJ"
       },
@@ -12204,7 +12270,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 142382,
       "name": "You Spin Me Round (Like a Record) - Earsquaker Edit",
       "url": "https://open.spotify.com/track/74LLvj0QShtvR5fpufIDtx"
@@ -12248,7 +12314,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 167072,
       "name": "YRML 2K20",
       "url": "https://open.spotify.com/track/0gakxtyAQxCAQ9h7PiUpKu"

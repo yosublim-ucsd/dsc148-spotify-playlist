@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Vaathi",
+  "description": "Check out the Latest Romance Tracks.\nCover : Rudhran",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -2042,6 +2042,44 @@
       "duration_ms": 223685,
       "name": "Over'a Feel Pannuren (From \"Hero\")",
       "url": "https://open.spotify.com/track/6APkITSPsI5hnSQty3RK1h"
+    },
+    {
+      "album": {
+        "name": "Paadatha Pattellam (From \"Rudhran\") - Single",
+        "url": "https://open.spotify.com/album/5l3eBNA5oU8nLlLty57mUT"
+      },
+      "artists": [
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Nithyashree Venkataramanan",
+          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
+        },
+        {
+          "name": "Emcee D",
+          "url": "https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8"
+        },
+        {
+          "name": "Viswananthan - Ramamoorthy",
+          "url": "https://open.spotify.com/artist/4boLbuKNNyZVHPALfmbtN4"
+        },
+        {
+          "name": "Dharan Kumar",
+          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
+        },
+        {
+          "name": "Kannadasan",
+          "url": "https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287391,
+      "name": "Paadatha Pattellam (From \"Rudhran\")",
+      "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
     },
     {
       "album": {

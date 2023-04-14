@@ -4,7 +4,7 @@
 
 > Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Camilla Magli
 
-110 songs - 5 hr 22 min
+111 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2023-04-11 |  |
 | [Flora](https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Flora](https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt) | 3:16 | 2023-04-11 |  |
 | [Foot Forward](https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Foot Forward](https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK) | 2:34 | 2022-08-31 | 2023-04-12 |
+| [Forever Young](https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Forever Young](https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd) | 2:33 | 2023-04-13 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-08-31 | 2023-04-12 |
 | [GIRASOLE](https://open.spotify.com/track/0wW7yRFcQrhXNjBwfcm1Gw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 3:17 | 2022-11-07 | 2022-11-13 |
 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 | 2022-08-31 | 2023-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > música para insubordinados\. Blnko en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,234 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,251 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

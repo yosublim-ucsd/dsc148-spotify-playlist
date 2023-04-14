@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126483,
+  "num_followers": 126481,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDJlZjRkZGRlZDFmYmZiZmIwOTkzOTQ4YmNhMjAxMzY2",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDNkY2VhYTk4YmQxN2FjMTEyNDAyNTA0NjgxZWYwNjI5",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Snowfall: The Tony Bennett Christmas Album",
-        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 141240,
       "name": "Real Love - from the John Lewis Christmas Advert 2014",
       "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Snowfall: The Tony Bennett Christmas Album",
+        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
     },
     {
-      "added_at": "2022-11-18 01:17:11",
-      "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Loneliest Time Of Year",
@@ -783,6 +767,22 @@
       "duration_ms": 202613,
       "name": "Loneliest Time Of Year",
       "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
+    },
+    {
+      "added_at": "2022-11-18 01:17:11",
+      "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 227887,
       "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD"
     },
     {
-      "added_at": "2022-12-02 00:00:00",
-      "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "This Time Of Year",
@@ -963,6 +947,22 @@
       "duration_ms": 222855,
       "name": "This Time Of Year",
       "url": "https://open.spotify.com/track/0RgCDjkBW0pZoNQHuIdEu5"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "This Christmas Day",
+        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "This Christmas Day",
+      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 225576,
       "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "This Christmas Day",
-        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "This Christmas Day",
-      "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "This Must Be Christmas",
+        "url": "https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 213182,
+      "name": "This Must Be Christmas - Single Mix",
+      "url": "https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
         "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 129679,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "This Must Be Christmas",
-        "url": "https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 213182,
-      "name": "This Must Be Christmas - Single Mix",
-      "url": "https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c"
     }
   ],
   "unique_name": "Easy Christmas",

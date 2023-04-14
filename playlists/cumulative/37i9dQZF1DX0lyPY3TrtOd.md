@@ -4,7 +4,7 @@
 
 > Extatische gevoelens met prachtige muziek
 
-97 songs - 5 hr 36 min
+99 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 | 2023-02-23 |  |
 | [Earth Sick](https://open.spotify.com/track/5IeeVJ9rsxhhqNHGrkNbVE) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Earth Sick](https://open.spotify.com/album/4HDb2F4k940fPLqIl4OOei) | 3:05 | 2023-02-23 |  |
 | [Easy Going](https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Easy Going](https://open.spotify.com/album/6qhJuNPYamcTTVZiIsrrIi) | 2:28 | 2023-02-23 |  |
+| [Electric City](https://open.spotify.com/track/3Pvrhpbw9o6R5flxEb1juu) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:41 | 2023-04-13 |  |
 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 | 2023-02-23 |  |
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2023-02-23 | 2023-04-05 |
 | [Fire Thoughts](https://open.spotify.com/track/1DAXNPuz5nMIo9qbT2RFah) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/0o8FNv5JC1wsZ4HsBbP5KB) | 3:39 | 2023-04-04 |  |
@@ -64,8 +65,9 @@
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2023-02-23 |  |
 | [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-02 |  |
 | [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 | 2023-02-23 |  |
-| [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 | 2023-02-23 |  |
+| [Linger On \- Roosevelt Remix Edit](https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Linger On \(Roosevelt Remix\)](https://open.spotify.com/album/3u8Mqoh9aU1a3OyhcjdYpA) | 4:15 | 2023-02-23 | 2023-04-14 |
 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 | 2023-02-23 | 2023-04-05 |
+| [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-04-13 |  |
 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 | 2023-03-09 |  |
 | [Lucky](https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ) | 3:15 | 2023-02-23 |  |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2023-02-23 |  |
@@ -97,7 +99,7 @@
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2023-04-04 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2023-02-23 |  |
 | [The Lazer](https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV) | 3:51 | 2023-02-23 |  |
-| [The One Who Got Away](https://open.spotify.com/track/27zXvbbu2w8EOrz9BkJLoD) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [The One Who Got Away](https://open.spotify.com/album/6yOlZtyWEvZEqgdpQspgvR) | 3:42 | 2023-04-04 |  |
+| [The One Who Got Away](https://open.spotify.com/track/27zXvbbu2w8EOrz9BkJLoD) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [The One Who Got Away](https://open.spotify.com/album/6yOlZtyWEvZEqgdpQspgvR) | 3:42 | 2023-04-04 | 2023-04-14 |
 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 | 2023-02-23 |  |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2023-02-23 |  |
 | [Together](https://open.spotify.com/track/28u7GKDbThIk4xsqm8XTGK) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Girls](https://open.spotify.com/album/5AQ0QApvqyjvkTfstFBI0L) | 2:26 | 2023-04-04 |  |

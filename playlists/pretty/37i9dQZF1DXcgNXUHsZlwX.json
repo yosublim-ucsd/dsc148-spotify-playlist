@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 107851,
+  "num_followers": 107871,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDJiZGY1NmYwNmQxNjhhNWU4M2YzNGIwYWUwNjNmMTc0",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDFkZGJmODM1Nzk3MjY5YWM2ZDg1MGUzMGQ3NWVmNTJh",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
+        "name": "Les grandes art\u00e8res",
+        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 179773,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
+      "duration_ms": 204013,
+      "name": "Si tu reviens",
+      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Les grandes art\u00e8res",
-        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Si tu reviens",
-      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+      "duration_ms": 179773,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 158480,
       "name": "Les \u00e9pousailles",
       "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 219760,
       "name": "Closely",
       "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Glossover",
         "url": "https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 229463,
       "name": "Glossover",
       "url": "https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Je retourne \u00e0 la maison",
-        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
-      },
-      "artists": [
-        {
-          "name": "Meghan Oak",
-          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
-        },
-        {
-          "name": "Laurence Castera",
-          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
-        }
-      ],
-      "duration_ms": 200397,
-      "name": "Je retourne \u00e0 la maison",
-      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "No Water, No Flowers",
         "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
       },
@@ -975,18 +955,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Je retourne \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        },
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 200397,
+      "name": "Je retourne \u00e0 la maison",
+      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 217560,
       "name": "1, 2, 3, 4",
       "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "C'est Plus Comme Avant (Version Acoustique)",
         "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
@@ -1151,6 +1135,38 @@
       "duration_ms": 166306,
       "name": "C'est Plus Comme Avant - Version Acoustique",
       "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1187,24 +1203,8 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "M\u00e8res",
-        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "M\u00e8res",
-      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 235800,
       "name": "J'aurai les cheveux longs",
       "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "M\u00e8res",
+        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "M\u00e8res",
+      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1283,8 +1283,8 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "L'heure mauve",
-        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Les fleurs d\u2019une autre dimension",
-      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "SITKA",
         "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "L'heure mauve",
+        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Les fleurs d\u2019une autre dimension",
+      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Pauline \u00e0 la ferme",
+        "url": "https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 219937,
+      "name": "Pauline \u00e0 la ferme",
+      "url": "https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "SESSION LIVE H2T",
         "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 211002,
       "name": "Beaut\u00e9 baroque - Session live H2T",
       "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Pourchasser l'aube",
-        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Mille et un",
-      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

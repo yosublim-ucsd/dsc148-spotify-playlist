@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,261 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,400 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 68 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 |
 | 69 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 |
 | 70 | [Strangers](https://open.spotify.com/track/2U0pVx4m1Kdm1Gsjjm6iq8) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Worlds Apart](https://open.spotify.com/album/3ZLP4gT36JCBPH0PZUUcPj) | 3:24 |
-| 71 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
-| 72 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
+| 71 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
+| 72 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 73 | [Mammoth](https://open.spotify.com/track/76fqWMe0buqQoaNTIbLWmr) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Mammoth](https://open.spotify.com/album/4H0bjkai5WPp6Y5oLpk2iv) | 5:32 |
 | 74 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
-| 75 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
-| 76 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 |
+| 75 | [Promises \- Skrillex & Nero Remix](https://open.spotify.com/track/7569Hbv0FUS7vjkdGvdgeZ) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:28 |
+| 76 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
 | 77 | [Virus \(How About Now\) \- Radio Edit](https://open.spotify.com/track/6GLzN6o2fkOupy8e1vGzwp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\) \[Radio Edit\]](https://open.spotify.com/album/22GK1YrW3XnIFnhifmv5nZ) | 3:19 |
 | 78 | [Apollo](https://open.spotify.com/track/7EdxI2Yro4AW2HH3akwqms) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [I Am Hardwell \(Original Soundtrack\)](https://open.spotify.com/album/1c8VPF74qax6iaGsf74cQ8) | 3:29 |
 | 79 | [I Can't Stop](https://open.spotify.com/track/5WSL7UTa38jMWoBzObD4BD) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [I Can't Stop](https://open.spotify.com/album/2DM8pAHT2jv7XXjyIbQppM) | 5:05 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 |
 | 125 | [Million Voices \- Extended Original Mix](https://open.spotify.com/track/70R53Oq9IegG1kwhxo2Lxm) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 5:57 |
 
-Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMGZhMmZiOThjOGEzMzk5NmNiYjU1NmIwYjM5NTJjMzQ5`
+Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMGYxMmIwMmU5Y2VlZTBiZjQ2MWU3ODMyMzgwNTBmZWQw`

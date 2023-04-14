@@ -1,12 +1,12 @@
 {
   "description": "True indie rock hits.",
-  "num_followers": 5241,
+  "num_followers": 6115,
   "original_name": "Indie Rock Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzMTIzNiwwMDAwMDAwMGQ1YjA1YmQxMTc5MjFjOTY3NTlhMWRlNDU4NWZmY2I5",
+  "snapshot_id": "MTY4MTM5NzI2NywwMDAwMDAwMGM5Y2YzMWFjNjJlYjJkZjJhODk5ZGZlYjg1MmQxZjZj",
   "tracks": [
     {
       "added_at": "2023-04-03 18:34:49",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
     },
     {
-      "added_at": "2023-04-10 18:47:14",
-      "album": {
-        "name": "Digital Silence",
-        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Digital Silence",
-      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
-    },
-    {
       "added_at": "2023-04-03 18:34:49",
       "album": {
         "name": "Vibes",
@@ -253,6 +237,22 @@
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
     },
     {
+      "added_at": "2023-04-10 18:47:14",
+      "album": {
+        "name": "Digital Silence",
+        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Digital Silence",
+      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
       "added_at": "2023-04-03 18:34:49",
       "album": {
         "name": "Looking Out for You",
@@ -347,6 +347,22 @@
       "duration_ms": 164571,
       "name": "Shut up My Moms Calling",
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+      "added_at": "2023-04-13 14:47:47",
+      "album": {
+        "name": "Am I sinking or Am I swimming?",
+        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
     },
     {
       "added_at": "2023-04-07 21:34:56",
@@ -507,6 +523,22 @@
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+    },
+    {
+      "added_at": "2023-04-13 14:47:47",
+      "album": {
+        "name": "Are You Alright?",
+        "url": "https://open.spotify.com/album/5nlhLmWKBfIzkCxwVRAFd2"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/58U47mHjyLwUwJZ7voUt15"
     },
     {
       "added_at": "2023-04-03 18:34:49",
@@ -685,6 +717,22 @@
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
     },
     {
+      "added_at": "2023-04-13 14:47:47",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
       "added_at": "2023-04-03 18:34:49",
       "album": {
         "name": "Fuzzybrain",
@@ -831,22 +879,6 @@
       "duration_ms": 68522,
       "name": "Marlboro Nights",
       "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
-    },
-    {
-      "added_at": "2023-04-03 18:34:49",
-      "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
       "added_at": "2023-04-03 18:34:49",
@@ -1483,22 +1515,6 @@
     {
       "added_at": "2023-04-03 18:34:49",
       "album": {
-        "name": "Honey Bones",
-        "url": "https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 237961,
-      "name": "Marinade",
-      "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
-    },
-    {
-      "added_at": "2023-04-03 18:34:49",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-04-03 18:34:49",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2023-04-03 18:34:49",
-      "album": {
         "name": "They Want My Soul",
         "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 301960,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
-    },
-    {
-      "added_at": "2023-04-03 18:34:49",
-      "album": {
-        "name": "Visions Of A Life",
-        "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Don't Delete The Kisses",
-      "url": "https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22"
     },
     {
       "added_at": "2023-04-03 18:34:49",

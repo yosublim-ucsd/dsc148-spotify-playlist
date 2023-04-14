@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Irene del Rosario
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,241 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,232 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

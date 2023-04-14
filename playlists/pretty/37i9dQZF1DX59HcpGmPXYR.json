@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Tove Lo",
-  "num_followers": 629000,
+  "num_followers": 629070,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDI4ODk3Mzg4Y2RmZjM3MmVmYWVmODY2MzFjYmJhMzg5",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDliYjk0MGYzODEyZjEwMDYxZTAxZGNkNGIxNmQ0NjFh",
   "tracks": [
     {
       "added_at": "2023-01-24 14:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "At Worst...The Best Of Boy George And Culture Club",
-        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Karma Chameleon",
-      "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
-    },
-    {
-      "added_at": "2023-01-24 14:00:00",
-      "album": {
         "name": "Haus Party, Pt. 1",
         "url": "https://open.spotify.com/album/7HuGa9781G05ax5o354dpo"
       },
@@ -991,18 +975,34 @@
     {
       "added_at": "2023-01-24 14:00:00",
       "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
+        "name": "At Worst...The Best Of Boy George And Culture Club",
+        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
       },
       "artists": [
         {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
         }
       ],
-      "duration_ms": 400115,
-      "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
+      "duration_ms": 241600,
+      "name": "Karma Chameleon",
+      "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
+    },
+    {
+      "added_at": "2023-01-24 14:00:00",
+      "album": {
+        "name": "Life in Cartoon Motion",
+        "url": "https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Grace Kelly",
+      "url": "https://open.spotify.com/track/7dzUZec5MnWMyQnk5klnKR"
     }
   ],
   "unique_name": "Pride Party",

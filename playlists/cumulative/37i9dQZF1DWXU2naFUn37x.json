@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Lazza",
+  "description": "La casa dello street rap italiano. Cover: Sfera Ebbasta, Luciano",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1764,6 +1764,32 @@
       "duration_ms": 212430,
       "name": "DEM (feat. Artie 5ive & Tony Boy)",
       "url": "https://open.spotify.com/track/3jjbcGwL3YqNVbWcmzjMPa"
+    },
+    {
+      "album": {
+        "name": "DON DADA",
+        "url": "https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165418,
+      "name": "DIE YOUNG (feat. Vale Pain & Kid Yugi)",
+      "url": "https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi"
     },
     {
       "album": {
@@ -4436,7 +4462,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179438,
       "name": "Rollie AP (feat. Pyrex & Slings)",
       "url": "https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU"

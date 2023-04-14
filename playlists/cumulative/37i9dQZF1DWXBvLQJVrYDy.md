@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-157 songs - 10 hr 30 min
+163 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [How Deep Is The Ocean](https://open.spotify.com/track/3vJ0oV1CUjal1rIHqRI4is) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [How Deep Is The Ocean](https://open.spotify.com/album/4A5xzotabZ3PhlTTynmrWJ) | 3:46 | 2022-08-18 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 |  |
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-18 |  |
+| [I Should Care](https://open.spotify.com/track/0uCk5mVLsnjndhPl7sXMCe) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [I Should Care](https://open.spotify.com/album/00pfFfQ3l1A9dZItYypDcg) | 3:27 | 2023-04-13 |  |
 | [I Still See You In My Dreams](https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [I Still See You In My Dreams](https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM) | 3:17 | 2022-09-29 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-08-18 |  |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-06 |  |
@@ -66,14 +67,17 @@
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 | 2022-08-18 |  |
 | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [In The Wee Small Hours Of The Mornin](https://open.spotify.com/album/2t1AH1fXeiYZBUOUQsoZ8r) | 3:43 | 2022-08-18 |  |
 | [Infant Eyes](https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Infant Eyes](https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO) | 3:52 | 2022-08-18 |  |
+| [Irridescent Mountains](https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Irridescent Mountains](https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq) | 3:19 | 2023-04-13 |  |
 | [Isn't It Romantic](https://open.spotify.com/track/2A2ibsCKYVNGvOorAhMz4s) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 3:40 | 2022-08-18 | 2022-10-14 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0ndlTAGPCJ2Xy12Ncoc5rq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [It Never Entered My Mind](https://open.spotify.com/album/5iHpp0Os02Ae2LiX4ZICxA) | 3:44 | 2023-03-09 |  |
+| [It Used To Be Us](https://open.spotify.com/track/0iC0JiVXY8dmM3IIlqUk1p) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [It Used To Be Us](https://open.spotify.com/album/5o4zDDeN1kf2tsXUrV9bYI) | 3:38 | 2023-04-13 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-08-18 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-08-18 |  |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2022-08-18 |  |
 | [I´m Old Fashioned](https://open.spotify.com/track/5ANvL1PhHrU00JHPfIT6d8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´m Old Fashioned](https://open.spotify.com/album/5MTHEEsQcOHppWKKxSAUt6) | 4:46 | 2022-08-18 |  |
 | [Jardin du Luxembourg](https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Jardin du Luxembourg](https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp) | 4:07 | 2022-08-18 |  |
 | [June In January](https://open.spotify.com/track/1UpAyyhV5v9vynm2ymfLeR) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Violets For Your Furs](https://open.spotify.com/album/6ImvHlHdrTtchmChnfizWr) | 4:42 | 2022-08-18 |  |
+| [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-13 |  |
 | [Last Dance](https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Because of You](https://open.spotify.com/album/6uQ1qKqno2zGaeBrBwqZJA) | 3:56 | 2022-08-18 |  |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 | 2023-02-10 |
 | [Lazy Steps](https://open.spotify.com/track/5fhQ6woeIt71IEPs9q0Zd5) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [Lazy Steps](https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj) | 3:48 | 2023-02-09 |  |
@@ -112,6 +116,7 @@
 | [Pretty Ballad](https://open.spotify.com/track/1UVz63b1DRzV9CrM4OYQ9U) | [Lennie Zimmerman + 3](https://open.spotify.com/artist/29B45yp5XnJwtbrvbeqnSu) | [My Romance](https://open.spotify.com/album/5zLgKeaogrKCOKmvO4UFOO) | 3:00 | 2022-08-18 |  |
 | [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 | 2022-12-01 |  |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-08-18 |  |
+| [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-04-13 |  |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-08-18 |  |
 | [Riverside](https://open.spotify.com/track/0vnsOSvEko26QNLxsnmYQk) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3W4YoAdfpeaabxyutq36i2) | 3:58 | 2022-08-18 |  |
 | [Rotorua City](https://open.spotify.com/track/6zWvcIrTdwy8MjeiboMOqN) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rotorua City](https://open.spotify.com/album/7fg11HFr4yqGo57XzAO1F5) | 3:11 | 2023-01-26 |  |
@@ -163,6 +168,7 @@
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |
 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 | 2023-02-16 |  |
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-23 |  |
+| [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 |  |
 | [You Must Believe In Spring](https://open.spotify.com/track/0vVpu5nKzGGNRgnBhei5Vc) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Earthshine](https://open.spotify.com/album/1CBELvMmpFlAwF0j2YiveM) | 3:42 | 2022-09-07 |  |
 | [You've Changed \- Remastered 2015](https://open.spotify.com/track/1tYMoCu2u5FCylI4Xn5T8Y) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright \(Remastered\)](https://open.spotify.com/album/14NlniwPg3t0wXuYTbeSyC) | 7:27 | 2022-08-18 | 2023-02-03 |
 

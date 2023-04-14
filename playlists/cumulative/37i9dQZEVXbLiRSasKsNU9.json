@@ -5255,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Cupid (Sped Up) [Remix]",
+        "url": "https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba"
+      },
+      "artists": [
+        {
+          "name": "Bull Beats",
+          "url": "https://open.spotify.com/artist/1mIqiRD1b8fQAMQyLJEawN"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142916,
+      "name": "Cupid (Sped Up) - Remix",
+      "url": "https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp"
+    },
+    {
+      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
       },
@@ -7972,6 +7990,10 @@
         {
           "name": "Mc Larissa",
           "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
+        },
+        {
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
         },
         {
           "name": "DJ Arana",
@@ -14036,7 +14058,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
@@ -15268,7 +15290,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 159112,
       "name": "MERVE - Masada Chivas",
       "url": "https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P"
@@ -17174,7 +17196,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
@@ -22592,10 +22614,28 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF"
+    },
+    {
+      "album": {
+        "name": "Straight and Narrow",
+        "url": "https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
     },
     {
       "album": {
@@ -23100,7 +23140,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 231100,
       "name": "Tak Segampang Itu",
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
@@ -24378,6 +24418,24 @@
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"
+    },
+    {
+      "album": {
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "album": {

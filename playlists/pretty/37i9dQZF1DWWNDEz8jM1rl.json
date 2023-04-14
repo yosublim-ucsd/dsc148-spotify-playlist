@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 108529,
+  "num_followers": 108597,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDY3MDM5ZDU4NGNlMWY4NzQxZTdiMDFiZDMzNDZlZmMw",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDY1MjgzMmExNjcxOGRiZjM2NjdjNWQ4OWYzMzViMmUx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Digan Lo Que Diga",
+      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Fragmentos Do C\u00e9u",
         "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 242432,
       "name": "Eternamente Amor",
       "url": "https://open.spotify.com/track/20TvKgvjIlkUpFPCXUOE46"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Digan Lo Que Diga",
-      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 222458,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Solo Bachata",
-        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "Cuando Se Acaba El Amor",
-      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -671,6 +655,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Solo Bachata",
+        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "Cuando Se Acaba El Amor",
+      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 227520,
       "name": "Por Un Minuto Tu Presencia",
       "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
-      },
-      "artists": [
-        {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Soy Bendecido",
-      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -731,6 +715,22 @@
       "duration_ms": 242244,
       "name": "Forever Endless Love",
       "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Soy Bendecido",
+      "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Un adorador",
+      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Le Llaman Jesus",
-      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/7tJBOnefPMs9QEsLbd0oAe"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Un adorador",
-      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+      "duration_ms": 232360,
+      "name": "Le Llaman Jesus",
+      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
     }
   ],
   "unique_name": "Baila Con Dios",

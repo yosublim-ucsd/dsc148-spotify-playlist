@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Cuco & The Mar\u00edas.",
-  "num_followers": 149164,
+  "num_followers": 149215,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxMDg4NSwwMDAwMDAwMDNhZDI4NTlhZWEzNTk2M2U2ZWI2ODlhYjZkZWQzMGMy",
+  "snapshot_id": "MTY4MDgxMDg4NSwwMDAwMDAwMDQ0OGZmMzYyNmQ2NGNmMDA0NjU0N2NlNzI5NDljZDI3",
   "tracks": [
     {
       "added_at": "2023-04-06 19:54:45",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-04-06 19:54:45",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 226057,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq"
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     },
     {
       "added_at": "2023-04-06 19:54:45",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-04-06 19:54:45",
       "album": {
-        "name": "Recuerdos Que Torturan",
-        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 210425,
-      "name": "Recuerdos Que Torturan",
-      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
+      "duration_ms": 226057,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq"
     },
     {
       "added_at": "2023-04-06 19:54:45",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-04-06 19:54:45",
       "album": {
-        "name": "LA RUTA NATURAL",
-        "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 197179,
-      "name": "LA RUTA NATURAL",
-      "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
-    },
-    {
-      "added_at": "2023-04-06 19:54:45",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-04-06 19:54:45",
+      "album": {
+        "name": "LA RUTA NATURAL",
+        "url": "https://open.spotify.com/album/0whMdPH7cZKZF8OzgkxiCp"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 197179,
+      "name": "LA RUTA NATURAL",
+      "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
     },
     {
       "added_at": "2023-04-06 19:54:45",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-04-06 19:54:45",
       "album": {
+        "name": "Se Apag\u00f3",
+        "url": "https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 141415,
+      "name": "Se Apag\u00f3",
+      "url": "https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU"
+    },
+    {
+      "added_at": "2023-04-06 19:54:45",
+      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
-    },
-    {
-      "added_at": "2023-04-06 19:54:45",
-      "album": {
-        "name": "Se Apag\u00f3",
-        "url": "https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 141415,
-      "name": "Se Apag\u00f3",
-      "url": "https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU"
     },
     {
       "added_at": "2023-04-06 19:54:45",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-06 19:54:45",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138742,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
-    },
-    {
-      "added_at": "2023-04-06 19:54:45",
-      "album": {
         "name": "MIMO",
         "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 151207,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV"
+    },
+    {
+      "added_at": "2023-04-06 19:54:45",
+      "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138742,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV"
     },
     {
       "added_at": "2023-04-06 19:54:45",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-06 19:54:45",
       "album": {
-        "name": "Ya no estoy aqu\u00ed",
-        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Ya no estoy aqu\u00ed",
-      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
-    },
-    {
-      "added_at": "2023-04-06 19:54:45",
-      "album": {
         "name": "todo bien :-)",
         "url": "https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 176620,
       "name": "todo bien :-)",
       "url": "https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2"
+    },
+    {
+      "added_at": "2023-04-06 19:54:45",
+      "album": {
+        "name": "Ya no estoy aqu\u00ed",
+        "url": "https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Ya no estoy aqu\u00ed",
+      "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
     },
     {
       "added_at": "2023-04-06 19:54:45",

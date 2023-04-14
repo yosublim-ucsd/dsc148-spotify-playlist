@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wcLXSDDcgy.md) - [plain]
 
 > This Is Agust D\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,835 likes - 21 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,053 likes - 21 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

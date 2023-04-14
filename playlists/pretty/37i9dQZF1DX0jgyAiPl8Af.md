@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,967,230 likes - 286 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,967,333 likes - 286 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 165 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 |
 | 166 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 |
 | 167 | [Monteverde](https://open.spotify.com/track/7x04qsGEUv26a7gaOE2BsB) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Monteverde](https://open.spotify.com/album/0fYsEA210VvjfSWxQbgLNb) | 2:11 |
-| 168 | [Believer](https://open.spotify.com/track/39TkpMiAw9ys6ZWUDCatNf) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/2rTeVhHQD3ItGp8bpHvBZK) | 2:11 |
+| 168 | [Believer](https://open.spotify.com/track/3mA4fggOpZDCXfJ9cRZ4Gu) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/3MxRSWPr4OfBtPGUgImiUq) | 2:11 |
 | 169 | [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 |
 | 170 | [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 |
 | 171 | [Solitude](https://open.spotify.com/track/3qjAhULWLrlXGZBiJaJZ08) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Solitude](https://open.spotify.com/album/73i6pLX4oLi8wIkNMn57p5) | 2:11 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 285 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 |
 | 286 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 |
 
-Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMGUxNjA2MDJjZTA1YjA5M2MwOWVhZGI1MGIyNjQyNDJl`
+Snapshot ID: `MTY3OTYxOTYwMCwwMDAwMDAwMDQyMzM5MzkzODY2MTNmNGYwYTY2MWFiYzkyNjk5YWNj`

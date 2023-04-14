@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,361 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,368 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 40 | [Short Skirt](https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:48 |
 | 41 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 |
 | 42 | [Keys to the City \(Ogede\)](https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
-| 43 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 |
-| 44 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 |
-| 45 | [Playground Politica \(with Mr Eazi\)](https://open.spotify.com/track/7hAKppWwCWIoDFfNasYr3J) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Playground Politica \(with Mr Eazi\)](https://open.spotify.com/album/3G08NIXSduvhkAQMGTZgqx) | 2:58 |
+| 43 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 |
+| 44 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 |
+| 45 | [I No Go Give Up On You](https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [I No Go Give Up On You](https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY) | 2:40 |
 | 46 | [Property](https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:25 |
-| 47 | [I No Go Give Up On You](https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [I No Go Give Up On You](https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY) | 2:40 |
+| 47 | [Playground Politica \(with Mr Eazi\)](https://open.spotify.com/track/7hAKppWwCWIoDFfNasYr3J) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Playground Politica \(with Mr Eazi\)](https://open.spotify.com/album/3G08NIXSduvhkAQMGTZgqx) | 2:58 |
 | 48 | [Come Online \(feat\. King Promise & Diquenza\) \- Remix](https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Come Online \(feat\. King Promise & Diquenza\) \[Remix\]](https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr) | 2:36 |
 | 49 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 |
 | 50 | [Dabebi](https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:58 |
 
-Snapshot ID: `MjgwMjE2OTQsMDAwMDAwMDBhZTA0ZTYyM2FkNDlmZDJlYzA0NWZhYzZjOGEzZTFhZA==`
+Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA5MmZmYTVlMWM4ZWZjYTliZTZlZmQyYTA3ODMxMTQyNA==`

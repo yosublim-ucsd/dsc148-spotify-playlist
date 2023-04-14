@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Anezzi, Dallas, Filipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,705 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,760 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nike Air](https://open.spotify.com/track/13ZWKQn8RnPBLeNC0g0XGb) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Nike Air](https://open.spotify.com/album/3QtMltV0KTHbPLad9URhso) | 3:07 |
+| 1 | [Nike Air](https://open.spotify.com/track/13ZWKQn8RnPBLeNC0g0XGb) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Nike Air](https://open.spotify.com/album/3QtMltV0KTHbPLad9URhso) | 3:07 |
 | 2 | [Pensamentos Negativos](https://open.spotify.com/track/5r2ddsRZ5PPCECalOfZBVj) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Pensamentos Negativos](https://open.spotify.com/album/1d1n79fvIMJnUclallzcSj) | 2:20 |
 | 3 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 4 | [Ainda](https://open.spotify.com/track/38YZseF2ALmg58eVQ9r2mZ) | [Ryxn Pablo](https://open.spotify.com/artist/3jLOCfBDWUMvUdxpO4X2F5), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [J8nn](https://open.spotify.com/artist/5KxB1KJGKu0wU1x3ghdoLL) | [Ainda](https://open.spotify.com/album/2N1HMtgWI1Q1YpzfRjfwPg) | 2:45 |

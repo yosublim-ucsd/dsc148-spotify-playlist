@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 17895,
+  "num_followers": 17953,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMDUxNjM3OTU2ZGI1OTMxMWRmY2Y4N2VhNWZiOWQ5YmU2",
+  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMGJlNjBmNmFkYjUwOTAzMDUyZjY4NDQzMjYyOTFlM2Ew",
   "tracks": [
     {
       "added_at": "2023-04-07 16:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
-      },
-      "artists": [
-        {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
-        }
-      ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Slim Shady",
         "url": "https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Strung Up",
         "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Walk The Line (Radio Edit)",
-        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
       "artists": [
         {
-          "name": "Jesse Jonez",
-          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Walk The Line - Radio Edit",
-      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
+        "name": "Walk The Line (Radio Edit)",
+        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jonez",
+          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Walk The Line - Radio Edit",
+      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 437882,
       "name": "Memories",
       "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Bear",
-        "url": "https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz"
-      },
-      "artists": [
-        {
-          "name": "Dot Major",
-          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Bear",
-      "url": "https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Bear",
+        "url": "https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz"
+      },
+      "artists": [
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1283,6 +1283,22 @@
       "duration_ms": 423837,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Shoot the Shot",
+        "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 359998,
+      "name": "Shoot the Shot",
+      "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1327,38 +1343,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5sFZ2Ev2UyuhgeTzhtXlmK"
+        "name": "The Smoke",
+        "url": "https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3"
       },
       "artists": [
         {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        },
-        {
-          "name": "Frankyeffe",
-          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
         }
       ],
-      "duration_ms": 427669,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/4ElK9xhUZXhigP26T6CIqN"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "Shoot the Shot",
-        "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 359998,
-      "name": "Shoot the Shot",
-      "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+      "duration_ms": 190476,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa"
     }
   ],
   "unique_name": "Minimal Tech",

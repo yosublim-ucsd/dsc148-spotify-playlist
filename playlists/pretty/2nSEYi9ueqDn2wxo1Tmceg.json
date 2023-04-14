@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78588,
+  "num_followers": 78586,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY2MCwyN2I2NTkyNWM0NTBlZDRlZmQ4ZGRmMTg4NDIzMzdlMjljNWY0OGVl",
+  "snapshot_id": "MzY2MSxkNWFkZWRlOWU5NWJlM2EzYjRlZGQ2NTQ1Mzk1N2ViOGYzNDhjMDlk",
   "tracks": [
+    {
+      "added_at": "2023-04-13 08:44:25",
+      "album": {
+        "name": "What Remains (Remixes)",
+        "url": "https://open.spotify.com/album/106vLquuGTSOmZnGl9lHBq"
+      },
+      "artists": [
+        {
+          "name": "How To Dress Well",
+          "url": "https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI"
+        },
+        {
+          "name": "Claire Rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "Suicide Dream 1 - Claire Rousay presents 'Suicide Dreams'",
+      "url": "https://open.spotify.com/track/1eQYk19nwftc74b9OE4DMX"
+    },
     {
       "added_at": "2023-04-12 09:55:23",
       "album": {

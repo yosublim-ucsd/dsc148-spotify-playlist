@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Blessed \- Remix](https://open.spotify.com/track/28CK6XonxLP2z48QwNXezY) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Blessed More Blessed \(The Remixes\)](https://open.spotify.com/album/5PBxaktc70K6Fe8P9APQKB) | 3:05 |
 | 50 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 |
 
-Snapshot ID: `MjgwMjE2OTQsMDAwMDAwMDA4NGQzOTNmYzNiOWZjMThkZWE5Y2MxMjc0NDY1YzA1ZA==`
+Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDBjMTdiN2E3OGZjZDQzOWYwZDc3ZmY4MWZjNGUyMjFhNQ==`

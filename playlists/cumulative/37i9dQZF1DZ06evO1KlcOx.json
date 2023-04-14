@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "A Cover Over",
+      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
+    },
+    {
+      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"

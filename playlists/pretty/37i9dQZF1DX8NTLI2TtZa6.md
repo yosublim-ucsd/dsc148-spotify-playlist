@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,463,006 likes - 216 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,463,187 likes - 216 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 68 | [Alicanto](https://open.spotify.com/track/3eDCEskR6LRnFGgL5u7j8Y) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:44 |
 | 69 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 |
 | 70 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 |
-| 71 | [Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 |
+| 71 | [Bowden: Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 |
 | 72 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 |
 | 73 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 |
 | 74 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 |

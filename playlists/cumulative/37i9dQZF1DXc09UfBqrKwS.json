@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Bywyd",
+        "url": "https://open.spotify.com/album/10SpdrXvHP9hQjJVOW5jft"
+      },
+      "artists": [
+        {
+          "name": "Carwyn",
+          "url": "https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Bywyd",
+      "url": "https://open.spotify.com/track/2C1IIUSDxqBsNr3k772BdT"
+    },
+    {
+      "album": {
         "name": "Cadeau",
         "url": "https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m"
       },
@@ -1874,6 +1892,24 @@
       "duration_ms": 148249,
       "name": "Hush",
       "url": "https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd"
+    },
+    {
+      "album": {
+        "name": "Floating On Clouds",
+        "url": "https://open.spotify.com/album/5blLnf493gd6RQGPreukch"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Cloak",
+          "url": "https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "I Believe I Can Fly",
+      "url": "https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI"
     },
     {
       "album": {

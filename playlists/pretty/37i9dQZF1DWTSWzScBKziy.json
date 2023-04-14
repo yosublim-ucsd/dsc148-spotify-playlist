@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 85716,
+  "num_followers": 85758,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDFhN2VmYTU3YzA1NTJjZGZmZWRmNDQ5NDJmMWUyZTU1",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMGQxMzg4YjhmZmM5OGNjMTM4ZjA1OTBjM2ZlM2NkOGI3",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "I Cry Jesus",
+        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 218765,
+      "name": "I Cry Jesus",
+      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "For the Love of God",
         "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 264269,
       "name": "Same God - Radio Version",
       "url": "https://open.spotify.com/track/2nidf7ZSu4eyL0jYpA6vrE"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "I Cry Jesus",
-        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 218765,
-      "name": "I Cry Jesus",
-      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
+      "duration_ms": 260708,
+      "name": "Jesus Called My Name",
+      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 260708,
-      "name": "Jesus Called My Name",
-      "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Soul Worth Saving",
         "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 226650,
       "name": "Soul Worth Saving",
       "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "If The Lord Builds The House",
-        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "If The Lord Builds The House",
-      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "This I Know (Jesus Loves Me)",
         "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+        "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
         }
       ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -631,18 +615,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Heart of God",
-        "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 233146,
-      "name": "Heart of God",
-      "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -663,6 +647,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Heart of God",
+        "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Heart of God",
+      "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -695,18 +711,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
         }
       ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+      "duration_ms": 251185,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -739,22 +755,6 @@
       "duration_ms": 168096,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 251185,
-      "name": "First Things First",
-      "url": "https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Facing A Task Unfinished",
-        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "He Will Hold Me Fast",
-      "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Facing A Task Unfinished",
+        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 315986,
+      "name": "He Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -971,22 +955,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "You Can Rest",
-        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott",
-          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
-        }
-      ],
-      "duration_ms": 288658,
-      "name": "You Can Rest",
-      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 179136,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "You Can Rest",
+        "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott",
+          "url": "https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D"
+        }
+      ],
+      "duration_ms": 288658,
+      "name": "You Can Rest",
+      "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Miracle Power",
         "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 277893,
       "name": "Miracle Power",
       "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Here's To The One We Love (Live)",
         "url": "https://open.spotify.com/album/13U8Hs01res7D4CDmnhay2"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 253800,
       "name": "When The World Is Changing",
       "url": "https://open.spotify.com/track/5pfNUsrxG2LScu2mqGFvr8"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Only Ever Always",
+        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 179420,
+      "name": "Only Ever Always",
+      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
@@ -1535,6 +1551,22 @@
       "duration_ms": 313933,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1567,38 +1599,6 @@
       "duration_ms": 253940,
       "name": "Smell The Roses",
       "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
-        }
-      ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Only Ever Always",
-        "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 179420,
-      "name": "Only Ever Always",
-      "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Live Out Loud",
-        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 203507,
-      "name": "Live Out Loud",
-      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "When You Speak (Deluxe)",
         "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 205080,
       "name": "In You",
       "url": "https://open.spotify.com/track/3fHEMFGvaSfNzXFLboZQE2"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Live Out Loud",
+        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 203507,
+      "name": "Live Out Loud",
+      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
     },
     {
       "added_at": "2022-10-29 07:17:38",

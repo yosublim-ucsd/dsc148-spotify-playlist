@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Julia Vit\u00f3ria",
-  "num_followers": 286440,
+  "num_followers": 286545,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGVlODU0ZmM3NDU5NjA5ZWFjMTE3MzZkYWQ2NDBjNjFl",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDE0ODQ5N2FmNDRjYzE0MjMyYThhZDc3MTRjOWIyOWI5",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Maranata",
-        "url": "https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs"
-      },
-      "artists": [
-        {
-          "name": "Esther Marcos",
-          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
-        }
-      ],
-      "duration_ms": 325426,
-      "name": "Maranata",
-      "url": "https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar",
         "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
+        "name": "Maranata",
+        "url": "https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs"
       },
       "artists": [
         {
-          "name": "Elaine de Jesus",
-          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
         }
       ],
-      "duration_ms": 310057,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
+      "duration_ms": 325426,
+      "name": "Maranata",
+      "url": "https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "duration_ms": 310057,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "De Volta \u00e0 Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/0YeBNLuTCGUITUZNxINJWI"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 439937,
       "name": "Voltando \u00e0 Ess\u00eancia (Ao Vivo)",
       "url": "https://open.spotify.com/track/1MXdyw32HqhBilEZ2nw3jg"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Vinde A Mim",
+        "url": "https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 329262,
+      "name": "Vinde A Mim",
+      "url": "https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -671,18 +687,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Vinde A Mim",
-        "url": "https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun"
+        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 329262,
-      "name": "Vinde A Mim",
-      "url": "https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ"
+      "duration_ms": 334310,
+      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -715,26 +735,6 @@
       "duration_ms": 364812,
       "name": "Estrat\u00e9gia",
       "url": "https://open.spotify.com/track/25JkALxjdPgDSpb9onSbao"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334310,
-      "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Amigo Jesus",
+        "url": "https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Amigo Jesus",
+      "url": "https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 389336,
       "name": "Pra Te Ver Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/4FmwdvLV1ccm1tCUNwjhu3"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Amigo Jesus",
-        "url": "https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Amigo Jesus",
-      "url": "https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC"
     },
     {
       "added_at": "2023-03-24 03:00:00",

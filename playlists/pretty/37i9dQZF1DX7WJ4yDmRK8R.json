@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 340632,
+  "num_followers": 340786,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMGI0NGJlN2QzZTJhYzgwZWY0NGM0OTZhOTQ4ZDJkMWNl",
+  "snapshot_id": "MTY3MDYxMTUzOSwwMDAwMDAwMGIzMTRiMjg1OTA1MTM4NTVlZGU3NjE0NmVkNWY3ZTdl",
   "tracks": [
     {
       "added_at": "2022-12-09 18:45:39",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 152866,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+      "duration_ms": 182880,
+      "name": "Keasbey Nights",
+      "url": "https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Keasbey Nights",
-      "url": "https://open.spotify.com/track/4XhzDUvgDIokNmvMtHsmOz"
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Everything Goes Numb",
-        "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
+        "name": "Let's Face It",
+        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
       },
       "artists": [
         {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
         }
       ],
-      "duration_ms": 209973,
-      "name": "Everything Went Numb",
-      "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
+      "duration_ms": 166133,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Let's Face It",
-        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+        "name": "Everything Goes Numb",
+        "url": "https://open.spotify.com/album/5slTcrsJ9B8Q4q8rA135XE"
       },
       "artists": [
         {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
         }
       ],
-      "duration_ms": 166133,
-      "name": "The Rascal King",
-      "url": "https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka"
+      "duration_ms": 209973,
+      "name": "Everything Went Numb",
+      "url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Somewhere in the Between",
-        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
-      },
-      "artists": [
-        {
-          "name": "Streetlight Manifesto",
-          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "We Will Fall Together",
-      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Big Daddy Multitude (2010 Re-Issue)",
         "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
-      },
-      "artists": [
-        {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Silence Is Golden But Duct Tape Is Silver",
-      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "More Noise And Other Disturbances",
         "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 206800,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Somewhere in the Between",
+        "url": "https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg"
+      },
+      "artists": [
+        {
+          "name": "Streetlight Manifesto",
+          "url": "https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "We Will Fall Together",
+      "url": "https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Silence Is Golden But Duct Tape Is Silver",
+      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Too Much Pressure",
         "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 231493,
       "name": "Too Much Pressure",
       "url": "https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "A Good Day for the Damned",
-        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
-      },
-      "artists": [
-        {
-          "name": "Jaya The Cat",
-          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
-        }
-      ],
-      "duration_ms": 206523,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 131533,
       "name": "The World Is New",
       "url": "https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "A Good Day for the Damned",
+        "url": "https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr"
+      },
+      "artists": [
+        {
+          "name": "Jaya The Cat",
+          "url": "https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy"
+        }
+      ],
+      "duration_ms": 206523,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Honey I'm Homely",
         "url": "https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 203933,
       "name": "Lost Again",
       "url": "https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Wasted Days",
-        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
-      },
-      "artists": [
-        {
-          "name": "The Slackers",
-          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Wasted Days",
-      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 157306,
       "name": "El Coo Cooi",
       "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
+      },
+      "artists": [
+        {
+          "name": "The Slackers",
+          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "A Live Injection: Anthology 1968-1979",
-        "url": "https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm"
-      },
-      "artists": [
-        {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Heads Are Gonna Roll",
         "url": "https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 144426,
       "name": "Lost It",
       "url": "https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "A Live Injection: Anthology 1968-1979",
+        "url": "https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm"
+      },
+      "artists": [
+        {
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c"
-      },
-      "artists": [
-        {
-          "name": "Just Friends",
-          "url": "https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa"
-        }
-      ],
-      "duration_ms": 193503,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Battle Hymns",
         "url": "https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 72600,
       "name": "Step One",
       "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c"
+      },
+      "artists": [
+        {
+          "name": "Just Friends",
+          "url": "https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa"
+        }
+      ],
+      "duration_ms": 193503,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "2Tone Army",
+      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
         "name": "Viva La Ska Revolution",
         "url": "https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 194840,
       "name": "Delinquent Song",
       "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
-        "name": "Kosmopoliturbo",
-        "url": "https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP"
-      },
-      "artists": [
-        {
-          "name": "Russkaja",
-          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Hey Road",
-      "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
     }
   ],
   "unique_name": "The Essential Ska",

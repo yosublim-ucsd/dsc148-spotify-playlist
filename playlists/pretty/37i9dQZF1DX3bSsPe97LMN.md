@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Rubén Figueroa en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,632 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,680 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 66 | [Pequeña y Fragíl](https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C) | [Pequeña y Fragíl](https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58) | 2:53 |
 | 67 | [Se Alborotaron Los Guachos \- En Vivo](https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Se Alborotaron Los Guachos](https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio) | 2:44 |
 | 68 | [Bajo la Lluvía](https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Cuadra FL](https://open.spotify.com/artist/5oHIm5rVcQJ6IM2Piu65lt) | [Bajo la Lluvía](https://open.spotify.com/album/7FOdGut24nsqdKsggL4p8c) | 2:34 |
-| 69 | [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 |
-| 70 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
+| 69 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
+| 70 | [Quién Te Entiende \- En Vivo](https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Quién Te Entiende \(En Vivo\)](https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8) | 3:13 |
 | 71 | [Odio](https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 2:33 |
 | 72 | [Casa en Llamas](https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Casa en Llamas](https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU) | 3:14 |
 | 73 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 |
 | 74 | [Hombre Normal](https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Hombre Normal](https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04) | 4:14 |
 | 75 | [Extraño Tus Besos](https://open.spotify.com/track/2BQFbx1kFowixEtPqByScI) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/6QltojEXZ33ZQ3l1hIg4pl) | 3:47 |
 
-Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMGJkNDVkYTA5MjM0OWMyMDQ5NGEwNmI0ZDE4OWI4YjY4`
+Snapshot ID: `MTY3NzIxODQwMCwwMDAwMDAwMDBlNDc4Yzc1ZjhjYjlhOTE1OWY1YzdhNjIxOTRlN2Nj`

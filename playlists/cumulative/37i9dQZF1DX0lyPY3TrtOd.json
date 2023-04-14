@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161493,
+      "name": "Electric City",
+      "url": "https://open.spotify.com/track/3Pvrhpbw9o6R5flxEb1juu"
+    },
+    {
+      "album": {
         "name": "Electric Connect",
         "url": "https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d"
       },
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 255422,
       "name": "Linger On - Roosevelt Remix Edit",
       "url": "https://open.spotify.com/track/7H1ANIC9UvF8pllkQq9w6t"
@@ -1074,6 +1092,28 @@
       "duration_ms": 198773,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh"
+    },
+    {
+      "album": {
+        "name": "Lots of Nothing (feat. BENEE)",
+        "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193836,
+      "name": "Lots of Nothing (feat. BENEE)",
+      "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
       "album": {
@@ -1674,7 +1714,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 222976,
       "name": "The One Who Got Away",
       "url": "https://open.spotify.com/track/27zXvbbu2w8EOrz9BkJLoD"

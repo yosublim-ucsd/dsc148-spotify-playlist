@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-53 songs - 3 hr 2 min
+54 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 | 2023-03-19 |  |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-04-02 |  |
 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-04-11 |  |
-| [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 | 2023-03-19 |  |
+| [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 | 2023-03-19 | 2023-04-14 |
 | [Problema](https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Problema](https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV) | 2:44 | 2023-03-19 |  |
+| [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-13 |  |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-03-19 |  |
 | [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 | 2023-04-01 |  |
 | [Red Velvet](https://open.spotify.com/track/6VPXeQLMC7hpFdJjyeDMvW) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Arketipo Temporada 2](https://open.spotify.com/album/5zcLt8Qw4QCNH48l0CBjyu) | 3:09 | 2023-03-19 |  |

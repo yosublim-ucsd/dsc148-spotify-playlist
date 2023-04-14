@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 703947,
+  "num_followers": 703918,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMDZjZWRjZGQ3OGRhMDJjNTYxYTVlMTliNmQzMjVmNGU3",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGJlYjZkOGZkNmVmNzczMzI3NDZmOTBjZmM2YjhlMjlh",
   "tracks": [
     {
       "added_at": "2023-04-07 03:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Screaming Suicide",
-        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 330453,
-      "name": "Screaming Suicide",
-      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Requiem Mass (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 240591,
-      "name": "Lost In The Grandeur - Requiem Mass",
-      "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
         "name": "Dad Vibes",
         "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 132206,
       "name": "Dad Vibes",
       "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
+        "name": "Requiem Mass (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 240591,
+      "name": "Lost In The Grandeur - Requiem Mass",
+      "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -759,6 +759,38 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
+        "name": "Start The Healing",
+        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 178318,
+      "name": "Take the Ride",
+      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
         "name": "Hotel Kalifornia",
         "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
       },
@@ -771,38 +803,6 @@
       "duration_ms": 163752,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "The Art Of Survival",
-        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 228119,
-      "name": "Slow Me",
-      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
-        "name": "Walk The Sky",
-        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 229940,
-      "name": "Wouldn't You Rather",
-      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Start The Healing",
-        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
+        "name": "The Art Of Survival",
+        "url": "https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
+      "duration_ms": 228119,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -851,6 +851,22 @@
       "duration_ms": 209480,
       "name": "Boilermaker",
       "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "added_at": "2023-04-07 03:01:00",
+      "album": {
+        "name": "Walk The Sky",
+        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
     },
     {
       "added_at": "2023-04-07 03:01:00",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "More Than Machines",
-        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "More Than Machines",
-      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
-    },
-    {
-      "added_at": "2023-04-07 03:01:00",
-      "album": {
         "name": "Feast Of Fire",
         "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-04-07 03:01:00",
       "album": {
-        "name": "Take the Ride",
-        "url": "https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX"
+        "name": "More Than Machines",
+        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 178318,
-      "name": "Take the Ride",
-      "url": "https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW"
+      "duration_ms": 201541,
+      "name": "More Than Machines",
+      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
     },
     {
       "added_at": "2023-04-07 03:01:00",

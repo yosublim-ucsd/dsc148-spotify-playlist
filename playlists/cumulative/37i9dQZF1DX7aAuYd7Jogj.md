@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-316 songs - 15 hr 24 min
+317 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2023-04-06 |  |
 | [A Guiding Hand](https://open.spotify.com/track/4TYEDIzZYJYamfv3NtndPD) | [Butterfly Wings](https://open.spotify.com/artist/0RMsyms4T0LXxotilnDJap) | [Over There](https://open.spotify.com/album/5v9tWyEWw5L1DBK1MnEdOt) | 2:56 | 2023-04-06 |  |
 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2023-04-06 |  |
-| [A Mio Figlio](https://open.spotify.com/track/1bWhtYViOk0toiEkCizcWr) | [Raffaella Lori](https://open.spotify.com/artist/08bkWJuSU2xUmBVlYaiNbz) | [A Mio Figlio](https://open.spotify.com/album/4pjCdRVlq7IgwdNWobgiZ8) | 3:08 | 2023-04-06 |  |
+| [A Mio Figlio](https://open.spotify.com/track/1bWhtYViOk0toiEkCizcWr) | [Raffaella Lori](https://open.spotify.com/artist/08bkWJuSU2xUmBVlYaiNbz) | [A Mio Figlio](https://open.spotify.com/album/4pjCdRVlq7IgwdNWobgiZ8) | 3:08 | 2023-04-06 | 2023-04-14 |
 | [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 | 2023-04-06 |  |
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2023-04-06 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2023-04-06 |  |
@@ -31,7 +31,7 @@
 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 | 2023-04-06 |  |
 | [Aphelia](https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Aphelia](https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93) | 2:20 | 2023-04-06 |  |
 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 | 2023-04-06 |  |
-| [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2023-04-06 |  |
+| [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2023-04-06 | 2023-04-14 |
 | [Arnasa](https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Arnasa](https://open.spotify.com/album/2RRsQVz30a93lgj3YgJjpv) | 3:10 | 2023-04-06 |  |
 | [Ashes to Dawn](https://open.spotify.com/track/5P08ISI8K0fUqHuJJZoYlq) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Ashes to Dawn](https://open.spotify.com/album/0CkFnmpN1vdw2cf2NX6DgN) | 1:52 | 2023-04-06 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2023-04-06 |  |
@@ -46,7 +46,7 @@
 | [Beauty Inside](https://open.spotify.com/track/3EoB47UhhyDo8pQVZ3AZnN) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Kundalini Yoga 2](https://open.spotify.com/album/5FsOZs6yup9qNrFG82VCKR) | 2:32 | 2023-04-06 |  |
 | [Becalming](https://open.spotify.com/track/0SHIkGcjuVoAuAbezjBfiT) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Becalming](https://open.spotify.com/album/69OXN86g9WZ04FvDs0Nlgp) | 3:10 | 2023-04-06 |  |
 | [Becalming Silence](https://open.spotify.com/track/73E1cWwhV9iyIfiyyH26Mn) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Becalming Silence](https://open.spotify.com/album/7ynySTl54ib9UJLkgwrvak) | 2:29 | 2023-04-06 |  |
-| [Bela adormecida](https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF) | [Solidão](https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV) | [Bela adormecida](https://open.spotify.com/album/68lqrfMKELldWPve5nu9he) | 2:25 | 2023-04-06 |  |
+| [Bela adormecida](https://open.spotify.com/track/1S252DWEYC5Fy7WfwFeRZF) | [Solidão](https://open.spotify.com/artist/2BeDT71gJ5Qecfvu8v0aEV) | [Bela adormecida](https://open.spotify.com/album/68lqrfMKELldWPve5nu9he) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [Beneath The Clouds](https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy) | [Nico Acosta](https://open.spotify.com/artist/4V4qWOu1lYx7qzhburyUXR) | [Beneath The Clouds](https://open.spotify.com/album/0PEH9bzRJzUDz2mTDTxliA) | 3:10 | 2023-04-06 |  |
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-04-06 |  |
 | [Blue Sphere](https://open.spotify.com/track/3aQ46BOZ8C3fOfSFfyEcwq) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Blue Sphere](https://open.spotify.com/album/1mOqBOPa7rItQzoOrgokpL) | 2:42 | 2023-04-06 |  |
@@ -111,7 +111,7 @@
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2023-04-06 |  |
 | [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-04-06 |  |
 | [Fairy Lullaby](https://open.spotify.com/track/6NbR1XHxKXog2lWMWFHw2c) | [STRIATUMS](https://open.spotify.com/artist/0dR1oYqupK4QCBlp1xmLJy) | [Inner Dimension](https://open.spotify.com/album/5fsahxvJhOsvHr7i2mDF3P) | 2:24 | 2023-04-06 |  |
-| [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2023-04-06 |  |
+| [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2023-04-06 | 2023-04-14 |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2023-04-06 |  |
 | [Finally At Ease](https://open.spotify.com/track/4HJJh915LuQpMjEO0tFwhx) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Finally At Ease](https://open.spotify.com/album/0e7VPn87No5P1c1RGLUGYu) | 2:40 | 2023-04-06 |  |
 | [Find Me](https://open.spotify.com/track/6jDM7dC4rmCFaB6J1huffu) | [Leyton Miller](https://open.spotify.com/artist/1Ne3d3mvmU8z83OHnVFSxu) | [Find Me](https://open.spotify.com/album/5ix4GEUCC9ITQRBN5tTeLI) | 3:21 | 2023-04-06 |  |
@@ -143,8 +143,9 @@
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-04-06 |  |
 | [Hovering](https://open.spotify.com/track/0EkOXlinAFTDIVPbbaRDJL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Hovering](https://open.spotify.com/album/35SmQGb0UyASjv0LwScAsM) | 3:45 | 2023-04-06 |  |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-04-06 |  |
-| [Hugsanir](https://open.spotify.com/track/1N04HuVRqVu0uV2I6LSYqt) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Hugsanir](https://open.spotify.com/album/7Gfes73tSe0PPwhAaPY3ST) | 2:42 | 2023-04-06 |  |
+| [Hugsanir](https://open.spotify.com/track/1N04HuVRqVu0uV2I6LSYqt) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Hugsanir](https://open.spotify.com/album/7Gfes73tSe0PPwhAaPY3ST) | 2:42 | 2023-04-06 | 2023-04-14 |
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2023-04-06 |  |
+| [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 | 2023-04-13 |  |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2023-04-06 |  |
 | [Idyllica](https://open.spotify.com/track/595wjSvF9vZ3yiyu6yzicF) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Idyllica](https://open.spotify.com/album/4YWyvu33UuHfzQFcfixhYW) | 2:13 | 2023-04-06 |  |
 | [If Ever Two Were One](https://open.spotify.com/track/725z4lty7B7pcrBzg4udLU) | [Troy Fuentes](https://open.spotify.com/artist/7FsKe2FZdoq66vdqJjIMCM) | [If Ever Two Were One](https://open.spotify.com/album/6ircWe4J1ug26qcNNQTuuT) | 2:46 | 2023-04-06 |  |
@@ -292,7 +293,7 @@
 | [The Change Of Seasons](https://open.spotify.com/track/1iGuSsBQT3JPnJtg0Advjz) | [Phlox Sage](https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T) | [The Change Of Seasons](https://open.spotify.com/album/5IzJnkYUl0sbEqzpO4O1Ed) | 2:44 | 2023-04-06 |  |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2023-04-06 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2023-04-06 |  |
-| [The Sands Of Time](https://open.spotify.com/track/0tlRQNdPgr8F3dXHBJ4hgt) | [Damion Delaney](https://open.spotify.com/artist/609WL7MDR0yu9oDUQlyDug) | [The Sands Of Time](https://open.spotify.com/album/5ns7wN4zKt2D1AKaat72az) | 3:08 | 2023-04-06 |  |
+| [The Sands Of Time](https://open.spotify.com/track/0tlRQNdPgr8F3dXHBJ4hgt) | [Damion Delaney](https://open.spotify.com/artist/609WL7MDR0yu9oDUQlyDug) | [The Sands Of Time](https://open.spotify.com/album/5ns7wN4zKt2D1AKaat72az) | 3:08 | 2023-04-06 | 2023-04-14 |
 | [Thinking of You](https://open.spotify.com/track/0ZHZ3KsAl0AVBONDmUY3mv) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Thinking of You](https://open.spotify.com/album/6jKwbDWoBziX5qErZMUSa5) | 2:34 | 2023-04-06 |  |
 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2023-04-06 |  |
 | [Tillbakalutande](https://open.spotify.com/track/4oAVmszDgIihib6QBxqjEh) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Tillbakalutande](https://open.spotify.com/album/6tJFLs7M0pE7ZTuCllaBDk) | 2:43 | 2023-04-06 |  |
@@ -308,7 +309,7 @@
 | [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 | 2023-04-06 |  |
 | [Up Above](https://open.spotify.com/track/3lyvwZ5DUyj7qlnb49DyRg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Up Above](https://open.spotify.com/album/1sheGcDitJ34SQSTHCPGrv) | 3:04 | 2023-04-06 |  |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2023-04-06 |  |
-| [Vanavond](https://open.spotify.com/track/7oer6yNo6fI6Ln1fQnEx2O) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Vanavond](https://open.spotify.com/album/0qm1JmgvC5zK3hexyu6aNg) | 3:32 | 2023-04-06 |  |
+| [Vanavond](https://open.spotify.com/track/7oer6yNo6fI6Ln1fQnEx2O) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Vanavond](https://open.spotify.com/album/0qm1JmgvC5zK3hexyu6aNg) | 3:32 | 2023-04-06 | 2023-04-14 |
 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 | 2023-04-06 |  |
 | [Vila](https://open.spotify.com/track/0jyK7saNqvRSHlp0HU00z3) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Återhämtning](https://open.spotify.com/album/5JmOVXdiaiknwkK3JHyiev) | 3:48 | 2023-04-06 |  |
 | [Vishram \- Sleep Version](https://open.spotify.com/track/7trOz2nilrr7ZWGnzQsraX) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Vishram \- Sleep Version](https://open.spotify.com/album/5vOajCeKyNwks56VYskW8Y) | 2:45 | 2023-04-06 |  |

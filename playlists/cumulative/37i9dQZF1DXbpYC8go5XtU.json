@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 386186,
       "name": "Behind the Concrete Factory",
       "url": "https://open.spotify.com/track/2JiHVCcOnNXPybtPnuZ6QC"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 355386,
       "name": "Breathing Earth I",
       "url": "https://open.spotify.com/track/5jmzCPIz8C3q6wpRoxb4Hc"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 188986,
       "name": "Cypress Magic",
       "url": "https://open.spotify.com/track/4u79VkDV1sGAelETOfiNcq"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 346364,
       "name": "Forest Trails",
       "url": "https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 462786,
       "name": "Fromme",
       "url": "https://open.spotify.com/track/24BctB6JjJ4hwtpzUPkO3f"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 342114,
       "name": "Full Moon Serenade",
       "url": "https://open.spotify.com/track/62dO6LC8b5AYXY1MGiLNV1"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 316000,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 647256,
       "name": "Nova",
       "url": "https://open.spotify.com/track/165sdKbKB2By9Hs3T5CYoQ"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 1300520,
       "name": "Passiflora",
       "url": "https://open.spotify.com/track/6EAkJSMoXNlzcPXOzZ2jrB"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 755133,
       "name": "Primitive Associations/Great Mass Above",
       "url": "https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 352500,
       "name": "Tides IX",
       "url": "https://open.spotify.com/track/6Alc94RqPchQ9gFeJEDqY4"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 192000,
       "name": "Today I Taught Them How To How To Skip Stones Across the Lake",
       "url": "https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK"
@@ -3271,6 +3271,32 @@
     },
     {
       "album": {
+        "name": "Viridian",
+        "url": "https://open.spotify.com/album/4mWXbXkyALAuPJphMHx3ZG"
+      },
+      "artists": [
+        {
+          "name": "v e n n",
+          "url": "https://open.spotify.com/artist/7K80bdPzdWRFqAHBfk1cPi"
+        },
+        {
+          "name": "Sound Therapist",
+          "url": "https://open.spotify.com/artist/6zKplXCV6yADi2VaBaAQEj"
+        },
+        {
+          "name": "Suseti",
+          "url": "https://open.spotify.com/artist/5AqkJp9VX0p9QeBMrdWrv2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255857,
+      "name": "Viridian",
+      "url": "https://open.spotify.com/track/4S2VjUAKORDAJJfli8Mjnw"
+    },
+    {
+      "album": {
         "name": "Gradients",
         "url": "https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni"
       },
@@ -3452,7 +3478,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 240426,
       "name": "Wind Leaf Shimmer",
       "url": "https://open.spotify.com/track/2arRVRDJDdOG8hqDxTOpRj"

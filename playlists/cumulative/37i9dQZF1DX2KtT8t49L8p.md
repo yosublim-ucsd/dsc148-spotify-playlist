@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-56 songs - 3 hr 4 min
+57 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5 Hz Theta Waves \- Let Go](https://open.spotify.com/track/51XYOF4BFV8nbhSl9rKOIU) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Binaural Beats \- Theta Waves for Mental Clarity \(4\-8 Hz\)](https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz) | 1:36 | 2023-03-16 |  |
 | [5.5 Hz Theta Waves \- Reduce Hyperactivity](https://open.spotify.com/track/4otRnCtr0e3jkRIALpUEh5) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Binaural Beats \- Theta Waves for Mental Clarity \(4\-8 Hz\)](https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz) | 1:33 | 2023-03-16 |  |
 | [5.5 Hz Theta Waves \- Stress Relief Meditation](https://open.spotify.com/track/1UqMcLFcQibp9WcdpBkc61) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Binaural Beats \- Theta Waves for Mental Clarity \(4\-8 Hz\)](https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz) | 1:36 | 2023-03-16 |  |
+| [Air Theta 5hz](https://open.spotify.com/track/1HLhFUBUe3EVWindRioCB5) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Air Waves 5\-10hz](https://open.spotify.com/album/6gIiXBzCo5jD9B1D5QhS87) | 2:38 | 2023-04-14 |  |
 | [Binaural Beats and Theta Waves](https://open.spotify.com/track/1m3EOyPM2TzZJHrWrkzijd) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1), [Alpha Brain Waves](https://open.spotify.com/artist/2DvbYXMiUAQuupPEQnIt1I), [Brain Waves Therapy](https://open.spotify.com/artist/34RGl0uVjzk6plsyUDTssq) | [Binaural Beats Brainwave Therapy: Binaural Beats, Theta Waves, Alpha Waves, Isochronic Tones and Ambient Music For Deep Sleep, Relaxation, Brainwave Entrainment and Sleeping Music, Vol\. 2](https://open.spotify.com/album/3u5zY5MkY6ykRjmQEXLlk8) | 2:21 | 2023-03-16 |  |
 | [Binaural Beats and Theta Waves](https://open.spotify.com/track/119bW5LrNRgAzWlJo50pu1) | [Binaural Beats Deep Sleep](https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi), [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r), [Binaural Beats Sleep Aid](https://open.spotify.com/artist/5phVBQw2c2WXe5V9qUReNL) | [Binaural Beats Sleep Music: Soothing Binaural Beats, White Noise, Isochronic Tones, Delta Waves, Theta Waves For Deep Sleep Aid, Brainwave Entrainment and The Best Sleeping Music](https://open.spotify.com/album/3jd25B1XOG8VHli50qQm9f) | 1:47 | 2023-03-16 |  |
 | [Binaural Beats and Theta Waves](https://open.spotify.com/track/0sP4KKzIcBHW7RVHHTqmQk) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r), [Binaural Beats Library](https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB), [Binaural Beats Deep Sleep](https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi) | [Binaural Beats Deep Sleep: Ambient Music, Isochronic Tones, Alpha Waves, Theta Waves and Relaxing Music For Sleeping, Sleep Music and Brainwave Entrainment](https://open.spotify.com/album/6Ss53oZMeKiWHOnj3yObSI) | 2:06 | 2023-03-16 |  |

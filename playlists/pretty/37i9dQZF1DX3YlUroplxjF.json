@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 450223,
+  "num_followers": 450329,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMGI4NzExM2U0OTFhZjU3YTg5OWQxMzBjOTZlMDJiZjRh",
+  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMDNlZDlmZjYwMTk2YmY4NmNhMzhhNmFmYjkwNjljNjE5",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 195390,
       "name": "They Don't Want What We Want (And They Don't Care)",
       "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Resentment",
+        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Resentment",
+      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Resentment",
-        "url": "https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Resentment",
-      "url": "https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -307,38 +291,6 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Platypus Boys",
-        "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
-      },
-      "artists": [
-        {
-          "name": "Combos",
-          "url": "https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Platypus Boys",
-      "url": "https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -375,6 +327,38 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Platypus Boys",
+        "url": "https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe"
+      },
+      "artists": [
+        {
+          "name": "Combos",
+          "url": "https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Platypus Boys",
+      "url": "https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Finding God Before God Finds Me (Deluxe)",
         "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
       },
@@ -391,22 +375,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Carry the Weight / From the First Note",
         "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
       },
@@ -419,6 +387,22 @@
       "duration_ms": 229266,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -487,6 +471,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Artificial Selection",
         "url": "https://open.spotify.com/album/6rBnEJJUih41OU4AemGs4y"
       },
@@ -503,22 +503,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
         }
       ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
         {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Skin Suit",
-        "url": "https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c"
-      },
-      "artists": [
-        {
-          "name": "THE BOBBY LEES",
-          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
-        }
-      ],
-      "duration_ms": 89810,
-      "name": "Guttermilk",
-      "url": "https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 190783,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Skin Suit",
+        "url": "https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "duration_ms": 89810,
+      "name": "Guttermilk",
+      "url": "https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Evil Finds Light",
-        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
-      },
-      "artists": [
-        {
-          "name": "DRAIN",
-          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
-        }
-      ],
-      "duration_ms": 127933,
-      "name": "Evil Finds Light",
-      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "wonderful life (feat. Dani Filth)",
         "url": "https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Evil Finds Light",
+        "url": "https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu"
+      },
+      "artists": [
+        {
+          "name": "DRAIN",
+          "url": "https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Evil Finds Light",
+      "url": "https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Before I Cave In",
         "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
       },
@@ -1175,18 +1191,34 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+        "name": "The Lost Boys",
+        "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
+      "duration_ms": 211125,
+      "name": "New England Palm Trees",
+      "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1207,22 +1239,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "The Lost Boys",
-        "url": "https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 211125,
-      "name": "New England Palm Trees",
-      "url": "https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Devastation",
         "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
       },
@@ -1235,38 +1251,6 @@
       "duration_ms": 221748,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Night Terrors",
         "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 213144,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Damned Soul",
         "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 192504,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 201600,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 192504,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Return of the Arsonist",
-        "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 181979,
-      "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
-      "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "The Love You Let Too Close",
         "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 202025,
       "name": "Tradition",
       "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Return of the Arsonist",
+        "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 181979,
+      "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
+      "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 158444,
       "name": "Drive Me Home",
       "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+        "name": "Crown Shyness",
+        "url": "https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+      "duration_ms": 205133,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/7mGdNyuqOLH9KiQ2ZLOv5V"
     }
   ],
   "unique_name": "Crash Course",

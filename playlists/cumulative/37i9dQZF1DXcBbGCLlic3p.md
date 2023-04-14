@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-262 songs - 12 hr 49 min
+263 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Wasserturm](https://open.spotify.com/track/3kn4W6GH3GjN1PH7UIwW5X) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Wasserturm](https://open.spotify.com/album/1DKbXEZvcEYWz06DnbWjhx) | 3:20 | 2021-12-23 |  |
 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-14 |  |
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2022-09-30 |  |
+| [Whispered Views](https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Whispered Views](https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY) | 2:52 | 2023-04-13 |  |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-23 |  |
 | [With Every Breath I Breathe](https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:19 | 2022-10-07 |  |
 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 | 2021-12-23 | 2022-09-03 |

@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-109 songs - 6 hr 57 min
+110 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amman](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Amman](https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ) | 3:28 | 2022-12-01 |  |
 | [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 | 2022-12-01 |  |
 | [Ashes](https://open.spotify.com/track/6vcTsbj5hBMXmPDHze27N1) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [N i g h t D r i v e スケラー](https://open.spotify.com/album/5Vk1caKy6OIgM2uOVeokLJ) | 3:25 | 2023-03-09 | 2023-04-09 |
-| [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 | 2022-12-01 |  |
+| [Ask](https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Style Project](https://open.spotify.com/artist/1vWOhY2gsar5XKVJqBfdrh) | [Ask](https://open.spotify.com/album/4FkzJu0EGu2Y5zz7XQpQQD) | 2:20 | 2022-12-01 | 2023-04-14 |
 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 | 2022-12-01 |  |
 | [Begin Again \- Gordi Remix](https://open.spotify.com/track/6iOfH4VV2jsg65J3EMnIgJ) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Begin Again \(Gordi Remix\)](https://open.spotify.com/album/21k2AOJztHVcfdqib7cgwn) | 3:27 | 2022-12-01 | 2023-01-27 |
 | [Blinding Lights](https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Blinding Lights](https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w) | 2:52 | 2023-01-19 |  |
@@ -64,6 +64,7 @@
 | [KNOW ME \(feat\. Gallant\)](https://open.spotify.com/track/6oHNAWV5sbGtTVCvXhXikt) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [BRONSON](https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg) | 3:00 | 2022-12-01 | 2023-02-10 |
 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2022-12-01 |  |
 | [Lençóis \(Love Me\)](https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lençóis \(Love Me\)](https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De) | 3:45 | 2022-12-01 |  |
+| [Lies](https://open.spotify.com/track/7vYSljwfq9zqQzLaHU7Jot) | [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER), [Sakidasumi](https://open.spotify.com/artist/007w6UZAPGJnCgeUixkyOT) | [Lies](https://open.spotify.com/album/4hrFvYVpmSWQu415WpGQ7V) | 3:41 | 2023-04-14 |  |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-12-01 | 2023-03-26 |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-12-01 |  |
 | [Living The Life](https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Finding Sounds](https://open.spotify.com/album/4rq5ZRLwtLjCWqKveXQ6Nn) | 3:38 | 2022-12-15 | 2023-01-22 |

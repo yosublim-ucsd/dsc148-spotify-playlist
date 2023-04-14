@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > Somos una fusión que nunca termina..\. MEXCLA somos\. Peso Pluma & Yng Lvcas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,263 likes - 82 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,607 likes - 82 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

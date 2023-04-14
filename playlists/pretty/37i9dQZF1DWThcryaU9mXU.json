@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 38308,
+  "num_followers": 38367,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDRhOGRjYjhhOGY3YmIyMGUzM2JkYmViMGFmYjA5ZjIw",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDhlODdjNTNmZDYzMzkxOTA2NzQyMDIyMjViMzUxYjY0",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Give In Kind",
-        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
-      },
-      "artists": [
-        {
-          "name": "Guy Davis",
-          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Loneliest Road That I Know",
-      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 167330,
       "name": "Blues On The Bay",
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Give In Kind",
+        "url": "https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW"
+      },
+      "artists": [
+        {
+          "name": "Guy Davis",
+          "url": "https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Loneliest Road That I Know",
+      "url": "https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Mr. Wonderful (Deluxe)",
-        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 304160,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 159373,
       "name": "By the Water",
       "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Mr. Wonderful (Deluxe)",
+        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 304160,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "The Chicago Way",
         "url": "https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Been Gone Too Long",
         "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
@@ -1031,38 +1047,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "The Essential Blue Archive: Why Should I Cry",
+        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Lonnie Johnson",
+          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
         }
       ],
-      "duration_ms": 180666,
-      "name": "If You Gotta Make a Fool of Somebody - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Soul for the Heart",
-        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
-      },
-      "artists": [
-        {
-          "name": "Joe Barr",
-          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
-        },
-        {
-          "name": "Breezy Rodio",
-          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "Drown in My Own Tears",
-      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
+      "duration_ms": 179306,
+      "name": "Friendless Blues",
+      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Essential Blue Archive: Why Should I Cry",
-        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
+        "name": "Soul for the Heart",
+        "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
       "artists": [
         {
-          "name": "Lonnie Johnson",
-          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
+          "name": "Joe Barr",
+          "url": "https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs"
+        },
+        {
+          "name": "Breezy Rodio",
+          "url": "https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o"
         }
       ],
-      "duration_ms": 179306,
-      "name": "Friendless Blues",
-      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
+      "duration_ms": 275973,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO"
     },
     {
       "added_at": "2023-03-24 00:01:00",

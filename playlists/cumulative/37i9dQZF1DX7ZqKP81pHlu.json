@@ -271,6 +271,24 @@
     },
     {
       "album": {
+        "name": "Adieu El Ouzoubia",
+        "url": "https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ"
+      },
+      "artists": [
+        {
+          "name": "Bilal Sghir",
+          "url": "https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242926,
+      "name": "Adieu El Ouzoubia",
+      "url": "https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1"
+    },
+    {
+      "album": {
         "name": "Amazone",
         "url": "https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28"
       },
@@ -532,7 +550,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 254676,
       "name": "Calma",
       "url": "https://open.spotify.com/track/3eLOJpdgRwiLjYSq5AV8iS"
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 184032,
       "name": "Nebghiha Fort",
       "url": "https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD"

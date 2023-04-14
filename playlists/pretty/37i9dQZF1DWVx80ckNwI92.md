@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 9 | [BLOODY TEXTS](https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Kbackwood$](https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj) | [BLOODY TEXTS](https://open.spotify.com/album/41FMllrWhJfvOG70np84SX) | 2:03 |
 | 10 | [You're Not Here](https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ) | [You're Not Here](https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6) | 3:00 |
 | 11 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
-| 12 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
+| 12 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
 | 13 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 14 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 |
 | 15 | [Tony, Tony!](https://open.spotify.com/track/7sSfjIQ4BxCJ0gqiOCRE8x) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [Tony, Tony!](https://open.spotify.com/album/6vclSwfuI40dJXhoxbR52m) | 2:57 |

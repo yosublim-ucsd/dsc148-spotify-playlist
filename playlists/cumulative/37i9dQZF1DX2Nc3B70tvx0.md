@@ -4,7 +4,7 @@
 
 > Everything that's happening in indie right now\. Cover: boygenius
 
-1,510 songs - 3 day 18 hr 34 min
+1,511 songs - 3 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-30 | 2022-07-02 |
 | [Across the Room](https://open.spotify.com/track/7dCSqTnarqs3EF7iDRVRW9) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Across the Room](https://open.spotify.com/album/29cmVFCBfJRKN5zbFehSVe) | 3:00 | 2021-11-10 | 2022-05-10 |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-09 | 2021-10-14 |
-| [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-10 |  |
+| [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-10 | 2023-04-14 |
 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 | 2021-05-28 | 2021-10-16 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-30 | 2022-11-17 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 | 2023-02-11 |
@@ -356,6 +356,7 @@
 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 | 2020-03-06 | 2020-08-07 |
 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-09-16 | 2022-11-12 |
 | [Easy](https://open.spotify.com/track/4i1IFCnXF40pbYZ7X19Fqb) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Easy](https://open.spotify.com/album/2RhatFEmXQxPvrM4Haba7r) | 3:28 | 2019-05-26\* | 2019-06-21 |
+| [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-04-14 |  |
 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 | 2019-09-06 | 2020-05-01 |
 | [Echo Party](https://open.spotify.com/track/1uVuiGjIrOxDSlHie1oftn) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [No Rules Sandy](https://open.spotify.com/album/6rl4rzZxECegl9PdYG0hfk) | 4:15 | 2022-08-18 | 2022-08-23 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 | 2023-04-02 |

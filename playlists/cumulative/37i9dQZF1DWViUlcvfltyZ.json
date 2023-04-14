@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Piqued Jacks in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. ISIDE in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -478,6 +478,24 @@
       "duration_ms": 209063,
       "name": "B4",
       "url": "https://open.spotify.com/track/471iPDomxfndXNESa4xg7C"
+    },
+    {
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/5znorjvZtJXTHO1fwtlXFl"
+      },
+      "artists": [
+        {
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135017,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7rat6YuFFrqCz7asAqQtMf"
     },
     {
       "album": {
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 169161,
       "name": "CARTA, FORBICE, SESSO",
       "url": "https://open.spotify.com/track/4o6mSmsoxIFaqutj77Ul6K"
@@ -1253,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Church Superdelay",
+        "url": "https://open.spotify.com/album/6c0eppNsqdEk7pKEuoatuQ"
+      },
+      "artists": [
+        {
+          "name": "Death Mantra for Lazarus",
+          "url": "https://open.spotify.com/artist/4psOy0yl6xHgFs06QfRNja"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Church Superdelay",
+      "url": "https://open.spotify.com/track/6Zj3IHsLkBvsO0QrTybErF"
+    },
+    {
+      "album": {
         "name": "Parrots & The Park (Pastimes Vol. I)",
         "url": "https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S"
       },
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 182930,
       "name": "Come mi vuoi",
       "url": "https://open.spotify.com/track/50Q4NLN9n0p5XF3VObLq9T"
@@ -1416,6 +1452,24 @@
       "duration_ms": 125786,
       "name": "Corny",
       "url": "https://open.spotify.com/track/0p9GTFfCSDseFiCEuH4GlJ"
+    },
+    {
+      "album": {
+        "name": "COSA VA IN ME?",
+        "url": "https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1"
+      },
+      "artists": [
+        {
+          "name": "Asjatica",
+          "url": "https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "COSA VA IN ME?",
+      "url": "https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L"
     },
     {
       "album": {
@@ -1538,7 +1592,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212195,
       "name": "Da questo momento in poi",
       "url": "https://open.spotify.com/track/5aMXkADzSKqZ5QGYWY9roY"
@@ -1704,6 +1758,24 @@
       "duration_ms": 188000,
       "name": "Diverso/Uguale",
       "url": "https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5"
+    },
+    {
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN"
+      },
+      "artists": [
+        {
+          "name": "ISIDE",
+          "url": "https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5zBPYJyuIMuSpYVdYIkyV5"
     },
     {
       "album": {
@@ -2722,7 +2794,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 159121,
       "name": "How",
       "url": "https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD"
@@ -3355,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "La Nebbia",
+        "url": "https://open.spotify.com/album/1hs9EjBUQEiSvuVK33goLl"
+      },
+      "artists": [
+        {
+          "name": "No Good",
+          "url": "https://open.spotify.com/artist/3vxvA2XRiEQ3pSYO274jRB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208072,
+      "name": "La Nebbia",
+      "url": "https://open.spotify.com/track/4LMP98OkdEMSaKnBqeNFps"
+    },
+    {
+      "album": {
         "name": "La stessa parte della luna",
         "url": "https://open.spotify.com/album/0AxuaJx5LvpAl59UyPmUUG"
       },
@@ -3572,6 +3662,24 @@
       "duration_ms": 205600,
       "name": "looney",
       "url": "https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi"
+    },
+    {
+      "album": {
+        "name": "Elvis",
+        "url": "https://open.spotify.com/album/5bvG8jYOZBxSwZfjDoWRSO"
+      },
+      "artists": [
+        {
+          "name": "Baustelle",
+          "url": "https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199193,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4WPWjTm1Tacywwc1rPmMtB"
     },
     {
       "album": {
@@ -3858,7 +3966,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 182750,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/6dhTRz5aUxVNmHnh3r65qx"
@@ -3973,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Musica per aeroporti",
+        "url": "https://open.spotify.com/album/2dDHNcqTbZMleDaLNpcqL6"
+      },
+      "artists": [
+        {
+          "name": "Federico Dragogna",
+          "url": "https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161815,
+      "name": "Musica per aeroporti",
+      "url": "https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY"
+    },
+    {
+      "album": {
         "name": "This Is Light",
         "url": "https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD"
       },
@@ -4002,7 +4128,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 232000,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF"
@@ -4042,6 +4168,24 @@
       "duration_ms": 204610,
       "name": "Neanche un'ora sveglio",
       "url": "https://open.spotify.com/track/5uIlaWEQjpztXgax3dhUWs"
+    },
+    {
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/2qqvvjJQjNslhqEcI5GIjF"
+      },
+      "artists": [
+        {
+          "name": "Caponetti",
+          "url": "https://open.spotify.com/artist/4rrZztEQWguhJ2iNePZfl9"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182738,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/3eFRoQ4iN8Jx9Te9TVkqBs"
     },
     {
       "album": {
@@ -4746,7 +4890,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 144818,
       "name": "Pornolesbo",
       "url": "https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e"
@@ -5170,6 +5314,24 @@
       "duration_ms": 160000,
       "name": "rotten",
       "url": "https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl"
+    },
+    {
+      "album": {
+        "name": "Russian roulette",
+        "url": "https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250238,
+      "name": "Russian roulette",
+      "url": "https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8"
     },
     {
       "album": {
@@ -6119,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "THE PLACE WE ARE LIVING IN",
+        "url": "https://open.spotify.com/album/0m2yBywusK03iyz9reqk4p"
+      },
+      "artists": [
+        {
+          "name": "Mookids",
+          "url": "https://open.spotify.com/artist/4ybrXXCHXgn4ovScWC31pj"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "THE PLACE WE ARE LIVING IN",
+      "url": "https://open.spotify.com/track/5GaOTgIkgX1SVt8XWKpHDU"
+    },
+    {
+      "album": {
         "name": "The Sweetest Nightmare",
         "url": "https://open.spotify.com/album/5nlf41KR9hnAAyfMX5K9yj"
       },
@@ -6188,6 +6368,24 @@
       "duration_ms": 207999,
       "name": "Ticking",
       "url": "https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah"
+    },
+    {
+      "album": {
+        "name": "Time and Time",
+        "url": "https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa"
+      },
+      "artists": [
+        {
+          "name": "Bee Bee Sea",
+          "url": "https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292440,
+      "name": "Time and Time",
+      "url": "https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W"
     },
     {
       "album": {
@@ -6791,7 +6989,7 @@
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 220555,
+      "duration_ms": 215404,
       "name": "Volpi",
       "url": "https://open.spotify.com/track/3OHRaBl0M2X5UWfgevbyVK"
     },

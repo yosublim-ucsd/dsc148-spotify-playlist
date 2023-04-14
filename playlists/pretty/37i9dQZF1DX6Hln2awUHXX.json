@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 86770,
+  "num_followers": 86821,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMDkyYjBlNjkyZGQxOGJmMmJmNGMwYjFkZTU2ZjU4NGVk",
+  "snapshot_id": "MTY1NjQwNjcwNSwwMDAwMDAwMGE5ZmM4YWExYjczNmNlMWZmNjMwZTVhMjZmYmI3MDQx",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Tristan und Isolde",
+        "url": "https://open.spotify.com/album/07s7zp3Ww37RKMNd1apIRU"
+      },
+      "artists": [
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 705560,
+      "name": "Tristan und Isolde, Act I: Einleitung (Orchester)",
+      "url": "https://open.spotify.com/track/12mGkBK8iKfY2hQDTS3vQO"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Das Rheingold, WWV 86A",
         "url": "https://open.spotify.com/album/5QgIRR2Ilw8dZ3OotAbiRV"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 583786,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
       "url": "https://open.spotify.com/track/3D7bf4mpDcyRNpCuzDGPGh"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Tristan und Isolde",
-        "url": "https://open.spotify.com/album/07s7zp3Ww37RKMNd1apIRU"
-      },
-      "artists": [
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 705560,
-      "name": "Tristan und Isolde, Act I: Einleitung (Orchester)",
-      "url": "https://open.spotify.com/track/12mGkBK8iKfY2hQDTS3vQO"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1179,6 +1179,38 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner: Siegfried, WWV 86C",
+        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Simon O'Neill",
+          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
+        },
+        {
+          "name": "Heidi Melton",
+          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
+        },
+        {
+          "name": "Hong Kong Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
+        },
+        {
+          "name": "Jaap Van Zweden",
+          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
+      "url": "https://open.spotify.com/track/2omc5qLAW5UXDXSAtPhvAj"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner, R.: Tristan Und Isolde",
         "url": "https://open.spotify.com/album/3QFEjUpjMSqxl4XGsQrVUu"
       },
@@ -1235,38 +1267,6 @@
       "duration_ms": 329146,
       "name": "Tristan und Isolde: Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
       "url": "https://open.spotify.com/track/0spYUmbD692XiXXJvYEmIj"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Siegfried, WWV 86C",
-        "url": "https://open.spotify.com/album/1KWsANADSRtAhadD5UfEA5"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Simon O'Neill",
-          "url": "https://open.spotify.com/artist/3nOe1h9SyhLnFEB5iYlbxw"
-        },
-        {
-          "name": "Heidi Melton",
-          "url": "https://open.spotify.com/artist/2f0QwltMQafffSUcJIN4bS"
-        },
-        {
-          "name": "Hong Kong Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2wFEejnAmdHGXYdIX9HN3U"
-        },
-        {
-          "name": "Jaap Van Zweden",
-          "url": "https://open.spotify.com/artist/5UpK57VBAZQ03iTyX5JlXB"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
-      "url": "https://open.spotify.com/track/2omc5qLAW5UXDXSAtPhvAj"
     },
     {
       "added_at": "2022-06-28 08:58:25",

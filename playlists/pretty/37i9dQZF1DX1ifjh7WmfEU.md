@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Piano music for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,629 likes - 155 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,659 likes - 155 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

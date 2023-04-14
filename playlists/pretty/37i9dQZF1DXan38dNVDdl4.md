@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Moyann
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,309 likes - 68 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,446 likes - 68 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 155600,
+  "num_followers": 155811,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDgyZWRjZjNmMTEyYTM2NDEyMTcwNTkxNGNjZjBiODdi",
+  "snapshot_id": "MTY2ODcwMDEyNywwMDAwMDAwMDNlODYwYzYxZjA4ODhiM2M3ZjVkNDdlOWFkMjFiNzc0",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 195973,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -595,8 +595,8 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Walking The Wire",
-      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Ellipsis (Deluxe)",
-        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Re-arrange",
-      "url": "https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Strangeland",
         "url": "https://open.spotify.com/album/7CrzFBSIGuZA07hjRM6HxH"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 218840,
       "name": "Sovereign Light Caf\u00e9",
       "url": "https://open.spotify.com/track/38v9pKVik1eEJhpSuh97oc"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Ellipsis (Deluxe)",
+        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Re-arrange",
+      "url": "https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
+        "name": "Strangeland (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Silenced By The Night",
+      "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 180880,
       "name": "Red Hands",
       "url": "https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
-        "name": "Strangeland (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Silenced By The Night",
-      "url": "https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL"
     },
     {
       "added_at": "2022-11-17 15:48:46",

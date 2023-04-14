@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 983462,
+  "num_followers": 984034,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAxOTM0MiwwMDAwMDAwMDA5OWRlMjRlMzBjZjU3ZDJlNDI4ODJmYzY5MjRjZTFm",
+  "snapshot_id": "MTY3NjAxOTM0MiwwMDAwMDAwMDc2NjZhZDM2MmIyNjMwYTQzNzVlYzQ2MWEwNmYwZWEx",
   "tracks": [
     {
       "added_at": "2023-02-03 05:18:14",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-03 05:18:14",
       "album": {
-        "name": "Sudah (Story of Kale - Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI"
-      },
-      "artists": [
-        {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        }
-      ],
-      "duration_ms": 206098,
-      "name": "Sudah - Story of Kale - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/5QGdWvXwXMK2Zx6eKagyue"
-    },
-    {
-      "added_at": "2023-02-03 05:18:14",
-      "album": {
         "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
         "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 408288,
       "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
       "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
+    },
+    {
+      "added_at": "2023-02-03 05:18:14",
+      "album": {
+        "name": "Sudah (Story of Kale - Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "Sudah - Story of Kale - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5QGdWvXwXMK2Zx6eKagyue"
     },
     {
       "added_at": "2023-02-03 05:18:14",

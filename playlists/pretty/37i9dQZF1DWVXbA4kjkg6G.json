@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 388009,
+  "num_followers": 388322,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDc3ZmZlMTljNjBiZDkzOGJmYzMyMWY5ZmI1MmFkMGJk",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDBmMzJiYTE0YWI2MzBjYThjZjIzN2JhYTc3YmFlOWFh",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Hell Is Round The Corner",
-      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 235800,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -175,18 +175,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Portishead",
-        "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
         }
       ],
-      "duration_ms": 240640,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
+      "duration_ms": 533013,
+      "name": "Lonely Soul",
+      "url": "https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -207,22 +211,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
+        "name": "Portishead",
+        "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
       },
       "artists": [
         {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 533013,
-      "name": "Lonely Soul",
-      "url": "https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX"
+      "duration_ms": 240640,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -435,18 +435,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Premiers Sympt\u00f4mes",
-        "url": "https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc"
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
         }
       ],
-      "duration_ms": 359600,
-      "name": "Modular Mix",
-      "url": "https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv"
+      "duration_ms": 242800,
+      "name": "A grand love theme",
+      "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -483,18 +483,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+        "name": "Premiers Sympt\u00f4mes",
+        "url": "https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc"
       },
       "artists": [
         {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         }
       ],
-      "duration_ms": 242800,
-      "name": "A grand love theme",
-      "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
+      "duration_ms": 359600,
+      "name": "Modular Mix",
+      "url": "https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -515,18 +515,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Bricolage",
-        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
+        "name": "Let Us Play",
+        "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
         }
       ],
-      "duration_ms": 353426,
-      "name": "Stoney Street",
-      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
+      "duration_ms": 272066,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Let Us Play",
-        "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
+        "name": "Bricolage",
+        "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
       },
       "artists": [
         {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
+      "duration_ms": 353426,
+      "name": "Stoney Street",
+      "url": "https://open.spotify.com/track/0GeezbrS87YZgXuyksdg2q"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 336586,
-      "name": "Spicy Snapper",
-      "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 831400,
       "name": "What Does Your Soul Look Like, Pt. 2",
       "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 336586,
+      "name": "Spicy Snapper",
+      "url": "https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Natural Born Killa (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
-      },
-      "artists": [
-        {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
-        }
-      ],
-      "duration_ms": 321932,
-      "name": "Into the 90's",
-      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 734333,
       "name": "In / Flux",
       "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Natural Born Killa (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
+      },
+      "artists": [
+        {
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
+        }
+      ],
+      "duration_ms": 321932,
+      "name": "Into the 90's",
+      "url": "https://open.spotify.com/track/2hZYC6lct1X5RRPz5m3qEa"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+        "name": "Pre Millennium Tension",
+        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
       "artists": [
         {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
         }
       ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
+      "duration_ms": 232160,
+      "name": "Christiansands",
+      "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -915,22 +931,6 @@
       "duration_ms": 447213,
       "name": "Bug Powder Dust - Kruder & Dorfmeister Session",
       "url": "https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Pre Millennium Tension",
-        "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Christiansands",
-      "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -999,42 +999,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I"
-      },
-      "artists": [
-        {
-          "name": "The Wiseguys",
-          "url": "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "We Be the Crew",
-      "url": "https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Reeled And Skinned",
-        "url": "https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz"
-      },
-      "artists": [
-        {
-          "name": "Red Snapper",
-          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
-        },
-        {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Snapper",
-      "url": "https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Lifestyle2 - Chill Lounge Vol 1",
         "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
       },
@@ -1071,6 +1035,42 @@
       "duration_ms": 285560,
       "name": "London Mind State",
       "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I"
+      },
+      "artists": [
+        {
+          "name": "The Wiseguys",
+          "url": "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "We Be the Crew",
+      "url": "https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Reeled And Skinned",
+        "url": "https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz"
+      },
+      "artists": [
+        {
+          "name": "Red Snapper",
+          "url": "https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q"
+        },
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Snapper",
+      "url": "https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "This Is Home Entertainment",
-        "url": "https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn"
-      },
-      "artists": [
-        {
-          "name": "DJ Spooky",
-          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
-        }
-      ],
-      "duration_ms": 367786,
-      "name": "Galactic Funk",
-      "url": "https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -1219,18 +1203,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Underground Vibes",
-        "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
+        "name": "This Is Home Entertainment",
+        "url": "https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn"
       },
       "artists": [
         {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+          "name": "DJ Spooky",
+          "url": "https://open.spotify.com/artist/1O8yrjjifkCO8txB4CxuOm"
         }
       ],
-      "duration_ms": 362106,
-      "name": "Dieu Reconnaitra Les Siens",
-      "url": "https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0"
+      "duration_ms": 367786,
+      "name": "Galactic Funk",
+      "url": "https://open.spotify.com/track/5DRfoGTpzVbyddq2LMe6ZD"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Major Force West ('93 - '97)",
+        "url": "https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly"
+      },
+      "artists": [
+        {
+          "name": "Major Force West E.M.S. Orchestra",
+          "url": "https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v"
+        }
+      ],
+      "duration_ms": 384960,
+      "name": "Mugen - In the Morning",
+      "url": "https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc"
     }
   ],
   "unique_name": "Trip Hop",

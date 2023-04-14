@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,159 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,207 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 41 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
 | 42 | [So Hooked On Your Lovin \- Mousse T.'s Disco Shizzle](https://open.spotify.com/track/1CmqwIhFc0FySL8HiPo0jU) | [Selace](https://open.spotify.com/artist/726bVRI3QPQIbCr4qIGaV4), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [So Hooked On Your Lovin](https://open.spotify.com/album/5Cby6wd3SQ2zhKHXHLfzGM) | 3:33 |
 | 43 | [Ngixolele](https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Umsebenzi Wethu, Vol\. 2](https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV) | 6:17 |
-| 44 | [I Luv U Baby \- Edit](https://open.spotify.com/track/0g9OCw6sY9ZLRA5KxRkcIQ) | [The Original](https://open.spotify.com/artist/2IwjkUrnzXsfgXkvUtZYKH), [Walter Taieb](https://open.spotify.com/artist/67h9I9xLu9KPydQoldwCyL) | [I Luv U Baby](https://open.spotify.com/album/2hqKNctlSpTAdngdaU7lqf) | 3:33 |
-| 45 | [Both Of Us](https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 5:53 |
+| 44 | [Both Of Us](https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 5:53 |
+| 45 | [I Luv U Baby \- Edit](https://open.spotify.com/track/0g9OCw6sY9ZLRA5KxRkcIQ) | [The Original](https://open.spotify.com/artist/2IwjkUrnzXsfgXkvUtZYKH), [Walter Taieb](https://open.spotify.com/artist/67h9I9xLu9KPydQoldwCyL) | [I Luv U Baby](https://open.spotify.com/album/2hqKNctlSpTAdngdaU7lqf) | 3:33 |
 | 46 | [Simple Hit](https://open.spotify.com/track/1WRYsNOdajLvZ1qLP1op73) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/69nHxXntI0fz61QeB9n4On) | 3:39 |
 | 47 | [Sweet Harmony](https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3) | 4:22 |
 | 48 | [You Already Know](https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [You Already Know](https://open.spotify.com/album/6LMBySjeiqGMof5IojtNcJ) | 2:59 |
 | 49 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 50 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 
-Snapshot ID: `MTYzODcyNjkyNiwwMDAwMDAwMGJjZGY2NDY0YzlkYzk1OGUyZDZmN2VkNGI1YzIyMWU1`
+Snapshot ID: `MTYzODcyNjkyNiwwMDAwMDAwMDAzZTE3YWY0ZWZlNTk4YTdkZWRjZjM1N2UxMzRlNWNk`

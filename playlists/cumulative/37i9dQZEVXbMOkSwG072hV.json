@@ -8400,6 +8400,10 @@
           "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
         },
         {
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
+        },
+        {
           "name": "DJ Arana",
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
         }
@@ -12054,7 +12058,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
@@ -17824,6 +17828,32 @@
       "duration_ms": 173549,
       "name": "Ploc Ploc",
       "url": "https://open.spotify.com/track/0GdWRgFmO6ETUiN5E4OZQq"
+    },
+    {
+      "album": {
+        "name": "Plof Plof",
+        "url": "https://open.spotify.com/album/5DJbT68KLqNI3bxIvBhZQI"
+      },
+      "artists": [
+        {
+          "name": "MC BEATRIZ",
+          "url": "https://open.spotify.com/artist/4lLwHokiP9fqkPpq9YCDEB"
+        },
+        {
+          "name": "CABBRAU",
+          "url": "https://open.spotify.com/artist/7gF4lCtHJnQwZC24D8AaM5"
+        },
+        {
+          "name": "Dj Laranjinha",
+          "url": "https://open.spotify.com/artist/3x8BX06j1f2CuEgihUvoNM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121777,
+      "name": "Plof Plof",
+      "url": "https://open.spotify.com/track/4x3k2qGavSgtIw6dKu7zLz"
     },
     {
       "album": {

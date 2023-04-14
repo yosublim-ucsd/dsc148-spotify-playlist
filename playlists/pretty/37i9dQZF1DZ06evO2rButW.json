@@ -1,15 +1,15 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 595875,
+  "num_followers": 596144,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjE2OTQsMDAwMDAwMDA1Mjg4MzFkZTkyNzY1MTNlNTExZDA3NWQ2ZjM1NDkxMQ==",
+  "snapshot_id": "MjgwMjMxNDIsMDAwMDAwMDA4NDE0NmI5Zjk2ODQ3ZmM0NThlNjQyMDcwNmJhOTA4MA==",
   "tracks": [
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Antes De Ti",
         "url": "https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN"
@@ -61,59 +61,7 @@
       "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Amor Completo",
-      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Palmar",
         "url": "https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY"
@@ -133,7 +81,59 @@
       "url": "https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Amor Completo",
+      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Metr\u00f3polis (Live)",
         "url": "https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
@@ -397,7 +397,23 @@
       "url": "https://open.spotify.com/track/1i52sh56NRpwyO3qREWMX7"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "No Soy Para Ti",
+      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
@@ -417,23 +433,7 @@
       "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "No Soy Para Ti",
-      "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Pensamos",
         "url": "https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
@@ -469,23 +469,7 @@
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Primaveral",
-      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
@@ -501,7 +485,23 @@
       "url": "https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Primaveral",
+      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Hoy No",
         "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
@@ -537,23 +537,7 @@
       "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "El Cristal",
-      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
@@ -569,7 +553,39 @@
       "url": "https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "El Cristal",
+      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "La Danza de las Lib\u00e9lulas",
         "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
@@ -589,39 +605,7 @@
       "url": "https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
-      "album": {
-        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
-        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Bonita - Bonus Track",
-      "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
-    },
-    {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
@@ -637,7 +621,23 @@
       "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
+      "album": {
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
+        "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Bonita - Bonus Track",
+      "url": "https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa"
+    },
+    {
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Tornasol",
         "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "La Trenza (Deluxe)",
         "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Transformando La Cumbia",
         "url": "https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "El Canto de Todos",
         "url": "https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Que Se Sepa Nuestro Amor",
         "url": "https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "As\u00ed Te Quiero Yo",
         "url": "https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/4DwnXwEVTipWr1u7ZAgoku"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "Dios Los Cr\u00eda",
         "url": "https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/1FV8DteSCiDnZDEQlQZMh3"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
     },
     {
-      "added_at": "2023-04-12 12:14:23",
+      "added_at": "2023-04-13 12:22:55",
       "album": {
         "name": "El Derecho de Vivir en Paz",
         "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"

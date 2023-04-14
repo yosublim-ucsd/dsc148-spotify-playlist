@@ -2,7 +2,7 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Darassa
+> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
 228 songs - 12 hr 54 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 
 > Súbele el volumen a La Firma\. Escucha los hits de esta competencia de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,721 likes - 65 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,201 likes - 65 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

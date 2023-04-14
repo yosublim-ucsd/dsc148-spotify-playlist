@@ -1,15 +1,15 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6795747,
+  "num_followers": 6797175,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyMjAwMCwwMDAwMDAwMGI0N2U5N2RiMmNmM2MyYTcwM2U1MGVmYWFhZjdjYzVj",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDYzNmU1MDUyNDc0M2MzZmU0ZTY0ODZmODBkYmQ2YTdi",
   "tracks": [
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Turn On The Lights again.. (feat. Future) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
@@ -53,10 +53,10 @@
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Shake That",
-        "url": "https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN"
+        "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
       },
       "artists": [
         {
@@ -68,12 +68,36 @@
           "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
         }
       ],
-      "duration_ms": 179801,
+      "duration_ms": 179738,
       "name": "Shake That",
-      "url": "https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9"
+      "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Hardwell Remix]",
+        "url": "https://open.spotify.com/album/3LswMGIQwIQpJztiYx37xs"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 184782,
+      "name": "Miracle (with Ellie Goulding) - Hardwell Remix",
+      "url": "https://open.spotify.com/track/4LwbGXpHNvKkwiyLFBsBBQ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -93,7 +117,63 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Everything You Have Done (Meduza Edit)",
+        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 156218,
+      "name": "Everything You Have Done - Meduza Edit",
+      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -121,79 +201,7 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Everything You Have Done (Meduza Edit)",
-        "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 156218,
-      "name": "Everything You Have Done - Meduza Edit",
-      "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -213,7 +221,7 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Popcorn (Rework)",
         "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
@@ -233,7 +241,7 @@
       "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Wrong or Right (The Riddle)",
         "url": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm"
@@ -249,7 +257,7 @@
       "url": "https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -269,7 +277,7 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -289,7 +297,7 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Mas Que Nada (with Marnik)",
         "url": "https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO"
@@ -313,7 +321,7 @@
       "url": "https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -337,7 +345,27 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -357,7 +385,7 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
@@ -377,7 +405,7 @@
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
@@ -397,23 +425,7 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
@@ -433,7 +445,23 @@
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
@@ -453,7 +481,7 @@
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
@@ -473,27 +501,7 @@
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Unstoppable (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Unstoppable - R3HAB Remix",
-      "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "I'm So Excited (Siks Remix)",
         "url": "https://open.spotify.com/album/5Ye9eoe9VSnZwRlanJzJVv"
@@ -513,7 +521,7 @@
       "url": "https://open.spotify.com/track/5lvXklAtsaPvyxZFxRx9oC"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Drink And Shout",
         "url": "https://open.spotify.com/album/3osV0Sq28dZop5Db7ugcwi"
@@ -537,7 +545,55 @@
       "url": "https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Alone Again (feat. Afrojack & Mougleta) [Vion Konger Remix]",
+        "url": "https://open.spotify.com/album/1MUbnp0xeerxtl8TzEIvan"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Alone Again (feat. Afrojack & Mougleta) [Vion Konger Remix]",
+      "url": "https://open.spotify.com/track/0tSLOizn6KrqwNhPxq9D6F"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "All Nighter",
         "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
@@ -553,7 +609,27 @@
       "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Unstoppable (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Unstoppable - R3HAB Remix",
+      "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
@@ -577,7 +653,7 @@
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
@@ -597,7 +673,7 @@
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
@@ -617,27 +693,7 @@
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Believe (feat. Goodboys)",
-        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Believe (feat. Goodboys)",
-      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
@@ -657,91 +713,43 @@
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
-        "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 136189,
+      "name": "Like Wooh Wooh - Radio Edit",
+      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Believe (feat. Goodboys)",
+        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+      },
+      "artists": [
         {
           "name": "ACRAZE",
           "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
-      "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+      "duration_ms": 188709,
+      "name": "Believe (feat. Goodboys)",
+      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "California Dreamin' (feat. High Jinx)",
-        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "High Jinx",
-          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
-        }
-      ],
-      "duration_ms": 196899,
-      "name": "California Dreamin' (feat. High Jinx)",
-      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Turn On The Lights again.. (feat. Future)",
         "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
@@ -765,27 +773,91 @@
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+        "name": "Unholy (feat. Kim Petras) [ACRAZE Remix]",
+        "url": "https://open.spotify.com/album/5q2WZFrJpYs53Ky2PSjeIg"
       },
       "artists": [
         {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
         }
       ],
-      "duration_ms": 178908,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+      "duration_ms": 176500,
+      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
+      "url": "https://open.spotify.com/track/2Jn3wcH9TSCFMQjlWreTft"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "California Dreamin' (feat. High Jinx)",
+        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+        }
+      ],
+      "duration_ms": 196899,
+      "name": "California Dreamin' (feat. High Jinx)",
+      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
@@ -809,7 +881,27 @@
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T"
@@ -833,7 +925,7 @@
       "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Family Affair (Dance For Me)",
         "url": "https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH"
@@ -849,7 +941,7 @@
       "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
@@ -881,7 +973,7 @@
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Shivers (Ofenbach Remix)",
         "url": "https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl"
@@ -901,7 +993,7 @@
       "url": "https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
@@ -917,7 +1009,7 @@
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Lavender Haze (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
@@ -937,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
@@ -957,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "WOW (feat. \u00c1SD\u00cdS)",
         "url": "https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q"
@@ -985,7 +1077,7 @@
       "url": "https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
@@ -1005,7 +1097,7 @@
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "From Paris to Berlin (Chrit Leaf Remix)",
         "url": "https://open.spotify.com/album/6NQEZ6aURGOWm5QxjEMiHo"
@@ -1025,7 +1117,27 @@
       "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
         "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
@@ -1049,71 +1161,7 @@
       "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Ferrari (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Ferrari - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
@@ -1137,7 +1185,51 @@
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Ferrari (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Ferrari - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
@@ -1153,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
@@ -1173,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Belly Dancer (LUM!X Remix)",
         "url": "https://open.spotify.com/album/3VJjBWJCl7mqqWkh9U76vR"
@@ -1197,7 +1289,7 @@
       "url": "https://open.spotify.com/track/61eO1GpmNJ7iUVoQZ5JfNO"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Danielle (smile on my face)",
         "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
@@ -1213,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Hopeless Heart",
         "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
@@ -1237,7 +1329,23 @@
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "duration_ms": 179528,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
@@ -1257,7 +1365,7 @@
       "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
@@ -1281,23 +1389,7 @@
       "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        }
-      ],
-      "duration_ms": 179528,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Hold Me Closer (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
@@ -1321,7 +1413,7 @@
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Rely On Me",
         "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
@@ -1345,31 +1437,7 @@
       "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "You Can\u2019t Change Me (feat. Raye)",
-        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "You Can\u2019t Change Me (feat. Raye)",
-      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Blow It Up",
         "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
@@ -1393,7 +1461,31 @@
       "url": "https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Worlds On Fire (with R3HAB & Au/Ra)",
         "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
@@ -1417,7 +1509,51 @@
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Numb (Alok Remix)",
+        "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 172913,
+      "name": "Numb - Alok Remix",
+      "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Case Of The Ex (feat. Mya Francis)",
         "url": "https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM"
@@ -1445,51 +1581,51 @@
       "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Numb (Alok Remix)",
-        "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
+        "name": "Dooh Dooh (Stereo Sound)",
+        "url": "https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Barcode Brothers",
+          "url": "https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk"
         }
       ],
-      "duration_ms": 172913,
-      "name": "Numb - Alok Remix",
-      "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+      "duration_ms": 125294,
+      "name": "Dooh Dooh (Stereo Sound)",
+      "url": "https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         },
         {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1h9SeQDYy4kq59zk5Xcztz"
@@ -1525,51 +1661,7 @@
       "url": "https://open.spotify.com/track/7vUROW0qSrg2HACYL3rglZ"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Dooh Dooh (Stereo Sound)",
-        "url": "https://open.spotify.com/album/2Vk9sx2NOlxu6RL2JtJEoZ"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Shibui",
-          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
-        },
-        {
-          "name": "Barcode Brothers",
-          "url": "https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk"
-        }
-      ],
-      "duration_ms": 125294,
-      "name": "Dooh Dooh (Stereo Sound)",
-      "url": "https://open.spotify.com/track/0pCgiDXakABvpav5gAwwBU"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
         "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
@@ -1589,7 +1681,7 @@
       "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Give It to Me",
         "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
@@ -1605,27 +1697,7 @@
       "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "You're Free",
-        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 167298,
-      "name": "You're Free",
-      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Hit 'Em Up Style (Oops!)",
         "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
@@ -1645,7 +1717,7 @@
       "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
@@ -1665,7 +1737,27 @@
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "You're Free",
+        "url": "https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 167298,
+      "name": "You're Free",
+      "url": "https://open.spotify.com/track/0KF938333oCvIXDxe72K44"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
@@ -1685,7 +1777,7 @@
       "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E"
@@ -1705,7 +1797,7 @@
       "url": "https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
         "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
@@ -1729,7 +1821,7 @@
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "JUMPSTART",
         "url": "https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR"
@@ -1745,7 +1837,7 @@
       "url": "https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
@@ -1765,7 +1857,7 @@
       "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Drop That Low (When I Dip)",
         "url": "https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj"
@@ -1785,7 +1877,7 @@
       "url": "https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "DARK MATTER",
         "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
@@ -1801,7 +1893,7 @@
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Don't Play Games",
         "url": "https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms"
@@ -1829,7 +1921,7 @@
       "url": "https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Don't Stop the Music",
         "url": "https://open.spotify.com/album/35bbZQhkYfP37dzTKsCvtz"
@@ -1849,7 +1941,7 @@
       "url": "https://open.spotify.com/track/3LdNJc9XPe9ViFpNmfuTRT"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Unholy (feat. Kim Petras) [David Guetta Acid Remix]",
         "url": "https://open.spotify.com/album/54qcVnPoasyXo6U1ncvxFb"
@@ -1873,7 +1965,7 @@
       "url": "https://open.spotify.com/track/6uZ6M4MAhDQJDmjCcKDdVf"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Believe (feat. Goodboys) [Galantis Remix]",
         "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
@@ -1897,7 +1989,7 @@
       "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Love We Lost (with R3HAB)",
         "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
@@ -1921,7 +2013,7 @@
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Ocean Of Tears",
         "url": "https://open.spotify.com/album/2zRkmxVhm6Isn66yIiBnLp"
@@ -1941,7 +2033,7 @@
       "url": "https://open.spotify.com/track/6oJIAZpChGNIEMAecud9SZ"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Belters Only",
         "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
@@ -1957,7 +2049,7 @@
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
@@ -1973,7 +2065,7 @@
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75"
@@ -1997,27 +2089,7 @@
       "url": "https://open.spotify.com/track/60CYnFHLQl836wjbkchOsn"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Jenny From The Block",
         "url": "https://open.spotify.com/album/03M2hC29lmLarzSiw8Sznt"
@@ -2037,7 +2109,7 @@
       "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
     },
     {
-      "added_at": "2023-04-06 23:00:00",
+      "added_at": "2023-04-13 23:00:00",
       "album": {
         "name": "Conga",
         "url": "https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5"
@@ -2067,70 +2139,6 @@
       "duration_ms": 140400,
       "name": "Conga",
       "url": "https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        }
-      ],
-      "duration_ms": 159406,
-      "name": "Killing Me Softly",
-      "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Heaven (feat. Sofia Quinn) [Club Mix]",
-        "url": "https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Sofia Quinn",
-          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Heaven (feat. Sofia Quinn) - Club Mix",
-      "url": "https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9"
-    },
-    {
-      "added_at": "2023-04-06 23:00:00",
-      "album": {
-        "name": "Can't Tame Her (The Remixes)",
-        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Can't Tame Her - VIZE Remix",
-      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
     }
   ],
   "unique_name": "Motivation Mix",

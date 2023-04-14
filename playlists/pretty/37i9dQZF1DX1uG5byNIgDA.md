@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,356 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,379 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 |
+| 1 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
 | 2 | [My Light](https://open.spotify.com/track/1WKfJn8wUuUXBSVJBEytq0) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 1](https://open.spotify.com/album/6NtAlARAtzY1eLC2o1yVBP) | 2:32 |
 | 3 | [Shine](https://open.spotify.com/track/5WYgNDkw0VsDIZwfwQWlXp) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Shine](https://open.spotify.com/album/7oeXbkNIec5kwanlfRjyPC) | 3:06 |
 | 4 | [Picnic \(feat\. Nohd & Baye\)](https://open.spotify.com/track/6fK1gQxkJaJuNMnDCSPvyy) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Nohd](https://open.spotify.com/artist/7tUDMjgBQG5o7qYFIZF3lq), [Baye](https://open.spotify.com/artist/5NGv35WP0jow6GEEclCAex) | [SEOULVIBES, VASPA](https://open.spotify.com/album/1UPAWmTv1j8J1W6groVU77) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 |
 | 50 | [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 |
 
-Snapshot ID: `MTY4MDYxODg1NSwwMDAwMDAwMDE4ZGEwMzQ3MDlkYjczNjUwZDVjMDA0YzdmNWIyMGRh`
+Snapshot ID: `MTY4MDYxODg1NSwwMDAwMDAwMDhjYzMyZmNjMzFjNmNlOGVhMzE5YzhjZmEwZDA4MWY4`

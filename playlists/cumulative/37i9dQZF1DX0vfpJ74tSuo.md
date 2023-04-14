@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-167 songs - 10 hr 13 min
+168 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 | 2022-09-12 |  |
 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 | 2022-07-08 |  |
 | [I Remember You](https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 4:55 | 2022-05-25 |  |
-| [I'm Gonna Find Another You \- Live](https://open.spotify.com/track/2vjhG0Cd33rlbXkq7D0ThC) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj), [NEKOMURA](https://open.spotify.com/artist/3OaVBqxlWy8vHIHsBV8nN2) | [I'm Gonna Find Another You \(Live\)](https://open.spotify.com/album/7zMaRH93VljgYVf7XGSW93) | 3:46 | 2023-03-24 |  |
+| [I Want to Hear You Sing](https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Rain](https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE) | 2:43 | 2023-04-14 |  |
+| [I'm Gonna Find Another You \- Live](https://open.spotify.com/track/2vjhG0Cd33rlbXkq7D0ThC) | [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj), [NEKOMURA](https://open.spotify.com/artist/3OaVBqxlWy8vHIHsBV8nN2) | [I'm Gonna Find Another You \(Live\)](https://open.spotify.com/album/7zMaRH93VljgYVf7XGSW93) | 3:46 | 2023-03-24 | 2023-04-14 |
 | [I'm In the Mood](https://open.spotify.com/track/5PheG3ZH6bMxxHic2PWPUT) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hook 'Em \- Best of John Lee Hooker](https://open.spotify.com/album/7ppgYbEN4BblWFbiy0b3HG) | 2:44 | 2022-05-25 | 2022-07-29 |
 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 | 2022-07-08 |  |
 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 | 2023-04-07 |  |

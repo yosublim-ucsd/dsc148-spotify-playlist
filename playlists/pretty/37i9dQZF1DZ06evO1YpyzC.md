@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,368 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,459 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 50 | [I Love That I Hate You](https://open.spotify.com/track/3wbhzLFCwJ0faJe0g6HDG6) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Love That I Hate You \- Single](https://open.spotify.com/album/2siw0W1pFH2HMatUEx9RzC) | 3:07 |
 | 51 | [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 |
 
-Snapshot ID: `MjgwMjE2OTQsMDAwMDAwMDBjNDQyOTU4NTFkMmRlZWEzMWNjMDgwNmZmMjNmM2Q0Mw==`
+Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDAzZWJkYzNlYzQ1MTE1Y2U4MGI2Nzc3ODUwMjI1ZmIzMw==`

@@ -4,14 +4,15 @@
 
 > All the best new songs from the pop punk scene\. Cover: Hot Milk
 
-266 songs - 13 hr 3 min
+267 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Full Free\) Radical](https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [\(Full Free\) Radical](https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6) | 3:55 | 2023-03-31 |  |
 | [\(NOT A\) LOVE SONG](https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79) | [The Tyne](https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [\(NOT A\) LOVE SONG](https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN) | 2:47 | 2023-01-20 | 2023-02-18 |
 | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [1\-800\-IDONTKNOWYOUANYMORE](https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA) | 2:51 | 2022-11-10 |  |
-| [2005](https://open.spotify.com/track/7mBH6K8EkUEZmSavjoqkV7) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [2005](https://open.spotify.com/album/75OoXT2GLguj296VYuaRMz) | 2:51 | 2023-02-17 |  |
+| [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 | 2023-03-31 |  |
+| [2005](https://open.spotify.com/track/7mBH6K8EkUEZmSavjoqkV7) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [2005](https://open.spotify.com/album/75OoXT2GLguj296VYuaRMz) | 2:51 | 2023-02-17 | 2023-04-14 |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-07 | 2023-04-01 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-20 | 2022-06-15 |
 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 | 2023-01-27 |  |

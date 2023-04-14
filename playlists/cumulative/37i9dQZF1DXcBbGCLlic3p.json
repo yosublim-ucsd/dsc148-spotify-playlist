@@ -4631,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Whispered Views",
+        "url": "https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY"
+      },
+      "artists": [
+        {
+          "name": "Jon Laer",
+          "url": "https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Whispered Views",
+      "url": "https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe"
+    },
+    {
+      "album": {
         "name": "Will you be there when I wake up",
         "url": "https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP"
       },

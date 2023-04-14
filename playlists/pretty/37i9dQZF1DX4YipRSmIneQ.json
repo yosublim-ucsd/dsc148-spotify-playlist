@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 51435,
+  "num_followers": 51521,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYxNjYyMiwwMDAwMDAwMDFiNzIyNjFjNTRmOGZiYzhkNTJmYTcyODUwY2Q0NWI5",
+  "snapshot_id": "MTY4MDYxNjYyMiwwMDAwMDAwMGE3MmQ2ZjdlYjIwZmU4M2NhM2Y3ZDEzOWU2NDUxZjlk",
   "tracks": [
     {
       "added_at": "2023-02-22 19:18:02",
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV"
     },
     {
-      "added_at": "2023-04-13 01:19:26",
+      "added_at": "2023-04-14 01:18:10",
       "album": {
         "name": "Pillow Princess Remixes I",
         "url": "https://open.spotify.com/album/0qealHFPGDb0uG4dBrW6qR"
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-22 19:18:02",
       "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193738,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
-    },
-    {
-      "added_at": "2023-02-22 19:18:02",
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
+    },
+    {
+      "added_at": "2023-02-22 19:18:02",
+      "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 193738,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
     },
     {
       "added_at": "2023-02-22 19:18:02",

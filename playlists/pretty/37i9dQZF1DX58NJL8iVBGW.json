@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 549729,
+  "num_followers": 549906,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMGZiYzVjZDgwM2M1YjViYmQ2MjhjN2E4NmVmNWI1MDlh",
+  "snapshot_id": "MTY3OTkzNTc0NiwwMDAwMDAwMDcxZjAzMWU0MGQ2NWY3ZWIwMGI1MWRhMWNkNjk2Yjhj",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -217,7 +217,23 @@
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
-      "added_at": "2023-04-13 01:20:34",
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Folk Songs of the American Longhair",
+        "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
+      },
+      "artists": [
+        {
+          "name": "Brother Dege",
+          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Too Old to Die Young",
+      "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
+    },
+    {
+      "added_at": "2023-04-14 00:59:43",
       "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
@@ -235,22 +251,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Folk Songs of the American Longhair",
-        "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
-      },
-      "artists": [
-        {
-          "name": "Brother Dege",
-          "url": "https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Too Old to Die Young",
-      "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 149000,
       "name": "Devil\u2019s Backbone",
       "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "A Long Life of Living",
+        "url": "https://open.spotify.com/album/1e7YbwFtvVBUpWMTojqeCg"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "The Railroad",
+      "url": "https://open.spotify.com/track/7mkemk33kdLQvrkIpRkWWd"
     },
     {
       "added_at": "2022-07-11 21:23:38",
@@ -283,22 +299,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "A Long Life of Living",
-        "url": "https://open.spotify.com/album/1e7YbwFtvVBUpWMTojqeCg"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "The Railroad",
-      "url": "https://open.spotify.com/track/7mkemk33kdLQvrkIpRkWWd"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 218188,
       "name": "Devil's Spoke",
       "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Whiskey Shivers",
-        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Shivers",
-          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
         "url": "https://open.spotify.com/album/795JPmab0nbSSraMlxBHF0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 175153,
       "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
       "url": "https://open.spotify.com/track/3tEL74JlN4OT9YPoNx5eRI"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Whiskey Shivers",
+        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Shivers",
+          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Heavy Load",
+        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller Band",
+          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Get Right Church",
+      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 265760,
       "name": "Meet Me in the Alleyway",
       "url": "https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Heavy Load",
-        "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller Band",
-          "url": "https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Get Right Church",
-      "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Real Gone (Remastered)",
-        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "How's It Gonna End",
-      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Real Gone (Remastered)",
+        "url": "https://open.spotify.com/album/6F17MbloTeRoXs7JI3lTHy"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "How's It Gonna End",
+      "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Billy Jack",
-        "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
-      },
-      "artists": [
-        {
-          "name": "honeyhoney",
-          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
-        }
-      ],
-      "duration_ms": 285680,
-      "name": "Thin Line",
-      "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Devil Don't You Fool Me",
         "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 170985,
       "name": "Devil Don't You Fool Me",
       "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Billy Jack",
+        "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
+      },
+      "artists": [
+        {
+          "name": "honeyhoney",
+          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Put Your Needle Down",
-        "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 282133,
-      "name": "Iuka",
-      "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Heatstroke/The Wind and the War",
         "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Put Your Needle Down",
+        "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Iuka",
+      "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Psalms",
-      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Beyond The Bloodhounds",
         "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Psalms",
+      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "By The Rule",
         "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Digging Up Birds: A Collection of Rarities & Others",
+        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+      },
+      "artists": [
+        {
+          "name": "Graham Lindsey",
+          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+        }
+      ],
+      "duration_ms": 188660,
+      "name": "No Way Out but Down (Alternate Version)",
+      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Digging Up Birds: A Collection of Rarities & Others",
-        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+        "name": "A Mountain Is a Mouth",
+        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
       },
       "artists": [
         {
-          "name": "Graham Lindsey",
-          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
         }
       ],
-      "duration_ms": 188660,
-      "name": "No Way Out but Down (Alternate Version)",
-      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+      "duration_ms": 156706,
+      "name": "Crabapples",
+      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "A Mountain Is a Mouth",
-        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "Crabapples",
-      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Ghost Who Walks",
         "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 187146,
       "name": "Stolen Roses",
       "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Blood Money (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 292112,
-      "name": "All The World Is Green - Live",
-      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1631,6 +1615,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Blood Money (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/34jdCKLIC2rmMyACRTKZNG"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 292112,
+      "name": "All The World Is Green - Live",
+      "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
     }
   ],
   "unique_name": "Southern Gothic",

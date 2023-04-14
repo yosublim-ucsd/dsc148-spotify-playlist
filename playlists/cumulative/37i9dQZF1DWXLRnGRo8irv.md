@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NMIXX\)
 
-739 songs - 1 day 18 hr 45 min
+740 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,8 @@
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-02 | 2022-09-07 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-06 | 2022-10-05 |
 | [Kissing](https://open.spotify.com/track/0BfAFC7ybwMb5562S39OI0) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:56 | 2022-03-07 | 2022-04-06 |
-| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-04-04 |  |
+| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-04-04 | 2023-04-14 |
+| [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-04 |  |
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2021-12-08 | 2022-01-05 |
 | [Knock Knock](https://open.spotify.com/track/7mbelePtAUEJ6hlvKV0jUv) | [ILYA 일리아](https://open.spotify.com/artist/4Ucdz4NOmIw3CejFFdCMzX) | [Knock Knock](https://open.spotify.com/album/2pAcaqDIi3FgB9sSvg6V4k) | 2:22 | 2022-11-10 | 2022-12-01 |
 | [Knock Knock](https://open.spotify.com/track/0T0nQ9Vmo9nSWKJDtbkmIh) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [A.M.P.](https://open.spotify.com/album/79wMSqL8M0tZPxFDMpURCT) | 3:04 | 2021-12-08 | 2022-01-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-09",
-  "description": "Listen to more Trending and Love songs on the &quot;<a href=\"https://open.spotify.com/playlist/0Z7za9pQFEaGBVYTnvJMi1?si=RxGI_90fSEKOQT73rD28Mw&amp;dd=1&amp;nd=1\">Trending Insta Reels</a>&quot; &amp; &quot;<a href=\"https://open.spotify.com/playlist/02Py4h9KSGuXhqVmd36Wfi?si=ER8gOIlRS2Cs_4MCQPp8eA&amp;dd=1\">Love Stories \u2764\ufe0f</a>&quot; ",
+  "description": "LOVE and SAD SONGS...\ud83e\udd7aall time best hits \u2764\ufe0f\u200d\ud83e\ude79(Hindi)",
   "name": "Dil Ka Sukoon",
   "tracks": [
     {
@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Sunoh",
+        "url": "https://open.spotify.com/album/54mRGBCsNzGVGhVPenUnvt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223027,
+      "name": "O Sanam",
+      "url": "https://open.spotify.com/track/5oYRr51VatOtkFeEOursuZ"
+    },
+    {
+      "album": {
         "name": "O Sanam (Reprise)",
         "url": "https://open.spotify.com/album/16Ef3PREwSvH9zZqfRovfo"
       },
@@ -2060,6 +2078,44 @@
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "album": {
+        "name": "Ranjha (Sid X Kiara Version)",
+        "url": "https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Prerna Arora",
+          "url": "https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7"
+        },
+        {
+          "name": "Ashwani Basoya",
+          "url": "https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm"
+        },
+        {
+          "name": "The Wedding Filmer",
+          "url": "https://open.spotify.com/artist/6nKrBsgkTLIBbNdZhYr1kO"
+        },
+        {
+          "name": "Kingshuk Chakravarty",
+          "url": "https://open.spotify.com/artist/0MmHrkXeuapU1nIUa8qDnx"
+        },
+        {
+          "name": "Mayank Choudhary",
+          "url": "https://open.spotify.com/artist/5wLDdmvqrXgfwRQtSjA9mD"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117040,
+      "name": "Ranjha - Sid X Kiara Version",
+      "url": "https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-165 songs - 8 hr 46 min
+166 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Dusty Star](https://open.spotify.com/track/18HkZKb3Q5nUdLE8a6mj8g) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Dusty Star](https://open.spotify.com/album/3n3mkl4mHxBJsIu1wQlX7o) | 4:43 | 2021-12-10 |  |
 | [Eclipse](https://open.spotify.com/track/4UtZIzqtA5l7pnK9btaANX) | [Estella Martinez](https://open.spotify.com/artist/4yh4jzFYXkJnloEQYICSsX) | [Eclipse](https://open.spotify.com/album/25vdGHdXcGPQ6FbdWw8ryB) | 2:41 | 2021-12-10 |  |
 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 | 2022-10-14 |  |
-| [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 | 2021-12-10 |  |
+| [Endless Fragments of Time](https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Endless Fragments of Time](https://open.spotify.com/album/12kcM5eBTpgQt2jLeb8sjL) | 3:36 | 2021-12-10 | 2023-04-14 |
 | [Enlightened Sense](https://open.spotify.com/track/1KHrVFRoVabN7vXoSK3sAP) | [Perceived Present](https://open.spotify.com/artist/0df4GNs9AAMEQQsggBKxU2) | [Enlightened Sense](https://open.spotify.com/album/0Dot5yCiD9YoITgdlpuWC2) | 2:33 | 2021-12-10 |  |
 | [Environmental Re\-Interpretation](https://open.spotify.com/track/440vNnFLzA1jeyfBQ1qeLY) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Environmental Re\-Interpretation](https://open.spotify.com/album/6DflzLS0vUt45ca8lw3iiW) | 3:26 | 2022-03-03 | 2022-08-13 |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-01-27 |  |
@@ -155,6 +155,7 @@
 | [Take Me Home](https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Take Me Home](https://open.spotify.com/album/6t5ja4OhtMyp49oY9FjN4f) | 3:29 | 2022-01-07 |  |
 | [Thaka](https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Thaka](https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx) | 3:20 | 2021-12-10 |  |
 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 | 2021-12-10 |  |
+| [The Tranquility of the Sea](https://open.spotify.com/track/1O9IY6riDCzjsqmrJ4sRtp) | [Eryk Kamylla](https://open.spotify.com/artist/60caE64AiPqCMFtDA2vdrh) | [The Tranquility of the Sea](https://open.spotify.com/album/72xXhwvo9v0fftNRCMyZKX) | 2:46 | 2023-04-13 |  |
 | [Thorns](https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb) | [Rama Fiore](https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366) | [Blossom](https://open.spotify.com/album/6Ali5VGJJO9MkkPrhhLcmc) | 3:07 | 2022-10-14 |  |
 | [Through The Air](https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Through The Air](https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy) | 2:38 | 2022-12-02 |  |
 | [Togetherness](https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3) | [Emeraldic](https://open.spotify.com/artist/03zWCCGrixU8hjtzgf8VRK) | [Togetherness](https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh) | 2:47 | 2021-12-10 |  |

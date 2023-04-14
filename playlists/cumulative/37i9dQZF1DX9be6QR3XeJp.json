@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Jasmine Jethwa",
+  "description": "Discover your new favourite artists from UK&IE. Cover: G!ft",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3416,6 +3416,24 @@
       "duration_ms": 196000,
       "name": "Void",
       "url": "https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu"
+    },
+    {
+      "album": {
+        "name": "Wanna Chill Baby?",
+        "url": "https://open.spotify.com/album/1624ryqTdABHLSmeOMHMsy"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "Wanna Chill Baby?",
+      "url": "https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1"
     },
     {
       "album": {

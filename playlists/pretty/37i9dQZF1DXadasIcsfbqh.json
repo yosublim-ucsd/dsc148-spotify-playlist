@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Tyler Hubbard",
-  "num_followers": 125230,
+  "num_followers": 125414,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDQ3ZWVhMjBlZmFhOGUzNjYzZGQ3YTM3ZWI3NzYxYWQz",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDgzYTZlNWQ0NzhkMDQ2MDY2Y2VlYjMzNzkwMjg4YTdk",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -655,22 +655,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+        "name": "She Likes It (feat. Jake Scott)",
+        "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         },
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Just Say I'm Sorry",
-      "url": "https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU"
+      "duration_ms": 163311,
+      "name": "She Likes It (feat. Jake Scott)",
+      "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -691,22 +691,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "She Likes It (feat. Jake Scott)",
-        "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 163311,
-      "name": "She Likes It (feat. Jake Scott)",
-      "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+      "duration_ms": 214013,
+      "name": "Just Say I'm Sorry",
+      "url": "https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "One Mississippi",
-        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 213718,
-      "name": "One Mississippi",
-      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 156200,
       "name": "Drink Had Me",
       "url": "https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "One Mississippi",
+        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 213718,
+      "name": "One Mississippi",
+      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "No Bad Days (featuring Jimmie Allen)",
         "url": "https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 180959,
       "name": "Bets On Us",
       "url": "https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Keith",
-        "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
       "artists": [
         {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 171537,
-      "name": "Keith",
-      "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1087,38 +1087,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Pickup",
-        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
       },
       "artists": [
         {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
         }
       ],
-      "duration_ms": 168447,
-      "name": "Pickup",
-      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Fancy Like (feat. Kesha)",
-        "url": "https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA"
-      },
-      "artists": [
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Fancy Like (feat. Kesha)",
-      "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
+      "duration_ms": 171537,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1151,6 +1131,26 @@
       "duration_ms": 228440,
       "name": "Waves",
       "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Fancy Like (feat. Kesha)",
+        "url": "https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Fancy Like (feat. Kesha)",
+      "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Chapter 1: Things We're Not Saying",
-        "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
-      },
-      "artists": [
-        {
-          "name": "Georgia Webster",
-          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
-        }
-      ],
-      "duration_ms": 154606,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Anything She Says",
         "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Chapter 1: Things We're Not Saying",
+        "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "duration_ms": 154606,
+      "name": "X's",
+      "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Lost My Heartbreak",
-        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
-      },
-      "artists": [
-        {
-          "name": "David J",
-          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "Lost My Heartbreak",
-      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Life Rolls On",
         "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 177026,
       "name": "Always Gonna Love You",
       "url": "https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Lost My Heartbreak",
+        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "Lost My Heartbreak",
+      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1627,22 +1627,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "When You Know",
-        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
+        "name": "Between You & Me (feat. Ashley Cooke)",
+        "url": "https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
         },
         {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
         }
       ],
-      "duration_ms": 178994,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
+      "duration_ms": 169019,
+      "name": "Between You & Me (feat. Ashley Cooke)",
+      "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1667,38 +1667,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/2xP0omB0n36TyI6w2eZysm"
+        "name": "When You Know",
+        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 173685,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Between You & Me (feat. Ashley Cooke)",
-        "url": "https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe"
-      },
-      "artists": [
-        {
-          "name": "Roman Alexander",
-          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
         }
       ],
-      "duration_ms": 169019,
-      "name": "Between You & Me (feat. Ashley Cooke)",
-      "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
+      "duration_ms": 178994,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "I Don't Go Back",
-        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/2xP0omB0n36TyI6w2eZysm"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
         }
       ],
-      "duration_ms": 200573,
-      "name": "I Don't Go Back",
-      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+      "duration_ms": 173685,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1751,6 +1735,22 @@
       "duration_ms": 160289,
       "name": "Praise The Lord (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
     },
     {
       "added_at": "2023-04-07 04:00:00",

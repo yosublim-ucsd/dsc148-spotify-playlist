@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 20030,
+  "num_followers": 20073,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIzNCwwMDAwMDAwMDA3YTI0OTgzZmVmZDdhYzk2YTcyZGE3ZmY0MDYyODk5",
+  "snapshot_id": "MTY4MDI1ODIzNCwwMDAwMDAwMDNlNjhlMGEzYTE5NTg3ODVjZGU3MjQwOGNmMWYzOWIy",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:54",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "FALL IN LUST",
         "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 199026,
       "name": "FALL IN LUST",
       "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "SET",
         "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
@@ -675,38 +691,6 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "company",
-        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "company",
-      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
     },
     {
       "added_at": "2023-03-31 10:23:54",

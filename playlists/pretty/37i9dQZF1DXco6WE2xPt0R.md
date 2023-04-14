@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,194 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,229 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 86 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 |
 | 87 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 |
 | 88 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
-| 89 | [Challenge](https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Challenge](https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9) | 2:10 |
-| 90 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 |
+| 89 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 |
+| 90 | [Challenge](https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Challenge](https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9) | 2:10 |
 | 91 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
-| 92 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 |
+| 92 | [ILM](https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip) | [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd) | [Eventually Pt\. 1](https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ) | 3:56 |
 | 93 | [Wait On Me \- Pt\. 2 / Remix](https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [GeorgiaReign](https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI) | [Wait On Me \(Pt\. 2 / Remix\)](https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN) | 2:37 |
-| 94 | [ILM](https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip) | [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd) | [Eventually Pt\. 1](https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ) | 3:56 |
+| 94 | [Arz Interlude](https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Imperfections](https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm) | 1:50 |
 | 95 | [chuu](https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [chuu](https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU) | 4:13 |
 | 96 | [Make Me \- Remix](https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Make Me \(Remix\)](https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG) | 3:41 |
 | 97 | [silhouette](https://open.spotify.com/track/2FZi6QvNlnmFEInKKwKdc4) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [silhouette](https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
 | 100 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 |
 
-Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMDAxYTc5ODM2MjU0YTA4NDkwMjFhZjQ0NjYxNmMyNDQ2`
+Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMGRlMmNjMzQwODA0M2ZjMDA4MGUwNWI1MDA2NzZiN2U0`

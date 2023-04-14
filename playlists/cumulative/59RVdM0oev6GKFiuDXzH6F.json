@@ -5,6 +5,46 @@
   "tracks": [
     {
       "album": {
+        "name": "5th Symphony",
+        "url": "https://open.spotify.com/album/26cEEXzHmCyXXiQe3U4kCI"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "5th Symphony",
+      "url": "https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe"
+    },
+    {
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
+    },
+    {
+      "album": {
         "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
         "url": "https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e"
       },
@@ -605,6 +645,40 @@
     },
     {
       "album": {
+        "name": "Fiesta (feat. RMA, Lyon Monster)",
+        "url": "https://open.spotify.com/album/0F91yILdvzQ8rxqMRSiERL"
+      },
+      "artists": [
+        {
+          "name": "Bounce Inc.",
+          "url": "https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq"
+        },
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        },
+        {
+          "name": "Lyon Monster",
+          "url": "https://open.spotify.com/artist/7GQeq4UJRBOmvxUDes0rjN"
+        },
+        {
+          "name": "RMA",
+          "url": "https://open.spotify.com/artist/4oec5igR3Vg3bsftusWtlL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "Fiesta (feat. RMA, Lyon Monster)",
+      "url": "https://open.spotify.com/track/5KVarKzAH2S9rzI8W7RmdC"
+    },
+    {
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/2nZ7Zg41q5L7IAbJo0RKtE"
       },
@@ -693,6 +767,32 @@
     },
     {
       "album": {
+        "name": "Get Get Down",
+        "url": "https://open.spotify.com/album/1Qs4DpLrl9Wdpgzykr6esW"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Da Brozz",
+          "url": "https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Get Get Down",
+      "url": "https://open.spotify.com/track/3TMb7QD4W1mN5UD41zLurG"
+    },
+    {
+      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/42T9vOwFLuLmFDqWqBk0Zb"
       },
@@ -712,6 +812,28 @@
       "duration_ms": 157617,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/6tj1oCWq8QkShD7Vuy32jA"
+    },
+    {
+      "album": {
+        "name": "Get Shaky (Macon's HYPERTECHNO Remix)",
+        "url": "https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi"
+      },
+      "artists": [
+        {
+          "name": "Ian Carey Project",
+          "url": "https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH"
+        },
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "Get Shaky (Macon's HYPERTECHNO Remix)",
+      "url": "https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM"
     },
     {
       "album": {
@@ -752,6 +874,24 @@
       "duration_ms": 173538,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/5rZicx0JZLZR233YKcA4ok"
+    },
+    {
+      "album": {
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
     },
     {
       "album": {
@@ -865,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/3xztCVZEMTiU5er5V5RL0H"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt"
+    },
+    {
+      "album": {
         "name": "IFLDM (feat. GLASGOW KI$$)",
         "url": "https://open.spotify.com/album/5JHu6XWFumcF3aT1P0B6pP"
       },
@@ -910,6 +1068,24 @@
       "duration_ms": 205236,
       "name": "Imma",
       "url": "https://open.spotify.com/track/2xzjCuloHSWqYedOcoIX85"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01"
+      },
+      "artists": [
+        {
+          "name": "INDOX",
+          "url": "https://open.spotify.com/artist/1DPs7yxCNV6k92Srsoem4E"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/45nWlWMBYoAGixCKgSLHIy"
     },
     {
       "album": {
@@ -2171,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "That's Right (Radio Edit)",
+        "url": "https://open.spotify.com/album/6poGx69phipDgwz2D1ZuTO"
+      },
+      "artists": [
+        {
+          "name": "Avilo",
+          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
+        },
+        {
+          "name": "Austin Feldman",
+          "url": "https://open.spotify.com/artist/73bPshFuowwgS4qotqIHtE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177380,
+      "name": "That's Right - Radio Edit",
+      "url": "https://open.spotify.com/track/1q1N8ktQE9K34GqNVJewg6"
+    },
+    {
+      "album": {
         "name": "The Devil",
         "url": "https://open.spotify.com/album/2H7e6QQZZ49BkJJA8KP0bs"
       },
@@ -2430,6 +2628,28 @@
       "duration_ms": 166451,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Club",
+        "url": "https://open.spotify.com/album/1nAAI143KkwP7uhqoq1h1n"
+      },
+      "artists": [
+        {
+          "name": "HITAK",
+          "url": "https://open.spotify.com/artist/4YqSnfVIQk2sj6o5PyjKKd"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "Welcome To The Club",
+      "url": "https://open.spotify.com/track/0ZvFLTcq9dDuk43l1HARPZ"
     },
     {
       "album": {

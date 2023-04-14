@@ -4,7 +4,7 @@
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 57 min
+51 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Bang Bang](https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:43 | 2022-10-25 |  |
 | [Breed](https://open.spotify.com/track/6au9Bvep5wCkXTZ4KyFHHo) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 3:03 | 2022-10-25 | 2023-03-12 |
 | [Can Anybody Hear Me](https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:28 | 2022-10-25 |  |
-| [Can't Save You](https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 | 2023-03-11 |  |
+| [Can't Save You](https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 | 2023-03-11 | 2023-04-14 |
 | [Choose Your Fate](https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:33 | 2022-10-25 |  |
 | [Dead and Gone](https://open.spotify.com/track/3U5dEKW8mZrMHiKdPp2Ano) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:03 | 2023-03-11 |  |
 | [Dive Right In](https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:15 | 2023-03-22 |  |
@@ -32,7 +32,8 @@
 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 | 2022-10-25 |  |
 | [Our Time Is Now](https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 | 2022-10-25 |  |
 | [Razorblades](https://open.spotify.com/track/0hpD9ZtCq7ukiaM3pK7RMG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:21 | 2022-10-25 | 2023-03-23 |
-| [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-10-25 |  |
+| [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 | 2023-04-13 |  |
+| [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-10-25 | 2023-04-14 |
 | [Sidewalks](https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:34 | 2022-10-25 |  |
 | [Sleep](https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:12 | 2022-10-25 |  |
 | [Sorry About Me](https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 | 2023-03-11 |  |

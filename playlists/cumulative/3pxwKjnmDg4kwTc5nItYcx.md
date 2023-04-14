@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-672 songs - 1 day 12 hr 14 min
+674 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 | 2019-08-27\* | 2019-11-11 |
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-01-21 |  |
 | [Pyro](https://open.spotify.com/track/7ckuHj7l00XSxPHjBzvVGD) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Budjerah](https://open.spotify.com/album/5oG8dofJtCly2McfPlL445) | 3:02 | 2021-03-26 |  |
+| [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-04-13 |  |
 | [R&B All Night](https://open.spotify.com/track/6MrVXeEMf0MULWdclDk4sI) | [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN), [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ) | [Mr\. Enjoy Da Money](https://open.spotify.com/album/1AVwD6m0CZJLMTzcZangei) | 3:53 | 2019-12-16 | 2020-05-19 |
 | [Racecar](https://open.spotify.com/track/6vQma4Znxv7o0CQFSBUYfI) | [Adam Faybrem](https://open.spotify.com/artist/6GM4wtI74Hm34hTUtNbtKt) | [Racecar](https://open.spotify.com/album/5vuKN7qk7Gh0jrKFfdVu1L) | 3:04 | 2019-08-27\* | 2019-11-11 |
 | [Ready For The Sky](https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Ready For The Sky](https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4) | 3:17 | 2022-08-04 |  |
@@ -652,6 +653,7 @@
 | [What If I Can't \(feat\. Mikey Dam\)](https://open.spotify.com/track/1tpsVMxfqMYGoHGUoFtzNb) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV), [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [What If I Can't \(feat\. Mikey Dam\)](https://open.spotify.com/album/0ZVkE2kVAzLZYhr5L2oKWV) | 2:36 | 2022-02-04 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2020-02-18 | 2021-05-12 |
 | [What Should I Do?](https://open.spotify.com/track/4SNfTLPMEiti4Qn8WZmyk8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [What Should I Do?](https://open.spotify.com/album/3DcCA6i22n27K5oxO76JD4) | 3:37 | 2022-02-25 |  |
+| [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 | 2023-04-14 |  |
 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 | 2019-09-06 | 2020-02-12 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 |  |
 | [Whatever Tomorrow](https://open.spotify.com/track/7hI6O280FAYYtNBOH2o8qM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Whatever Tomorrow](https://open.spotify.com/album/5V3AIqbOWsO3rf0W3cQMpt) | 4:23 | 2021-04-16 |  |

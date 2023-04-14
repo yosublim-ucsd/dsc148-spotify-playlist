@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-131 songs - 6 hr 55 min
+132 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Forever](https://open.spotify.com/track/3HatNUmGOM2hGQf83VDz9m) | [The Sun Flower](https://open.spotify.com/artist/5VivCfdRKnDRfIJLfyh5Y0) | [Always](https://open.spotify.com/album/5RCShBWA2nbt7XbeoIGlzU) | 3:37 | 2022-05-25 |  |
 | [Golden Sky \(Meditation\)](https://open.spotify.com/track/7244jlCIRFqRp8yhMaklLN) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Golden Sky](https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt) | 3:06 | 2022-05-25 |  |
 | [Gramatico](https://open.spotify.com/track/6iqvikOiHC2xBOaxuok9CC) | [Kharl Rosenbloom](https://open.spotify.com/artist/1ELOPxDTmcY3vZhQ5ewoky) | [Majestico](https://open.spotify.com/album/58FPiryiqLuCwk7b0MuZop) | 2:53 | 2022-05-25 |  |
+| [Green Dreams](https://open.spotify.com/track/5y7jjnINUxT2sz6t8xMJf7) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Green Dreams](https://open.spotify.com/album/2EWJJsQKhPBmfUbsWBg5vh) | 2:53 | 2023-04-14 |  |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2022-05-25 |  |
 | [Hreyfing](https://open.spotify.com/track/7oMjpvBbKmEJTTm30IL5Le) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Hreyfing](https://open.spotify.com/album/7F8Me0XVeTBxZio9EtbG2o) | 2:36 | 2022-05-25 |  |
 | [Impulser](https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Impulser](https://open.spotify.com/album/1Xg3GRD8PQLbxO6d5BjIjm) | 3:28 | 2022-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Piba. Updates every Wednesday.",
-  "num_followers": 169465,
+  "num_followers": 169501,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxODgwMCwwMDAwMDAwMDIxMjA4MTZmNjk5NjQzMzQ1MDFkNGEyNThkNTU3YTU1",
+  "snapshot_id": "MTY4MTMxODgwMCwwMDAwMDAwMGU0NDI2ZDJkNTQ2NTkzYWVhOGY2MDIwZWUwYzgwOGNl",
   "tracks": [
     {
       "added_at": "2023-04-12 17:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-12 17:00:00",
       "album": {
-        "name": "Tu Mal",
-        "url": "https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT"
-      },
-      "artists": [
-        {
-          "name": "Mimi Rose",
-          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
-        }
-      ],
-      "duration_ms": 176769,
-      "name": "Tu Mal",
-      "url": "https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0"
-    },
-    {
-      "added_at": "2023-04-12 17:00:00",
-      "album": {
         "name": "Un Pulm\u00f3n",
         "url": "https://open.spotify.com/album/7yaFTYiVVPjEhgJi4YW78v"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193225,
       "name": "Un Pulm\u00f3n",
       "url": "https://open.spotify.com/track/6AYnkty42TUyN6RW7lkgRe"
+    },
+    {
+      "added_at": "2023-04-12 17:00:00",
+      "album": {
+        "name": "Tu Mal",
+        "url": "https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "duration_ms": 176769,
+      "name": "Tu Mal",
+      "url": "https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0"
     },
     {
       "added_at": "2023-04-12 17:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-04-12 17:00:00",
       "album": {
+        "name": "Otros XOXO",
+        "url": "https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr"
+      },
+      "artists": [
+        {
+          "name": "Poloo",
+          "url": "https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7"
+        }
+      ],
+      "duration_ms": 195201,
+      "name": "Otros XOXO",
+      "url": "https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT"
+    },
+    {
+      "added_at": "2023-04-12 17:00:00",
+      "album": {
         "name": "El Gran Var\u00f3n",
         "url": "https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 290068,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y"
-    },
-    {
-      "added_at": "2023-04-12 17:00:00",
-      "album": {
-        "name": "Otros XOXO",
-        "url": "https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr"
-      },
-      "artists": [
-        {
-          "name": "Poloo",
-          "url": "https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7"
-        }
-      ],
-      "duration_ms": 195201,
-      "name": "Otros XOXO",
-      "url": "https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT"
     },
     {
       "added_at": "2023-04-12 17:00:00",
@@ -687,6 +687,22 @@
       "duration_ms": 99090,
       "name": "Lo \u00danico Que Tenemos Que Ver T\u00fa y Yo Es Lo de en Frente",
       "url": "https://open.spotify.com/track/6FuR5KzA4mm9oEB1OsIX1x"
+    },
+    {
+      "added_at": "2023-04-12 17:00:00",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/1fJII2RTRrKbtxvciiiuLY"
+      },
+      "artists": [
+        {
+          "name": "PRIMO",
+          "url": "https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP"
+        }
+      ],
+      "duration_ms": 166263,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/618IMJUulw0aN5yptpcxSD"
     },
     {
       "added_at": "2023-04-12 17:00:00",
@@ -739,22 +755,6 @@
     {
       "added_at": "2023-04-12 17:00:00",
       "album": {
-        "name": "tal para cual",
-        "url": "https://open.spotify.com/album/2vnCpwlT0q7R11ve53x1Ji"
-      },
-      "artists": [
-        {
-          "name": "Lina Sanabria",
-          "url": "https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV"
-        }
-      ],
-      "duration_ms": 141727,
-      "name": "tal para cual",
-      "url": "https://open.spotify.com/track/4lMmTToPlpzuEVo6vTjgvt"
-    },
-    {
-      "added_at": "2023-04-12 17:00:00",
-      "album": {
         "name": "Tu Adicci\u00f3n",
         "url": "https://open.spotify.com/album/3FJbYrTR0kolbnf1E91MtJ"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-04-12 17:00:00",
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/1fJII2RTRrKbtxvciiiuLY"
+        "name": "tal para cual",
+        "url": "https://open.spotify.com/album/2vnCpwlT0q7R11ve53x1Ji"
       },
       "artists": [
         {
-          "name": "PRIMO",
-          "url": "https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP"
+          "name": "Lina Sanabria",
+          "url": "https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV"
         }
       ],
-      "duration_ms": 166263,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/618IMJUulw0aN5yptpcxSD"
+      "duration_ms": 141727,
+      "name": "tal para cual",
+      "url": "https://open.spotify.com/track/4lMmTToPlpzuEVo6vTjgvt"
     },
     {
       "added_at": "2023-04-12 17:00:00",

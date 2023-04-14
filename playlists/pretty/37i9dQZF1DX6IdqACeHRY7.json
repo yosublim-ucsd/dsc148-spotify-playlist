@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 146656,
+  "num_followers": 146657,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMGQ0ODUwM2FkODA1ZTc5ZDA3ZWVkNGIyYzJkODczNDhl",
+  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMGNiZGRmODMyNDhhMTJjNzU2MmE2NjZjZjVhZDNkMzRl",
   "tracks": [
     {
       "added_at": "2023-03-17 08:27:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 246053,
       "name": "Fade",
       "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Wild Love",
-      "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Same Kind Of Different (Acoustic)",
         "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 203262,
       "name": "Need You Now - Acoustic",
       "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Where the Heart Is",
-      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Where the Heart Is",
+      "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 202346,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Call Your Girlfriend",
-        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 194809,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "How Would You Feel (Paean)",
         "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 280533,
       "name": "How Would You Feel (Paean)",
       "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Call Your Girlfriend",
+        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 194809,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
     },
     {
       "added_at": "2023-03-17 08:27:42",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Foto: Nuevo Elemento\n",
-  "num_followers": 8797,
+  "num_followers": 8796,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDc3NjVkODhhMTQzYzYyMjhhMmY3NmMyZGZhYzliMmVh",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDY3YmUzM2U5MjI0ZjM1ZTlhYTYyZTBkN2E1NWUyNWIx",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Con Mariachi",
-        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 128729,
-      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Tristes Navidades",
-        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+        "name": "Navidad Con Mariachi",
+        "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 239547,
-      "name": "Tristes Navidades",
-      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+      "duration_ms": 128729,
+      "name": "Jingle Bell Rock - Versi\u00f3n Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Tristes Navidades",
+        "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 239547,
+      "name": "Tristes Navidades",
+      "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Momentos Inolvidables",
         "url": "https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 239699,
       "name": "Navidad En Mi Rancho",
       "url": "https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Oye Santa Claus",
+      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Alrededor del \u00c1rbol de Navidad",
         "url": "https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 156499,
       "name": "Amarga navidad (Ranchera)",
       "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Oye Santa Claus",
-      "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Fiesta Universal",
-        "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 181026,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     }
   ],
   "unique_name": "La Posada",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA?si=N8rjdX3CSrCVmcIEEfb9Mw\">Deon Groot</a> ",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=kygHtQppRPe17puVrImy2Q\">Lisie Basson</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
+    {
+      "album": {
+        "name": "#23",
+        "url": "https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2"
+      },
+      "artists": [
+        {
+          "name": "Lisie Basson",
+          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162810,
+      "name": "#23",
+      "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
+    },
     {
       "album": {
         "name": "Die Onbekende",
@@ -261,6 +279,28 @@
     },
     {
       "album": {
+        "name": "As die w\u00eareld groter was",
+        "url": "https://open.spotify.com/album/4V1D4BeFVFgkkaOXVeOy5j"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        },
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179423,
+      "name": "As die w\u00eareld groter was",
+      "url": "https://open.spotify.com/track/2x9ABv2DMU56b6vJUzjcst"
+    },
+    {
+      "album": {
         "name": "As Ek Jou Hoor Lag",
         "url": "https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29"
       },
@@ -290,10 +330,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
+    },
+    {
+      "album": {
+        "name": "Avontuur",
+        "url": "https://open.spotify.com/album/7kdQpbelUuKoJDixXMEziu"
+      },
+      "artists": [
+        {
+          "name": "Wesna",
+          "url": "https://open.spotify.com/artist/5A4OIWNp0FyYdgvxXnMWWl"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224524,
+      "name": "Avontuur",
+      "url": "https://open.spotify.com/track/4i8Ceyv4dclgqcdPExRQ4g"
     },
     {
       "album": {
@@ -308,7 +366,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 149267,
       "name": "Babbelas \u00b2 Kwadraat",
       "url": "https://open.spotify.com/track/1AOMZtWjYu7CMm0lmJuV40"
@@ -847,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Crazy Meisie",
+        "url": "https://open.spotify.com/album/4ArWlcEJMCqRt5CIWNX8hU"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "Crazy Meisie",
+      "url": "https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3"
+    },
+    {
+      "album": {
         "name": "Daai Ding",
         "url": "https://open.spotify.com/album/19IqK8AZOph118avK1LdaV"
       },
@@ -1028,7 +1104,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 201791,
       "name": "Die Laaste Keer",
       "url": "https://open.spotify.com/track/4igd3gDKp4OGAi9C2W4ovN"
@@ -1050,7 +1126,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 239591,
       "name": "Die Lewe is 'n Lied",
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
@@ -1187,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Dis Jy",
+        "url": "https://open.spotify.com/album/1JOeC8VnA5FjRH9o33jfyX"
+      },
+      "artists": [
+        {
+          "name": "Alouise",
+          "url": "https://open.spotify.com/artist/7KInqkz6l03usNvPrh3jry"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Dis Jy",
+      "url": "https://open.spotify.com/track/56YlDobcg3BNFPYpZItGks"
+    },
+    {
+      "album": {
         "name": "Disco Damage (feat. Loufi) [Jayms Remix]",
         "url": "https://open.spotify.com/album/5zAdzCVeeunTETbagjzgVu"
       },
@@ -1246,7 +1340,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 198471,
       "name": "Ditjies & Datjies",
       "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
@@ -1383,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Optelwoorde",
+        "url": "https://open.spotify.com/album/6YNPeew7VhcAunlvSyUtUF"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie van Eeden",
+          "url": "https://open.spotify.com/artist/38Fm2BHBCTb9e2nXF0bTqr"
+        },
+        {
+          "name": "Koos Van Der Merwe",
+          "url": "https://open.spotify.com/artist/2AZrQH7cvMflVXGsjdnSuU"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221136,
+      "name": "Ek Is Hier",
+      "url": "https://open.spotify.com/track/4kh1PbWpURI67ZCrjkNhrw"
+    },
+    {
+      "album": {
         "name": "Ek Like Jou",
         "url": "https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp"
       },
@@ -1470,6 +1586,24 @@
       "duration_ms": 205726,
       "name": "Ek Val Vir Jou",
       "url": "https://open.spotify.com/track/7coFUDGsxVm43klKOjPv5e"
+    },
+    {
+      "album": {
+        "name": "ek voel ek droom",
+        "url": "https://open.spotify.com/album/78l5Xd7IcIjGHQH3ML485t"
+      },
+      "artists": [
+        {
+          "name": "Ollyvans",
+          "url": "https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141633,
+      "name": "ek voel ek droom",
+      "url": "https://open.spotify.com/track/7HuYCgwSa2bizw72pSXwvn"
     },
     {
       "album": {
@@ -1564,6 +1698,28 @@
       "duration_ms": 194890,
       "name": "Foto's",
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
+    },
+    {
+      "album": {
+        "name": "Loufi Flippen Loufi",
+        "url": "https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176612,
+      "name": "Freaky Bra",
+      "url": "https://open.spotify.com/track/1dCz3LcKE2cBA7TKZTi56M"
     },
     {
       "album": {
@@ -1742,6 +1898,24 @@
       "duration_ms": 244956,
       "name": "Happy Family",
       "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
+    },
+    {
+      "album": {
+        "name": "Hart van Klip",
+        "url": "https://open.spotify.com/album/3i2X3qLYSXxiaPZ6zpFjzE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Blue",
+          "url": "https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235221,
+      "name": "Hart van Klip",
+      "url": "https://open.spotify.com/track/05jx6R2VzJ1ahVbVE7yPqj"
     },
     {
       "album": {
@@ -2520,7 +2694,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 235434,
       "name": "Kom Terug - Radio Edit",
       "url": "https://open.spotify.com/track/06tDbI3tpM8tEegjENyki1"
@@ -3062,7 +3236,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 214839,
       "name": "Misgeloop",
       "url": "https://open.spotify.com/track/3mALPrvV2CIHbWhF6Nw1pL"
@@ -3266,7 +3440,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 224558,
       "name": "My Wolf",
       "url": "https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL"
@@ -3587,6 +3761,28 @@
     },
     {
       "album": {
+        "name": "Omgekeerd",
+        "url": "https://open.spotify.com/album/2wNkYXQ8Sfr17h9KeTDtDP"
+      },
+      "artists": [
+        {
+          "name": "Stefan Dixon",
+          "url": "https://open.spotify.com/artist/4DDa2QHyPVNaHhZ1suze3y"
+        },
+        {
+          "name": "Eva De Roovere",
+          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Omgekeerd",
+      "url": "https://open.spotify.com/track/5TIb9VaVjx0DQQun40aY5o"
+    },
+    {
+      "album": {
         "name": "Ongerep",
         "url": "https://open.spotify.com/album/4JcXifujf5ZK2wiEvGmr13"
       },
@@ -3602,7 +3798,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 243716,
       "name": "Ongerep",
       "url": "https://open.spotify.com/track/1I7frSamBxsyU60nn6OKgL"
@@ -4122,7 +4318,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 185268,
       "name": "Selfbeheer",
       "url": "https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX"
@@ -5023,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Vat Jou Hoender",
+        "url": "https://open.spotify.com/album/40GR7IJTd1lRI7kZ7aHlQ0"
+      },
+      "artists": [
+        {
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210324,
+      "name": "Vat Jou Hoender",
+      "url": "https://open.spotify.com/track/1aSzuwa31lyAhCXoebzi6f"
+    },
+    {
+      "album": {
         "name": "Vertrou",
         "url": "https://open.spotify.com/album/73zmr0JdcAv2MkwfnY91BB"
       },
@@ -5164,7 +5378,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165173,
       "name": "Vuur En Vlam",
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"

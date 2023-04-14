@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,573 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,610 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 10 | [Larmik b Balach](https://open.spotify.com/track/09vuGGGoOmI7M4dqlaAJFp) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 3:11 |
 | 11 | [Yalli Betiheb Elna'na'](https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Yalli Betiheb Elna'na'](https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH) | 3:29 |
 | 12 | [El Waed Waed](https://open.spotify.com/track/3lyUu87OVylHytDeD1Frj8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [El Waed Waed](https://open.spotify.com/album/5F558VJH1yO3t4v7uTrwsb) | 3:49 |
-| 13 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
-| 14 | [Jamala Wlo](https://open.spotify.com/track/1DHs8UmWWdjbCsbM7F4jZC) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Jamala Wlo](https://open.spotify.com/album/5chTe8xi5I3qMnwJCtwYgW) | 5:31 |
+| 13 | [Jamala Wlo](https://open.spotify.com/track/1DHs8UmWWdjbCsbM7F4jZC) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Jamala Wlo](https://open.spotify.com/album/5chTe8xi5I3qMnwJCtwYgW) | 5:31 |
+| 14 | [Bahebak Mn Baad Allah](https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Bahebak Mn Baad Allah](https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w) | 4:17 |
 | 15 | [عللومة عللومة](https://open.spotify.com/track/0zOtmdD1U7rguuFY6Z90hp) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [ما وحشناك](https://open.spotify.com/album/68pZSiCmstUEJkmcaCBM9v) | 3:40 |
 | 16 | [Dak Almani Terashrash \(feat\. Hussam Jned, Dominique Hourani & Wael Jassar\)](https://open.spotify.com/track/61ij76waZnKpjgwPuvZ554) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei), [Hussam Jned](https://open.spotify.com/artist/1lpnuWXZtFIG8zLE95mI9W), [Dominique Hourani](https://open.spotify.com/artist/0P3K3MbSflUxiPFmhxj2HD), [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Bawast Tyabik](https://open.spotify.com/album/7h12uU0N9i05mCSOPR9wXi) | 5:48 |
 | 17 | [Galatli](https://open.spotify.com/track/2T83iujQuX1Vd0IHJKQCxj) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Galatli](https://open.spotify.com/album/55Z40WuAarxgzP35nT39CO) | 3:43 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 32 | [Sawt Rbaba](https://open.spotify.com/track/099SGdbqStuQ6xRE4pOe4J) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 5:17 |
 | 33 | [شِمالي](https://open.spotify.com/track/196CcGNeJ0poBVJlIvnPUr) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [الاغاني اللي عملتا الك](https://open.spotify.com/album/3fwpj2fEjO7ZR9CWrOWtPQ) | 3:31 |
 | 34 | [Al Natour](https://open.spotify.com/track/2wk8TBtIUTJihiyFWgktyF) | [Ali El Deek](https://open.spotify.com/artist/33qFtGCQ4HLTagGMaAOn5N), [Dominique Hourani](https://open.spotify.com/artist/0P3K3MbSflUxiPFmhxj2HD) | [Al Natour](https://open.spotify.com/album/1iiWjl0lWxVl9oJquZBzMU) | 4:18 |
-| 35 | [Habat el Tout](https://open.spotify.com/track/4xq2EfT9fmC4NNMpqKs5fS) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Layali Beirut, Vol\. One](https://open.spotify.com/album/66GKsmNEe9QnzqblW0CTnH) | 5:10 |
-| 36 | [Betwale3 Nar](https://open.spotify.com/track/1UzgwF3OA1hdxFXTuKlZj8) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Betwale3 Nar](https://open.spotify.com/album/44LB0qfLlTRqRbXLtsKoWD) | 3:52 |
+| 35 | [Betwale3 Nar](https://open.spotify.com/track/1UzgwF3OA1hdxFXTuKlZj8) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Betwale3 Nar](https://open.spotify.com/album/44LB0qfLlTRqRbXLtsKoWD) | 3:52 |
+| 36 | [Habat el Tout](https://open.spotify.com/track/4xq2EfT9fmC4NNMpqKs5fS) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Layali Beirut, Vol\. One](https://open.spotify.com/album/66GKsmNEe9QnzqblW0CTnH) | 5:10 |
 | 37 | [Lali](https://open.spotify.com/track/0alhXNBNCYNdg0OubYAmoa) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Lali](https://open.spotify.com/album/0IHkv5n08mbKFFSApH528R) | 3:32 |
 | 38 | [Haremni](https://open.spotify.com/track/4tPn2M0DSBKe7QpdE17o92) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/34fsniZx5w1uNUpqya3wbM) | 3:54 |
 | 39 | [Wateeni](https://open.spotify.com/track/2Rfc5rGytAEfFXwVgFxs2A) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Wateeni](https://open.spotify.com/album/5x0Un1ohxzt2DnKXNqE7Oe) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchFDa0CQ44k.md) - [plain]
 | 59 | [Ah Ya Hanan](https://open.spotify.com/track/2ZL2WO6HvgbLGNwePzohU9) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/4c4akh3TVGYCLaN9RhwKXw) | 3:21 |
 | 60 | [Super Dabka](https://open.spotify.com/track/1vBgN3o5LpTd6GzWRdMYxR) | [Dj Zeki](https://open.spotify.com/artist/5LSY8D8Jd054ANMXJF8512) | [Super Dabka](https://open.spotify.com/album/5lLkts8itaY1yt5xsaMI6A) | 3:53 |
 
-Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMGE0M2RlNzY3MzI1ODBjZDM2NjAxMTBhNTZiMTViMGIz`
+Snapshot ID: `MTY0NDQ5MTYwMiwwMDAwMDAwMDJkZDI3OWZjNGUyY2QzZTU3YzM2MTI0Y2ZhMGYzYmE5`

@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 8885,
+  "num_followers": 8918,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGVkNWUyMDFkYzg1ZGQxNjAwMTQwNTkxNDg4YjY5Y2Uz",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGU5ZDU2NWVmMGFhNmYxY2I4OGIyZjFkNTk1ZmRlNjNm",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 206429,
       "name": "This Is",
       "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -379,6 +379,46 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -427,38 +467,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -475,22 +483,18 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Spell (Remix)",
-        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 173304,
-      "name": "Spell - Remix",
-      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -515,22 +519,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+        "name": "Spell (Remix)",
+        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         },
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+      "duration_ms": 173304,
+      "name": "Spell - Remix",
+      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -547,6 +551,26 @@
       "duration_ms": 179915,
       "name": "Maame Water",
       "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/4hjN43fijAskri1B3EXFej"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -591,22 +615,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 224171,
-      "name": "Avoid Things",
-      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
@@ -639,6 +647,22 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 224171,
+      "name": "Avoid Things",
+      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -743,30 +767,6 @@
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 169031,
+      "name": "safe haven",
+      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Handle Me (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 169031,
-      "name": "safe haven",
-      "url": "https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc"
-      },
-      "artists": [
-        {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 145594,
       "name": "troublin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 202372,
       "name": "Jane",
       "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Let me go",
+        "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "duration_ms": 200853,
+      "name": "Let me go",
+      "url": "https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Don't Leave",
         "url": "https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 234673,
       "name": "There's Music in the Air",
       "url": "https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Let me go",
-        "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
-      },
-      "artists": [
-        {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
-        }
-      ],
-      "duration_ms": 200853,
-      "name": "Let me go",
-      "url": "https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47"
     },
     {
       "added_at": "2023-03-30 23:00:00",

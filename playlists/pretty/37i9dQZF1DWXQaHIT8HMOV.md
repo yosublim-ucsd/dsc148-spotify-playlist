@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,421 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,422 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 32 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 |
 | 33 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
 | 34 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
-| 35 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
-| 36 | [Bulamu](https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Bulamu](https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa) | 3:13 |
+| 35 | [Bulamu](https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Bulamu](https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa) | 3:13 |
+| 36 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
 | 37 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
 | 38 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 |
 | 39 | [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 |
-| 40 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 |
+| 40 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 |
 | 41 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
 | 42 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 |
 | 43 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 44 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 |
-| 45 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 |
+| 44 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 |
+| 45 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 |
 | 46 | [Kiki Kyogamba \- What You Saying Mix](https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ), [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Destiny Nsonga](https://open.spotify.com/artist/5O4hbVUhLfHZqNXoLeOLVi) | [Kiki Kyogamba](https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy) | 4:30 |
 | 47 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 |
-| 48 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 |
-| 49 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 |
+| 48 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 |
+| 49 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 |
 | 50 | [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 |
 
-Snapshot ID: `MTY4MDg2Njg3NSwwMDAwMDAwMDM5YjI0MTdlNDRlYmE5YTlmM2ZjMWVlZTY5MTgyZTQx`
+Snapshot ID: `MTY4MDg2Njg3NSwwMDAwMDAwMGI3MTk0NzgzOTliMTAxNzM4MDQ0OWNmYmUwZmI4OWQ3`

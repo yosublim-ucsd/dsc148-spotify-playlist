@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 115445,
+  "num_followers": 115490,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDRmOWVmNDA3NmUwN2E1MzNmODgxZDVjNTEyYTBjOTBk",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGM3Y2FiZWRmMTA5OTI5MzI0ZWY2ZTU2MTQxMGYwNWIx",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Na Terra Parte 2/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
+        "name": "Salazar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 288000,
-      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
+      "duration_ms": 380250,
+      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Salazar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
+        "name": "Na Terra Parte 2/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
         }
       ],
-      "duration_ms": 380250,
-      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+      "duration_ms": 288000,
+      "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -659,6 +639,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "A Porta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "duration_ms": 191569,
+      "name": "A Porta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Lembre-se 90's (Ao Vivo)",
         "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
       },
@@ -695,34 +691,38 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Porta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
       "artists": [
         {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
         }
       ],
-      "duration_ms": 191569,
-      "name": "A Porta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
       },
       "artists": [
         {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",

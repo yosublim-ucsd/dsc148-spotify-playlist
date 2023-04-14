@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-155 songs - 11 hr 24 min
+157 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Mereya](https://open.spotify.com/track/4ob12xPI4xKPLoryBcxHmz) | [Dangle](https://open.spotify.com/artist/5hoKc2VVEGfNKUOWtPCRwv) | [Mereya](https://open.spotify.com/album/4GvbUJO6wPX6d5yD2rInya) | 2:53 | 2022-04-04 |  |
 | [Moksha](https://open.spotify.com/track/5DwDWj14zb1G2fF7xQgqbv) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:18 | 2022-04-04 |  |
 | [Morning Dawn](https://open.spotify.com/track/0AvtIHB9BG8N725eCesw5F) | [ZoneMan](https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E) | [Optimistic Horizon](https://open.spotify.com/album/172cwUyK1cBDDHl0lFdo8h) | 2:22 | 2022-12-02 |  |
+| [Morning in Jaipur](https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Morning in Jaipur](https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy) | 2:44 | 2023-04-14 |  |
 | [Mother's Wingspan](https://open.spotify.com/track/1AkzLojIonXnbbwujQZofk) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 8:33 | 2022-04-04 | 2022-07-29 |
 | [Mother's Wingspan](https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 8:33 | 2022-10-08 |  |
 | [Mother's Wingspan](https://open.spotify.com/track/58j7x742K2P6jhthofQwBp) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3vERpdSCKMGDzreizY178B) | 8:33 | 2022-07-18 | 2022-10-13 |
@@ -117,6 +118,7 @@
 | [Remote](https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW) | [Om Lighthouse](https://open.spotify.com/artist/5AzmHIExEw7ULbdoni3rif) | [Remote](https://open.spotify.com/album/2rGJ64xAX9hUmaapGFRCGD) | 5:15 | 2022-04-04 |  |
 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-08-23 |  |
 | [Restful Soul](https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Soul](https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6) | 3:07 | 2023-01-13 |  |
+| [Rise of the Capital](https://open.spotify.com/track/5t3WHBCb8dg7niQPTIkRgm) | [Takano Marise](https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM) | [Rise of the Capital](https://open.spotify.com/album/3F6VwgcXAuKBiicVZAzu7i) | 2:44 | 2023-04-14 |  |
 | [Rishikesh](https://open.spotify.com/track/1n7VIBnXZFZlZZpRynyKCD) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Rishikesh](https://open.spotify.com/album/0KjdSZKXIKeptP5glnc6Ao) | 3:42 | 2023-01-27 |  |
 | [Road to Asarganj](https://open.spotify.com/track/0CGvs9ThJYRe9fE2cEVfAm) | [Shanti Kapil](https://open.spotify.com/artist/49UVawvMt5wKFBt7FPRT35) | [Bekhudi](https://open.spotify.com/album/2yCK96ne1ESoQGSrFHXyE8) | 5:43 | 2022-04-04 | 2022-04-21 |
 | [Road to Pune](https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Peace From Within](https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz) | 3:04 | 2022-07-18 |  |

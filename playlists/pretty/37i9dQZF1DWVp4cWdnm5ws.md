@@ -2,31 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> The top tracks from RADAR Philippines in 2022\. Cover: Adie
+> Discover new artists on the horizon this 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,274 likes - 20 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,391 likes - 24 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 |
-| 2 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 |
-| 3 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 |
-| 4 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 |
-| 5 | [Paraluman](https://open.spotify.com/track/7I9RoRcJ0N9rvN4p4KWPsH) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Paraluman](https://open.spotify.com/album/2eKPpTGmSRX3bfBZm9QxiN) | 3:44 |
-| 6 | [Kaya](https://open.spotify.com/track/79o5nlwnNk8oiK1cR6YC5i) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kaya](https://open.spotify.com/album/1domLnNrgElxmpiDSSCYaC) | 4:28 |
-| 7 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 |
-| 8 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 |
-| 9 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 |
-| 10 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 |
-| 11 | [Born To Win](https://open.spotify.com/track/6gM4xq1CXli6FC5Qm7pLHl) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/3xpmqNo62myMulZ1MtnTox) | 2:53 |
-| 12 | [KAYA](https://open.spotify.com/track/4ggRHB5BGvMZxrguwEetCG) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [KAYA](https://open.spotify.com/album/4YMx09McQ7PzUpBufPTcit) | 3:34 |
-| 13 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 |
-| 14 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 |
-| 15 | [Golden Arrow](https://open.spotify.com/track/3GYrHsq8M1hc7G6P0OP4R8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 3:47 |
-| 16 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 |
-| 17 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 |
-| 18 | [Dime Girls](https://open.spotify.com/track/5PxDyfqi8WA1j8irV3f2ks) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Alex Bruce](https://open.spotify.com/album/7c6dDiWcYxOAAoWn358ZyB) | 3:51 |
-| 19 | [Eleven: Eleven](https://open.spotify.com/track/6AIX4p3MIsNw1ESu5UtITG) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:22 |
-| 20 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 |
+| 1 | [Gayuma](https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 4:12 |
+| 2 | [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 |
+| 3 | [Alam Ko Na](https://open.spotify.com/track/6deBk1BSZkEO7WxvXKnqOZ) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [Alam Ko Na](https://open.spotify.com/album/72zUZYts2xtMDdOS02vOSw) | 4:00 |
+| 4 | [Boomerang](https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Boomerang](https://open.spotify.com/album/4KkEOyGVcLebFsX1ZjfyJ2) | 3:16 |
+| 5 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 |
+| 6 | [5678](https://open.spotify.com/track/2hAoi72sQzqmRwj4eXRjeh) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [5678](https://open.spotify.com/album/0UYm7AHI0WoaCDajD1Dwdt) | 2:51 |
+| 7 | [Hanggang Sa Buwan](https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Hanggang Sa Buwan](https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48) | 3:54 |
+| 8 | [If](https://open.spotify.com/track/4Ji644TkVvAvuUbNYkmuMv) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [If](https://open.spotify.com/album/6venqEQk0VxnehajThSHrI) | 2:58 |
+| 9 | [Aftertaste](https://open.spotify.com/track/356cHgniK3jX5vdyTw5bxj) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Aftertaste](https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc) | 3:32 |
+| 10 | [Sagi](https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Sagi](https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5) | 3:21 |
+| 11 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 |
+| 12 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 |
+| 13 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
+| 14 | [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 |
+| 15 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 |
+| 16 | [BANG](https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [BANG](https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob) | 3:42 |
+| 17 | [Pick Up](https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Pick Up](https://open.spotify.com/album/5Imz9Ju2AaapUqNbEj36a2) | 3:23 |
+| 18 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 |
+| 19 | [Bahala Na](https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Bahala Na](https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U) | 3:48 |
+| 20 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 |
+| 21 | [Sway](https://open.spotify.com/track/5xvZKZKmaO1wmicwNL273v) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Sway](https://open.spotify.com/album/3ZyjJ6WcSzSFtCOk7ysUbV) | 3:58 |
+| 22 | [Di Inakala](https://open.spotify.com/track/3o7dXlwWMntfxjkaqSRIkZ) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Di Inakala](https://open.spotify.com/album/6d0nKflenfco7FBVhksUtW) | 4:19 |
+| 23 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 |
+| 24 | [The Beast](https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [The Beast](https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX) | 3:25 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDhjNDFhOTAwMmVmODRhODBiYjFjOTc2YmRhYzM1ZWJh`
+Snapshot ID: `MTY4MTQwMjE4MCwwMDAwMDAwMGE2MWFjNWMyMjAxYWY1M2E0MjZjNTNhNTExZDM2OTM0`

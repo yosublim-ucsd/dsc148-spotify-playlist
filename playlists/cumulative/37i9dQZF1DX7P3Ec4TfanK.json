@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212966,
       "name": "Giovani Wannabe",
       "url": "https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy"
@@ -2860,6 +2860,28 @@
       "duration_ms": 171194,
       "name": "Un bacio all'improvviso",
       "url": "https://open.spotify.com/track/4iMigesJsEKt8JczIwUrBO"
+    },
+    {
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207615,
+      "name": "Un Briciolo Di Allegria (con Mina)",
+      "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
     },
     {
       "album": {

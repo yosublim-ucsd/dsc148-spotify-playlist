@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Catie Offerman",
-  "num_followers": 403355,
+  "num_followers": 403417,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDNhNDAxNjdkMGUwMWNhOWUxMmU1MTQ5OGE2ZGQ5NDRk",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGExMmMyNGYzMWUyZjVjM2YwZmU1OWMwMGI1NmM5YTZi",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 167512,
-      "name": "Where the Wildflowers Lay",
-      "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -755,22 +755,6 @@
       "duration_ms": 178469,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Girls Like Me",
-        "url": "https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Micaela",
-          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
-        }
-      ],
-      "duration_ms": 171045,
-      "name": "Girls Like Me",
-      "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
       },
@@ -875,6 +843,22 @@
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Girls Like Me",
+        "url": "https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "duration_ms": 171045,
+      "name": "Girls Like Me",
+      "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -911,6 +895,26 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "That Drink (feat. Neal McCoy)",
+        "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        },
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "That Drink (feat. Neal McCoy)",
+      "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Pick Up Your Phone",
         "url": "https://open.spotify.com/album/56yN096213YQfIJ5SpsZs3"
       },
@@ -943,22 +947,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "That Drink (feat. Neal McCoy)",
-        "url": "https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F"
+        "name": "She Goes Home (Dirty Breakup Song)",
+        "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
       },
       "artists": [
         {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        },
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 172314,
-      "name": "That Drink (feat. Neal McCoy)",
-      "url": "https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X"
+      "duration_ms": 199666,
+      "name": "She Goes Home (Dirty Breakup Song)",
+      "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "She Goes Home (Dirty Breakup Song)",
-        "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
       },
       "artists": [
         {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
         }
       ],
-      "duration_ms": 199666,
-      "name": "She Goes Home (Dirty Breakup Song)",
-      "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Tears the Size of Texas",
-        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
-      },
-      "artists": [
-        {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
-        }
-      ],
-      "duration_ms": 238177,
-      "name": "Tears the Size of Texas",
-      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Chisholm Trail",
         "url": "https://open.spotify.com/album/6GEVSJk5WbeCwfbn0fcr8B"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 187370,
       "name": "Chisholm Trail",
       "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Telling on My Heart",
-      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
@@ -1119,22 +1103,6 @@
       "duration_ms": 153125,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Down the Stairwell \u2013 Side A",
-        "url": "https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO"
-      },
-      "artists": [
-        {
-          "name": "David Pugh",
-          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
-        }
-      ],
-      "duration_ms": 178971,
-      "name": "Beautiful Morning",
-      "url": "https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1155,6 +1123,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Down the Stairwell \u2013 Side A",
+        "url": "https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO"
+      },
+      "artists": [
+        {
+          "name": "David Pugh",
+          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
+        }
+      ],
+      "duration_ms": 178971,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "That Ain't No Way To Go",
+        "url": "https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6"
+      },
+      "artists": [
+        {
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+        }
+      ],
+      "duration_ms": 213803,
+      "name": "That Ain't No Way To Go",
+      "url": "https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1204,7 +1204,7 @@
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
       "artists": [
         {
@@ -1212,25 +1212,9 @@
           "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "That Ain't No Way To Go",
-        "url": "https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6"
-      },
-      "artists": [
-        {
-          "name": "Joe Peters",
-          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
-        }
-      ],
-      "duration_ms": 213803,
-      "name": "That Ain't No Way To Go",
-      "url": "https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX"
+      "duration_ms": 217720,
+      "name": "Telling on My Heart",
+      "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 279115,
       "name": "Don't It Make You Wanna Dance?",
       "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Hood of That Car",
+        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Hood of That Car",
+      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Hood of That Car",
-        "url": "https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Hood of That Car",
-      "url": "https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
-      },
-      "artists": [
-        {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "One of 'Em",
         "url": "https://open.spotify.com/album/04wH6X2aDxsxp5dLeDp8eM"
       },
@@ -1491,22 +1475,6 @@
       "duration_ms": 158690,
       "name": "One of 'Em",
       "url": "https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "It Wasn\u2019t Love",
-        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
-      },
-      "artists": [
-        {
-          "name": "Larissa Boyd",
-          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "It Wasn\u2019t Love",
-      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1527,6 +1495,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "It Wasn\u2019t Love",
+        "url": "https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1"
+      },
+      "artists": [
+        {
+          "name": "Larissa Boyd",
+          "url": "https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "It Wasn\u2019t Love",
+      "url": "https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Boy From Anderson County",
         "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
@@ -1543,22 +1527,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Girl from Oklahoma",
-        "url": "https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3"
-      },
-      "artists": [
-        {
-          "name": "Darrin Morris Band",
-          "url": "https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf"
-        }
-      ],
-      "duration_ms": 193023,
-      "name": "Girl from Oklahoma",
-      "url": "https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1571,6 +1539,22 @@
       "duration_ms": 229586,
       "name": "If I Lived Here",
       "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Girl from Oklahoma",
+        "url": "https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3"
+      },
+      "artists": [
+        {
+          "name": "Darrin Morris Band",
+          "url": "https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf"
+        }
+      ],
+      "duration_ms": 193023,
+      "name": "Girl from Oklahoma",
+      "url": "https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/4PSWYGTUhO76kSZupYnivi"
+        "name": "Die Runnin'",
+        "url": "https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5"
       },
       "artists": [
         {
-          "name": "Cameron Sacky Band",
-          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
         }
       ],
-      "duration_ms": 241383,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/0q8CsnbfFEITM6LQsJtpBP"
+      "duration_ms": 191531,
+      "name": "Die Runnin'",
+      "url": "https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
     }
   ],
   "unique_name": "Texas Country Now",

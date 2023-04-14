@@ -698,10 +698,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 104573,
       "name": "Friends",
       "url": "https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK"
+    },
+    {
+      "album": {
+        "name": "Full Wet's",
+        "url": "https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs"
+      },
+      "artists": [
+        {
+          "name": "Montreux Stay-Behinds",
+          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Full Wet's",
+      "url": "https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a"
     },
     {
       "album": {
@@ -822,7 +844,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta"
@@ -1112,7 +1134,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 158065,
       "name": "Kind Of Blue In Green",
       "url": "https://open.spotify.com/track/5McZisEwv6FzvGSh0PM77K"
@@ -1138,6 +1160,28 @@
       "duration_ms": 211200,
       "name": "L'Autofilteur",
       "url": "https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW"
+    },
+    {
+      "album": {
+        "name": "On s'amuse",
+        "url": "https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE"
+      },
+      "artists": [
+        {
+          "name": "Basile Petite",
+          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
+        },
+        {
+          "name": "Drew Wynen",
+          "url": "https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "L'Autofilteur",
+      "url": "https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n"
     },
     {
       "album": {
@@ -2324,7 +2368,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 105720,
       "name": "VA Noir",
       "url": "https://open.spotify.com/track/3qa5y1yALHkSU3i698pici"

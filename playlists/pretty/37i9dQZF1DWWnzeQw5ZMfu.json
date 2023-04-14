@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 53194,
+  "num_followers": 53251,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMDE4YTA1NWQ4YjU0MmI0YjZlZTZhYmM1MDVmOTg3YjAw",
+  "snapshot_id": "MTY3MDU4ODcwMCwwMDAwMDAwMGEyNDRjYWI4YTk5MWJlMGNkNTY1ZDUxODg5ODkyZGEw",
   "tracks": [
     {
       "added_at": "2022-12-09 12:25:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Spotify Sessions London",
-        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Take Me to Church - Live From Spotify London",
-      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "The Man (Live From Paris)",
         "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 219385,
       "name": "The Man - Live From Paris",
       "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Spotify Sessions London",
+        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Take Me to Church - Live From Spotify London",
+      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 234040,
-      "name": "How Deep Is Your Love - Live At The MGM Grand",
-      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+      "duration_ms": 234040,
+      "name": "How Deep Is Your Love - Live At The MGM Grand",
+      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 410280,
-      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
-      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 256800,
       "name": "Smooth Operator - Live",
       "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 410280,
+      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
+      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "On the Road to Nashville (Live)",
-        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "A Little Respect - Live in Nashville",
-      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Best of Live",
         "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 376853,
       "name": "I Want to Know What Love Is - Live",
       "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "On the Road to Nashville (Live)",
+        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "A Little Respect - Live in Nashville",
+      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
-        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
-        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
         }
       ],
-      "duration_ms": 240165,
-      "name": "I Won't Let You Go - Live At The Hospital Club",
-      "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 352333,
       "name": "Breathe Me - Live",
       "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
+        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
+        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Let You Go - Live At The Hospital Club",
+      "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
     },
     {
       "added_at": "2022-12-09 12:25:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-12-09 12:25:00",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 256740,
+      "name": "Treat You Better - Live",
+      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
+    },
+    {
+      "added_at": "2022-12-09 12:25:00",
+      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 180346,
       "name": "Hopelessly Devoted To You - Live",
       "url": "https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT"
-    },
-    {
-      "added_at": "2022-12-09 12:25:00",
-      "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 256740,
-      "name": "Treat You Better - Live",
-      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
     },
     {
       "added_at": "2022-12-09 12:25:00",

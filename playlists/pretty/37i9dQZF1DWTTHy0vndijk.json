@@ -1,12 +1,12 @@
 {
   "description": "Happy National Pet Day! \ud83e\udef6\ud83c\udffc (Cover: JOY(\uc870\uc774))",
-  "num_followers": 506356,
+  "num_followers": 506714,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE5ODcwMCwwMDAwMDAwMGUzMDZiMTQ1YTA3OGIyZGFjMGZhN2I4MmE2MjM5NGM0",
+  "snapshot_id": "MTY4MTE5ODcwMCwwMDAwMDAwMDE2NzliYmQ5MTBkNjk5YzBmYTUzM2U2NTAyYzRiZGIz",
   "tracks": [
     {
       "added_at": "2023-04-11 07:38:20",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
+        "name": "Pink Blossom",
+        "url": "https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 214750,
+      "name": "Mr. Chu",
+      "url": "https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG"
+    },
+    {
+      "added_at": "2023-04-11 07:38:20",
+      "album": {
         "name": "DUMDi DUMDi",
         "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
-    },
-    {
-      "added_at": "2023-04-11 07:38:20",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
-        "name": "Pink Blossom",
-        "url": "https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
       },
       "artists": [
         {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 214750,
-      "name": "Mr. Chu",
-      "url": "https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG"
+      "duration_ms": 233413,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -751,6 +751,22 @@
       "duration_ms": 199965,
       "name": "LOVE BOMB",
       "url": "https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS"
+    },
+    {
+      "added_at": "2023-04-11 07:38:20",
+      "album": {
+        "name": "LOOK",
+        "url": "https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Dumhdurum",
+      "url": "https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
-        "name": "LOOK",
-        "url": "https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 208053,
-      "name": "Dumhdurum",
-      "url": "https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq"
-    },
-    {
-      "added_at": "2023-04-11 07:38:20",
-      "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
-    },
-    {
-      "added_at": "2023-04-11 07:38:20",
-      "album": {
-        "name": "GFRIEND The 2nd Album 'Time for us'",
-        "url": "https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 216488,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -895,6 +879,22 @@
       "duration_ms": 176253,
       "name": "Loveable",
       "url": "https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs"
+    },
+    {
+      "added_at": "2023-04-11 07:38:20",
+      "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "As You Wish",
+      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
     },
     {
       "added_at": "2023-04-11 07:38:20",

@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-300 songs - 16 hr 49 min
+301 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [TURTLE TALK](https://open.spotify.com/track/71JEnxN3JBjXT4v8R1eiKO) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [TURTLE TALK](https://open.spotify.com/album/3Jg22bDdEOoKCRsmKPNIdu) | 3:06 | 2023-04-09 |  |
 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 | 2023-03-26 | 2023-04-04 |
 | [u.s.s.o.](https://open.spotify.com/track/2WrpqAVpKdrhBOavtl8ed8) | [Luminous101](https://open.spotify.com/artist/4378joLric4Zq17n5Ei9My) | [u.s.s.o.](https://open.spotify.com/album/6rWVzmAH9cvd22k4bgfGFZ) | 4:07 | 2023-04-03 | 2023-04-10 |
-| [Unstoppable](https://open.spotify.com/track/5ryMNelb7g9CyoqMiWErpm) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:07 | 2023-04-09 |  |
+| [Unstoppable](https://open.spotify.com/track/3G5VXWj5wPx25khGIFICtg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/2z9lM6LDS58F70IGyQ1XMK) | 4:07 | 2023-04-09 |  |
+| [Unstoppable](https://open.spotify.com/track/5ryMNelb7g9CyoqMiWErpm) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:07 | 2023-04-09 | 2023-04-14 |
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-09 |  |
 | [Utopia \- Cwondo Remix](https://open.spotify.com/track/24unKAelwv8KDBFdKqmzY4) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [\(\(O\)\)](https://open.spotify.com/album/2pYqMkyEftuAS4ID3rKzH9) | 1:56 | 2023-04-09 |  |
 | [Villain](https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [Villain](https://open.spotify.com/album/5oY52goRcs3mfvurujXOu3) | 4:06 | 2023-04-03 | 2023-04-10 |

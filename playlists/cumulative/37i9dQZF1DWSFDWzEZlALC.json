@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Blumengarten, Longus Mongus",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 162962,
       "name": "21 N\u00e4chte wach",
       "url": "https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3"
@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Bialetti",
+        "url": "https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE"
+      },
+      "artists": [
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/4tK6IJTf7TZG3WCW4sfjhW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "Bialetti",
+      "url": "https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2"
+    },
+    {
+      "album": {
         "name": "bitte k\u00fcss mich",
         "url": "https://open.spotify.com/album/3jfvxgoyvSt2IVWUkDTUGI"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 178453,
       "name": "Blume",
       "url": "https://open.spotify.com/track/4VyFbOZL9Ovx3DDopa4gcc"
@@ -616,6 +634,24 @@
       "duration_ms": 183687,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1VdjzSNjVZtU4KYYipxpcK"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5Cr6d0PQdd5N7XbzkRc5Jm"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/4KYSMT1E0CxFCbwEyWnCk6"
     },
     {
       "album": {
@@ -706,7 +742,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 96693,
       "name": "Das Sch\u00f6nste",
       "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
@@ -894,7 +930,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 178546,
       "name": "Du tust mir nie mehr weh",
       "url": "https://open.spotify.com/track/2XleePXiZOxwVUizlGdy9D"
@@ -930,10 +966,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 184454,
       "name": "Dunkles Herz",
       "url": "https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf"
+    },
+    {
+      "album": {
+        "name": "Ein Anruf entfernt",
+        "url": "https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "Ein Anruf entfernt",
+      "url": "https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0"
     },
     {
       "album": {
@@ -952,6 +1006,24 @@
       "duration_ms": 200280,
       "name": "Eine gute Nachricht",
       "url": "https://open.spotify.com/track/16ECxiYYnL687XixVWebEI"
+    },
+    {
+      "album": {
+        "name": "Eine Ode an Wien",
+        "url": "https://open.spotify.com/album/0LxX4gqN7Ys9Kvbz38gFvY"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186380,
+      "name": "Eine Ode an Wien",
+      "url": "https://open.spotify.com/track/43ufwL96oO8ICPs6kQerlq"
     },
     {
       "album": {
@@ -1024,6 +1096,24 @@
       "duration_ms": 137647,
       "name": "Endlos_demo",
       "url": "https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH"
+    },
+    {
+      "album": {
+        "name": "Er oder Sie oder Du",
+        "url": "https://open.spotify.com/album/2VG9BbluDZvvYZ3rtfeWqe"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134822,
+      "name": "Er oder Sie oder Du",
+      "url": "https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk"
     },
     {
       "album": {
@@ -1741,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "rimini tape",
+        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Immer wieder geht die Sonne auf",
+      "url": "https://open.spotify.com/track/2qv7ViwI2cM74PVpEamKfH"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2cbAgiynVNUCo4vO9PsZao"
       },
@@ -1781,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "INTERNETFREUNDIN",
+        "url": "https://open.spotify.com/album/5DozG3LzjrMYw3wNIj17gH"
+      },
+      "artists": [
+        {
+          "name": "SAL\u00d2",
+          "url": "https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz"
+        },
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152343,
+      "name": "INTERNETFREUNDIN",
+      "url": "https://open.spotify.com/track/50K4RtzfB7FNtFqImSpwEd"
+    },
+    {
+      "album": {
         "name": "iPhone X",
         "url": "https://open.spotify.com/album/5PtQ0IazDwgpZ3u642RuHQ"
       },
@@ -1810,7 +1940,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 231985,
       "name": "Ist schon ok",
       "url": "https://open.spotify.com/track/2bj4uIB30s0hm9G4d5wo6b"
@@ -1894,7 +2024,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 161106,
       "name": "Kann schon sein",
       "url": "https://open.spotify.com/track/7cHD8i3bpTwjxLeQNkW1Xo"
@@ -2238,7 +2368,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 162345,
       "name": "Loser",
       "url": "https://open.spotify.com/track/17NovTR8dvHzbkddEX1bBQ"
@@ -2299,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Risiko",
+        "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178759,
+      "name": "Mama Liebe",
+      "url": "https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG"
+    },
+    {
+      "album": {
         "name": "Mangos mit Chili",
         "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
@@ -2336,6 +2484,24 @@
       "duration_ms": 183919,
       "name": "MIESES LEBEN / WOLKEN (feat. Haiyti)",
       "url": "https://open.spotify.com/track/3AShbFYptVC7fa0yjehClF"
+    },
+    {
+      "album": {
+        "name": "Milliard\u00e4r",
+        "url": "https://open.spotify.com/album/0tMd2aX0hClZVUIwkSlvYV"
+      },
+      "artists": [
+        {
+          "name": "CASTILLO",
+          "url": "https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183419,
+      "name": "Milliard\u00e4r",
+      "url": "https://open.spotify.com/track/6JKkLoETnqXMe2OL17Waet"
     },
     {
       "album": {
@@ -2506,7 +2672,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 211800,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT"
@@ -2524,7 +2690,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 151437,
       "name": "Nochmal so",
       "url": "https://open.spotify.com/track/3eN4e24xPmwJlNPrf7AQY3"
@@ -2755,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Raum 37",
+        "url": "https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141154,
+      "name": "Raum 37",
+      "url": "https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1"
+    },
+    {
+      "album": {
         "name": "Alles Auf Anfang",
         "url": "https://open.spotify.com/album/503iC3dEbNox92qC6vJOiP"
       },
@@ -2770,6 +2954,24 @@
       "duration_ms": 191266,
       "name": "Rette Mich",
       "url": "https://open.spotify.com/track/42p6RBRK50vm0lfJBpBtlH"
+    },
+    {
+      "album": {
+        "name": "rimini tape",
+        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
     },
     {
       "album": {
@@ -2831,6 +3033,24 @@
     },
     {
       "album": {
+        "name": "Shirt & Handtuch",
+        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214786,
+      "name": "Shirt & Handtuch",
+      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
+    },
+    {
+      "album": {
         "name": "Sie tanzt so gut",
         "url": "https://open.spotify.com/album/2gUVkJk5RzEyIQndV1VUt9"
       },
@@ -2842,7 +3062,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 205053,
       "name": "Sie tanzt so gut",
       "url": "https://open.spotify.com/track/3FiINXWzj5ZYnfC3ROsWjp"
@@ -2864,6 +3084,24 @@
       "duration_ms": 202308,
       "name": "Skandal im Patriarchat",
       "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "album": {
+        "name": "So weit weg wie es geht",
+        "url": "https://open.spotify.com/album/1feJ34aoU1PdXqysjmWZxN"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "So weit weg wie es geht",
+      "url": "https://open.spotify.com/track/25IhvOQQe2P2oBNTIDOPyH"
     },
     {
       "album": {
@@ -3356,7 +3594,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 177931,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/7b7upfyHj7CcfWK9OyXcHE"
@@ -3464,7 +3702,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 182500,
       "name": "Weh",
       "url": "https://open.spotify.com/track/1MMWwmZBRbtfRCfbPoGzCG"

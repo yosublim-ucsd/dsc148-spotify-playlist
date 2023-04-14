@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 163098,
+  "num_followers": 163070,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMDdiNjdkNzI5ODNmOWNlODhlOTYzNjc3YjQzZGNiMGVk",
+  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMDg2YmM0ODU5ZGEwNWU3YTNhZjA0ZWI3MjRmNWE4NGE2",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Another Year",
         "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "thank you wisdom angel i love you",
         "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 198208,
       "name": "silver second",
       "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2022-12-23 02:36:32",

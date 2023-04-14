@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 262347,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/2wIBOetdiYn4ULg7j4jMg6"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 194250,
       "name": "Breathe Deep",
       "url": "https://open.spotify.com/track/1IbaKAjgt3jCUgeb3MxKiM"
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Fluire",
+        "url": "https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5"
+      },
+      "artists": [
+        {
+          "name": "Trinitah",
+          "url": "https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156222,
+      "name": "Fluire",
+      "url": "https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm"
+    },
+    {
+      "album": {
         "name": "Stillness of Mind",
         "url": "https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212525,
       "name": "Lost In The Moment",
       "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 244025,
       "name": "Namaste Divine",
       "url": "https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 377000,
       "name": "Peaceful Garden",
       "url": "https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 173827,
       "name": "Sleep Will Come",
       "url": "https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH"
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 208000,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0GuvaHc4Yw1047fMRPmGTw"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 214083,
       "name": "Sun Salutation",
       "url": "https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz"

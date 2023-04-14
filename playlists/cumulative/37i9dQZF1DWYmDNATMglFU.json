@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. L\u00d8L\u00d8, girlfriends",
+  "description": "it's a generation \u26d3 ft. waterparks ",
   "name": "The Locker",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 167040,
       "name": "(NOT A) LOVE SONG",
       "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
@@ -60,6 +60,24 @@
       "duration_ms": 157360,
       "name": "18",
       "url": "https://open.spotify.com/track/21hbZ0yllYOoXEbiFDYMSI"
+    },
+    {
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138127,
+      "name": "2 BEST FRIENDS",
+      "url": "https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA"
     },
     {
       "album": {
@@ -960,6 +978,24 @@
       "duration_ms": 240002,
       "name": "Bookie's Dirtbag",
       "url": "https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx"
+    },
+    {
+      "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t"
+      },
+      "artists": [
+        {
+          "name": "lleo",
+          "url": "https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168548,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx"
     },
     {
       "album": {
@@ -3432,7 +3468,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 110769,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy"
@@ -5907,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "nobody's favorite person, not even my own",
+        "url": "https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131944,
+      "name": "nobody's favorite person, not even my own",
+      "url": "https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq"
+    },
+    {
+      "album": {
         "name": "NOT actin rite",
         "url": "https://open.spotify.com/album/6n7aidZ2WpTzxT7CwjefSw"
       },
@@ -6138,7 +6192,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 141238,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
@@ -7392,7 +7446,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 225624,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts"
@@ -7482,7 +7536,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 208448,
       "name": "stab my back",
       "url": "https://open.spotify.com/track/2qmOdCbB4TbRWNXD7QOc1M"
@@ -8615,6 +8669,24 @@
     },
     {
       "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "album": {
         "name": "(e)motion sickness",
         "url": "https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf"
       },
@@ -8630,6 +8702,24 @@
       "duration_ms": 194280,
       "name": "Toaster For A Swim",
       "url": "https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0"
+    },
+    {
+      "album": {
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
     },
     {
       "album": {

@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 299381,
       "name": "A Dystopian Fixation",
       "url": "https://open.spotify.com/track/2r4DcuJm0rAe5VCbvhsts0"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 233573,
       "name": "A Matter Of Time",
       "url": "https://open.spotify.com/track/7lvYsXyjNrZu0DtFKqPrjF"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 297272,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 292186,
       "name": "Art3mis & Parzival",
       "url": "https://open.spotify.com/track/3UwWu3k4ppm1vQxLuSIr0H"
@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Space Warp",
+        "url": "https://open.spotify.com/album/2FH4nrG9pIPJUOxAIcU8YQ"
+      },
+      "artists": [
+        {
+          "name": "Juno Dreams",
+          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/4EJvZM8TZs5DuRWn1t3R3y"
+    },
+    {
+      "album": {
         "name": "Azur",
         "url": "https://open.spotify.com/album/6wXbMbcikBFjJUQbNRPwKt"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 287811,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/60emI1GBoT3BiY5QM3hapN"
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 266500,
       "name": "Be With Me - Remastered 2018",
       "url": "https://open.spotify.com/track/6B69D9a3kmtFxSC9TqSGsO"
@@ -3204,7 +3222,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 290153,
       "name": "California Winter",
       "url": "https://open.spotify.com/track/10pk49gpQEkG9jjkAnbfzY"
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 195000,
       "name": "Close Call",
       "url": "https://open.spotify.com/track/60pRJgItSKirsKDkXZpZnH"
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 307636,
       "name": "Clova",
       "url": "https://open.spotify.com/track/4PMvz59agGmNdBTtzuBAQ7"
@@ -4292,7 +4310,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 173142,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/2Hqp56OoWsyiQ18uZGA9rp"
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 248243,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/4UZge8HK7MShIAPEwUtrTy"
@@ -4856,7 +4874,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 251203,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/4ymsxpFvqFeYdNTxE0kHb4"
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 237680,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
@@ -5174,7 +5192,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 210047,
       "name": "Destination",
       "url": "https://open.spotify.com/track/5wZX6vbnIBLz1LxS6yQqaG"
@@ -5210,7 +5228,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 296546,
       "name": "Devil Make a Deal",
       "url": "https://open.spotify.com/track/0p4rVpy5DAL6JIIneGUugm"
@@ -5558,7 +5576,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Don't Give Up - The Midnight Remix",
       "url": "https://open.spotify.com/track/2LqFe2b7ukUf2T4UlL6Fg3"
@@ -5758,6 +5776,24 @@
       "duration_ms": 219000,
       "name": "Dream Away",
       "url": "https://open.spotify.com/track/3L3GtwAflCkqh4QCoacRYk"
+    },
+    {
+      "album": {
+        "name": "Dream Dust",
+        "url": "https://open.spotify.com/album/5lGCk7Grg3emarpvpLY702"
+      },
+      "artists": [
+        {
+          "name": "Juno Dreams",
+          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236558,
+      "name": "Dream Dust",
+      "url": "https://open.spotify.com/track/2UmhFlPuriXuFgOTh1DXSe"
     },
     {
       "album": {
@@ -6858,7 +6894,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 256874,
       "name": "Explorers",
       "url": "https://open.spotify.com/track/5fZ3BmBaq29MYI2Xsb5FBR"
@@ -7274,6 +7310,24 @@
       "duration_ms": 336053,
       "name": "Fantasy Beach",
       "url": "https://open.spotify.com/track/3i7i4TD6Hu1h9iEclKsuWJ"
+    },
+    {
+      "album": {
+        "name": "Far From Home",
+        "url": "https://open.spotify.com/album/7j2q50hog9KztmatXL5GSz"
+      },
+      "artists": [
+        {
+          "name": "Juno Dreams",
+          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218872,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/3VA0MbKd8BHOnS7neOKwz5"
     },
     {
       "album": {
@@ -8192,7 +8246,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 280642,
       "name": "Future Horizon",
       "url": "https://open.spotify.com/track/6wi5tQKABLb4Vp2qIZkrHV"
@@ -8792,7 +8846,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 223924,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/11EMrNly70CFWQB9jk39Zc"
@@ -9478,7 +9532,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 190960,
       "name": "Home",
       "url": "https://open.spotify.com/track/1RDX72amttjGAl62mEU293"
@@ -10076,7 +10130,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 311029,
       "name": "I'm a Believer",
       "url": "https://open.spotify.com/track/5642EiNwJmN0kjB62eOYTs"
@@ -11194,7 +11248,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 251329,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
@@ -12050,7 +12104,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 271608,
       "name": "Lightweight",
       "url": "https://open.spotify.com/track/2qkTxo3TKUUB97gR798du6"
@@ -12602,7 +12656,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 277335,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV"
@@ -12911,6 +12965,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4iToOY2kDdZagkPRWONDlF"
+      },
+      "artists": [
+        {
+          "name": "Juno Dreams",
+          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Make Your Way",
+      "url": "https://open.spotify.com/track/1fGVGzWTzmTEuutWu0qpwN"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/3yIEYYRRN3CSHWnoV8jRfl"
       },
@@ -13194,7 +13266,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 241008,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3ZBmuDjccs81ULgtURHvY0"
@@ -13306,6 +13378,24 @@
       "duration_ms": 172500,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2NZGjYHs4Jubf23f5U3nys"
+    },
+    {
+      "album": {
+        "name": "Stay In The 80's",
+        "url": "https://open.spotify.com/album/6joGxBLgnmO2PsliqejOJP"
+      },
+      "artists": [
+        {
+          "name": "Biodrive",
+          "url": "https://open.spotify.com/artist/6ddGjA52aSKTEbJZvOhuaX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279575,
+      "name": "Midnight Affair",
+      "url": "https://open.spotify.com/track/4VumlZ9R3dMQIuvmwBQu3v"
     },
     {
       "album": {
@@ -13518,7 +13608,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 257586,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4TIQ6wKE248iWrQWEJZlkr"
@@ -14168,7 +14258,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 305466,
       "name": "Neon Medusa",
       "url": "https://open.spotify.com/track/05eH3a4zbU169X2X7PuWfM"
@@ -14682,7 +14772,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 184573,
       "name": "Night Skies",
       "url": "https://open.spotify.com/track/2NKPXLNPfa7jHQHl250iPz"
@@ -16332,7 +16422,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 291946,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1jdqS2l4X5zil0KMbyxsSM"
@@ -16552,7 +16642,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 353407,
       "name": "Pay Phone",
       "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
@@ -17014,7 +17104,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 228159,
       "name": "Quasar",
       "url": "https://open.spotify.com/track/4H3wNMIK8PMn8s8CzY8j19"
@@ -17576,6 +17666,24 @@
       "duration_ms": 251076,
       "name": "Revel in Your Time - Miami Nights 1984 Remix",
       "url": "https://open.spotify.com/track/1NEWwMsKyxs10blVIk0Bju"
+    },
+    {
+      "album": {
+        "name": "I am: Rogue VHS",
+        "url": "https://open.spotify.com/album/4PVHXykSpH0ok7iv8yafYx"
+      },
+      "artists": [
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314445,
+      "name": "Reversion to the Mean",
+      "url": "https://open.spotify.com/track/5Esr6zR7qNjyezKKyQg5kc"
     },
     {
       "album": {
@@ -19843,6 +19951,24 @@
     },
     {
       "album": {
+        "name": "Space Warp",
+        "url": "https://open.spotify.com/album/2FH4nrG9pIPJUOxAIcU8YQ"
+      },
+      "artists": [
+        {
+          "name": "Juno Dreams",
+          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293697,
+      "name": "Space Warp",
+      "url": "https://open.spotify.com/track/5SCSU2DOX966iwzDVr6qTr"
+    },
+    {
+      "album": {
         "name": "Space X",
         "url": "https://open.spotify.com/album/7dive0bqu9YLMBi0ykHsaL"
       },
@@ -19890,7 +20016,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 255172,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/7D77aQsGnJONF3zEpAoqKQ"
@@ -20404,7 +20530,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 349043,
       "name": "Stranger Love",
       "url": "https://open.spotify.com/track/5TwUyeC78le23W2PM13B8c"
@@ -20534,7 +20660,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 320306,
       "name": "Strong - Instrumental",
       "url": "https://open.spotify.com/track/68z36ZU2RgiB9VyafaBrqV"
@@ -20768,7 +20894,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 326520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4PMmwowVLOajPdiKnrU1vK"
@@ -20804,7 +20930,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 201606,
       "name": "Sunset Boulevard",
       "url": "https://open.spotify.com/track/7uOZo8sNyjMJXsz718jhra"
@@ -20862,7 +20988,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 281564,
       "name": "Sunset Strip",
       "url": "https://open.spotify.com/track/54leWgkYwmwTGXf97IyQAZ"
@@ -22186,7 +22312,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 262784,
       "name": "The Outfield - The Midnight Remix",
       "url": "https://open.spotify.com/track/06QJmUSrIP7f1bueeteg6E"
@@ -22514,7 +22640,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 255180,
       "name": "The Video Game Champion",
       "url": "https://open.spotify.com/track/4iADclNEcQMVtPMOpBqwIg"
@@ -23428,7 +23554,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 266289,
       "name": "Unique by Design",
       "url": "https://open.spotify.com/track/6EygUnBIkH40vrwnoR85k8"
@@ -23504,7 +23630,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 317228,
       "name": "Vampires",
       "url": "https://open.spotify.com/track/1K0urJwRWgKsdufGEdkXP7"
@@ -24400,7 +24526,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 349506,
       "name": "When You Grow Up, Your Heart Dies",
       "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"
@@ -24494,7 +24620,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 274219,
       "name": "Who You Run To",
       "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"

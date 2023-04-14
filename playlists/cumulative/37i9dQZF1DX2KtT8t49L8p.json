@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Air Waves 5-10hz",
+        "url": "https://open.spotify.com/album/6gIiXBzCo5jD9B1D5QhS87"
+      },
+      "artists": [
+        {
+          "name": "Afar Lux",
+          "url": "https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Air Theta 5hz",
+      "url": "https://open.spotify.com/track/1HLhFUBUe3EVWindRioCB5"
+    },
+    {
+      "album": {
         "name": "Binaural Beats Brainwave Therapy: Binaural Beats, Theta Waves, Alpha Waves, Isochronic Tones and Ambient Music For Deep Sleep, Relaxation, Brainwave Entrainment and Sleeping Music, Vol. 2",
         "url": "https://open.spotify.com/album/3u5zY5MkY6ykRjmQEXLlk8"
       },

@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-775 songs - 1 day 19 hr 2 min
+776 songs - 1 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Party Freaks \(feat\. Anna Yvette\)](https://open.spotify.com/track/3vSaO9kPmgBvdxrEQ1TBv4) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Rocket League x Monstercat Vol\. 2](https://open.spotify.com/album/7ignramjANJpFbUZuXHHso) | 3:33 | 2021-03-14 | 2021-05-26 |
 | [Party People](https://open.spotify.com/track/76PQc7doSlZ2ytD7M21Apo) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [The Vibe Trillionaires](https://open.spotify.com/artist/2ChPvjFuvqOs9ezyG24HEV) | [Party People](https://open.spotify.com/album/6xtnCpTxexx1KtyGDRl4j0) | 2:42 | 2022-12-09 |  |
 | [Patience](https://open.spotify.com/track/5VhHNAh8kZCBbIrVQudkIv) | [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Patience](https://open.spotify.com/album/67Z2NQvpbliA1BC0T9wDB0) | 2:24 | 2021-04-13 | 2022-02-24 |
+| [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/album/7JWqADIrUFMSRExaRpaRll) | 1:35 | 2023-04-13 |  |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2021-10-19 | 2022-04-20 |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2021-05-24 | 2022-02-08 |
 | [Photograph](https://open.spotify.com/track/6ut2gx43omNE2zchw86KSt) | [ill Nicky](https://open.spotify.com/artist/6NVUzbf5gy1bg5A4diGkqm), [Jared Anthony](https://open.spotify.com/artist/5jojdq6ltCT6cbv6WpKikI), [Cheeba Hawk](https://open.spotify.com/artist/6iIPyGOPCXoVpAuaq2ktBs), [BangerOfTheDay](https://open.spotify.com/artist/2eAs72bbxVWJpvHnwvDBJT) | [Photograph](https://open.spotify.com/album/2mKklgYnPY6d79RR4mvJrQ) | 3:06 | 2021-03-26 | 2021-12-11 |

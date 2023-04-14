@@ -4,7 +4,7 @@
 
 > Esta selección musical se te hará agua la boca.
 
-85 songs - 4 hr 57 min
+86 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Desaparecer](https://open.spotify.com/track/7lohGFkjyABsdhSLtp2RLU) | [Julie Doppler](https://open.spotify.com/artist/1ObyJAavS8BEXfpz6tX8gQ) | [Desaparecer](https://open.spotify.com/album/5MwAwBvy9zmALI8vGghNcc) | 3:14 | 2022-04-20 |  |
 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 | 2022-04-20 |  |
 | [Diosa](https://open.spotify.com/track/1QFyRYoocji3yLKMsb5W8G) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [RESISTER](https://open.spotify.com/album/3HAsb61yBk2TSJNinYSR0f) | 4:25 | 2022-04-20 |  |
-| [Drume Negrita](https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Drume Negrita \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK) | 2:44 | 2022-04-20 |  |
+| [Drume Negrita](https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Drume Negrita \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK) | 2:44 | 2022-04-20 | 2023-04-14 |
+| [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 | 2022-04-20 |  |
 | [Dulce Pa' Mí](https://open.spotify.com/track/1NU1H9woXBAeu31yHSrw6u) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [Dulce Pa' Mí](https://open.spotify.com/album/4sb1Sjex902EaMNRHvY5eO) | 2:33 | 2022-04-20 |  |
 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 | 2022-04-20 |  |
 | [El Sol](https://open.spotify.com/track/0qyQXtTEFr2cjL1p1XUUh9) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [El Sol](https://open.spotify.com/album/016HGaT7lgVYhQLvVvQg1P) | 3:42 | 2022-04-20 |  |

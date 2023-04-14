@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 145641,
       "name": "Gloss",
       "url": "https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB"
@@ -2020,6 +2020,24 @@
       "duration_ms": 180346,
       "name": "hua(3)",
       "url": "https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu"
+    },
+    {
+      "album": {
+        "name": "82",
+        "url": "https://open.spotify.com/album/7jr975DQBFo5C1645zw17C"
+      },
+      "artists": [
+        {
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "Huff + Puff",
+      "url": "https://open.spotify.com/track/5W3qqq6iOPAqzPzDdW6Ikk"
     },
     {
       "album": {
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 315920,
       "name": "NOISE OF YOU",
       "url": "https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY"
@@ -3554,6 +3572,24 @@
       "duration_ms": 338371,
       "name": "Plans",
       "url": "https://open.spotify.com/track/7qCsvM2VP5cAbMFgBbS60B"
+    },
+    {
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX"
     },
     {
       "album": {

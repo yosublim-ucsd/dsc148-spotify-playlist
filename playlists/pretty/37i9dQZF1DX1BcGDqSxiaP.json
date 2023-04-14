@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 17813,
+  "num_followers": 17819,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDNkNzJiZjVkMTE4ZTRjM2I0OGYxN2E0YThmODRjYjkw",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMGEzNzNmODE2Njc5NWQ2ODQ1NjkxZWFlOTQ0NzIzYTRi",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -323,6 +323,22 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 189213,
       "name": "312 Blood",
       "url": "https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Your Love Is Like A Cancer",
-      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Wander This World",
         "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 210973,
       "name": "Cherry Red Wine",
       "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Your Love Is Like A Cancer",
+      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
     },
     {
       "added_at": "2020-09-21 10:42:33",

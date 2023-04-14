@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-403 songs - 21 hr 24 min
+404 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,7 +355,8 @@
 | [Tetema](https://open.spotify.com/track/53NjleILyfXt7GYwTgxZX9) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema](https://open.spotify.com/album/75ud6QcIp3ewGilMkSLt01) | 2:32 | 2021-12-16 | 2022-07-29 |
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/1rbQWXOpvpbf61fsFDQnru) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5ByfebvDaiXgUQOleR14GK) | 2:32 | 2022-11-07 | 2022-11-14 |
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Sound from Africa](https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q) | 2:32 | 2022-07-28 |  |
-| [Thank You Jah](https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Thank You Jah](https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ) | 3:22 | 2022-05-12 |  |
+| [Thank You Jah](https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Thank You Jah](https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ) | 3:22 | 2022-05-12 | 2023-04-14 |
+| [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-13 |  |
 | [This Your Body](https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [This Your Body](https://open.spotify.com/album/0Zfc7116wUQI37sJxIVPTI) | 3:32 | 2021-12-16 | 2022-01-26 |
 | [Tiempo](https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tiempo](https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ) | 2:51 | 2021-12-16 |  |
 | [Tigini](https://open.spotify.com/track/7fvaNCAFYAx6ny6C5i5Hab) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini](https://open.spotify.com/album/7I1hWDbaRfy2D4tuzXgHhn) | 2:52 | 2021-12-16 | 2022-01-15 |

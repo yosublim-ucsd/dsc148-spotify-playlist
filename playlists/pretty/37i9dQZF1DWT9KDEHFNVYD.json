@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9136,
+  "num_followers": 9152,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMGU3YjEzMTYzNmFmNGJmMmI4ZTQ4MDk1ZDFlMjViODZk",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMGJhMmFkMmZmYmJhODFlZjQ2ODJkZWY5NGUwZDJlMTA2",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Alexa!",
-        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
-      },
-      "artists": [
-        {
-          "name": "The Cool Greenhouse",
-          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
-        }
-      ],
-      "duration_ms": 234720,
-      "name": "Alexa!",
-      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Now Here Is Nowhere",
         "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 253466,
       "name": "Nowhere Again",
       "url": "https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Alexa!",
+        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
+      },
+      "artists": [
+        {
+          "name": "The Cool Greenhouse",
+          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
+        }
+      ],
+      "duration_ms": 234720,
+      "name": "Alexa!",
+      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -855,18 +855,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+        "name": "Chinese Restaurant",
+        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Krisma",
+          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
         }
       ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+      "duration_ms": 329786,
+      "name": "C.Rock",
+      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -887,18 +887,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Chinese Restaurant",
-        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
       "artists": [
         {
-          "name": "Krisma",
-          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 329786,
-      "name": "C.Rock",
-      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -935,6 +935,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Boxed In",
         "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
@@ -951,50 +967,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
       "artists": [
         {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
-    },
-    {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "Fluffy Kosmisch",
-      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+      "duration_ms": 434989,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1015,18 +999,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
       "artists": [
         {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 434989,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+      "duration_ms": 220238,
+      "name": "Fluffy Kosmisch",
+      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+    },
+    {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
-      },
-      "artists": [
-        {
-          "name": "Colder",
-          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
-        }
-      ],
-      "duration_ms": 311600,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU! 75",
-        "url": "https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Colder",
+          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
         }
       ],
-      "duration_ms": 431800,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq"
+      "duration_ms": 311600,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
     },
     {
       "added_at": "2022-11-19 05:33:06",
@@ -1131,6 +1115,22 @@
       "duration_ms": 239107,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU! 75",
+        "url": "https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 431800,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Warrior on the Edge of Time",
         "url": "https://open.spotify.com/album/0vp16atvbB8MmXPaL8Q3A9"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 309733,
       "name": "Opa-Loka",
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
-      "added_at": "2022-01-20 20:59:43",
-      "album": {
-        "name": "Ecdysis!",
-        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 389869,
-      "name": "Ecdysis!",
-      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Ege Bamyasi (Remastered Version)",
@@ -1343,6 +1327,22 @@
       "duration_ms": 335199,
       "name": "One More Night - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
+    },
+    {
+      "added_at": "2022-01-20 20:59:43",
+      "album": {
+        "name": "Ecdysis!",
+        "url": "https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 389869,
+      "name": "Ecdysis!",
+      "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Haha Sound",
-        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 391881,
       "name": "9",
       "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Haha Sound",
+        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Creatures of an Hour",
-        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Submarine",
-      "url": "https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Submarine",
+      "url": "https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
         "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 386173,
       "name": "Sandtrommel",
       "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>>",
+        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 231377,
+      "name": "Brean Down",
+      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1503,22 +1519,6 @@
       "duration_ms": 396306,
       "name": "Mother Sky (from Deep End)",
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": ">>>",
-        "url": "https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 231377,
-      "name": "Brean Down",
-      "url": "https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1567,6 +1567,22 @@
       "duration_ms": 172893,
       "name": "Tub Erupt",
       "url": "https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1631,22 +1647,6 @@
       "duration_ms": 245093,
       "name": "Les Yper-Sound",
       "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     }
   ],
   "unique_name": "Krautrock Highway",

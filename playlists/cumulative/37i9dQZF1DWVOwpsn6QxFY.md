@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-238 songs - 14 hr 30 min
+239 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Hollow](https://open.spotify.com/track/21gawnch3zw2cpWyHGTT9h) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Hollow](https://open.spotify.com/album/6d2yzyxps7g1RDp2j0DTko) | 3:04 | 2021-11-12 | 2022-04-25 |
 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 | 2021-11-12 |  |
 | [How Can You Tell If You Love Her?](https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp) | [John Myrtle](https://open.spotify.com/artist/42p6gXpB3btdFQWyjY5F6h) | [How Can You Tell If You Love Her?](https://open.spotify.com/album/6GKsF5OAwaMwoheiUxxbsW) | 1:54 | 2021-11-12 | 2022-07-26 |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-08 |  |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 | 2023-04-10 |
 | [I Found Out When the Day Had Come](https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [I Found Out When the Day Had Come](https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc) | 2:44 | 2021-11-12 |  |
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-12 |  |
@@ -192,7 +193,7 @@
 | [Say Anything](https://open.spotify.com/track/6j58R2tPwhmzebdavhcgoW) | [Ed Nash](https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH) | [Say Anything](https://open.spotify.com/album/1FhWglLLji6ktAcVEFQKFD) | 1:51 | 2022-03-31 | 2022-04-21 |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-02-04 | 2022-07-29 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-06-23 |  |
-| [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-11-12 |  |
+| [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-11-12 | 2023-04-14 |
 | [Slow Motion](https://open.spotify.com/track/5j3Ipgq1HyrjrYbvTg6Jhc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/52KR7xjSGks9TH2UkbOaFU) | 3:45 | 2022-03-31 | 2022-04-21 |
 | [Small Talk](https://open.spotify.com/track/1d9jMSfABayTo8IaYYNTWG) | [Billy Low](https://open.spotify.com/artist/011KwWWxPlWLYa8ZvDj7ht) | [Small Talk](https://open.spotify.com/album/5YbE1AKOHsm0iKmbYKTuhQ) | 3:40 | 2022-03-31 | 2022-04-21 |
 | [so sad](https://open.spotify.com/track/04wi6jJm7gAGpiqOZM7uiK) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [so sad](https://open.spotify.com/album/0LcgRpayGiKHRTz3M7oKkX) | 0:29 | 2021-11-12 | 2022-07-03 |

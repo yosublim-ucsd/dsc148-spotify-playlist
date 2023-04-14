@@ -4,7 +4,7 @@
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 7 min
+99 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 | 2022-11-24 | 2023-04-05 |
 | [A Través Del Vaso](https://open.spotify.com/track/0W8rADAiBVT14LcWmYrct0) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5K8Gihi37TnPa2SyfPbggP) | 3:00 | 2023-03-25 | 2023-03-30 |
 | [A Través Del Vaso](https://open.spotify.com/track/6iIFQX61X5Ib1bZZjZYetK) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sólo Me Faltabas Tú](https://open.spotify.com/album/6xsI6GomnYt4hdZkd1csNz) | 3:01 | 2022-10-12 | 2023-03-26 |
+| [A Través Del Vaso \- Remix](https://open.spotify.com/track/7hGOJhq8xVG1J1UyQnU2GE) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Sencilla Conexion](https://open.spotify.com/artist/2ZtiUpyZARUBzAeirKPDHd) | [A Través Del Vaso \(Remix\)](https://open.spotify.com/album/04p0aiRCV9JcI0w4tY8fOZ) | 3:42 | 2023-04-13 |  |
 | [A Una Almohada De Distancia](https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Indeleble](https://open.spotify.com/album/6lhGaMNx6B3wKM0sSLKcc3) | 4:37 | 2022-06-04 | 2022-12-05 |
 | [Aferrado](https://open.spotify.com/track/3Dld2deDJfPNzfBMVRk9gK) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Aferrado](https://open.spotify.com/album/300VY4yHtYORvcibznY0Re) | 2:58 | 2023-04-04 | 2023-04-06 |
 | [Amor A Escondidas](https://open.spotify.com/track/5nicx87hWxGgiUbVbMkBdH) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:05 | 2022-06-01 | 2023-04-05 |

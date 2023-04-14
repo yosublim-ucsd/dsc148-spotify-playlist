@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "ANGRY ANGRY",
+        "url": "https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "ANGRY ANGRY",
+      "url": "https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz"
+    },
+    {
+      "album": {
         "name": "Another Day Goes By",
         "url": "https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15"
       },
@@ -1706,7 +1728,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179000,
       "name": "BLACK COFFEE",
       "url": "https://open.spotify.com/track/7nVJUCN42beJPJbEbn1lwr"
@@ -1914,6 +1936,24 @@
       "duration_ms": 246093,
       "name": "Blue Velvet - Self Cover",
       "url": "https://open.spotify.com/track/5WkuR6xKTZlvtBmOmsXVyx"
+    },
+    {
+      "album": {
+        "name": "Blueberry Pie",
+        "url": "https://open.spotify.com/album/42sIOGfsPA15eJKvNrtVUD"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Blueberry Pie",
+      "url": "https://open.spotify.com/track/2BhbQL45vWYw1oqlahnuXI"
     },
     {
       "album": {
@@ -4471,6 +4511,24 @@
     },
     {
       "album": {
+        "name": "Girl in the mirror",
+        "url": "https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190594,
+      "name": "Girl in the mirror",
+      "url": "https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c"
+    },
+    {
+      "album": {
         "name": "Go back / friends",
         "url": "https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb"
       },
@@ -4844,7 +4902,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 271280,
       "name": "Heart",
       "url": "https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1"
@@ -4862,7 +4920,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 257206,
       "name": "heart notes",
       "url": "https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0"
@@ -7198,7 +7256,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212233,
       "name": "lullaby",
       "url": "https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX"
@@ -11127,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "Still do",
+        "url": "https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224056,
+      "name": "Still do",
+      "url": "https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX"
+    },
+    {
+      "album": {
         "name": "Structure Of Romance (feat. Kyoko Koizumi)",
         "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
       },
@@ -12688,7 +12764,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 306586,
       "name": "VITA",
       "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
@@ -14004,6 +14080,28 @@
       "duration_ms": 215664,
       "name": "\u3044\u3051\u306a\u3044baby",
       "url": "https://open.spotify.com/track/2YFkYS11X5biooHpEQtMc8"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
+        "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
+      },
+      "artists": [
+        {
+          "name": "Tomggg",
+          "url": "https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE"
+        },
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157924,
+      "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
+      "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
     },
     {
       "album": {
@@ -17659,6 +17757,24 @@
     },
     {
       "album": {
+        "name": "\u571f\u5668\u571f\u5668",
+        "url": "https://open.spotify.com/album/46h19s3LqGlfSx84r6PdwK"
+      },
+      "artists": [
+        {
+          "name": "NOKKO",
+          "url": "https://open.spotify.com/artist/4wRafUzFqp9hsc2B6WojEG"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245126,
+      "name": "\u30de\u30ab\u30ed\u30cb",
+      "url": "https://open.spotify.com/track/1z6FCoroh7MQraQBWeD9hN"
+    },
+    {
+      "album": {
         "name": "\u30de\u30b0\u30de I",
         "url": "https://open.spotify.com/album/5NsaiVz6Zszy7J2pwvNapg"
       },
@@ -19142,7 +19258,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 239025,
       "name": "\u540d\u3082\u306a\u3044\u82b1",
       "url": "https://open.spotify.com/track/2mdrMOnGvyo6fHkm0yBUKw"
@@ -20302,6 +20418,24 @@
       "duration_ms": 204066,
       "name": "\u5c0f\u3055\u306a\u5922",
       "url": "https://open.spotify.com/track/5RgAxJOsu3rvHIGPZQAvnJ"
+    },
+    {
+      "album": {
+        "name": "\u5c4a\u304f\u3001\u672a\u6765\u3078",
+        "url": "https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217874,
+      "name": "\u5c4a\u304f\u3001\u672a\u6765\u3078",
+      "url": "https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb"
     },
     {
       "album": {
@@ -22510,7 +22644,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 268106,
       "name": "\u79c1\u306e\u77b3\u306f\u9ed2\u3044\u8272",
       "url": "https://open.spotify.com/track/3pZq5VOrxhinAoHRx4TLBt"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 126000,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO"
@@ -314,10 +314,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 173666,
       "name": "Bad Boys - Harddance Mix",
       "url": "https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF"
+    },
+    {
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3"
+      },
+      "artists": [
+        {
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Hardstyle Fruits Music",
+          "url": "https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh"
     },
     {
       "album": {
@@ -866,6 +888,32 @@
       "duration_ms": 201230,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv"
+    },
+    {
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/0DZPkZHG0XqnBMqTWMLttB"
+      },
+      "artists": [
+        {
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Vander Bass",
+          "url": "https://open.spotify.com/artist/2XQtA0xF5aY9ZzxpjOgGRD"
+        },
+        {
+          "name": "Hardstyle Fruits Music",
+          "url": "https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152090,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/41pcXZdymef4B80TYig9qT"
     },
     {
       "album": {
@@ -2232,7 +2280,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 216049,
       "name": "The Wellerman (Sea Shanty)",
       "url": "https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5"
@@ -2368,6 +2416,28 @@
       "duration_ms": 186400,
       "name": "Wake Me Up - Hardstyle Remix",
       "url": "https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0"
+    },
+    {
+      "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
     },
     {
       "album": {

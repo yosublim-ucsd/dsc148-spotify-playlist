@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-110 songs - 6 hr 21 min
+111 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Brother Sun/Sister Moon \- acoustic](https://open.spotify.com/track/1BbWvpPdh9rpy0ELSgfx6e) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Brother Sun/Sister Moon \(acoustic\)](https://open.spotify.com/album/19OUAko1152hDfFkY9PM4F) | 3:34 | 2022-12-22 |  |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-02-16 |  |
 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2022-12-22 |  |
+| [Choose](https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Choose](https://open.spotify.com/album/5uXVaWOm6gjQLj4KQL3Cyc) | 2:50 | 2023-04-13 |  |
 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 | 2022-12-22 |  |
 | [Clown](https://open.spotify.com/track/0Hh0SRM2MUVEtMWLyI7irO) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifices](https://open.spotify.com/album/12Lmi0I5DuYNYCV9XGv2ed) | 3:15 | 2023-03-16 |  |
 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 | 2022-12-22 |  |
@@ -114,7 +115,7 @@
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-12-22 |  |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/0E8afAKop5kTWKQ6BL9fub) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/6uMJVg0n7lQAT0X8XBLMEV) | 3:15 | 2022-12-22 |  |
 | [Worth It](https://open.spotify.com/track/1j6fqlqbmYyEOWj839SEHg) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Worth It](https://open.spotify.com/album/6L9Q8C3EGLKZPJAabDC4fr) | 2:40 | 2022-12-22 |  |
-| [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2022-12-22 |  |
+| [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2022-12-22 | 2023-04-14 |
 | [You Are Not Alone](https://open.spotify.com/track/0LLc1wJdpQMpgMKCF8y2TF) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [You Are Not Alone](https://open.spotify.com/album/6dRPKSUv4bXPTthz9aB47E) | 3:28 | 2022-12-22 |  |
 | [You Don't Even Know Me](https://open.spotify.com/track/25ySqlmqGYbg7EH687XaVR) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [You Don't Even Know Me](https://open.spotify.com/album/0KyjORfPI4rvjc4vnFq5O5) | 3:27 | 2022-12-22 |  |
 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 | 2022-12-22 | 2023-02-17 |

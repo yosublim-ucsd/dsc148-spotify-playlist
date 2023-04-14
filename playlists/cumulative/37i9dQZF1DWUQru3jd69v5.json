@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Artie 5ive in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Ele A in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -250,6 +250,40 @@
       "duration_ms": 154071,
       "name": "31st",
       "url": "https://open.spotify.com/track/2cYGl0YTegitLrJ7KY2JJL"
+    },
+    {
+      "album": {
+        "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
+        "url": "https://open.spotify.com/album/47I5eWAahrkjPWPXXcLcG8"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Blocka Beatz",
+          "url": "https://open.spotify.com/artist/1AnTVUsrFRQ3HBhpUZHi5p"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204753,
+      "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
+      "url": "https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG"
     },
     {
       "album": {
@@ -2050,7 +2084,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 342352,
       "name": "Centomila",
       "url": "https://open.spotify.com/track/7hCJiJENu1wt8HPmN5LB3B"
@@ -2132,6 +2166,24 @@
       "duration_ms": 184683,
       "name": "CHEESE N' RATS",
       "url": "https://open.spotify.com/track/5yRKjXbFbacXdYK2MeRRo1"
+    },
+    {
+      "album": {
+        "name": "CHIAMA",
+        "url": "https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP"
+      },
+      "artists": [
+        {
+          "name": "Xhovana",
+          "url": "https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "CHIAMA",
+      "url": "https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA"
     },
     {
       "album": {
@@ -4901,6 +4953,28 @@
     },
     {
       "album": {
+        "name": "Inshallah",
+        "url": "https://open.spotify.com/album/37CLRhs5jpWYqegh7pKkkQ"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164013,
+      "name": "Inshallah",
+      "url": "https://open.spotify.com/track/7cbZFOT8eJ2cZly97gjWzq"
+    },
+    {
+      "album": {
         "name": "Integral",
         "url": "https://open.spotify.com/album/4peGfycHpgQ8bMV7Yb7768"
       },
@@ -5007,6 +5081,24 @@
     },
     {
       "album": {
+        "name": "Globo",
+        "url": "https://open.spotify.com/album/1a20TRiV239oyveyPVEBR7"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158912,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/5uDfwhjhSyBRR3OZFVnsbn"
+    },
+    {
+      "album": {
         "name": "Jersey",
         "url": "https://open.spotify.com/album/29Q9PF20p26NQMIlafoXdI"
       },
@@ -5040,6 +5132,28 @@
       "duration_ms": 111959,
       "name": "Joca Jouer (intro)",
       "url": "https://open.spotify.com/track/2Asa5OOZ3lzlIjd85y2Hfj"
+    },
+    {
+      "album": {
+        "name": "K-WAY",
+        "url": "https://open.spotify.com/album/2imCsVV0kzsyDKkmVwnVpE"
+      },
+      "artists": [
+        {
+          "name": "Sisco",
+          "url": "https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE"
+        },
+        {
+          "name": "DiglieloMosi",
+          "url": "https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "K-WAY",
+      "url": "https://open.spotify.com/track/2yqvUQFqT3UKMASCpIEBpY"
     },
     {
       "album": {
@@ -5966,7 +6080,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 155844,
       "name": "Mamma Ho L'Ansia",
       "url": "https://open.spotify.com/track/0trkYuQztYMYtGBCEBBgTv"
@@ -6119,6 +6233,28 @@
     },
     {
       "album": {
+        "name": "Mc Queen",
+        "url": "https://open.spotify.com/album/1Qyt1Qy9Cx9Dky8XI0Uvm8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Green",
+          "url": "https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK"
+        },
+        {
+          "name": "Macs",
+          "url": "https://open.spotify.com/artist/6HVUM2E6gjSKOp5NZbEqau"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Mc Queen",
+      "url": "https://open.spotify.com/track/1gF5GQAtwds79fanKqsl1C"
+    },
+    {
+      "album": {
         "name": "McLaren",
         "url": "https://open.spotify.com/album/5fG48pQO2ZG0llt5DMIZ4t"
       },
@@ -6182,7 +6318,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 132204,
       "name": "Me vs. The World",
       "url": "https://open.spotify.com/track/69QDwkWwn4dP5Nccf9QF3S"
@@ -6957,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "Non ritorneranno mai",
+        "url": "https://open.spotify.com/album/3bnt2flUrBeiQaYQxe3Knp"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168611,
+      "name": "Non ritorneranno mai",
+      "url": "https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM"
+    },
+    {
+      "album": {
         "name": "Non \u00e8 un gioco",
         "url": "https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM"
       },
@@ -7636,7 +7790,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 126614,
       "name": "Polizia",
       "url": "https://open.spotify.com/track/2GOUFt7GPYXSA4UDEqrhGy"
@@ -7935,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/3WaCFgHj2H2dWIlzvbTb47"
+      },
+      "artists": [
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115348,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M"
+    },
+    {
+      "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/1VH2Hhq3cep5k7gcknPPkG"
       },
@@ -8208,7 +8380,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 132413,
       "name": "RAPTOR",
       "url": "https://open.spotify.com/track/1eSIww3FeZYxwCu3u3tkVR"
@@ -8884,7 +9056,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 135000,
       "name": "Serpi",
       "url": "https://open.spotify.com/track/53DUlpHIDh658kPaKDsaP3"
@@ -9084,7 +9256,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 180005,
       "name": "Sinapsi",
       "url": "https://open.spotify.com/track/2D7GNRfeQjOjd7q3C8t0Rs"
@@ -10108,7 +10280,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 207603,
       "name": "Uno9999",
       "url": "https://open.spotify.com/track/59KsUaIA6LKg1CCAmkhYOX"
@@ -10152,7 +10324,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 113814,
       "name": "Va Bene",
       "url": "https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb"

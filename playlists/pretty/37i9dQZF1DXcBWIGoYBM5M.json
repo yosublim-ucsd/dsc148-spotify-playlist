@@ -1,12 +1,12 @@
 {
   "description": "SZA is on top of the Hottest 50!",
-  "num_followers": 33475043,
+  "num_followers": 33480216,
   "original_name": "Today's Top Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI0NjA3NCwwMDAwMDAwMDAwMGI4YWNlMzJmMzUxMTI3NzliMzc4NGFhNmM4Zjk4",
+  "snapshot_id": "MTY4MTI0NjA3NCwwMDAwMDAwMDk1MmMxMGNmMjdhMjk4ZmMxMjFlODdjNmM2MDRjYmUw",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -159,8 +159,8 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
       },
       "artists": [
         {
@@ -170,7 +170,7 @@
       ],
       "duration_ms": 194848,
       "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
+      "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -684,7 +684,7 @@
           "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 247875,
+      "duration_ms": 250350,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx"
     },

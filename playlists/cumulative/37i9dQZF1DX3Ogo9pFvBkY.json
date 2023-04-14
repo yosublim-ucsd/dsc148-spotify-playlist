@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Electric Pulses",
+        "url": "https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM"
+      },
+      "artists": [
+        {
+          "name": "Lonely Roads",
+          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ"
+    },
+    {
+      "album": {
         "name": "Angelus",
         "url": "https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP"
       },
@@ -10720,6 +10738,24 @@
       "duration_ms": 211212,
       "name": "Suaimhneas",
       "url": "https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo"
+    },
+    {
+      "album": {
+        "name": "Subtlety And Refinement",
+        "url": "https://open.spotify.com/album/4xkIBfbQ2v989G6YkJO28y"
+      },
+      "artists": [
+        {
+          "name": "Michael Ojha",
+          "url": "https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174987,
+      "name": "Subtlety And Refinement",
+      "url": "https://open.spotify.com/track/6J8qqQ9tEDF1Zq4gtqbzDJ"
     },
     {
       "album": {

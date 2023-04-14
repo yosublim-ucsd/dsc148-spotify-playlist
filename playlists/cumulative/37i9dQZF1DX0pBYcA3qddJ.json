@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 177162,
       "name": "Icicle",
       "url": "https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO"
@@ -2668,6 +2668,36 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "album": {
+        "name": "LAW OF AWAKENING",
+        "url": "https://open.spotify.com/album/7JWMMfWgw4fPYXm0cpWwgC"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        },
+        {
+          "name": "Anzu Suhara",
+          "url": "https://open.spotify.com/artist/6u30byKtb0cli6RU2iD1yj"
+        },
+        {
+          "name": "Junpei Hayashida",
+          "url": "https://open.spotify.com/artist/7EFqed0fHG85IGP3XEbGo3"
+        },
+        {
+          "name": "Kensuke Yamauchi",
+          "url": "https://open.spotify.com/artist/06xDUa8BpV0lfRPwWxBr15"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272127,
+      "name": "LAW OF AWAKENING",
+      "url": "https://open.spotify.com/track/2ZpaOyC5BtYzVCkWERZqW0"
     },
     {
       "album": {

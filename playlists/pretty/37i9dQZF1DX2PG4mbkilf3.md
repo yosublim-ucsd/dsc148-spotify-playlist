@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Kennedy Rd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,327 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,365 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 6 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
 | 7 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 |
 | 8 | [Keep From Falling](https://open.spotify.com/track/2J1iMDApDGF5akWEl1spZQ) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Keep From Falling](https://open.spotify.com/album/2XrROypIe8YTa9kWrFBIaB) | 3:56 |
-| 9 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/3AvpyCAgied0ZUj2Y1nJey) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:37 |
+| 9 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 |
 | 10 | [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 |
 | 11 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
 | 12 | [We Make Sense](https://open.spotify.com/track/6Uv0pRytdE99Op5MYIfiJs) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [We Make Sense](https://open.spotify.com/album/7pD9IBIvAiHjT4nKKnA3D1) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [OHWEI](https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw) | [Izzy Rose](https://open.spotify.com/artist/3bhjxkOnnTAKNTQU1TdC9N) | [OHWEI](https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf) | 2:49 |
 | 100 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 |
 
-Snapshot ID: `MTY4MDg0MTY1MiwwMDAwMDAwMDY5ZTZmOTVkMDYyZjY1YjM2ZTM1M2VlNTZhMTZkNjI5`
+Snapshot ID: `MTY4MDg0MTY1MiwwMDAwMDAwMDk1YjkyMzczOWZjNjQ2NWExNGU0ZmY2M2NjYzQ3NzY3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 194400,
       "name": "AN BISTAN",
       "url": "https://open.spotify.com/track/5hJ9ogbG8cAHhRMZzH5IRf"
@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Ozoror",
+        "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155638,
+      "name": "Coca-Cola Mentos",
+      "url": "https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl"
+    },
+    {
+      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/3VihwCwktiRiqN8TuLJe6C"
       },
@@ -1084,6 +1102,24 @@
       "duration_ms": 132310,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
+    },
+    {
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "album": {
@@ -2868,7 +2904,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 131947,
       "name": "Met enkor",
       "url": "https://open.spotify.com/track/1hBaMtwb84WYuIzf1e7SNk"
@@ -3373,6 +3409,28 @@
     },
     {
       "album": {
+        "name": "Oway",
+        "url": "https://open.spotify.com/album/3y10FCkPqr4xnnPZijpuo6"
+      },
+      "artists": [
+        {
+          "name": "SA\u00cfK",
+          "url": "https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I"
+        },
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Oway",
+      "url": "https://open.spotify.com/track/6FWCEcvsDtBbvFQOA7Fugc"
+    },
+    {
+      "album": {
         "name": "G-Side: The Way I Do It",
         "url": "https://open.spotify.com/album/0JJ9srPt1oHSwQrfMDWFCe"
       },
@@ -3699,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Queen of the Dancehall",
+        "url": "https://open.spotify.com/album/0BAUGuQ5pbGkBBWfIZOEbW"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "Queen of the Dancehall",
+      "url": "https://open.spotify.com/track/2KKUB380LqN4ydVQhdMGFJ"
+    },
+    {
+      "album": {
         "name": "Rasta",
         "url": "https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD"
       },
@@ -3714,7 +3790,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 135000,
       "name": "Rasta",
       "url": "https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0"
@@ -4810,7 +4886,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"

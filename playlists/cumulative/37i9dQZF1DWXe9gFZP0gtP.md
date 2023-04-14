@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-345 songs - 16 hr 59 min
+347 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-17 |  |
 | [Chilling Silence](https://open.spotify.com/track/36P42TsHqV71AuPbVpo2wi) | [Osteriana](https://open.spotify.com/artist/1tTvqzD47dcgaRbQTNjgF2) | [Chilling Silence \(Ambient version\)](https://open.spotify.com/album/00y5lU1luPiTWHNTvrI4kd) | 2:31 | 2021-12-17 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-02-01 |  |
+| [Cinta](https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Cinta](https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq) | 2:59 | 2023-04-13 |  |
 | [Circadian](https://open.spotify.com/track/3bb6awuqz2ZJggqGtvPVYE) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Phases](https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk) | 2:52 | 2021-12-17 | 2022-04-22 |
 | [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 | 2021-12-17 | 2022-04-22 |
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
@@ -174,7 +175,7 @@
 | [Lago de Atitlán](https://open.spotify.com/track/08KQZAu0iL2E4CHwwmUIjS) | [Scarlet Becker](https://open.spotify.com/artist/2yLkuHA25r5rTMKZI6iLUN) | [Lago de Atitlán](https://open.spotify.com/album/2wd9XA2cXAZO4L6Wn6qNo2) | 3:12 | 2021-12-17 |  |
 | [Lagoom](https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [Lagoom](https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC) | 2:51 | 2022-12-30 |  |
 | [Lagoons](https://open.spotify.com/track/47m7taVhh1ktgczbtWmbnG) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Lagoons](https://open.spotify.com/album/71kxOT2YEjtIhURhX8zoGi) | 2:43 | 2022-03-17 |  |
-| [Lahko noč](https://open.spotify.com/track/0djscTMVix3pGLzMJ3D9X8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Čudovita pomlad](https://open.spotify.com/album/14eJeVKMbuxGX0zQ1KI5Ok) | 2:57 | 2021-12-17 |  |
+| [Lahko noč](https://open.spotify.com/track/0djscTMVix3pGLzMJ3D9X8) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Čudovita pomlad](https://open.spotify.com/album/14eJeVKMbuxGX0zQ1KI5Ok) | 2:57 | 2021-12-17 | 2023-04-14 |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 |  |
 | [Landing on clouds](https://open.spotify.com/track/10UEnZDKuuAuQitOyVhS6Y) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 2:24 | 2022-07-15 |  |
 | [Last Night](https://open.spotify.com/track/0mEtQh163dmE6NjbaPqf6o) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:07 | 2021-12-17 | 2022-09-03 |
@@ -305,7 +306,7 @@
 | [Suilven](https://open.spotify.com/track/3mNYWG8IAA5pCcPzuZ3jnU) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Suilven](https://open.spotify.com/album/1NNcF0tflr5jmYMRO1EoTE) | 3:58 | 2021-12-17 |  |
 | [Suivez\-moi](https://open.spotify.com/track/1iUWhhQqt3vCxrMCZluokP) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Suivez\-moi](https://open.spotify.com/album/56Ic0KB997WaLyYWoDRu09) | 3:20 | 2021-12-17 |  |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-12-17 |  |
-| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 |  |
+| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 | 2023-04-14 |
 | [Surrounded By Olive](https://open.spotify.com/track/31nLFWrGtgYilBGgTKLuyW) | [Joseph Martins](https://open.spotify.com/artist/3MR09XZH0Q5cRnennqCE2z) | [Surrounded By Olive](https://open.spotify.com/album/08kCIdkAdWiQpc313VHIGg) | 3:06 | 2021-12-17 |  |
 | [Susurrus](https://open.spotify.com/track/3Vo0VwSMPICUf7rLnmyEEv) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Susurrus](https://open.spotify.com/album/0m0uWRNgIyjjTrZGJAlnAJ) | 2:15 | 2022-08-23 |  |
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2021-12-17 | 2022-04-22 |
@@ -345,6 +346,7 @@
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-12-17 | 2022-04-15 |
 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 | 2021-12-17 |  |
 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 | 2021-12-17 |  |
+| [Whispered Views](https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Whispered Views](https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY) | 2:52 | 2023-04-13 |  |
 | [Wings Of Sound](https://open.spotify.com/track/78cC2D8GaCuHks19dSHFEf) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Wings Of Sound](https://open.spotify.com/album/3QvEKCqKgfeojGdPHWQq91) | 2:36 | 2021-12-17 |  |
 | [Yana](https://open.spotify.com/track/6pv7Z1c7FQcLSxUIGgQrg3) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Yana](https://open.spotify.com/album/2ieSB12RwegevPF1BAqjnx) | 3:14 | 2021-12-17 |  |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2021-12-17 |  |

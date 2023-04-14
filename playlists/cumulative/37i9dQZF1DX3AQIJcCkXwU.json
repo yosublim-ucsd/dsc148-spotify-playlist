@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Morning in Jaipur",
+        "url": "https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy"
+      },
+      "artists": [
+        {
+          "name": "Sola Vimi",
+          "url": "https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Morning in Jaipur",
+      "url": "https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC"
+    },
+    {
+      "album": {
         "name": "Devotion Collection 1 - Blessings of the Heart",
         "url": "https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry"
       },
@@ -2016,6 +2034,24 @@
       "duration_ms": 187250,
       "name": "Restful Soul",
       "url": "https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT"
+    },
+    {
+      "album": {
+        "name": "Rise of the Capital",
+        "url": "https://open.spotify.com/album/3F6VwgcXAuKBiicVZAzu7i"
+      },
+      "artists": [
+        {
+          "name": "Takano Marise",
+          "url": "https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Rise of the Capital",
+      "url": "https://open.spotify.com/track/5t3WHBCb8dg7niQPTIkRgm"
     },
     {
       "album": {

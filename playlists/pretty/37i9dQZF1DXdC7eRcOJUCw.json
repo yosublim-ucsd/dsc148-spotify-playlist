@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 108300,
+  "num_followers": 108430,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGU4ZDRlZjNiYzk3NjIzNWUwYjU5MDAyMjFlM2Q2MDIz",
+  "snapshot_id": "MTY3Nzg2MzI4NSwwMDAwMDAwMGIzMTI2YTFmNjE4OWM5OGMzM2E2YWJhOTBlMzIxZTQ4",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
-      "added_at": "2023-04-13 01:35:31",
+      "added_at": "2023-04-14 01:35:23",
       "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "\u00c9xitos Rancheros",
-        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 212601,
-      "name": "Las Cuentas Claras",
-      "url": "https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8"
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "A 10 a\u00f1os....un recuerdo permanente",
-        "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
+        "name": "\u00c9xitos Rancheros",
+        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Paloma negra",
-      "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+      "duration_ms": 212601,
+      "name": "Las Cuentas Claras",
+      "url": "https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
+        "name": "A 10 a\u00f1os....un recuerdo permanente",
+        "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Paloma negra",
+      "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 178584,
       "name": "Amanec\u00ed En Tus Brazos",
       "url": "https://open.spotify.com/track/6Yzyvz6Pujj7a3FgdNlSuD"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 113619,
-      "name": "Amor, Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 167206,
       "name": "Taco Placero",
       "url": "https://open.spotify.com/track/4ZnlLJNLuSfy8kcD8fzcCf"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "T\u00fa a M\u00ed No Me Hundes",
-      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 239880,
       "name": "No Te Apartes De M\u00ed",
       "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "T\u00fa a M\u00ed No Me Hundes",
+      "url": "https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Lucha Villa Interpreta a Jos\u00e9 Alfredo Jimenez",
-        "url": "https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Te Solt\u00e9 La Rienda",
-      "url": "https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Entiende Que Ya",
         "url": "https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
+        "name": "Lucha Villa Interpreta a Jos\u00e9 Alfredo Jimenez",
+        "url": "https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Te Solt\u00e9 La Rienda",
+      "url": "https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
         "name": "Los Exitos De Amalia Mendoza",
         "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 191173,
       "name": "\u00c9chame a M\u00ed la Culpa",
       "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Irma Serrano",
-        "url": "https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP"
-      },
-      "artists": [
-        {
-          "name": "Irma Serrano",
-          "url": "https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "El Puente Roto - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Irma Serrano",
+        "url": "https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Irma Serrano",
+          "url": "https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6"
         }
       ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+      "duration_ms": 157000,
+      "name": "El Puente Roto - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 145194,
       "name": "Por Si Me Olvidas",
       "url": "https://open.spotify.com/track/1io5WvDEVRlnPVJl7hYJZI"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     },
     {
       "added_at": "2023-02-17 06:00:00",

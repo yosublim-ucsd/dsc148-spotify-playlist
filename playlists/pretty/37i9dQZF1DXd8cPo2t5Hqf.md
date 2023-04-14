@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,412 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,551 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 51 | [初音ミクの激唱 \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3) | [Storyteller \(GAiA x cosMo@Bousou P\)](https://open.spotify.com/artist/5ti01KXPy9ZV9Gw7qvZtXU) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:12 |
 | 52 | [ココロ](https://open.spotify.com/track/6gsd0653qu7ePqE2gXA2ET) | [Toraboruta](https://open.spotify.com/artist/3SF34yWtPytpoOfEz4GuW4) | [トラボティック・チューン](https://open.spotify.com/album/7ARxgUQPhcLdsGau2yblFB) | 4:42 |
 | 53 | [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 |
-| 54 | [Kunoichi Demo Koi ga Shitai](https://open.spotify.com/track/5lU6C6UZ0uJUTQtFNQKHJp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Boku wa Hatsue Miku to Kiss wo Shita](https://open.spotify.com/album/57Nadno9S8RWypTTdCs9eZ) | 4:15 |
-| 55 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
+| 54 | [SLoWMoTIoN](https://open.spotify.com/track/5moGDgg9undWOE9Uyz0kAO) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [SHI\-BOU](https://open.spotify.com/album/5OU1Uy9GB4fnL6604OeV5b) | 5:13 |
+| 55 | [Kunoichi Demo Koi ga Shitai](https://open.spotify.com/track/5lU6C6UZ0uJUTQtFNQKHJp) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Boku wa Hatsue Miku to Kiss wo Shita](https://open.spotify.com/album/57Nadno9S8RWypTTdCs9eZ) | 4:15 |
 | 56 | [ロミオとシンデレラ \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/3dU1s4P5qcUCkPGpvhLN1r) | [doriko](https://open.spotify.com/artist/16YLTve2FXhfNIn0YO9yER) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 3:20 |
 | 57 | [Blackjack](https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy) | [yuchaP](https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT) | [Trump](https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ) | 2:38 |
 | 58 | [深海少女 \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/5FtPiazzV8mUmndWIzIdpz) | [Yuuyu](https://open.spotify.com/artist/7xXRpHxkFojVbSeuplmFfi) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:58 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 62 | [ぽっぴっぽー \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 1:51 |
 | 63 | [東京テディベア](https://open.spotify.com/track/6m5Rk67linNHu66VBK434T) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [世界征服](https://open.spotify.com/album/6bUhLpHUvNZmABsIWHV3F9) | 3:14 |
 | 64 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 |
-| 65 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 |
+| 65 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 |
 | 66 | [Hello, Planet](https://open.spotify.com/track/4HV2zdfNV6hxc9f97jtDh5) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [Do Vocaloids Dream of Doomsday Bird?](https://open.spotify.com/album/1olwRiTXgJqGJL5ASMLJaP) | 5:01 |
-| 67 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 |
+| 67 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 |
 | 68 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 |
 | 69 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
 | 70 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 99 | [いろは唄](https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY) | [Ginsaku](https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:05 |
 | 100 | [片想いサンバ](https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:58 |
 
-Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMGU3ZDVlOTdkMmRkZTQyOGJmNjU3ZjE3NTIwMGRhMjI2`
+Snapshot ID: `MTYyMTk5NjY1NiwwMDAwMDAwMDg1YjQzZGZjZjg0NWNjMjE3NDNhY2M5NTNlN2JjOTI5`

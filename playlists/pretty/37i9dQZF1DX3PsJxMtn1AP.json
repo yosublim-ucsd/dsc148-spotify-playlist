@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...",
-  "num_followers": 55375,
+  "num_followers": 55436,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM0MTcwNywwMDAwMDAwMGM5ZGE4MDE0Mjg3ZjllNjA0N2ZhYmM5YjQ5NjFjMmQ1",
+  "snapshot_id": "MTY4MTQzNDcyNCwwMDAwMDAwMDdmMTY3M2MzZjYwN2IzZDgyNjhjYzNmMTg1OGE2ZWYw",
   "tracks": [
     {
       "added_at": "2023-04-12 23:21:47",
@@ -23,6 +23,22 @@
       "duration_ms": 168786,
       "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
+    },
+    {
+      "added_at": "2023-04-14 01:07:08",
+      "album": {
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 247471,
+      "name": "Slugs of Love",
+      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
     },
     {
       "added_at": "2023-03-28 05:24:00",
@@ -113,20 +129,36 @@
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
-      "added_at": "2023-03-23 20:24:35",
+      "added_at": "2023-04-14 01:02:53",
       "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
       "artists": [
         {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
         }
       ],
-      "duration_ms": 187632,
-      "name": "Even It Out",
-      "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2023-04-13 23:18:56",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 124768,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa"
     },
     {
       "added_at": "2023-03-31 19:25:46",
@@ -175,26 +207,6 @@
       "duration_ms": 178275,
       "name": "vampiro",
       "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
-    },
-    {
-      "added_at": "2023-03-31 17:50:03",
-      "album": {
-        "name": "Head On EP",
-        "url": "https://open.spotify.com/album/1kmN7lxLayS5azCGXn7e0n"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        },
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Head On - Miss Grit Remix",
-      "url": "https://open.spotify.com/track/2etTUUZRsSJn4oNuZXvAJn"
     },
     {
       "added_at": "2023-04-11 00:45:00",
@@ -247,6 +259,38 @@
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "added_at": "2023-04-14 01:12:04",
+      "album": {
+        "name": "Seaforth",
+        "url": "https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Seaforth",
+      "url": "https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j"
+    },
+    {
+      "added_at": "2023-04-13 19:54:08",
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX"
     },
     {
       "added_at": "2023-03-29 18:09:18",
@@ -341,40 +385,20 @@
       "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
     },
     {
-      "added_at": "2023-03-29 18:29:49",
+      "added_at": "2023-04-14 00:15:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF"
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
         }
       ],
-      "duration_ms": 201973,
-      "name": "Bedroom Exile - Spotify Singles",
-      "url": "https://open.spotify.com/track/41nuWG6XRUTGlFSOumec21"
-    },
-    {
-      "added_at": "2023-02-09 18:09:37",
-      "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+      "duration_ms": 196893,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
     },
     {
       "added_at": "2023-03-22 17:57:14",
@@ -513,22 +537,6 @@
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
-      "added_at": "2023-03-16 22:12:58",
-      "album": {
-        "name": "UNO",
-        "url": "https://open.spotify.com/album/1UwrDtLXLepWw9VRpfTlNE"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f6els",
-          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
-        }
-      ],
-      "duration_ms": 215690,
-      "name": "El Peso",
-      "url": "https://open.spotify.com/track/5VbRwZScBAxgrLoQ84ss8I"
-    },
-    {
       "added_at": "2023-03-03 04:04:01",
       "album": {
         "name": "An Ocean",
@@ -577,26 +585,6 @@
       "url": "https://open.spotify.com/track/746XVpySvzCD8me5t9XdG4"
     },
     {
-      "added_at": "2023-03-03 04:34:32",
-      "album": {
-        "name": "Jardines Vol. 1",
-        "url": "https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
-        }
-      ],
-      "duration_ms": 153162,
-      "name": "jazmin",
-      "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
-    },
-    {
       "added_at": "2023-03-17 17:25:19",
       "album": {
         "name": "0792",
@@ -611,22 +599,6 @@
       "duration_ms": 202844,
       "name": "una pistola",
       "url": "https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb"
-    },
-    {
-      "added_at": "2023-03-23 20:24:35",
-      "album": {
-        "name": "M\u00e1scara de Ni\u00f1a",
-        "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 194148,
-      "name": "M\u00e1scara de Ni\u00f1a",
-      "url": "https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G"
     },
     {
       "added_at": "2023-03-31 19:06:25",
@@ -749,6 +721,22 @@
       "url": "https://open.spotify.com/track/6ByKclwVHHpCQTyqNtzZzA"
     },
     {
+      "added_at": "2023-04-13 23:33:06",
+      "album": {
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 147300,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
+    },
+    {
       "added_at": "2023-03-03 04:25:04",
       "album": {
         "name": "Optical Delusion",
@@ -787,46 +775,6 @@
     {
       "added_at": "2023-02-28 04:35:15",
       "album": {
-        "name": "Regresar (Vibes4YourSoul Remix)",
-        "url": "https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Vibes4YourSoul",
-          "url": "https://open.spotify.com/artist/2z0Od7adlbPJRlM6pyFZZV"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Regresar (Vibes4YourSoul Remix)",
-      "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
-    },
-    {
-      "added_at": "2023-03-23 20:31:32",
-      "album": {
-        "name": "On the Romance of Being",
-        "url": "https://open.spotify.com/album/4t3W8ktkFU1bAx8bwvJr4P"
-      },
-      "artists": [
-        {
-          "name": "Desire Marea",
-          "url": "https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C"
-        },
-        {
-          "name": "Zo\u00eb Modiga",
-          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
-        }
-      ],
-      "duration_ms": 535201,
-      "name": "Rah (feat. Zo\u00eb Modiga)",
-      "url": "https://open.spotify.com/track/3k5TY85gt8FYgMJpHPFxc5"
-    },
-    {
-      "added_at": "2023-02-28 04:35:15",
-      "album": {
         "name": "Me Estoy Poniendo Viejo",
         "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
       },
@@ -839,6 +787,46 @@
       "duration_ms": 234382,
       "name": "Me Estoy Poniendo Viejo",
       "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+    },
+    {
+      "added_at": "2023-04-13 19:02:40",
+      "album": {
+        "name": "wondering dub",
+        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 127015,
+      "name": "wondering dub",
+      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
+    },
+    {
+      "added_at": "2023-04-13 23:08:10",
+      "album": {
+        "name": "Ashufak Shay (feat. Rashid Al Najjar)",
+        "url": "https://open.spotify.com/album/2NoIIJGa6SZ1QxVOwju35e"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        },
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        },
+        {
+          "name": "Rashid Al Najjar",
+          "url": "https://open.spotify.com/artist/1zQpUGJVs1xCLcMSu63SGD"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Ashufak Shay (feat. Rashid Al Najjar)",
+      "url": "https://open.spotify.com/track/1fkAf0B2cB2DKx9dhYembk"
     },
     {
       "added_at": "2023-04-07 06:00:00",

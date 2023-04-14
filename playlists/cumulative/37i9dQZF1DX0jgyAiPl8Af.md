@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-559 songs - 1 day 0 hr 29 min
+560 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2022-10-28 |  |
 | [Bela Vista](https://open.spotify.com/track/4VbvFhMlAijXeY8fV9uhZa) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Bela Vista](https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f) | 2:20 | 2021-12-08 | 2022-11-18 |
 | [Believer](https://open.spotify.com/track/0c4eF0PfUDAB4UL3PT9e8b) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/0gRJgi1WqpfPhgPx9DOWHd) | 2:11 | 2022-09-02 | 2022-11-04 |
-| [Believer](https://open.spotify.com/track/39TkpMiAw9ys6ZWUDCatNf) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/2rTeVhHQD3ItGp8bpHvBZK) | 2:11 | 2022-10-28 |  |
+| [Believer](https://open.spotify.com/track/39TkpMiAw9ys6ZWUDCatNf) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/2rTeVhHQD3ItGp8bpHvBZK) | 2:11 | 2022-10-28 | 2023-04-14 |
+| [Believer](https://open.spotify.com/track/3mA4fggOpZDCXfJ9cRZ4Gu) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/3MxRSWPr4OfBtPGUgImiUq) | 2:11 | 2023-03-24 |  |
 | [Bella Serata](https://open.spotify.com/track/3sJDlb5i2nbIACTqohBpNM) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Bella Serata](https://open.spotify.com/album/7hRmiGwIcd8PqbGBiH1lRQ) | 2:49 | 2022-10-28 |  |
 | [Bezmocný](https://open.spotify.com/track/4VvEgdGaEGLlKEQZM4DK6a) | [Rémy Milburn](https://open.spotify.com/artist/6PRLsFki2KLDNw9lN9mgks) | [Bezmocný](https://open.spotify.com/album/1ViR3HfRO3uaioYDIJDnsZ) | 2:31 | 2023-01-06 |  |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2022-09-23 |

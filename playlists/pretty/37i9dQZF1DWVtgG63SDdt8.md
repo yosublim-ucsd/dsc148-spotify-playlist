@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0?si=09BM6EDlRjCNfWVP7gbT1Q">Cody Carnes</a>, <a href="https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed?si=aZ2kfAnHTSWJ48UtzGXJ1g">Chris Davenport</a>, and <a href="https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v?si=vO2KHfWwTuSghy2ya3mvJg">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,699 likes - 170 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,815 likes - 170 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

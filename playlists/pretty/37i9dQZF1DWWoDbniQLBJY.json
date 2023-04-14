@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2016021,
+  "num_followers": 2016032,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0MDg2OSwwMDAwMDAwMDRkYmU2MWE4NWM3M2U2MGZlMDUwN2RhM2Y3ZTYwYjVk",
+  "snapshot_id": "MTY4MDY0MDg2OSwwMDAwMDAwMGQyY2VlODA5NmVhMGIxZDIwZjI2ZDdmYzIwMzYxZjU4",
   "tracks": [
     {
       "added_at": "2023-04-04 20:41:09",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -463,6 +463,78 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Universo Amor",
+        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Universo Amor",
+      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
+      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
         "name": "Tour 2007",
         "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
       },
@@ -495,62 +567,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
-      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Universo Amor",
-        "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Universo Amor",
-      "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "El Embrujo",
         "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 238533,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -655,38 +655,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 231990,
-      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -727,6 +711,22 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 231990,
+      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "desde que estas en mi vida",
         "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
+        "name": "Velero",
+        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 136595,
+      "name": "Velero",
+      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
         "name": "Agua Del Pozo",
         "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
       },
@@ -1719,26 +1739,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Velero",
-        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
-      },
-      "artists": [
-        {
-          "name": "Matt Hunter",
-          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 136595,
-      "name": "Velero",
-      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
@@ -1755,6 +1755,22 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
+    },
+    {
+      "added_at": "2023-04-04 20:41:09",
+      "album": {
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2023-04-04 20:41:09",
-      "album": {
         "name": "Voy Cantando",
         "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
       },
@@ -1811,8 +1811,8 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
       },
       "artists": [
         {
@@ -1820,9 +1820,9 @@
           "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+      "duration_ms": 181280,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
     },
     {
       "added_at": "2023-04-04 20:41:09",
@@ -1947,8 +1947,8 @@
     {
       "added_at": "2023-04-04 20:41:09",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
       "artists": [
         {
@@ -1956,9 +1956,9 @@
           "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-04-04 20:41:09",

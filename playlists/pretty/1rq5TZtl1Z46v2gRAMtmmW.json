@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 27674,
+  "num_followers": 27677,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzMwNiw0YWRiODBlODIzNDdjYzYxNjE1ZWNjYjcxODYzYTA5M2I4ZGE4YmZh",
+  "snapshot_id": "MzMwOSw2MmI1YjhlNzg4YjBiZDc0MGI4OTY2OTFkYmU3NjkyNTJlY2ZkZTJh",
   "tracks": [
+    {
+      "added_at": "2023-04-13 20:47:57",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
     {
       "added_at": "2023-04-05 19:49:23",
       "album": {
@@ -443,26 +459,6 @@
       "duration_ms": 220458,
       "name": "Comfort Eating",
       "url": "https://open.spotify.com/track/5Ga1jDKhuAiZIk2bnh9ODX"
-    },
-    {
-      "added_at": "2022-10-07 17:43:57",
-      "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Anxious Mind",
-      "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
     },
     {
       "added_at": "2022-10-12 15:59:51",

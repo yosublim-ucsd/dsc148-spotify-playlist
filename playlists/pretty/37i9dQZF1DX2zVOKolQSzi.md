@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,686 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,744 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 24 | [FUNKNROLL](https://open.spotify.com/track/1gAHPwkHrnO6rYEsjWzd8V) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [ART OFFICIAL AGE](https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M) | 4:08 |
 | 25 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 |
 | 26 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
-| 27 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/0pfPLVnegUuMnlFo1PPrWu) | [Medicine Man](https://open.spotify.com/album/3HpBC2ECGBxWOviA8CyLhb) | 4:28 |
+| 27 | [The Wilhelm Scream \(feat\. Meg Washington\)](https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Medicine Man](https://open.spotify.com/album/3HpBC2ECGBxWOviA8CyLhb) | 4:28 |
 | 28 | [Hold Up, Wait a Minute](https://open.spotify.com/track/4o2UcMhDLHpi09m8esAVqT) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Genesis Series](https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU) | 4:08 |
 | 29 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
 | 30 | [Change](https://open.spotify.com/track/2U2OWAIT6F4ZLpH6Yy8TR7) | [Nojazz](https://open.spotify.com/artist/6KLnaNNqxZlVKGMavwJ8Zn) | [Soul Stimulation](https://open.spotify.com/album/26lKujx8VZ8nUFRXKRn2tC) | 3:37 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Holding Absence",
+  "description": "The UK's biggest rock playlist. Cover: Another Sky",
   "name": "The Rock List",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 193813,
       "name": "15 Minutes In The Algorithm",
       "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 100377,
       "name": "Ache",
       "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Cherophobe",
+        "url": "https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256146,
+      "name": "Cherophobe",
+      "url": "https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 110769,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy"
@@ -1271,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/6AhdoMFKBYnTZxvOEbZ3O4"
       },
@@ -1358,6 +1394,24 @@
       "duration_ms": 195646,
       "name": "HORROR SHOW",
       "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
+    },
+    {
+      "album": {
+        "name": "Houses of American Style",
+        "url": "https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
     },
     {
       "album": {
@@ -1532,7 +1586,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 232160,
       "name": "Into the Trap",
       "url": "https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E"
@@ -1608,7 +1662,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 253357,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/2LS1YcppKeHGE2fASRXYZC"
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 140560,
       "name": "Kamikaze (feat. Jason Williamson)",
       "url": "https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja"
@@ -1818,7 +1872,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
@@ -1890,7 +1944,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 194959,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp"
@@ -1933,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
+    },
+    {
+      "album": {
         "name": "Need You No More",
         "url": "https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm"
       },
@@ -1944,7 +2016,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 198133,
       "name": "Need You No More",
       "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
@@ -2088,7 +2160,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 153222,
       "name": "On Drugs",
       "url": "https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf"
@@ -2200,6 +2272,24 @@
       "duration_ms": 155603,
       "name": "Play My Favourite Song",
       "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
+    },
+    {
+      "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/3AbrCdHe3tzMrsyUMcuiPf"
+      },
+      "artists": [
+        {
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213109,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye"
     },
     {
       "album": {
@@ -2628,7 +2718,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 219111,
       "name": "Television Promises",
       "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
@@ -2664,7 +2754,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 214506,
       "name": "That Time Of Year Always",
       "url": "https://open.spotify.com/track/67ys14tG3JWU0X4ia2FKOM"
@@ -2927,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
       },
@@ -2938,7 +3046,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"

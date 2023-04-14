@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -7410,7 +7410,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 171466,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00"
@@ -8144,7 +8144,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 239026,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2lsRp40mCRkhqULWdMbOzn"
@@ -10502,7 +10502,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -10820,7 +10820,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "Lovely Touch",
       "url": "https://open.spotify.com/track/7x3SGAkfIrzDr9paSslwMv"
@@ -15440,7 +15440,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 199213,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC"
@@ -20267,6 +20267,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
         "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
       },
@@ -20444,7 +20462,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 146893,
       "name": "\uc12c\ucc1f (Hypnosis)",
       "url": "https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT"

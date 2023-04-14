@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1467988,
+  "num_followers": 1468375,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg3NjA2MCwwMDAwMDAwMDFjZWY4YTgzZWVkMTJlNjc5MmZmYjY4YWFkNDQzM2Q4",
+  "snapshot_id": "MTY4MDg3NjA2MCwwMDAwMDAwMGNhM2IyNWNmMDBmYmZmNWRjNjYyMGVjNTU3ZTc2YzU3",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -235,26 +235,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Weightless (jamesjamesjames Remix)",
-        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 249779,
-      "name": "Weightless - jamesjamesjames Remix",
-      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
+      "duration_ms": 173694,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -283,18 +275,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Forget It",
-        "url": "https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH"
+        "name": "Weightless (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
         }
       ],
-      "duration_ms": 173694,
-      "name": "Forget It",
-      "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
+      "duration_ms": 249779,
+      "name": "Weightless - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
     },
     {
-      "added_at": "2023-04-13 00:43:29",
+      "added_at": "2023-04-14 00:36:37",
       "album": {
         "name": "Made Of Gold",
         "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Hide and Seek (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        },
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        }
-      ],
-      "duration_ms": 231288,
-      "name": "Hide and Seek - Le Youth Remix",
-      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1003,42 +983,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+        "name": "Hide and Seek (Le Youth Remix)",
+        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
         },
         {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         }
       ],
-      "duration_ms": 279555,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Age of Love (ARTBAT Rave Mix)",
-        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        }
-      ],
-      "duration_ms": 445440,
-      "name": "Age of Love - ARTBAT Rave Mix",
-      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+      "duration_ms": 231288,
+      "name": "Hide and Seek - Le Youth Remix",
+      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1067,6 +1027,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Age of Love (ARTBAT Rave Mix)",
+        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Age of Love - ARTBAT Rave Mix",
+      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Reminiscing",
         "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 279555,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 168319,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+        "name": "Risky Business",
+        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
-      "duration_ms": 230500,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
+      "duration_ms": 320853,
+      "name": "Risky Business",
+      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Risky Business",
-        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
       "artists": [
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 320853,
-      "name": "Risky Business",
-      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
+      "duration_ms": 230500,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Kensh\u014d",
-        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
-      },
-      "artists": [
-        {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Kensh\u014d",
-      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Kensh\u014d",
+        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
+      },
+      "artists": [
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "duration_ms": 220161,
+      "name": "Kensh\u014d",
+      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Midnight / Equal",
         "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
       },
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Am I Dreaming?",
         "url": "https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 212636,
       "name": "Am I Dreaming?",
       "url": "https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Unlovable",
-        "url": "https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "Unlovable",
-      "url": "https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
@@ -1871,6 +1851,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Unlovable",
+        "url": "https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Unlovable",
+      "url": "https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Neon Jungle Remixes",
         "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
       },
@@ -1887,6 +1887,26 @@
       "duration_ms": 249919,
       "name": "Neon Jungle - Lane 8 Remix",
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "All I Want (feat. Goatchy)",
+        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Goatchy",
+          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
+        }
+      ],
+      "duration_ms": 224978,
+      "name": "All I Want (feat. Goatchy)",
+      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1915,26 +1935,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "All I Want (feat. Goatchy)",
-        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
-      },
-      "artists": [
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Goatchy",
-          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
-        }
-      ],
-      "duration_ms": 224978,
-      "name": "All I Want (feat. Goatchy)",
-      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
       },
@@ -1947,22 +1947,6 @@
       "duration_ms": 326929,
       "name": "Flame - Edit",
       "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1983,6 +1967,22 @@
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-03-31 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
-  "num_followers": 27496,
+  "num_followers": 27553,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMGYxMjY5MjQzYjljODY4MzViMTVkNTFhN2Y0ZmVhYjU1",
+  "snapshot_id": "MTY3OTYyNjg2MCwwMDAwMDAwMDUxMGI3ODkxOGZjYWEwNjA4YTE1YmFhZWYwMDcyODky",
   "tracks": [
     {
       "added_at": "2023-03-24 03:01:00",
@@ -931,30 +931,6 @@
     {
       "added_at": "2023-03-24 03:01:00",
       "album": {
-        "name": "Edgar Davids",
-        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Edgar Davids",
-      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
-    },
-    {
-      "added_at": "2023-03-24 03:01:00",
-      "album": {
         "name": "RADDIM",
         "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 209738,
       "name": "Raddim",
       "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2023-03-24 03:01:00",
+      "album": {
+        "name": "Edgar Davids",
+        "url": "https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Edgar Davids",
+      "url": "https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD"
     },
     {
       "added_at": "2023-03-24 03:01:00",

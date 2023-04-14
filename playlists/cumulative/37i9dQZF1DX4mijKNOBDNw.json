@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+    },
+    {
+      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
       },
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 223176,
       "name": "Tenemos Voz",
       "url": "https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh"

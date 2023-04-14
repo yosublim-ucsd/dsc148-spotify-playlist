@@ -95,7 +95,7 @@
     },
     {
       "album": {
-        "name": "Aire",
+        "name": "Aire (Documental Elementos)",
         "url": "https://open.spotify.com/album/5hcFT7y5y6nkRhOuiSS4OL"
       },
       "artists": [
@@ -108,7 +108,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223928,
-      "name": "Aire",
+      "name": "Aire (Documental Elementos)",
       "url": "https://open.spotify.com/track/3wyVAvVgaKnzv5JIQSoXho"
     },
     {
@@ -503,7 +503,7 @@
     },
     {
       "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
+        "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
@@ -520,7 +520,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
+      "name": "Caught A Body (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179419,
       "name": "I'd Be Fine (If I Never Saw You Again)",
       "url": "https://open.spotify.com/track/0cLNjebMun5VyYDORebAkp"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 340081,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/3Yq2LrXkn04nfOrKVvtpm8"
@@ -3644,6 +3644,24 @@
       "duration_ms": 192755,
       "name": "The Mind of God",
       "url": "https://open.spotify.com/track/0t2RjyABc0IIVP9wbRA7kA"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167827,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/3CxAUJgKdfDzS0CIbn8mqQ"
     },
     {
       "album": {

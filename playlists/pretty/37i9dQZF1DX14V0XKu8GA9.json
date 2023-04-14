@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21544,
+  "num_followers": 21568,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMDhmYzc2YjU0ZjRkNDJjMzU1YzRkZDIyNDU4MDk0NDkw",
+  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMGQ2ODQzMGE5MzRmYThmZTg1MGQwY2RjNzhhMzBlMWUz",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -227,22 +227,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "From The Bottom",
-        "url": "https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68"
+        "name": "Face",
+        "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
       },
       "artists": [
         {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+          "name": "G-Mainey",
+          "url": "https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94"
         },
         {
-          "name": "Rittz",
-          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
         }
       ],
-      "duration_ms": 210895,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY"
+      "duration_ms": 160000,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "From The Bottom",
+        "url": "https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68"
+      },
+      "artists": [
+        {
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+        },
+        {
+          "name": "Rittz",
+          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
+        }
+      ],
+      "duration_ms": 210895,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/75hXgReGq2RApC1h02kutn"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 227473,
       "name": "The One",
       "url": "https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Face",
-        "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
-      },
-      "artists": [
-        {
-          "name": "G-Mainey",
-          "url": "https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94"
-        },
-        {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Face",
-      "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Cost of Loyalty",
         "url": "https://open.spotify.com/album/0ppVLYcxxEO9sF8oW6pFkS"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 148286,
       "name": "Cost of Loyalty",
       "url": "https://open.spotify.com/track/4Ct6RqjdLtpw1eDGlwJKHE"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-03-10 22:02:53",

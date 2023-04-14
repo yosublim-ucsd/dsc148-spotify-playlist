@@ -3879,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "New Breeze",
+        "url": "https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe"
+      },
+      "artists": [
+        {
+          "name": "Bad//Dreems",
+          "url": "https://open.spotify.com/artist/54f24706ua34STMhWSzPV7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "New Breeze",
+      "url": "https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW"
+    },
+    {
+      "album": {
         "name": "nightmare",
         "url": "https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2"
       },
@@ -4249,7 +4267,7 @@
         },
         {
           "name": "Meg Washington",
-          "url": "https://open.spotify.com/artist/0pfPLVnegUuMnlFo1PPrWu"
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
         }
       ],
       "date_added": "2022-06-16",
@@ -6326,6 +6344,24 @@
       "duration_ms": 177397,
       "name": "What, Me Worry?",
       "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
+    },
+    {
+      "album": {
+        "name": "Who Really Gets What They Want",
+        "url": "https://open.spotify.com/album/4KV71zjahmcWQZivu4ADPJ"
+      },
+      "artists": [
+        {
+          "name": "MACEY",
+          "url": "https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Who Really Gets What They Want",
+      "url": "https://open.spotify.com/track/4NVOFGJ607d2zJYcv4hv1M"
     },
     {
       "album": {

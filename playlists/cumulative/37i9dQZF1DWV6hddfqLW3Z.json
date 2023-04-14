@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
+    },
+    {
+      "album": {
         "name": "Preciso me encontrar (Original Motion Picture Soundtrack \"Di\u00e1rios De Interc\u00e2mbio\")",
         "url": "https://open.spotify.com/album/1AGfGXPfd68ytghke2h73Z"
       },
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 166916,
       "name": "saudade",
       "url": "https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Nivel Codiciado
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,319 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,339 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 30 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
 | 31 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
 | 32 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
-| 33 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
-| 34 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
+| 33 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
+| 34 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 35 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 36 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
 | 37 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 |
@@ -93,15 +93,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 83 | [DOLOR](https://open.spotify.com/track/1S4Xk3LEaXrmvQye3viFFa) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [DOLOR](https://open.spotify.com/album/2SiOMpq82Qv1svVMt35sP1) | 3:35 |
 | 84 | [Todo Terminó](https://open.spotify.com/track/0RrN2Vm2FXGhZQZRiFnG0U) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Todo Terminó](https://open.spotify.com/album/0i0FRjgz2NCaN8s212Rcd4) | 3:03 |
 | 85 | [Loco y Drogado \(En Vivo\)](https://open.spotify.com/track/291ekxuZ0hzYwz4F0zMDWt) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Hechando Rolas Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/2lspJ7QjGRq4cuCZIRbQ6q) | 2:50 |
-| 86 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
-| 87 | [Ilusionado](https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Ilusionado](https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg) | 2:32 |
+| 86 | [Ilusionado](https://open.spotify.com/track/0oxC5a4WHrQ4EwsJqzKHEL) | [Jason Nunez](https://open.spotify.com/artist/5QRR2yQ8isWuBfcS1FbqSH) | [Ilusionado](https://open.spotify.com/album/539MYDSsxCxabAEkxEdJZg) | 2:32 |
+| 87 | [Ya Te Borre](https://open.spotify.com/track/6CuhjVivHt5R6xzYP4ihBX) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [Ya Te Borre](https://open.spotify.com/album/58wwBMmZnRmESQ4C5tXy4p) | 3:25 |
 | 88 | [Hoodboys](https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f) | [Los De Guamuchil](https://open.spotify.com/artist/3ognMXS3PJq2gCkzReq4bE) | [Hoodboys](https://open.spotify.com/album/1pR6LSB6PFavDG6BIjsKxn) | 3:10 |
 | 89 | [El Jamaico](https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [El Jamaico](https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33) | 2:24 |
 | 90 | [DIFF](https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Tiempo Perdido](https://open.spotify.com/album/0G19We9KJd6Njy3xtlC2Ot) | 3:52 |
 | 91 | [El Greñas \(En Vivo\)](https://open.spotify.com/track/498M1LbXbA0ePdNGYtE8di) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [El Greñas \(En Vivo\)](https://open.spotify.com/album/2ZMkNiFE1guFx7ulP7AlOH) | 2:23 |
 | 92 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 |
-| 93 | [Estilo Palazuelos](https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Estilo Palazuelos](https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC) | 2:35 |
-| 94 | [Vivo el Peligro](https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Vivo el Peligro](https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr) | 2:40 |
+| 93 | [Vivo el Peligro](https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Vivo el Peligro](https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr) | 2:40 |
+| 94 | [Estilo Palazuelos](https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Estilo Palazuelos](https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC) | 2:35 |
 | 95 | [Muriendo Lento](https://open.spotify.com/track/2NkSZA9C8xRCZrrOQLqjfU) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Muriendo Lento](https://open.spotify.com/album/4xA8QCP8FhTfiVxfnDgotb) | 3:32 |
 | 96 | [Santo Pa Pocos \(En Vivo\)](https://open.spotify.com/track/7lf9fCiMjhMkq3P9o4VLB6) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb), [Doble Escuela](https://open.spotify.com/artist/7foktGM5Z2trQ3waJKkid7) | [Santo Pa Pocos \(En Vivo\)](https://open.spotify.com/album/00t3fI79ZOx49L40Lnb8YM) | 3:05 |
 | 97 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 |
 | 100 | [El Chiste](https://open.spotify.com/track/03AGRk4RHSpOEwU00Smwvm) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [El Chiste](https://open.spotify.com/album/1H0nf93rr0nrdT8Z1sAn5B) | 2:58 |
 
-Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDVhODUyMjUzOTZmODFiZTcxN2RiOGRlZmViODRlNzk3`
+Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDhlMWFlMzU2MDZlN2M2NjU2NmFlMjdiYmZmZDVlMmQw`

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-358 songs - 21 hr 21 min
+360 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [My Way](https://open.spotify.com/track/7mtnay1VGQQbtOM70HYsV0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [My Way](https://open.spotify.com/album/3n33udd6pKEdrzahdYzii0) | 2:44 | 2021-10-22 |  |
 | [Nerve 2 Reverse](https://open.spotify.com/track/6763lJFLsIJOppwlzL7p7J) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Nerve 2 Reverse](https://open.spotify.com/album/4capxiC9Eii5mA9tdmrcfP) | 2:06 | 2020-10-10\* | 2021-02-25 |
 | [Never Ending Game](https://open.spotify.com/track/6vs9JxGlmVZb2OKMpKTkMc) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 2:47 | 2021-02-25 | 2022-03-18 |
+| [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 | 2023-04-14 |  |
 | [nightmare](https://open.spotify.com/track/6xMTyQjHmwrufXT6W7VyCr) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [nightmare](https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2) | 2:54 | 2020-10-10\* | 2021-05-13 |
 | [No Eyes](https://open.spotify.com/track/32ABbnhfN5EYv24raxYXBg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:33 | 2021-06-12 |  |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-07-10 |  |
@@ -237,7 +238,7 @@
 | [Our Love](https://open.spotify.com/track/6j652760j2wctFstQmai4R) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Our Love](https://open.spotify.com/album/7CaFWcgWzWAE8ZwOszn6Og) | 3:09 | 2020-10-10\* | 2021-05-13 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2021-11-04 |  |
 | [Pacifier \- Remastered](https://open.spotify.com/track/5Zd74Pz4U7VZJLFCxWvBaA) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [The General Electric \(Remastered\)](https://open.spotify.com/album/7zHH0kIm7Kcj8dw4LRTMjn) | 4:03 | 2020-12-18 | 2022-03-18 |
-| [Parents Get High \(feat\. Meg Washington\)](https://open.spotify.com/track/5QEeJZYPCM0siUjXI6124P) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Meg Washington](https://open.spotify.com/artist/0pfPLVnegUuMnlFo1PPrWu) | [Parents Get High \(feat\. Meg Washington\)](https://open.spotify.com/album/6oeQwQvR0m31pt7FjxoHW8) | 3:12 | 2022-06-16 |  |
+| [Parents Get High \(feat\. Meg Washington\)](https://open.spotify.com/track/5QEeJZYPCM0siUjXI6124P) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Parents Get High \(feat\. Meg Washington\)](https://open.spotify.com/album/6oeQwQvR0m31pt7FjxoHW8) | 3:12 | 2022-06-16 |  |
 | [Party Ghost](https://open.spotify.com/track/72CCtQNYzdvIQHYbCHeD9n) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Party Ghost](https://open.spotify.com/album/2UHQxrTwRzVY1ZAfOHyDew) | 2:47 | 2022-04-28 |  |
 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 | 2020-10-10\* | 2021-05-13 |
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-07-31 |  |
@@ -350,6 +351,7 @@
 | [Weapons](https://open.spotify.com/track/38CuzyPnlcDIi2zLA33v9a) | [Villainy](https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe) | [Beggar EP](https://open.spotify.com/album/15Sk15EX96mIb7A2CkHe0m) | 2:28 | 2020-10-10\* | 2021-05-13 |
 | [What Do You Say?](https://open.spotify.com/track/049uE7zpFZXEKmEKnwfBei) | [DUAL](https://open.spotify.com/artist/4fgzUG6sFpomNM6sf4xOIV) | [Lately I Don't Know](https://open.spotify.com/album/6J8EUP1OEo2wDPmJ8gb7Wu) | 3:08 | 2021-02-25 | 2022-03-18 |
 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 | 2022-02-11 |  |
+| [Who Really Gets What They Want](https://open.spotify.com/track/4NVOFGJ607d2zJYcv4hv1M) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Who Really Gets What They Want](https://open.spotify.com/album/4KV71zjahmcWQZivu4ADPJ) | 3:01 | 2023-04-13 |  |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 |  |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 |  |
 | [Will Of The People](https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k) | 3:18 | 2022-06-03 |  |

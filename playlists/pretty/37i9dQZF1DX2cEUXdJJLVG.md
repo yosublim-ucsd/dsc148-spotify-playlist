@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,995 likes - 179 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,010 likes - 179 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 14 | [Call Me](https://open.spotify.com/track/0DMIyfegCv93GER37aHR4E) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Call Me](https://open.spotify.com/album/2EAoeBk0yH5I6kVMaXJCV0) | 3:18 |
 | 15 | [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 |
 | 16 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 |
-| 17 | [Vlinders](https://open.spotify.com/track/3WpfdqGPPhII9v111aGYH9) | [Koffie](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [Vlinders](https://open.spotify.com/album/3Vb3NvCS3zAw3blthDYl57) | 2:43 |
+| 17 | [Vlinders](https://open.spotify.com/track/3WpfdqGPPhII9v111aGYH9) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [Vlinders](https://open.spotify.com/album/3Vb3NvCS3zAw3blthDYl57) | 2:43 |
 | 18 | [Sweet Harmony](https://open.spotify.com/track/5xu8FPfSTx6ntNts4LmHli) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Sweet Harmony](https://open.spotify.com/album/6Vggx6TgQ31vR9BwUPdoIQ) | 3:02 |
 | 19 | [Amazing](https://open.spotify.com/track/37Atk9zfwLjfdCfgNOwqEX) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Amazing](https://open.spotify.com/album/5QgofZ3fgy3XQ4sWw9ZkuN) | 3:01 |
 | 20 | [philadelphia](https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [philadelphia](https://open.spotify.com/album/5P19jHuYj8fcWH9sc8HqPH) | 3:20 |

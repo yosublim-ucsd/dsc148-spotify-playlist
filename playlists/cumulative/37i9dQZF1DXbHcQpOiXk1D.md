@@ -2,7 +2,7 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Yazmin Lacey
+> The best from Britain's vibrant scene\. Cover: Venna + Knucks
 
 411 songs - 1 day 5 hr 45 min
 
@@ -132,7 +132,7 @@
 | [Force of habit](https://open.spotify.com/track/0iOGTkHMuybRjekjUn7804) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [Direct Intentions](https://open.spotify.com/album/7ij9KZp7VCc1MkoddXnZNx) | 4:05 | 2022-02-18 | 2022-07-21 |
 | [Forget](https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ) | 3:30 | 2022-07-28 | 2022-12-03 |
 | [Forget](https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/3YwwkGzEWWOOqZBkBeGPx8) | 3:30 | 2021-12-17 | 2022-07-24 |
-| [Forget](https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9) | 3:30 | 2022-12-02 |  |
+| [Forget](https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Forget](https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9) | 3:30 | 2022-12-02 | 2023-04-14 |
 | [Forward Thinker](https://open.spotify.com/track/5YPhQcKRbHaok12BRJ8VVZ) | [Nimbus Sextet](https://open.spotify.com/artist/2yrx2TtEe9HIC5GOZGLSLi), [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [Forward Thinker](https://open.spotify.com/album/7lD9gPz9WmLni0WfolYkQm) | 8:15 | 2022-05-26 | 2022-07-22 |
 | [Friday Film Special](https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Friday Film Special](https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv) | 4:09 | 2023-03-05 |  |
 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 | 2023-03-05 |  |
@@ -268,7 +268,7 @@
 | [Pace](https://open.spotify.com/track/6bfUKVbNibJV0sjzNNjgSM) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Pace](https://open.spotify.com/album/340BiN2LaaHYcWFmPbL15m) | 7:52 | 2021-12-17 | 2022-04-08 |
 | [Parx](https://open.spotify.com/track/6kvtgcW6JGMaCF5ZaYQ2K4) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Parx](https://open.spotify.com/album/6EpS69cy59Udje1XOk7Cyo) | 3:14 | 2022-03-24 | 2022-04-20 |
 | [Penrose](https://open.spotify.com/track/6FslAPFFw3TmvG5Oou82c8) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Penrose](https://open.spotify.com/album/2nL99KjAHR98dV6rncxYjT) | 3:22 | 2021-12-17 | 2022-06-26 |
-| [piano joint](https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG) | 2:55 | 2022-08-18 | 2023-04-09 |
+| [piano joint](https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG) | 2:55 | 2022-08-18 |  |
 | [piano joint](https://open.spotify.com/track/7bz6B6gqfRRiCI34j3JzCI) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/0sl4wd2G6qzT8viRkFWDXV) | 2:55 | 2022-02-18 | 2022-07-29 |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-09 |  |
 | [Pigalle](https://open.spotify.com/track/2wxTz9nx62j9usQRJDKZD8) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Wu Hen](https://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp) | 6:14 | 2021-12-17 | 2022-03-25 |

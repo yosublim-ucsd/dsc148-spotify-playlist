@@ -4694,7 +4694,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/5erXVUirf9qivKY5sJOanE"
@@ -4878,6 +4878,24 @@
       "duration_ms": 303426,
       "name": "Emojis de Corazones (feat. Los Legendarios)",
       "url": "https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr"
+    },
+    {
+      "album": {
+        "name": "Empaquetate",
+        "url": "https://open.spotify.com/album/1bp8haC2cNTtx82E7Um5A9"
+      },
+      "artists": [
+        {
+          "name": "Lil Jayankhalino",
+          "url": "https://open.spotify.com/artist/11Xlhy7USRNMJdOzFSIC2q"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109172,
+      "name": "Empaquetate",
+      "url": "https://open.spotify.com/track/02eH1A7NJknTsAD4nrYJQS"
     },
     {
       "album": {
@@ -6311,6 +6329,24 @@
     },
     {
       "album": {
+        "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "album": {
         "name": "Hey Chanty",
         "url": "https://open.spotify.com/album/789JJAQJ3JyAzEIF8sUmc0"
       },
@@ -7356,7 +7392,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 159392,
       "name": "La Compe",
       "url": "https://open.spotify.com/track/4vfKVkXbHwCTt2SGbwFks0"
@@ -10110,7 +10146,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 127139,
       "name": "Mi Flaca - Remix",
       "url": "https://open.spotify.com/track/3KvshDFG7oEN6MDVQI2NHD"
@@ -16300,7 +16336,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 195288,
       "name": "Tu Te Imagina",
       "url": "https://open.spotify.com/track/1c40YdqdefsVKppBN3ETgz"

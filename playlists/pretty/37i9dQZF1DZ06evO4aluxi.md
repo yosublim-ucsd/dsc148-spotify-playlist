@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,197 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,205 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 26 | [This Is My Father's World](https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:05 |
 | 27 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 |
 | 28 | [Angels](https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 4:12 |
-| 29 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
+| 29 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 |
 | 30 | [It Is Well With My Soul/The River's Gonna Keep On Rolling \- Medley](https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:54 |
 | 31 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
-| 32 | [Faithful \(feat\. Amy Grant\)](https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [No Matter What](https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V) | 3:50 |
+| 32 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
 | 33 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 |
 | 34 | [Carry You](https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Rock Of Ages...Hymns & Faith](https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi) | 3:00 |
 | 35 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 50 | [Find A Way](https://open.spotify.com/track/0szU1fWxpXgr47uB6ezphl) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 3:28 |
 | 51 | [Jesus, Take All Of Me \(Just As I Am\)](https://open.spotify.com/track/1Kkv4S73lfJkTcTyTnYIJh) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Hope: Songs Inspired By The Message And Mission Of Billy Graham](https://open.spotify.com/album/7HaZB4XQOdq1JEn17ImDGx) | 4:26 |
 
-Snapshot ID: `MjgwMjE2OTQsMDAwMDAwMDBiMDAzOTY4MWZhODBlOGQ1ZTYwYTg4MDRlN2ZiYjg0NA==`
+Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDA5OWMyM2M1MGIyNDA1YjczNmZhMTlhNzVlOGY4YzRkYw==`

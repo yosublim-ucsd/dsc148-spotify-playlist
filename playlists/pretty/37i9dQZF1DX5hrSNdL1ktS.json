@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 56043,
+  "num_followers": 56076,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDE2YTZkM2UxNzVlOWZmZTVlNWVlOTc0MDA4MWIzYjNm",
+  "snapshot_id": "MTY4MDg0NzIwMCwwMDAwMDAwMDQ2OTVjYThhOGI1MzUxNzY4YTk5OTViOWQ4ZWU1OWRm",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Tas Clara",
-        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Tas Clara",
-      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Dm",
         "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 184360,
       "name": "Dm",
       "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Tas Clara",
+        "url": "https://open.spotify.com/album/0aDeNiC4gF2YiviLce2bHc"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Tas Clara",
+      "url": "https://open.spotify.com/track/05NrsJfD2WNNK61zGmLbK2"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe"
     },
     {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Pereza",
+        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Pereza",
+      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
+    },
+    {
       "added_at": "2023-03-17 06:00:00",
       "album": {
         "name": "El Baile De Perrito",
@@ -1051,22 +1067,6 @@
       "duration_ms": 152000,
       "name": "El Baile De Perrito",
       "url": "https://open.spotify.com/track/6dAyTRWPA1AWMNwHOxKmn5"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Pereza",
-        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Pereza",
-      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
     },
     {
       "added_at": "2023-02-24 06:00:00",

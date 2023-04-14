@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 163663,
+  "num_followers": 163754,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDVjMmI2NTc4YTE4MGU3NWM3NzQzMDAyOGY1ODQ4ZmJi",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDhiOGQwMmQwZDZmMzNjYmRhY2ExMmQ4ZGRmNzZmODhi",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
-      },
-      "artists": [
-        {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Que Es La Que Hay",
-      "url": "https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 160979,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+      },
+      "artists": [
+        {
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Que Es La Que Hay",
+      "url": "https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Soy Tan Feliz",
         "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
       },
@@ -1535,38 +1551,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Veintiuno",
-        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 144155,
-      "name": "Veintiuno",
-      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
@@ -1587,6 +1571,42 @@
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Veintiuno",
+        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 144155,
+      "name": "Veintiuno",
+      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
+      },
+      "artists": [
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+        }
+      ],
+      "duration_ms": 188921,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1627,26 +1647,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
-      },
-      "artists": [
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        },
-        {
-          "name": "Abdi",
-          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
-        }
-      ],
-      "duration_ms": 188921,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Dios, Familia & Rap",
         "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 245039,
       "name": "Hay Algo",
       "url": "https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Flow Cristiano",
         "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
@@ -1707,6 +1707,22 @@
       "duration_ms": 210337,
       "name": "Flow Cristiano",
       "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1735,22 +1751,6 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Fronteamos Con Amor (Christian Ponce - Odanis BSK - Ander Bock)",
-        "url": "https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5"
-      },
-      "artists": [
-        {
-          "name": "Christian Ponce",
-          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
-        },
-        {
-          "name": "Ander Bock",
-          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
-        },
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 222564,
-      "name": "Fronteamos Con Amor",
-      "url": "https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
@@ -1851,6 +1827,30 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Fronteamos Con Amor (Christian Ponce - Odanis BSK - Ander Bock)",
+        "url": "https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5"
+      },
+      "artists": [
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        },
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        },
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 222564,
+      "name": "Fronteamos Con Amor",
+      "url": "https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c"
     },
     {
       "added_at": "2022-08-27 05:04:45",

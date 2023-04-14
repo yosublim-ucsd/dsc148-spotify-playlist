@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Chang Kiha\(장기하\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-467 songs - 1 day 4 hr 46 min
+468 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Police Class](https://open.spotify.com/track/0jdXQM3NDFpxLz1ZH4XvCK) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6GyojMQTX2rSgtNsYdyO8N) | 3:31 | 2022-04-12 | 2022-07-17 |
 | [Pricey Hangover](https://open.spotify.com/track/2KNiJbce5AFLO5B2dzV0EQ) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Pricey Hangover](https://open.spotify.com/album/4nL0tmcbgdh8ivz77MWgzQ) | 3:00 | 2023-01-06 | 2023-02-15 |
 | [Primal Wonder \(feat\. Raon\)](https://open.spotify.com/track/0dOzgfhTD2FYTcmli1L9dF) | [Jung Younggul](https://open.spotify.com/artist/1BIajInFmuelAAZ9HMwr7q), [Lee Jaekwang](https://open.spotify.com/artist/3cWKUrh99FFNyZYbFfcI0p), [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [DNF Duel : Who's Next \(Original Game Soundtrack\)](https://open.spotify.com/album/12W91XSniyWVxHfI24i5cD) | 4:03 | 2022-07-04 | 2022-07-09 |
+| [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 | 2023-04-05 |  |
 | [pueblo](https://open.spotify.com/track/2DxmlA2heg85pwLrdLp7Zy) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/3K2thE83a9qRwgBsW0NEqV) | 3:48 | 2022-04-21 | 2022-07-29 |
 | [Q](https://open.spotify.com/track/4R7w9EfMu20WHq1ZZ1kSlB) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [3/4](https://open.spotify.com/album/6ObXqxOsLFfzQ5mLCeOEM0) | 3:30 | 2022-04-22 | 2022-07-22 |
 | [Rain](https://open.spotify.com/track/1wF3cpRPZMCoHgM4iDh0DK) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [A New Journey](https://open.spotify.com/album/12Z2vK39UyWavZ6NpoK5ZH) | 3:23 | 2022-04-22 | 2022-06-15 |
@@ -350,7 +351,7 @@
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 |  |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
-| [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 |  |
+| [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2023-04-14 |
 | [sorry](https://open.spotify.com/track/54SuHqxVjZVNDyIUVpSgpJ) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:35 | 2022-04-12 | 2022-07-22 |
 | [sorry](https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:35 | 2023-01-06 |  |
 | [Sorry](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Sorry](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) | 3:35 | 2022-07-22 | 2023-01-04 |

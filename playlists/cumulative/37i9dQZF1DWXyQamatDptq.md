@@ -4,11 +4,12 @@
 
 > The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
-25 songs - 1 hr 1 min
+26 songs - 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Bad Behavior \- Mixed](https://open.spotify.com/track/3thgdRIcfdcYBka4DMnmyS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior \(Mixed\)](https://open.spotify.com/album/6R6EknXO3rbO9Qlxy2K30D) | 3:16 | 2022-06-01 |  |
+| [Bad Behavior \- Mixed](https://open.spotify.com/track/3thgdRIcfdcYBka4DMnmyS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Bad Behavior \(Mixed\)](https://open.spotify.com/album/6R6EknXO3rbO9Qlxy2K30D) | 3:16 | 2022-06-01 | 2023-04-14 |
+| [Bad Behavior \- Mixed](https://open.spotify.com/track/0Ay0gLxN2xqJWn9ad2ZYNP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Bad Behavior \(Mixed\)](https://open.spotify.com/album/4wVHqCpgUkm4WQPXqwdBwa) | 3:16 | 2023-04-13 |  |
 | [Be with U 2.0 \(feat\. Dajae\) \- Mixed](https://open.spotify.com/track/2qUzTwDxN65sQNzF23Jxar) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Be with U 2.0 \(feat\. Dajae\) \[Mixed\]](https://open.spotify.com/album/3VudNkXotiGaQ8s06Ht4Z6) | 1:28 | 2022-06-01 |  |
 | [D.Y.T\. \(Do Your Thing\) \- Mixed](https://open.spotify.com/track/1DvbTmm50bBCPuNT4yGX8i) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [D.Y.T\. \(Do Your Thing\) \[Mixed\]](https://open.spotify.com/album/1pMz7l4e7ZoYS3JIStD6mB) | 1:46 | 2022-10-31 |  |
 | [D.Y.T\. \(Do Your Thing\) \- Mixed](https://open.spotify.com/track/2uUgoo5vYmnGvzBd9KXnVT) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [D.Y.T\. \(Do Your Thing\) \[Mixed\]](https://open.spotify.com/album/35k8hoB8wlI1zW1oyB1LYi) | 1:46 | 2022-06-01 | 2022-11-01 |

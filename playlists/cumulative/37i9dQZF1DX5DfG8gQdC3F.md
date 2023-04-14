@@ -4,7 +4,7 @@
 
 > New music from Daniel Caesar, Drake, KAYTRAMINÉ, and Ellie Goulding.
 
-6,555 songs - 14 day 13 hr 44 min
+6,556 songs - 14 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,7 +1000,7 @@
 | [Catching Flies](https://open.spotify.com/track/1UMccHhxrlCNEMPb1aBLrB) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [Catching Flies](https://open.spotify.com/album/1UWLdY2I0smzCpnkzybKf0) | 3:05 | 2022-01-28 | 2022-02-05 |
 | [Cater](https://open.spotify.com/track/6itJR6bgCqET35rCJFnULf) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Cater](https://open.spotify.com/album/0BqROYpPqEkIGAerniqZNW) | 2:44 | 2022-04-29 | 2022-05-07 |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2022-05-06 | 2022-05-14 |
-| [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-07 |  |
+| [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 | 2023-04-07 |  |
 | [Caught Fire](https://open.spotify.com/track/2d9aUzBx4wzk6aZzsOxm3V) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Caught Fire](https://open.spotify.com/album/5fKXWOJJ9rdVgpDWGgB4NN) | 2:38 | 2023-01-20 | 2023-01-28 |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-05-13 | 2022-05-20 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-01-29 |
@@ -5839,7 +5839,8 @@
 | [Top of the World](https://open.spotify.com/track/4h8IM6C1V5qpwGH06HoCLx) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/7zhvHFalV8RxLw6MWYvyLB) | 2:37 | 2022-07-22 | 2022-07-30 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 | 2023-03-04 |
 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 3:07 | 2023-04-07 |  |
-| [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/3AvpyCAgied0ZUj2Y1nJey) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:37 | 2023-04-07 |  |
+| [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/3AvpyCAgied0ZUj2Y1nJey) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/6K8iyA4nnaFgQ1XGHB56An) | 4:37 | 2023-04-07 | 2023-04-14 |
+| [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 | 2023-04-07 |  |
 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 | 2022-12-02 | 2022-12-10 |
 | [Totally Fine](https://open.spotify.com/track/63bJzj2Wd9CTHAjLdJeiQN) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Totally Fine](https://open.spotify.com/album/47glTk9SL8PE4eNppGiNSf) | 3:43 | 2022-03-25 | 2022-04-02 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-04 | 2022-02-12 |

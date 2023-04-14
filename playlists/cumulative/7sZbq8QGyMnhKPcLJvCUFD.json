@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "094",
+        "url": "https://open.spotify.com/album/6WR24Wjp6Bm3I7VAeAxgX1"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120227,
+      "name": "094",
+      "url": "https://open.spotify.com/track/7v9aoBvujg2C7VanzsiAoY"
+    },
+    {
+      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/6Ij6LtpYwsQq797uaF64dv"
       },
@@ -366,6 +384,28 @@
       "duration_ms": 147598,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/39LleyvGIy48hCibZROiWD"
+    },
+    {
+      "album": {
+        "name": "Bad Habit - Phonk Version",
+        "url": "https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ja",
+          "url": "https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh"
+        },
+        {
+          "name": "Zaug",
+          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "Bad Habit (feat. Zaug) - Phonk Version",
+      "url": "https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM"
     },
     {
       "album": {
@@ -1486,6 +1526,24 @@
       "duration_ms": 215510,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc"
+    },
+    {
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/1Rt7712yU4yZ2P9JIleO8c"
+      },
+      "artists": [
+        {
+          "name": "Alex Skrindo",
+          "url": "https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186653,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/3WoScc1NUyA2baArEoSkxX"
     },
     {
       "album": {

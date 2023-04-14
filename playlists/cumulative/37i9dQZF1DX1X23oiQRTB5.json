@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Werenoi et Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 182000,
       "name": "3 singes",
       "url": "https://open.spotify.com/track/4HllqyOknEOEwq7bZuhDW7"
@@ -420,6 +420,24 @@
       "duration_ms": 179386,
       "name": "CANADA",
       "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
+    },
+    {
+      "album": {
+        "name": "ALPHA (Parties 1 & 2)",
+        "url": "https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155920,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV"
     },
     {
       "album": {
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 205626,
       "name": "Ing\u00e9 son",
       "url": "https://open.spotify.com/track/2kJeLSnGbiFN6j2nARWhzU"
@@ -1500,6 +1518,24 @@
       "duration_ms": 244040,
       "name": "La Force Tranquille",
       "url": "https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG"
+    },
+    {
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz"
     },
     {
       "album": {

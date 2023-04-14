@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa Queens in their music bag
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,557 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,556 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 2 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 |
 | 3 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 |
 | 4 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 |
-| 5 | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/track/3pnbWpwpvO2SFCp0nmxWW2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7) | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/album/1pTFzkawyvwa9fQ6KR8c2l) | 3:53 |
-| 6 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
-| 7 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 |
-| 8 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 |
-| 9 | [Sepa](https://open.spotify.com/track/2DX696tkiXR8x4BlPrjVSP) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Sepa](https://open.spotify.com/album/79bqeBFrIvVCYcJgLXV1Ml) | 3:04 |
-| 10 | [Bayi](https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:19 |
-| 11 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 |
-| 12 | [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 |
-| 13 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 |
-| 14 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 |
+| 5 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 |
+| 6 | [Sepa](https://open.spotify.com/track/2DX696tkiXR8x4BlPrjVSP) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Sepa](https://open.spotify.com/album/79bqeBFrIvVCYcJgLXV1Ml) | 3:04 |
+| 7 | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/track/3pnbWpwpvO2SFCp0nmxWW2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7) | [Mama Ni Mama \(feat\. Stamina\)](https://open.spotify.com/album/1pTFzkawyvwa9fQ6KR8c2l) | 3:53 |
+| 8 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 |
+| 9 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 |
+| 10 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 |
+| 11 | [Bayi](https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR) | [Apio Moro](https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj) | [Choore](https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH) | 3:19 |
+| 12 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 |
+| 13 | [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 |
+| 14 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 |
 | 15 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 |
 | 16 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 |
 | 17 | [Want It All](https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:04 |
@@ -61,12 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 51 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 |
 | 52 | [Ndaga](https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy) | [Irene Ntale](https://open.spotify.com/artist/1jDjOhgibO7KheCwzZ1W5W) | [Ndaga](https://open.spotify.com/album/3rKkCRAuaWHPOZF07ds6H7) | 3:12 |
 | 53 | [Praises to Mama](https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX) | [Praises to Mama](https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH) | 4:10 |
-| 54 | [Unanikosha](https://open.spotify.com/track/6gHk7bjniGrFzZeIWuut7t) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Unanikosha](https://open.spotify.com/album/3O0zOnmqZcMapWxGooBzVu) | 3:02 |
-| 55 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 |
-| 56 | [Bella Ciao](https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al), [Kriminell Kunst](https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC) | [Bella Ciao](https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw) | 3:28 |
-| 57 | [HIGH](https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo) | [Mwiyeria Ess](https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im) | [HIGH](https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt) | 3:59 |
-| 58 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 |
-| 59 | [Love](https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 1:55 |
-| 60 | [Where \(Has the Time Gone\)](https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Where \(Has the Time Gone\)](https://open.spotify.com/album/6JwEB4ctGyzJis0UAZwQFC) | 2:22 |
+| 54 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 |
+| 55 | [Bella Ciao](https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle) | [Izabell](https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al), [Kriminell Kunst](https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC) | [Bella Ciao](https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw) | 3:28 |
+| 56 | [HIGH](https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo) | [Mwiyeria Ess](https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im) | [HIGH](https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt) | 3:59 |
+| 57 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 |
+| 58 | [Love](https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 1:55 |
+| 59 | [Where \(Has the Time Gone\)](https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Where \(Has the Time Gone\)](https://open.spotify.com/album/6JwEB4ctGyzJis0UAZwQFC) | 2:22 |
 
-Snapshot ID: `MTY4MDIxMzU0MCwwMDAwMDAwMDA1MWI3NWEyMmMzOGI1MWNjNTMxMjE1ZWRjMjA5NjQx`
+Snapshot ID: `MTY4MTQyMzE0MCwwMDAwMDAwMDZmMDY1ZWMzMDRiNWJjYzgwOGMyMzViNTQ4NmUyMjBk`

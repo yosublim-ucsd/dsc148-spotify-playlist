@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 15608,
+  "num_followers": 15643,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDQzYWQ2NTIzOWU3MmU1ZWE0YmFmN2YzYTFlNWMwOWQ3",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDc2MmM2YjllYThkNTEyYzg4OTBjZWNkNTlhMDljZDAw",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves",
+        "url": "https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Cl\u00e1sico",
+          "url": "https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0"
+        }
+      ],
+      "duration_ms": 312440,
+      "name": "Se\u00f1ora Ley (En Vivo)",
+      "url": "https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 435640,
       "name": "Anacaona - Live",
       "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves",
-        "url": "https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Cl\u00e1sico",
-          "url": "https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0"
-        }
-      ],
-      "duration_ms": 312440,
-      "name": "Se\u00f1ora Ley (En Vivo)",
-      "url": "https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
-        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        },
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Llorar\u00e1s - Live",
-      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Live At The Red Garter, Vol. 1",
         "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 320000,
       "name": "Sabor Sabor - Live",
       "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
+        "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 273053,
+      "name": "Llorar\u00e1s - Live",
+      "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "En Vivo Desde Bellas Artes",
         "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 489853,
       "name": "Pedro Navaja - Live",
       "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Qui\u00e9reme Tal Como Soy - Live",
+      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Red Garter, Vol. 1",
         "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 497080,
       "name": "Me Gusta El Son - Live",
       "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Qui\u00e9reme Tal Como Soy - Live",
-      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
     }
   ],
   "unique_name": "Vivo de Salsa",

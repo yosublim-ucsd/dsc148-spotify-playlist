@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
@@ -3746,6 +3746,24 @@
       "duration_ms": 265659,
       "name": "Gueta",
       "url": "https://open.spotify.com/track/5pvFJSec5bmKEpd2Tqs9nn"
+    },
+    {
+      "album": {
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "Gun Metal Grey",
+      "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
     },
     {
       "album": {
@@ -6287,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "Octopus",
+        "url": "https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Moody Cumbia",
+      "url": "https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg"
+    },
+    {
+      "album": {
         "name": "Strange Salsa",
         "url": "https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC"
       },
@@ -6298,7 +6334,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 216053,
       "name": "Moody Cumbia",
       "url": "https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9"
@@ -8592,10 +8628,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 199000,
       "name": "Strange Salsa",
       "url": "https://open.spotify.com/track/0okqpwxuF4EJSr9hJU5I2s"
+    },
+    {
+      "album": {
+        "name": "Octopus",
+        "url": "https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Strange Salsa",
+      "url": "https://open.spotify.com/track/5rY0jz5hn116hBXLA1SaNn"
     },
     {
       "album": {

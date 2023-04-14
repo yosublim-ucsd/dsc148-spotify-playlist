@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-596 songs - 1 day 9 hr 37 min
+597 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,8 @@
 | [Wake Up](https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT I & II](https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb) | 3:36 | 2022-10-07 | 2022-11-02 |
 | [Wake Up](https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [American Bollywood](https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd) | 3:36 | 2022-11-25 | 2023-01-21 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-07-16 |
-| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-02-03 |  |
+| [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-04-10 |  |
+| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-02-03 | 2023-04-14 |
 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 | 2022-03-04 | 2022-04-29 |
 | [Warriors](https://open.spotify.com/track/5dq7kJxJRIWsu39gvp6DKz) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Warriors](https://open.spotify.com/album/4I61bW3dyG0G4FgmLwjXmg) | 3:34 | 2022-09-30 |  |
 | [Washed Away](https://open.spotify.com/track/4F5tbFtORseJ6Vbemsn4vG) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Washed Away](https://open.spotify.com/album/6MI2S0SLN6rKzdYr8uBVTB) | 3:20 | 2022-04-08 | 2022-05-20 |

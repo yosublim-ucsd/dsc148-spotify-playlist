@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Drake, Tyler, The Creator, Quavo, BIA, FLO and more
 
-130 songs - 6 hr 53 min
+131 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-06-16 | 2023-02-25 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-19 |  |
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-29 |  |
+| [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-13 |  |
 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 | 2022-06-16 | 2022-08-13 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-06-16 | 2022-09-23 |
 | [The Tide](https://open.spotify.com/track/3uSnyCaLs94M79p9geKQB9) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Tide](https://open.spotify.com/album/62mLvwdzz9Go4flQF8Xqcc) | 3:56 | 2023-03-31 |  |
@@ -136,7 +137,7 @@
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-06-16 | 2022-08-27 |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 |  |
 | [WTF](https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [WTF](https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV) | 3:05 | 2022-08-19 | 2022-12-02 |
-| [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 | 2023-03-03 |  |
+| [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 | 2023-03-03 | 2023-04-14 |
 | [ZOZA](https://open.spotify.com/track/4zKMMryM7cPyMDvgCPPheB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [ZOZA](https://open.spotify.com/album/0oOxh5ffZn4Gq7Jvxeey3o) | 6:34 | 2022-06-16 | 2022-07-15 |
 
 \*This playlist was first scraped on 2022-06-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-98 songs - 5 hr 41 min
+99 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 | 2022-11-11 |  |
 | [Natuurlijk](https://open.spotify.com/track/2BqSwsKNtp7gTAmH479Jmj) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Natuurlijk](https://open.spotify.com/album/4NUMUE1zC63L8XIndUip2e) | 2:49 | 2022-09-15 |  |
+| [Northern Light](https://open.spotify.com/track/69SwdjtbmBzYydkiBt3S37) | [Ambienne](https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu) | [Northern Light](https://open.spotify.com/album/3NlOEPotM8PvsQxk18eOhP) | 2:18 | 2023-04-13 |  |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2022-09-15 |  |
-| [Paddling](https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Paddling](https://open.spotify.com/album/51MINJirySns0EC825x26Y) | 4:01 | 2022-09-15 |  |
+| [Paddling](https://open.spotify.com/track/6ArermgdPUH5Iu4ZXG9QgN) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Paddling](https://open.spotify.com/album/51MINJirySns0EC825x26Y) | 4:01 | 2022-09-15 | 2023-04-14 |
 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/018IBzMQ9x0xR6nC3sld9Z) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/0DUA9cfK1KPrAesBQzzG7A) | 1:24 | 2022-09-30 |  |
 | [Paterson's Curse](https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Forest Sleep](https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN) | 4:38 | 2022-09-15 |  |
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 |  |

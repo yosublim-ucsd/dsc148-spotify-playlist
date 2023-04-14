@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 232751,
+  "num_followers": 233009,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMGMyNTAxYzRjNzE0ZWQ3NWI1MGQxNDk3ZmJhMWM3ZTQ2",
+  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMGVmMGZkNDBlZjU0MGNhNmRmNDg0M2ExMTczMmE1ODY1",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 113066,
-      "name": "(Ummmm, Oh Yeah) Dearest",
-      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Voice of Scott McKenzie (Expanded Edition)",
         "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 178933,
       "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
       "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 113066,
+      "name": "(Ummmm, Oh Yeah) Dearest",
+      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Platinum - A Life In Music",
-        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Are You Lonesome Tonight?",
-      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Wish It Would Rain",
-        "url": "https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l"
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 162706,
-      "name": "I Wish It Would Rain",
-      "url": "https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT"
+      "duration_ms": 186666,
+      "name": "Are You Lonesome Tonight?",
+      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1251,6 +1235,22 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Wish It Would Rain",
+        "url": "https://open.spotify.com/album/5tFgvH6VNLadFVjFfo0F7l"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/1tjpccwiGZTMDfHr5VGCmT"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Sings Top Ten",
         "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 178440,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
         }
       ],
-      "duration_ms": 190480,
-      "name": "What the World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
+      "duration_ms": 149973,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/3CL1hC6obi44Z6dZqhrDUA"
       },
       "artists": [
         {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 149973,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
+      "duration_ms": 190480,
+      "name": "What the World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/4GipxMgLhzh1cFW5U1HH6t"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Anyone Who Had a Heart",
-        "url": "https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Anyone Who Had a Heart",
-      "url": "https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1725,20 +1709,20 @@
       "url": "https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG"
     },
     {
-      "added_at": "2022-09-12 04:55:49",
+      "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Essential Elvis Presley",
-        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+        "name": "Anyone Who Had a Heart",
+        "url": "https://open.spotify.com/album/6wdZ2YwGsOGmhlrmlglpsc"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 189373,
-      "name": "If I Can Dream - Stereo Mix",
-      "url": "https://open.spotify.com/track/1UFC110Pt7YQsgeDbmllyx"
+      "duration_ms": 184226,
+      "name": "Anyone Who Had a Heart",
+      "url": "https://open.spotify.com/track/2BQZvZsA9SRafvWEBSQnri"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1755,6 +1739,22 @@
       "duration_ms": 252146,
       "name": "Honey (I Miss You)",
       "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
+    },
+    {
+      "added_at": "2022-09-12 04:55:49",
+      "album": {
+        "name": "The Essential Elvis Presley",
+        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "If I Can Dream - Stereo Mix",
+      "url": "https://open.spotify.com/track/1UFC110Pt7YQsgeDbmllyx"
     },
     {
       "added_at": "2022-05-30 13:00:37",

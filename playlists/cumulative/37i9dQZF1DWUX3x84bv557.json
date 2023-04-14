@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "MEAU (Spotify <a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest) op de cover van d\u00e9 Nederpop playlist",
+  "description": "FLEMMING op de cover van d\u00e9 Nederpop playlist",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 227000,
       "name": "Alles Beweegt",
       "url": "https://open.spotify.com/track/65z7C8iBVk8V2v4e0lP0AH"
+    },
+    {
+      "album": {
+        "name": "Als Alles Wegvalt",
+        "url": "https://open.spotify.com/album/6gdAvpnRN6VPdknvgSNyID"
+      },
+      "artists": [
+        {
+          "name": "Glen Faria",
+          "url": "https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206378,
+      "name": "Als Alles Wegvalt",
+      "url": "https://open.spotify.com/track/4dcu7nIDBIYVDFXWtd5cf1"
     },
     {
       "album": {
@@ -461,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Blind Vertrouwen",
+        "url": "https://open.spotify.com/album/77ibYjdivlUQtWaN7zX4uB"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Blind Vertrouwen",
+      "url": "https://open.spotify.com/track/2IEaJNKgkMRCh4OGnATrPU"
+    },
+    {
+      "album": {
         "name": "JASHA",
         "url": "https://open.spotify.com/album/62yL091McwilAh3iu3vJWj"
       },
@@ -515,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Dans Alleen",
+        "url": "https://open.spotify.com/album/7avUGmXbUaHSps49aQ0Zyo"
+      },
+      "artists": [
+        {
+          "name": "Tomson",
+          "url": "https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211188,
+      "name": "Dans Alleen",
+      "url": "https://open.spotify.com/track/0KRhxFEfJP8R4Q8dmVsjaV"
+    },
+    {
+      "album": {
         "name": "Dansen Met De Duivel",
         "url": "https://open.spotify.com/album/68dqPyXfLPlwgbfZgdNtsM"
       },
@@ -548,6 +602,28 @@
       "duration_ms": 177650,
       "name": "Dansen Met Het Licht Uit",
       "url": "https://open.spotify.com/track/7E3Lo5lZo50eddRleg6y6Q"
+    },
+    {
+      "album": {
+        "name": "Dat Kan Je Niet Kopen",
+        "url": "https://open.spotify.com/album/1OhO6YPOWCLiGFBM3PcYes"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178541,
+      "name": "Dat Kan Je Niet Kopen",
+      "url": "https://open.spotify.com/track/4txaS5BTlGIlUNFmWef230"
     },
     {
       "album": {
@@ -1191,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "F*** DE REST EN SHAKE",
+        "url": "https://open.spotify.com/album/1zi0saa4UIsGpKSf954TxW"
+      },
+      "artists": [
+        {
+          "name": "Roos Blufpand",
+          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "IK BEN VAN MIJ",
+      "url": "https://open.spotify.com/track/72QbBvixoNmR87a88o8Ast"
+    },
+    {
+      "album": {
         "name": "Ik Ben Vrij",
         "url": "https://open.spotify.com/album/6mK9STMoJ4CuVZLEbCZS8J"
       },
@@ -1630,6 +1724,24 @@
       "duration_ms": 199639,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/7xcuQ0m5rSUgrjh2YVTUz4"
+    },
+    {
+      "album": {
+        "name": "Meisje Van December",
+        "url": "https://open.spotify.com/album/6yJtY0dw0dKTbyyRHBCECz"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170452,
+      "name": "Meisje Van December",
+      "url": "https://open.spotify.com/track/6nNPd6Lpv9eSffqn5P9sJk"
     },
     {
       "album": {
@@ -2161,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Rommel",
+        "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Rommel",
+      "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
+    },
+    {
+      "album": {
         "name": "Rood Licht",
         "url": "https://open.spotify.com/album/4rbf6xcKq8hya8XBAw9PWi"
       },
@@ -2587,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Vanavond",
+        "url": "https://open.spotify.com/album/3zVBZc4iHYE1LdeNXbjbiB"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "Vanavond",
+      "url": "https://open.spotify.com/track/1sozmK1WTAKOVKzIAPTH5v"
+    },
+    {
+      "album": {
         "name": "Ver Van Huis",
         "url": "https://open.spotify.com/album/2pXbiUAJ6gbNNjHOy7qFcM"
       },
@@ -2606,6 +2754,24 @@
       "duration_ms": 201742,
       "name": "Ver Van Huis",
       "url": "https://open.spotify.com/track/1RkGMhN4VLb0fiytr7EodW"
+    },
+    {
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
       "album": {
@@ -2722,6 +2888,24 @@
       "duration_ms": 190454,
       "name": "Vuur = Blauw",
       "url": "https://open.spotify.com/track/3IVW3imj7fGBxLDXEU3uNZ"
+    },
+    {
+      "album": {
+        "name": "Waarom",
+        "url": "https://open.spotify.com/album/3fcUz2SzycRa0vTdhZmzkc"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Lewis",
+          "url": "https://open.spotify.com/artist/3EvvEKfqpNkGpLxoszZRfg"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Waarom",
+      "url": "https://open.spotify.com/track/3rg3zR2N2KWWyvpGUo78f6"
     },
     {
       "album": {

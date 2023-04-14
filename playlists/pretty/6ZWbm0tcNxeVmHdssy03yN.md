@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,837 likes - 95 songs - 4 hr 54 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 34,854 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 9 | [SECLUDED](https://open.spotify.com/track/3M8r20wSe6oA4LivnNRuRu) | [Kuma the Third](https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1) | [SECLUDED](https://open.spotify.com/album/3KVRO1zMXyMFaPXVcZB8lH) | 1:46 |
 | 10 | [rodman \- live in concert](https://open.spotify.com/track/2shx0bEKBgl8Ps7YFafrSb) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [rodman \(live in concert\)](https://open.spotify.com/album/5odGiho50IrQUc9kAxSNCR) | 3:30 |
 | 11 | [luvluv](https://open.spotify.com/track/25hGXqObKLQhIXyD7RN5Sh) | [Cap Carter](https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV) | [luvluv](https://open.spotify.com/album/5KM5c4Df7OSiSD0Pg8e6HP) | 3:11 |
-| 12 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/4UThAkJdbDOcmxGfeCtrNd) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 |
+| 12 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 |
 | 13 | [I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.](https://open.spotify.com/track/5YlUuBa1ksvlWjqI9Uqmhu) | [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US) | [I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.](https://open.spotify.com/album/6JfAaVEfkuNVR4pOnGg3mB) | 2:03 |
 | 14 | [Sunlight](https://open.spotify.com/track/4EcwMo2GVEk8p2tpam48Zs) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF) | [Sunlight](https://open.spotify.com/album/7siWf41TlTJcQjBRP4TP3q) | 4:52 |
 | 15 | [Vente para acá](https://open.spotify.com/track/0d7VLh6WYN2OzHSiYXv7hz) | [La Klinkert](https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx) | [Vente para acá](https://open.spotify.com/album/7zm2SENdcDbJ3S8UINxOmx) | 2:36 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 49 | [Bracing](https://open.spotify.com/track/6cliZq0DpmY6QE6tUlvqjO) | [169](https://open.spotify.com/artist/39YXk0KLGQwWNHIAkrQngR), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [Bracing](https://open.spotify.com/album/78JmFCHC0q0NyahoLLb7G9) | 3:03 |
 | 50 | [Drop Music More](https://open.spotify.com/track/7upUPxvWCGyJkE380lmhQS) | [Hakkz](https://open.spotify.com/artist/1D7I4dxMMjjxxwpO90ezb1) | [Drop Music More](https://open.spotify.com/album/7vNe6TjIUiozhQZWczEJc8) | 2:34 |
 | 51 | [Money & Fame](https://open.spotify.com/track/3d3pocp0zwU4jDgJ9zAEN4) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [Juvie](https://open.spotify.com/artist/3rImvpEhHXqXGm5lBdfVMX) | [Money & Fame](https://open.spotify.com/album/6mw9MvqCxZfADuzZ8e9VzY) | 2:37 |
-| 52 | [Cold Winter](https://open.spotify.com/track/2hLEFNNg0gxXRWmqsHs5nd) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu), [Joe Black](https://open.spotify.com/artist/6LIBU3L57n0RoGjrjOrmIM) | [Cold Winter](https://open.spotify.com/album/04IF7HLBwawnRx2pPHonK9) | 4:00 |
+| 52 | [Cold Winter](https://open.spotify.com/track/2hLEFNNg0gxXRWmqsHs5nd) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Joe Black](https://open.spotify.com/artist/6LIBU3L57n0RoGjrjOrmIM), [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu) | [Cold Winter](https://open.spotify.com/album/04IF7HLBwawnRx2pPHonK9) | 4:00 |
 | 53 | [Veronica](https://open.spotify.com/track/7dqmmHDo6QHAap0tC5biXF) | [Cliché Cult](https://open.spotify.com/artist/0wIIaLPfQvlqIFgGjD0lXA) | [Veronica](https://open.spotify.com/album/47txItXyBs0a2gcXTWEXXg) | 3:21 |
 | 54 | [Water](https://open.spotify.com/track/5ccRwSXDmHV8U4ZQXQwWiP) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Water](https://open.spotify.com/album/0j7UB9CZTBWWH3jhwsb9Vx) | 3:24 |
 | 55 | [La cumbia del velorio](https://open.spotify.com/track/6nF4nfhZlzLxUPNrW8ZB5m) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon) | [La cantimplora](https://open.spotify.com/album/5GhGrKABQaaGgUHisH2SZM) | 8:29 |

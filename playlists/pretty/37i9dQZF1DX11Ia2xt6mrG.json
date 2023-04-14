@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr. Pig en portada.",
-  "num_followers": 54202,
+  "num_followers": 54215,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYwMjY3NywwMDAwMDAwMDI5ZTQzNWU1OWIzZDg1Y2IwYjlmZjgzNGU3ZWY1N2Qw",
+  "snapshot_id": "MTY3OTYwMjY3NywwMDAwMDAwMDkyODMwZDNlMzYzYzlhNWE0NDYwZWM5NjY2MzY2MzJk",
   "tracks": [
     {
       "added_at": "2023-03-17 16:50:35",
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3KFjNp9m5fDzNpmoBkndMq"
     },
     {
-      "added_at": "2023-04-13 01:11:57",
+      "added_at": "2023-04-14 00:58:57",
       "album": {
         "name": "San Junipero",
         "url": "https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV"
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Playa",
-        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Iskander",
-          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 252579,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Playa",
+        "url": "https://open.spotify.com/album/4SHQVKPxQEJuI2B48pKBSH"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Iskander",
+          "url": "https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/4M5am73tsBXelZtBFtdJU3"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -799,30 +799,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Keep It Dope",
-          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
-        },
-        {
-          "name": "Priscila",
-          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
-        }
-      ],
-      "duration_ms": 211903,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -883,22 +859,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
-      },
-      "artists": [
-        {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "This Generation",
         "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
       },
@@ -911,6 +871,46 @@
       "duration_ms": 172800,
       "name": "This Generation",
       "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Keep It Dope",
+          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
+        },
+        {
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
+        }
+      ],
+      "duration_ms": 211903,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx"
-      },
-      "artists": [
-        {
-          "name": "Artelax",
-          "url": "https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Eunoia",
         "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 428000,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx"
+      },
+      "artists": [
+        {
+          "name": "Artelax",
+          "url": "https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3"
     },
     {
       "added_at": "2022-08-02 18:48:01",

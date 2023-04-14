@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,142 songs - 5 day 3 hr 7 min
+2,143 songs - 5 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Ashes](https://open.spotify.com/track/0KnoUvqj6W5SsE6vqqyzqO) | [Olivoix](https://open.spotify.com/artist/5dkV7cKtTnT8ZWWKC0SOKR) | [GODDESS the EP](https://open.spotify.com/album/6r3U5CbZ0n6IdVQ5WTNm8g) | 4:15 | 2022-04-08 | 2022-04-24 |
 | [astroman](https://open.spotify.com/track/0VrdyHqdN8ybOgz64DMWKN) | [Zimri](https://open.spotify.com/artist/2E75OsKarvMnuMwNScEkpW) | [astroman](https://open.spotify.com/album/3yIpwCXIrs6jM0BWhmbwMx) | 2:21 | 2022-03-13 | 2022-03-31 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 | 2021-07-11 |  |
+| [ATTICS](https://open.spotify.com/track/1teIYf42bX3jT3lpPn5KKd) | [Diana Bidea](https://open.spotify.com/artist/0jxlc4VvGS9CXhDgJRtXmW) | [ATTICS](https://open.spotify.com/album/1x7LWVx6wowoOFcbpImeEy) | 3:16 | 2023-04-13 |  |
 | [Attitude](https://open.spotify.com/track/5Q1ehXqFNBfWbGDXIGw6Pv) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Attitude](https://open.spotify.com/album/6b2aFLcRgVfz0vImU7sASa) | 2:01 | 2021-10-12 | 2021-10-28 |
 | [August 12th](https://open.spotify.com/track/45EmPoTxkIXNve1jm7oRTE) | [Night Teacher](https://open.spotify.com/artist/5XboTqSD1RnWR5vkwsHxDt) | [Night Teacher](https://open.spotify.com/album/4EKTpwT5LQlRz4UQ7ULk8v) | 4:44 | 2020-10-08 | 2020-11-03 |
 | [Automatic](https://open.spotify.com/track/3gNQI9R500NNl22I0u91Hb) | [Solobody](https://open.spotify.com/artist/0MQfamWSdzunSS7mKlAgdi) | [Automatic](https://open.spotify.com/album/13iooceqMVCp1VogO2p54W) | 3:47 | 2023-01-26 | 2023-02-26 |

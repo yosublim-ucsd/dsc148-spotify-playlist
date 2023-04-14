@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 12101,
+  "num_followers": 12126,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1Mzg2NSwwMDAwMDAwMDA3ZDA1ZDJiZWMzZDE1NmMzODhkNDYxMDljMDJiNjlj",
+  "snapshot_id": "MTY4MDc1Mzg2NSwwMDAwMDAwMGMzYzc0MGU3YmMxM2JhNWVhNzAzYTZiZWZjYTA0NTli",
   "tracks": [
     {
       "added_at": "2023-04-06 04:04:25",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Kitsch",
-        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -219,18 +203,34 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "KILL THIS LOVE",
-        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 191050,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
         "name": "COUP D'ETAT",
         "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
@@ -295,6 +311,22 @@
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "What Type of X",
+        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "What Type of X",
+      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -323,8 +355,8 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+        "name": "The Most Beautiful Moment in Life Pt.1",
+        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
       },
       "artists": [
         {
@@ -332,41 +364,9 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 203351,
-      "name": "Burning Up (Fire)",
-      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
-        "name": "What Type of X",
-        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "What Type of X",
-      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Pretty Savage",
-      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+      "duration_ms": 240020,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
-        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 180320,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -419,50 +419,18 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
+        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 200680,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
-        "name": "The Most Beautiful Moment in Life Pt.1",
-        "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Dope",
-      "url": "https://open.spotify.com/track/7jPCPDYoiaKeK7cgNGpIzq"
+      "duration_ms": 180320,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -487,6 +455,22 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
@@ -499,6 +483,38 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -607,42 +623,6 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 235779,
-      "name": "Go Go",
-      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -671,6 +651,42 @@
       "duration_ms": 173960,
       "name": "Freaky (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+    },
+    {
+      "added_at": "2023-04-06 04:04:25",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -707,18 +723,18 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "SOLO DAY",
+        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
         }
       ],
-      "duration_ms": 217595,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+      "duration_ms": 199040,
+      "name": "SOLO DAY",
+      "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -735,22 +751,6 @@
       "duration_ms": 216806,
       "name": "HeartBROKEN PlaYBoY",
       "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
-    },
-    {
-      "added_at": "2023-04-06 04:04:25",
-      "album": {
-        "name": "SOLO DAY",
-        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "SOLO DAY",
-      "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
     },
     {
       "added_at": "2023-04-06 04:04:25",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-04-06 04:04:25",
       "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+        "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
+        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
         }
       ],
-      "duration_ms": 235624,
-      "name": "Miss Korea",
-      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
+      "duration_ms": 193200,
+      "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
+      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
     },
     {
       "added_at": "2023-04-06 04:04:25",

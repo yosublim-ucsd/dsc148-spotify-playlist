@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-334 songs - 17 hr 9 min
+336 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Buscando](https://open.spotify.com/track/57MvDY3DeE9Iz7MtW7CI8n) | [Lidia Peralta](https://open.spotify.com/artist/7uzvpSnBNJJABrXvCNKy80) | [Buscando](https://open.spotify.com/album/5nDBzOcYoN9cvUvjsqMmCn) | 2:25 | 2022-05-25 |  |
 | [Call to Rest](https://open.spotify.com/track/7FpuImiEfUmOWKKi4UyO9y) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Alert Reducer](https://open.spotify.com/album/0UcleaRv1AYTdADvHWRaXl) | 4:36 | 2022-05-25 | 2023-04-07 |
 | [Calm Dreams](https://open.spotify.com/track/6nlpDEKjy3VecZrhmaCV27) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Serenities](https://open.spotify.com/album/0wtat5gtD4pBOzLTJVBEIg) | 3:50 | 2022-05-25 |  |
+| [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 | 2023-04-14 |  |
 | [Calming Quality](https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Calming Quality](https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2) | 3:18 | 2023-03-09 |  |
 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 | 2022-05-25 |  |
 | [Cianalas](https://open.spotify.com/track/4kLNF1BFyLnJ3sQjcS7Rqm) | [Cadhla Byrne](https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1) | [Cianalas](https://open.spotify.com/album/0gArimZ25shLa9v1Y2CYVi) | 2:45 | 2022-05-25 |  |
@@ -258,6 +259,7 @@
 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 | 2022-05-25 |  |
 | [Semblance of Reality](https://open.spotify.com/track/35i1Xb0oSslrXF1KT51IdK) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Frangibility](https://open.spotify.com/album/1m9rG3JBXxgzopcnfh3oTX) | 3:22 | 2022-05-25 | 2022-09-03 |
 | [Senses](https://open.spotify.com/track/6RPK5949LC9dFh7ryREN17) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 2:28 | 2022-05-25 | 2022-09-28 |
+| [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 |  |
 | [Serene Clarity](https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Serene Clarity](https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8) | 2:19 | 2023-01-20 |  |
 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 | 2022-05-25 | 2022-09-28 |
 | [Serenity](https://open.spotify.com/track/31eJBMnqWEXV3V1YyjP8RT) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Serenity](https://open.spotify.com/album/7bj8tEfuvbhZBgAFhSErLE) | 2:50 | 2023-02-03 |  |

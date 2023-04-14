@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4UikUDx3HNDM1NEqNaJnGE"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "I Want to Hear You Sing",
+      "url": "https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk"
+    },
+    {
+      "album": {
         "name": "I'm Gonna Find Another You (Live)",
         "url": "https://open.spotify.com/album/7zMaRH93VljgYVf7XGSW93"
       },
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 226250,
       "name": "I'm Gonna Find Another You - Live",
       "url": "https://open.spotify.com/track/2vjhG0Cd33rlbXkq7D0ThC"

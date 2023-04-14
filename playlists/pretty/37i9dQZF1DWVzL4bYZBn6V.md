@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,314 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,365 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 36 | [Feel This Way](https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [Feel This Way](https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y) | 2:54 |
 | 37 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
 | 38 | [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 |
-| 39 | [Bailalo \- Radio Edit](https://open.spotify.com/track/6rzG1q2gQ4kUtK1OUT4sIY) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Styline](https://open.spotify.com/artist/0DfXOhUve7dNuy34H95vqS) | [Bailalo \(Radio Edit\)](https://open.spotify.com/album/5pgbDyU2hrE9eX01HGKUNj) | 3:01 |
-| 40 | [Lost in Your Eyes \(Radio Edit\) \[feat\. Norka\]](https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP) | [Oscar Troya](https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq), [Norka](https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1) | [Lost in Your Eyes \(Radio Edit\) \[feat\. Norka\]](https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq) | 4:17 |
+| 39 | [Lost in Your Eyes \(Radio Edit\) \[feat\. Norka\]](https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP) | [Oscar Troya](https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq), [Norka](https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1) | [Lost in Your Eyes \(Radio Edit\) \[feat\. Norka\]](https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq) | 4:17 |
+| 40 | [Bailalo \- Radio Edit](https://open.spotify.com/track/6rzG1q2gQ4kUtK1OUT4sIY) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Styline](https://open.spotify.com/artist/0DfXOhUve7dNuy34H95vqS) | [Bailalo \(Radio Edit\)](https://open.spotify.com/album/5pgbDyU2hrE9eX01HGKUNj) | 3:01 |
 | 41 | [Won’t Give Up](https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Won't Give Up](https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1) | 3:02 |
 | 42 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
 | 43 | [Memories](https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9) | [Luis JR](https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj), [D'ALEX](https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4) | [Memories](https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMGM4ZDVkNTlmYmViZjEwMTIzYmU2NDYyM2JmZDEyYzdk`
+Snapshot ID: `MTYxOTIxOTY3MywwMDAwMDAwMDI2MWU5M2M1NDgzMjE4NTE2MjA1MzkxMjJjZWU3NWJl`

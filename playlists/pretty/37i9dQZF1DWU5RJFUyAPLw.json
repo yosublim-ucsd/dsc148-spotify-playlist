@@ -1,12 +1,12 @@
 {
   "description": "For all of us searching for that island life aesthetic. Relajados y disfrutando la vida.",
-  "num_followers": 2574,
+  "num_followers": 2606,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxMTY1MCwwMDAwMDAwMDU1Yzg5NThiY2RjYmRiMjRmMTU1YTE4MDJiZjU2MDE4",
+  "snapshot_id": "MTY4MTMxMTY1MCwwMDAwMDAwMDgwMzMyOGZiZjlmMDhmZmJjYmI4ODhkMTMxYjIzMmYw",
   "tracks": [
     {
       "added_at": "2023-04-12 15:00:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-12 15:00:50",
       "album": {
-        "name": "Todo contigo",
-        "url": "https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Todo contigo",
-      "url": "https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn"
-    },
-    {
-      "added_at": "2023-04-12 15:00:50",
-      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-04-12 15:00:50",
       "album": {
-        "name": "Aparato",
-        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
+        "name": "Todo contigo",
+        "url": "https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
         }
       ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
+      "duration_ms": 199636,
+      "name": "Todo contigo",
+      "url": "https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn"
     },
     {
       "added_at": "2023-04-12 15:00:50",
@@ -671,6 +655,22 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-04-12 15:00:50",
+      "album": {
+        "name": "Aparato",
+        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
     },
     {
       "added_at": "2023-04-12 15:00:50",

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 152128,
+  "num_followers": 152354,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4NjU1MSwwMDAwMDAwMDQ3YjAzNmY0NjE1NTJkY2NlZGQ4MDQ0MTU3NGFmNTU4",
+  "snapshot_id": "MTY4MDg4NjU1MSwwMDAwMDAwMGQwMWFiNjM2MDYxZjZiODY2NjUyNjkzMzAwNjAxY2M1",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/4fq2YUONcgrCJ2SPndSeKC"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 258533,
       "name": "Only The Young",
       "url": "https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/4fq2YUONcgrCJ2SPndSeKC"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 247920,
       "name": "Control - Acoustic Version",
       "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
     },
     {
       "added_at": "2023-01-18 22:25:58",

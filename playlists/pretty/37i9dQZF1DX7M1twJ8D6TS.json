@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 118364,
+  "num_followers": 118466,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDU2ZDk0Y2JkMDVhNTQ3M2U0MDY5ZjY1ZmNjN2M3ZmRk",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDE5ZDBjOThjNGJmOGY1N2FkMDhhMTUxZTdmYzczOGVj",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "After the Fire",
-        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 185247,
-      "name": "Ain't a Train",
-      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Homeland Insecurity",
         "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 208293,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/2OmdWZzYSufueUptTzGven"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 185247,
+      "name": "Ain't a Train",
+      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 233106,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Drowning in Dreams, Pt. 2",
+        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Don't Even Say Bye",
-        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 237060,
-      "name": "Don't Even Say Bye",
-      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 226538,
       "name": "Life Without You",
       "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Don't Even Say Bye",
+        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
+      },
+      "artists": [
+        {
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
+        }
+      ],
+      "duration_ms": 237060,
+      "name": "Don't Even Say Bye",
+      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
-      "added_at": "2023-04-13 01:25:10",
+      "added_at": "2023-04-14 00:57:33",
       "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "American Soul",
-        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 189045,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Bad Reputation",
         "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219613,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "American Soul",
+        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 189045,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "New Tattoos",
-        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
-      },
-      "artists": [
-        {
-          "name": "South Texas Tweek",
-          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
-        }
-      ],
-      "duration_ms": 157660,
-      "name": "New Tattoos",
-      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Makin' It By (Side A)",
         "url": "https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 210308,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "New Tattoos",
+        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
+      },
+      "artists": [
+        {
+          "name": "South Texas Tweek",
+          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
+        }
+      ],
+      "duration_ms": 157660,
+      "name": "New Tattoos",
+      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,7 +1089,7 @@
       "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
-      "added_at": "2023-04-13 01:25:10",
+      "added_at": "2023-04-14 00:57:33",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Rider",
-          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Dos Corazones",
         "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 249892,
       "name": "A Cowgirl Like You",
       "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Rider",
+          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Crown and Coke",
-        "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
-      },
-      "artists": [
-        {
-          "name": "Kristen Foreman",
-          "url": "https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "Crown and Coke",
-      "url": "https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Don't Want To Go Home",
         "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 183666,
       "name": "Don't Want to Go Home",
       "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Crown and Coke",
+        "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
+      },
+      "artists": [
+        {
+          "name": "Kristen Foreman",
+          "url": "https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Crown and Coke",
+      "url": "https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Something 'Bout a Southern Girl",
         "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 262186,
       "name": "Something 'Bout a Southern Girl",
       "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "When You're Coming Down",
-        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "When You're Coming Down",
-      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "First Dirt Road",
         "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
       },
@@ -1599,22 +1583,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Lightning Fast",
-        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Lightning Fast",
-      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Red Dirt Texas",
         "url": "https://open.spotify.com/album/4D99o68AiT4J6yaWOHMM28"
       },
@@ -1627,6 +1595,38 @@
       "duration_ms": 206280,
       "name": "Honky Tonk On",
       "url": "https://open.spotify.com/track/6JDDQKaG9o1KWqeLwNK7NF"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "When You're Coming Down",
+        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "When You're Coming Down",
+      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Lightning Fast",
+        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Lightning Fast",
+      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     },
     {
       "added_at": "2022-05-27 04:00:00",

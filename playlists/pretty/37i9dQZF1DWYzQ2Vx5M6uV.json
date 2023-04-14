@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 106214,
+  "num_followers": 106267,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDgzNWQ0YzUwNWVlMDg3N2IzNzU0ODliNGRiNTllNTU5",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMGFjNTYyMzA5YWU2NzFhZGU3ODQwNWM3NzMyNDcxMzEz",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -661,26 +661,6 @@
       "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
     },
     {
-      "added_at": "2023-04-13 00:45:22",
-      "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
       "added_at": "2023-02-10 16:08:22",
       "album": {
         "name": "Don't Rush (Remix)",
@@ -699,6 +679,26 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2023-04-14 00:09:20",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "LoLo (Remix) [feat. Farina]",
-        "url": "https://open.spotify.com/album/2x2JPCp6svGwi8zHO6Y0fU"
+        "name": "Mare Mare",
+        "url": "https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS"
       },
       "artists": [
         {
-          "name": "Eugy",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
         },
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Lamaz KOB",
+          "url": "https://open.spotify.com/artist/4kqNOkXINObNexaey34DMj"
         }
       ],
-      "duration_ms": 166730,
-      "name": "LoLo (Remix) [feat. Farina]",
-      "url": "https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg"
+      "duration_ms": 197210,
+      "name": "Mare Mare",
+      "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
     }
   ],
   "unique_name": "Afro Ritmo",

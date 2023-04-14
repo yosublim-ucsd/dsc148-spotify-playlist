@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Aly & AJ",
-  "num_followers": 813733,
+  "num_followers": 813869,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxNTMzNCwwMDAwMDAwMDZlNTI5YWY5YWUyOTFiMjY5YjE4NzJlOGRjNzExNzgw",
+  "snapshot_id": "MTY4MTMxNTMzNCwwMDAwMDAwMDg2NzhkZTQzMzAwZTgwNjA4YzE0MWFjMDYwYTJlMDU0",
   "tracks": [
     {
       "added_at": "2023-04-12 16:02:14",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Call You in the Morning",
-        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
       },
       "artists": [
         {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+          "name": "Good Old War",
+          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
         }
       ],
-      "duration_ms": 132309,
-      "name": "Call You in the Morning",
-      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
+      "duration_ms": 182640,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
+        "name": "Call You in the Morning",
+        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
       "artists": [
         {
-          "name": "Good Old War",
-          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
         }
       ],
-      "duration_ms": 182640,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
+      "duration_ms": 132309,
+      "name": "Call You in the Morning",
+      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -895,6 +895,22 @@
       "duration_ms": 266999,
       "name": "letting go",
       "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+    },
+    {
+      "added_at": "2023-04-12 16:02:14",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
-    },
-    {
-      "added_at": "2023-04-12 16:02:14",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Yellow Paper Daisy",
-        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Yellow Paper Daisy",
-      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
-    },
-    {
-      "added_at": "2023-04-12 16:02:14",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
+    },
+    {
+      "added_at": "2023-04-12 16:02:14",
+      "album": {
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
-    },
-    {
-      "added_at": "2023-04-12 16:02:14",
-      "album": {
         "name": "Yours to Break",
         "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 211826,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
+    },
+    {
+      "added_at": "2023-04-12 16:02:14",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2023-04-12 16:02:14",
-      "album": {
         "name": "Goin' Back",
         "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 169142,
       "name": "Keeps Me Coming Back",
       "url": "https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36"
+    },
+    {
+      "added_at": "2023-04-12 16:02:14",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-04-12 16:02:14",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "If I Didn\u2019t Love You",
-        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
         }
       ],
-      "duration_ms": 246350,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1235,6 +1219,22 @@
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-04-12 16:02:14",
+      "album": {
+        "name": "If I Didn\u2019t Love You",
+        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2023-04-12 16:02:14",
-      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "added_at": "2023-04-12 16:02:14",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
         }
       ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+      "duration_ms": 147337,
+      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
+      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
     },
     {
       "added_at": "2023-04-12 16:02:14",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2023-04-12 16:02:14",
       "album": {
-        "name": "Shrinking: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq"
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
       "artists": [
         {
-          "name": "Benjamin Gibbard",
-          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
-        },
-        {
-          "name": "Tom Howe",
-          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 147337,
-      "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
-      "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-04-12 16:02:14",

@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 145795,
       "name": "Gliese",
       "url": "https://open.spotify.com/track/7C5x254psvTlNDG2mEChM8"
@@ -2994,6 +2994,24 @@
       "duration_ms": 184714,
       "name": "Heavenly Harps",
       "url": "https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw"
+    },
+    {
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/3ASv66CgbPxVKDPzq7ELGT"
+      },
+      "artists": [
+        {
+          "name": "Dhanura",
+          "url": "https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178575,
+      "name": "Here And There",
+      "url": "https://open.spotify.com/track/2CHT0b02VjzQokfGso30lz"
     },
     {
       "album": {
@@ -4988,7 +5006,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 212000,
       "name": "Pile",
       "url": "https://open.spotify.com/track/49gyEFmwyvHPkKkM3rs6Pu"
@@ -6248,7 +6266,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 161379,
       "name": "State of Unreality",
       "url": "https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ"
@@ -7188,6 +7206,24 @@
       "duration_ms": 125000,
       "name": "When We Touch",
       "url": "https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue"
+    },
+    {
+      "album": {
+        "name": "Whispered Views",
+        "url": "https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY"
+      },
+      "artists": [
+        {
+          "name": "Jon Laer",
+          "url": "https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Whispered Views",
+      "url": "https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe"
     },
     {
       "album": {

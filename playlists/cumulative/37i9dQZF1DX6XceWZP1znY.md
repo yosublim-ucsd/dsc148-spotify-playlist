@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-715 songs - 1 day 23 hr 26 min
+716 songs - 1 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [ばかじゃないのに](https://open.spotify.com/track/2UkcZV07LP39NQg9tGBvnh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ばかじゃないのに](https://open.spotify.com/album/6XY8TrEZf0R3xnm6kouGzT) | 4:16 | 2022-06-07 |  |
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2022-10-06 |  |
 | [ひまわりの約束](https://open.spotify.com/track/0ahIxSoD9PgkuzauT2DANN) | [Lia](https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t) | [REVIVESII \-Lia Sings beautiful anime songs\-](https://open.spotify.com/album/7Fxv81VGYL0rGZb7Ztx3AS) | 5:03 | 2022-06-07 | 2022-07-20 |
-| [またね](https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [またね](https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ) | 3:59 | 2023-04-10 |  |
+| [またね](https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [またね](https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ) | 3:59 | 2023-04-10 | 2023-04-14 |
 | [みちくさ](https://open.spotify.com/track/3gH7Af4Y7FTuPAclJQdma8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [みちくさ](https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS) | 4:04 | 2022-06-07 | 2022-06-29 |
 | [みんなおなじ](https://open.spotify.com/track/7HVfRqzsoiwpQ20rrkaLw8) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [みんなおなじ](https://open.spotify.com/album/6kdiQ4aRSv01HPXsGttVBK) | 4:23 | 2022-06-07 | 2022-07-09 |
 | [もうひとくち](https://open.spotify.com/track/0OI5ER4W0AQr5YAdMKSIur) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [もうひとくち](https://open.spotify.com/album/5iGHRerQh0pBeI6JHOTUVM) | 3:56 | 2022-06-07 | 2022-07-09 |
@@ -442,6 +442,7 @@
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-11-22 | 2023-04-02 |
 | [アイタリナイ](https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [アイタリナイ](https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj) | 2:42 | 2023-02-20 |  |
 | [アイデンティティ](https://open.spotify.com/track/4cXlM7IelyGNnaOiROPZqn) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [アイデンティティ](https://open.spotify.com/album/6J7w94eqtxESsAkRfB4dAQ) | 4:29 | 2022-06-07 |  |
+| [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-13 |  |
 | [アイビーダンス](https://open.spotify.com/track/0p4Pbn4ktbFCAbIWyJL3XO) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [アイビーダンス](https://open.spotify.com/album/5j3Ow8uwPk8wHVpdmndKXi) | 3:25 | 2022-06-07 | 2022-07-11 |
 | [アイリス](https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:07 | 2022-06-07 |  |
 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-07 | 2023-04-12 |

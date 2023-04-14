@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Saramalacara.\nDales play, dales power.",
-  "num_followers": 29285,
+  "num_followers": 29295,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMGFjYjBlNjRlNDRmZDZlZGUxZDJmODM5ZjQwNmIyNjU1",
+  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDc3MjI4MjE5YTJhN2I2NjY4OWMxNzk1MTFhNDE5NWY2",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Fumando Menos",
-        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Fumando Menos",
-      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Llorando en la Fiesta",
         "url": "https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 176223,
       "name": "Opuesto Complementario",
       "url": "https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Fumando Menos",
+        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Fumando Menos",
+      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
       },
@@ -319,6 +303,38 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Whos That B!Tch?",
+        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Whos That B!Tch?",
+      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -331,6 +347,22 @@
       "duration_ms": 146791,
       "name": "Sed",
       "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -371,22 +403,6 @@
       "duration_ms": 212363,
       "name": "Fresh Prince - Remix",
       "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Whos That B!Tch?",
-        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
-      },
-      "artists": [
-        {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "Whos That B!Tch?",
-      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Igual",
         "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 103656,
-      "name": "DNI",
-      "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 153000,
       "name": "Cosa Suya",
       "url": "https://open.spotify.com/track/1Z74xogis6AXH1khWQRJ95"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 103656,
+      "name": "DNI",
+      "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "BF4E",
-      "url": "https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Entre los Dos",
         "url": "https://open.spotify.com/album/7bqH49xld2kde9aRWUMxCe"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 139285,
       "name": "Perra Teteo",
       "url": "https://open.spotify.com/track/73dtGgdvdq0CF0fTwtlgE4"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "BF4E",
+      "url": "https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG"
     },
     {
       "added_at": "2023-04-05 03:00:00",

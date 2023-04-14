@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,028 likes - 60 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,064 likes - 60 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 59 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 |
 | 60 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 
-Snapshot ID: `MTY3OTYzNjQ4NCwwMDAwMDAwMDlhZjExNGU3NTZkZDNmOGI4ODQwYTc3MjE3M2U2Mjgz`
+Snapshot ID: `MTY4MTM2NjI3OSwwMDAwMDAwMDg1MDA4YWIzZTRkOGU1ZTBlMTM4ZTFlNDY5OTVhZGRm`

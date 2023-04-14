@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: a子 \(ako\)
 
-388 songs - 1 day 0 hr 42 min
+391 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 | 2023-01-24 | 2023-02-22 |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2023-01-12 | 2023-01-25 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2023-01-12 | 2023-01-18 |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [aTOZ / BATH](https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O) | [yangdoe](https://open.spotify.com/artist/5vyv06gQtkjX0DrZwAKcoX) | [aTOZ / BATH](https://open.spotify.com/album/2wrAK0JqzIBU1bX7IQQ06n) | 3:05 | 2023-04-11 |  |
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 |  |
@@ -50,8 +51,8 @@
 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 | 2023-02-28 | 2023-03-25 |
 | [Dancing](https://open.spotify.com/track/4Aj3dm1ryaip9mVQRbJDXh) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [未来からきた人](https://open.spotify.com/album/7JjAs2x4QWKXm96SvIreSJ) | 3:12 | 2023-01-17 | 2023-03-08 |
 | [Darling Dear](https://open.spotify.com/track/5S2eRGQVvX8DgcZJWr6szm) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [Darling Dear](https://open.spotify.com/album/3uq3EylPq0MO2AURJsPuyR) | 3:51 | 2023-01-12 | 2023-01-18 |
-| [Dawn \(Intro\)](https://open.spotify.com/track/3XP4BA3PT4JSZe1Nplr1IZ) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Beige](https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR) | 2:06 | 2023-04-04 |  |
-| [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 | 2023-03-30 |  |
+| [Dawn \(Intro\)](https://open.spotify.com/track/3XP4BA3PT4JSZe1Nplr1IZ) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Beige](https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR) | 2:06 | 2023-04-04 | 2023-04-14 |
+| [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 | 2023-03-30 | 2023-04-14 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-03-18 |
 | [DIScommunication](https://open.spotify.com/track/69Xc4wPl8QDY5Mt9StUmQc) | [Rasen.](https://open.spotify.com/artist/6YP3gT2SzsGxYinr85SUSs) | [Togaru to Rasen.](https://open.spotify.com/album/3cfCCF47aaXjD3l8YB5GtF) | 2:57 | 2023-03-23 | 2023-03-29 |
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
@@ -165,7 +166,7 @@
 | [NEO TOKIO](https://open.spotify.com/track/0AVOwrlP4bIDhlgow1JiSt) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [NEO TOKIO](https://open.spotify.com/album/2Mp4PgoQYX6X4WprgjsIFo) | 2:37 | 2023-01-12 | 2023-01-18 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-24 | 2023-02-17 |
 | [NEW HEAVEN](https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [NEW HEAVEN](https://open.spotify.com/album/6D32g4mlYcDmRkphuDeK8c) | 15:00 | 2023-01-17 | 2023-02-03 |
-| [New Morning](https://open.spotify.com/track/3MDzm55OlzM0D2Nw4qfgFb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [New Morning](https://open.spotify.com/album/4wYcxu7ys9LdYSWER7GxPX) | 7:27 | 2023-03-30 |  |
+| [New Morning](https://open.spotify.com/track/3MDzm55OlzM0D2Nw4qfgFb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [New Morning](https://open.spotify.com/album/4wYcxu7ys9LdYSWER7GxPX) | 7:27 | 2023-03-30 | 2023-04-14 |
 | [night walker](https://open.spotify.com/track/1eNQeVEkeJ1DEioE0p1Rok) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 3:20 | 2023-03-28 | 2023-04-05 |
 | [non zero sum game](https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [non zero sum game](https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj) | 3:28 | 2023-01-31 |  |
 | [oblivious colonists](https://open.spotify.com/track/1KvkGqgKp8GgUr29HAkIKJ) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [oblivious colonists](https://open.spotify.com/album/3H96NXuxKVpX8e9lwe6Wal) | 3:51 | 2023-01-24 | 2023-03-15 |
@@ -270,6 +271,7 @@
 | [あなたはショパン](https://open.spotify.com/track/70oXonbDGdN3c8GtUPLEkV) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [あなたはショパン](https://open.spotify.com/album/6unSvOC7ZjO69VHfumrK3q) | 3:27 | 2023-02-21 | 2023-03-15 |
 | [あんなつぁ](https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [ROMANTIC LOVE](https://open.spotify.com/album/7E0ksEexysVceoijCZfooz) | 5:15 | 2023-03-30 |  |
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
+| [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 |  |
 | [おまえも](https://open.spotify.com/track/3IdphYtjWRvJCaNsnyGqKP) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [ファンタジア](https://open.spotify.com/album/1GHSCT2NBD3Lcc6dFvv19x) | 4:26 | 2023-03-30 |  |
 | [きみのようになれるかな](https://open.spotify.com/track/0Ytmq9kI83vgqdwvBA9uNd) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あこがれ](https://open.spotify.com/album/39AFfvD3CUjQR0QHK7ETWg) | 4:08 | 2023-02-07 | 2023-03-01 |
 | [こわれるまで](https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [こわれるまで](https://open.spotify.com/album/7CUWx3VkcxoEu8NRqfWVkZ) | 5:15 | 2023-01-12 | 2023-01-20 |
@@ -396,5 +398,6 @@
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2023-04-09 |
 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-12 | 2023-02-01 |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
+| [養殖](https://open.spotify.com/track/2X4GdAzI97p3pXjIWru1id) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [養殖](https://open.spotify.com/album/70GwvrHxxwGTOiGIjYJ0BW) | 3:28 | 2023-04-13 |  |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

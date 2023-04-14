@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 82252,
+  "num_followers": 82374,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMDUyMGIzOTcwNmM4YjVjZDY1MWM4N2U1NjllMTA1N2Q4",
+  "snapshot_id": "MTY3MzU2MDg1MCwwMDAwMDAwMGU3ZTIxZjgwYjRkOWFjYjNiZmEzMDE0MjllZWE1NDAz",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Los Felinos",
-        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 226417,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
-    },
-    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Quiereme",
@@ -587,6 +571,22 @@
       "duration_ms": 234413,
       "name": "Dime D\u00f3nde Y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Los Felinos",
+        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 226417,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Que Levante La Mano",
-      "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Enamorado De Un Fantasma",
         "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 269466,
       "name": "Enamorado De Un Fantasma",
       "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Que Levante La Mano",
+      "url": "https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "De Mil Maneras",
-        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
-      },
-      "artists": [
-        {
-          "name": "Sonora Siguaray",
-          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 203253,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "De Mil Maneras",
+        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
+      },
+      "artists": [
+        {
+          "name": "Sonora Siguaray",
+          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
-      },
-      "artists": [
-        {
-          "name": "Efr\u00e9n David",
-          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
-        }
-      ],
-      "duration_ms": 272091,
-      "name": "Abandonado",
-      "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
-    },
-    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "20 Joyas de la Historia Musical",
@@ -1447,6 +1431,22 @@
       "duration_ms": 154052,
       "name": "Pero Tu No Estas",
       "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5"
+      },
+      "artists": [
+        {
+          "name": "Efr\u00e9n David",
+          "url": "https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g"
+        }
+      ],
+      "duration_ms": 272091,
+      "name": "Abandonado",
+      "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Y Es por Ti",
-        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1535,22 +1535,6 @@
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Rel\u00e1mpago De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1601,6 +1585,22 @@
       "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Rel\u00e1mpago De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Me Volvi A Acordar De Ti",
@@ -1615,22 +1615,6 @@
       "duration_ms": 205346,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 201813,
-      "name": "La Coloreteada",
-      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1653,6 +1637,22 @@
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/52SwmseipF9fBvw0tOAM6u"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 201813,
+      "name": "La Coloreteada",
+      "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "En Total Plenitud",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 2",
-        "url": "https://open.spotify.com/album/7rv6OZsuVcX67G62GjpFvI"
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
       "artists": [
         {
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
         }
       ],
-      "duration_ms": 193677,
-      "name": "Endulzame El Caf\u00e9 Mar\u00eda",
-      "url": "https://open.spotify.com/track/0tKWbYtMGFaAjVLChc6rSS"
+      "duration_ms": 177360,
+      "name": "Dejenla Que Baile",
+      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1703,6 +1703,22 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1739,38 +1755,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 3",
         "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
@@ -1791,34 +1775,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 174933,
-      "name": "La Velludita",
-      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Dejenla Que Baile",
-      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1835,6 +1803,38 @@
       "duration_ms": 207173,
       "name": "La Vi Llorar",
       "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/7rv6OZsuVcX67G62GjpFvI"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 193677,
+      "name": "Endulzame El Caf\u00e9 Mar\u00eda",
+      "url": "https://open.spotify.com/track/0tKWbYtMGFaAjVLChc6rSS"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "La Velludita",
+      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
     },
     {
       "added_at": "2022-01-25 19:05:16",

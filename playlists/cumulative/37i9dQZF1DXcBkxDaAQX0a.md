@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-264 songs - 15 hr 38 min
+265 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,11 +89,12 @@
 | [Ew Jersey](https://open.spotify.com/track/5yWPnyJU1LBuePnoq80XEf) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Oliver Appropriate](https://open.spotify.com/album/0TZEzBIOcUred0CnfhPqiD) | 2:56 | 2022-04-04 | 2022-04-21 |
 | [Eye to Eye \- Acoustic](https://open.spotify.com/track/7eUBwEAnghwTwxPoECjKa0) | [Calmgrove](https://open.spotify.com/artist/69ijBiV3tPi6K6Us940JLq) | [Eye to Eye \(Acoustic\)](https://open.spotify.com/album/4Jq1EYDbNNLY0RUavbpWXy) | 3:06 | 2021-02-08 | 2022-04-21 |
 | [Fall Down \- Acoustic](https://open.spotify.com/track/4JOmuCT0cdH0pPlbx0FkWe) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Fall Down \(Acoustic\)](https://open.spotify.com/album/4Z83YFWZFc0cHA3dX9ZOSV) | 3:00 | 2021-02-08 | 2022-05-30 |
+| [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 | 2022-04-04 |  |
 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/65XUrEOJLHzQBQtUp2aybr) | 3:42 | 2021-02-08 | 2023-04-05 |
 | [February](https://open.spotify.com/track/6WptWHEf06ILIIK6merGuc) | [When the Sun Sets](https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4) | [February](https://open.spotify.com/album/1XeTjGH7IwO5twLA52ebxA) | 4:03 | 2021-02-08 | 2022-07-29 |
 | [Fentanyl \- Stripped](https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 3:19 | 2021-02-08 | 2022-07-22 |
 | [Find Peace](https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [Find Peace](https://open.spotify.com/album/4rukdvVxY2wg5cWeAGUUnE) | 3:31 | 2021-02-08 | 2022-07-28 |
-| [Find Peace](https://open.spotify.com/track/1usQj9NC5JYJn2frcYFjPO) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time \(Deluxe\)](https://open.spotify.com/album/7FiSZuXVcqwOwWBCSfGVhJ) | 3:31 | 2022-04-04 |  |
+| [Find Peace](https://open.spotify.com/track/1usQj9NC5JYJn2frcYFjPO) | [Osatia](https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy) | [All in Time \(Deluxe\)](https://open.spotify.com/album/7FiSZuXVcqwOwWBCSfGVhJ) | 3:31 | 2022-04-04 | 2023-04-14 |
 | [Flatline \(Acoustic\)](https://open.spotify.com/track/3eSJmY6cL6274iOKhDwIyc) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Flatline \(Acoustic\)](https://open.spotify.com/album/4Lm2HVLmDnrS2DQqGbqYc1) | 3:11 | 2021-02-08 | 2022-07-19 |
 | [Footprints \- Acoustic](https://open.spotify.com/track/4vYbjfD6l8LNYlcdYnHBDm) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Footprints \(Acoustic\)](https://open.spotify.com/album/22QJjaz22HnJbgPBeQz9rj) | 2:59 | 2021-02-08 | 2022-07-27 |
 | [For What It's Worth \- Acoustic](https://open.spotify.com/track/0cJqQeY8GHfMQmeeNl9LAh) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [For What It's Worth \(Acoustic\)](https://open.spotify.com/album/6iHkxF0G76MdxKJvQDIVQA) | 2:52 | 2021-02-08 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Romancham
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,217 likes - 67 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,357 likes - 67 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

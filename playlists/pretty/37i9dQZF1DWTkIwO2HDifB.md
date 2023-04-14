@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Aquecimento Senta Senta Levanta e os funks mais 🔑 do Brasil\. Foto: MC Kevin o Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,533,517 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,535,488 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 24 | [Maldita](https://open.spotify.com/track/0byjneoANrqAMJuNrUXe3E) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0), [DJ FLS](https://open.spotify.com/artist/29yMWKeeXYWIbMbbQ9sRJy) | [Maldita](https://open.spotify.com/album/7FKx3dIj8BTapA7IalfJIO) | 2:13 |
 | 25 | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 |
 | 26 | [Ai Preto](https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ai Preto](https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ) | 2:11 |
-| 27 | [Famoso Machuca Xota](https://open.spotify.com/track/5u0iZ81Yf2L90FQLYQUiiG) | [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Famoso Machuca Xota](https://open.spotify.com/album/63xpMm2iLQj9qhqUYipHf0) | 2:49 |
+| 27 | [Famoso Machuca Xota](https://open.spotify.com/track/5u0iZ81Yf2L90FQLYQUiiG) | [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Famoso Machuca Xota](https://open.spotify.com/album/63xpMm2iLQj9qhqUYipHf0) | 2:49 |
 | 28 | [Doce Veneno](https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Doce Veneno](https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl) | 3:28 |
 | 29 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 |
 | 30 | [Bagulho Louco](https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Bagulho Louco](https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen) | 2:04 |

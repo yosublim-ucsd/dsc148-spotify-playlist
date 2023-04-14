@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-347 songs - 19 hr 25 min
+349 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2021-12-15 | 2023-02-10 |
 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 | 2022-06-30 | 2023-01-28 |
 | [Easy Baby](https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/5nxfGiKqavxhxGZG3VQQ2B) | 3:19 | 2021-12-15 | 2022-07-29 |
-| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 |  |
+| [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-17 | 2023-04-14 |
 | [Exit](https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Exit](https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej) | 3:16 | 2021-12-15 |  |
 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 | 2021-12-15 | 2023-01-28 |
 | [Fair Play](https://open.spotify.com/track/2bo0Th0LniI0U1KbwNm9mk) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [Fair Play](https://open.spotify.com/album/2l3uRUskaADSpA7gNAcjkT) | 4:49 | 2021-12-15 | 2022-07-27 |
@@ -184,7 +184,7 @@
 | [Let It Go](https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV) | 3:43 | 2022-10-19 | 2023-01-28 |
 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 | 2023-02-10 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 |  |
-| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-09 |  |
+| [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-11-09 | 2023-04-14 |
 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 | 2023-03-10 |  |
 | [Lifethativebeenlivin](https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Lifethativebeenlivin](https://open.spotify.com/album/2lb4sntKtt0wZFWa6eePKE) | 2:55 | 2021-12-15 | 2022-04-07 |
 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 | 2023-02-12 |  |
@@ -239,6 +239,7 @@
 | [Out of State](https://open.spotify.com/track/5vlqIraHhAtLNw0BQ3iwlV) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Out of State](https://open.spotify.com/album/4fRJfG9tarXqhpBq5xzZ2r) | 3:45 | 2021-12-15 | 2022-07-03 |
 | [Out the Way](https://open.spotify.com/track/4gT03zyHBC3ushZZ16gGFK) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/2mspUbKzrsZXINyUXBfMhA) | 2:35 | 2021-12-15 | 2022-05-29 |
 | [Out The Window](https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [Lost In America](https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T) | 3:52 | 2022-02-11 | 2023-03-14 |
+| [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-04-07 |  |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-01-27 |  |
 | [Overreacting](https://open.spotify.com/track/1uhmq7gvmcyfeC2vd96Ns7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Overreacting](https://open.spotify.com/album/1VdFWgk2E4wy3UVBrRct0D) | 3:32 | 2021-12-15 | 2022-07-29 |
 | [Own2](https://open.spotify.com/track/5yeLepyINbTDBadOF56V7i) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [You Are Here](https://open.spotify.com/album/2N1NssWo9QEXqnpKLL3c9a) | 3:37 | 2021-12-15 | 2022-07-29 |
@@ -322,6 +323,7 @@
 | [THIS SH!T](https://open.spotify.com/track/4e0nFC5a95gFWJUzrQ8ggy) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [LMBSKN](https://open.spotify.com/artist/5TLjx8KhJyYCPtCA08Zkd9) | [THIS SH!T](https://open.spotify.com/album/4wRmr1ozRCAVPSj06fL68W) | 2:50 | 2022-09-29 | 2023-03-02 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-12-15 | 2022-02-12 |
 | [Tightrope](https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Tightrope](https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp) | 2:49 | 2022-11-09 | 2022-12-04 |
+| [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 |  |
 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 | 2021-12-15 | 2022-07-28 |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2021-12-15 | 2023-03-11 |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2021-12-15 | 2022-11-02 |

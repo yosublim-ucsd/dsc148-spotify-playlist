@@ -4,7 +4,7 @@
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-67 songs - 3 hr 23 min
+68 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4Bh7x70sJfofaZMdq32DcR) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [MUSIC BOX](https://open.spotify.com/album/4FdAkhYfsuzkBy2z5elUAy) | 2:27 | 2021-05-24 |  |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2021-10-04 |  |
 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 | 2021-10-04 |  |
+| [Pin\-Up Daddy](https://open.spotify.com/track/4VQ8UDGBLpCxBgTNbOmnxs) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F) | [Pin\-Up Daddy](https://open.spotify.com/album/3wOUeHEdo8G3QY3N6e0LwR) | 4:11 | 2023-04-13 |  |
 | [Pluto](https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Pluto](https://open.spotify.com/album/6Iwf7mZlw59EtjlnLPzki9) | 3:51 | 2021-10-04 |  |
 | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Poke It Out \(feat\. J\. Cole\)](https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8) | 3:03 | 2021-10-04 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-10-04 |  |

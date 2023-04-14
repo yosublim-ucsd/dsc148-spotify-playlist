@@ -1,32 +1,28 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 192474,
+  "num_followers": 192528,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDUyOWI4NzAwNjI5NjM0OTY3Y2ViOTY2MjQ5ZWZmMTE2",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDljYjA5YzQ4ODU2OTEyZDY4NWM1NGEwZjdiOWFmODkw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -47,18 +43,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Foreword",
-        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
+        "name": "Cover Sessions, Vol. 4",
+        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
         }
       ],
-      "duration_ms": 197846,
-      "name": "Dear No One",
-      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
+      "duration_ms": 216612,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Cover Sessions, Vol. 4",
-        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
+        "name": "Foreword",
+        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
       },
       "artists": [
         {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 216612,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
+      "duration_ms": 197846,
+      "name": "Dear No One",
+      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Girl of My Dreams",
-      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Will Have the Final Word",
         "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216453,
       "name": "With Every Act of Love",
       "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Girl of My Dreams",
+      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "This Kind Of Love",
-        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "This Kind Of Love",
-      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Adam & Eve'n",
-        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
-      },
-      "artists": [
-        {
-          "name": "Sir & Saint",
-          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
-        },
-        {
-          "name": "Sir the Baptist",
-          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
-        },
-        {
-          "name": "Saint Ashleey",
-          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
-        }
-      ],
-      "duration_ms": 125284,
-      "name": "Adam & Eve'n",
-      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
       },
@@ -895,34 +871,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Every Falling Tear",
-        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
+        "name": "Adam & Eve'n",
+        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
       "artists": [
         {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 246461,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
+          "name": "Sir & Saint",
+          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
+        },
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Sir the Baptist",
+          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
+        },
+        {
+          "name": "Saint Ashleey",
+          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 125284,
+      "name": "Adam & Eve'n",
+      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -947,18 +915,50 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Baby Will You Love Me",
-        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 213338,
-      "name": "Baby Will You Love Me",
-      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Every Falling Tear",
+        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 246461,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+        "name": "Baby Will You Love Me",
+        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
+      "duration_ms": 213338,
+      "name": "Baby Will You Love Me",
+      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 178253,
       "name": "Going Together",
       "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
-      },
-      "artists": [
-        {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "'90s Kids",
         "url": "https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+      },
+      "artists": [
+        {
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 224000,
       "name": "SHE",
       "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Midwest Magic",
-      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Here's to Second Chances",
         "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "Midwest Magic",
+      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -1587,6 +1587,30 @@
       "duration_ms": 214746,
       "name": "Praying For You",
       "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Lightmuzik",
+          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 118503,
+      "name": "When It Hurts",
+      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1639,30 +1663,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Lightmuzik",
-          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 118503,
-      "name": "When It Hurts",
-      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Will Never Fail",
         "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Who Knew It Would Be So Hard to Be Myself",
-        "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
       "artists": [
         {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 230808,
-      "name": "Big Ole Love",
-      "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     }
   ],
   "unique_name": "Higher Love",

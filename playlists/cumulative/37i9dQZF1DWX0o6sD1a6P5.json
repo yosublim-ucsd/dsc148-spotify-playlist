@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: Joeboy",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: SenSey' & Jo\u00e9 Dw\u00e8t Fil\u00e9 ",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 150857,
       "name": "ANDALE!",
       "url": "https://open.spotify.com/track/0KaJgyCPvYN6ljWwAdEN93"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 190140,
       "name": "Anogo",
       "url": "https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 152233,
       "name": "Candy",
       "url": "https://open.spotify.com/track/70QVpkbPTdnAOsytAUiBiy"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 144813,
       "name": "Corps",
       "url": "https://open.spotify.com/track/6FuEAShCFPB78SRLSFqmrt"
@@ -2368,6 +2368,24 @@
       "duration_ms": 171092,
       "name": "Dodo",
       "url": "https://open.spotify.com/track/258rn5Iq74kGm7yb9OxjJG"
+    },
+    {
+      "album": {
+        "name": "Dolce & Gabbana",
+        "url": "https://open.spotify.com/album/0MazTQ41JWkYdlPLzXQN3j"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174968,
+      "name": "Dolce & Gabbana",
+      "url": "https://open.spotify.com/track/6qFbHaZFzOrX5wKSbu1vvx"
     },
     {
       "album": {
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 168979,
       "name": "Folake",
       "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
@@ -3245,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Hi hi hi",
+        "url": "https://open.spotify.com/album/4rvfzZglf3wk2JCt3swsnM"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145838,
+      "name": "Hi hi hi",
+      "url": "https://open.spotify.com/track/7ycOby0nlAhC7kj5RYxqOH"
+    },
+    {
+      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
       },
@@ -3344,6 +3380,32 @@
       "duration_ms": 147597,
       "name": "Honey Damoiseau",
       "url": "https://open.spotify.com/track/2d9sh26IEyYOGWGPp3HdXB"
+    },
+    {
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "album": {
@@ -3578,6 +3640,28 @@
       "duration_ms": 190164,
       "name": "Jaiye Foreign",
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
+    },
+    {
+      "album": {
+        "name": "Jejely",
+        "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Jejely",
+      "url": "https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1"
     },
     {
       "album": {
@@ -6438,10 +6522,32 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
+    },
+    {
+      "album": {
+        "name": "Ta Ta Ta (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Ta Ta Ta (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy"
     },
     {
       "album": {
@@ -6508,10 +6614,36 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "album": {
+        "name": "THIS YEAR (Blessings) [French Remix]",
+        "url": "https://open.spotify.com/album/1Fut8RnDlNYmDLb5oqDySz"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134972,
+      "name": "THIS YEAR (Blessings) - French Remix",
+      "url": "https://open.spotify.com/track/4cVnXm3iHSlOYRtHZcEEbj"
     },
     {
       "album": {
@@ -6708,7 +6840,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 165331,
       "name": "Tourner la page (\u00e9pisode 2)",
       "url": "https://open.spotify.com/track/2ZP3TeVINLtHuDjo2lJQMe"
@@ -7037,6 +7169,28 @@
     },
     {
       "album": {
+        "name": "Want me",
+        "url": "https://open.spotify.com/album/1PfnjM06cDq83Z4GOZZI9r"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        },
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168324,
+      "name": "Want me",
+      "url": "https://open.spotify.com/track/7LgIhhfi7JJD6RfbyM6c8p"
+    },
+    {
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
         "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
       },
@@ -7082,6 +7236,24 @@
       "duration_ms": 200496,
       "name": "Wawah b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/3zsXIz9wszecQHy0faMth0"
+    },
+    {
+      "album": {
+        "name": "Who Is Your Guy?",
+        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160407,
+      "name": "Who Is Your Guy?",
+      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
     },
     {
       "album": {

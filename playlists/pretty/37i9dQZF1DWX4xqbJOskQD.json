@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGM1Yzg0MzdkZGViOWM3N2Y5ODI3YTc0YzYyYTJmN2E3",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDMyZjU2NzE4NmMzYWZkM2RkNmIxMjZmYTY3MTFhMmQ5",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 180840,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+      },
+      "artists": [
+        {
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
-      },
-      "artists": [
-        {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2020-08-17 22:49:59",

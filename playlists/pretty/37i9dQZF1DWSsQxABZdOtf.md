@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,336 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,357 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crush Me \- Yash Bansal Remix](https://open.spotify.com/track/4TEhqvkBE6amkZZ0K3y2NS) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT), [Yash Bansal](https://open.spotify.com/artist/3sqpT2IVKtrhy6tfv0NosT) | [Second Nature \(Remixes\)](https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD) | 2:38 |
-| 2 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3Atsv8Fo8Kyl5jwpuPc5hz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/7cZBakwAsi0MMcICMUrQ9f) | 2:30 |
+| 2 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 | 3 | [Remedy](https://open.spotify.com/track/3aCwEhAwESuofDSJxx1pee) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Remedy](https://open.spotify.com/album/3BNXE99jbkv5F69llD37aq) | 3:34 |
 | 4 | [Fetty Wap](https://open.spotify.com/track/5HavMB9WGE33KK6NL8XjXl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Fetty Wap](https://open.spotify.com/album/3FU8qkXDboBsrASS7VFIqK) | 2:44 |
 | 5 | [Like Water](https://open.spotify.com/track/0VeA1a0bVpO9bjtBzyVvbk) | [Gafacci](https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Tash Bnm](https://open.spotify.com/album/7A2MZlBPaenRdbM7xNO9qB) | 3:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [Barrington](https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ) | 3:41 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MTY3ODk0MDI5NCwwMDAwMDAwMGU0ZDk5ZjBmZGExZDg4YTM4MGE4ODJjNmVhNjM3ZDc1`
+Snapshot ID: `MTY3ODk0MDI5NCwwMDAwMDAwMGI2OGQ0MGUwMzQ2ODA1MzFlMzE3ODUxOTJjMGJiZmRh`

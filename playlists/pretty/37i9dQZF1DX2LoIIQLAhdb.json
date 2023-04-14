@@ -1,107 +1,15 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : L2B",
-  "num_followers": 145099,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Zaho",
+  "num_followers": 145156,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDg0ZGFlOTM3NTI5YmZhNGMyMzdmNDBlY2FlOGYzZWI5",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGFiNDkzZTFjNGQxMDc5ZDY4MTZkZmY4YjI4M2Y2ZmU4",
   "tracks": [
     {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Dans La Chambre / Money",
-        "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 285870,
-      "name": "Dans La Chambre / Money",
-      "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
-      },
-      "artists": [
-        {
-          "name": "Bramsito",
-          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
-        },
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "CV (feat. RK)",
-      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "SOS (Chapitre 3)",
-        "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 201381,
-      "name": "Pourquoi pas",
-      "url": "https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Drama (Partie II)",
-        "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
-      },
-      "artists": [
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        },
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Comme avant (feat. Low Jay)",
-      "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "ROOM 96",
-        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 236662,
-      "name": "Encorps",
-      "url": "https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "R\u00e9silience",
         "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
@@ -121,27 +29,115 @@
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+        "name": "Drama (Partie II)",
+        "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Atasant\u00e9 (feat. Hamza)",
-      "url": "https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY"
+      "duration_ms": 173333,
+      "name": "Comme avant (feat. Low Jay)",
+      "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "SOS (Chapitre 3)",
+        "url": "https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 201381,
+      "name": "Pourquoi pas",
+      "url": "https://open.spotify.com/track/1X0N8oqu5d6K7gTxdPwIBO"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Dans La Chambre / Money",
+        "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 285870,
+      "name": "Dans La Chambre / Money",
+      "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "ROOM 96",
+        "url": "https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 236662,
+      "name": "Encorps",
+      "url": "https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "CV (feat. RK)",
+      "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Mon coco",
+        "url": "https://open.spotify.com/album/6dfhAN5YdT4WpCgM048lqQ"
+      },
+      "artists": [
+        {
+          "name": "Dertay",
+          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Mon coco",
+      "url": "https://open.spotify.com/track/5XTtRcxSLqyflaklKITjvi"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Fini d'esp\u00e9rer",
         "url": "https://open.spotify.com/album/1wjf1dJlUK9bun5IopzmyK"
@@ -157,7 +153,23 @@
       "url": "https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Alta\u00efr, pt. 2",
+        "url": "https://open.spotify.com/album/4YxYGnn8XXxQYSBqZ8FjMx"
+      },
+      "artists": [
+        {
+          "name": "Kayna Samet",
+          "url": "https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k"
+        }
+      ],
+      "duration_ms": 190951,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/23wU0bMRU5wdIivfygtfIE"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Ma Raison",
         "url": "https://open.spotify.com/album/7lQCobvDKnOpjMiLG7I4Vx"
@@ -173,7 +185,7 @@
       "url": "https://open.spotify.com/track/1NFS8awse8TQhKZO0ilJXp"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Dernier je t'aime",
         "url": "https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M"
@@ -193,59 +205,7 @@
       "url": "https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Une Femme",
-        "url": "https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp"
-      },
-      "artists": [
-        {
-          "name": "Kayna Samet",
-          "url": "https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k"
-        },
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Une Femme",
-      "url": "https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "J'\u00e9limine",
-        "url": "https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 137229,
-      "name": "J'\u00e9limine",
-      "url": "https://open.spotify.com/track/1U13A13YafzmqthKXiul91"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Cullinan (Gel\u00e9e Royale 1 & 2)",
-        "url": "https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 203050,
-      "name": "Assez (\u00e9pisode 1)",
-      "url": "https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6"
@@ -265,135 +225,127 @@
       "url": "https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Comme mon ex",
-        "url": "https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh"
+        "name": "Go\u00fbter",
+        "url": "https://open.spotify.com/album/7pVuxI7Jz8aQa5rIOCcMcI"
       },
       "artists": [
         {
-          "name": "Melina",
-          "url": "https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA"
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
         }
       ],
-      "duration_ms": 160053,
-      "name": "Comme mon ex",
-      "url": "https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr"
+      "duration_ms": 152064,
+      "name": "Go\u00fbter",
+      "url": "https://open.spotify.com/track/5Ub4lK3WGGm0HtkDid7ZRH"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Maman prie pour moi",
-        "url": "https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R"
+        "name": "Cullinan (Gel\u00e9e Royale 1 & 2)",
+        "url": "https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw"
       },
       "artists": [
         {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 172588,
-      "name": "Maman prie pour moi",
-      "url": "https://open.spotify.com/track/4PIMhQmPQuMdwiP0c8J7LL"
+      "duration_ms": 203050,
+      "name": "Assez (\u00e9pisode 1)",
+      "url": "https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+        "name": "Une Femme",
+        "url": "https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Kayna Samet",
+          "url": "https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k"
+        },
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
         }
       ],
-      "duration_ms": 223073,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+      "duration_ms": 170500,
+      "name": "Une Femme",
+      "url": "https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Joujou",
-        "url": "https://open.spotify.com/album/5afNscbokNL1uq52RKHO3m"
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
       },
       "artists": [
         {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 178733,
-      "name": "Joujou",
-      "url": "https://open.spotify.com/track/6iT9J2d5vY4buhYcNgFUeT"
+      "duration_ms": 214613,
+      "name": "Atasant\u00e9 (feat. Hamza)",
+      "url": "https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Manico",
-        "url": "https://open.spotify.com/album/0NEk4fIlu7ruQE6il671jv"
+        "name": "Hennessy",
+        "url": "https://open.spotify.com/album/08LXWKg1nMXfio7jtcK0jD"
       },
       "artists": [
         {
-          "name": "Mibsy",
-          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Manico",
-      "url": "https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE"
+      "duration_ms": 142595,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/1y0U1pZhkayeBRViBcf5zu"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Ma Lova",
-        "url": "https://open.spotify.com/album/69VpibECOEtYba9gZTn36O"
+        "name": "J'\u00e9limine",
+        "url": "https://open.spotify.com/album/4eHStY9TfFmHRV8iQCAgNo"
       },
       "artists": [
         {
-          "name": "Dof'",
-          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         }
       ],
-      "duration_ms": 146066,
-      "name": "Ma Lova",
-      "url": "https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C"
+      "duration_ms": 137229,
+      "name": "J'\u00e9limine",
+      "url": "https://open.spotify.com/track/1U13A13YafzmqthKXiul91"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "J'la connais, Pt. 2 (Jamais)",
-        "url": "https://open.spotify.com/album/2RJUt1iv5BpjxgVsX74MTt"
+        "name": "NDENGE NINI",
+        "url": "https://open.spotify.com/album/5Z5Ws3kl6PTc7jF03H9haF"
       },
       "artists": [
         {
-          "name": "Emkal",
-          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+          "name": "Kenyon",
+          "url": "https://open.spotify.com/artist/3ef02ttcTCxK0cQ68glIQ6"
         }
       ],
-      "duration_ms": 169289,
-      "name": "J'la connais, Pt. 2 - Jamais",
-      "url": "https://open.spotify.com/track/3qUp2s94OKNATynGWVRxAP"
+      "duration_ms": 176808,
+      "name": "NDENGE NINI",
+      "url": "https://open.spotify.com/track/3gOZ4SiL6sfrdU2CDm7A74"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Tous les m\u00eames",
-        "url": "https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz"
-      },
-      "artists": [
-        {
-          "name": "Bramsito",
-          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
-        }
-      ],
-      "duration_ms": 150346,
-      "name": "Tous les m\u00eames",
-      "url": "https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Encore l\u00e0",
         "url": "https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx"
@@ -413,27 +365,39 @@
       "url": "https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Alli\u00e9s",
-        "url": "https://open.spotify.com/album/3GPJ5CsnhSFp6quFRzNtFL"
+        "name": "Maman prie pour moi",
+        "url": "https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R"
       },
       "artists": [
         {
-          "name": "KRN",
-          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
-        },
-        {
-          "name": "Bilton",
-          "url": "https://open.spotify.com/artist/5OeY6e62St2Nubj9hbfuIb"
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
         }
       ],
-      "duration_ms": 177450,
-      "name": "Alli\u00e9s",
-      "url": "https://open.spotify.com/track/2qyLMmwoNMu5UbUVkKZDJo"
+      "duration_ms": 172588,
+      "name": "Maman prie pour moi",
+      "url": "https://open.spotify.com/track/4PIMhQmPQuMdwiP0c8J7LL"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Comme mon ex",
+        "url": "https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh"
+      },
+      "artists": [
+        {
+          "name": "Melina",
+          "url": "https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Comme mon ex",
+      "url": "https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Tenez-les",
         "url": "https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9"
@@ -449,27 +413,87 @@
       "url": "https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Galat\u00e9e",
-        "url": "https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB"
+        "name": "Sexy Chuchu",
+        "url": "https://open.spotify.com/album/6E0qbXofLb9FPZB8h4LxZx"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Nemir",
-          "url": "https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd"
+          "name": "$hiro",
+          "url": "https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn"
         }
       ],
-      "duration_ms": 190937,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/39S74tThedRDddGIRPKtfC"
+      "duration_ms": 135413,
+      "name": "Sexy Chuchu",
+      "url": "https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Joujou",
+        "url": "https://open.spotify.com/album/5afNscbokNL1uq52RKHO3m"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Joujou",
+      "url": "https://open.spotify.com/track/6iT9J2d5vY4buhYcNgFUeT"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Ma Lova",
+        "url": "https://open.spotify.com/album/69VpibECOEtYba9gZTn36O"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Ma Lova",
+      "url": "https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/04Q7NE1yEOKlnLkh2uhSn9"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 139095,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7JfGZhzQUeZMHMVVHkhNbc"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 223073,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Solo (feat. Tayc)",
         "url": "https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj"
@@ -489,87 +513,63 @@
       "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/04Q7NE1yEOKlnLkh2uhSn9"
+        "name": "Tous les m\u00eames",
+        "url": "https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz"
       },
       "artists": [
         {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
         }
       ],
-      "duration_ms": 139095,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/7JfGZhzQUeZMHMVVHkhNbc"
+      "duration_ms": 150346,
+      "name": "Tous les m\u00eames",
+      "url": "https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Ma Reine",
-        "url": "https://open.spotify.com/album/5hj6xIiBVolqqWWj60D2Eh"
+        "name": "Alli\u00e9s",
+        "url": "https://open.spotify.com/album/3GPJ5CsnhSFp6quFRzNtFL"
       },
       "artists": [
         {
-          "name": "Souf",
-          "url": "https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec"
+          "name": "KRN",
+          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
+        },
+        {
+          "name": "Bilton",
+          "url": "https://open.spotify.com/artist/5OeY6e62St2Nubj9hbfuIb"
         }
       ],
-      "duration_ms": 189660,
-      "name": "Ma Reine",
-      "url": "https://open.spotify.com/track/2yK1M21AlQ3RLalAmM59Oi"
+      "duration_ms": 177450,
+      "name": "Alli\u00e9s",
+      "url": "https://open.spotify.com/track/2qyLMmwoNMu5UbUVkKZDJo"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Juste nous",
-        "url": "https://open.spotify.com/album/5uvrWj1xzYiiE1VGcMqZwe"
+        "name": "Galat\u00e9e",
+        "url": "https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB"
       },
       "artists": [
         {
-          "name": "Meiitod",
-          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
-        }
-      ],
-      "duration_ms": 202990,
-      "name": "Juste nous",
-      "url": "https://open.spotify.com/track/025Li5fBx9Pjyc07Q2w6D4"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/10x2oUxuTk4ezgt0DkJdTL"
-      },
-      "artists": [
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
         {
-          "name": "Gol.d",
-          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+          "name": "Nemir",
+          "url": "https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd"
         }
       ],
-      "duration_ms": 221050,
-      "name": "Nous deux",
-      "url": "https://open.spotify.com/track/7eB8T5wFiukyKGw3gtWyJJ"
+      "duration_ms": 190937,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/39S74tThedRDddGIRPKtfC"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "SUAVE Tome 1",
-        "url": "https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI"
-      },
-      "artists": [
-        {
-          "name": "Davy One",
-          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
-        }
-      ],
-      "duration_ms": 189299,
-      "name": "GUEST LIST",
-      "url": "https://open.spotify.com/track/5vEvOtrShrpAUcDsv8WxjA"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "GINGER LOVE",
         "url": "https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96"
@@ -585,7 +585,39 @@
       "url": "https://open.spotify.com/track/2EHkxEurRIbNSObtj2DwLA"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Manico",
+        "url": "https://open.spotify.com/album/0NEk4fIlu7ruQE6il671jv"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "duration_ms": 156706,
+      "name": "Manico",
+      "url": "https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "SUAVE Tome 1",
+        "url": "https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        }
+      ],
+      "duration_ms": 189299,
+      "name": "GUEST LIST",
+      "url": "https://open.spotify.com/track/5vEvOtrShrpAUcDsv8WxjA"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Br\u00fbler",
         "url": "https://open.spotify.com/album/3DXrpHTK1QllgmpJ3RGeR8"
@@ -601,55 +633,7 @@
       "url": "https://open.spotify.com/track/1ruP1lNZ6OqgEm4oPsjz4G"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "NOUS",
-        "url": "https://open.spotify.com/album/0AdeOaA497bwfn0PqjoWNT"
-      },
-      "artists": [
-        {
-          "name": "HARON",
-          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
-        }
-      ],
-      "duration_ms": 140006,
-      "name": "NOUS",
-      "url": "https://open.spotify.com/track/0IKK3A8XAx7QkTwnEEe483"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Soeurci\u00e8re",
-        "url": "https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b"
-      },
-      "artists": [
-        {
-          "name": "Djena Della",
-          "url": "https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "Soeurci\u00e8re",
-      "url": "https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "J'ai cru en toi",
-        "url": "https://open.spotify.com/album/5kt9nh7Yf8qYUZ0l68nHGn"
-      },
-      "artists": [
-        {
-          "name": "Sirine Jne",
-          "url": "https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA"
-        }
-      ],
-      "duration_ms": 147302,
-      "name": "J'ai cru en toi",
-      "url": "https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Li\u00e9s",
         "url": "https://open.spotify.com/album/4PoWoDE7Ux9lIAfAPrSEt3"
@@ -665,27 +649,39 @@
       "url": "https://open.spotify.com/track/2DUeC3yW0LLV32L0Z7E7U2"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Foetus",
-        "url": "https://open.spotify.com/album/5vdmZNEqPB9a69Hel2Z8J1"
+        "name": "NOUS",
+        "url": "https://open.spotify.com/album/0AdeOaA497bwfn0PqjoWNT"
       },
       "artists": [
         {
-          "name": "C-lina",
-          "url": "https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm"
-        },
-        {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
         }
       ],
-      "duration_ms": 160406,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/17OnTVsTqTEGdinkMfEhPD"
+      "duration_ms": 140006,
+      "name": "NOUS",
+      "url": "https://open.spotify.com/track/0IKK3A8XAx7QkTwnEEe483"
     },
     {
-      "added_at": "2023-04-06 22:00:00",
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Soeurci\u00e8re",
+        "url": "https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b"
+      },
+      "artists": [
+        {
+          "name": "Djena Della",
+          "url": "https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Soeurci\u00e8re",
+      "url": "https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
       "album": {
         "name": "Colombe",
         "url": "https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq"

@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55251,
+  "num_followers": 55278,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI2MjY3NCwwMDAwMDAwMGFhZDU1MjIyNDNjODFmMGRjMTgzY2FlYzMzNmE3Nzgz",
+  "snapshot_id": "MTY4MTQxNTExNSwwMDAwMDAwMGZlZTk0ZGMwY2ZiMDZiMzBjZTA0MTI2OWU3MGM2Y2Fi",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -205,20 +205,24 @@
       "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-08-09 18:38:23",
       "album": {
-        "name": "Tino Contreras",
-        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
+        "name": "Tukumtak",
+        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 168198,
-      "name": "Orfeo en los Tambores",
-      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
+      "duration_ms": 182970,
+      "name": "Tukumtak",
+      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -253,24 +257,20 @@
       "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
-      "added_at": "2022-08-09 18:38:23",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Tukumtak",
-        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
+        "name": "Tino Contreras",
+        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
         }
       ],
-      "duration_ms": 182970,
-      "name": "Tukumtak",
-      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+      "duration_ms": 168198,
+      "name": "Orfeo en los Tambores",
+      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -323,6 +323,26 @@
       "duration_ms": 167026,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2023-04-13 19:45:15",
+      "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -537,22 +557,6 @@
       "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
-    },
-    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -591,18 +595,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -651,6 +655,22 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Frente A Frente: Mexican Jazz Jam",
+        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Safo (La Sacerdotiza Del Amor)",
+      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -767,22 +787,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Musica Infinita",
-        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 283841,
-      "name": "Orbita 13",
-      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
@@ -819,6 +823,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Musica Infinita",
+        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 283841,
+      "name": "Orbita 13",
+      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        }
-      ],
-      "duration_ms": 335725,
-      "name": "To Chick",
-      "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
     },
     {
       "added_at": "2021-07-28 16:44:28",

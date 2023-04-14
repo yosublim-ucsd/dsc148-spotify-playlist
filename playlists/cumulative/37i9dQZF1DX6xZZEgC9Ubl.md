@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-793 songs - 1 day 11 hr 57 min
+794 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [patience.](https://open.spotify.com/track/6PkmgGS8wwfLgwqIzwv8zt) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [patience.](https://open.spotify.com/album/3p8TvJfEMWmd1rM0P1o57z) | 2:28 | 2022-05-13 | 2022-05-19 |
 | [PAVEMENT](https://open.spotify.com/track/3s5NHQg2jTcOTVM1myA8V3) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [CHASING BUTTERFLIES](https://open.spotify.com/album/3uQxnxiEOlKgkTnxZ2IXuD) | 3:36 | 2021-09-17 | 2022-04-05 |
 | [Penance](https://open.spotify.com/track/4jJsIHgePHhMHSa6J6P9ZB) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Penance](https://open.spotify.com/album/3NWoWLDEQQaBNlAiYU1IEr) | 3:18 | 2023-03-24 | 2023-04-09 |
-| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 |  |
+| [Perfect](https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Perfect](https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym) | 3:39 | 2021-01-15 | 2023-04-14 |
 | [Petrified](https://open.spotify.com/track/2M85nUhefR3JP7k5EXhlqE) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Petrified](https://open.spotify.com/album/1ORMjwQE0Gz64gU3iIwxel) | 3:06 | 2020-12-13\* | 2021-06-19 |
 | [Phone Down](https://open.spotify.com/track/6zzoT6kZHM4SpPCjLdfLVg) | [Boy Pape](https://open.spotify.com/artist/5HHhIPYoYyTyp1mvCngnkZ) | [Phone Down](https://open.spotify.com/album/6MOkdkDvzJ7CmXMdDLq4tc) | 2:12 | 2020-12-18 | 2021-01-05 |
 | [picture us](https://open.spotify.com/track/6anqdTarC0O3k4MZfaSOnz) | [Gun Boi Kaz](https://open.spotify.com/artist/7MwXfL45fq9pA1RwQHxhxy), [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [picture us](https://open.spotify.com/album/0ZgKrG7VgRfHY5FvfWOEJO) | 2:44 | 2021-09-17 | 2022-04-18 |
@@ -789,6 +789,7 @@
 | [Would Look Perfect](https://open.spotify.com/track/2L2mNkEWo818IE4fKbnP0O) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Letter's You Never Received](https://open.spotify.com/album/6Kw08aAjdRBrDbDXYiZk4P) | 2:29 | 2021-02-23 | 2021-03-14 |
 | [would you be my baby](https://open.spotify.com/track/0s1jF1PHS9oQ1rHSYg90XB) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/36s99vXNlumFqVrvqmidCl) | 1:13 | 2022-07-22 | 2022-10-20 |
 | [would you be my baby](https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki) | 1:13 | 2022-10-07 |  |
+| [WOULDN'T IT BE NICE](https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [WOULDN'T IT BE NICE](https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP) | 3:02 | 2023-04-07 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2022-07-22 | 2023-01-28 |
 | [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 | 2023-03-03 |  |
 | [You Broke My Heart Again](https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn) | 1:43 | 2022-07-22 |  |

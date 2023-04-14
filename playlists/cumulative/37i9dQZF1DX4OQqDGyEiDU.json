@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 227311,
       "name": "Aoku Aoku Hikaru",
       "url": "https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ"
@@ -3472,6 +3472,24 @@
       "duration_ms": 234306,
       "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30e1\u30ea",
+        "url": "https://open.spotify.com/album/29r8WuUupgXV8BYV4FcDgX"
+      },
+      "artists": [
+        {
+          "name": "\u716e\u30eb\u679c\u5b9f",
+          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206482,
+      "name": "\u30a2\u30e1\u30ea",
+      "url": "https://open.spotify.com/track/1u7mr7J4ylfkLS2CK642Ge"
     },
     {
       "album": {

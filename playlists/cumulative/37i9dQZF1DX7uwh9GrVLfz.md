@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ニーハオ!!!! \(ni\-hao!!!!\)
 
-531 songs - 1 day 4 hr 55 min
+532 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [After 30 years](https://open.spotify.com/track/3HbdkqhTM4maDSnNI5bV1b) | [LABRET](https://open.spotify.com/artist/28gEh6RZDT8AHNjm78kEfY) | [AFTER 30 YEARS](https://open.spotify.com/album/24wJdb9QkcqtqWIF8yxnca) | 3:16 | 2022-06-28 | 2022-07-20 |
 | [Ain't Nothing](https://open.spotify.com/track/1Y5CDS0yJ10aB5g0xWaQ5Z) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [Ain't Nothing](https://open.spotify.com/album/2TyfNadUiT54W25ySe9K7E) | 4:21 | 2022-05-12 | 2022-07-29 |
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 | 2022-08-19 |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/1uPPNErpuO72oAPnzwhdzn) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:43 | 2023-04-11 |  |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-03-07 | 2023-04-12 |
 | [Ashtray](https://open.spotify.com/track/4wFaKe5coaqpWw38VJUqNo) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:18 | 2022-05-17 | 2022-07-26 |
@@ -503,7 +504,7 @@
 | [暁](https://open.spotify.com/track/7wEm2Nzba3uman9NGHDhN3) | [DATE ME GANE](https://open.spotify.com/artist/7nqsjIG9cAY7MV3So3kxYI) | [暁](https://open.spotify.com/album/5AmC8jw1hc9jqj5uOgL9gn) | 2:28 | 2022-05-19 | 2022-07-29 |
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2022-05-12 |  |
 | [最高新記憶](https://open.spotify.com/track/15Ckt52LWWh7TuLDAZvbrF) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [最高新記憶](https://open.spotify.com/album/2upw7byvR0iGzog95Shur3) | 5:02 | 2022-05-17 | 2022-07-27 |
-| [月の花](https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [月の花 EP](https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h) | 3:54 | 2023-02-28 |  |
+| [月の花](https://open.spotify.com/track/7Maah4iF4aIZjw08qPXmbk) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [月の花 EP](https://open.spotify.com/album/2U7nd4mxHHDVA3P3t2qt1h) | 3:54 | 2023-02-28 | 2023-04-14 |
 | [望まない名前](https://open.spotify.com/track/74aZoJYHaJuWOWnPNEA7sh) | [SonoSheet](https://open.spotify.com/artist/2T82Zj0qxDDo9wEf5imuPC) | [君滲む青](https://open.spotify.com/album/1nDJIuA3FN4p1F8k4jdguo) | 2:53 | 2022-05-24 | 2022-07-17 |
 | [未来へのスパイラル](https://open.spotify.com/track/4dKRC5OOcSnEa6G7utAzqd) | [Good Morning America](https://open.spotify.com/artist/7767FkTCOQF51TpFvLzNpl) | [未来へのスパイラル](https://open.spotify.com/album/3eCA7cMYlUfCQok5JhFbhs) | 3:33 | 2022-06-14 | 2022-07-26 |
 | [本当の事](https://open.spotify.com/track/2cFnGhDp62nvDtkNmLH4hW) | [KAKASHI](https://open.spotify.com/artist/1ucLKA9E6ZQmBYwb5q5S5P) | [ONE BY ONE](https://open.spotify.com/album/4F9pcS3Ci901j9t722YVLi) | 4:00 | 2022-05-19 | 2022-07-06 |

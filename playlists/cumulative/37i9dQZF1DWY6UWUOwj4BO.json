@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 232946,
       "name": "Bad Habits - Acoustic Version",
       "url": "https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ"
@@ -666,6 +666,24 @@
       "duration_ms": 138024,
       "name": "I'm Good (Blue) - Acoustic",
       "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
+    },
+    {
+      "album": {
+        "name": "If We Ever Broke Up (Acoustic)",
+        "url": "https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147358,
+      "name": "If We Ever Broke Up - Acoustic",
+      "url": "https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,660 likes - 202 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,920 likes - 202 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 14 | [Thankful](https://open.spotify.com/track/1bCTh4DivrwJAecXKFSe9O) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Thankful](https://open.spotify.com/album/0qqf2CDEagqlIc8wZaDda3) | 1:52 |
 | 15 | [Wisdome](https://open.spotify.com/track/0unuwNzX708VxHAAXKGsVG) | [Vilda C](https://open.spotify.com/artist/5N7Z08HAUyapDLBRoW6m5I) | [Wisdome](https://open.spotify.com/album/5stwyaVvtsLDZYjwYEX4xh) | 1:11 |
 | 16 | [Feel like that](https://open.spotify.com/track/1wmyRW1C7MIFJR7Wb8xXHM) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Feel like that](https://open.spotify.com/album/0LeeMJ2aOUhgEf0cFDi13N) | 2:07 |
-| 17 | [Golden](https://open.spotify.com/track/72nUDZndXIVqRfcN8QY0OO) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Golden](https://open.spotify.com/album/14UMA8sw4Y9aBsCdlgWdMN) | 1:54 |
+| 17 | [Golden](https://open.spotify.com/track/72nUDZndXIVqRfcN8QY0OO) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Golden](https://open.spotify.com/album/14UMA8sw4Y9aBsCdlgWdMN) | 1:54 |
 | 18 | [Lucid Dream](https://open.spotify.com/track/42CXSyKpzHOIDZIlTbtiwk) | [hypernormal](https://open.spotify.com/artist/2sj809I5ujZVoBLwXSv3ma), [Adam Panek](https://open.spotify.com/artist/4irDpwU4JhKKCu4r1yRbR9), [Paul Walden](https://open.spotify.com/artist/5dDx4a4EsyjXFBcPEkkERI) | [Lucid Dream](https://open.spotify.com/album/5VVVaLbcsfipyGYBPFrDpU) | 1:55 |
 | 19 | [You Gave Me Your Phone](https://open.spotify.com/track/0LT4gakUZZ4rZRT4fqAN7e) | [Altair Blake](https://open.spotify.com/artist/7GHdxiYiGpD4ZHM3jfyIOr), [Amadezia](https://open.spotify.com/artist/0mYyBuMUxKUAcvOxgBe5uR) | [You Gave Me Your Phone](https://open.spotify.com/album/7zZ8VuEwBprTTvWkoglRrz) | 1:49 |
 | 20 | [Lost In Space](https://open.spotify.com/track/2uvhCNVrXgoOXASOCzmRQI) | [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [Lost In Space](https://open.spotify.com/album/3zAQKOKhvgW3lRxwubxKev) | 2:01 |

@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-861 songs - 2 day 0 hr 48 min
+862 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,8 @@
 | [KILLING ME](https://open.spotify.com/track/27kB4qLUCV8nZd2eOgj1Tk) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS : CONTINUE](https://open.spotify.com/album/2yUTAuGu8Xu7xoTdASjClx) | 3:13 | 2021-11-17 | 2022-07-28 |
 | [KILLING ME](https://open.spotify.com/track/36wruYZk4V9sWeUzR3rB74) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:13 | 2021-11-17 | 2022-06-01 |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-11-17 | 2022-07-21 |
-| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-28 |  |
+| [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-28 | 2023-04-14 |
+| [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-03-28 |  |
 | [KNOCK KNOCK \- TAK REMIX](https://open.spotify.com/track/2QL4zW27VVPT8UR72QnqVh) | [MXM](https://open.spotify.com/artist/2BXth1dnMzlCfJP9EiCLnv), [TAK](https://open.spotify.com/artist/7KkAlIr0TcxZ6uq9PzwbgX) | [ONE MORE](https://open.spotify.com/album/7lkNXGdhhpUPWoEXactezR) | 3:36 | 2022-03-24 | 2022-04-16 |
 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 | 2021-11-17 | 2023-03-29 |
 | [Krystal](https://open.spotify.com/track/2M3B0BUhJJSroLoyIkINvz) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:37 | 2021-11-17 | 2022-04-21 |

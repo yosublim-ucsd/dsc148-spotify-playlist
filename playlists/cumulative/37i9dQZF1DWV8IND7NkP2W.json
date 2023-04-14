@@ -5744,7 +5744,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 140000,
       "name": "Milk Shake",
       "url": "https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647"
@@ -7667,6 +7667,28 @@
     },
     {
       "album": {
+        "name": "re: Nobody Else",
+        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "pige",
+          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "re: Nobody Else",
+      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
+    },
+    {
+      "album": {
         "name": "Reassurance Cycle",
         "url": "https://open.spotify.com/album/4yPO42Uaw3NS9pqdsScnLT"
       },
@@ -7696,7 +7718,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 161044,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK"
@@ -8946,7 +8968,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 121411,
       "name": "Stay Around",
       "url": "https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O"
@@ -10231,6 +10253,24 @@
     },
     {
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/0et5c9eLd0MQCMvCtBLjFX"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194651,
+      "name": "Unikko",
+      "url": "https://open.spotify.com/track/0e6Zp0zDbIpBqrp6R2i4ha"
+    },
+    {
+      "album": {
         "name": "Universal Grammar",
         "url": "https://open.spotify.com/album/0BXbhd7CVpSr4qFkfapK0q"
       },
@@ -10246,6 +10286,24 @@
       "duration_ms": 114800,
       "name": "Universal Grammar",
       "url": "https://open.spotify.com/track/1btMhHpEB4OvHpKFePAxqa"
+    },
+    {
+      "album": {
+        "name": "utsuroi",
+        "url": "https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "utsuroi",
+      "url": "https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH"
     },
     {
       "album": {

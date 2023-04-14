@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-14",
       "duration_ms": 506960,
       "name": "O Ignee Spriritus",
       "url": "https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61"
@@ -2202,8 +2202,8 @@
           "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
         },
         {
-          "name": "Edward O'Brien",
-          "url": "https://open.spotify.com/artist/7FfWgHB0fwhhol7A6wZbiL"
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
         },
         {
           "name": "Colin Greenwood",
@@ -2308,6 +2308,24 @@
       "duration_ms": 126187,
       "name": "Saturna",
       "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
+    },
+    {
+      "album": {
+        "name": "Shifting Winds",
+        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
     },
     {
       "album": {
