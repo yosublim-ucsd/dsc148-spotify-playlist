@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-77 songs - 4 hr 54 min
+78 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 | 2022-11-22 |  |
 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 | 2022-11-22 |  |
 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 | 2023-04-13 |  |
-| [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2023-02-02 |  |
+| [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2023-02-02 | 2023-04-15 |
 | [Rotos](https://open.spotify.com/track/5lnj71eABvEXkCcslEgZ90) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q) | 3:45 | 2022-11-22 |  |
 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 | 2022-12-02 |  |
 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-03-31 |  |
@@ -81,6 +81,7 @@
 | [Turista](https://open.spotify.com/track/75CvJyaMNLIRXkrHQOVblP) | [Cazzeros](https://open.spotify.com/artist/5jzrYCX3klqShv1fnZNbVi) | [Turista](https://open.spotify.com/album/5hnEgpae3aS7ws5LE8zvVo) | 3:30 | 2023-01-27 | 2023-02-27 |
 | [Tú](https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG) | [Orquesta Discotheque](https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC), [Beto Montes](https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC) | [Música Moderna](https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm) | 3:57 | 2022-11-22 |  |
 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 | 2022-11-22 |  |
+| [Un Espejismo](https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Un Espejismo](https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis) | 3:34 | 2023-04-13 |  |
 | [Váyanse Todos A Mamá](https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 4:59 | 2022-12-02 |  |
 | [Young Girl](https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Funk Your Bones \(Side B\)](https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT) | 3:16 | 2022-11-22 |  |
 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 | 2022-11-22 |  |

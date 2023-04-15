@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. rocco on the cover.
 
-1,050 songs - 2 day 5 hr 52 min
+1,052 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-10-29\* | 2020-11-14 |
 | [COLORS](https://open.spotify.com/track/7vtw03hfTf7tTYwjvjYC5h) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [COLORS](https://open.spotify.com/album/22t7uvZWa4PoPT2lD0DSmG) | 3:18 | 2022-04-08 | 2023-04-01 |
 | [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 | 2022-08-12 | 2023-01-07 |
-| [Come Around](https://open.spotify.com/track/5FhBSeLyAPLGoCWOjQXH6F) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6GzwDlQLCtbtXO1F5jpqTi) | 3:38 | 2023-01-06 |  |
+| [Come Around](https://open.spotify.com/track/5FhBSeLyAPLGoCWOjQXH6F) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6GzwDlQLCtbtXO1F5jpqTi) | 3:38 | 2023-01-06 | 2023-04-15 |
 | [Comfort Edge](https://open.spotify.com/track/2ZsxWqm5XzcUGRJRHKMgui) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/1ixBdfxbLKDnkRLfpNJgir) | 3:43 | 2020-10-29\* | 2020-11-11 |
 | [Compare Myself](https://open.spotify.com/track/4KLcQpDco4VnbW0MpDchyB) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/6Pwad6L8kQot9BFjtcS1N6) | 3:31 | 2020-10-29\* | 2021-01-09 |
 | [Congratulations](https://open.spotify.com/track/1e84sSryVQN4yDjGqQNPuR) | [Maya Malkin](https://open.spotify.com/artist/4E7h9iuJDTrjAtpd0cnIRJ) | [Congratulations](https://open.spotify.com/album/4HMlI1tb5IN7Dpd5nkzJiW) | 2:56 | 2021-04-10 | 2021-07-31 |
@@ -351,6 +351,7 @@
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-02-27 | 2021-05-08 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-02-12 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-16 |  |
+| [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-14 |  |
 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 | 2020-12-04 | 2021-02-13 |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:26 | 2021-07-10 | 2021-10-09 |
 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 | 2022-02-18 | 2022-05-28 |
@@ -447,6 +448,7 @@
 | [i don't wanna let u go](https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [i don't wanna let u go](https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA) | 2:24 | 2022-01-07 | 2022-04-29 |
 | [I Eat Boys](https://open.spotify.com/track/4LkCyp4LxvfLUWbRz1em5y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Eat Boys](https://open.spotify.com/album/7pVckQv8uworjO5MOXuBUp) | 2:42 | 2021-04-03 | 2021-05-08 |
 | [I Feel Like Shit](https://open.spotify.com/track/1pqdJX0O81b31BSuaXdCO6) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Mad World](https://open.spotify.com/album/1MqtK6ggc4XnWH7y7XvUjD) | 2:20 | 2020-10-29\* | 2020-11-03 |
+| [I Feel Loss](https://open.spotify.com/track/3qSZmP5F7OJKONpw2VCelQ) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/2XfoOQ78LcSyh7PWu0yoZQ) | 2:42 | 2023-04-14 |  |
 | [I Fell in Love Again](https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [I Fell in Love Again](https://open.spotify.com/album/3WMCCey7bkFQbzEUplNQZ0) | 3:38 | 2022-01-21 | 2022-02-19 |
 | [I Guess I Miss You](https://open.spotify.com/track/1986Q6coogLr5s4ekyqgNZ) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [I Guess I Miss You](https://open.spotify.com/album/0jj0Z3KGgPSg3jhzlmrf5s) | 3:17 | 2020-11-14 | 2021-02-13 |
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-05-20 |
@@ -535,7 +537,7 @@
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-26 | 2021-05-29 |
 | [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 | 2023-03-31 |  |
 | [Last Time](https://open.spotify.com/track/7lrbSHt44BpSCOvy4oODf9) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Last Time](https://open.spotify.com/album/6H7FpjXzpiwxmH2u6M4uJ0) | 2:08 | 2021-05-22 | 2021-08-28 |
-| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 |  |
+| [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-10 | 2023-04-15 |
 | [Lately](https://open.spotify.com/track/2Q6KT9dtkAPbT5uOltm6Tg) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Lately](https://open.spotify.com/album/0XSvrTwDa3fNbgaVm30XHO) | 3:14 | 2022-05-06 |  |
 | [leading me on but i'm not mad about it](https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [leading me on but i'm not mad about it](https://open.spotify.com/album/5FrXGtQvP3jyfycc9CXrKe) | 2:54 | 2020-10-29\* | 2020-11-11 |
 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 | 2022-08-26 | 2022-10-15 |

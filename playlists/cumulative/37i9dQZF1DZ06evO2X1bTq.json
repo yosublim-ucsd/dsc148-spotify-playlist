@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 331913,
       "name": "Bad - Songs Of Surrender",
       "url": "https://open.spotify.com/track/2Xnbnmo8pIBbfkcgEBVydz"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 257040,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274120,
       "name": "Original Of The Species",
       "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
@@ -1000,6 +1000,24 @@
       "duration_ms": 269053,
       "name": "The Fly",
       "url": "https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209747,
+      "name": "The Miracle (Of Joey Ramone) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/3IfReU5MI9ApiJy95ZVCZH"
     },
     {
       "album": {

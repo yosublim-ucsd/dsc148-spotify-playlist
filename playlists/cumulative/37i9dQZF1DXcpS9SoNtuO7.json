@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "5th Anniversary 3rd Full Album Dear",
+        "url": "https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Kazenootosae kikoenai",
+      "url": "https://open.spotify.com/track/48uOREHgRTGnIcZITpINcD"
+    },
+    {
+      "album": {
         "name": "Kazenootosae kikoenai",
         "url": "https://open.spotify.com/album/6pFiNJhIsCLVer4KmSfHU0"
       },
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 220933,
       "name": "Kazenootosae kikoenai",
       "url": "https://open.spotify.com/track/6SqIyW99DmQiRKD1aJj6Kl"
@@ -2990,10 +3008,28 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 279666,
       "name": "the sea and a pearl",
       "url": "https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0"
+    },
+    {
+      "album": {
+        "name": "5th Anniversary 3rd Full Album Dear",
+        "url": "https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279653,
+      "name": "the sea and a pearl (Japanese Ver)",
+      "url": "https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5"
     },
     {
       "album": {

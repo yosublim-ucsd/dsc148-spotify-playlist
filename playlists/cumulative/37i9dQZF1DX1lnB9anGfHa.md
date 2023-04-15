@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-183 songs - 12 hr 18 min
+185 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Blue Pale Darling](https://open.spotify.com/track/1bLdmy4TCk58RVJFTE6t59) | [Autumn Fruit](https://open.spotify.com/artist/6TvLaOyXRJy71sVpEdppX7) | [Blue Pale Darling](https://open.spotify.com/album/2eKlf2blGRGDcHhYTzeV9j) | 3:37 | 2021-09-24 | 2023-01-07 |
 | [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 | 2023-03-31 |  |
 | [Cabalga la bestia](https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed) | [CRUHDA](https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe) | [Lux Ahena](https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq) | 5:34 | 2022-09-27 | 2023-04-01 |
+| [Carme](https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 5:14 | 2023-04-15 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 | 2020-10-20 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/7lWVGjAIuksAjXKxmC5M71) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/1Ub34iySvUKpXmgwnHhIq9) | 2:16 | 2020-10-20 | 2022-07-29 |
 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 | 2022-09-26 |  |
@@ -79,6 +80,7 @@
 | [i used to](https://open.spotify.com/track/75EStj9OPvWHa9N5KvFo72) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [International Contemporary Ensemble](https://open.spotify.com/artist/1e6oJr3JG14gEuRLDl5ZsT), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [i used to](https://open.spotify.com/album/5zKGLARoiiUGb2r8R3kLv1) | 3:08 | 2022-08-31 |  |
 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 | 2020-10-20 | 2023-04-01 |
 | [Ice Blink Lost](https://open.spotify.com/track/1Iv16gDR80wkjGJRWqG2U0) | [Happa](https://open.spotify.com/artist/37j7tcvJMvkQiDBPnHHanF), [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Ice Blink Lost](https://open.spotify.com/album/7yyh2OKCdRBb92fvISuKxC) | 4:01 | 2023-03-03 | 2023-04-01 |
+| [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 | 2023-04-15 |  |
 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 | 2022-08-16 | 2022-11-04 |
 | [Incendio](https://open.spotify.com/track/3Ju42J1sFmVpxkGGSFpcWb) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Incendio](https://open.spotify.com/album/4cmrJPAbJQuBpGPIKbHzfQ) | 2:44 | 2021-10-01 |  |
 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 | 2023-03-03 | 2023-04-01 |
@@ -127,7 +129,7 @@
 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 | 2023-03-23 | 2023-04-01 |
 | [Raja Kirik \(Dog King\)](https://open.spotify.com/track/31F5fC1a6AGmzh7bZj7QwS) | [Yennu Ariendra](https://open.spotify.com/artist/4k01UHAnX9skbKaqYpD2nt), [J Mo'ong Santoso Pribadi](https://open.spotify.com/artist/3gjuapOhwP1QHYvIu3Xzjz) | [Raja Kirik](https://open.spotify.com/album/0fzYY8CqqgwFeeOm823Gfu) | 8:09 | 2020-10-20 | 2022-11-04 |
 | [Recover](https://open.spotify.com/track/6YzfsSLXsMefRCno6FJTd7) | [Trophie](https://open.spotify.com/artist/267gjhlmcoscSuzUHiKqX8) | [Recover](https://open.spotify.com/album/1lQntsXzOIiW4lXNe4Wkj2) | 3:26 | 2020-10-20 | 2022-11-04 |
-| [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2020-10-20 |  |
+| [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 | 2020-10-20 | 2023-04-15 |
 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 | 2022-02-18 | 2023-03-25 |
 | [Salt & Copper](https://open.spotify.com/track/7cCYpFC7DQKlgqfq2UMsxd) | [Aphty Khéa](https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4) | [Salt & Copper](https://open.spotify.com/album/6clsWn9OtsWQm8aOUOYShB) | 4:32 | 2022-09-27 | 2023-04-01 |
 | [Salv Goes To Hollywood](https://open.spotify.com/track/4cEhfMDQJenkOB12pvW051) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 3:02 | 2020-10-20 |  |
@@ -182,7 +184,7 @@
 | [Đi Tìm](https://open.spotify.com/track/2tr5nB15QjKueCSypsuEz7) | [Ngo Hong Quang](https://open.spotify.com/artist/0bSlwjLk6yxanA1aR9QhGY) | [Nhìn Lại](https://open.spotify.com/album/3C7WkkrbcsB80RvXUfJkBO) | 6:29 | 2021-06-23 | 2022-11-09 |
 | [Выжженные Поля](https://open.spotify.com/track/0Qq4vDUgaXZ91bezh7T2mD) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [Выжженные Поля](https://open.spotify.com/album/4g5v3GcvCcMrrJThehUXOW) | 3:53 | 2020-10-20 | 2023-04-01 |
 | [выжженные поля](https://open.spotify.com/track/0qCSVXlSql2UkFJupliZon) | [тише воды](https://open.spotify.com/artist/7sGURNRYCWDBglrCckFIP9) | [выжженные поля](https://open.spotify.com/album/0ZmB2xyQ2r53QIIsziTUO6) | 3:53 | 2020-10-20 | 2023-03-19 |
-| [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 | 2021-06-23 |  |
+| [Кожа](https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1) | [AIGEL](https://open.spotify.com/artist/1gpjSKJC0UekvhaI8fAcoq) | [Кожа](https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S) | 4:28 | 2021-06-23 | 2023-04-15 |
 | [Плак\-Плак](https://open.spotify.com/track/2dc4D84XqZ9MCD3R2TjXoc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Of4qoSlEZr8GUinc7QxWT) | 3:23 | 2020-10-20 | 2023-03-04 |
 | [Плак\-Плак](https://open.spotify.com/track/3haUHC29mCGK6MrREqbONc) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [До Свидания](https://open.spotify.com/album/2Ji9U33Ljqdm4RdlBKXteF) | 3:23 | 2020-10-20 | 2022-09-15 |
 | [Прыгай](https://open.spotify.com/track/7keFTSP0LQMj09887ZCmxJ) | [МОНОНОКЕ](https://open.spotify.com/artist/73EIVLp8UyAWcjLK6Mty8S) | [Прыгай](https://open.spotify.com/album/2ASG6eVHytocsxAxuLrFAV) | 2:42 | 2020-10-20 | 2023-02-16 |

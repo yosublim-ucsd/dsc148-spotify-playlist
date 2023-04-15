@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 17953,
+  "num_followers": 17989,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMGJlNjBmNmFkYjUwOTAzMDUyZjY4NDQzMjYyOTFlM2Ew",
+  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMGRmMzI4NDFjYTJlZmJkZGQ1NTNhY2M1ZTcxNDNmNzNh",
   "tracks": [
     {
       "added_at": "2023-04-07 16:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Lovelee Dae",
         "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 210932,
       "name": "Clapped",
       "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Walk The Line (Radio Edit)",
-        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
-      },
-      "artists": [
-        {
-          "name": "Jesse Jonez",
-          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Walk The Line - Radio Edit",
-      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 437882,
       "name": "Memories",
       "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Walk The Line (Radio Edit)",
+        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jonez",
+          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Walk The Line - Radio Edit",
+      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
-      },
-      "artists": [
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 321818,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "Beings of Light",
-        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 423837,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -1299,6 +1267,22 @@
       "duration_ms": 359998,
       "name": "Shoot the Shot",
       "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 243809,
       "name": "Flashback feat. Forrest",
       "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Beings of Light",
+        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 423837,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
     },
     {
       "added_at": "2023-04-07 16:00:00",

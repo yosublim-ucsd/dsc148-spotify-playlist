@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-418 songs - 23 hr 49 min
+419 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [24/7](https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM) | 3:04 | 2022-08-05 |  |
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-04-07 |  |
 | [31 de Febrero](https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [31 de Febrero](https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp) | 3:09 | 2022-04-01 | 2022-04-18 |
-| [9.6](https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:05 | 2022-04-01 |  |
+| [9.6](https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:05 | 2022-04-01 | 2023-04-15 |
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 |  |
 | [a lifetime with you](https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:07 | 2022-01-28 | 2022-04-18 |
@@ -115,6 +115,7 @@
 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 | 2022-01-07 | 2022-07-29 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2022-07-15 |  |
 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 | 2022-01-07 |  |
+| [Desde Que Te Fuiste](https://open.spotify.com/track/27lvwmEhKxTVHmA0vOE8zH) | [Persse](https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT) | [Proeza](https://open.spotify.com/album/00DZjWUwBTk7FRBJihDJsM) | 2:44 | 2023-04-14 |  |
 | [Desde Que Te Vi](https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:32 | 2022-01-28 |  |
 | [Desnuda](https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:45 | 2022-01-07 |  |
 | [Despiertos](https://open.spotify.com/track/4Ee7Kl35pi2KFlVIbl3LRG) | [Sergio Cuello](https://open.spotify.com/artist/3kzoyQeKsewahhW1bs4SRP), [FAVOT](https://open.spotify.com/artist/1A5nFOxg7ZROR4BnucReQU) | [Despiertos](https://open.spotify.com/album/5KQ2TDzXuEjJYPf9Qvwiq9) | 1:43 | 2022-04-01 | 2022-05-07 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-1,276 songs - 3 day 11 hr 14 min
+1,278 songs - 3 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 | 2023-01-25 |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-31 | 2022-07-15 |
 | [An Easy Girl](https://open.spotify.com/track/6YRKEs8N3LqUcNDbGoPMPZ) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [An Easy Girl](https://open.spotify.com/album/6J4VeS0MQVmhTJ4FLjdEqa) | 2:57 | 2023-02-14 | 2023-03-01 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 | 2022-05-31 | 2022-11-24 |
 | [Another Way](https://open.spotify.com/track/4E7rg3aXFK1NNHM1eRxPA6) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/6XPo8gOZ0iwNgLwFlZZ2ml) | 3:47 | 2022-09-13 | 2022-09-28 |
 | [Anyway](https://open.spotify.com/track/5n3V2VDdanYl4LOqUB53Tx) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Anyway](https://open.spotify.com/album/47z1EcMUrBTt3HJu87bqpB) | 3:36 | 2022-06-07 | 2022-07-11 |
@@ -241,7 +242,8 @@
 | [Ginger](https://open.spotify.com/track/5kuaoj580FY2PFNes0kqC3) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/0msyMtUaewaEQKPlKjK5cU) | 3:22 | 2022-05-29 | 2022-07-29 |
 | [Gips](https://open.spotify.com/track/0sHJqALJte0dgyJyblz46D) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 1](https://open.spotify.com/album/41nlPakLyZvpX5GfkwHAbU) | 6:41 | 2022-11-08 | 2022-11-16 |
 | [Girl](https://open.spotify.com/track/1TVuQ54AaNhpE7QmBakvtp) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Girl](https://open.spotify.com/album/4es0Pxx1C9K59o1HPmp0JU) | 3:42 | 2022-08-30 | 2022-09-07 |
-| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 |  |
+| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 | 2023-04-15 |
+| [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 | 2023-04-13 |  |
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-03-29 |
 | [Gokyuchu](https://open.spotify.com/track/3P1hy53LptV8AhNe5Gh1tm) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/7E8CvB7huaCPvAoKQSVstA) | 5:17 | 2022-10-11 | 2022-10-19 |

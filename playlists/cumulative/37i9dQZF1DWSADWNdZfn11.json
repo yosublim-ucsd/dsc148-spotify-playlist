@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Call Your Girlfriend",
+        "url": "https://open.spotify.com/album/6NJqqVevvQwAOwOzZ7zZbg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Loof",
+          "url": "https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191701,
+      "name": "Call Your Girlfriend",
+      "url": "https://open.spotify.com/track/1rXk1c4KcPoAXfkSIrKmuJ"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn"
       },
@@ -892,6 +910,24 @@
       "duration_ms": 186842,
       "name": "Children",
       "url": "https://open.spotify.com/track/1HK3acWRuxitbvqiHuzDeB"
+    },
+    {
+      "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164883,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE"
     },
     {
       "album": {
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 250428,
       "name": "Dancing queen",
       "url": "https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8"
@@ -1147,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Enjoy the Silence",
+        "url": "https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku"
+      },
+      "artists": [
+        {
+          "name": "Rita May",
+          "url": "https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162785,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB"
+    },
+    {
+      "album": {
         "name": "Eternal Flame",
         "url": "https://open.spotify.com/album/5O2ViaBo8ZNNkYx3GnxxXY"
       },
@@ -1183,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "How I'm Feeling Now",
+        "url": "https://open.spotify.com/album/1F5EScGxpNeJhHrrmUrqbk"
+      },
+      "artists": [
+        {
+          "name": "Vakur Svalason",
+          "url": "https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229963,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/5DIZxKzGkxd5WTod2Gss2R"
+    },
+    {
+      "album": {
         "name": "Pop Pianology, Vol. 3",
         "url": "https://open.spotify.com/album/2WDlp0qPSo6uE0CpwfdXKh"
       },
@@ -1216,6 +1288,24 @@
       "duration_ms": 156000,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/79QJyCeKedEGv6njcE7S8m"
+    },
+    {
+      "album": {
+        "name": "Fields Of Gold",
+        "url": "https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD"
+      },
+      "artists": [
+        {
+          "name": "Bergamotte",
+          "url": "https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157119,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37"
     },
     {
       "album": {
@@ -1292,6 +1382,42 @@
       "duration_ms": 254090,
       "name": "Fix You - Piano Version",
       "url": "https://open.spotify.com/track/7gQ07Bd21vrDAiBgxcP4o6"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/70ltHCbOn5yTYdSeX6xMaQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Jax",
+          "url": "https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4LX1iXRBifNP6Js8mOHSO5"
+    },
+    {
+      "album": {
+        "name": "For No One",
+        "url": "https://open.spotify.com/album/3PUwPDAALl1BF2Qg4YvEqE"
+      },
+      "artists": [
+        {
+          "name": "Steve Dawson",
+          "url": "https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/1n6hy0dH4wYbD4m7CPAvGF"
     },
     {
       "album": {
@@ -1382,6 +1508,24 @@
       "duration_ms": 254953,
       "name": "F\u00f6r K\u00e4rlekens Skull",
       "url": "https://open.spotify.com/track/4rCJlK3Uw8Cv80AZWaWQBO"
+    },
+    {
+      "album": {
+        "name": "Girl on fire",
+        "url": "https://open.spotify.com/album/2zOAwVXSVxjxbp74MFl1oQ"
+      },
+      "artists": [
+        {
+          "name": "Taylor Stone",
+          "url": "https://open.spotify.com/artist/4RG7tWsxcGEyY5EtLKW4X7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212738,
+      "name": "Girl on fire",
+      "url": "https://open.spotify.com/track/4IuATSvO2qXkgTRuHC8LYq"
     },
     {
       "album": {
@@ -1745,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/4RPverR0mCeAWbgrF7zvkf"
+      },
+      "artists": [
+        {
+          "name": "Keely Lake",
+          "url": "https://open.spotify.com/artist/3M2jLYh2aNK2FLSpU1o4ft"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191700,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/7l3A71BEW1FAvSFlvLCagL"
+    },
+    {
+      "album": {
         "name": "Bad Habits & Hey Jude (Piano)",
         "url": "https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ"
       },
@@ -1872,6 +2034,24 @@
     {
       "album": {
         "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/36XmOrVk3emXrh5nG8RGPL"
+      },
+      "artists": [
+        {
+          "name": "Ciara Bess",
+          "url": "https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/7fMWxDPD58F8goBvmHheSe"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/5j6RnmqRKSK5UgCFkTc5WD"
       },
       "artists": [
@@ -1882,7 +2062,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 175000,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/7pAnGyZ2j1BImyrTkUMmzQ"
@@ -1904,6 +2084,24 @@
       "duration_ms": 159473,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt"
+    },
+    {
+      "album": {
+        "name": "How I'm Feeling Now",
+        "url": "https://open.spotify.com/album/1F5EScGxpNeJhHrrmUrqbk"
+      },
+      "artists": [
+        {
+          "name": "Vakur Svalason",
+          "url": "https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254177,
+      "name": "How I'm Feeling Now",
+      "url": "https://open.spotify.com/track/38yPSIgn1Hc9kgTQZW7leV"
     },
     {
       "album": {
@@ -2393,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208100,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko"
+    },
+    {
+      "album": {
         "name": "Piano Favorites 4",
         "url": "https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X"
       },
@@ -2771,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi"
+      },
+      "artists": [
+        {
+          "name": "Pia Nouvelle",
+          "url": "https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf"
+    },
+    {
+      "album": {
         "name": "CUFF IT",
         "url": "https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P"
       },
@@ -2998,7 +3232,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 138152,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/24pxMjslKW09Ew6LMUs0Og"
@@ -3020,6 +3254,24 @@
       "duration_ms": 203332,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X"
+      },
+      "artists": [
+        {
+          "name": "Wayne Buckley",
+          "url": "https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236870,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S"
     },
     {
       "album": {
@@ -3110,6 +3362,24 @@
       "duration_ms": 187375,
       "name": "No One - Piano Version",
       "url": "https://open.spotify.com/track/58l2B5WJj36xsc0yLYrRTm"
+    },
+    {
+      "album": {
+        "name": "No Surprise",
+        "url": "https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9"
+      },
+      "artists": [
+        {
+          "name": "Odette Pineda",
+          "url": "https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218326,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr"
     },
     {
       "album": {
@@ -3222,6 +3492,24 @@
       "duration_ms": 211750,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7pGMB4zx8av3QODOfUVqy1"
+      },
+      "artists": [
+        {
+          "name": "Piano Pianissimo",
+          "url": "https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6sbkYa0B9ofUkzk5MfUtPH"
     },
     {
       "album": {
@@ -3945,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7kOIdDWDFiP5qjelqOyH8C"
+      },
+      "artists": [
+        {
+          "name": "Nora Gray",
+          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231851,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP"
+    },
+    {
+      "album": {
         "name": "Piano Favorites 4",
         "url": "https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X"
       },
@@ -4125,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/6gTf9Fn2UixItSmFgWdfua"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1c5cSzqSCGLf2YfbBsoUUY"
+    },
+    {
+      "album": {
         "name": "Tears in Heaven",
         "url": "https://open.spotify.com/album/2Dmxvjk3f8x0nwcBw7OIyb"
       },
@@ -4158,6 +4482,24 @@
       "duration_ms": 206999,
       "name": "Thank You For The Music",
       "url": "https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc"
+    },
+    {
+      "album": {
+        "name": "C\u00e9line Piano Covers",
+        "url": "https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k"
+      },
+      "artists": [
+        {
+          "name": "Diego Dumas",
+          "url": "https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5"
     },
     {
       "album": {
@@ -4233,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "The long and winding road",
+        "url": "https://open.spotify.com/album/5TutzM4ffUT9H5MxzqzC23"
+      },
+      "artists": [
+        {
+          "name": "Laura Hanson",
+          "url": "https://open.spotify.com/artist/2PaeMuShS6wgfLp465LQU3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The long and winding road",
+      "url": "https://open.spotify.com/track/2WL3AT2ai6udaUhw7CjwbW"
+    },
+    {
+      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -4248,6 +4608,24 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "album": {
+        "name": "The Power Of Love",
+        "url": "https://open.spotify.com/album/1esxW8uKTEWEvmbTMXlTN3"
+      },
+      "artists": [
+        {
+          "name": "Elisa Mosel",
+          "url": "https://open.spotify.com/artist/2VNM8Yu05cK0W9sy9Ln2wM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199882,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1t9AJbE4IPwPHOeUfuonc6"
     },
     {
       "album": {
@@ -4666,6 +5044,42 @@
       "duration_ms": 176170,
       "name": "We Don't Need Another Hero",
       "url": "https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS"
+    },
+    {
+      "album": {
+        "name": "We Dont talk anymore",
+        "url": "https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh"
+      },
+      "artists": [
+        {
+          "name": "Alicia West",
+          "url": "https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185690,
+      "name": "We Dont talk anymore",
+      "url": "https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG"
+    },
+    {
+      "album": {
+        "name": "We Found Love",
+        "url": "https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni"
+      },
+      "artists": [
+        {
+          "name": "Josiah Burton",
+          "url": "https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195464,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV"
     },
     {
       "album": {

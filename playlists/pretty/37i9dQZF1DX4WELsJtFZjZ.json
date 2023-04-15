@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 657690,
+  "num_followers": 658341,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM0ODAzOCwwMDAwMDAwMGZiZTU0NDM3ODVjYWI3MjczNGIxYThkNGUxN2YyMjYz",
+  "snapshot_id": "MTY3ODM0ODAzOCwwMDAwMDAwMDdkYjNmYmUwYzc3Njk1YTNjNmExMjY0YjRiZGZmMTg1",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Temple Of Low Men",
-        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Good To Be Back",
         "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 277053,
       "name": "Wouldn't It Be Good",
       "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Temple Of Low Men",
+        "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Power Of Love: The Best Of Jennifer Rush",
-        "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rush",
-          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
-        }
-      ],
-      "duration_ms": 268200,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Power Of Love: The Best Of Jennifer Rush",
+        "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rush",
+          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+        }
+      ],
+      "duration_ms": 268200,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Heart Break",
-        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 297706,
-      "name": "Can You Stand The Rain",
-      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 336666,
       "name": "Father Figure - Remastered",
       "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Heart Break",
+        "url": "https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 297706,
+      "name": "Can You Stand The Rain",
+      "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Share Your Love",
-        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 253173,
       "name": "I Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Share Your Love",
+        "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -2159,6 +2143,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "The Secret Of Association",
         "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
       },
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Best Of Roxy Music",
-        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
+        "name": "Martika (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
       },
       "artists": [
         {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+          "name": "Martika",
+          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
         }
       ],
-      "duration_ms": 297306,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
+      "duration_ms": 287600,
+      "name": "Toy Soldiers",
+      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Martika (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
+        "name": "The Best Of Roxy Music",
+        "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
       },
       "artists": [
         {
-          "name": "Martika",
-          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Toy Soldiers",
-      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
+      "duration_ms": 297306,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 284496,
       "name": "Is This Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     }
   ],
   "unique_name": "Soft 80s",

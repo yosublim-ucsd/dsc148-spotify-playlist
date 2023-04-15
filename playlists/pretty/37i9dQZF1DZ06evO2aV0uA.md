@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,100 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,162 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [Dead Seeds](https://open.spotify.com/track/4KVfAs5lGzPHunOT1OZ5fG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:41 |
 | 50 | [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA0MmY4YTljYzJmYTJlMjkwZDliOTdhM2M4Mjk0NWYxYg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA4OTU5YzQ0MjA0MDBlOTgxZDUzMzU5MjI4MTk1MjExNA==`

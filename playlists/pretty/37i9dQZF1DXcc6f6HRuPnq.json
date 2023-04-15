@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 76763,
+  "num_followers": 76945,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMGI0MGIyZDIyM2Y0ODJjOTkxZDBiNDI4N2YzOTJjMjE1",
+  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMGI4YjM5NzA3NzlkZWU4YTZkZjg1OWQ4YWI4MWU0M2I5",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Track Record",
-        "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
-      },
-      "artists": [
-        {
-          "name": "Thorbj\u00f8rn Risager",
-          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
-        },
-        {
-          "name": "The Black Tornado",
-          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "RHYTHMS OF THE NIGHT",
-      "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Track Record",
+        "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
+      },
+      "artists": [
+        {
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "The Black Tornado",
+          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "RHYTHMS OF THE NIGHT",
+      "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "For Blind Willie",
-        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
-      },
-      "artists": [
-        {
-          "name": "Bror Gunnar Jansson",
-          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
-        }
-      ],
-      "duration_ms": 361970,
-      "name": "Lord I Just Can't Keep from Crying",
-      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 144040,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Born Under A Bad Sign",
+        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Personal Manager",
+      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Born Under A Bad Sign",
-        "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Personal Manager",
-      "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Everytime I Get to Drinkin' - Remastered",
-      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "That's My Story",
         "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
+      },
+      "artists": [
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Everytime I Get to Drinkin' - Remastered",
+      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
-      },
-      "artists": [
-        {
-          "name": "Jantso Jokelin",
-          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
-        }
-      ],
-      "duration_ms": 219915,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Mama's Still Got The Blues",
         "url": "https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Porch Sessions",
-        "url": "https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
       },
       "artists": [
         {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+          "name": "Jantso Jokelin",
+          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
         }
       ],
-      "duration_ms": 216546,
-      "name": "Becky Ann (feat. Mitch Kaxhmar & Ronnie Shellist)",
-      "url": "https://open.spotify.com/track/27wfSUGbv33dSWJ3y2tZQ2"
+      "duration_ms": 219915,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 451560,
       "name": "Night Shift Blues",
       "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Porch Sessions",
+        "url": "https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Becky Ann (feat. Mitch Kaxhmar & Ronnie Shellist)",
+      "url": "https://open.spotify.com/track/27wfSUGbv33dSWJ3y2tZQ2"
     },
     {
       "added_at": "2023-04-14 00:01:00",

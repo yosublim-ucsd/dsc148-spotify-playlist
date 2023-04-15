@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Lewis Capaldi",
-  "num_followers": 162649,
+  "num_followers": 162681,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwNTIwMCwwMDAwMDAwMGI3MzZkNWYxZmVkYjU2YmNkZGU3Mzk3NzUzMTJjNTI0",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDM4OGU2ZDE4ZDg4YjE5NGIxMTQxNjNiNmUwZTAwMTQw",
   "tracks": [
     {
       "added_at": "2023-04-13 17:00:00",
@@ -131,6 +131,26 @@
     {
       "added_at": "2023-04-13 17:00:00",
       "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-04-13 17:00:00",
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
       },
@@ -143,6 +163,42 @@
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
+    {
+      "added_at": "2023-04-13 17:00:00",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/3sAuWSoICmCl9cx6uBr4Ft"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/6wuASGjSmuoGXdWsBH7X4U"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "added_at": "2023-04-13 17:00:00",
@@ -631,26 +687,6 @@
     {
       "added_at": "2023-04-13 17:00:00",
       "album": {
-        "name": "Sky View ('No Way Home' Original Soundtrack)",
-        "url": "https://open.spotify.com/album/288wF3znYDgtuBc4dun2iX"
-      },
-      "artists": [
-        {
-          "name": "SUNNY",
-          "url": "https://open.spotify.com/artist/5IphjHq07j65nO3Pl2YOWe"
-        },
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Sky View ('No Way Home' Original Soundtrack)",
-      "url": "https://open.spotify.com/track/1Q3tnb61e6kz7J9QAEcBI7"
-    },
-    {
-      "added_at": "2023-04-13 17:00:00",
-      "album": {
         "name": "Our Spring : Who?",
         "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
@@ -667,6 +703,26 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2023-04-13 17:00:00",
+      "album": {
+        "name": "Blue night song",
+        "url": "https://open.spotify.com/album/2EIFbTHUp9QwbxJrs5w3pB"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        },
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 225910,
+      "name": "Blue night song",
+      "url": "https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B"
     },
     {
       "added_at": "2023-04-13 17:00:00",
@@ -940,7 +996,7 @@
       "added_at": "2023-04-13 17:00:00",
       "album": {
         "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
       "artists": [
         {
@@ -950,7 +1006,7 @@
       ],
       "duration_ms": 273693,
       "name": "Too Far Gone?",
-      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
       "added_at": "2023-04-13 17:00:00",
@@ -1019,6 +1075,26 @@
       "duration_ms": 157563,
       "name": "Dancing In The Courthouse",
       "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "added_at": "2023-04-13 17:00:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
       "added_at": "2023-04-13 17:00:00",
@@ -1383,6 +1459,22 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2023-04-13 17:00:00",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
     },
     {
       "added_at": "2023-04-13 17:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,844 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,115 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 72 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 |
 | 73 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
 | 74 | [Aokinaoi](https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g) | [Scandisk7](https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr) | [Aokinaoi](https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY) | 4:52 |
-| 75 | [Ascending Red](https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 3:05 |
+| 75 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 |
 
-Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDMwYzdkNmZmMDM4MDE5NzY4ZDVlNzg4MzM0OWRiZDZi`
+Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDc2N2NjZTY5OGNhYjAyMGNmZDA3ODg1M2NlNTM0MjNm`

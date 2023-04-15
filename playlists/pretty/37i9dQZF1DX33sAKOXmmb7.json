@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 42583,
+  "num_followers": 42673,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDQxYTFiYWRiNDFjYTQwZDJmYTUxMmM5NGEyNDU1Yzg0",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDgyMDY3Zjk5YzQ1ZjMzMTI2NGFlZGUwM2ZkZjU2OGY1",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "b'lieve i'm goin down...",
+        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Pretty Pimpin",
+      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1243,6 +1243,38 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1271,38 +1303,6 @@
       "duration_ms": 242000,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+        "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
       "artists": [
         {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+      "duration_ms": 217606,
+      "name": "Love Songs For Robots",
+      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1795,22 +1811,6 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Love Songs For Robots",
-      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 197596,
       "name": "I Need a Teacher",
       "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
     },
     {
       "added_at": "2022-02-04 21:53:01",

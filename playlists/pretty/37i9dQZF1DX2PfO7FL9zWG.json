@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 48560,
+  "num_followers": 48596,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDc1NSwwMDAwMDAwMDdmNTQzOGQ2MTUwMTY1MDdmMmIzM2QwMDJmMTc3MmVi",
+  "snapshot_id": "MTY4MDI5MDc1NSwwMDAwMDAwMGM5Y2Q3ODgzZjMxYzQ5MjJhMmQ1NmFlMTUzNTc5ZDg3",
   "tracks": [
     {
       "added_at": "2023-03-31 19:25:55",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Songs to Break Up To",
         "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "b'lieve i'm goin down...",
+        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Pretty Pimpin",
+      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2023-03-31 19:25:55",

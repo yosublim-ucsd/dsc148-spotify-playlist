@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime\. Listen to this year’s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href="https://anitrendz.net/news/2023/01/01/vote\-now\-for\-your\-anime\-of\-the\-year\-2022/?ref=socfb//">HERE</a>.
 
-151 songs - 8 hr 55 min
+153 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Seeking the Truth](https://open.spotify.com/track/4ccTgEsZDhmqZbdBgDBkdm) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [YAHZARAH](https://open.spotify.com/artist/7GGpbip5DdtNyfmE58OqGI) | [SPRIGGAN \(Original Series Soundtrack\)](https://open.spotify.com/album/575gqJtErZLKqw9Jj3TYpD) | 3:17 | 2022-12-09 |  |
 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 | 2022-12-09 |  |
 | [Skechers](https://open.spotify.com/track/2alc8VZAzDgdAsL2QMk3hu) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV) | [Skechers](https://open.spotify.com/album/4a50hfH6HJQywmghPYnRRW) | 1:46 | 2022-02-18 | 2022-12-10 |
+| [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-14 |  |
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2022-12-09 |  |
 | [Soul's Refrain](https://open.spotify.com/track/1vHysww8KxCBVFEzqMY7jP) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [EVANGELION: DEATH \(Original Soundtrack\)](https://open.spotify.com/album/5IG0NoQJ5IwyeaNRGhDPcd) | 5:17 | 2023-02-10 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2023-01-13 |  |
@@ -154,6 +155,7 @@
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2023-01-13 |  |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2023-01-13 |  |
 | [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2022-12-09 |  |
+| [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-14 |  |
 | [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 | 2023-01-13 |  |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-12-09 |  |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2023-01-06 |  |

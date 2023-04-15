@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,786 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,921 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 10 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 11 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 12 | [A Message to You Rudy \- 2015 Remaster](https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:52 |
-| 13 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
-| 14 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
+| 13 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
+| 14 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 |
 | 15 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 16 | [Same In The End](https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:36 |
 | 17 | [The Science of Selling Yourself Short](https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 3:06 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 55 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
 | 56 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
 | 57 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
-| 58 | [One Step Beyond](https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 2:39 |
-| 59 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
+| 58 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
+| 59 | [One Step Beyond](https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 2:39 |
 | 60 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
 | 61 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
 | 62 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 86 | [Play Some Ska](https://open.spotify.com/track/61uH7qBeQqVGfnCK26OQ8L) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Another Change of Plan](https://open.spotify.com/album/0QDAsdoBkF16UzcXWS11Bg) | 3:16 |
 | 87 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
 | 88 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
-| 89 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
-| 90 | [Tighten Up](https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:39 |
-| 91 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |
-| 92 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
-| 93 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 |
-| 94 | [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 |
+| 89 | [Tighten Up](https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:39 |
+| 90 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
+| 91 | [Step One](https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Battle Hymns](https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7) | 1:12 |
+| 92 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |
+| 93 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
+| 94 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 |
 | 95 | [Stupid](https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Stupid](https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c) | 3:13 |
 | 96 | [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 |
 | 97 | [Dreamcatcher](https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK) | [Stacked Like Pancakes](https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp) | [Strange Creatures \- EP](https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Lip Up Fatty](https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Viva La Ska Revolution](https://open.spotify.com/album/7Ix9aOmnkTwAIQomGB4ATh) | 2:46 |
 | 100 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 
-Snapshot ID: `MTY3MDYxMTUzOSwwMDAwMDAwMGIzMTRiMjg1OTA1MTM4NTVlZGU3NjE0NmVkNWY3ZTdl`
+Snapshot ID: `MTY3MDYxMTUzOSwwMDAwMDAwMDk0YTRkNTgyMjdmNTY2MTg0Zjc4ZWJmNjJmNWQyM2Jk`

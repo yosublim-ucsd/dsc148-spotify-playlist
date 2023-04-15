@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J?si=zVSJ6B4lQWKUAfvsGOdFWQ">Q Twins</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw?si=3bS5VgyJReir6n95q\-4PSQ">Malome Vector</a>
 
-358 songs - 1 day 1 hr 29 min
+359 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Where's Your Key](https://open.spotify.com/track/4VQ9rwBCGRjR7OEl0XuPKn) | [The One Who Sings](https://open.spotify.com/artist/2q2MBrkkj7y8evCayJ15PG) | [Thetha Mama](https://open.spotify.com/album/0fhzaeDu50uGOWz7d8fxbd) | 3:50 | 2021-11-11 | 2022-04-01 |
 | [Xola](https://open.spotify.com/track/1K1LdWVjJURkMXNaCmS62i) | [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi), [Sphesihle Zulu\-Dludla](https://open.spotify.com/artist/1BmoWjd81OQoAU190nxzJh) | [Ithuna lesgebengu](https://open.spotify.com/album/7nrxrJBzfEyl82Ae0YFdE9) | 4:26 | 2022-10-28 | 2022-12-02 |
 | [Xolele](https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Xolele](https://open.spotify.com/album/77ZMPaD41XDBxolBY0aiVB) | 5:08 | 2022-05-26 | 2022-09-02 |
+| [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-14 |  |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
 | [Zalabantu](https://open.spotify.com/track/3FCn8KMTSUkcxG7WGiu49r) | [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Zalabantu](https://open.spotify.com/album/7c1cpXqDVvvqdRHeefOiLH) | 4:00 | 2022-11-17 | 2022-12-02 |
 | [Zibonakalise \- Radio Edit](https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Zibonakalise \(Radio Edit\)](https://open.spotify.com/album/5BeJuk03PJJtVgFuM2Yday) | 3:04 | 2023-01-19 | 2023-01-28 |

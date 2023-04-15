@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
+    },
+    {
+      "album": {
         "name": "Black Angel",
         "url": "https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy"
       },
@@ -2033,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Dropped The Lo",
+        "url": "https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Dropped The Lo",
+      "url": "https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl"
+    },
+    {
+      "album": {
         "name": "Detroit Raised Me",
         "url": "https://open.spotify.com/album/1VSgHchOjhzuYMR9HdV3SC"
       },
@@ -3054,7 +3094,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 126733,
       "name": "Hate Being Lonely",
       "url": "https://open.spotify.com/track/3SpXBJKCjImLwlr2jwA6t5"
@@ -4124,7 +4164,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189113,
       "name": "Leather Belt",
       "url": "https://open.spotify.com/track/1uEzrWbDQqZJKMC1yUuNq4"
@@ -4250,7 +4290,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 118922,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/4HYhjtXDWh8cWeZLysLtJm"
@@ -5308,7 +5348,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 241320,
       "name": "OLD SKOOL WHOOP",
       "url": "https://open.spotify.com/track/3vVglxAcpBVDR0B5HquXrU"
@@ -5734,6 +5774,28 @@
       "duration_ms": 193201,
       "name": "Pop Out",
       "url": "https://open.spotify.com/track/2yj5fohdcJf48hdmB6QXD1"
+    },
+    {
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
       "album": {
@@ -6252,6 +6314,28 @@
       "duration_ms": 180750,
       "name": "Rockstar In His Prime",
       "url": "https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk"
+    },
+    {
+      "album": {
+        "name": "ROLL THE DICE (feat. DeJ Loaf)",
+        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224256,
+      "name": "ROLL THE DICE (feat. DeJ Loaf)",
+      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
       "album": {

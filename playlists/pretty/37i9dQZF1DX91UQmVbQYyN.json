@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Lana Del Rey",
-  "num_followers": 527820,
+  "num_followers": 528138,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAyNTc2NywwMDAwMDAwMDQ5MDI2YzgzYjI5N2VhODQ5MTRiOGQ3YmE5YjViODA3",
+  "snapshot_id": "MTY4MDAyNTc2NywwMDAwMDAwMDdlMzU4YzlkNGM5ZjYwNGZlYzQ1MjBkYWM3NzBhMTY4",
   "tracks": [
     {
       "added_at": "2023-03-08 16:17:46",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
     },
     {
-      "added_at": "2023-04-14 01:05:10",
+      "added_at": "2023-04-15 01:11:31",
       "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "In The Waiting Line",
+      "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
-        }
-      ],
-      "duration_ms": 271520,
-      "name": "In The Waiting Line",
-      "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Care For You",
         "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
       "artists": [
         {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1283,22 +1299,6 @@
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 280130,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 187072,
       "name": "Backwards Directions",
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
     }
   ],
   "unique_name": "EQUAL Indie",

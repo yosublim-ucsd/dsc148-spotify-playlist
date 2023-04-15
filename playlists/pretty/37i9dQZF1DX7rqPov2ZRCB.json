@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 60869,
+  "num_followers": 60897,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDYxMGIwMjlmY2FlMjcwYzMyMmRlMzg1NjdmN2E1MjQ3",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDIyMGU3YTY4ZWRlZDFiMGJjZDg5ZDdlYjU1M2YzMTY1",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -171,22 +171,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Te Fuiste De Aqui",
-        "url": "https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF"
-      },
-      "artists": [
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
-        }
-      ],
-      "duration_ms": 280079,
-      "name": "Te Fuiste De Aqui",
-      "url": "https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Los Numero Uno del Merengue Tipico, Vol. 2",
         "url": "https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 279092,
       "name": "La Grama Chapia",
       "url": "https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Te Fuiste De Aqui",
+        "url": "https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF"
+      },
+      "artists": [
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+        }
+      ],
+      "duration_ms": 280079,
+      "name": "Te Fuiste De Aqui",
+      "url": "https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -571,18 +571,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "!Ultramerengue!",
-        "url": "https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg"
+        "name": "Maria Diaz y Luis Vargas",
+        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
       },
       "artists": [
         {
-          "name": "Francisco Ulloa",
-          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Canto de Hacha",
-      "url": "https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi"
+      "duration_ms": 267493,
+      "name": "La Torera",
+      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -603,22 +607,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Maria Diaz y Luis Vargas",
-        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
+        "name": "!Ultramerengue!",
+        "url": "https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg"
       },
       "artists": [
         {
-          "name": "Maria Diaz",
-          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+          "name": "Francisco Ulloa",
+          "url": "https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw"
         }
       ],
-      "duration_ms": 267493,
-      "name": "La Torera",
-      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
+      "duration_ms": 222800,
+      "name": "Canto de Hacha",
+      "url": "https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi"
     },
     {
       "added_at": "2019-09-09 17:49:24",

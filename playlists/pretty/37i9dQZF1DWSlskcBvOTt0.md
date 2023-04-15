@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,892 likes - 100 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,075 likes - 100 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

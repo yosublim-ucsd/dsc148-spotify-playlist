@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/3wN1xtQgVdrZ3m5EdlAtJ9"
+      },
+      "artists": [
+        {
+          "name": "Stan Christ",
+          "url": "https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I"
+        },
+        {
+          "name": "Gianni Di Bernardo",
+          "url": "https://open.spotify.com/artist/7lS3FNTd0yoa06u0nv6ZTn"
+        },
+        {
+          "name": "RBX",
+          "url": "https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327278,
+      "name": "1994 - RBX Remix",
+      "url": "https://open.spotify.com/track/7jWPpQXw5h41iq4AOqSuca"
+    },
+    {
+      "album": {
         "name": "1996",
         "url": "https://open.spotify.com/album/5ZfQeNuDvVLLKYT93wq4Bu"
       },
@@ -20,6 +46,28 @@
       "duration_ms": 332591,
       "name": "1996 - Original Mix",
       "url": "https://open.spotify.com/track/4l3DJXvG7RuXWV6G9A2tL1"
+    },
+    {
+      "album": {
+        "name": "Addicted To Bass",
+        "url": "https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR"
+      },
+      "artists": [
+        {
+          "name": "Farrago",
+          "url": "https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351283,
+      "name": "Addicted To Bass",
+      "url": "https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp"
     },
     {
       "album": {
@@ -713,6 +761,28 @@
     },
     {
       "album": {
+        "name": "GOLDEN SZN",
+        "url": "https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN"
+      },
+      "artists": [
+        {
+          "name": "OGUZ",
+          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
+        },
+        {
+          "name": "Nyctonian",
+          "url": "https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294529,
+      "name": "GOLDEN SZN",
+      "url": "https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ"
+    },
+    {
+      "album": {
         "name": "Grab (Zeltak Rework)",
         "url": "https://open.spotify.com/album/3VGUnyKoOoZj8s74HgWd6v"
       },
@@ -880,7 +950,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 388551,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ"
@@ -902,6 +972,24 @@
       "duration_ms": 387500,
       "name": "In The Sky",
       "url": "https://open.spotify.com/track/2PQz55G64rFx5bbtT4fjnC"
+    },
+    {
+      "album": {
+        "name": "Intense Euphoria",
+        "url": "https://open.spotify.com/album/4p5IXNVNBoPx0mFIrYsU4O"
+      },
+      "artists": [
+        {
+          "name": "Basswell",
+          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339200,
+      "name": "Intense Euphoria",
+      "url": "https://open.spotify.com/track/2uV0XgjtnBQQpaCz5aCRts"
     },
     {
       "album": {
@@ -1018,6 +1106,54 @@
       "duration_ms": 313144,
       "name": "Lissandra",
       "url": "https://open.spotify.com/track/3rOaXVFcziiU5zPxrtfMCf"
+    },
+    {
+      "album": {
+        "name": "Love & Peace",
+        "url": "https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+        },
+        {
+          "name": "3rd Dale Universe",
+          "url": "https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360025,
+      "name": "Love & Peace",
+      "url": "https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH"
+    },
+    {
+      "album": {
+        "name": "Helfy Rapid EP",
+        "url": "https://open.spotify.com/album/6xISHJclSucoM74eRwJFyF"
+      },
+      "artists": [
+        {
+          "name": "AISHA (Sco)",
+          "url": "https://open.spotify.com/artist/3mFGWOyRFTCLKBQe2THZgr"
+        },
+        {
+          "name": "Franck",
+          "url": "https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380500,
+      "name": "Mad Wan",
+      "url": "https://open.spotify.com/track/01qWvpN7OAYdGWERfEEayl"
     },
     {
       "album": {
@@ -1564,6 +1700,24 @@
       "duration_ms": 383062,
       "name": "Roko's Basilisk",
       "url": "https://open.spotify.com/track/37AKE51z5lrYufEfv8HAzr"
+    },
+    {
+      "album": {
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/6TSumWOVNbNQy4sLwzc5II"
+      },
+      "artists": [
+        {
+          "name": "AnD",
+          "url": "https://open.spotify.com/artist/2QFYNMeBzrLvlTB8HDr01C"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341818,
+      "name": "Screaming",
+      "url": "https://open.spotify.com/track/5382vwQ9nBUPT9SI5SwMdh"
     },
     {
       "album": {

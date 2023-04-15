@@ -1842,6 +1842,24 @@
     {
       "album": {
         "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198927,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
+    },
+    {
+      "album": {
+        "name": "Ode to a Conversation Stuck in Your Throat",
         "url": "https://open.spotify.com/album/6wvU1NnDNokP76aA71p4DV"
       },
       "artists": [
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199232,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"

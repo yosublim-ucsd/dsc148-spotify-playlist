@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Alan Walker",
-  "num_followers": 752394,
+  "num_followers": 752486,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NDk3Miw4MDQ1YTY3MzU5YTg0YmRkYWZiZGFhNTJkNTRmZTFlYThjM2ViMDQz",
+  "snapshot_id": "NDk3OCwwYjdjNGRlOWEwYzY3NjM3MGRkNTNjODE3MmEzNWE4ZDQ1M2U5NGVm",
   "tracks": [
     {
       "added_at": "2023-04-07 08:53:11",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm"
     },
     {
+      "added_at": "2023-04-14 10:49:33",
+      "album": {
+        "name": "Everything U Promised",
+        "url": "https://open.spotify.com/album/2MeFsuUheaxvbwXsBHpocf"
+      },
+      "artists": [
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+        },
+        {
+          "name": "JJL",
+          "url": "https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv"
+        }
+      ],
+      "duration_ms": 160161,
+      "name": "Everything U Promised",
+      "url": "https://open.spotify.com/track/40KuxBJftkJQGmEQr6dCMt"
+    },
+    {
+      "added_at": "2023-04-13 09:19:49",
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/1Rt7712yU4yZ2P9JIleO8c"
+      },
+      "artists": [
+        {
+          "name": "Alex Skrindo",
+          "url": "https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/3WoScc1NUyA2baArEoSkxX"
+    },
+    {
       "added_at": "2023-04-07 08:53:11",
       "album": {
         "name": "Royalty",
@@ -65,6 +101,30 @@
       "url": "https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt"
     },
     {
+      "added_at": "2023-04-11 09:50:33",
+      "album": {
+        "name": "Paper Walls",
+        "url": "https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9"
+      },
+      "artists": [
+        {
+          "name": "Elliot Kings",
+          "url": "https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm"
+        },
+        {
+          "name": "Riggs",
+          "url": "https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj"
+        },
+        {
+          "name": "Mykyl",
+          "url": "https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r"
+        }
+      ],
+      "duration_ms": 166092,
+      "name": "Paper Walls",
+      "url": "https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV"
+    },
+    {
       "added_at": "2023-04-07 08:53:11",
       "album": {
         "name": "Cradles",
@@ -81,20 +141,44 @@
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
     },
     {
-      "added_at": "2023-04-13 09:19:49",
+      "added_at": "2023-04-14 10:48:59",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/1Rt7712yU4yZ2P9JIleO8c"
+        "name": "The Raven",
+        "url": "https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E"
       },
       "artists": [
         {
-          "name": "Alex Skrindo",
-          "url": "https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P"
+          "name": "ATSMXN",
+          "url": "https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW"
+        },
+        {
+          "name": "XTOM",
+          "url": "https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/3WoScc1NUyA2baArEoSkxX"
+      "duration_ms": 115677,
+      "name": "The Raven",
+      "url": "https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8"
+    },
+    {
+      "added_at": "2023-04-14 10:49:15",
+      "album": {
+        "name": "Immortal (feat. Josh Rubin)",
+        "url": "https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj"
+      },
+      "artists": [
+        {
+          "name": "CITYWLKR",
+          "url": "https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Immortal (feat. Josh Rubin)",
+      "url": "https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR"
     },
     {
       "added_at": "2023-04-13 09:19:20",
@@ -131,30 +215,6 @@
       "duration_ms": 99428,
       "name": "Bad Habit (feat. Zaug) - Phonk Version",
       "url": "https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM"
-    },
-    {
-      "added_at": "2023-04-11 09:50:33",
-      "album": {
-        "name": "Paper Walls",
-        "url": "https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9"
-      },
-      "artists": [
-        {
-          "name": "Elliot Kings",
-          "url": "https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm"
-        },
-        {
-          "name": "Riggs",
-          "url": "https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj"
-        },
-        {
-          "name": "Mykyl",
-          "url": "https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r"
-        }
-      ],
-      "duration_ms": 166092,
-      "name": "Paper Walls",
-      "url": "https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV"
     },
     {
       "added_at": "2023-04-07 08:53:11",

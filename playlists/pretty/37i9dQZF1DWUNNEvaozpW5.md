@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,403 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,558 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 17 | [Rojitas las orejas](https://open.spotify.com/track/42R5irny7qThOYUThAL7VW) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A Puerta Cerrada](https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1) | 3:44 |
 | 18 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 |
 | 19 | [Camiseta de Rokanrol](https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Camiseta de Rokanrol](https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l) | 3:49 |
-| 20 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
+| 20 | [Insurrección \- 2008 Remaster](https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Enemigos de lo ajeno \(2008 Remaster\)](https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ) | 2:13 |
 | 21 | [La vereda de la puerta de atrás](https://open.spotify.com/track/4kJP8Z888wREJ8bRMWNMuk) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Yo, Minoría Absoluta](https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh) | 4:03 |
 | 22 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 |
 | 23 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
 | 24 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 |
 | 25 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 |
-| 26 | [Insurrección \- 2008 Remaster](https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Enemigos de lo ajeno \(2008 Remaster\)](https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ) | 2:13 |
+| 26 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
 | 27 | [La luna me sabe a poco](https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Besos de Perro](https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz) | 4:27 |
 | 28 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 |
 | 29 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 49 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 50 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 |
 | 51 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
-| 52 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
-| 53 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
-| 54 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
+| 52 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
+| 53 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
+| 54 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
 | 55 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
 | 56 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
 | 57 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 75 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDA3MTIwMGM3NTQ5YjQwOWM1MmMyMmViOWQzZTM0NzY3`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDQzNDRmYzQzMzAxNjlmMDgyNGI2MmViZWU1ODE1Y2Y5`

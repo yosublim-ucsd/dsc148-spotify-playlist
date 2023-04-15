@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,128 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,264 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 45 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
 | 46 | [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 |
 | 47 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 |
-| 48 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
-| 49 | [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 |
+| 48 | [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 |
+| 49 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDg2OWVmMWViZTg1YjBhOTM4OThmZTg0NTY4NDVlNzFm`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDM1YzcwMWU4NmI1Zjk3ZmJhOTJiNTljMDczMTZhZjZm`

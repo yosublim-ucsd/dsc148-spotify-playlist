@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Becky G & Omega
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,435 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,542 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 75 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 |
 | 76 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 |
 | 77 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
-| 78 | [Nubes Negras](https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Nubes Negras](https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl) | 4:06 |
-| 79 | [Tú 1ero](https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Tú 1ero](https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL) | 3:09 |
+| 78 | [Tú 1ero](https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Tú 1ero](https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL) | 3:09 |
+| 79 | [Nubes Negras](https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Nubes Negras](https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl) | 4:06 |
 | 80 | [Religión](https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Religión](https://open.spotify.com/album/59M5urdBBastXOof10375B) | 3:40 |
 | 81 | [Todavía Te Espero](https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Todavía Te Espero](https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3) | 3:12 |
 | 82 | [Sincero \- Versión Salsa](https://open.spotify.com/track/5mQtZ1tv8of7sHwdOOiW6T) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/1z4qd96xvRzjc5MWONlsWG) | 3:05 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 92 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 |
 | 93 | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 |
 | 94 | [Cariño Mío](https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz) | 3:17 |
-| 95 | [Ojalá](https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ojalá](https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW) | 3:35 |
+| 95 | [Si Tú Me Dices Ven \- Versión Salsa](https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:39 |
 | 96 | [No Te Vayas](https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [No Te Vayas](https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9) | 3:46 |
-| 97 | [Si Tú Me Dices Ven \- Versión Salsa](https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:39 |
+| 97 | [Ojalá](https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ojalá](https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW) | 3:35 |
 | 98 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
 | 99 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
 | 100 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
 
-Snapshot ID: `MTY4MTQyNjIzNywwMDAwMDAwMDY5YmRjMzI5NjljN2FmYTUwMGFiYTliYjQ0NDY5ZTIx`
+Snapshot ID: `MTY4MTQyNjIzNywwMDAwMDAwMGZlODJjNWE0MTE5Y2U5N2QwZTc2M2Y4N2IzYTJlNTBm`

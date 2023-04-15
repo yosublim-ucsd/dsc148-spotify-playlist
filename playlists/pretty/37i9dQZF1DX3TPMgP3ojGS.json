@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 345759,
+  "num_followers": 345948,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMDM3YzRiOTE3NTdhN2JhMzQzZDNkYjk4NGMyMTkxMDk4",
+  "snapshot_id": "MTY3OTU2NjcyMiwwMDAwMDAwMGJiODk1MmJjOTNkMjE3MTljNDViZjY2ZWE5NTJhYTc4",
   "tracks": [
     {
       "added_at": "2023-03-23 10:18:42",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Benediction",
-        "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
-      },
-      "artists": [
-        {
-          "name": "Nadav Amir-Himmel",
-          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
-        }
-      ],
-      "duration_ms": 143920,
-      "name": "Benediction",
-      "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Nowesind",
         "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 119120,
       "name": "Nowesind",
       "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Benediction",
+        "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
+      },
+      "artists": [
+        {
+          "name": "Nadav Amir-Himmel",
+          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
+        }
+      ],
+      "duration_ms": 143920,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
-      },
-      "artists": [
-        {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
-        }
-      ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 142805,
       "name": "In Repose",
       "url": "https://open.spotify.com/track/50Ihxe8oJ8cQ1tDYoehuTc"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+      },
+      "artists": [
+        {
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+        }
+      ],
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Con Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 146679,
-      "name": "Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Evenings on Instagram, Pt. I",
         "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 61000,
       "name": "And So the Story Began",
       "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Con Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 146679,
+      "name": "Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Alivio",
-        "url": "https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Alivio",
-      "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 117271,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Alivio",
+        "url": "https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg"
+      },
+      "artists": [
+        {
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Alivio",
+      "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1147,6 +1147,38 @@
       "duration_ms": 189105,
       "name": "Cascada",
       "url": "https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
+      },
+      "artists": [
+        {
+          "name": "Frederiq",
+          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Sans Regrets",
+        "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 141861,
+      "name": "Sans Regrets",
+      "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1203,38 +1235,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
-      },
-      "artists": [
-        {
-          "name": "Frederiq",
-          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
-        "name": "Sans Regrets",
-        "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 141861,
-      "name": "Sans Regrets",
-      "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/2ODTazL8f1JIX0cJ7hiyrt"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Os ventos do amor",
-        "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Kruse",
-          "url": "https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb"
-        }
-      ],
-      "duration_ms": 120066,
-      "name": "Os ventos do amor",
-      "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Wolken Traum",
         "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 152690,
       "name": "Sternennacht",
       "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Os ventos do amor",
+        "url": "https://open.spotify.com/album/7cgKx22LkSM351EC6mJ6yx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Kruse",
+          "url": "https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb"
+        }
+      ],
+      "duration_ms": 120066,
+      "name": "Os ventos do amor",
+      "url": "https://open.spotify.com/track/0NQrHEQ4wPot63kIRzjASq"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
-      },
-      "artists": [
-        {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
-        }
-      ],
-      "duration_ms": 132318,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Hour of Rest",
         "url": "https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 112653,
       "name": "Hour of Rest",
       "url": "https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Meditabundus",
-        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
-      },
-      "artists": [
-        {
-          "name": "Kellen Chase",
-          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Meditabundus",
-      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
-    },
-    {
-      "added_at": "2023-03-23 10:18:42",
-      "album": {
         "name": "Dualities",
         "url": "https://open.spotify.com/album/4t57BfTbtsSquhUsYXBQTm"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 129306,
       "name": "Dualities",
       "url": "https://open.spotify.com/track/5t9WS1mp1WGOqz6lJut8za"
+    },
+    {
+      "added_at": "2023-03-23 10:18:42",
+      "album": {
+        "name": "Meditabundus",
+        "url": "https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN"
+      },
+      "artists": [
+        {
+          "name": "Kellen Chase",
+          "url": "https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Meditabundus",
+      "url": "https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk"
     },
     {
       "added_at": "2023-03-23 10:18:42",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-03-23 10:18:42",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ"
+        "name": "Abode",
+        "url": "https://open.spotify.com/album/5hB88sg8OswH5mzNJ3Pixr"
       },
       "artists": [
         {
-          "name": "Michiel Borstlap",
-          "url": "https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh"
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
         }
       ],
-      "duration_ms": 152068,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU"
+      "duration_ms": 149197,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc"
     }
   ],
   "unique_name": "Coffee and Piano",

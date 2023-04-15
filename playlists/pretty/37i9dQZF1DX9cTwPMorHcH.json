@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 62293,
+  "num_followers": 62371,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMDU4MjQyOTdiYzUwMzMzNDMyZTU3OTYwOWI3NDA4MzVi",
+  "snapshot_id": "MTY2NzQ5MDkzNSwwMDAwMDAwMGZhZjVkNDUxYmJhMTcxMzkyZmUxM2FlYzA0ZWMxMGQz",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 152350,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 152350,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "One Bourbon, One Scotch, One Beer",
-      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Revelator",
         "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "One Bourbon, One Scotch, One Beer",
+      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -587,18 +587,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 227751,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 227751,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
+    },
+    {
       "added_at": "2022-11-03 15:55:35",
       "album": {
         "name": "Inflation",
@@ -1007,22 +1023,6 @@
       "duration_ms": 199734,
       "name": "Inflation",
       "url": "https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Just a Game",
+      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
       },
@@ -1109,20 +1125,20 @@
       "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
+      "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "Baby, Please Come Home (Bonus Version)",
-        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
         }
       ],
-      "duration_ms": 177066,
-      "name": "Just a Game",
-      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1141,22 +1157,6 @@
       "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "War In My Mind",
@@ -1171,22 +1171,6 @@
       "duration_ms": 215911,
       "name": "Bad Woman Blues",
       "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1207,6 +1191,22 @@
       "duration_ms": 240493,
       "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "An Honest Man",
+        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 246177,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Brighter Days",
@@ -1271,22 +1287,6 @@
       "duration_ms": 239266,
       "name": "Little Angel Child",
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "An Honest Man",
-        "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 246177,
-      "name": "An Honest Man",
-      "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Bring 'Em In",
@@ -1643,6 +1627,22 @@
       "duration_ms": 317320,
       "name": "What Kind Of Woman Is This?",
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     }
   ],
   "unique_name": "Blues Drive",

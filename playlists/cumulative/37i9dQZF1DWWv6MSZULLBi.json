@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: boygenius",
+  "description": "A laid-back trip in the folk scene. Cover: Feist",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202102,
       "name": "afterall",
       "url": "https://open.spotify.com/track/0JFAzsu2ZYX7HmtjRQ3dVu"
@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "American Band",
+        "url": "https://open.spotify.com/album/4mBrjs3kdxzgtWCfGQvD6g"
+      },
+      "artists": [
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224128,
+      "name": "American Band",
+      "url": "https://open.spotify.com/track/6Jko7ujfOIdrICLC3po34e"
+    },
+    {
+      "album": {
         "name": "Anchored",
         "url": "https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171486,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/5zvo5IHhdyHXTBSdO8H4ZI"
@@ -759,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Stand in the Joy",
+        "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Broken Heart of Mine",
+      "url": "https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X"
+    },
+    {
+      "album": {
         "name": "Buzz Cut",
         "url": "https://open.spotify.com/album/04QmI7yV5m6I8UtUKjiQMs"
       },
@@ -1008,6 +1044,24 @@
       "duration_ms": 259168,
       "name": "Charioteer",
       "url": "https://open.spotify.com/track/2xY3s8F9xrCuSufGjODYok"
+    },
+    {
+      "album": {
+        "name": "christian scientist",
+        "url": "https://open.spotify.com/album/46olos43yORnxof94frLRG"
+      },
+      "artists": [
+        {
+          "name": "summersets",
+          "url": "https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203107,
+      "name": "christian scientist",
+      "url": "https://open.spotify.com/track/1JCSCizyaMq8FlGzLu2Axw"
     },
     {
       "album": {
@@ -1518,7 +1572,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185613,
       "name": "Down in the Willow Garden (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/5sUhZ4Q32gzQEbKR5HJzaF"
@@ -2199,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Dom Louis",
+        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175423,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
+    },
+    {
+      "album": {
         "name": "Wisconsin",
         "url": "https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG"
       },
@@ -2639,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "Heading for Home (feat. John Legend)",
+        "url": "https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Heading for Home (feat. John Legend)",
+      "url": "https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/19UhMQaBeeR2t3tdcnsInE"
       },
@@ -2744,7 +2838,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk"
@@ -3915,6 +4009,42 @@
     },
     {
       "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op"
+    },
+    {
+      "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/0OHpfNdFdOeqf5OSb6RZSS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Church",
+          "url": "https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244569,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/63zDvmBVcYFsSdv1khtFX0"
+    },
+    {
+      "album": {
         "name": "Lost In The Water",
         "url": "https://open.spotify.com/album/5nG0Wogo87eozwXnKHjXJ4"
       },
@@ -4942,7 +5072,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 325253,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/0Qy0ydBu4VsKdnKNTazNrf"
@@ -6271,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198416,
+      "name": "The Redwing",
+      "url": "https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU"
+    },
+    {
+      "album": {
         "name": "THE SUN & THE SEA (feat. Donovan Woods)",
         "url": "https://open.spotify.com/album/11kek3xb49b40Y0JDCVw75"
       },
@@ -6636,7 +6784,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201826,
       "name": "Turning Onto You",
       "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
@@ -6654,7 +6802,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 193133,
       "name": "Turpentine",
       "url": "https://open.spotify.com/track/2vrWABqmYi9PMqusDwRhPc"
@@ -6878,6 +7026,24 @@
       "duration_ms": 187453,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk"
+    },
+    {
+      "album": {
+        "name": "Waterfallin'",
+        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Waterfallin'",
+      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
     },
     {
       "album": {
@@ -7286,7 +7452,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"
@@ -7470,7 +7636,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187360,
       "name": "You Could Be Free",
       "url": "https://open.spotify.com/track/2bnia5glTFaCJMbRenC0U3"

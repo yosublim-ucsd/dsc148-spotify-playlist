@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: アイナ・ジ・エンド \(AiNA THE END\)
 
-887 songs - 2 day 8 hr 23 min
+888 songs - 2 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 | 2022-08-17 | 2022-09-10 |
 | [Girl](https://open.spotify.com/track/4UxuBBgV1wsv6GIMrYVpTW) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [INNER JOURNEY](https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v) | 3:40 | 2022-09-08 | 2022-09-15 |
 | [girl](https://open.spotify.com/track/3mqeR1acQPMzeX9n3zPoh6) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [girl](https://open.spotify.com/album/1sug5oEX1Zf92dHGoUY9e5) | 4:12 | 2022-06-21 | 2022-06-29 |
-| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 |  |
+| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 | 2023-04-15 |
+| [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 | 2023-04-13 |  |
 | [Give Me](https://open.spotify.com/track/7KMMwN6c0gOnPcXPhhAcAi) | [LilyClone](https://open.spotify.com/artist/7b9iPPDSz0VFOHu3xmbDDE) | [Give Me](https://open.spotify.com/album/4riCVcsuZNLGs0iqF6kM7T) | 3:10 | 2022-06-02 | 2022-06-07 |
 | [GO](https://open.spotify.com/track/0vk7STMAkAoJW9TksOrYV2) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [GO](https://open.spotify.com/album/4PrNZxvasWytfc6p1VPm8D) | 3:20 | 2022-05-31 | 2022-06-16 |
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |

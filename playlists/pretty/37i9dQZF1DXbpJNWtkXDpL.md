@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a nuestros artista Radar México 2022!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,260 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,274 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 35 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 |
 | 36 | [Quédate Conmigo](https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Quédate Conmigo](https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk) | 3:33 |
 | 37 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
-| 38 | [El Fantasma](https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Fantasma](https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I) | 3:02 |
-| 39 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
+| 38 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
+| 39 | [El Fantasma](https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Fantasma](https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I) | 3:02 |
 | 40 | [Te Vas](https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Te Vas](https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR) | 2:37 |
 | 41 | [Más Tarde \- Remix](https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA) | 3:26 |
 | 42 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Mala Manía](https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mala Manía](https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs) | 3:23 |
 | 50 | [C'est Pas Moi](https://open.spotify.com/track/0oLX98sKL7axVJKnmuCBvT) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/4dCj9ZcOfgd6mRw346lc0o) | 3:26 |
 
-Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMGMyNWMyN2NmNWRlMGViMzZlMjBmMmYyZTQzZjczOWVl`
+Snapshot ID: `MTY3MzQxNjgwMCwwMDAwMDAwMDlkM2M0YzIxNzA3N2JhYWY1ZTllZGE3Y2RmOGQxNjMy`

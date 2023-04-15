@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,184 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,237 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 60 | [Protocol](https://open.spotify.com/track/02owX0PUSKGXw4tMPaUw56) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8) | [Protocol](https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m) | 4:15 |
 | 61 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 62 | [Above the Salt](https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Above the Salt](https://open.spotify.com/album/7tHZf9HwjVlQjQ7JkAXWNE) | 3:46 |
-| 63 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 |
-| 64 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
+| 63 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
+| 64 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 |
 | 65 | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Straight Up Relaxin' \(feat\. Cosmo's Midnight\)](https://open.spotify.com/album/2sJDqAwhkjC0FWC51EGOGd) | 4:02 |
 | 66 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 |
 | 67 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 70 | [Fade Into Black](https://open.spotify.com/track/6xo1HqgGdoc3RF3rJ036t6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:04 |
 
-Snapshot ID: `MTY4MTM5NzI0MCwwMDAwMDAwMDJlOWY1YzllYzAzMzhhNTRlYWVkMjU4Zjk2YWRhNGYw`
+Snapshot ID: `MTY4MTM5NzI0MCwwMDAwMDAwMGY2ZGYzM2JkY2RkMTQ4Y2U5NDVlNmYzOTE1ODc3YTVl`

@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Straight and Narrow",
+        "url": "https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF"
+    },
+    {
+      "album": {
         "name": "Tell Your Mom",
         "url": "https://open.spotify.com/album/4ZaGuPG5ubzLHpB9nt28Df"
       },
@@ -2522,6 +2540,24 @@
       "duration_ms": 176087,
       "name": "Villain",
       "url": "https://open.spotify.com/track/79OIzp6GB4Sxxc0xT9tuhp"
+    },
+    {
+      "album": {
+        "name": "Wasting All These Tears",
+        "url": "https://open.spotify.com/album/3ZGKM41lZMynyRwVgGPmez"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/4flWHSLV6ut0sPu0nQ1lCE"
     },
     {
       "album": {

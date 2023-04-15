@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,215 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,284 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 20 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 | 21 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
 | 22 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
-| 23 | [Flowers](https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:34 |
-| 24 | [Weekend](https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N) | 3:08 |
-| 25 | [Closer](https://open.spotify.com/track/6XM1bizWRQjDmrlDn4RRSy) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/373PVFL4mryTDGQSRZwf0D) | 3:28 |
-| 26 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
-| 27 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 |
-| 28 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
-| 29 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 |
+| 23 | [Closer](https://open.spotify.com/track/6XM1bizWRQjDmrlDn4RRSy) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/373PVFL4mryTDGQSRZwf0D) | 3:28 |
+| 24 | [Flowers](https://open.spotify.com/track/6dv59ySen7al8c1xGC7wIv) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:34 |
+| 25 | [Weekend](https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N) | 3:08 |
+| 26 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 |
+| 27 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 |
+| 28 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 |
+| 29 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
 | 30 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
 
-Snapshot ID: `MTY3OTU4Mzc1MSwwMDAwMDAwMDI3MmE4ZjZhZjcwNDQxMzMwZDI1YTRjODMzZmE2NmQ3`
+Snapshot ID: `MTY3OTU4Mzc1MSwwMDAwMDAwMGE3MmFmMTQ5NDA5Mzc2MzljZWRhYjhhNjY2ODk0Zjhl`

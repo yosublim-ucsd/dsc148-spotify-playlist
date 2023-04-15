@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Joshwa",
-  "num_followers": 581722,
+  "num_followers": 581777,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwODc4NiwwMDAwMDAwMDljNjM5OTA2ZmM4OWVlZmE3NjRlMGRiOTdkYTAxM2Fk",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGJlYjcyMThiZjQ0ZWI5ZmE4YTA3NGJiMGE2MWIyMTMx",
   "tracks": [
     {
       "added_at": "2023-03-24 04:01:00",
@@ -273,20 +273,20 @@
       "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Rhymorator",
-        "url": "https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW"
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
       },
       "artists": [
         {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Rhymorator",
-      "url": "https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy"
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -325,44 +325,36 @@
       "url": "https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "(still) WON'T4GETU",
-        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 374116,
-      "name": "(still) WON'T4GETU",
-      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+      "duration_ms": 170624,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+        "name": "Rhymorator",
+        "url": "https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+      "duration_ms": 152380,
+      "name": "Rhymorator",
+      "url": "https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -403,6 +395,22 @@
       "duration_ms": 167097,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -503,22 +511,6 @@
       "duration_ms": 127699,
       "name": "Case Of The Ex (feat. Mya Francis)",
       "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Smack Yo'",
-        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Smack Yo'",
-      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -731,6 +723,30 @@
     {
       "added_at": "2023-03-17 04:01:00",
       "album": {
+        "name": "(still) WON'T4GETU",
+        "url": "https://open.spotify.com/album/6bUu40spRoUdMgjryJKi54"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        }
+      ],
+      "duration_ms": 374116,
+      "name": "(still) WON'T4GETU",
+      "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "added_at": "2023-03-17 04:01:00",
+      "album": {
         "name": "La Samba",
         "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
       },
@@ -821,30 +837,6 @@
       "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
     },
     {
-      "added_at": "2023-03-31 13:06:37",
-      "album": {
-        "name": "All Designer",
-        "url": "https://open.spotify.com/album/0in7NDSBytVQkL4vT9dONv"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 189843,
-      "name": "All Designer - Tom Enzy Remix",
-      "url": "https://open.spotify.com/track/0uBD51pSHlwVpjbfjUWGRE"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Pa Lante",
@@ -869,6 +861,30 @@
       "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
     },
     {
+      "added_at": "2023-03-31 13:06:37",
+      "album": {
+        "name": "All Designer",
+        "url": "https://open.spotify.com/album/0in7NDSBytVQkL4vT9dONv"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 189843,
+      "name": "All Designer - Tom Enzy Remix",
+      "url": "https://open.spotify.com/track/0uBD51pSHlwVpjbfjUWGRE"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Vibe Like That (feat. Georgia Meek)",
@@ -891,22 +907,6 @@
       "duration_ms": 203108,
       "name": "Vibe Like That (feat. Georgia Meek)",
       "url": "https://open.spotify.com/track/0dH0pegRa3TILf9wzvI7jQ"
-    },
-    {
-      "added_at": "2023-02-03 21:08:48",
-      "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 204820,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1097,6 +1097,30 @@
       "url": "https://open.spotify.com/track/6TFXABE6cy6UH9VK4MDI8u"
     },
     {
+      "added_at": "2023-03-31 13:06:37",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/3ec1ZqVWs2lAFoGqHFIlIR"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+        },
+        {
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/4N4xtDgLIqGhPG5ikMqP3k"
+    },
+    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Just What The World Needs EP",
@@ -1183,30 +1207,6 @@
       "duration_ms": 255234,
       "name": "Six Figures",
       "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
-    },
-    {
-      "added_at": "2023-03-31 13:06:37",
-      "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/3ec1ZqVWs2lAFoGqHFIlIR"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Kastelo",
-          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
-        },
-        {
-          "name": "Aaron Pfeiffer",
-          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/4N4xtDgLIqGhPG5ikMqP3k"
     },
     {
       "added_at": "2023-01-13 05:00:00",

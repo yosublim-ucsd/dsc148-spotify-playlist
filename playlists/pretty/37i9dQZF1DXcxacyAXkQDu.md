@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,969 likes - 250 songs - 14 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,112 likes - 250 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 221 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
 | 222 | [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 |
 | 223 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
-| 224 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 |
-| 225 | [Home](https://open.spotify.com/track/4fcElESpEHb3iFtOxxBiTZ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 3:47 |
+| 224 | [Home](https://open.spotify.com/track/4fcElESpEHb3iFtOxxBiTZ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 3:47 |
+| 225 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 |
 | 226 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/4aVE92z0drZzYHKTk4ToVD) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside](https://open.spotify.com/album/6gkVU0EDZmUJkGww1487z7) | 3:46 |
 | 227 | [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 |
 | 228 | [Fool For You](https://open.spotify.com/track/4eECaktwFUcoBwdhuukv6d) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 3:16 |
@@ -253,10 +253,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 243 | [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 |
 | 244 | [Drink About \- Acoustic Version](https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Drink About \(Acoustic Version\)](https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo) | 2:57 |
 | 245 | [Fickle Heart](https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [Fickle Heart](https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z) | 3:21 |
-| 246 | [Who Are We](https://open.spotify.com/track/6qw3TxMncHPSdSfJ3esZKZ) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Now & Then](https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI) | 4:33 |
-| 247 | [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 |
+| 246 | [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 |
+| 247 | [Who Are We](https://open.spotify.com/track/6qw3TxMncHPSdSfJ3esZKZ) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Now & Then](https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI) | 4:33 |
 | 248 | [In My Dreams](https://open.spotify.com/track/1XcXLeFN4JNpUTeGnUPCWj) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:09 |
 | 249 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 | 250 | [For a While](https://open.spotify.com/track/4w051WDUnlgzmR1IZeSgLL) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:54 |
 
-Snapshot ID: `MTY4MDI2MDQwMCwwMDAwMDAwMDY0MjQzZjI1NzUyYTk0MDg5NzI3MDM4OWM1OWZiZDZm`
+Snapshot ID: `MTY4MTQ3MDAwMCwwMDAwMDAwMDFiMzIyMmUzZGU1MTU0ODhmODBjMjU5NzAyNGZjZGQx`

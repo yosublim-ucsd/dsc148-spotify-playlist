@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabriels
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,760 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,810 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 12 | [People Tell Me / Les gens me disent \(feat\. Julian Lage\)](https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 2:36 |
 | 13 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
 | 14 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 |
-| 15 | [Cargo of Oranges](https://open.spotify.com/track/1Vuo6uCHh9Zf3CAiu4Vr2C) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe\)](https://open.spotify.com/album/4YwQsMg3LG3z032y3KPHYE) | 3:12 |
+| 15 | [Cargo of Oranges](https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe Edition\)](https://open.spotify.com/album/6cJxhnKH8MoueYQod1iuH1) | 3:12 |
 | 16 | [Momo](https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U) | [David Georgelet](https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ), [François Chesnel](https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w), [Yoni Zelnik](https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs) | [La Septième Reine](https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO) | 3:05 |
 | 17 | [Mat Max](https://open.spotify.com/track/50LexdUge0HcHesRocUvGa) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Sylvain Beuf](https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [Mat Max](https://open.spotify.com/album/3MGqkowFXei8xJPfJcO1M2) | 3:46 |
 | 18 | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G) | 5:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Agony](https://open.spotify.com/track/0F74dT9SZEtGzd8bg7bd3c) | [Oan Kim](https://open.spotify.com/artist/3JrPOpwbNt3AwKU3ElBtgW) | [Oan Kim & the Dirty Jazz](https://open.spotify.com/album/2JdcIcXxMhbqCP0foDe6ws) | 2:41 |
 | 50 | [Sudra Funk](https://open.spotify.com/track/6DFJkfHrSzpBT8vU2APNDe) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Street of Minarets](https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx) | 4:21 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMGExNzJmODQ5YWY0OTA3NDYxMzQ1MjQ1OWVhNGU2YWEz`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDg4YTA0NThkZTdiNWYwMWE5MTBhODYxMDMyYzk4YWE2`

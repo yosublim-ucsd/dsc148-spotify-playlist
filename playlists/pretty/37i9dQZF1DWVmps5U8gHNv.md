@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,231 likes - 112 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,506 likes - 112 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 6 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
 | 7 | [Carolina in My Mind](https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:58 |
 | 8 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:26 |
-| 9 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 |
-| 10 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
-| 11 | [Mississippi \- Version 2](https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 5:12 |
+| 9 | [Watching the River Flow](https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Watching the River Flow \(From 'Shadow Kingdom'\)](https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR) | 3:00 |
+| 10 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 |
+| 11 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
 | 12 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 4:20 |
 | 13 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |
 | 14 | [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:18 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 16 | [This Land is Your Land](https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [The Asch Recordings, Vol\. 1\-4](https://open.spotify.com/album/0QfX3caqG3gvfY1Kal2tlQ) | 2:19 |
 | 17 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
 | 18 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
-| 19 | [Not Dark Yet \- Version 1](https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 7:10 |
-| 20 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
-| 21 | [If I Had a Hammer \- 2004 Remaster](https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:01 |
-| 22 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 |
+| 19 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
+| 20 | [If I Had a Hammer \- 2004 Remaster](https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:01 |
+| 21 | [Jolene](https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene \(Expanded Edition\)](https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg) | 2:41 |
+| 22 | [Mississippi \- Version 2](https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 5:12 |
 | 23 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 24 | [Something on Your Mind](https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time \(50th Anniversary Edition\)](https://open.spotify.com/album/36WryGURqME9Y2URzzzmio) | 3:23 |
 | 25 | [City of New Orleans](https://open.spotify.com/track/6sQv6XMvSp0PB0cuuS6Dfz) | [Steve Goodman](https://open.spotify.com/artist/0n5eyZr2XjOLUODPGZrlLB) | [Steve Goodman](https://open.spotify.com/album/61MUZCoQITIcWwghwrgYHM) | 3:50 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 111 | [I'll Never Find Another You](https://open.spotify.com/track/6Ln9F9lZNMgV5Ht87z9Bd0) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Ultimate Collection](https://open.spotify.com/album/2bhcZbOcrAFH69kD3TLFB0) | 2:42 |
 | 112 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 
-Snapshot ID: `MTY3NDg1NDY2MCwwMDAwMDAwMDJlODhhYzQxZGZjZjc3NTU3OTEyMGFjNjVlMGYwN2Zi`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDcxY2UwMmU1YzY0YWM5ODVlZTI3ZDljNGY1Mzk3NThi`

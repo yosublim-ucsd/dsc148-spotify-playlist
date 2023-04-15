@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7076,
+  "num_followers": 7091,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDViYzEyNTZlNWRiZmM0YzA5ZDg5NWQwNTc4NDY1MzY3",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDI1ZjJhNDY0YmU2NDFlOTYzZTFhOTc2MDQ1MzJhYjM3",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Deja Booze",
+        "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Tale of A.G. Smith",
+      "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "This Is For Everyone",
         "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 255616,
       "name": "Stand Together - Original Mix",
       "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deja Booze",
-        "url": "https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2"
-      },
-      "artists": [
-        {
-          "name": "Charlie Beale",
-          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Tale of A.G. Smith",
-      "url": "https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dog 'n' Bone",
-        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Leaf Dog",
-          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Stick Em Up",
         "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 236288,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Dog 'n' Bone",
+        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Leaf Dog",
+          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
       "added_at": "2022-05-06 04:02:00",

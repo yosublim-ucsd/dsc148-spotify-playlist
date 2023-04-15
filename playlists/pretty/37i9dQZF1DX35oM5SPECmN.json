@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2420922,
+  "num_followers": 2420893,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEyMDUyNSwwMDAwMDAwMDFhYmIzNzkwMTk2NGUxMGQyMDk5OGU3ZjNjNDNhYWU4",
+  "snapshot_id": "MTY4MDEyMDUyNSwwMDAwMDAwMDY5ZTYzZjUzYmMxYzg5Mjk1YTQzZDUzYjk2MmFkZjg0",
   "tracks": [
     {
       "added_at": "2023-03-29 20:08:45",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Bears & Bulls",
-        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
-      },
-      "artists": [
-        {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
-        }
-      ],
-      "duration_ms": 110293,
-      "name": "Stomp",
-      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Palomino",
         "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 206400,
       "name": "Wait so Long",
       "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "Bears & Bulls",
+        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
+      },
+      "artists": [
+        {
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+        }
+      ],
+      "duration_ms": 110293,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Latigo EP",
         "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 220253,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Fire & Fury",
-      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Fire & Fury",
+      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "When The Night",
-        "url": "https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 308360,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Obviously",
         "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "When The Night",
+        "url": "https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD"
     },
     {
       "added_at": "2023-03-29 20:08:45",

@@ -94,7 +94,7 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -142,7 +142,7 @@
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -2328,7 +2328,7 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -2694,6 +2694,24 @@
       "duration_ms": 255000,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e"
+    },
+    {
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/2u4KwCMykbRMaqSb3nM7Wq"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8"
     },
     {
       "album": {
@@ -3338,7 +3356,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -4270,7 +4288,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 213560,
       "name": "Si Nunca Va a Amanecer",
       "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"

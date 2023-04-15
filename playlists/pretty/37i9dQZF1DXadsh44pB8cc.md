@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadsh44pB8cc.md) - [plain]
 
 > The reputable supergroup, <a href="spotify:artist:2exkZbmNqMKnT8LRWuxWgy">Moderat</a>, build a special & eclectic experience with their downtempo electronic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 18 songs - 51 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 18 songs - 51 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

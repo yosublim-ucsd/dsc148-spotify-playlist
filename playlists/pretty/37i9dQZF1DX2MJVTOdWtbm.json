@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 105908,
+  "num_followers": 105956,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDUwZmZlMTRiYmFhMTFiZTI4YWQyMzk0Mjg3OTk3MWQ5",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDlmYTY0MGM0Y2NlOWUxZGQ3ZWU1MWQ4OWI3MDY2ZDNh",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 183480,
       "name": "PERO T\u00da",
       "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "I.W.Y.",
-        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 173165,
-      "name": "I.W.Y.",
-      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Daiquiri",
         "url": "https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "QCVH",
-        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
+        "name": "I.W.Y.",
+        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
       },
       "artists": [
         {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
         }
       ],
-      "duration_ms": 136973,
-      "name": "QCVH",
-      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+      "duration_ms": 173165,
+      "name": "I.W.Y.",
+      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -991,6 +975,22 @@
       "duration_ms": 182442,
       "name": "5 A.M.",
       "url": "https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "VAIV\u00c9N",
-        "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
-      },
-      "artists": [
-        {
-          "name": "Leo X",
-          "url": "https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A"
-        },
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 218823,
-      "name": "VAIV\u00c9N",
-      "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Flavors 3",
         "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 173373,
       "name": "Prende",
       "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "VAIV\u00c9N",
+        "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
+      },
+      "artists": [
+        {
+          "name": "Leo X",
+          "url": "https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A"
+        },
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "VAIV\u00c9N",
+      "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
     },
     {
       "added_at": "2023-03-10 21:49:16",

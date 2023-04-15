@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX?si=gVjPZpv6Rd6Dto7MsL8onQ">Shimza</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,149 likes - 49 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,174 likes - 49 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 35 | [Dakiwe](https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Bailey](https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX), [Jnr SA](https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku) | [The Underrated King](https://open.spotify.com/album/54lSw5trXgoiCDLOAh8Wlk) | 6:08 |
 | 36 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
 | 37 | [Woman](https://open.spotify.com/track/4BVrEiAJBUJ2xZwwtBTy5W) | [The Phat Ones](https://open.spotify.com/artist/0ijR7s38xnjBA0uaB9XMUm), [Aquadeep](https://open.spotify.com/artist/0n2IlfSYardosNRNdCLWPd), [Veesoul](https://open.spotify.com/artist/3Tv5NqamdRmZYzblrn2aBr) | [Woman EP](https://open.spotify.com/album/6KSZ4RpMMTsm9zk2CbMyAu) | 6:37 |
-| 38 | [Take Me Home](https://open.spotify.com/track/6k6vZAcgZ5mnKn9SkBx9rH) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt), [Reverse Prime](https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv) | [Take Me Home](https://open.spotify.com/album/0NPkfOUC2K8T06MkSO7ff9) | 2:21 |
+| 38 | [Take Me Home](https://open.spotify.com/track/6wvg23QPvpHmgJNJbVsSyD) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt), [Reverse Prime](https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv) | [Take Me Home](https://open.spotify.com/album/4covYFWbZzjHIjLciUFO2E) | 2:21 |
 | 39 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
 | 40 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
 | 41 | [Bayaphela](https://open.spotify.com/track/6SLsfjDebV22H8y0laYQhh) | [Josi Chave](https://open.spotify.com/artist/68HgwziOaOiC8YHLYRdDRU), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Rascoe Koas](https://open.spotify.com/artist/49eXlMZLQnxQLv39EXgQLW), [Ntando Yamahlubi](https://open.spotify.com/artist/6ONVT8U7x6QkRJlfbclFq8), [Basetsana](https://open.spotify.com/artist/0ZR3E22UlUzbQMxV4M1QLp), [Torque Muziq](https://open.spotify.com/artist/478TRCV0UNE9AZR6Tk2XGp) | [Bayaphela](https://open.spotify.com/album/5uKEb9KWbe7od7y67Tx6zb) | 7:22 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 48 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
 | 49 | [Coloured Goose](https://open.spotify.com/track/7wesfLW7BjVajGqFw6MimD) | [Atie\-G](https://open.spotify.com/artist/2FP2RNmzEllDXn8wyfRC6M), [Paula Kammies](https://open.spotify.com/artist/7mMu1cx3o69EjbbtVyJhAA) | [Coloured Goose](https://open.spotify.com/album/4HRCidNp6wRmrD3mUsGIg5) | 5:25 |
 
-Snapshot ID: `MTY4MTQyMzE0MCwwMDAwMDAwMDRmNmM2NGU1MWFhN2JhYmExM2I5NDA2MGM4MmEwYTdi`
+Snapshot ID: `MTY4MTQyMzE0MCwwMDAwMDAwMGE5MTA1ZTc2MzY4NmQyNjc1NmQyMDA3YjdkN2JhYzQ2`

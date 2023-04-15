@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176770,
       "name": "Believe us",
       "url": "https://open.spotify.com/track/1mpu97LwS5KS5fyPQqsRqg"
@@ -284,6 +284,24 @@
       "duration_ms": 170883,
       "name": "CAN\u2019T EXPLAIN",
       "url": "https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb"
+    },
+    {
+      "album": {
+        "name": "Cock & Bull",
+        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602290,
+      "name": "Cock & Bull",
+      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
     },
     {
       "album": {
@@ -570,7 +588,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 131640,
       "name": "Eyes of The Spirit Chant (Prayer Chant)",
       "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 172680,
       "name": "For Me",
       "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
@@ -776,7 +794,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 204631,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/2K3BQ53NtS55rBCnHO2LPC"
@@ -1178,6 +1196,10 @@
         {
           "name": "Tim Godfrey",
           "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
       "date_added": "2023-04-14",
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 265769,
       "name": "LEAVE AM",
       "url": "https://open.spotify.com/track/5qD6spLX6xyPoGaWhQ7aBV"
@@ -1723,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "Good 2 Go",
+        "url": "https://open.spotify.com/album/5fsqEs8zrGfxmnmvKsgTrg"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        },
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417160,
+      "name": "Next Fuji Thing (Bonus Track)",
+      "url": "https://open.spotify.com/track/3AKztbzt8WzVRnVjwGhtk5"
+    },
+    {
+      "album": {
         "name": "No Shaking",
         "url": "https://open.spotify.com/album/0LaE3JNbtu4tV2pIuLz58J"
       },
@@ -1804,7 +1848,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 136963,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/5pL9FOvzo6Vn0WFeWynS4r"
@@ -1896,7 +1940,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 160528,
       "name": "Oluwa",
       "url": "https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx"
@@ -1958,7 +2002,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "On God",
       "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
@@ -1980,7 +2024,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 240319,
       "name": "One",
       "url": "https://open.spotify.com/track/4T2gHzkIdRiCtahKR9LVf7"
@@ -2114,7 +2158,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187317,
       "name": "Reason",
       "url": "https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD"
@@ -2258,7 +2302,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 152968,
       "name": "Shambala",
       "url": "https://open.spotify.com/track/1xBdv3TshuzaYAwgxKRdP0"
@@ -2328,7 +2372,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 119002,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1WjMb2q5JYbkddKKEuZGzU"
@@ -2416,7 +2460,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 348000,
       "name": "Talo' Nsoro?",
       "url": "https://open.spotify.com/track/3czTh8Y9wIRMEDgvleImrw"
@@ -2518,7 +2562,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 165879,
       "name": "Wahala for Who No Get Jesus",
       "url": "https://open.spotify.com/track/3UvOCNTWow3rsffxHoCP3U"
@@ -2554,7 +2598,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"

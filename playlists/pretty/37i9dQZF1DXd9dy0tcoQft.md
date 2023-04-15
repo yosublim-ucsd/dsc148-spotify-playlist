@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Ben L'Oncle Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,237 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,239 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 59 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
 | 60 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
 | 61 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
-| 62 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
-| 63 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
+| 62 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
+| 63 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
 | 64 | [Start over Again](https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Start over Again](https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V) | 3:39 |
 | 65 | [Suitcase \(Add The Weight\)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [GR€Y](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 |
 | 66 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 69 | [You Live In My Phone](https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE) | [You Live In My Phone](https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX) | 4:33 |
 | 70 | [Safe Inside](https://open.spotify.com/track/56UvbaI7IehHOubQI44yK6) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:47 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDY4NzEzMmRmYjlmYzcwYzhhYjc0Y2RjMzZmMDE3OTEy`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGMwYTEyZmM4ODRlM2YwNTgyMWQ5YjdlNDE5YjMwMmQ3`

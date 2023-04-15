@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Becky G & Omega",
+  "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo",
   "name": "Merengue Mania",
   "tracks": [
     {
@@ -2684,6 +2684,24 @@
       "duration_ms": 228640,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1"
+    },
+    {
+      "album": {
+        "name": "Solo Pienso En Ti",
+        "url": "https://open.spotify.com/album/686zjPymwJWho1sRetIdZE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179736,
+      "name": "Solo Pienso En Ti",
+      "url": "https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom"
     },
     {
       "album": {

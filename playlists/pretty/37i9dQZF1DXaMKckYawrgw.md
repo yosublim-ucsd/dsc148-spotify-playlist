@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,966 likes - 107 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,971 likes - 107 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 76 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
 | 77 | [Estambul Ska](https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Ska, Vol\. 2](https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ) | 2:37 |
 | 78 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
-| 79 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
-| 80 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
+| 79 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
+| 80 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
 | 81 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 |
 | 82 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
 | 83 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 106 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 107 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDBiMzVjOTE5ZjA5Y2NmOTZkNDllMmY5YTAxZGFiYzQ1`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDNiZjM3YTYxY2Y3ZTZlMjMwNThjMzYzZjlhZjUwMDg2`

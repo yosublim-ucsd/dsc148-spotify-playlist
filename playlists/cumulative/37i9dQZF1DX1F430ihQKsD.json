@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Teinte",
+        "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180946,
+      "name": "Douce r\u00e9p\u00e9tition",
+      "url": "https://open.spotify.com/track/0HMF4ha6tszLkLCDy6IZZ8"
+    },
+    {
+      "album": {
         "name": "Douchebag",
         "url": "https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 183640,
       "name": "Engraisser",
       "url": "https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L"
@@ -2494,6 +2512,24 @@
     {
       "album": {
         "name": "Please Don't Think About Tomorrow",
+        "url": "https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "Isolated",
+      "url": "https://open.spotify.com/track/5FM8xEph5A58laSAIr16ph"
+    },
+    {
+      "album": {
+        "name": "Please Don't Think About Tomorrow",
         "url": "https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U"
       },
       "artists": [
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 96500,
       "name": "Isolated",
       "url": "https://open.spotify.com/track/6I1M2IDs6w8qWRSvQMGifg"
@@ -2544,6 +2580,24 @@
       "duration_ms": 157935,
       "name": "J'ai pu de temps \u00e0 perdre!",
       "url": "https://open.spotify.com/track/7zlE1kw1sEm9fGjCfPNRqx"
+    },
+    {
+      "album": {
+        "name": "Jamais t'oublier",
+        "url": "https://open.spotify.com/album/46SrVUO6R7ET0Y0H7IQQVr"
+      },
+      "artists": [
+        {
+          "name": "Valse Fr\u00e9quence",
+          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "Jamais t'oublier",
+      "url": "https://open.spotify.com/track/5HFSJasw0zgSnpOMb51HNG"
     },
     {
       "album": {
@@ -2706,7 +2760,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184946,
       "name": "Juillet",
       "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXn4tNlkDvU.md) - [plain]
 
 > Featuring Yng Lvcas, Jowell & Randy, Dalex & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXn4tNlkDvU.md) - [plain]
 | 5 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 |
 | 6 | [Hola \- Remix](https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Hola \(Remix\)](https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ) | 4:09 |
 | 7 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 |
-| 8 | [Esta Dejá](https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu) | [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:01 |
+| 8 | [Esta Dejá](https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:01 |
 | 9 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 | 10 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 |
 | 11 | [Dile Que Tu Me Quieres](https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXn4tNlkDvU.md) - [plain]
 | 14 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 15 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
 | 16 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 |
-| 17 | [D X Vida](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X Vida](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 |
+| 17 | [D X VIDA](https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [D X VIDA](https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk) | 3:02 |
 | 18 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 |
 | 19 | [Te Acuerdas De Mí](https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 1:44 |
 | 20 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 |

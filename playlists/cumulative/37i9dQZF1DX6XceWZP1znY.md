@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-716 songs - 1 day 23 hr 30 min
+717 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [GREEN DIARY](https://open.spotify.com/track/2dMHga3dZjM8njubHtq0cX) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [GREEN DIARY](https://open.spotify.com/album/0jcgaA6W0Whz006JLPe05A) | 3:55 | 2022-06-07 | 2022-07-28 |
 | [Grey](https://open.spotify.com/track/4Ch9TQoFvN7YMb6soOKX71) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [Grey](https://open.spotify.com/album/6HHYhpXUe1dd2yyHcs3HLh) | 2:38 | 2022-06-07 | 2022-07-11 |
 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 | 2022-06-07 |  |
+| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-13 |  |
 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 | 2022-06-07 |  |
 | [Happy encount](https://open.spotify.com/track/1sqdTEcr2q6BFjuyxJWIVv) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Happy encount](https://open.spotify.com/album/6nWbs1jAzoWV1xamXEh19Z) | 3:54 | 2022-06-07 | 2022-07-02 |
 | [HATENA](https://open.spotify.com/track/5ZmCWqYmT9Lpa5qM2gSCBF) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [HATENA](https://open.spotify.com/album/0g7ikkSqZYYjLTA9t9mJUr) | 3:29 | 2022-06-07 | 2022-07-26 |
@@ -491,7 +492,7 @@
 | [シンクロ](https://open.spotify.com/track/7cTWh2qUXHH0M4DXC80Xyr) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [SODA POP FANCLUB 3](https://open.spotify.com/album/2oKuzx4Ut0j1oQjMsJAq1d) | 4:11 | 2022-06-07 | 2022-07-25 |
 | [シンデレラ](https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [シンデレラ](https://open.spotify.com/album/1OqBXmqvKxd0nlL5v9sA7u) | 3:32 | 2022-06-07 | 2023-04-02 |
 | [シンパシー](https://open.spotify.com/track/4YYrqU4gvSMIk58wT7IhIa) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/2lYrrG6Xcnq6aOrb1mtLEO) | 3:30 | 2022-06-07 | 2022-07-29 |
-| [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-02-20 |  |
+| [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-02-20 | 2023-04-15 |
 | [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-11-22 |  |
 | [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-20 |  |
 | [スターマーカー](https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3i5qvSK7NKmpeLT0a76qXN) | 3:33 | 2022-08-11 | 2022-11-13 |

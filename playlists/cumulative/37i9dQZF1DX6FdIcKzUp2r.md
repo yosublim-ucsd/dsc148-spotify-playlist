@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-195 songs - 14 hr 7 min
+196 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 | 2018-12-12 |  |
 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 | 2018-12-12 |  |
 | [Haunt Me](https://open.spotify.com/track/647Fewb7o3mtM9qUTT9l2r) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b) | 5:50 | 2018-12-12 | 2022-07-05 |
+| [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 | 2018-12-12 |  |
 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 | 2018-12-12 | 2022-11-27 |
-| [Hold Me Now](https://open.spotify.com/track/1B1Y52ftMyCmgjPsEMQDqq) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0EKvjXCkgxeH6YjfN7ScYR) | 4:46 | 2018-12-12 |  |
+| [Hold Me Now](https://open.spotify.com/track/1B1Y52ftMyCmgjPsEMQDqq) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0EKvjXCkgxeH6YjfN7ScYR) | 4:46 | 2018-12-12 | 2023-04-15 |
 | [Hold You](https://open.spotify.com/track/3OgCBcHQb5kO3mvmmUqV2O) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Crush](https://open.spotify.com/album/7Fyk2UVvhtjsQOyentgLzQ) | 4:00 | 2018-12-12 | 2022-11-13 |
 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 | 2018-12-12 |  |
 | [I Believe](https://open.spotify.com/track/0rIIq1SWIWDen4PvfCIVyg) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/4VrPUFRGte445pKszlac10) | 4:55 | 2018-12-12 | 2022-07-25 |

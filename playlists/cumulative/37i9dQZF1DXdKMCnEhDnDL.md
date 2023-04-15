@@ -4,7 +4,7 @@
 
 > De grootste Nederlandse hits van vroeger en nu\. Cover: Acda en de Munnik
 
-106 songs - 5 hr 29 min
+108 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,10 @@
 | [Als Geen Ander](https://open.spotify.com/track/1QzzCEcKxcELzdJcHpinQ6) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Geen Ander](https://open.spotify.com/album/68ObzZyYcFZOO1NdiQlFSP) | 3:30 | 2023-02-24 |  |
 | [Als Ik Je Weer Zie](https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Als Ik Je Weer Zie](https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI) | 3:27 | 2023-02-24 |  |
 | [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 | 2023-02-24 |  |
+| [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-14 |  |
 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 | 2023-02-24 |  |
 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 | 2023-02-24 |  |
-| [Avond](https://open.spotify.com/track/2tF8Amp5Q4uBYwh70RBDPR) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Avond \(from the Amazon Original Series MODERN LOVE\)](https://open.spotify.com/album/6dKMsyWoG72THulJqomYxG) | 3:51 | 2023-02-24 |  |
+| [Avond](https://open.spotify.com/track/2tF8Amp5Q4uBYwh70RBDPR) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Avond \(from the Amazon Original Series MODERN LOVE\)](https://open.spotify.com/album/6dKMsyWoG72THulJqomYxG) | 3:51 | 2023-02-24 | 2023-04-15 |
 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 | 2023-02-24 |  |
 | [Beauty & De Brains](https://open.spotify.com/track/20BsfFCTUOwiWzzhsAoKW5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zo Van Ah Yeah](https://open.spotify.com/album/1A83v4jxWO4VFF8X19FYW2) | 3:08 | 2023-02-24 |  |
 | [Bieber Van De Kroeg](https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ) | 3:06 | 2023-02-24 |  |
@@ -40,7 +41,8 @@
 | [Duurt Te Lang](https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Duurt Te Lang \(Beste Zangers Seizoen 2018\)](https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB) | 2:33 | 2023-02-24 |  |
 | [Echte Mannen](https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Echte Mannen](https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA) | 2:31 | 2023-02-24 |  |
 | [Eenzame Nacht](https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Eenzame Nacht](https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb) | 2:40 | 2023-02-24 |  |
-| [Gebruik Me](https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Gebruik Me](https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y) | 3:24 | 2023-02-24 |  |
+| [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-14 |  |
+| [Gebruik Me](https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Gebruik Me](https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y) | 3:24 | 2023-02-24 | 2023-04-15 |
 | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/track/2JPdHwNtkyZCSf2pM6AYMl) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Geef Je Hart Niet Zomaar Weg](https://open.spotify.com/album/6DtVWWZoinuNU1QiUgFMZq) | 4:05 | 2023-02-24 |  |
 | [Goud](https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Goud](https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2) | 3:22 | 2023-02-24 |  |
 | [Grijs](https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Grijs](https://open.spotify.com/album/5WIkuPDQFlfpV9l0tLNm70) | 3:00 | 2023-02-24 |  |

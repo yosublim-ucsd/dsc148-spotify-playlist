@@ -4,7 +4,7 @@
 
 > música para insubordinados\. Blnko en portada.
 
-78 songs - 4 hr 22 min
+81 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2022-03-25 |  |
 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 | 2022-03-25 |  |
 | [Estrella Antivida](https://open.spotify.com/track/01Ek9zGfuPYnBs5abDWhjK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Estrella Antivida](https://open.spotify.com/album/6j80yKNQXqeAE6hH3xpXbg) | 1:50 | 2023-04-07 |  |
+| [Expo Divorcio](https://open.spotify.com/track/2MzOMosHuxJf4EM2rrWg2R) | [jacarandas](https://open.spotify.com/artist/0RudUrUhzYXY7irJKBOrA8) | [Expo Divorcio](https://open.spotify.com/album/5WyIoqQON9lQn3bE83IRsa) | 1:48 | 2023-04-14 |  |
 | [Extrarradio](https://open.spotify.com/track/39KrdTbxCVcTcXNPaEhMWS) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Extrarradio](https://open.spotify.com/album/2vIVKy10eQXCwBu7B61ZvM) | 4:53 | 2022-03-25 |  |
 | [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 | 2023-04-07 |  |
 | [Fracasado](https://open.spotify.com/track/5cOTbepCsUrbyB78JDoFMc) | [Jesus Guerrero](https://open.spotify.com/artist/6H5E8TXmeWbQfuhjL1fQVJ) | [Fracasado](https://open.spotify.com/album/6j7ndHK9SKOlS319Lh3200) | 3:33 | 2022-03-25 |  |
@@ -48,6 +49,7 @@
 | [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-03-25 |  |
 | [Lo Hice Por El Punk](https://open.spotify.com/track/16R71sPcHhpB8N9Hlvso8r) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 2:49 | 2022-03-25 |  |
+| [Los Blake](https://open.spotify.com/track/747mWXYziAUdhNhzw5O87j) | [Papá Enojado](https://open.spotify.com/artist/6egJ8CflXTDNSFdIBduJUp) | [Enojado Maiden](https://open.spotify.com/album/4LYs0cNrc7g6OTocIyzpk0) | 2:46 | 2023-04-14 |  |
 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 | 2022-03-25 |  |
 | [Mala Suerte](https://open.spotify.com/track/4H1LS6KIu23cBpA2Ef3zEt) | [Mala Suerte](https://open.spotify.com/artist/1ep3yvyz1gCFZxxjn0jJGA) | [Mala Suerte](https://open.spotify.com/album/3o0emNyeX0yyYhoycpn96X) | 2:22 | 2022-03-25 |  |
 | [Manifiesto Surrealista](https://open.spotify.com/track/3TAmPsGYSC8gugzBGguj63) | [Los Pao Paos](https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ) | [Los Pao Paos](https://open.spotify.com/album/2QDHd8s8nzlEfjZwfqZLZR) | 4:00 | 2022-03-25 | 2022-12-12 |
@@ -58,6 +60,7 @@
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-03-25 | 2022-12-13 |
 | [Niebla](https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr) | 2:43 | 2022-03-25 |  |
 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 | 2022-03-25 |  |
+| [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 |  |
 | [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 | 2022-03-25 |  |
 | [P3da](https://open.spotify.com/track/4rxg8aTQOGGL7LV1yqqhHy) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ), [Roberta Pardo](https://open.spotify.com/artist/5SDCXW3v93K8R58xRLeV0b), [Isabela Costero](https://open.spotify.com/artist/3Jes9MS3tLqPDrCDxdUGQx), [Maria Villanueva](https://open.spotify.com/artist/10LgSuLJnpj2wkOxOQW1hF), [Valentina Reyes](https://open.spotify.com/artist/7gFOLjST0TuyozYrZUQWtw) | [P3da](https://open.spotify.com/album/5s7W0XNdHN2Sz3JviG3Rv8) | 1:21 | 2022-03-25 |  |
 | [Panteón](https://open.spotify.com/track/1NPuCNu2nAeNcAzht2WqRp) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Panteón](https://open.spotify.com/album/5AK4SkUnMWwuD95pMptlCN) | 1:35 | 2022-03-25 | 2022-12-12 |

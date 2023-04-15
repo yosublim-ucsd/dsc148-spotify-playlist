@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=-uklwWiaQ2GaNJ-TJp-SyQ\">SAKKIE</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA\">Francois van Coke</a>",
-  "num_followers": 12650,
+  "num_followers": 12665,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzU0MCwwMDAwMDAwMGU2NzRhNDMxMTJiODViNGM5MzlkM2IyM2RmNTU2YmE3",
+  "snapshot_id": "MTY4MTQ0NDQ2NywwMDAwMDAwMGZiYjRlMDhkNTYyMzc2ZDk3NmFiOTUzYzk2OGFjOWFm",
   "tracks": [
     {
       "added_at": "2023-03-16 21:59:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
     },
     {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "Redgrave",
+        "url": "https://open.spotify.com/album/77dtolOhRvRmsPHpu2FuIY"
+      },
+      "artists": [
+        {
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Redgrave",
+      "url": "https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Crows Foot",
@@ -45,36 +61,56 @@
       "url": "https://open.spotify.com/track/1HitnCS6sx1ffnsZkFiZky"
     },
     {
-      "added_at": "2023-03-09 21:59:00",
+      "added_at": "2023-04-14 03:54:26",
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/41UZWeiuFGm0GaXb8bjQm9"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5Ok4qSR9XObWzkpgZlyK0B"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
+      "duration_ms": 165221,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7"
     },
     {
-      "added_at": "2023-03-23 21:59:00",
+      "added_at": "2023-03-02 21:59:00",
       "album": {
-        "name": "Three of Swords",
-        "url": "https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2"
+        "name": "Hoer In Beton",
+        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
       },
       "artists": [
         {
-          "name": "Saturn Return",
-          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        },
+        {
+          "name": "Koos Kombuis",
+          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
         }
       ],
-      "duration_ms": 210881,
-      "name": "I Hate Your Shirt",
-      "url": "https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR"
+      "duration_ms": 280248,
+      "name": "Hoer In Beton",
+      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
+    },
+    {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "Repine Forest",
+        "url": "https://open.spotify.com/album/1Vd2YgVrjDTfQ5IhJmMglP"
+      },
+      "artists": [
+        {
+          "name": "I Forget Myself",
+          "url": "https://open.spotify.com/artist/0THqV33GCcyFh9myv6qD1y"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2rH0ehJmXiph2aMIaYcahL"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -91,6 +127,58 @@
       "duration_ms": 245880,
       "name": "Everything Is Black",
       "url": "https://open.spotify.com/track/3USvpF3X4zg3DUw8Ro6AIY"
+    },
+    {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "#23",
+        "url": "https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2"
+      },
+      "artists": [
+        {
+          "name": "Lisie Basson",
+          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
+        }
+      ],
+      "duration_ms": 162810,
+      "name": "#23",
+      "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 207525,
+      "name": "Maksimum Volume",
+      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+    },
+    {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0"
+      },
+      "artists": [
+        {
+          "name": "BRAINCHILD",
+          "url": "https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj"
+        }
+      ],
+      "duration_ms": 144751,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -113,6 +201,22 @@
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
     },
     {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x"
+      },
+      "artists": [
+        {
+          "name": "Wonderwolf",
+          "url": "https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n"
+    },
+    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Nameless Days",
@@ -129,6 +233,22 @@
       "url": "https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j"
     },
     {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "ek voel ek droom",
+        "url": "https://open.spotify.com/album/78l5Xd7IcIjGHQH3ML485t"
+      },
+      "artists": [
+        {
+          "name": "Ollyvans",
+          "url": "https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq"
+        }
+      ],
+      "duration_ms": 141633,
+      "name": "ek voel ek droom",
+      "url": "https://open.spotify.com/track/7HuYCgwSa2bizw72pSXwvn"
+    },
+    {
       "added_at": "2023-03-30 21:59:00",
       "album": {
         "name": "Queen Of The Gorgons",
@@ -143,6 +263,22 @@
       "duration_ms": 237057,
       "name": "Queen of the Gorgons",
       "url": "https://open.spotify.com/track/3JltkTjsMZvzZnfZ5IaGCf"
+    },
+    {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "Crazy Meisie",
+        "url": "https://open.spotify.com/album/4ArWlcEJMCqRt5CIWNX8hU"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Crazy Meisie",
+      "url": "https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -209,24 +345,20 @@
       "url": "https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
+      "added_at": "2023-03-23 21:59:00",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
+        "name": "Three of Swords",
+        "url": "https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        },
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Saturn Return",
+          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
         }
       ],
-      "duration_ms": 207525,
-      "name": "Maksimum Volume",
-      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+      "duration_ms": 210881,
+      "name": "I Hate Your Shirt",
+      "url": "https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -245,26 +377,6 @@
       "url": "https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Hoer In Beton",
-        "url": "https://open.spotify.com/album/6wTcDkkteYS8r3S7WEvIHn"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        },
-        {
-          "name": "Koos Kombuis",
-          "url": "https://open.spotify.com/artist/6tj3rGjkpJ3Zw2tDOMnzGZ"
-        }
-      ],
-      "duration_ms": 280248,
-      "name": "Hoer In Beton",
-      "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
-    },
-    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Bittersomerson",
@@ -279,6 +391,22 @@
       "duration_ms": 181728,
       "name": "Bittersomerson",
       "url": "https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y"
+    },
+    {
+      "added_at": "2023-03-09 21:59:00",
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/41UZWeiuFGm0GaXb8bjQm9"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/6ehCbe3TFJmwqV5aNTYlCD"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -329,26 +457,6 @@
       "url": "https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc"
     },
     {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Tell All Your Friends",
-        "url": "https://open.spotify.com/album/3oJrry8StQp0sbbSOdDRUb"
-      },
-      "artists": [
-        {
-          "name": "Brogan the band",
-          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
-        },
-        {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Tell All Your Friends",
-      "url": "https://open.spotify.com/track/4ppWkfiHPj9mAiH2KNW6wL"
-    },
-    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Questions Later",
@@ -365,22 +473,6 @@
       "url": "https://open.spotify.com/track/2WBMiKKv3yltabqkdxEgWD"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Would you ring me",
-        "url": "https://open.spotify.com/album/1Mp1dAxbCYUoRVmoHAHbbd"
-      },
-      "artists": [
-        {
-          "name": "Gangsterdam",
-          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Would you ring me",
-      "url": "https://open.spotify.com/track/67u6GPGmrgkn6J6lRGb3PB"
-    },
-    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Caravan In The Mist",
@@ -395,22 +487,6 @@
       "duration_ms": 206772,
       "name": "Caravan In The Mist",
       "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Road Rage",
-        "url": "https://open.spotify.com/album/70cYROF5kbijI6nMeppkmd"
-      },
-      "artists": [
-        {
-          "name": "Hawema",
-          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "Road Rage",
-      "url": "https://open.spotify.com/track/3mMMCNWktpvnC25u96tZt0"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -681,54 +757,6 @@
       "url": "https://open.spotify.com/track/5HZHEJr2lB9UuJdTnJ2LlC"
     },
     {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Caligulater",
-        "url": "https://open.spotify.com/album/75a8zGSywMRtgsQlb1nQKM"
-      },
-      "artists": [
-        {
-          "name": "Acid Magus",
-          "url": "https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2"
-        }
-      ],
-      "duration_ms": 413153,
-      "name": "Caligulater",
-      "url": "https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Lonely Boy Heart",
-        "url": "https://open.spotify.com/album/2fZYS7lZt0PjkRjgfUe5Nf"
-      },
-      "artists": [
-        {
-          "name": "Steve Tissiman",
-          "url": "https://open.spotify.com/artist/7ebybXjJ5EhyGVt7fhM5fJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Lonely Boy Heart",
-      "url": "https://open.spotify.com/track/0oMAe0kUbEvzBDfiNtk6AP"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Violent Entertainment",
-        "url": "https://open.spotify.com/album/37QdH3r9th6XplJOBVgt5G"
-      },
-      "artists": [
-        {
-          "name": "Ethyl Ether",
-          "url": "https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Dead Conversation",
-      "url": "https://open.spotify.com/track/22vgy2SzEAWCrLOP5gXnl3"
-    },
-    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Aansteeklik",
@@ -747,38 +775,6 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "The Boys Scribbled Like Mad",
-        "url": "https://open.spotify.com/album/4Jx4ckh0oER0VRdmrQlJdX"
-      },
-      "artists": [
-        {
-          "name": "Yndian Mynah",
-          "url": "https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C"
-        }
-      ],
-      "duration_ms": 442888,
-      "name": "Socks On Astroturf",
-      "url": "https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "FALLING DOWN",
-        "url": "https://open.spotify.com/album/1d456n0tT0NBMjrdSfahwS"
-      },
-      "artists": [
-        {
-          "name": "Fortunes Fool",
-          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
-        }
-      ],
-      "duration_ms": 255409,
-      "name": "FALLING DOWN",
-      "url": "https://open.spotify.com/track/2DsW6khzay6yv7OMe7Is0x"
     },
     {
       "added_at": "2023-02-16 21:59:00",

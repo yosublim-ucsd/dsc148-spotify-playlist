@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,536 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,540 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 47 | [Going Over Your Notes / Writing Sounds](https://open.spotify.com/track/1oRrPXaq2PNiGYiUn6YV6a) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR For Sleep \| Zen Rainforest Sleep Treatment \- Day 1 of 3](https://open.spotify.com/album/3PgSMImJNYOEUCTHudph0c) | 6:01 |
 | 48 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 |
 | 49 | [Breathing in and out](https://open.spotify.com/track/6OZybUR2WHyUhVsYLNZM7t) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 4:04 |
-| 50 | [Blowing Air](https://open.spotify.com/track/79NIaixDTBEYbQK5dO8aF1) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [Tapping and Crinkling](https://open.spotify.com/album/3KBp6agI6ObJbX1wR063Vr) | 3:24 |
+| 50 | [Red Candle Whisper Description](https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Binaural ASMR Descriptions](https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0) | 2:46 |
 
-Snapshot ID: `MTY3NTM0NTcyMiwwMDAwMDAwMDA3ZTY5ZjkxYjA0NjY4NDEzZTI1YTc0Nzc0MmNhZWY2`
+Snapshot ID: `MTY3NTM0NTcyMiwwMDAwMDAwMGFiNGU3NGRkZWYyMGE2OTE2ZjE0M2E4OGMwMmM1Mzk0`

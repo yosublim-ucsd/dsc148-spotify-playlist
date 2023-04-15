@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,463,187 likes - 216 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,463,597 likes - 216 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 135 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 |
 | 136 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 |
 | 137 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 |
-| 138 | [irreplaceable \- solo piano](https://open.spotify.com/track/6vYYdK6VdU1c3X5WinwjPZ) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [irreplaceable \(solo piano\)](https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4) | 4:27 |
+| 138 | [Lawson: irreplaceable \- solo piano](https://open.spotify.com/track/6vYYdK6VdU1c3X5WinwjPZ) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [irreplaceable \(solo piano\)](https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4) | 4:27 |
 | 139 | [Last Things First](https://open.spotify.com/track/7HCl80rnRUZoeVWpuXLSli) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Last Things First](https://open.spotify.com/album/30WZaV9jXKl6JYqjSUEZZq) | 2:32 |
 | 140 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 |
 | 141 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 |

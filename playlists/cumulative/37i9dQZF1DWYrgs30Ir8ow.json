@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: La Fuente, Ronnie Flex, Kraantje Pappie",
+  "description": "Altijd fris in Fresh Hits. Cover: Claude",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 143526,
       "name": "After Midnight (feat. Xoro)",
       "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184000,
       "name": "Burning Daylight",
       "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
@@ -420,6 +420,24 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "album": {
@@ -648,7 +666,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 93509,
       "name": "Dyscalculie",
       "url": "https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226440,
       "name": "How I'm Feeling Now",
       "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
@@ -1088,6 +1106,28 @@
       "duration_ms": 167476,
       "name": "Jij Weet (met Kevin)",
       "url": "https://open.spotify.com/track/14HMCFIl34MdgbIOmyfbsE"
+    },
+    {
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "album": {
@@ -1292,6 +1332,24 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "album": {
+        "name": "MON LOVE OHO",
+        "url": "https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9"
+      },
+      "artists": [
+        {
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "MON LOVE OHO",
+      "url": "https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4"
     },
     {
       "album": {
@@ -1590,10 +1648,32 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+    },
+    {
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "album": {
@@ -1634,6 +1714,24 @@
       "duration_ms": 137032,
       "name": "Roddels",
       "url": "https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7"
+    },
+    {
+      "album": {
+        "name": "Rommel",
+        "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Rommel",
+      "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
     },
     {
       "album": {
@@ -1742,7 +1840,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 211613,
       "name": "Skyboy",
       "url": "https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE"
@@ -1967,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "album": {
         "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
         "url": "https://open.spotify.com/album/3vMpRJnBn2mIOq4GrWFbHl"
       },
@@ -1986,7 +2102,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 154039,
       "name": "Vlinders (feat. Kleine John & Chavant\u00e9)",
       "url": "https://open.spotify.com/track/0dsRtIlchp7nmVAS5hemAr"
@@ -2074,6 +2190,24 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

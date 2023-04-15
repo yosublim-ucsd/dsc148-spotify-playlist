@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 33910,
+  "num_followers": 33920,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDg1ZWE4ZjVkZDJkNTZiMmI0YWQ4MzRhYjQwNTc5ODJl",
+  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDljMTlmMjQ0OTViMTllNjVjNDg5OTk1YzdkNWIwNTJm",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
+        "name": "\u0110\u01b0\u1eddng T\u00edm Ng\u00e0y X\u01b0a",
+        "url": "https://open.spotify.com/album/0su8JLaHcq9OM5TgIusVXO"
+      },
+      "artists": [
+        {
+          "name": "Thien Quang",
+          "url": "https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H"
+        },
+        {
+          "name": "Qu\u1ef3nh Trang",
+          "url": "https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw"
+        }
+      ],
+      "duration_ms": 293471,
+      "name": "L\u1ea1i Nh\u1edb Ng\u01b0\u1eddi Y\u00eau",
+      "url": "https://open.spotify.com/track/0nDTdQm4QBUeqKyADkGvH1"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
         "name": "Hoa Trinh N\u1eef (The Best Of Ch\u1ebf Linh 1)",
         "url": "https://open.spotify.com/album/2LAGCevpiBk3XbgPvyROS0"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 264290,
       "name": "Trang Nh\u1eadt K\u00fd",
       "url": "https://open.spotify.com/track/6IgdnDf4f0gVAOM5GKZVv3"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "\u0110\u01b0\u1eddng T\u00edm Ng\u00e0y X\u01b0a",
-        "url": "https://open.spotify.com/album/0su8JLaHcq9OM5TgIusVXO"
-      },
-      "artists": [
-        {
-          "name": "Thien Quang",
-          "url": "https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H"
-        },
-        {
-          "name": "Qu\u1ef3nh Trang",
-          "url": "https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw"
-        }
-      ],
-      "duration_ms": 293471,
-      "name": "L\u1ea1i Nh\u1edb Ng\u01b0\u1eddi Y\u00eau",
-      "url": "https://open.spotify.com/track/0nDTdQm4QBUeqKyADkGvH1"
     }
   ],
   "unique_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",

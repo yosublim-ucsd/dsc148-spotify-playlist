@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,100 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,197 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 59 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
 | 60 | [Hollywood \(feat\. Diplo\)](https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:11 |
 | 61 | [SHAWTY \(feat\. Sacky\)](https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [SHAWTY \(feat\. Sacky\)](https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ) | 2:33 |
-| 62 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
+| 62 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 |
 | 63 | [Twerk \(con Boro Boro\)](https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Arte](https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ) | 2:32 |
-| 64 | [ANSIA NO](https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9) | [FSK SATELLITE](https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH) | [FSK TRAPSHIT REVENGE](https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S) | 2:28 |
+| 64 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
 | 65 | [Il Doc 2 \(feat\. Tony Effe & Guè\)](https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Il Doc 2 \(feat\. Tony Effe & Guè\)](https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q) | 2:54 |
 | 66 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 |
 | 67 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/4zYatWHWblyRliSYAtpsut) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 3:07 |
 | 80 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 |
 
-Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMGMxNmNiMjIxNTIyODRiNjRmN2UxYmQ1NmMxMGQ4ODQ1`
+Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMDM1NjU1MGJiM2VjZTZiYjIzNTI1NWQ2Y2RjNjMxODBk`

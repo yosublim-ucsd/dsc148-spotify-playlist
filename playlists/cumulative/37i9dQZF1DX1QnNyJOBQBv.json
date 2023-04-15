@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The hottest Latin pop tracks right now. Cover: Alejandro Sanz & Danny Ocean",
+  "description": "The hottest Latin pop tracks right now. Cover: Lola Indigo",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 219906,
       "name": "12x3 Remix (with Micro TDH & Rusherking)",
       "url": "https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ"
+    },
+    {
+      "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "album": {
@@ -166,7 +184,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197000,
       "name": "A Mi Lado",
       "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
@@ -396,7 +414,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 144428,
       "name": "Bemaste",
       "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
@@ -1928,6 +1946,28 @@
       "duration_ms": 170396,
       "name": "El Que Espera",
       "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
     },
     {
       "album": {
@@ -3537,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "mi man\u00e1",
+        "url": "https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172077,
+      "name": "mi man\u00e1",
+      "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"
+    },
+    {
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/3R3Kay5sDK4v3931l4evLG"
       },
@@ -3925,6 +3983,42 @@
     },
     {
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -3944,7 +4038,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
@@ -4616,7 +4710,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 190760,
       "name": "S.H.E.A",
       "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
@@ -5249,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -5796,7 +5908,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 156666,
       "name": "\u00bfQu\u00e9 Hubiera Pasado?",
       "url": "https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk"

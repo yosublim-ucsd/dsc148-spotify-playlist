@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1544919,
+  "num_followers": 1545179,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGE1ZjNlYmYyYjlhYzgzOGZmZDBhMTk3YWE5NDc4NWE1",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGVkMTM4MTBiMzZlZmUzOWExNjdmMWQyMTc1ZGYzYjJl",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Hold Me While You Wait",
+        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 205601,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Hold Me While You Wait",
-        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 182028,
-      "name": "Smiling All The Way Back Home",
-      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Good Stuff",
         "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 258066,
       "name": "Nightswimming",
       "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 182028,
+      "name": "Smiling All The Way Back Home",
+      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1499,6 +1499,22 @@
       "duration_ms": 198777,
       "name": "Candle In The Wind - 2018 Version",
       "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 224063,
       "name": "You And I",
       "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2023-03-17 04:00:00",

@@ -4,7 +4,7 @@
 
 > Let's celebrate Pet Day with Måneskin\. Cover: Victoria De Angelis with Chili De Angelis
 
-320 songs - 20 hr 5 min
+322 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Night Stalkers](https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 6:38 | 2022-08-11 | 2022-09-05 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-21 | 2022-08-17 |
 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 | 2022-09-01 | 2022-09-23 |
+| [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 | 2023-04-13 |  |
 | [No Roads Left](https://open.spotify.com/track/62pPrpXsLR3Hbdw6kkA99L) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight \(Deluxe Edition\)](https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q) | 3:48 | 2022-07-07 | 2022-09-02 |
 | [No Roads Left](https://open.spotify.com/track/1MjyC4zTUZzlppH0slf4Z7) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/108CU1JE5mXMvYM5jul8TX) | 3:48 | 2022-05-12 | 2022-07-29 |
 | [NO TURNING BACK](https://open.spotify.com/track/1GCXd0ZdUM5kbVSiOevtyf) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [NO TURNING BACK](https://open.spotify.com/album/69JdvkOnasmaWnVIvwMGd3) | 2:38 | 2022-05-06 | 2022-06-10 |
@@ -291,7 +292,8 @@
 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 | 2022-05-06 | 2022-09-02 |
 | [Tonight](https://open.spotify.com/track/03aXoiwsFCXxgYuoStgwJj) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Tonight](https://open.spotify.com/album/6TfS8L0UKhEgw2G9aqj0bI) | 3:30 | 2022-08-18 | 2023-02-17 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-26 | 2022-08-12 |
-| [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2023-04-13 |  |
+| [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2023-04-13 | 2023-04-15 |
+| [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-13 |  |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 |  |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-20 | 2023-02-17 |
 | [Trouble](https://open.spotify.com/track/2QPW157Ms76KiW8rByD73h) | [Adam Jensen](https://open.spotify.com/artist/7ymrIsmp4vE7vAtcS12J4D) | [Trouble](https://open.spotify.com/album/00joypS8k7ckow4zx2whRL) | 3:44 | 2022-07-07 |  |

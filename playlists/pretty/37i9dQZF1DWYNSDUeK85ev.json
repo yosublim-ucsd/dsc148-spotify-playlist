@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 556414,
+  "num_followers": 556815,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxNTE1MiwwMDAwMDAwMDViNTQ4ZGIxNWE5ZTM5ZjQwMDE1ZGZmMTRmOTJkMmIw",
+  "snapshot_id": "MTY4MTQxNTE1MiwwMDAwMDAwMDk2NGRkZDVjNGJhNjUyZmZjOGUyMmQ4YjE5NWM2MTU3",
   "tracks": [
     {
       "added_at": "2023-04-13 19:45:52",
@@ -240,7 +240,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -371,26 +371,18 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Mu\u00f1ecas",
-        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 156318,
-      "name": "Mu\u00f1ecas",
-      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -431,18 +423,26 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "Mu\u00f1ecas",
+        "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+      "duration_ms": 156318,
+      "name": "Mu\u00f1ecas",
+      "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -591,6 +607,26 @@
       "duration_ms": 164701,
       "name": "Tu Turrito",
       "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -619,42 +655,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -671,6 +671,42 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -707,26 +743,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 267786,
-      "name": "Ella Y Yo - Featuring Don Omar",
-      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 315293,
       "name": "Sali\u00f3 El Sol",
       "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -948,7 +948,7 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -1028,7 +1028,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
+        "name": "Ven Bailalo (Reggaeton Mix)",
+        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Ven Bailalo - Reggaeton Mix",
+      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
         "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
         "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 192347,
       "name": "L-Gante: Bzrp Music Sessions, Vol.38",
       "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
-        "name": "Ven Bailalo (Reggaeton Mix)",
-        "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Ven Bailalo - Reggaeton Mix",
-      "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Sesi\u00f3n - 6",
-        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
-      },
-      "artists": [
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Sesi\u00f3n - 6",
-      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "Sesi\u00f3n - 6",
+        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Sesi\u00f3n - 6",
+      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1348,7 +1348,7 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "KrING",
         "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
       },
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -1647,46 +1647,6 @@
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
-        "name": "PEPPER | DJ TAO Turreo Sessions #15",
-        "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "EsElPepper",
-          "url": "https://open.spotify.com/artist/1b0xGZg7tJnYH3TLUKadFH"
-        }
-      ],
-      "duration_ms": 133607,
-      "name": "EsElPepper | DJ TAO Turreo Sessions #15",
-      "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1715,6 +1675,46 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "PEPPER | DJ TAO Turreo Sessions #15",
+        "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "EsElPepper",
+          "url": "https://open.spotify.com/artist/1b0xGZg7tJnYH3TLUKadFH"
+        }
+      ],
+      "duration_ms": 133607,
+      "name": "EsElPepper | DJ TAO Turreo Sessions #15",
+      "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1940,7 +1940,7 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {

@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Badoxa.
 
-306 songs - 18 hr 31 min
+307 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cara Trancada](https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ) | [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Cara Trancada](https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI) | 4:16 | 2021-12-10 | 2022-11-09 |
 | [Chocolate](https://open.spotify.com/track/39M2ax2nivC7jKJrYxrTuQ) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Chocolate](https://open.spotify.com/album/6imRBmBRoHhUV2YGUto0IF) | 3:03 | 2022-10-20 | 2022-11-04 |
 | [Chocolate](https://open.spotify.com/track/5JSaK3zQTNv1L7PvpvelbE) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 3:10 | 2021-12-10 | 2022-09-19 |
-| [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 |  |
+| [Chouchou](https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Chouchou](https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2) | 3:03 | 2021-12-10 | 2023-04-15 |
 | [Chuva](https://open.spotify.com/track/1L3pBAjneKibuFQiXO8wpU) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Chuva](https://open.spotify.com/album/07v4Sy6nmZtGscBDy6Q0CR) | 3:12 | 2021-12-10 | 2022-01-01 |
 | [Chuva em Abril](https://open.spotify.com/track/4PHZgCf4OygkCX4yeIVMK4) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Chuva em Abril](https://open.spotify.com/album/5XOFLbCKQel78Ohb4RSlQE) | 3:14 | 2022-01-14 | 2022-04-21 |
 | [Cigana Linda](https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Cigana Linda](https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK) | 3:38 | 2021-12-10 | 2022-12-08 |
@@ -227,6 +227,7 @@
 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 | 2021-12-10 |  |
 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 | 2021-12-10 |  |
 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 | 2021-12-10 | 2022-10-21 |
+| [Quero Mais](https://open.spotify.com/track/3zaEXNek7bbObqAV7RibL0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Retrato](https://open.spotify.com/album/0Y8BgyJOGJysXefDgdvsOr) | 3:36 | 2023-04-13 |  |
 | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/track/5gM4UYTTTcVyg7KsPAbyGR) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt) | 3:26 | 2022-03-25 | 2022-04-21 |
 | [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2023-03-28 |
 | [Raízes](https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f) | [Raízes](https://open.spotify.com/album/5g8l7OT24r6iRHCQHjCgQk) | 3:20 | 2022-07-22 | 2022-07-26 |
@@ -245,7 +246,7 @@
 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 | 2021-12-10 |  |
 | [Segredo](https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Segredo](https://open.spotify.com/album/0da7PRnY1SCzqWPJt5dtjv) | 3:50 | 2021-12-10 | 2022-07-28 |
 | [Segunda Rodada](https://open.spotify.com/track/3MUx7bmAwesSvSDl31BXHN) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Button](https://open.spotify.com/artist/0poxcWsjEiMEeHyPyQRItI), [Kletuz](https://open.spotify.com/artist/4Xq2SG5ib8kT7j0bM4ELAA), [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [Segunda Rodada](https://open.spotify.com/album/6Wetr2P1qCn3oCvDU5zIe9) | 4:15 | 2023-03-17 | 2023-03-25 |
-| [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 | 2021-12-10 | 2023-04-14 |
+| [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 | 2021-12-10 |  |
 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 | 2021-12-10 | 2022-07-29 |
 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 | 2021-12-10 | 2022-07-29 |
 | [Sexual Healing](https://open.spotify.com/track/2Rz27kKIB8LlbjzvyM1utV) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Sexual Healing](https://open.spotify.com/album/24RsjQJf1PscWiaj7dEOFy) | 4:57 | 2022-03-25 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-150 songs - 8 hr 16 min
+152 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Side Effects](https://open.spotify.com/track/7oKZnoWkLDZjsNsPxYvIWx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Side Effects](https://open.spotify.com/album/38q9a6NcGWx8y1uu0NZgNG) | 3:11 | 2021-12-03 |  |
 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 | 2022-10-11 |  |
 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 | 2022-09-14 |  |
+| [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 | 2023-04-14 |  |
 | [Tell Your Mom](https://open.spotify.com/track/6hZ7an4nKAiqBkgM5fSCAa) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/4ZaGuPG5ubzLHpB9nt28Df) | 3:02 | 2021-12-03 | 2022-07-29 |
 | [Tell Your Mom](https://open.spotify.com/track/6uxGwZV2t6c7Nq2oy1MHvU) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/49hM7XdEYqFUlVdUGn40Fg) | 3:02 | 2022-07-25 |  |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-14 | 2022-12-18 |
@@ -146,6 +147,7 @@
 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 | 2022-07-25 |  |
 | [Villain](https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/3qdprgT9HXDTzav58XtZpN) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Villain](https://open.spotify.com/track/79OIzp6GB4Sxxc0xT9tuhp) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain \(Band Mix\)](https://open.spotify.com/album/38VSXqjAXGkhWqtadwzeOd) | 2:56 | 2022-10-11 | 2022-11-13 |
+| [Wasting All These Tears](https://open.spotify.com/track/4flWHSLV6ut0sPu0nQ1lCE) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/3ZGKM41lZMynyRwVgGPmez) | 3:15 | 2023-04-14 |  |
 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 | 2021-12-03 |  |
 | [We Are Tonight](https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 3:52 | 2021-12-03 |  |
 | [We Danced](https://open.spotify.com/track/4HHtqzri9jrmAGFyucxkLG) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:45 | 2021-12-03 |  |

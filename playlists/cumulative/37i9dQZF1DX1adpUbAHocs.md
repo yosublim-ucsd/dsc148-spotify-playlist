@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-292 songs - 18 hr 22 min
+293 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 | 2021-10-08 |  |
 | [Dried Up River](https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light \(Deluxe Edition\)](https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3) | 3:51 | 2021-10-08 |  |
 | [Drivin'](https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Robert Ellis](https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt) | 2:46 | 2022-03-22 | 2022-04-18 |
+| [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-04-14 |  |
 | [Dylan Thomas](https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 3:36 | 2022-03-22 |  |
 | [Dylan Thomas](https://open.spotify.com/track/6x14wL9HvABR2Rix8N88EH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 3:36 | 2021-10-08 | 2022-07-27 |
 | [Endless Chase](https://open.spotify.com/track/1MAbvGrSmQs6nik7IormIL) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase / Hazel Eyes](https://open.spotify.com/album/3YLOG0DhAt4pClYqMpK7Ja) | 3:25 | 2021-10-08 | 2022-05-23 |
@@ -131,7 +132,7 @@
 | [I Need a Teacher](https://open.spotify.com/track/4C2yMWKNf2gLgXZgdhazzu) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:17 | 2021-10-08 | 2022-07-29 |
 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 | 2022-03-22 |  |
 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 | 2022-01-07 |  |
-| [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 | 2022-03-22 |  |
+| [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 | 2022-03-22 | 2023-04-15 |
 | [I Won't Run From It](https://open.spotify.com/track/7aW3SM5qFJu0IYVOWrAvRQ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/3LBRCisCaxgQjb5nwSMPgU) | 3:38 | 2021-10-08 | 2022-07-29 |
 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 | 2022-03-22 | 2022-04-21 |
 | [I'm Ready](https://open.spotify.com/track/7oO94Tv1jcfpn1NZXolLJU) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 3:59 | 2021-10-08 | 2022-07-29 |

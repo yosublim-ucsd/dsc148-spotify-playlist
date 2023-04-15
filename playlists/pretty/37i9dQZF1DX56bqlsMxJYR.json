@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 943569,
+  "num_followers": 944069,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQ4OTc1NywwMDAwMDAwMGVkM2ZiOTAzOTVlZjJmZjhiYjUyMDQyN2Y1Yjc4ODA5",
+  "snapshot_id": "MTY4MDQ4OTc1NywwMDAwMDAwMGIxMjBiMDNjMDgyNWE1NjFhMzRiOGVjYWE2NDNhYTA1",
   "tracks": [
     {
       "added_at": "2023-03-04 17:30:31",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 116626,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "From the Foundations (Expanded Edition)",
         "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 177519,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 116626,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Sings the Songs that Made Him Famous",
         "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+      "duration_ms": 210525,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1155,22 +1171,6 @@
       "duration_ms": 166133,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 210525,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "The Best of The Kingsmen",
         "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 144146,
-      "name": "Do Wah Diddy Diddy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 144146,
+      "name": "Do Wah Diddy Diddy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 147306,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 197093,
       "name": "Lay, Lady, Lay",
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 147306,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Good Vibrations 40th Anniversary",
         "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Groovin' (Mono)",
-        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
-      },
-      "artists": [
-        {
-          "name": "The Young Rascals",
-          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
-        }
-      ],
-      "duration_ms": 151289,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "That'll Be The Day",
         "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 127733,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Up-Tight",
         "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
       },
@@ -2167,18 +2151,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
       "artists": [
         {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 140120,
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
-      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
+      "duration_ms": 127733,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2211,6 +2195,22 @@
       "duration_ms": 166466,
       "name": "Crying",
       "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Da Doo Ron Ron (When He Walked Me Home)",
+      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "The Seekers",
         "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
       },
@@ -2279,18 +2295,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
       },
       "artists": [
         {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+      "duration_ms": 149360,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2311,22 +2327,6 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
     },
     {
       "added_at": "2023-03-04 17:30:31",

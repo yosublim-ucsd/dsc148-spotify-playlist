@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,210 likes - 41 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,332 likes - 41 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 14 | [Hollow](https://open.spotify.com/track/1lM1ZHTvfKi5CMRjsZ4Sg9) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:45 |
 | 15 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
 | 16 | [Yesterday Don't Mean Shit](https://open.spotify.com/track/0MT298VrmI1Kb7GFbxw43C) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 4:19 |
-| 17 | [10's](https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:49 |
+| 17 | [Psycho Holiday](https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:19 |
 | 18 | [Fucking Hostile](https://open.spotify.com/track/5RU50TPTgtxJLFNunUS2p5) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 2:48 |
 | 19 | [Strength Beyond Strength](https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:38 |
-| 20 | [Psycho Holiday](https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:19 |
-| 21 | [Hellbound](https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 2:40 |
+| 20 | [10's](https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:49 |
+| 21 | [Heresy](https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:46 |
 | 22 | [A New Level](https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 |
-| 23 | [Shedding Skin](https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:36 |
-| 24 | [Heresy](https://open.spotify.com/track/4c6yZLnA730uJgQf9fTW2M) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:46 |
+| 23 | [Hellbound](https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 2:40 |
+| 24 | [Shedding Skin](https://open.spotify.com/track/1eajy6fnktZk1rLVYWXr2P) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 5:36 |
 | 25 | [Piss](https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Piss](https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3) | 4:22 |
 | 26 | [The Great Southern Trendkill](https://open.spotify.com/track/055Oi1gpZYQ3mVC5aOntx7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 3:46 |
 | 27 | [Death Rattle](https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:17 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 40 | [Hostile \- Live](https://open.spotify.com/track/4XDQGvmsZ0I3lANxJuhegH) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:56 |
 | 41 | [Sandblasted Skin \- Live](https://open.spotify.com/track/7A3ZvT0Pb1ib9w4yVnORNp) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 4:29 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA5NzQwZDM2ZmZjMjg5ZmQ4MTg3MGQ3ZTA0M2M4MmE3Yw==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAzNmEyODhhZWEwMjJkYTM1ODI3Njg3NTlkYjYyY2M3OA==`

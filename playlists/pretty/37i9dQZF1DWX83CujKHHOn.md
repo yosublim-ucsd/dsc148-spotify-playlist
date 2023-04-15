@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,302,201 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,302,564 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

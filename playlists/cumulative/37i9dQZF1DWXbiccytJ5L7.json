@@ -1369,6 +1369,28 @@
     },
     {
       "album": {
+        "name": "Unlive (with Yelawolf)",
+        "url": "https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237720,
+      "name": "Unlive (with Yelawolf)",
+      "url": "https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4"
+    },
+    {
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/577oexFxcnZcntdo1TBIjo"
       },

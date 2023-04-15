@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "The feelings you can't put into words...only songs. Cover: THEY.",
+  "description": "Let the songs speak. Cover: Yung Bleu",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -1883,6 +1883,28 @@
     },
     {
       "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
+    },
+    {
+      "album": {
         "name": "Dreams 2 Reality",
         "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
       },
@@ -2252,6 +2274,24 @@
       "duration_ms": 194197,
       "name": "Effortless",
       "url": "https://open.spotify.com/track/6nKOZaeBQUEvLTJHQ2e6Ps"
+    },
+    {
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
     },
     {
       "album": {
@@ -5604,7 +5644,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 196487,
       "name": "Opps",
       "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
@@ -7958,7 +7998,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 135024,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u"

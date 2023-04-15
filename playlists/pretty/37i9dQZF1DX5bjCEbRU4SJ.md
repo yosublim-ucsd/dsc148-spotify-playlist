@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,930 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,924 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 13 | [Mad Sounds](https://open.spotify.com/track/75n7mraeMycQOl2sDGYaTe) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:35 |
 | 14 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 15 | [This Old Dog](https://open.spotify.com/track/2RwOqicYzwMSuzKzHx78jm) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 2:30 |
-| 16 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 3:53 |
-| 17 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
+| 16 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
+| 17 | [I Hope That I Don't Fall In Love With You](https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 3:53 |
 | 18 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
 | 19 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 20 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 58 | [Wait for Me](https://open.spotify.com/track/5SHOb5hvMDzmIRfDhwBoq5) | [Motopony](https://open.spotify.com/artist/5urVI6ZUTzPlsqQoHVwc9s) | [Motopony](https://open.spotify.com/album/43mF1taGdqWTV6MG0R9IsW) | 4:49 |
 | 59 | [Hot Dreams](https://open.spotify.com/track/3kpRgTtMnArQ5Gay0JxElf) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Hot Dreams](https://open.spotify.com/album/2U1BUKvsYIkUik7xEhAP0C) | 4:53 |
 | 60 | [Dusty Trails](https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 4:24 |
-| 61 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
-| 62 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
-| 63 | [Something](https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl) | 3:52 |
+| 61 | [Something](https://open.spotify.com/track/0BhM0Kr7Gc4uOIdVE3lXvt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/3DvUGOMZgAr6PaToI7Vwwl) | 3:52 |
+| 62 | [Middle Names](https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 3:28 |
+| 63 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
 | 64 | [The Healing Day](https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People](https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb) | 5:14 |
 | 65 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 | 66 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 70 | [Over The Ocean](https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy) | [Here We Go Magic](https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f) | [A Different Ship](https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa) | 4:26 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGMwYzRlNjMxYzY3NmMzMjRmMzc4M2ZlMGU4ZjMxYTQz`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGI3ODhiZTlkZTkzZDc1YzdmMjBhMjA3MzExM2JmMGFi`

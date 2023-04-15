@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-278 songs - 15 hr 14 min
+279 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All My Love \(feat\. Conor Maynard\)](https://open.spotify.com/track/5gig84vSAVlkx1GW1jZNBW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:11 | 2021-12-27 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 | 2022-09-14 |  |
 | [All That Love](https://open.spotify.com/track/5rnGF6xiFwbXSL6IEELei8) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [All That Love \- SM STATION](https://open.spotify.com/album/4OJCJDqVmugtPC6iHCsdOZ) | 3:13 | 2021-12-27 |  |
-| [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 | 2021-12-27 | 2022-07-10 |
+| [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 | 2021-12-27 |  |
 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 | 2021-12-27 |  |
 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 | 2022-01-20 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-12-27 |  |
@@ -228,7 +228,8 @@
 | [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 | 2021-12-27 |  |
 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 | 2021-12-27 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 | 2021-12-27 |  |
-| [Se Dig Græde](https://open.spotify.com/track/3r8ie9cu2LumbxtwAzXTAd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Se Dig Græde](https://open.spotify.com/album/3Sw0RFbDZXoZw2Df3bLiMF) | 1:53 | 2023-04-04 |  |
+| [Se Dig Græde](https://open.spotify.com/track/3HkAJYKTQ8D2MXbbu5N8XH) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd) | 1:53 | 2023-04-14 |  |
+| [Se Dig Græde](https://open.spotify.com/track/3r8ie9cu2LumbxtwAzXTAd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Se Dig Græde](https://open.spotify.com/album/3Sw0RFbDZXoZw2Df3bLiMF) | 1:53 | 2023-04-04 | 2023-04-15 |
 | [See You Later](https://open.spotify.com/track/4Fn3jsImMdfQzsvtU3o8CW) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I'm Sorry I Love You \- EP](https://open.spotify.com/album/5DplyhOUuIy3xuAdS7rfqL) | 2:42 | 2021-12-27 |  |
 | [Sick](https://open.spotify.com/track/6hlfwM9SScYH5kRjDBCbBy) | [Mic Ross](https://open.spotify.com/artist/0Xmx6LWkU1ZYaLOCEvm3Ob), [Shonuf](https://open.spotify.com/artist/6gXLnjgWSymxOcGkE77xKN) | [Towards All Your Love Or Revenge](https://open.spotify.com/album/1oZC4wMQbJ2bjdauz6c86W) | 2:29 | 2022-12-15 |  |
 | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/track/0l9Iw63br78PdwmjNzwmOj) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/album/76jSo7nMbW3o3lYBryCTyV) | 2:51 | 2021-12-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,710 likes - 33 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,783 likes - 33 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 5 | [Angelina](https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:45 |
 | 6 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
 | 7 | [To the Mountains](https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:13 |
-| 8 | [Over\-the\-Ocean Call](https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over\-the\-Ocean Call](https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg) | 4:04 |
-| 9 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL) | 2:36 |
+| 8 | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/track/39YmS0tsTXHloxBgU3sYf9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hold On \(From "Dear Edward"\)](https://open.spotify.com/album/06tHRR1xXpauOmo47S1DTL) | 2:36 |
+| 9 | [Over\-the\-Ocean Call](https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over\-the\-Ocean Call](https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg) | 4:04 |
 | 10 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
 | 11 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
 | 12 | [In Agreement](https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:47 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 32 | [Paranoia Purple](https://open.spotify.com/track/0kOq336SMTIa90VjHMutht) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Paranoia Purple](https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2) | 3:57 |
 | 33 | [Dancing Queen](https://open.spotify.com/track/1dHbjQmKlr15e6xP7VDfWi) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Dancing Queen](https://open.spotify.com/album/7kPywVWHVzRTrlzPMXFIWq) | 3:05 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA1YjU4MGNhZTUzMTUwZGQxODE4Y2ExY2E1NWI3YmU1Nw==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAzNjc3ZDk3NGRlMmEyNDIzNDcyOGNhN2NkNTQwZDAxNw==`

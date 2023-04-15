@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Fall Out Boy
 
-224 songs - 13 hr 35 min
+225 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dark Eyes](https://open.spotify.com/track/2k3Jx1qG1EU0gVNYn0Ku7V) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H), [Scotty Overdose](https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS) | [Dark Eyes](https://open.spotify.com/album/1Z9bQxRRURNy46GPe3sS2S) | 4:00 | 2023-01-13 | 2023-02-01 |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-03-04 | 2022-05-20 |
-| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-02-24 |  |
+| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-02-24 | 2023-04-15 |
 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 | 2022-10-29 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 | 2022-03-26 |
@@ -200,6 +200,7 @@
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 | 2022-07-02 |
 | [THIRST4VIOLENCE \(feat\. Freddie Dredd & Silverstein\)](https://open.spotify.com/track/6fQaD9UaCJPLceCxfS8fpH) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [THIRST4VIOLENCE \(feat\. Freddie Dredd & Silverstein\)](https://open.spotify.com/album/2GNIxRwMShUPGVw5eWl3OC) | 2:19 | 2023-02-03 | 2023-02-11 |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-12-20 | 2023-01-14 |
+| [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 |  |
 | [Torch](https://open.spotify.com/track/2ParPfrvK9Ld1cIsLOKVNC) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Torch](https://open.spotify.com/album/5IDOB0Ms2VjRPc5qGudrmM) | 3:37 | 2022-01-14 | 2022-09-03 |
 | [Traps](https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Traps](https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh) | 2:54 | 2022-01-14 | 2022-09-03 |
 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 | 2022-01-14 | 2022-04-02 |

@@ -9712,7 +9712,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -10082,7 +10082,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
@@ -11424,7 +11424,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -14457,6 +14457,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "album": {
         "name": "\u4ece\u524d\u8bf4",
         "url": "https://open.spotify.com/album/3XKhqXwWo2nHfTCsvYkmtq"
       },
@@ -14468,7 +14486,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 251501,
       "name": "\u4ece\u524d\u8bf4",
       "url": "https://open.spotify.com/track/3t5edAHbyFEW67wFApp7EO"
@@ -15146,7 +15164,7 @@
       ],
       "date_added": "2021-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 296006,
       "name": "\u98de\u9e1f\u548c\u8749",
       "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"

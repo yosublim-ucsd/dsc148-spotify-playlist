@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633866,
+  "num_followers": 633855,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMDczMmZiZTk2NDU4N2I0N2M2M2I0MzJiN2EyMGM2MGM0",
+  "snapshot_id": "MTY4MDIyMDg2MCwwMDAwMDAwMDk4OTZkODIwZmI0NzRiZjQ4ZTg2ZTkyNzE0NmFhNGI2",
   "tracks": [
     {
       "added_at": "2023-03-30 15:48:08",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Everything Shall Pass",
-        "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Everything Shall Pass",
-      "url": "https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Frozen Sunlight",
         "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Luminescent",
-        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+        "name": "Everything Shall Pass",
+        "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Luminescent",
-      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+      "duration_ms": 208000,
+      "name": "Everything Shall Pass",
+      "url": "https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -779,6 +763,22 @@
       "duration_ms": 162500,
       "name": "Hvis du bare vidste",
       "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Luminescent",
+        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Luminescent",
+      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Legend Of Zea",
-        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
-      },
-      "artists": [
-        {
-          "name": "Cora Zea",
-          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
-        }
-      ],
-      "duration_ms": 211583,
-      "name": "Afternoon Spirits",
-      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 134210,
       "name": "We Are Forever",
       "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Legend Of Zea",
+        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
+      },
+      "artists": [
+        {
+          "name": "Cora Zea",
+          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+        }
+      ],
+      "duration_ms": 211583,
+      "name": "Afternoon Spirits",
+      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 175250,
       "name": "Myriads",
       "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Winter Night Mist",
-        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 193095,
-      "name": "Winter Night Mist",
-      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Distant Voices",
         "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 176571,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Ambientes",
-        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 120172,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 165333,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Ambientes",
+        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 120172,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Time Capsule",
         "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 129274,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "The Shortest Flight",
-        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 118600,
-      "name": "The Shortest Flight",
-      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Liquid Air",
         "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 213878,
       "name": "Liquid Air",
       "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "The Shortest Flight",
+        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 118600,
+      "name": "The Shortest Flight",
+      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
     },
     {
       "added_at": "2023-03-30 15:48:08",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-30 15:48:08",
       "album": {
-        "name": "Tenebris",
-        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 233174,
-      "name": "Aragorn",
-      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
-    },
-    {
-      "added_at": "2023-03-30 15:48:08",
-      "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/7CVds6xwlcKmedbFexbYFW"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
+    },
+    {
+      "added_at": "2023-03-30 15:48:08",
+      "album": {
+        "name": "Tenebris",
+        "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 233174,
+      "name": "Aragorn",
+      "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
     },
     {
       "added_at": "2023-03-30 15:48:08",

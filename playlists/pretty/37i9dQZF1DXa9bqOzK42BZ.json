@@ -1,28 +1,48 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover <a href=\"https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL\">Christina Shusho</a>",
-  "num_followers": 2754,
+  "num_followers": 2762,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgyNzQwMCwwMDAwMDAwMDYxMDJiY2U2ZWZkYjlmOWQ3ZWM1NzdiYmY0YjJkMDMx",
+  "snapshot_id": "MTY4MTQzMjIwMCwwMDAwMDAwMDMzYzE4NTdhZDc2ZDQwMzE5YzUyZWRhZTBlNWNlYzY0",
   "tracks": [
     {
-      "added_at": "2023-04-07 00:30:00",
+      "added_at": "2023-04-14 00:30:00",
       "album": {
-        "name": "Hararat",
-        "url": "https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS"
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/1SGn3WiqZbUaIybmhL5x7a"
       },
       "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        },
         {
           "name": "Christina Shusho",
           "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 225849,
-      "name": "Hararat",
-      "url": "https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF"
+      "duration_ms": 227791,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/0FD62g19MnyK9ZBXLOsogP"
+    },
+    {
+      "added_at": "2023-04-14 00:30:00",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -41,6 +61,26 @@
       "url": "https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z"
     },
     {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Shwari",
+        "url": "https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Thomas",
+          "url": "https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw"
+        },
+        {
+          "name": "Henrick Mruma",
+          "url": "https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU"
+        }
+      ],
+      "duration_ms": 402267,
+      "name": "Shwari",
+      "url": "https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd"
+    },
+    {
       "added_at": "2023-03-10 05:59:41",
       "album": {
         "name": "Niko Sawa",
@@ -55,6 +95,22 @@
       "duration_ms": 215047,
       "name": "Wewe Ni Mungu",
       "url": "https://open.spotify.com/track/5v9uesjBjZzLtyo14Fv9Md"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Vinakamilika",
+        "url": "https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ipyana",
+          "url": "https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc"
+        }
+      ],
+      "duration_ms": 413973,
+      "name": "Vinakamilika",
+      "url": "https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -91,26 +147,6 @@
     {
       "added_at": "2022-06-24 17:41:13",
       "album": {
-        "name": "Shwari",
-        "url": "https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Thomas",
-          "url": "https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw"
-        },
-        {
-          "name": "Henrick Mruma",
-          "url": "https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU"
-        }
-      ],
-      "duration_ms": 402267,
-      "name": "Shwari",
-      "url": "https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
         "name": "Bwana Unatawala (Live)",
         "url": "https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs"
       },
@@ -125,20 +161,20 @@
       "url": "https://open.spotify.com/track/1zLfTPsgjAUmNDgcG5AlGE"
     },
     {
-      "added_at": "2022-06-24 17:41:13",
+      "added_at": "2023-04-07 00:30:00",
       "album": {
-        "name": "Vinakamilika",
-        "url": "https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA"
+        "name": "Hararat",
+        "url": "https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS"
       },
       "artists": [
         {
-          "name": "Dr. Ipyana",
-          "url": "https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc"
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 413973,
-      "name": "Vinakamilika",
-      "url": "https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3"
+      "duration_ms": 225849,
+      "name": "Hararat",
+      "url": "https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -239,38 +275,6 @@
       "duration_ms": 467360,
       "name": "Niumbie Moyo Safi",
       "url": "https://open.spotify.com/track/43Bg1g38MwANRmhK8leUSq"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Utukufu",
-        "url": "https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc"
-      },
-      "artists": [
-        {
-          "name": "Bale John",
-          "url": "https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6"
-        }
-      ],
-      "duration_ms": 349879,
-      "name": "Rohoni Na Mwilini",
-      "url": "https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Siku Mpya New Day",
-        "url": "https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV"
-      },
-      "artists": [
-        {
-          "name": "Angel Benard",
-          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
-        }
-      ],
-      "duration_ms": 300042,
-      "name": "Kiu Yangu",
-      "url": "https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4"
     },
     {
       "added_at": "2022-06-24 17:41:13",

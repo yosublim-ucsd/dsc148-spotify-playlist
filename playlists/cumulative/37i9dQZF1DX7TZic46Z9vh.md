@@ -4,7 +4,7 @@
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-111 songs - 7 hr 29 min
+112 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [My Way Is Love](https://open.spotify.com/track/0CI67v7SM4HohMbUcffnmT) | [La Division Del Norte](https://open.spotify.com/artist/4vWM7TI7ArFXtfFFACYY9p) | [Division Del Norte](https://open.spotify.com/album/6FipROEDfMRlEN1WALqs1S) | 3:23 | 2021-09-06 | 2022-07-25 |
 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 | 2021-09-06 |  |
 | [Nadie En Especial](https://open.spotify.com/track/0UVNcbB9W1h1fZGyhef3Nd) | [Chac Mool](https://open.spotify.com/artist/2qEmeuF0gIyxdU1OyxNl22) | [Nadie En Especial](https://open.spotify.com/album/7iKk5AQokTUn012tYH347o) | 4:43 | 2021-09-06 |  |
-| [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 | 2021-09-06 |  |
+| [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 | 2021-09-06 | 2023-04-15 |
+| [Nasty Sex](https://open.spotify.com/track/5GwFtEwUc4FZfM8xZzDod9) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata](https://open.spotify.com/album/2oSxSb7LlbuDapMLtbepzg) | 7:26 | 2021-09-06 |  |
 | [Nati Bati Yi](https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Monster A Go\-Go: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 1\)](https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7) | 2:29 | 2021-09-06 |  |
 | [No One to Depend On](https://open.spotify.com/track/3pPnys7mGV0DQkQoxmovXi) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(III\)](https://open.spotify.com/album/3iE6Jik24CBE0uv1lyyplI) | 5:31 | 2021-09-06 |  |
 | [No Quiero Ya Volver](https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Fuego](https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN) | 3:24 | 2021-09-06 | 2023-03-06 |

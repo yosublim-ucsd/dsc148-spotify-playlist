@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,274 likes - 70 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,471 likes - 70 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

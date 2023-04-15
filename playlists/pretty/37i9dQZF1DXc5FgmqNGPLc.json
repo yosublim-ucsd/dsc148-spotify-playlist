@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 5487,
+  "num_followers": 5493,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDBkODQxOTczOGJlZTFlYzg3NDA2NmQ4NzBkMGZkYzM2",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDkyZjhhMTliMzcwYTAyM2ExMWNmZTEwZGJiMDhhM2Uz",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "My Foolish Heart (Live)",
+        "url": "https://open.spotify.com/album/0tkRkhaV8eqw0kn1MUKIWx"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/4ET4KbrR2ly7diI7rnQwhc"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -395,22 +411,6 @@
       "duration_ms": 518093,
       "name": "Sierre - Live",
       "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Soul Eyes (Live)",
-        "url": "https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0"
-      },
-      "artists": [
-        {
-          "name": "Mal Waldron",
-          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
-        }
-      ],
-      "duration_ms": 529360,
-      "name": "Soul Eyes (Live)",
-      "url": "https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP"
     },
     {
       "added_at": "2022-09-16 04:01:00",

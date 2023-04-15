@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-50 songs - 4 hr 44 min
+51 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 | 2023-04-06 |  |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2023-04-06 |  |
 | [Agbebolo](https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [NHYIRABA GIDEON](https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl) | [Agbebolo](https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh) | 5:32 | 2023-04-06 |  |
-| [Amenuveve \(Grace\)](https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Amenuveve \(Grace\)](https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f) | 6:48 | 2023-04-06 |  |
+| [Amenuveve \(Grace\)](https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Amenuveve \(Grace\)](https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f) | 6:48 | 2023-04-06 | 2023-04-15 |
 | [Amenuveve \(Grace\) \- Live](https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Final Say \(Live\)](https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY) | 6:48 | 2023-04-06 |  |
 | [Aseda](https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [PO Godson](https://open.spotify.com/artist/1TbwnRRabR2ZOYj4u3C6Vl), [Joe Kay](https://open.spotify.com/artist/53ZQc2LGjVFkhzbC6zBggA), [Belac 360](https://open.spotify.com/artist/68McF3BHKgTCfkHlUpy7Ah) | [This Is Us](https://open.spotify.com/album/06C51VglvEDVHgbI25OCty) | 3:27 | 2023-04-06 |  |
 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-04-06 |  |
@@ -58,5 +58,6 @@
 | [Who Say God No Dey](https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Who Say God No Dey](https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti) | 2:54 | 2023-04-06 |  |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2023-04-06 |  |
 | [Yesu Mo](https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Yesu Mo](https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG) | 4:01 | 2023-04-06 |  |
+| [Your Grace](https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2) | [Prince Tuffour](https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4) | [Your Grace](https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy) | 5:25 | 2023-04-14 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

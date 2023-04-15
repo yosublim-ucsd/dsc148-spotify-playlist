@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 221574,
+  "num_followers": 221721,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDY2MDUwODc2YThjNDY4YjFmOGNiZWI0N2ZmZjY3NGM1",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMGZjMTc2MzI5NjhlYzM0OWMxYjJiZjU4NDUzYWQ2YzM4",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
-      },
-      "artists": [
-        {
-          "name": "Shammai",
-          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
-        }
-      ],
-      "duration_ms": 244545,
-      "name": "Tu Corazo\u0301n",
-      "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Mi confianza est\u00e1 en ti (remix)",
         "url": "https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 333653,
       "name": "Mi confianza est\u00e1 en ti (remix)",
       "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E"
+      },
+      "artists": [
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "duration_ms": 244545,
+      "name": "Tu Corazo\u0301n",
+      "url": "https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi"
     },
     {
       "added_at": "2020-11-24 13:23:38",

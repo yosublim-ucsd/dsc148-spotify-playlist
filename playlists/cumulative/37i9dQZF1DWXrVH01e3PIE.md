@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> C.R.O & Duki en la casa del Trap Argentino.
+> Milo j en la casa del Trap Argentino.
 
-190 songs - 9 hr 17 min
+192 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [MVP'](https://open.spotify.com/track/2sBKyxTecZFK1IA3HKqi69) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [MVP'](https://open.spotify.com/album/5GKvvVEt9IIWMjsJYOF382) | 2:18 | 2023-02-24 |  |
 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 | 2022-01-21 |  |
 | [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 | 2022-11-24 |  |
+| [Neymar Jr](https://open.spotify.com/track/2uSaWBsTaYdcKMd1ITO9Er) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Arcones](https://open.spotify.com/artist/1Pf4laSttup4Nd1itUUqV3) | [Neymar Jr](https://open.spotify.com/album/1GYvbPA4RvK86h7oTXhaMY) | 2:33 | 2023-04-14 |  |
 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 | 2022-01-21 |  |
 | [No Tiene Sentido](https://open.spotify.com/track/6qTfLcLXzymtYrfSRptEhf) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [No Tiene Sentido](https://open.spotify.com/album/3ZGtjPuGFi585P7tMgyNBI) | 2:26 | 2022-01-21 | 2023-02-11 |
 | [no twin](https://open.spotify.com/track/2phdLu86u9OXfmRCrZ2Dur) | [Ill Quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [no twin](https://open.spotify.com/album/4ot7HHE3CQz8aKSpkB7j6b) | 2:34 | 2022-06-17 | 2022-09-03 |
@@ -171,6 +172,7 @@
 | [TNT](https://open.spotify.com/track/0nxAX2TnvmHjrRzLW3G4q5) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [TNT](https://open.spotify.com/album/3H8SJlX6MEphHft4UUBSeP) | 2:41 | 2022-01-21 |  |
 | [TNT](https://open.spotify.com/track/4ld82JEAVNp87NWWslgPJc) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 3:51 | 2022-01-21 |  |
 | [TODO AUTOMATICO](https://open.spotify.com/track/38uRnUZTf0eCKfKNnVUSaT) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 3:14 | 2022-01-21 |  |
+| [TOI HECHO](https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 1:46 | 2023-04-14 |  |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2022-01-21 |  |
 | [TOP](https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOP](https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L) | 1:35 | 2023-03-31 |  |
 | [Tranki Keloke](https://open.spotify.com/track/54h6ybVVl94AZYDDMSTS34) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Shifa](https://open.spotify.com/artist/6AJnV0udomI2aWkYijj6JO) | [Tranki Keloke](https://open.spotify.com/album/60DOXreM2soXs0S6GiuwFv) | 2:32 | 2022-01-21 | 2022-02-12 |

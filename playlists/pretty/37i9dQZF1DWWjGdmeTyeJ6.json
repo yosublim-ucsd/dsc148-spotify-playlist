@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Justend. Artwork by Isu Kim. Updates every Wednesday.",
-  "num_followers": 1153040,
+  "num_followers": 1152992,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMzOTE2OSwwMDAwMDAwMDgyOGY4ZjEyNWJkNGY4NDk5NTBkY2IyMmQzYTgxMjgz",
+  "snapshot_id": "MTY4MTQ5MjAyNiwwMDAwMDAwMDU4NTUzNjI2OTkxYTFkZTdiNGNjNWVjOTk2Yjc0NTRj",
   "tracks": [
     {
       "added_at": "2023-04-12 15:30:00",
@@ -1027,26 +1027,6 @@
       "duration_ms": 225000,
       "name": "Before The Dawn",
       "url": "https://open.spotify.com/track/4dYtUInvejpxihZgV03QVM"
-    },
-    {
-      "added_at": "2023-04-12 15:30:00",
-      "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ"
-      },
-      "artists": [
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        },
-        {
-          "name": "The Moongirls",
-          "url": "https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm"
-        }
-      ],
-      "duration_ms": 236992,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ"
     },
     {
       "added_at": "2023-04-12 15:30:00",

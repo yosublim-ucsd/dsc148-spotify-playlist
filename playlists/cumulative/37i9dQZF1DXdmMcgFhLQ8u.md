@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-161 songs - 9 hr 30 min
+162 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 | 2021-12-03 |  |
 | [Still Getting Drunk](https://open.spotify.com/track/2FbK8N71b9gnznnr0cJVNM) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12 of 12](https://open.spotify.com/album/6IyDO3AsbFVIiUhFsymVTb) | 3:03 | 2021-12-03 | 2022-07-21 |
 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 | 2021-12-03 |  |
+| [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 | 2023-04-14 |  |
 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 | 2022-02-18 |  |
 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 | 2021-12-03 |  |
 | [The Bad Guy](https://open.spotify.com/track/0DR38qk3YmatNzC8U0tH2b) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Country Music Made Me Do It](https://open.spotify.com/album/23BCeIiqhQuJhIwWh3O27C) | 3:45 | 2021-12-03 | 2022-07-13 |
@@ -137,7 +138,7 @@
 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2022-01-28 |  |
 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 | 2022-09-16 | 2023-01-28 |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-12-03 |  |
-| [Tonight I Wanna Cry](https://open.spotify.com/track/0BHNSNcbTxQSwxXNnr9oUw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:19 | 2021-12-03 |  |
+| [Tonight I Wanna Cry](https://open.spotify.com/track/0BHNSNcbTxQSwxXNnr9oUw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:19 | 2021-12-03 | 2023-04-15 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-07-25 |  |
 | [Unlove You](https://open.spotify.com/track/3DeLvrawPtl8wSupXgTlSh) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Playing With Fire](https://open.spotify.com/album/76k8TW4lc0uzpaRHa2U0bK) | 3:54 | 2021-12-03 | 2023-01-28 |
 | [Villain](https://open.spotify.com/track/6PXUv7YuTC2Ua1rowd9Uql) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/31WjCvWYsVgesxT7l8lyBo) | 2:56 | 2021-12-03 | 2022-09-17 |

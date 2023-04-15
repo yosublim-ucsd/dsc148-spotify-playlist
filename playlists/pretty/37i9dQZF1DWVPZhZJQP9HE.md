@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,722 likes - 69 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,742 likes - 69 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

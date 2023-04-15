@@ -4,10 +4,11 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-54 songs - 3 hr 6 min
+57 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [722](https://open.spotify.com/track/2ib0FnnI0zXtaEl97Ne4KL) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [722](https://open.spotify.com/album/5yjY5yfVnICnlK7xc5m0MF) | 3:39 | 2023-04-14 |  |
 | [Abstinencia](https://open.spotify.com/track/72tsfpEv65vC4UxuviirDb) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Abstinencia](https://open.spotify.com/album/4qACZqHGBIQvjcB5OLnzDJ) | 4:44 | 2023-03-28 |  |
 | [Acércate a mí](https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acércate a mí](https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu) | 2:30 | 2023-03-19 |  |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-19 |  |
@@ -19,12 +20,14 @@
 | [Blin Blin](https://open.spotify.com/track/6cg36xQgUAsbRJ6xaadKWD) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Blin Blin](https://open.spotify.com/album/3Qz5C0bjoDOCfEe9FldQVC) | 3:18 | 2023-03-19 |  |
 | [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-03-19 |  |
 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 | 2023-03-19 |  |
+| [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 | 2023-04-14 |  |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-03-19 |  |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-19 |  |
 | [Confuso](https://open.spotify.com/track/2Rl03TiPufCJyuv7v7DqAz) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/2QuwIFRO0WUW6NQu2kF0I3) | 3:18 | 2023-03-19 |  |
-| [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-03-19 |  |
+| [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-03-19 | 2023-04-15 |
 | [Crece y florece](https://open.spotify.com/track/4nvsfC0OSATtI6qMG0dMeL) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [GUACHA](https://open.spotify.com/album/5BLXqlpjgmJ7XeBB0cQZzT) | 2:54 | 2023-03-30 |  |
 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 | 2023-03-19 |  |
+| [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 |  |
 | [Dark](https://open.spotify.com/track/0CyE5fPcOtpkstZVW1cFxj) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:46 | 2023-03-29 |  |
 | [De Vos](https://open.spotify.com/track/10umep0TNyuFyhKfx0z1Ew) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [De Vos](https://open.spotify.com/album/2dSepJ6uUSD9yE2LHUBAxy) | 4:57 | 2023-03-27 |  |
 | [El Bolero \- Acústico](https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [El Bolero \(acústico\)](https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe) | 3:29 | 2023-03-19 |  |
@@ -35,7 +38,7 @@
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-19 |  |
 | [Fotonovela](https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Fotonovela](https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ) | 4:42 | 2023-03-19 |  |
 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 | 2023-03-19 |  |
-| [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-03-19 |  |
+| [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-03-19 | 2023-04-15 |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-19 |  |
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 |  |
 | [Mala Mia](https://open.spotify.com/track/1gPDUmzf3TviGRmSUnwst0) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Mala Mia](https://open.spotify.com/album/3WJ1EoQn4vKUaafZQKIVqi) | 3:09 | 2023-03-19 |  |
@@ -60,7 +63,7 @@
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-19 |  |
 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 | 2023-03-19 | 2023-04-13 |
 | [Sol](https://open.spotify.com/track/3ZCnCDJchAUdH922mJty6O) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Sol](https://open.spotify.com/album/7rWwNHGxgwWsPdhxoBIty5) | 2:51 | 2023-03-19 |  |
-| [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-19 |  |
+| [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-19 | 2023-04-15 |
 | [Órbita](https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Órbita](https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT) | 3:17 | 2023-03-19 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

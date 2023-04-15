@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,574 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,721 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 95 | [Parece un Sueno](https://open.spotify.com/track/7LYLheF1lgAicmSeugSFR7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [El Mejor Regalo](https://open.spotify.com/album/5GWkPY9tYCZXLHswGzo0ZR) | 3:54 |
 | 96 | [Escondido en Èl \- Spanish](https://open.spotify.com/track/5j7zEOjg0ySSGK5R3aSS3s) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Perdido en Tu Amor](https://open.spotify.com/album/0A92FA4s4a4jM7GuBqVE5F) | 4:57 |
 | 97 | [Cree Solamente](https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Cree Solamente](https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ) | 4:38 |
-| 98 | [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 |
-| 99 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
+| 98 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
+| 99 | [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 |
 | 100 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 
-Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMDY2MDUwODc2YThjNDY4YjFmOGNiZWI0N2ZmZjY3NGM1`
+Snapshot ID: `MTYwNjIyNDIxOCwwMDAwMDAwMGZjMTc2MzI5NjhlYzM0OWMxYjJiZjU4NDUzYWQ2YzM4`

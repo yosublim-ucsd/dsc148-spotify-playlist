@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,469 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,504 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,21 +39,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 29 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
 | 30 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
 | 31 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 |
-| 32 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
-| 33 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
+| 32 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
+| 33 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
 | 34 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 |
 | 35 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
-| 36 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
-| 37 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
+| 36 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
+| 37 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 38 | [\(Interlude\)](https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [VIII](https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl) | 2:10 |
 | 39 | [Never Meant To Call](https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S) | 2:57 |
 | 40 | [Naps](https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl) | 3:58 |
 | 41 | [Cycle](https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR) | [Su Na](https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s) | [Cycle](https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS) | 3:08 |
 | 42 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
 | 43 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
-| 44 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 |
-| 45 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
-| 46 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
+| 44 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
+| 45 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
+| 46 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 |
 | 47 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 |
 | 48 | [Frozen Away](https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frozenthere](https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T) | 2:48 |
 | 49 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 57 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
 | 58 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
 | 59 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
-| 60 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
+| 60 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGZkNDM2NzFlZGNhZjY2MzljNGRmNjEwNzU1MWI3ODMy`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDk5ZGQ4MzE1ZmNkYmRlNjc3M2U5MzRkYzdhOGU3ZGI3`

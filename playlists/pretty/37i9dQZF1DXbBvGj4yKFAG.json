@@ -1,13 +1,45 @@
 {
   "description": "may include",
-  "num_followers": 25440,
+  "num_followers": 25923,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzNTg0OSwwMDAwMDAwMDYxNDdmMTcyMWI1YTgyMGVjZmRiYzA0NDA4ZjM3OGJh",
+  "snapshot_id": "MTY4MTQ5MzExMCwwMDAwMDAwMDZiZDA5MjM5ZjI3OGMwMTU1MjUyOWE5ZGJmNWJlOTJj",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 212000,
       "name": "No Blood, No Needles, Nothing",
       "url": "https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 196815,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Cosmic Healing",
+        "url": "https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf"
+      },
+      "artists": [
+        {
+          "name": "Cayo Coco",
+          "url": "https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3"
+        }
+      ],
+      "duration_ms": 188352,
+      "name": "Cosmic Healing",
+      "url": "https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV"
+    },
+    {
       "added_at": "2023-04-11 17:57:28",
       "album": {
         "name": "Reason",
@@ -103,6 +167,22 @@
       "duration_ms": 72874,
       "name": "TheBestVersionOfMyself",
       "url": "https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Enjoyer",
+        "url": "https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 216949,
+      "name": "Enjoyer",
+      "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -265,6 +345,22 @@
       "url": "https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda"
     },
     {
+      "added_at": "2023-04-14 17:25:10",
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/3WdpM0kX0UbJs4yGpEtrJQ"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 186507,
+      "name": "Blues Run the Game",
+      "url": "https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ"
+    },
+    {
       "added_at": "2023-04-11 14:48:39",
       "album": {
         "name": "biking to your house",
@@ -327,6 +423,38 @@
       "duration_ms": 178271,
       "name": "Hey Bunny",
       "url": "https://open.spotify.com/track/6dkPmbwmIHvDXVG67ADlOj"
+    },
+    {
+      "added_at": "2023-04-14 17:25:10",
+      "album": {
+        "name": "High School Football",
+        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "I'll Be Damned",
+      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
+    },
+    {
+      "added_at": "2023-04-14 17:25:10",
+      "album": {
+        "name": "I'M OK NO I'M NOT",
+        "url": "https://open.spotify.com/album/5UniBmaoxyjTUwBgOS165S"
+      },
+      "artists": [
+        {
+          "name": "Abby Holliday",
+          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
+        }
+      ],
+      "duration_ms": 233601,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -671,6 +799,22 @@
       "duration_ms": 158785,
       "name": "lavender blood",
       "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+    },
+    {
+      "added_at": "2023-04-14 17:25:10",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2023-04-11 14:48:39",

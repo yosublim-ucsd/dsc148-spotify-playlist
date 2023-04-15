@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 501184,
+  "num_followers": 501337,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNDg4NiwwMDAwMDAwMDYxZDkxODE5YjZjNjVlZDM3NzQ0YTkwNzE1NWY0MGYx",
+  "snapshot_id": "MTY3MjQyNDg4NiwwMDAwMDAwMDJkMzdhYzQ1Y2EwMTVmMGQ3YjdhZTJjM2JlN2VmMTMw",
   "tracks": [
     {
       "added_at": "2022-12-30 18:28:06",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/3qhE0VtmHnMUwqc9Xd4swG"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Se Acab\u00f3 El Juguetito",
+      "url": "https://open.spotify.com/track/7yjoHReqXPW7ONHiW8gePR"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 278640,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/3qhE0VtmHnMUwqc9Xd4swG"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Se Acab\u00f3 El Juguetito",
-      "url": "https://open.spotify.com/track/7yjoHReqXPW7ONHiW8gePR"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Cuba: Bienvenido Granda",
         "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 170811,
       "name": "En la orilla del mar (Bolero version)",
       "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -972,25 +972,9 @@
           "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 134113,
-      "name": "Querida Amiga",
-      "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Lamento Borincano",
-        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
+      "duration_ms": 120061,
+      "name": "Quiero Conocerte",
+      "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1007,6 +991,22 @@
       "duration_ms": 178920,
       "name": "Me Enga\u00f1as Mujer",
       "url": "https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 120061,
-      "name": "Quiero Conocerte",
-      "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
+      "duration_ms": 134113,
+      "name": "Querida Amiga",
+      "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Esperare",
         "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
@@ -1491,6 +1467,26 @@
       "duration_ms": 130500,
       "name": "Esperare",
       "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Como Una Flor Bolero",
+      "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1595,8 +1591,8 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
       "artists": [
         {
@@ -1606,11 +1602,15 @@
         {
           "name": "Roberto Aguilar",
           "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 194931,
-      "name": "Como Una Flor Bolero",
-      "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/3XP9XcACZOZl9gtZHo5jqe"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Las Estrellas de la \u00c9poca Azul",
         "url": "https://open.spotify.com/album/6olTcTdrs68Kz3NID8ExPM"
       },
@@ -2567,22 +2583,6 @@
       "duration_ms": 209040,
       "name": "Noche de Ronda",
       "url": "https://open.spotify.com/track/6cgRCSeDjACyJJA20Uzvdd"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/3XP9XcACZOZl9gtZHo5jqe"
     },
     {
       "added_at": "2022-12-30 18:28:06",

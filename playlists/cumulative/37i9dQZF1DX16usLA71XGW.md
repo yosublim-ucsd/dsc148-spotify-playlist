@@ -4,7 +4,7 @@
 
 > East Africa Queens in their music bag
 
-84 songs - 4 hr 24 min
+85 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,5 +92,6 @@
 | [Want It All](https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Ruguru](https://open.spotify.com/album/2rdXJOOC9kuPWxD1mboKCQ) | 3:04 | 2022-09-01 |  |
 | [Where \(Has the Time Gone\)](https://open.spotify.com/track/4CD3Mw4RUa5Igh70CWadbo) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Where \(Has the Time Gone\)](https://open.spotify.com/album/6JwEB4ctGyzJis0UAZwQFC) | 2:22 | 2022-07-18 |  |
 | [With You](https://open.spotify.com/track/2kmrovjpIxVb59ULNmEaeB) | [Maryolive](https://open.spotify.com/artist/3fzxNKewoLZJwJUVrnQY27) | [With You](https://open.spotify.com/album/0FCSf4X8qXB2vOXgKB3r7L) | 3:28 | 2022-07-18 | 2022-10-28 |
+| [Yamenizidi](https://open.spotify.com/track/52Hrsu0VFAePA3n2iBJMTF) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Yamenizidi](https://open.spotify.com/album/0zYMkOpb7gzgoNzWyZ0yxq) | 3:35 | 2023-04-13 |  |
 
 \*This playlist was first scraped on 2022-07-20. Prior content cannot be recovered.

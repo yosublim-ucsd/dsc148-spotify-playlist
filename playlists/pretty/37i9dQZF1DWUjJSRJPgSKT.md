@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911 likes - 100 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979 likes - 100 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 |
 | 100 | [I'll Remember April](https://open.spotify.com/track/6yRPErtmW2FuTeQ1cvDsrr) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach At Basin Street](https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc) | 9:13 |
 
-Snapshot ID: `MTY3OTY0MTYwMiwwMDAwMDAwMGRiMzdiZGJkYTQ2NGEwZGE3NGM4ZTJhZDkyM2M4OTlj`
+Snapshot ID: `MTY4MTQ1NDk4MSwwMDAwMDAwMDkxOTYyZjllODcxMzE0MjZiY2Y5YzQzNTgyZjYxZjBl`

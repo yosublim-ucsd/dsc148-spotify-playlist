@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Maluma, Anuel AA, Feid, KAROL G, and more.\ud83d\udd25\ud83e\udd75",
+  "description": "Reggaeton hits from Yng Lvcas, Peso Pluma, Feid, KAROL G, and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ"
       },
@@ -862,10 +884,36 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151373,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Roto (Remix)",
+        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "Coraz\u00f3n Roto - Remix",
+      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
     },
     {
       "album": {
@@ -932,7 +980,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -2052,7 +2100,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 243622,
       "name": "Instagram - Remix",
       "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"

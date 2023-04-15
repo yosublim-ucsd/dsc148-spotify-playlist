@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 34 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 |
 | 35 | [Mi sueño ideal](https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 3:14 |
 | 36 | [Mundo De Caramelo](https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 3:50 |
-| 37 | [Valientes](https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:14 |
+| 37 | [Polo A Tierra](https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:24 |
 | 38 | [TQ Y YA](https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:52 |
 | 39 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 |
-| 40 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
-| 41 | [Mi vida empieza así](https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 1:49 |
+| 40 | [Mi vida empieza así](https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 1:49 |
+| 41 | [Todo Fue Un Show](https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:48 |
 | 42 | [Hasta vencer](https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Raya y el Último Dragón \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B) | 3:44 |
 | 43 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 |
 | 44 | [Te Quiero Tanto](https://open.spotify.com/track/0WXSnjqHBvN7dHNCzWmTPk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:24 |
 | 45 | [Ruleta](https://open.spotify.com/track/59gcKA5TjGOyBh5yss1jBn) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Danna Paola](https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5) | 3:10 |
 | 46 | [Viaje A La Luz](https://open.spotify.com/track/7mQbHLZzQLP1kD3cOiAlMJ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Viaje A La Luz \(De "Más Allá De La Luna" Soundtrack\)](https://open.spotify.com/album/29hfMCh9vKqYakjav3UU4Y) | 2:17 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDBmMzNkMWZmOGY0MTcwNGViYTc1ODAwZWIwY2UxYzczZg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAyZTRlMzM2MWNkNDdhNmUzMzNjZWQxZjNhOGU0Y2M1NQ==`

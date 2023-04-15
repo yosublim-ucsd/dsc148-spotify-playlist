@@ -4,7 +4,7 @@
 
 > The biggest hits from country artists around the globe\. Cover: Luke Combs
 
-101 songs - 5 hr 42 min
+102 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Acres](https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beer and Fishin'](https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe) | 3:52 | 2023-03-31 |  |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2023-03-31 |  |
 | [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2023-03-31 |  |
+| [Bar Stool](https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Bar Stool](https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0) | 3:18 | 2023-04-14 |  |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2023-03-31 |  |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2023-03-31 | 2023-04-04 |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2023-03-31 |  |
@@ -37,7 +38,7 @@
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2023-03-31 |  |
 | [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 | 2023-03-31 |  |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-03-31 |  |
-| [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 | 2023-03-31 |  |
+| [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 | 2023-03-31 | 2023-04-15 |
 | [Good Beer](https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What I Get for Loving You](https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q) | 2:54 | 2023-03-31 |  |
 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 | 2023-03-31 |  |
 | [Got Your Name On It](https://open.spotify.com/track/5hRyy1AIJMc5wyizJcSIEa) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Jade Eagleson](https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w) | 3:09 | 2023-03-31 |  |

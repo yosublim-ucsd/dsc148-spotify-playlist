@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 118008,
+  "num_followers": 118058,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMGM4ODYzZDY4ZmJjZmJiODk2ZGI4NTM1YmMxODVmZjlh",
+  "snapshot_id": "MTY3NjQ4NDE2NSwwMDAwMDAwMDUzYzRkYjliNTUwYTI1ZDYwYmVhMGIzM2U3NzJmYTUx",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -639,6 +639,26 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        },
+        {
+          "name": "Amy H\u0101naiali\u02bbi Gilliom",
+          "url": "https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Hanalei Moon",
+      "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Ultra-Lounge: Fuzzy Retail Sampler",
         "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 324920,
       "name": "Uilani / Baby Kalae",
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
-      },
-      "artists": [
-        {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
-        },
-        {
-          "name": "Amy H\u0101naiali\u02bbi Gilliom",
-          "url": "https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Hanalei Moon",
-      "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
     },
     {
       "added_at": "2021-01-20 03:50:53",

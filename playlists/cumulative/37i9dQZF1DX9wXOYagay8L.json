@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J?si=zVSJ6B4lQWKUAfvsGOdFWQ\">Q Twins</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw?si=3bS5VgyJReir6n95q-4PSQ\">Malome Vector</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -7632,6 +7632,32 @@
       "duration_ms": 308600,
       "name": "Xolele",
       "url": "https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS"
+    },
+    {
+      "album": {
+        "name": "Ya Costa",
+        "url": "https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5"
+      },
+      "artists": [
+        {
+          "name": "Malome Vector",
+          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Lizwi Wokuqala",
+          "url": "https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240359,
+      "name": "Ya Costa",
+      "url": "https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA"
     },
     {
       "album": {

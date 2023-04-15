@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Addison Grace
 
-436 songs - 23 hr 25 min
+438 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-01-14 | 2022-04-29 |
 | [Call My Own](https://open.spotify.com/track/2Tp03ZfNBqXL8Ny0g9e8sM) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Call My Own](https://open.spotify.com/album/6fKaC3BsUu5DeKzcvrg7ko) | 2:55 | 2022-03-25 | 2022-04-23 |
 | [Call U After Rehab](https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Call U After Rehab](https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq) | 2:58 | 2023-03-10 |  |
+| [Can't Blame A Girl For Trying](https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5) | [Anja Kotar](https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT) | [Can't Blame A Girl For Trying](https://open.spotify.com/album/1LfeBAZnBjfMt9uBshppAC) | 2:45 | 2023-04-14 |  |
 | [can't breathe](https://open.spotify.com/track/2bobQfCbPqFBOgGRF4XU0S) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy) | 2:43 | 2022-09-09 | 2022-12-24 |
 | [can't breathe](https://open.spotify.com/track/5DVj0t8Y4LMA5gFfPyflaC) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [can't breathe](https://open.spotify.com/album/4X7aWf2s9uffKN4LL7jqHc) | 2:43 | 2022-09-02 | 2022-10-14 |
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-25 | 2022-04-29 |
@@ -127,6 +128,7 @@
 | [Figure Everything Out](https://open.spotify.com/track/2s5A2Eqy8svOzV4Wldbk2e) | [Dominique](https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc) | [Rediscovery](https://open.spotify.com/album/5acYEs232reu6u2vhEKcFy) | 3:34 | 2022-11-18 | 2022-12-24 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-14 | 2022-05-20 |
 | [Finish Line](https://open.spotify.com/track/1FzXRK8g8TxVdL8UjSWaRC) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Finish Line](https://open.spotify.com/album/2igSIienylWy0mgiUDWQAz) | 2:38 | 2022-01-14 | 2022-02-12 |
+| [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 | 2023-04-14 |  |
 | [First Time Around](https://open.spotify.com/track/23psMZPlDbapkhRYmJsjlv) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/6rypi6Trg8qZLNbimsZuYb) | 4:45 | 2023-01-27 | 2023-02-16 |
 | [First Time Around](https://open.spotify.com/track/7ttmCexFPcRrE4T6REFmWj) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/02FbrawyS5PpJ11VVONnyJ) | 4:45 | 2023-02-03 |  |
 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2022-01-14 | 2022-03-30 |
@@ -209,7 +211,7 @@
 | [If Nobody Likes U](https://open.spotify.com/track/7aHpcQcGlehH1LNJaTHUkW) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [If Nobody Likes U](https://open.spotify.com/album/1BjzbpWTiPQQchpat72gCH) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-28 | 2023-01-28 |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2022-01-14 | 2022-08-06 |
-| [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 |  |
+| [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 | 2022-10-01 |
 | [Inevitable](https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT) | 3:22 | 2022-08-12 | 2022-10-13 |
 | [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 | 2022-09-09 | 2023-02-18 |
@@ -297,7 +299,7 @@
 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 | 2022-07-15 | 2022-09-17 |
 | [people grow apart, people let me down](https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [people grow apart, people let me down](https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua) | 3:09 | 2023-02-03 | 2023-03-25 |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-04 | 2022-06-04 |
-| [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-01-27 |  |
+| [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-01-27 | 2023-04-15 |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-27 | 2022-06-23 |
 | [Pretty \- Acoustic](https://open.spotify.com/track/0B2BvSv3O4tQJnwv7YYJMb) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty \(Acoustic\)](https://open.spotify.com/album/1hseSqtG2xlzQ1DWwx2Xl3) | 2:41 | 2022-01-14 | 2022-02-19 |
 | [Pretty People](https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [Pretty People](https://open.spotify.com/album/7l4VSlWK9D63JLHECO69u5) | 2:30 | 2022-01-14 | 2022-04-29 |

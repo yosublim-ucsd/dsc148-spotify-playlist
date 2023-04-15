@@ -1,28 +1,72 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Toosii",
-  "num_followers": 1976951,
+  "num_followers": 1977331,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMyNDQ0NywwMDAwMDAwMDUxZWE1YmUyMWU1NmUyYjRiM2NiYjRlZDM2YjFkMjAx",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDQwMzA5MWY1MDhiMjhkN2NiZWE2NzU0MmRiZTQxN2Ni",
   "tracks": [
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Rear View (feat. Mariah The Scientist)",
+        "url": "https://open.spotify.com/album/45TRP3FDfdT6zr1WCtCCRX"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 150372,
+      "name": "Rear View (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/1yyxNlDxQoznmaACLwbbmK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -105,24 +149,20 @@
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 214588,
-      "name": "Spin Bout U",
-      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -141,6 +181,26 @@
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Just For Clarity 2",
+        "url": "https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 170097,
+      "name": "Passionate (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Favorite Song",
@@ -155,6 +215,22 @@
       "duration_ms": 208630,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "PRETTY BROWN",
+      "url": "https://open.spotify.com/track/4nedGttQBJwdeZsoQGil5q"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -217,34 +293,6 @@
       "url": "https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O"
     },
     {
-      "added_at": "2023-03-31 08:32:56",
-      "album": {
-        "name": "I'M REALLY LIKE THAT",
-        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
-      },
-      "artists": [
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "FMFU",
-      "url": "https://open.spotify.com/track/7eVicnA5ZWS6cq0HEiBvXK"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Feed Tha Streets III",
@@ -281,24 +329,24 @@
       "url": "https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj"
     },
     {
-      "added_at": "2023-03-31 08:32:56",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/2F7hxeskVPFaHDqUT7lfz2"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
         },
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
         }
       ],
-      "duration_ms": 204109,
-      "name": "WHARF TALK (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
+      "duration_ms": 160551,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -353,6 +401,34 @@
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
+      "added_at": "2023-03-31 08:32:56",
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "FMFU",
+      "url": "https://open.spotify.com/track/7eVicnA5ZWS6cq0HEiBvXK"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Fallin'",
@@ -389,24 +465,24 @@
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+        "name": "ROLL THE DICE (feat. DeJ Loaf)",
+        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Ocean Sounds",
-      "url": "https://open.spotify.com/track/0iZNw4AkFwcglAsvaTLfmK"
+      "duration_ms": 224256,
+      "name": "ROLL THE DICE (feat. DeJ Loaf)",
+      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -443,6 +519,54 @@
       "duration_ms": 206294,
       "name": "Needed That",
       "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
+    },
+    {
+      "added_at": "2023-03-31 08:32:56",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 204109,
+      "name": "WHARF TALK (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
+    },
+    {
+      "added_at": "2023-03-31 08:32:56",
+      "album": {
+        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
+        }
+      ],
+      "duration_ms": 207727,
+      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -591,26 +715,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "UK",
-        "url": "https://open.spotify.com/album/6KLFKObVq23rmM23HNzTe0"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        }
-      ],
-      "duration_ms": 153913,
-      "name": "UK",
-      "url": "https://open.spotify.com/track/3p2DjXHj8Z4yGnVrx3eHrU"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Stargaze",
         "url": "https://open.spotify.com/album/2iMRzFILMCwvuHk5cVZhvV"
       },
@@ -649,28 +753,20 @@
       "url": "https://open.spotify.com/track/3qNSaMXqJxfcvHDw4aSZ0Y"
     },
     {
-      "added_at": "2023-03-31 08:32:56",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 121572,
-      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1G3YgeTpECl3LYqFsUfzs5"
+      "duration_ms": 129479,
+      "name": "LOVE YOU BETTER",
+      "url": "https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -733,34 +829,6 @@
       "url": "https://open.spotify.com/track/2Qr5PWUt8XycAAv338LicY"
     },
     {
-      "added_at": "2023-03-31 08:32:56",
-      "album": {
-        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
-        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
-        }
-      ],
-      "duration_ms": 207727,
-      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
-      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "3",
@@ -781,22 +849,6 @@
       "url": "https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Help Is On The Way (Deluxe)",
-        "url": "https://open.spotify.com/album/6AB9OOUQJaPhZWADvpu5ab"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 214431,
-      "name": "Love Died",
-      "url": "https://open.spotify.com/track/4ZcOJracZ42iM1lbffdtUI"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Trapping & Finessing",
@@ -811,6 +863,30 @@
       "duration_ms": 148333,
       "name": "Trapping & Finessing (LOVE Song)",
       "url": "https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -883,90 +959,6 @@
       "duration_ms": 163892,
       "name": "JUST FRIENDS ?",
       "url": "https://open.spotify.com/track/7ppUTKvokd4vQ68TNAxuZk"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Back In My Prime",
-        "url": "https://open.spotify.com/album/0ni3klsEFpBZLUPi0ecYlu"
-      },
-      "artists": [
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Hitmaka",
-          "url": "https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "YKTV (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 129479,
-      "name": "LOVE YOU BETTER",
-      "url": "https://open.spotify.com/track/4XJRpBOG0bU3Nxnvam3FnC"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
       "added_at": "2022-09-23 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 137844,
+  "num_followers": 138115,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTgwMjE3MiwwMDAwMDAwMDMwYzdkNmZmMDM4MDE5NzY4ZDVlNzg4MzM0OWRiZDZi",
+  "snapshot_id": "MTY3NTgwMjE3MiwwMDAwMDAwMDc2N2NjZTY5OGNhYjAyMGNmZDA3ODg1M2NlNTM0MjNm",
   "tracks": [
     {
       "added_at": "2022-03-02 23:11:11",
@@ -1197,24 +1197,24 @@
       "url": "https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g"
     },
     {
-      "added_at": "2022-04-01 14:56:46",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Empty Hiding World",
-        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
+        "name": "CANNON",
+        "url": "https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "DJ CAMGIRL",
+          "url": "https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc"
         },
         {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+          "name": "VAPERROR",
+          "url": "https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha"
         }
       ],
-      "duration_ms": 185072,
-      "name": "Ascending Red",
-      "url": "https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY"
+      "duration_ms": 116363,
+      "name": "RED ALERT",
+      "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"
     }
   ],
   "unique_name": "webcore",

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 146657,
+  "num_followers": 146675,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMGNiZGRmODMyNDhhMTJjNzU2MmE2NjZjZjVhZDNkMzRl",
+  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMDI3YjAwN2NmMmZkZTc0NzExNDI1YzZmMmZjYTZhM2Zk",
   "tracks": [
     {
       "added_at": "2023-03-17 08:27:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "In Between Minds",
-        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "Things You Can't Change",
-      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "The Few Things (With Charlotte Lawrence)",
         "url": "https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "In Between Minds",
+        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "Things You Can't Change",
+      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Somebody Loved",
-        "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 153105,
-      "name": "Somebody Loved",
-      "url": "https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Somebody Loved",
+        "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 153105,
+      "name": "Somebody Loved",
+      "url": "https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 233133,
       "name": "Where the Heart Is",
       "url": "https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2023-03-17 08:27:42",

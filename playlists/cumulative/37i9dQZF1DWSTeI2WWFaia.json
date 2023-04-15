@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No I.D.",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173146,
+      "name": "Back In Office",
+      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
+    },
+    {
+      "album": {
         "name": "Ballads (with Conway The Machine)",
         "url": "https://open.spotify.com/album/1bmhLM92D5f32wxbODaiT5"
       },
@@ -840,7 +862,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171719,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 194136,
       "name": "Candle of the Devil",
       "url": "https://open.spotify.com/track/253jYqFG4uZUVVjFYQZ2Yg"
@@ -1512,7 +1534,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 134397,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/2XDakX3VkagcePCNuPoycB"
@@ -2714,6 +2736,32 @@
       "duration_ms": 175223,
       "name": "Frenchmen (feat. Benny the Butcher)",
       "url": "https://open.spotify.com/track/6j92v97PEx7W2kdN0ChiEY"
+    },
+    {
+      "album": {
+        "name": "3P",
+        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "C Dot Castro",
+          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
+        },
+        {
+          "name": "halfBREED",
+          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Game 6",
+      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
     },
     {
       "album": {
@@ -4997,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Movie Scenes",
+        "url": "https://open.spotify.com/album/4YKd0Z1av5dbj604uZJKBl"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162558,
+      "name": "Movie Scenes",
+      "url": "https://open.spotify.com/track/10hEv8YRgWbcopmQNhWkHk"
+    },
+    {
+      "album": {
         "name": "Quick Escape",
         "url": "https://open.spotify.com/album/2adxeISk06Yqt7RmLgKBVt"
       },
@@ -6380,7 +6446,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
@@ -7707,6 +7773,32 @@
     },
     {
       "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233845,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK"
+    },
+    {
+      "album": {
         "name": "GENERATIONAL CURSE",
         "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
       },
@@ -7718,7 +7810,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 116794,
       "name": "THE GOV'T GAVE US GUNS",
       "url": "https://open.spotify.com/track/5gPFQNOEUVoSSoiAPmeDrK"

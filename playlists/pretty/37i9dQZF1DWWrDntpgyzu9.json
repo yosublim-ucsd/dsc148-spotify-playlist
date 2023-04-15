@@ -1,12 +1,12 @@
 {
   "description": "Solte a voz no chuveiro e liberte o cantor dentro de voc\u00ea!",
-  "num_followers": 882310,
+  "num_followers": 882638,
   "original_name": "Cantando no Chuveiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwOTMxNSwwMDAwMDAwMDUyYmVmZWJjMzI5ZDIxZjI4MGQ4OWNhZTFhOWJiNzkw",
+  "snapshot_id": "MTY2ODAwOTMxNSwwMDAwMDAwMDljNDJlYTQ1ZmUyZDRlMmMxOWRiM2VlNzAxNTlkM2Rk",
   "tracks": [
     {
       "added_at": "2022-11-09 15:55:15",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-11-09 15:55:15",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Livin' On A Prayer",
+      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2022-11-09 15:55:15",
+      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2022-11-09 15:55:15",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 249293,
-      "name": "Livin' On A Prayer",
-      "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2022-11-09 15:55:15",
@@ -299,22 +315,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2022-11-09 15:55:15",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2022-11-09 15:55:15",

@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 27396,
+  "num_followers": 28050,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk1NDQ5NCwwMDAwMDAwMDRmNmU4ZjNkOGE2MjFmYTEyMTIwODIxNGE0YzQxOGU1",
+  "snapshot_id": "MTY3OTk1NDQ5NCwwMDAwMDAwMDcyYjdlMzBhZGQ5NTc2ZTdlYmE0MmU4NDMyMjkzMWE0",
   "tracks": [
     {
       "added_at": "2023-03-09 21:54:21",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": "2023-03-09 21:54:21",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2023-03-09 21:54:21",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
+        "name": "Street Gossip",
+        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 154023,
+      "name": "Pure Cocaine",
+      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
+    },
+    {
+      "added_at": "2023-03-09 21:54:21",
+      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
-        "name": "Street Gossip",
-        "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 154023,
-      "name": "Pure Cocaine",
-      "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -387,6 +387,26 @@
       "duration_ms": 252262,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
+    },
+    {
+      "added_at": "2023-03-09 21:54:21",
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
       "added_at": "2023-03-09 21:54:21",
@@ -491,26 +511,6 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "Harder Than Ever",
-        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 142273,
-      "name": "Yes Indeed",
-      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
       "added_at": "2023-03-09 21:54:21",

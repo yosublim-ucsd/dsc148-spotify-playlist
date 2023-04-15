@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,283 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,355 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 34 | [Nitasema](https://open.spotify.com/track/0HSlAMhB61Bk9Y1wU6jyeZ) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nitasema](https://open.spotify.com/album/7knz9k6jkhssslzx6EhFZU) | 3:33 |
 | 35 | [Wote](https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:31 |
 | 36 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 |
-| 37 | [Wivu](https://open.spotify.com/track/0u0RsS5jrlbXisoh4klGgb) | [Platform Tz](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wivu](https://open.spotify.com/album/0nDvPbjBXVkE2nzNs89mfG) | 3:01 |
+| 37 | [Wivu](https://open.spotify.com/track/0u0RsS5jrlbXisoh4klGgb) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wivu](https://open.spotify.com/album/0nDvPbjBXVkE2nzNs89mfG) | 3:01 |
 | 38 | [Mr\. DJ](https://open.spotify.com/track/5P3GpsEU2usXIXKPVLuFck) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Mr\. DJ](https://open.spotify.com/album/4gHcBfBODdQCTUMHKdIDFW) | 2:44 |
 | 39 | [How You Move](https://open.spotify.com/track/1bDINdR04Sqsnc9Wtu4XYD) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t) | [Make You Dance](https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT) | 3:06 |
 | 40 | [Msela](https://open.spotify.com/track/4upDXvDKpFZPSYRDLqB1hh) | [Hamadai](https://open.spotify.com/artist/78SJ8LXcqTSHyJ6nCxKLay), [Chidi Beenz](https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ) | [Msela](https://open.spotify.com/album/7CIU4vCiIDpZwDN226FcZh) | 2:32 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 49 | [Upo Nyonyo](https://open.spotify.com/track/2WNRS21MvaSOX9PBTIRn8Y) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Upo Nyonyo](https://open.spotify.com/album/4JILnHDsmvGkrgyJaH8rIv) | 3:50 |
 | 50 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 |
 | 51 | [Leave Me Alone](https://open.spotify.com/track/5vtz8vv7tfDPGlJGx1rEz7) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Leave Me Alone](https://open.spotify.com/album/2XJgEcuJZxdCAO5QiCFLXa) | 3:23 |
-| 52 | [Nileweshe](https://open.spotify.com/track/0JPI0mOwmryRq3UB1uQGyr) | [Platform Tz](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nileweshe](https://open.spotify.com/album/3gRFo8kVuinEntUw0HRBRz) | 2:48 |
+| 52 | [Nileweshe](https://open.spotify.com/track/0JPI0mOwmryRq3UB1uQGyr) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nileweshe](https://open.spotify.com/album/3gRFo8kVuinEntUw0HRBRz) | 2:48 |
 | 53 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 |
 | 54 | [Deka \(feat\. Mabantu\)](https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Deka \(feat\. Mabantu\)](https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m) | 3:08 |
-| 55 | [Fall](https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK) | [Platform Tz](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fall](https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef) | 3:33 |
+| 55 | [Fall](https://open.spotify.com/track/6JZemVPI8dX5M6is4gayPK) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fall](https://open.spotify.com/album/6BnPu8dEH5XY5DJY1B0xef) | 3:33 |
 | 56 | [Dear Ex](https://open.spotify.com/track/3aZTvjlq5maf7UF61SVlEF) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Dear Ex](https://open.spotify.com/album/64gX9zSmA9yb7wvWsl1ebI) | 4:10 |
 | 57 | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 |
 | 58 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |

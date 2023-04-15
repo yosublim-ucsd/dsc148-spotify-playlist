@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 31505,
+  "num_followers": 31527,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMDNkMmI2MjAyMTBiNWViYWRkZWYyZTA4NzljMzZlMmEz",
+  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMDFmYWVjY2NlYWY2YjRiZWU0MDRiNWU4NDM3YzAyM2Rk",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -667,8 +667,8 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Los Delirios del Mariscal",
-        "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
+        "name": "Crucis",
+        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
         }
       ],
-      "duration_ms": 603400,
-      "name": "Los Delirios del Mariscal",
-      "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
+      "duration_ms": 246960,
+      "name": "Todo Tiempo Posible",
+      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -779,6 +779,38 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Le\u00f3n Gieco",
+        "url": "https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 193535,
+      "name": "En el pa\u00eds de la libertad",
+      "url": "https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Los Delirios del Mariscal",
+        "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
+      },
+      "artists": [
+        {
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+        }
+      ],
+      "duration_ms": 603400,
+      "name": "Los Delirios del Mariscal",
+      "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "40 Obras Fundamentales",
         "url": "https://open.spotify.com/album/3hopYMyIaBFZTU5Fvt91NF"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 231333,
       "name": "Vamos a Buscar la Luz",
       "url": "https://open.spotify.com/track/3olst9SIdO6I9lhYa6HyYQ"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Crucis",
-        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
-      },
-      "artists": [
-        {
-          "name": "Crucis",
-          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Todo Tiempo Posible",
-      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -827,22 +843,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "La Cofrad\u00eda De La Flor Solar",
-        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
-      },
-      "artists": [
-        {
-          "name": "La Cofradia De La Flor Solar",
-          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "Se Ama O No Se Ama",
-      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "El Reloj",
         "url": "https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "La Cofrad\u00eda De La Flor Solar",
+        "url": "https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR"
+      },
+      "artists": [
+        {
+          "name": "La Cofradia De La Flor Solar",
+          "url": "https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "Se Ama O No Se Ama",
+      "url": "https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 217706,
       "name": "En El Hospicio",
       "url": "https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Le\u00f3n Gieco",
-        "url": "https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 193535,
-      "name": "En el pa\u00eds de la libertad",
-      "url": "https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm"
     }
   ],
   "unique_name": "Esp\u00edritu Setentista",

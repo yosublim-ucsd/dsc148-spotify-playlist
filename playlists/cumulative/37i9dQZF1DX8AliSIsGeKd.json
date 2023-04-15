@@ -19764,10 +19764,32 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 413658,
       "name": "Morgana",
       "url": "https://open.spotify.com/track/2IcbhI874Ve7BMXQayB4oN"
+    },
+    {
+      "album": {
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/4mNplde0zjEfMQPJHVynkr"
+      },
+      "artists": [
+        {
+          "name": "Phonique",
+          "url": "https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413658,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/3BklMXPxyaRr8mxNhpGcSJ"
     },
     {
       "album": {
@@ -30060,6 +30082,28 @@
       "duration_ms": 289500,
       "name": "Together - Original Mix",
       "url": "https://open.spotify.com/track/1zTeCxRDO5MNhnbfYwMniB"
+    },
+    {
+      "album": {
+        "name": "Together Alone",
+        "url": "https://open.spotify.com/album/6cV0oDaIx128Ggb3Dbvodd"
+      },
+      "artists": [
+        {
+          "name": "Pale Blue",
+          "url": "https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427086,
+      "name": "Together Alone - K\u00f6lsch 'I Have You' Remix",
+      "url": "https://open.spotify.com/track/6yYIZixDyISJVcnqQUfEpj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 332521,
+  "num_followers": 332678,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGVmYmMzYjU3NWQzNzg1ZDI1ODA5ZTc5Yzg2ZDAwZjU2",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDZmY2M4MDkxYzA3MzE3NzhmMTc0YzdiYTM4ZmRkZmQ2",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Long in the Tooth",
@@ -303,6 +287,22 @@
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Our Kind of Movement",
-        "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
+        "name": "The Hang",
+        "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
       },
       "artists": [
         {
-          "name": "Speedometer",
-          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Kashmir",
-      "url": "https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT"
+      "duration_ms": 232140,
+      "name": "Monster Funk",
+      "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Hang",
-        "url": "https://open.spotify.com/album/5FdoriWGj43O0QvPixLKY6"
+        "name": "Our Kind of Movement",
+        "url": "https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q"
       },
       "artists": [
         {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+          "name": "Speedometer",
+          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
         }
       ],
-      "duration_ms": 232140,
-      "name": "Monster Funk",
-      "url": "https://open.spotify.com/track/0RyrQ4Xh6Z0wE8DQOjKvUa"
+      "duration_ms": 235186,
+      "name": "Kashmir",
+      "url": "https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 310561,
-      "name": "NDUGU",
-      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Jazz In The Present Tense",
         "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 249933,
       "name": "Montuno Funk",
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 310561,
+      "name": "NDUGU",
+      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Jeff Franca",
+          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Permission to Land - 45",
+      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Scratch My Itch",
         "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
       },
@@ -987,22 +1007,6 @@
       "duration_ms": 239280,
       "name": "Do You Wanna Get Down",
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Fox",
-        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
-      },
-      "artists": [
-        {
-          "name": "The Filthy Six",
-          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Down Frenchmen St",
-      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1023,22 +1027,34 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+        "name": "The Fox",
+        "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
       },
       "artists": [
         {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Jeff Franca",
-          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+          "name": "The Filthy Six",
+          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
         }
       ],
-      "duration_ms": 184634,
-      "name": "Permission to Land - 45",
-      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+      "duration_ms": 357480,
+      "name": "Down Frenchmen St",
+      "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+        }
+      ],
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1061,22 +1077,6 @@
       "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
-      },
-      "artists": [
-        {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
-        }
-      ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "The Fun Ones",
@@ -1091,22 +1091,6 @@
       "duration_ms": 281805,
       "name": "Indoor S'mores",
       "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "False Prophets",
-        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 352374,
-      "name": "False Prophets",
-      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+        "name": "False Prophets",
+        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
       },
       "artists": [
         {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
         }
       ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+      "duration_ms": 352374,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1157,20 +1141,20 @@
       "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Assassin (The Paisley Park Session)",
-        "url": "https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl"
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
       "artists": [
         {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
         }
       ],
-      "duration_ms": 202457,
-      "name": "Assassin - The Paisley Park Session",
-      "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 210560,
       "name": "Keb's Bucket",
       "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Assassin (The Paisley Park Session)",
+        "url": "https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Assassin - The Paisley Park Session",
+      "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
     },
     {
       "added_at": "2021-01-15 21:11:37",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Soul Jazz Express",
-        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
-      },
-      "artists": [
-        {
-          "name": "Soul Jazz Express",
-          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Couple A Brownies",
-      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Basement Beat",
         "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
       },
@@ -1337,20 +1321,20 @@
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/33PW6j12JZS3VTvbQkuKUX"
+        "name": "Soul Jazz Express",
+        "url": "https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk"
       },
       "artists": [
         {
-          "name": "The Winston Brothers",
-          "url": "https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr"
+          "name": "Soul Jazz Express",
+          "url": "https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Boiling Pot",
-      "url": "https://open.spotify.com/track/6e2cN0jB6TskHmMvQAxW7k"
+      "duration_ms": 317000,
+      "name": "Couple A Brownies",
+      "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 187214,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/33PW6j12JZS3VTvbQkuKUX"
+      },
+      "artists": [
+        {
+          "name": "The Winston Brothers",
+          "url": "https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Boiling Pot",
+      "url": "https://open.spotify.com/track/6e2cN0jB6TskHmMvQAxW7k"
     }
   ],
   "unique_name": "Instrumental Funk",

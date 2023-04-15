@@ -744,10 +744,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192515,
       "name": "Cargo of Oranges",
       "url": "https://open.spotify.com/track/1Vuo6uCHh9Zf3CAiu4Vr2C"
+    },
+    {
+      "album": {
+        "name": "Colors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6cJxhnKH8MoueYQod1iuH1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Reinhardt",
+          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192515,
+      "name": "Cargo of Oranges",
+      "url": "https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde"
     },
     {
       "album": {

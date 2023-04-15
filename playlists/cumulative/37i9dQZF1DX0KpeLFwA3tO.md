@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Pinkshift
 
-994 songs - 2 day 1 hr 46 min
+997 songs - 2 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [1000 peaceful ways to die](https://open.spotify.com/track/6ztt0XsZe5yGV7Cmo7gXtB) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [1000 peaceful ways to die](https://open.spotify.com/album/3SwpbbkIUGlDo7EKZRaidn) | 2:23 | 2022-06-09 | 2022-07-15 |
 | [17](https://open.spotify.com/track/54ieeyvJLBtv5g2zM23nbN) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [17](https://open.spotify.com/album/1aR9o1ZfgwaCCbeH2G9LAA) | 3:47 | 2022-07-14 | 2022-08-26 |
 | [1983 \(A Merman I Should Turn To Be\)](https://open.spotify.com/track/0Fpio7ULDx8hthmi8wW6bk) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL), [Dan Kelly](https://open.spotify.com/artist/4u1itNxyjNwTblvBVZCqFC) | [Submersive Behaviour](https://open.spotify.com/album/2aXfRoTSsPNYdDCd60G1qf) | 17:52 | 2023-02-03 | 2023-03-31 |
-| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 |  |
+| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-13 |  |
+| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 | 2023-04-15 |
 | [2005](https://open.spotify.com/track/7mBH6K8EkUEZmSavjoqkV7) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [2005](https://open.spotify.com/album/75OoXT2GLguj296VYuaRMz) | 2:51 | 2023-02-17 | 2023-04-09 |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-04 | 2022-04-01 |
 | [24 Hours](https://open.spotify.com/track/1Yr8sUGygJgWco9RbnNyxu) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [A Comforting Notion](https://open.spotify.com/album/1glYcAS1dwwRDApSyq9GQW) | 4:23 | 2023-03-24 |  |
@@ -696,7 +697,8 @@
 | [R.I.P](https://open.spotify.com/track/5QZ3Kj45XirIHeH66cj9B3) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [R.I.P](https://open.spotify.com/album/6toev0ULibvYWipK05GDXr) | 2:07 | 2022-04-07 | 2022-05-27 |
 | [Rabbit Hole](https://open.spotify.com/track/4t2UN0fnbOyWc3cDb5OF1S) | [Attic Stories](https://open.spotify.com/artist/6WLBHcOEiXfOt5mrREFth2) | [Rabbit Hole](https://open.spotify.com/album/3IO5mTpE7yvDazc5JrFz21) | 3:38 | 2023-03-17 |  |
 | [Radiate](https://open.spotify.com/track/2g6620bsDen0mF2akn1Nmm) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/7F6T5FVHm85JoyTLeEqoLh) | 3:04 | 2022-04-14 | 2022-05-21 |
-| [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-03-17 |  |
+| [RADIATION](https://open.spotify.com/track/0gYhKvqRSWK0hfBjbAlZCG) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/0gHb2KspaWK9XZx2I9QAIR) | 2:24 | 2023-04-13 |  |
+| [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-03-17 | 2023-04-15 |
 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 | 2022-11-04 | 2023-02-17 |
 | [Raid](https://open.spotify.com/track/3BTOXCnDs4CfrOmOUcc0t5) | [DOOM REGULATOR](https://open.spotify.com/artist/5KIqdI4DIdPdiS5JVWQVxj) | [Raid](https://open.spotify.com/album/6y8OALegURudf2X9umflcV) | 3:11 | 2023-03-30 |  |
 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-08-04 | 2022-09-23 |
@@ -784,7 +786,8 @@
 | [sleepwalking](https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [sleepwalking](https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt) | 2:00 | 2022-10-27 | 2023-02-17 |
 | [Snvkes](https://open.spotify.com/track/3Q5iGw3rcuPt6LwOeT74rW) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Snvkes](https://open.spotify.com/album/7nAMlS6TLvm1lmadCVZjk3) | 2:34 | 2022-06-30 | 2022-08-12 |
 | [So Dumb](https://open.spotify.com/track/3wkgbGsUVGvUbgVa7IjIeL) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [So Dumb](https://open.spotify.com/album/4zEKx1oXEm6mm0ApaRbELc) | 2:35 | 2023-04-13 |  |
-| [So Mad](https://open.spotify.com/track/0WjBjld2C4nbGm5rbY55j6) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love In Hi\-Fi](https://open.spotify.com/album/0DY2wnrbwmbMhtIVMK1eVH) | 3:00 | 2023-04-13 |  |
+| [So Mad](https://open.spotify.com/track/0WjBjld2C4nbGm5rbY55j6) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love In Hi\-Fi](https://open.spotify.com/album/0DY2wnrbwmbMhtIVMK1eVH) | 3:00 | 2023-04-13 | 2023-04-15 |
+| [So Mad](https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love in Hi\-Fi](https://open.spotify.com/album/2D0HrukRJ7GrOuORD14Y3A) | 3:00 | 2023-04-13 |  |
 | [So Trendy](https://open.spotify.com/track/0XcFrS0wGmXpuJlBAcL6s4) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [So Trendy](https://open.spotify.com/album/7K20NkKuowGGMoVfk5ouvd) | 3:45 | 2023-03-10 |  |
 | [Sober](https://open.spotify.com/track/5trFqaSXEVsKk0dH3XeEQb) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Sober](https://open.spotify.com/album/6cSdm63mgMvJJ7iStrfhlb) | 2:55 | 2022-03-11 | 2022-04-22 |
 | [SOBER](https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [SOBER](https://open.spotify.com/album/4qjXIB3RXqHXgMlRpuSGtn) | 2:33 | 2022-08-04 | 2022-09-23 |

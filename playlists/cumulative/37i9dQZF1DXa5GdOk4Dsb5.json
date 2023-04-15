@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 211121,
       "name": "Ahora Que Puedo",
       "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
@@ -479,6 +479,32 @@
     },
     {
       "album": {
+        "name": "Asi Soy Yo (Remix)",
+        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Asi Soy Yo - Remix",
+      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es la Vida",
         "url": "https://open.spotify.com/album/56pIZUQqtx72HZLYvX4isJ"
       },
@@ -602,7 +628,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 190230,
       "name": "Bendecida",
       "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
@@ -620,7 +646,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202491,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/2jx4sXXb3eFH5NjsWgxm62"
@@ -696,7 +722,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162832,
       "name": "B\u00e1jale",
       "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
@@ -1356,7 +1382,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 151968,
       "name": "Desarmada - Spotify Singles",
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
@@ -1642,7 +1668,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 188500,
       "name": "D\u00e9jame Ser",
       "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
@@ -2107,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "album": {
         "name": "Vida De Bohemio",
         "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
       },
@@ -2494,7 +2538,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 178050,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
@@ -3105,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Me Pase de Tragos",
+        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
+      },
+      "artists": [
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Me Pase de Tragos",
+      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -3156,7 +3218,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163561,
       "name": "Me Tir\u00e9 Al Alcohol",
       "url": "https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu"
@@ -3932,7 +3994,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163866,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
@@ -5397,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Tu Maniqu\u00ed",
+        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154834,
+      "name": "Tu Maniqu\u00ed",
+      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+    },
+    {
+      "album": {
         "name": "Tu Veneno",
         "url": "https://open.spotify.com/album/2XyvYzcMMxKo28UAh6IQAy"
       },
@@ -5474,6 +5558,24 @@
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
+      "album": {
+        "name": "Un Poco de Amor",
+        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171236,
+      "name": "Un Poco de Amor",
+      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
     },
     {
       "album": {
@@ -5676,7 +5778,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 157336,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
@@ -5774,7 +5876,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"

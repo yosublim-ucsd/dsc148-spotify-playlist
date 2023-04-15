@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Gabriels
 
-263 songs - 19 hr 15 min
+264 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Can't Get Out of This Mood](https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 3:42 | 2022-10-20 | 2023-01-06 |
 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 | 2022-12-01 | 2023-03-31 |
 | [Captured Time](https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz) | 4:24 | 2022-04-14 | 2022-06-10 |
-| [Cargo of Oranges](https://open.spotify.com/track/1Vuo6uCHh9Zf3CAiu4Vr2C) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe\)](https://open.spotify.com/album/4YwQsMg3LG3z032y3KPHYE) | 3:12 | 2023-04-13 |  |
+| [Cargo of Oranges](https://open.spotify.com/track/1Vuo6uCHh9Zf3CAiu4Vr2C) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe\)](https://open.spotify.com/album/4YwQsMg3LG3z032y3KPHYE) | 3:12 | 2023-04-13 | 2023-04-15 |
+| [Cargo of Oranges](https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Colors \(Deluxe Edition\)](https://open.spotify.com/album/6cJxhnKH8MoueYQod1iuH1) | 3:12 | 2023-04-13 |  |
 | [Chacha Rom](https://open.spotify.com/track/3WWObGMpYifG6nwvQslmK8) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Chacha Rom](https://open.spotify.com/album/6hRtnGFtIzAlYh05Ehog4h) | 3:23 | 2022-04-14 | 2022-04-22 |
 | [Chasing Days](https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Chasing Days](https://open.spotify.com/album/7aYZkjC8EiJrs8ivzwbYxh) | 3:51 | 2023-03-23 |  |
 | [Cheek To Cheek \- Live](https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Cheek To Cheek \(Live\)](https://open.spotify.com/album/4mSrOP60dblgo0HJlDgr9b) | 3:26 | 2022-06-02 | 2022-09-09 |

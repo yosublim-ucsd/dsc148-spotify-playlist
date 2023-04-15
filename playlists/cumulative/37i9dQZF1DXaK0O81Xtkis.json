@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Go-Jo",
+  "description": "make it pop! cover: LAUREL",
   "name": "soda",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 183055,
       "name": "1990something",
       "url": "https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj"
+    },
+    {
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138127,
+      "name": "2 BEST FRIENDS",
+      "url": "https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V"
     },
     {
       "album": {
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1kRceDDpkVLfnvC68Hy5lK"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222133,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1m1WkrpWMJ5ic1D0oLd5EF"
+    },
+    {
+      "album": {
         "name": "Chapstick",
         "url": "https://open.spotify.com/album/1LKHRk9y7a0h07RSU6zGhZ"
       },
@@ -2100,6 +2136,24 @@
       "duration_ms": 171601,
       "name": "DANCING ALL ALONE",
       "url": "https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "album": {
@@ -5004,7 +5058,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151533,
       "name": "idtwcbf (friends)",
       "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
@@ -6216,7 +6270,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 146666,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil"
@@ -6436,6 +6490,24 @@
       "duration_ms": 177879,
       "name": "Me Myself & I",
       "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
+    },
+    {
+      "album": {
+        "name": "Medical Attention",
+        "url": "https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe"
+      },
+      "artists": [
+        {
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176623,
+      "name": "Medical Attention",
+      "url": "https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl"
     },
     {
       "album": {
@@ -6803,6 +6875,24 @@
     },
     {
       "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195104,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg"
+    },
+    {
+      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/17CC61VuUARx8AHynTbmnP"
       },
@@ -6814,7 +6904,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195104,
       "name": "Naive",
       "url": "https://open.spotify.com/track/5IyQ3FaPU3EbE9Sbleq59M"
@@ -7357,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "The Ballet Girl EP - Part 1",
+        "url": "https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "Other Side of the Moon",
+      "url": "https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez"
+    },
+    {
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -7376,6 +7484,24 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
+    },
+    {
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "album": {
@@ -8464,7 +8590,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/2BQlr0YCvJHM3HKEEtBe6T"
@@ -10036,7 +10162,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171293,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"
@@ -10964,7 +11090,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"

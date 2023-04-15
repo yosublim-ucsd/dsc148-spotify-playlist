@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 17409,
+  "num_followers": 17414,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGMwNDRmOTBhYmNhZmExZjA0MDVmZTg4NjUyOGE2M2Y0",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDY1ZTEzZDBjMWM1ZmE5M2Y1MTRhNzZhMzIyZGJlMTY2",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Already Free",
-        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Sweet Inspiration",
-      "url": "https://open.spotify.com/track/6RMhGW31lycj4UqKsLIJyr"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Already Free",
+        "url": "https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "Sweet Inspiration",
+      "url": "https://open.spotify.com/track/6RMhGW31lycj4UqKsLIJyr"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -223,6 +223,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Songlines",
+        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "Crow Jane",
+      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Traveler",
         "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 207306,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Songlines",
-        "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
-      },
-      "artists": [
-        {
-          "name": "The Derek Trucks Band",
-          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Crow Jane",
-      "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Watch It Die",
+      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Lay It On Down",
-        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 293506,
-      "name": "Nothing But The Night",
-      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi"
       },
@@ -403,18 +403,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+        "name": "Lay It On Down",
+        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Watch It Die",
-      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+      "duration_ms": 293506,
+      "name": "Nothing But The Night",
+      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 270370,
-      "name": "Clawhammer",
-      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Still",
@@ -463,6 +447,22 @@
       "duration_ms": 250182,
       "name": "Brown Gatton",
       "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Mile End",
+        "url": "https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 270370,
+      "name": "Clawhammer",
+      "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
+      "added_at": "2022-02-23 14:50:27",
+      "album": {
+        "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "28 Days",
+      "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
+    },
+    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Black Magic",
@@ -535,34 +551,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+        "name": "Roll With the Punches",
+        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
       },
       "artists": [
         {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+          "name": "Martin Harley",
+          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
         }
       ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
-    },
-    {
-      "added_at": "2022-02-23 14:50:27",
-      "album": {
-        "name": "Devil May Care",
-        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "28 Days",
-      "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
+      "duration_ms": 191880,
+      "name": "Roll With the Punches",
+      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -583,6 +583,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Reckless Heart",
         "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
@@ -595,6 +611,22 @@
       "duration_ms": 221430,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2021-04-30 04:01:00",
@@ -619,38 +651,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Unrepentant",
         "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Roll With the Punches",
-        "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
       },
       "artists": [
         {
-          "name": "Martin Harley",
-          "url": "https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX"
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 191880,
-      "name": "Roll With the Punches",
-      "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -831,18 +831,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I"
       },
       "artists": [
         {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
         }
       ],
-      "duration_ms": 197237,
-      "name": "Gettin Old",
-      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
+      "duration_ms": 216552,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
     },
     {
       "added_at": "2020-10-21 17:37:12",

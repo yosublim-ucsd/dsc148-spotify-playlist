@@ -1,12 +1,12 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: BE'O",
-  "num_followers": 284310,
+  "num_followers": 285323,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODc2MzcxMSwwMDAwMDAwMDBkZDBhNTM2OWZjZTk2MTI1YTllOWRmNTU0MWUyNjEy",
+  "snapshot_id": "MTY3ODc2MzcxMSwwMDAwMDAwMGNlYjBhYWY1YTBlNDAxZDkxZDEwODFmNjQ3OTFkMWU4",
   "tracks": [
     {
       "added_at": "2023-02-14 06:21:40",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
-    },
-    {
-      "added_at": "2023-02-14 06:21:40",
-      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2023-02-14 06:21:40",
+      "album": {
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
-      "added_at": "2023-04-14 01:09:59",
+      "added_at": "2023-04-15 01:38:48",
       "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
     },
     {
-      "added_at": "2023-02-14 06:21:40",
+      "added_at": "2023-04-15 01:38:48",
       "album": {
-        "name": "SPIN OFF : FROM THE WITNESS",
-        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 197025,
-      "name": "HALAZIA",
-      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 211631,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
+    },
+    {
+      "added_at": "2023-02-14 06:21:40",
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -719,34 +735,18 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
-        "name": "SQUARE ONE",
-        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 211631,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
-    },
-    {
-      "added_at": "2023-04-14 01:09:59",
-      "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
     },
     {
-      "added_at": "2023-04-14 01:09:59",
+      "added_at": "2023-04-15 01:38:48",
       "album": {
         "name": "KILL THIS LOVE",
         "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
@@ -851,26 +851,6 @@
       "duration_ms": 191050,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
-    },
-    {
-      "added_at": "2023-02-14 06:21:40",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 192441,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -895,22 +875,22 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
-        "name": "Rush Hour",
-        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+        "name": "Guardian (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
         },
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 177302,
-      "name": "Rush Hour (Feat. j-hope of BTS)",
-      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
+      "duration_ms": 192441,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -927,6 +907,26 @@
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2023-02-14 06:21:40",
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -993,23 +993,7 @@
       "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
-      "added_at": "2023-02-14 06:21:40",
-      "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
-    },
-    {
-      "added_at": "2023-04-14 01:09:59",
+      "added_at": "2023-04-15 01:38:48",
       "album": {
         "name": "KAI - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2023-02-14 06:21:40",
+      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-14 06:21:40",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 209105,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
-    },
-    {
-      "added_at": "2023-02-14 06:21:40",
-      "album": {
         "name": "The Perfect Red Velvet - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 210817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "added_at": "2023-02-14 06:21:40",
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     },
     {
       "added_at": "2023-02-14 06:21:40",
@@ -1137,20 +1137,20 @@
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
-      "added_at": "2023-02-14 06:21:40",
+      "added_at": "2023-04-15 01:38:48",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+        "name": "Love&Letter repackage album",
+        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+      "duration_ms": 192092,
+      "name": "VERY NICE",
+      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
     }
   ],
   "unique_name": "Nolja!",

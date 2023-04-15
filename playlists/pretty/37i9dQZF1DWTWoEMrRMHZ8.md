@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Adriana Calcanhotto
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,769 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,822 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 31 | [Sozinho \- Ao Vivo](https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco Do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK) | 3:55 |
 | 32 | [Bédi Beat \(Acústico\)](https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Bédi Beat \(Acústico\)](https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo) | 4:35 |
 | 33 | [Boca de Açaí](https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Boca de Açaí](https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG) | 3:27 |
-| 34 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 |
-| 35 | [O Caderno](https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:42 |
+| 34 | [O Caderno](https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:42 |
+| 35 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 |
 | 36 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 37 | [Beleza Destruída](https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Beleza Destruída](https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6) | 4:40 |
 | 38 | [Pago Pra Ver](https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Pago Pra Ver](https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 |
 | 100 | [Mal Acostumada](https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 4:30 |
 
-Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMGViM2Q0ZDNhZmVjMTg5YTFiYzY3ZjY4NTM4ZWJjNzRl`
+Snapshot ID: `MTY4MDgzNjQ2MCwwMDAwMDAwMGQyNWE5ZDkwNDZlODA5NTYzNDE0Y2JiZTg5NDM0YzZk`

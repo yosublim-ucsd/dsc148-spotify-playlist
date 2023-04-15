@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=lsdcKdofRAOEWWUBZtXtMw"> Mercy Chinwo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,234 likes - 80 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,262 likes - 80 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 2 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 |
 | 3 | [Master of the World](https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Master of the World](https://open.spotify.com/album/3dQAMDPv5qZ8bazXNsE1Ha) | 5:36 |
 | 4 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 |
-| 5 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 |
+| 5 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 |
 | 6 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 |
 | 7 | [You love me](https://open.spotify.com/track/4AJFre4XBXr8VxLVNtKIvB) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [You love me](https://open.spotify.com/album/580YbKDKOnMFXYjLn6RSrU) | 4:06 |
 | 8 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 14 | [Shamboko](https://open.spotify.com/track/5AX3iYiyDNmqgzvrRX5SiL) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm) | [Shamboko](https://open.spotify.com/album/2Xl6Sy6Diy0ERV334x4WI1) | 3:04 |
 | 15 | [Sure \(Counting on You\)](https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Sure \(Counting on You\)](https://open.spotify.com/album/2FqECWZ9A5Jr304QeQftM3) | 3:01 |
 | 16 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 |
-| 17 | [Love Is](https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is](https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc) | 3:24 |
+| 17 | [Love Is](https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is](https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc) | 3:20 |
 | 18 | [Jesus You Set Me Free](https://open.spotify.com/track/6B8rlAW9iprZCrz5zld4qw) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Jesus You Set Me Free](https://open.spotify.com/album/5h4BZhMSikZrXMR1n1b1tv) | 2:43 |
 | 19 | [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 |
 | 20 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 79 | [Jesus Is Enough](https://open.spotify.com/track/3mnkSqpC8veeCS9arqB0yV) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:39 |
 | 80 | [How to Love](https://open.spotify.com/track/1agXd44dQVaf4mCZGgyP3x) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 7:21 |
 
-Snapshot ID: `MTY4MTQzMjIwMCwwMDAwMDAwMDE3YTAxZDg3MThjMWQ2NDZmMjU4M2NhOTdjMzJjOWNl`
+Snapshot ID: `MTY4MTQ2Mjg4MSwwMDAwMDAwMDI1YjEyYjA4NGU2YzY3Y2Q3MjZmNzVhMzgwMjZiMGJh`

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-680 songs - 1 day 18 hr 16 min
+682 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-09-08 | 2022-11-23 |
 | [Amsterdam Maybe](https://open.spotify.com/track/0d6qGECOj1zwdGlKD0yuok) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [Amsterdam Maybe](https://open.spotify.com/album/140nB1mF9qeKQsIGr4tyzN) | 4:48 | 2022-08-30 | 2022-10-12 |
 | [Angel](https://open.spotify.com/track/1sd5UBQkI91mjRkbEX42V7) | [Baku Furukawa](https://open.spotify.com/artist/2em1oRhLgRPKX9yBh9HjR9) | [Xìn](https://open.spotify.com/album/7tDwINWYTnSPo52LtiK2E3) | 4:38 | 2022-07-05 | 2022-07-29 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
 | [Anyway](https://open.spotify.com/track/5n3V2VDdanYl4LOqUB53Tx) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Anyway](https://open.spotify.com/album/47z1EcMUrBTt3HJu87bqpB) | 3:36 | 2022-05-26 | 2022-06-25 |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [APOLOGIZE](https://open.spotify.com/track/6DGu7wBVC8zvLHRtEOdk9S) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [APOLOGIZE](https://open.spotify.com/album/4eXXRhCwxq1M5x6nr9rnm9) | 2:33 | 2022-07-12 | 2022-08-19 |
@@ -156,7 +157,8 @@
 | [GET OUT OF MY WAY](https://open.spotify.com/track/43y8Frn9DFTWoGDIICszwC) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [GET OUT OF MY WAY / LIES](https://open.spotify.com/album/7dnGarzmHEVTHewmc0SLHP) | 2:57 | 2022-10-18 | 2022-10-21 |
 | [GHOST](https://open.spotify.com/track/5hMPL9uwIHTMzV3ASz9IpI) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [GHOST](https://open.spotify.com/album/6fU3bolaKlQff22zpWZ3lY) | 2:41 | 2022-05-26 | 2022-07-08 |
 | [Gimme Some](https://open.spotify.com/track/1IbNNyZifUUoXMHCxMQTmx) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Gimme Some](https://open.spotify.com/album/6ssgCi2BiNcnXN6IoSgvr0) | 3:05 | 2022-07-07 | 2022-09-03 |
-| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 |  |
+| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 | 2023-04-15 |
+| [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 | 2023-04-13 |  |
 | [GIRLS](https://open.spotify.com/track/2PnWhodF9qgRrQGy8GEK7H) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GIRLS](https://open.spotify.com/album/2WJeO5eGm5dhR7W6eJ5yzD) | 4:05 | 2022-05-26 | 2022-06-29 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-23 | 2022-07-28 |
 | [Go](https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Go](https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN) | 3:50 | 2023-03-09 |  |

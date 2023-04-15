@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Diplo + Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,421 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,449 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 25 | [Move On](https://open.spotify.com/track/69wOZ8KKxX73pEbUrOqGnT) | [Rayz](https://open.spotify.com/artist/0RNfSDtiquYCmP3PjPj9eL), [Rngga](https://open.spotify.com/artist/0aaSbHpjI5dLrrd3dfoFLG) | [Move On](https://open.spotify.com/album/3q91DoSIKuclfy9WWnavlu) | 2:48 |
 | 26 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 |
 | 27 | [Hold On Tight](https://open.spotify.com/track/7JhAss3J9U99ZO2BsEZCE9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Tetris \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:29 |
-| 28 | [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(TELEx TELEXs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 |
+| 28 | [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(TELEx TELEXs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 |
 | 29 | [beside her](https://open.spotify.com/track/0Mgl1aFVfdw6d5CpIKoNMV) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Silk](https://open.spotify.com/album/6tsUUk2FMKkYPJPnSNPDHy) | 5:37 |
 | 30 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 |
 | 31 | [Recall](https://open.spotify.com/track/2uJOUSKm3ldZmKJWHoWT3L) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Recall](https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX) | 2:52 |

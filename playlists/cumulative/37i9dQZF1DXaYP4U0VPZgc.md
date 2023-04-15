@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-101 songs - 7 hr 48 min
+103 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,10 @@
 | [storia](https://open.spotify.com/track/6J9B284el0IT89aLnhzHq0) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 3:37 | 2022-02-28 | 2022-11-13 |
 | [storia](https://open.spotify.com/track/0z0jQ2BgYzbnsnwlasgHvL) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [storia](https://open.spotify.com/album/2anN3L21bqtKROZ2ar6wyI) | 3:38 | 2022-02-28 | 2022-07-29 |
 | [storia](https://open.spotify.com/track/57W3wuQ2Igq10ed6ILflyw) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF) | 3:38 | 2022-02-28 |  |
-| [the route of the sun](https://open.spotify.com/track/1nM5YLYK801GD3x15d2gho) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the route of the sun](https://open.spotify.com/album/5gO55hgZfiirXfiocCqrMZ) | 4:08 | 2022-02-28 |  |
-| [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2022-02-28 |  |
+| [the route of the sun](https://open.spotify.com/track/1nM5YLYK801GD3x15d2gho) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the route of the sun](https://open.spotify.com/album/5gO55hgZfiirXfiocCqrMZ) | 4:08 | 2022-02-28 | 2023-04-15 |
+| [the route of the sun](https://open.spotify.com/track/2z4VRUyZDQI2IYXtzSZZwf) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:10 | 2022-02-28 |  |
+| [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2022-02-28 | 2023-04-15 |
+| [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 | 2022-02-28 |  |
 | [the world](https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK1](https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl) | 5:03 | 2022-02-28 |  |
 | [to the beginning](https://open.spotify.com/track/3UqqDey54pOsAc31ZnXL0y) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL) | 4:16 | 2022-02-28 | 2022-07-29 |
 | [to the beginning](https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Consolation](https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb) | 4:16 | 2022-02-28 |  |

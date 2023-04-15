@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,384 likes - 130 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,424 likes - 130 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

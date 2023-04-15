@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,043 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,283 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 45 | [Dead Rock Commandos](https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK) | 3:16 |
 | 46 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
 | 47 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 |
-| 48 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
-| 49 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
+| 48 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
+| 49 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
 | 50 | [God Is In The Radio](https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 6:04 |
 | 51 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 52 | [Tres Brujas](https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO) | 4:09 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 63 | [The Great American Death Rattle](https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR) | [Youngblood Supercult](https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7) | [The Great American Death Rattle](https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY) | 4:04 |
 | 64 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 |
 | 65 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
-| 66 | [Colossal](https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 5:04 |
-| 67 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
-| 68 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
+| 66 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
+| 67 | [Colossal](https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 5:04 |
+| 68 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
 | 69 | [Heavy Low](https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw) | 4:50 |
 | 70 | [Old Gods](https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu) | 6:00 |
 | 71 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Absolutego](https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/49CV8xfmsdSltz74sCTLms) | 4:55 |
 | 100 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 |
 
-Snapshot ID: `MTY3OTUwMTg1OCwwMDAwMDAwMGFhMGVkNDAzYzFiZGJhNDNlNDI1YTcxOTI5OTQ2OGEx`
+Snapshot ID: `MTY3OTUwMTg1OCwwMDAwMDAwMDdmYzAwNzRhN2U2MjE0NTgxOTBlZmI3MGZkNzYxZjli`

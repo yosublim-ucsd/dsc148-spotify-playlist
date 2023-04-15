@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Charlie Puth",
+  "description": "Who's now and next in pop. Cover: Labrinth & Billie Eilish",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 161469,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K"
@@ -5218,6 +5218,24 @@
       "duration_ms": 201009,
       "name": "cheers (with Wiz Khalifa)",
       "url": "https://open.spotify.com/track/41uMT21Z2Sts6UNsz19ZH5"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "album": {
@@ -6465,6 +6483,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "album": {
         "name": "dancing in the kitchen",
         "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
       },
@@ -6704,6 +6740,24 @@
       "duration_ms": 258862,
       "name": "Day \u2018n\u2019 Nite - Spotify Singles",
       "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -8666,10 +8720,32 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "album": {
@@ -9314,6 +9390,32 @@
       "duration_ms": 161853,
       "name": "Fancy Like (feat. Kesha)",
       "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
+    },
+    {
+      "album": {
+        "name": "Fantasy (with GAYLE & Em Beihold)",
+        "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
     },
     {
       "album": {
@@ -11683,6 +11785,24 @@
     },
     {
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242691,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
+    },
+    {
+      "album": {
         "name": "Hate Me If It Helps",
         "url": "https://open.spotify.com/album/1DUJT6Lfv7Ah0k9CX0Cftk"
       },
@@ -11924,7 +12044,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182085,
       "name": "Heart Wants What It Wants",
       "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
@@ -12786,7 +12906,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
@@ -13214,6 +13334,24 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
       "album": {
@@ -19660,10 +19798,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147481,
       "name": "Mother",
       "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
+    },
+    {
+      "album": {
+        "name": "Mother (Radio Edit)",
+        "url": "https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145136,
+      "name": "Mother - Radio Edit",
+      "url": "https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H"
     },
     {
       "album": {
@@ -24252,7 +24408,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 132794,
       "name": "SAD B!TCH",
       "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
@@ -24482,7 +24638,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166572,
       "name": "Saturday/Sunday",
       "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
@@ -25148,7 +25304,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
@@ -27072,7 +27228,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 169839,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
@@ -30949,6 +31105,24 @@
     },
     {
       "album": {
+        "name": "What Was",
+        "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "What Was",
+      "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
+    },
+    {
+      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -31666,6 +31840,24 @@
       "duration_ms": 189890,
       "name": "Wish on an Eyelash, Pt. 2",
       "url": "https://open.spotify.com/track/10yYDp1Lnac8zEIYiCk1sp"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

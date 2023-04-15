@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love Cover: KAYTRANADA & Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,261 likes - 92 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,302 likes - 92 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

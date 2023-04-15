@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Luke Combs",
+  "description": "Nothing but the best modern country music. Cover: Dean Brody",
   "name": "All About Country",
   "tracks": [
     {
@@ -768,6 +768,24 @@
       "duration_ms": 189426,
       "name": "Boyfriend Season",
       "url": "https://open.spotify.com/track/3lFM6nfTMY13O8eGTAq4LX"
+    },
+    {
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/0yIovgLu0naYTInJdzyAB2"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214737,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/3fHg0tBPK3UyV1M2q3lAnC"
     },
     {
       "album": {
@@ -3517,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Jealous of Myself",
+        "url": "https://open.spotify.com/album/3aQNLL5R9cOGgoxCz3ycGK"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        },
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "Jealous of Myself",
+      "url": "https://open.spotify.com/track/2uVEIKz8z9j4jBZkORX2a1"
+    },
+    {
+      "album": {
         "name": "Just About Over You",
         "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
       },
@@ -3652,7 +3692,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 183644,
       "name": "Last Time Last",
       "url": "https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s"
@@ -4336,6 +4376,28 @@
       "duration_ms": 211843,
       "name": "MUSCLE MEMORY",
       "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+    },
+    {
+      "album": {
+        "name": "Must Be The Country",
+        "url": "https://open.spotify.com/album/0PQm2a5s7fpKvDbhVIoXLR"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212303,
+      "name": "Must Be The Country",
+      "url": "https://open.spotify.com/track/3KLTDeMtxU0faV1a9ezasK"
     },
     {
       "album": {
@@ -5400,7 +5462,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 155612,
       "name": "Queen Of Me - Spotify Singles",
       "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
@@ -8134,7 +8196,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180615,
       "name": "You Got The Wrong Guy",
       "url": "https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs"

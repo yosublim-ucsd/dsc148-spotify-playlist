@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,065 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,274 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 13 | [Just Give Me Jesus](https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:29 |
 | 14 | [Another In The Fire \- Acoustic](https://open.spotify.com/track/77yuZSTyvX71hl5ip4SRfd) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Joel Houston](https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:37 |
 | 15 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
-| 16 | [You Can Close Your Eyes](https://open.spotify.com/track/1e5eUUQ3K7cnlOFoSG6iAk) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN), [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [B Sides](https://open.spotify.com/album/6nj4lFf0LIu3W4iRbr02Ko) | 2:24 |
-| 17 | [Abba](https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [On the Shores](https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ) | 4:04 |
+| 16 | [Abba](https://open.spotify.com/track/5x1nPSw6zxDcxAZNrCF1Id) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [On the Shores](https://open.spotify.com/album/3YUPMhS86C2T5jAVoOF1qQ) | 4:04 |
+| 17 | [You Can Close Your Eyes](https://open.spotify.com/track/1e5eUUQ3K7cnlOFoSG6iAk) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN), [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [B Sides](https://open.spotify.com/album/6nj4lFf0LIu3W4iRbr02Ko) | 2:24 |
 | 18 | [Haven't Seen It Yet \- Acoustic](https://open.spotify.com/track/4Al0PIC21UKhazRu69vXl3) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Wanted \(Piano & Cello Version\) / Haven’t Seen It Yet \(Acoustic\)](https://open.spotify.com/album/2lpiHMogTupT75qNnleilE) | 4:40 |
 | 19 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
 | 20 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 93 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 |
 | 94 | [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 |
 | 95 | [Shadowfeet](https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Albertine](https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X) | 3:35 |
-| 96 | [Low](https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q) | [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Low](https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB) | 3:39 |
-| 97 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
+| 96 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
+| 97 | [Low](https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q) | [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Low](https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB) | 3:39 |
 | 98 | [For The Joy Set Before Him](https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX) | 4:07 |
 | 99 | [Old Soul](https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef) | [Finding Favour](https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM) | [Old Soul](https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW) | 3:41 |
 | 100 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
 
-Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMDg4YTc2OGQwOTYxZTIzZDdjNTMwOWE1OTNmOTk3Nzg0`
+Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMGFlOTM1M2RmMDM2MDJhMGJjZTUzN2IxODdjNzUwMmY2`

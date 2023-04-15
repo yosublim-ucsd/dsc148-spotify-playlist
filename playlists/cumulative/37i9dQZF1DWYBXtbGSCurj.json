@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Orochi, Oruam, Mc Poze do Rodo, Borges, Chefin",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Ryu the Runner, Mateca",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -593,6 +593,44 @@
     },
     {
       "album": {
+        "name": "Ai calica",
+        "url": "https://open.spotify.com/album/2GwJhgSrxhdleGeLMQ7Cb2"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ai calica",
+      "url": "https://open.spotify.com/track/0XoZIz7YdOXRyvVTk9U1B5"
+    },
+    {
+      "album": {
         "name": "Joias do Bairro",
         "url": "https://open.spotify.com/album/4FbcW3acqCCa64ePx1fKOr"
       },
@@ -984,6 +1022,28 @@
       "duration_ms": 139836,
       "name": "ARIZONA",
       "url": "https://open.spotify.com/track/11hKyz00uuKn0Yy9rfidIa"
+    },
+    {
+      "album": {
+        "name": "Armadilha",
+        "url": "https://open.spotify.com/album/5I9D9O3HRYqmKyy2oSI82Z"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129102,
+      "name": "Armadilha",
+      "url": "https://open.spotify.com/track/6lgFOxO2bDhq8KPqwVwzHD"
     },
     {
       "album": {
@@ -1590,7 +1650,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 144000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1maizcIARVRKATHo6XFTgY"
@@ -1730,7 +1790,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 157225,
       "name": "Beleza Ex\u00f3tica",
       "url": "https://open.spotify.com/track/2hvpRKeyFQtB4a5aV9YvfV"
@@ -1760,7 +1820,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 137142,
       "name": "Beyonc\u00e9",
       "url": "https://open.spotify.com/track/27fr7JT1zjPnBAIjJwm2z3"
@@ -2282,7 +2342,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180000,
       "name": "Caf\u00e9 da Manh\u00e3 Remix ;7",
       "url": "https://open.spotify.com/track/3q79bzEnPxsUJm6rvIFMdz"
@@ -2862,6 +2922,28 @@
       "duration_ms": 153774,
       "name": "Chave do Cofre",
       "url": "https://open.spotify.com/track/2CTF8nIEKhr6NXKqqFg4kN"
+    },
+    {
+      "album": {
+        "name": "Chef\u00e3o",
+        "url": "https://open.spotify.com/album/2cNWT3xbtiX3jkdww3YBc6"
+      },
+      "artists": [
+        {
+          "name": "Doode",
+          "url": "https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6"
+        },
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199071,
+      "name": "Chef\u00e3o",
+      "url": "https://open.spotify.com/track/7IIygV8pN8nY0w4MFSCgVV"
     },
     {
       "album": {
@@ -3827,6 +3909,36 @@
     },
     {
       "album": {
+        "name": "Jogo do Milh\u00e3o",
+        "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
+      },
+      "artists": [
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194634,
+      "name": "Desde Menorzin",
+      "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
+    },
+    {
+      "album": {
         "name": "Deus Aben\u00e7oe o Time",
         "url": "https://open.spotify.com/album/3Ly4N2uSvzBXBzxmedxZD9"
       },
@@ -4598,7 +4710,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 236727,
       "name": "Ela Ama, Ela Gosta",
       "url": "https://open.spotify.com/track/3p8ROtueBgRAZ4RJJMmqs7"
@@ -5726,7 +5838,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 141176,
       "name": "FETTI",
       "url": "https://open.spotify.com/track/7BfOwVx33gglZ3NcBbyPVN"
@@ -8282,7 +8394,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222500,
       "name": "Lote 88",
       "url": "https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09"
@@ -9782,7 +9894,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 132857,
       "name": "Morango",
       "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
@@ -10029,6 +10141,28 @@
     },
     {
       "album": {
+        "name": "Gota D'\u00c1gua",
+        "url": "https://open.spotify.com/album/2qt6hGs5m8hj46oGYKk4fH"
+      },
+      "artists": [
+        {
+          "name": "Lil Whind",
+          "url": "https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr"
+        },
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172862,
+      "name": "M\u00eddia",
+      "url": "https://open.spotify.com/track/7vRISHSzvyUGbmgwCgXoSO"
+    },
+    {
+      "album": {
         "name": "N.A.F",
         "url": "https://open.spotify.com/album/42Zi2AfWoF1gDDK5cTv4HW"
       },
@@ -10078,6 +10212,32 @@
       "duration_ms": 225053,
       "name": "Na F\u00e9",
       "url": "https://open.spotify.com/track/5yjslDplhe6QTtUj4f5k8Z"
+    },
+    {
+      "album": {
+        "name": "Na Mente",
+        "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124948,
+      "name": "Na Mente",
+      "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
     },
     {
       "album": {
@@ -11743,6 +11903,46 @@
     },
     {
       "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
+    },
+    {
+      "album": {
+        "name": "Pecados",
+        "url": "https://open.spotify.com/album/15qdcg1qhl9vbQWdigUsan"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Pecados",
+      "url": "https://open.spotify.com/track/1UrZ1qDDYh9RnN07FHT3LQ"
+    },
+    {
+      "album": {
         "name": "Pelo Momento",
         "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
       },
@@ -12918,7 +13118,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 125649,
       "name": "Putaria e Muita Rima",
       "url": "https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu"
@@ -13407,6 +13607,32 @@
     },
     {
       "album": {
+        "name": "Refer\u00eancia",
+        "url": "https://open.spotify.com/album/0O2BAb3d2KRuqJgQ0FVJxv"
+      },
+      "artists": [
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/418mnnF62zF79sfC67i1Ni"
+        },
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128440,
+      "name": "Refer\u00eancia",
+      "url": "https://open.spotify.com/track/6UoJZ56QpdsrectiFnaOsD"
+    },
+    {
+      "album": {
         "name": "Refil de Whisky",
         "url": "https://open.spotify.com/album/0I7xtMV4J2DNfBwvDpZ6Cw"
       },
@@ -13616,6 +13842,36 @@
       "duration_ms": 113828,
       "name": "Rio de Janeiro",
       "url": "https://open.spotify.com/track/1BpogkDzEDm6gQ2mmWkR1r"
+    },
+    {
+      "album": {
+        "name": "Rio Niteroi",
+        "url": "https://open.spotify.com/album/5F6EtuQsALM0ibUMaUzOyE"
+      },
+      "artists": [
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "IssoQue\u00c9SomDeRap",
+          "url": "https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "Rio Niteroi",
+      "url": "https://open.spotify.com/track/2pjBfU4RhaU4aMSJq5Xsni"
     },
     {
       "album": {
@@ -14769,6 +15025,40 @@
     },
     {
       "album": {
+        "name": "Sua Ex Com Saudade De Mim",
+        "url": "https://open.spotify.com/album/7BzAXhjNqOSmcDmOrucC8J"
+      },
+      "artists": [
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171514,
+      "name": "Sua Ex Com Saudade De Mim",
+      "url": "https://open.spotify.com/track/1au70vuikT9Hwsh03Ce6lx"
+    },
+    {
+      "album": {
         "name": "SUCESSO",
         "url": "https://open.spotify.com/album/0hZ4BFp1ROa6G7S0oFbDUP"
       },
@@ -14884,7 +15174,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 267130,
       "name": "Swoosh",
       "url": "https://open.spotify.com/track/4MJNNWcVqQg1DUvhv0IF4n"
@@ -15938,7 +16228,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 177322,
       "name": "Turista",
       "url": "https://open.spotify.com/track/78OWuPL27aLMkDKdFNNnuH"
@@ -16050,6 +16340,32 @@
       "duration_ms": 136991,
       "name": "T\u00f4 Mudado",
       "url": "https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3"
+    },
+    {
+      "album": {
+        "name": "Uber",
+        "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "Uber",
+      "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
     },
     {
       "album": {
@@ -16734,7 +17050,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 141068,
       "name": "VIV\u00c3O",
       "url": "https://open.spotify.com/track/5n2j93ju4SIlrlkBSNY38i"

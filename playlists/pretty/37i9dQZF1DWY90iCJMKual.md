@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: Termula
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,951 likes - 92 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,987 likes - 92 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

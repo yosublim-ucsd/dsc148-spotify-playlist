@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+    },
+    {
+      "album": {
         "name": "The Son of God (& Imela)",
         "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
       },
@@ -630,7 +652,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202500,
       "name": "Olorun To Da Awon Oke Igbani",
       "url": "https://open.spotify.com/track/2ERPRtRjsz7roLK29Bu9b0"

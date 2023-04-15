@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 197697,
+  "num_followers": 197783,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGU0OGNhODU2ZjkzZTQ4MWI4OWI4OTFkNGExNmM5ZTIz",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDM4NjdiY2NjZmUwMjQwNzdlYjljMmVkNTdiOWQ2NmVh",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -319,22 +319,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Into The Gap",
-        "url": "https://open.spotify.com/album/0EKvjXCkgxeH6YjfN7ScYR"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/1B1Y52ftMyCmgjPsEMQDqq"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -351,22 +335,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -379,6 +347,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -819,6 +803,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hats",
-        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
-      },
-      "artists": [
-        {
-          "name": "The Blue Nile",
-          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Over the Hillside",
-      "url": "https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 319960,
       "name": "Sweetest Smile - Extended Version",
       "url": "https://open.spotify.com/track/5tew2YDhxcjh6RAdgxVt4Q"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Hats",
+        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
+      },
+      "artists": [
+        {
+          "name": "The Blue Nile",
+          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Over the Hillside",
+      "url": "https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 244066,
-      "name": "Otterley",
-      "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Hats",
         "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 239986,
       "name": "From a Late Night Train",
       "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 244066,
+      "name": "Otterley",
+      "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
     },
     {
       "added_at": "2018-12-12 11:36:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,628 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,781 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 47 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 48 | [Vom selben Stern \- Radio Edit](https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL) | [Ich + Ich](https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId) | [Vom selben Stern \(Exklusive Version\)](https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn) | 3:48 |
 | 49 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
-| 50 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
+| 50 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 |
 
-Snapshot ID: `MTY3ODA5MDg2MCwwMDAwMDAwMDk0ZjEwMzIzYjg4NjZkYTUzNWFmY2Q0ZGVjZWU2Y2Fm`
+Snapshot ID: `MTY3ODA5MDg2MCwwMDAwMDAwMGMxY2Y0NzYxMTA4OGE1MzBmYWFkNTU5ZmI2ZTg3MDFk`

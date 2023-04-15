@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "2MORE",
+        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131913,
+      "name": "aorta",
+      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
+    },
+    {
+      "album": {
         "name": "Baby Don't Cry (feat. Young Thug)",
         "url": "https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 297640,
       "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
       "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 138506,
       "name": "MORE THAN FRIENDS",
       "url": "https://open.spotify.com/track/3woWtzkN6KKSfX7VBW6nDg"
@@ -2006,10 +2024,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147481,
       "name": "Mother",
       "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
+    },
+    {
+      "album": {
+        "name": "Mother (Radio Edit)",
+        "url": "https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145136,
+      "name": "Mother - Radio Edit",
+      "url": "https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H"
     },
     {
       "album": {
@@ -2642,6 +2678,28 @@
       "duration_ms": 225446,
       "name": "Roles Reversed",
       "url": "https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ"
+    },
+    {
+      "album": {
+        "name": "ROLL THE DICE (feat. DeJ Loaf)",
+        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224256,
+      "name": "ROLL THE DICE (feat. DeJ Loaf)",
+      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
       "album": {

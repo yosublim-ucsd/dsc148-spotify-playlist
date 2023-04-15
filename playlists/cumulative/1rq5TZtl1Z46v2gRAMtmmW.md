@@ -4,7 +4,7 @@
 
 > 
 
-135 songs - 9 hr 39 min
+136 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-08 | 2023-03-10 |
 | [Fables](https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Fables](https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81) | 4:51 | 2023-03-29 |  |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
+| [Flite](https://open.spotify.com/track/4pDoFHC8UKRXix1lwng6YO) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Every Day \(20th Anniversary Edition\)](https://open.spotify.com/album/0FoPSDUnpwirDsVx8GjSDD) | 6:35 | 2023-04-14 |  |
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-01-24 |  |
 | [Forever](https://open.spotify.com/track/3yZEoq8Rz599OSgIOwrU5z) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 5:36 | 2022-11-14 | 2023-02-07 |
 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 | 2022-11-11 |  |
@@ -61,7 +62,7 @@
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-19 | 2022-10-15 |
 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 | 2022-08-24 |  |
 | [Hidden Angel](https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Hidden Angel](https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ) | 3:48 | 2022-04-05 | 2022-07-08 |
-| [Holsten](https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Holsten](https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2) | 5:41 | 2022-09-20 |  |
+| [Holsten](https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Holsten](https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2) | 5:41 | 2022-09-20 | 2023-04-15 |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-21 |  |
 | [I Do Wonder](https://open.spotify.com/track/3gIrjqnZpDkChCsPqTLHF9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Sun Songs](https://open.spotify.com/album/1rU8DsYxX6rWjqhBUqXDBK) | 2:27 | 2022-11-04 | 2023-02-08 |
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2022-09-20 |  |

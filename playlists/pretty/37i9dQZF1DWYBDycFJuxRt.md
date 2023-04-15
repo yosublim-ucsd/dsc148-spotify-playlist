@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: スピッツ \*👉 <a href="https://spice.eplus.jp/articles/317111?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,173 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,278 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 53 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 |
 | 54 | [シャカン・ナ・ソン・グー](https://open.spotify.com/track/6VBCobSYJlE0GOzhiubTrI) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [シャカン・ナ・ソン・グー](https://open.spotify.com/album/4jPZiH8toq8PxckfqVZ4um) | 3:38 |
 | 55 | [スーパースター](https://open.spotify.com/track/4cLY3TliAjXGMPXsVJ1TC6) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF) | [スーパースター](https://open.spotify.com/album/095fLu9RgH0tXClNTz4uCS) | 3:39 |
-| 56 | [この中で](https://open.spotify.com/track/3l9fQYoLOqtuT9VKrNSkW0) | [三宅健](https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb) | [この中で](https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3) | 4:08 |
+| 56 | [この中で](https://open.spotify.com/track/3l9fQYoLOqtuT9VKrNSkW0) | [Miyake Ken](https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb) | [この中で](https://open.spotify.com/album/4tE6yGPwcQ93uWrrF70GN3) | 4:08 |
 | 57 | [Mori no chiisana restaurant](https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Mori no chiisana restaurant](https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa) | 2:33 |
 | 58 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 |
 | 59 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |

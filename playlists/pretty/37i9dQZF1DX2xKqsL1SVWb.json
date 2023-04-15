@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
-  "num_followers": 95885,
+  "num_followers": 95904,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMDI0NzQ3NTg5MTE4YzQ2YmY5OTQ5Y2Q4OTYxYzRhNzBi",
+  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMGI1OTIyYzVjNzZiMGVmN2U5YmRjYWVlZTM4Mzc2NzA0",
   "tracks": [
     {
       "added_at": "2023-03-31 18:07:09",
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
-      "added_at": "2023-04-14 00:49:24",
+      "added_at": "2023-04-15 01:18:14",
       "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
@@ -364,7 +364,7 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Dark Folk, Vol.1",
-        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Algo Mejor",
         "url": "https://open.spotify.com/album/0HYUyOcBGQhtdhC1woSkCt"
       },
@@ -489,7 +473,7 @@
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
     },
     {
-      "added_at": "2023-04-14 00:49:24",
+      "added_at": "2023-04-15 01:18:14",
       "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
@@ -509,7 +493,23 @@
       "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
     },
     {
-      "added_at": "2023-04-14 00:49:24",
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Dark Folk, Vol.1",
+        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "duration_ms": 148353,
+      "name": "Te Rendiste En MI",
+      "url": "https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1"
+    },
+    {
+      "added_at": "2023-04-15 01:18:14",
       "album": {
         "name": "No Sab\u00eda",
         "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Dark Folk, Vol.1",
-        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
-      },
-      "artists": [
-        {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
-        }
-      ],
-      "duration_ms": 148353,
-      "name": "Te Rendiste En MI",
-      "url": "https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -653,7 +637,7 @@
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
-      "added_at": "2023-04-14 00:49:24",
+      "added_at": "2023-04-15 01:18:14",
       "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
@@ -707,6 +691,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Cu\u00e1nto Tiempo sin Verte",
+      "url": "https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "HSN",
-        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
       "artists": [
         {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Cu\u00e1nto Tiempo sin Verte",
-      "url": "https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2"
+      "duration_ms": 193654,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -803,8 +803,24 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "No Soy Yo",
-        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 185889,
+      "name": "Contigo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 193654,
-      "name": "No Soy Yo",
-      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -831,22 +847,6 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 185889,
-      "name": "Contigo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -935,22 +935,6 @@
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Hoy Es Hoy",
-        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hoy Es Hoy",
-      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "De Todo un Poco",
         "url": "https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 258234,
       "name": "Dulce Veneno - Sigues Aqu\u00ed",
       "url": "https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Hoy Es Hoy",
+        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hoy Es Hoy",
+      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
+      },
+      "artists": [
+        {
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
+        }
+      ],
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1131,22 +1131,6 @@
       "duration_ms": 233370,
       "name": "Yaya",
       "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Al Pie del Volc\u00e1n",
-        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
-      },
-      "artists": [
-        {
-          "name": "Yo y las Bestias",
-          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
-        }
-      ],
-      "duration_ms": 245422,
-      "name": "Al Pie del Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Antes de Partir - Cap.1",
-        "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
-      },
-      "artists": [
-        {
-          "name": "Erick Mendoza",
-          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Antes de Partir - Cap.1",
-      "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Repetir",
         "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
       },
@@ -1227,6 +1195,22 @@
       "duration_ms": 163958,
       "name": "Repetir",
       "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Antes de Partir - Cap.1",
+        "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
+      },
+      "artists": [
+        {
+          "name": "Erick Mendoza",
+          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Antes de Partir - Cap.1",
+      "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1259,6 +1243,22 @@
       "duration_ms": 211382,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Nos Dijimos Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 222438,
+      "name": "Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
     }
   ],
   "unique_name": "madera y miel",

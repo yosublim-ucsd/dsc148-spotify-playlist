@@ -1350,6 +1350,24 @@
     {
       "album": {
         "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj"
+    },
+    {
+      "album": {
+        "name": "MANIC MAN",
         "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
       },
       "artists": [
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179506,
       "name": "me vs me vs all of y'all",
       "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"

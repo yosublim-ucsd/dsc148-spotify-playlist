@@ -4,13 +4,14 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-129 songs - 5 hr 46 min
+130 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 | 2022-03-18 |  |
 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 |  |
 | [Alone](https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8) | [Alone](https://open.spotify.com/album/4MVU8BmR5lk8lxmH1RBMyu) | 2:42 | 2022-03-18 | 2022-11-12 |
+| [Ampulheta](https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ampulheta](https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN) | 2:02 | 2023-04-14 |  |
 | [Apocalipse](https://open.spotify.com/track/2SQSpgUipLIYLPTg3bpefW) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Apocalipse](https://open.spotify.com/album/2W3iFFnbROvv5z8aKlyPQZ) | 2:39 | 2022-03-18 |  |
 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 | 2022-03-18 |  |
 | [As Faixas](https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Letta](https://open.spotify.com/artist/0jyT3a5KlJqq751sfrc9Bn), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [As Faixas](https://open.spotify.com/album/7lcgZlUhLUzn6Ulerl4pbB) | 3:22 | 2022-09-02 |  |
@@ -19,7 +20,7 @@
 | [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 | 2022-09-30 |  |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
 | [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |
-| [Bahamas](https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW) | [honeyyvm](https://open.spotify.com/artist/6FRAAq4oJpZ8MVmnzc9Qvw), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Bahamas](https://open.spotify.com/album/5rEUBcuC0pMEaGcH0J5oQ9) | 2:27 | 2022-09-02 |  |
+| [Bahamas](https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW) | [honeyyvm](https://open.spotify.com/artist/6FRAAq4oJpZ8MVmnzc9Qvw), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Bahamas](https://open.spotify.com/album/5rEUBcuC0pMEaGcH0J5oQ9) | 2:27 | 2022-09-02 | 2023-04-15 |
 | [Big Mac](https://open.spotify.com/track/6G5ggFv65KKrvb2rXAuNfM) | [Og Nina](https://open.spotify.com/artist/2yurgiGE67rGV8Ra5Qqkso), [SHOTBYBZK](https://open.spotify.com/artist/6ykNXCV6SmYveaTjjHUekm) | [Big Mac](https://open.spotify.com/album/6k1bWLpxlLeKMcIPTfyuwo) | 2:47 | 2022-12-02 | 2023-03-03 |
 | [BNTA](https://open.spotify.com/track/1dUA1RZRJtTKYATLHuxsbS) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/0ukdEskm3LHXFYBvYwsCOk) | 3:57 | 2022-03-18 | 2023-02-09 |
 | [BNTA](https://open.spotify.com/track/3PTpIE4GrelEc4iS0qV2Jo) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [BNTA](https://open.spotify.com/album/1EnyVlubYvfVsiMVEHN4VQ) | 3:57 | 2023-02-03 |  |

@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Ian Munsick
 
-329 songs - 16 hr 44 min
+331 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-10-01 |  |
 | [Plain Jane](https://open.spotify.com/track/6aoT8a5ra1r6vCsbrdHfsW) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 3:00 | 2021-12-10 | 2022-09-24 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-08 | 2023-02-02 |
+| [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 | 2023-04-14 |  |
 | [Ragdoll](https://open.spotify.com/track/5n0uCraD4EIMmRWz2Yr9TA) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Ragdoll](https://open.spotify.com/album/6WjJUeJmOsU4BnkYGRGBSi) | 3:12 | 2022-08-19 | 2023-02-02 |
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2021-12-10 |  |
 | [Rather Be Broke](https://open.spotify.com/track/3u5VNiGarGDcBYuM26XXaC) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [Rather Be Broke](https://open.spotify.com/album/3HNKlvVe8NwP4hd2WK25QQ) | 2:37 | 2021-12-10 | 2023-01-04 |
@@ -280,6 +281,7 @@
 | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 | 2022-07-22 |  |
 | [Summer In A Small Town](https://open.spotify.com/track/2WgY7GjYq1SLIgOLhqrczP) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Summer In A Small Town](https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95) | 2:57 | 2021-12-10 | 2022-02-26 |
 | [Sunday Toasted](https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Sunday Toasted](https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F) | 2:43 | 2022-08-26 | 2023-02-02 |
+| [Sundown](https://open.spotify.com/track/26HQt3tNOagBa4Av5lftP2) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Sundown](https://open.spotify.com/album/7GTqzcYBdaT6Ify2iHtcay) | 2:09 | 2023-04-14 |  |
 | [Sundress](https://open.spotify.com/track/38vqfi7hLRwfsY86jDGm6E) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Sundress](https://open.spotify.com/album/4RyDQPdeRS1ovDV58hGBKI) | 2:22 | 2022-10-21 |  |
 | [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 | 2022-08-12 | 2023-02-02 |
 | [Tailgate Queen](https://open.spotify.com/track/4hztsDzyfQclyDAlivrogd) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Tailgate Queen](https://open.spotify.com/album/1inQMIpxbhWs12ExHyOZQt) | 3:23 | 2021-12-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,090 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,160 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 49 | [Magic](https://open.spotify.com/track/7AXlu0Y9GxPHQkSXa9dcWn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Desde la Azotea \- Fase II](https://open.spotify.com/album/11Nxl65MBcH7MQuANJKHNI) | 4:20 |
 | 50 | [Palomita Aventurera](https://open.spotify.com/track/621Xyct7TLnubWJmBfGSyx) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/2vdSOHJ3ruarPaifT2LXjF) | 2:54 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA3NTJhMmQyMDNlNjhkMGVhOGE2OTkzMTVmYTUxZmQ0NQ==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmODQwZDcyZWMyZDdmMDllNjMwNjJiYjkyNjBlNGFkZA==`

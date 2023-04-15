@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Shreya Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,514 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,622 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 3 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
 | 4 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 |
 | 5 | [Do Shaitano](https://open.spotify.com/track/6SrDgvxLztbmuK5jX7hg1T) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Do Shaitano](https://open.spotify.com/album/0TfdtzxV0kkk4vXtXiZcv8) | 3:30 |
-| 6 | [Daaye Baaye](https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op) | 3:12 |
-| 7 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 |
+| 6 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 |
+| 7 | [Daaye Baaye](https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op) | 3:12 |
 | 8 | [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 |
 | 9 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 10 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 56 | [Nusrat](https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R), [Subir Malik](https://open.spotify.com/artist/0GUULpt9IvFRrY3RnG4tOW), [Jasmine Kaur](https://open.spotify.com/artist/1jKO7eePUCtEhfTzEIRE8G) | [Nusrat](https://open.spotify.com/album/3tTQGJAqjSEAUjTvvNrHsx) | 4:26 |
 | 57 | [Ek Din](https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Ek Din](https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1) | 5:00 |
 | 58 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 59 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 |
-| 60 | [Karwaan](https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK) | [Karwaan](https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz) | 4:00 |
-| 61 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
-| 62 | [Khushiyon Ke Pal](https://open.spotify.com/track/3chiE90csYmQ8UIZvuT9gH) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khushiyon Ke Pal](https://open.spotify.com/album/6evDJ3PMbBfWrzWg4mLOK0) | 2:41 |
-| 63 | [Barsatein](https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/6HUDcDyuJl4soXxx464G6a) | 3:42 |
-| 64 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
+| 59 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
+| 60 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 |
+| 61 | [Karwaan](https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK) | [Karwaan](https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz) | 4:00 |
+| 62 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
+| 63 | [Khushiyon Ke Pal](https://open.spotify.com/track/3chiE90csYmQ8UIZvuT9gH) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Khushiyon Ke Pal](https://open.spotify.com/album/6evDJ3PMbBfWrzWg4mLOK0) | 2:41 |
+| 64 | [Barsatein](https://open.spotify.com/track/4XBADEVfEfWxOZRhreFt2T) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Barsatein](https://open.spotify.com/album/6HUDcDyuJl4soXxx464G6a) | 3:42 |
 | 65 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
 | 66 | [Makhmal](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 |
 | 67 | [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 |
 | 75 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 
-Snapshot ID: `MTY4MTExODA5MywwMDAwMDAwMDJkNTQ3MDY2MGI5NTZhNWUxNjIwNDNjZTNjZmU0MjY1`
+Snapshot ID: `MTY4MTQ1MTY5MywwMDAwMDAwMDVmNDIzMmNkYTEwNmNjM2QyMzY1YTJlZDUxMzNkY2Iz`

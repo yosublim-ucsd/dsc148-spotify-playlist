@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2023\. See you on the dancefloor.
 
-151 songs - 9 hr 48 min
+152 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2022-08-26 |  |
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-08-26 |  |
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2022-08-26 |  |
-| [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-04-04 |  |
+| [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-04-04 | 2023-04-15 |
+| [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-04 |  |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-08-26 |  |
 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 | 2023-04-04 |  |
 | [Rizzla](https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rizzla](https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM) | 3:37 | 2022-08-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,368 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,523 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 96 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM) | 2:47 |
 | 97 | [4AM](https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf) | [4AM](https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO) | 3:45 |
 | 98 | [Dream Girl \- Global Remix](https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dream Girl \(Global Remix\)](https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD) | 3:32 |
-| 99 | [juju](https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Utterfly](https://open.spotify.com/artist/6TItkexev1yU2PowoyyZts), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [next chapter](https://open.spotify.com/album/3XPXxSPsjCYee7WSYqX133) | 2:42 |
+| 99 | [Holy Ground \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:42 |
 | 100 | [Ginger Me](https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ginger Me](https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4) | 3:25 |
 
-Snapshot ID: `MTY3NDc1NDc3NCwwMDAwMDAwMGNmNzBiMGQ1ZmQ4NTYxODA1ZWJjYjlkNDQ0Y2IyNjNh`
+Snapshot ID: `MTY3NDc1NDc3NCwwMDAwMDAwMGYyODA0MjM0NDViNDBkNzI5MDY0MGQzNTAwZGJiODQ3`

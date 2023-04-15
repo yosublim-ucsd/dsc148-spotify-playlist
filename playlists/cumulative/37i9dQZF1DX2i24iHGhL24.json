@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Reimagined pop covers of your favorite songs.  Cover: John Legend",
+  "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
   "name": "Pop Covers",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 199874,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
+    },
+    {
+      "album": {
+        "name": "All Time Low",
+        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184441,
+      "name": "All Time Low",
+      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
     },
     {
       "album": {
@@ -2547,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2"
+    },
+    {
+      "album": {
         "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
@@ -3769,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m Blue",
+        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "I\u2019m Blue",
+      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
+    },
+    {
+      "album": {
         "name": "I\u2019m With You",
         "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
       },
@@ -3991,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Gloria (Special Edition)",
+        "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295266,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/4cTafvpYaCM3u41plC0eK4"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
       },
@@ -4078,6 +4150,24 @@
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "album": {

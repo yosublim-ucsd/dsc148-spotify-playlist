@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,738 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,997 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 69 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 70 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 71 | [Tiempo](https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tiempo](https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ) | 2:51 |
-| 72 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
-| 73 | [Love Riddim](https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Walk With Me](https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj) | 3:39 |
+| 72 | [Love Riddim](https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Walk With Me](https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj) | 3:39 |
+| 73 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 |
 | 74 | [So Distant \(feat\. Tayc\)](https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [So Distant \(feat\. Tayc\)](https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA) | 2:54 |
 | 75 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 | 76 | [Touch It \- Remix](https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Touch It \(Remix\)](https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu) | 3:01 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [See You Again](https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:45 |
 | 150 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 |
 
-Snapshot ID: `MTY4MTQxNDM3OSwwMDAwMDAwMDg5MTkxNjNjYjlkNmFiYmUzOWRkNTFlMzM4OTNiZDBh`
+Snapshot ID: `MTY4MTQxNDM3OSwwMDAwMDAwMGZmNzQyY2Q4M2E3M2YzZmI5ZmE4MWRlMjUzNDc4MmNl`

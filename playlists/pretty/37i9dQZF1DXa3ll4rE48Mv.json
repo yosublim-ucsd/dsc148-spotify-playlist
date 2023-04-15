@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Witch Fever",
-  "num_followers": 139843,
+  "num_followers": 139981,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMGU1ZDgwYmM3M2IyMWIwMjdiZDRjZmFlNzJmNTY1NWU5",
+  "snapshot_id": "MTY3NDU2ODgwMCwwMDAwMDAwMDMwNGI2ZDI0NTg1Nzg5M2FhZmVmOGI2MDVkM2IwMjQ2",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Always Happy",
-        "url": "https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 158372,
-      "name": "Always Happy",
-      "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Demo 2015",
         "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
     },
     {
       "added_at": "2023-01-24 14:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Everything Dies",
-        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
-      },
-      "artists": [
-        {
-          "name": "Nervus",
-          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Sick Sad World",
-      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Home Recordings 2020 - 2021",
         "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 188374,
       "name": "Girlracer",
       "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Everything Dies",
+        "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
+      },
+      "artists": [
+        {
+          "name": "Nervus",
+          "url": "https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Sick Sad World",
+      "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
     },
     {
       "added_at": "2022-05-31 23:01:00",

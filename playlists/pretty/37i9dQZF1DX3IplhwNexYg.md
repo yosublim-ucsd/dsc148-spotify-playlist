@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Gengahr
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,268 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,269 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 42 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
 | 43 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 |
 | 44 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
-| 45 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
-| 46 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
+| 45 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
+| 46 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
 | 47 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 48 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
 | 49 | [blame](https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 2:40 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 70 | [Carolina Reaper](https://open.spotify.com/track/4O717610RkQp7cpTdVfmko) | [Chilli Jesson](https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc) | [Carolina Reaper](https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL) | 3:38 |
 | 71 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 |
 | 72 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 |
-| 73 | [Wiggy](https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Wiggy](https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22) | 3:35 |
-| 74 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 |
+| 73 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 |
+| 74 | [Wiggy](https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Wiggy](https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22) | 3:35 |
 | 75 | [Thick of the Honey](https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:17 |
 | 76 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |
 | 77 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 79 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 |
 | 80 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGY0YjgwZTNiMDc5YTNjZGU2ZWY3NmFkYjhjOWIwMDQ5`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDFhYWU0NjFmNzQ0YWQ2NjA1NTJkZDJhZTkwZmU3Y2U3`

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 286250,
+  "num_followers": 286434,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDY2ZDFhYmQ1YmJkNGFlMDM4MjZlZDIyZWI3ZTAyYmUw",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDc5ZjcwZmE4ZjRjMzFiYzVjOTY2ZjQ0ZDQxYTk0YThl",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
-      },
-      "artists": [
-        {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1187,38 +1187,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1515,30 +1515,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Eva Sierra",
-          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Solo para Ti",
-      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1551,22 +1527,6 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1639,6 +1599,46 @@
       "duration_ms": 309913,
       "name": "Y Nos Dieron Las Diez (feat. Zahara) - Tributo a Sabina",
       "url": "https://open.spotify.com/track/2p0ol5BlwQtbiioBGytxy4"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Eva Sierra",
+          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Solo para Ti",
+      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
     },
     {
       "added_at": "2023-04-13 22:00:00",

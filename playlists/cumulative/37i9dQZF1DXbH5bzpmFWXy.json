@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Herencia de Patrones en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Luis R Conriquez & Beto Sierra en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Anillos",
+        "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203861,
+      "name": "Anillos",
+      "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
+    },
+    {
+      "album": {
         "name": "Antes de que muera",
         "url": "https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA"
       },
@@ -392,7 +414,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 198336,
       "name": "Asi Me Encula",
       "url": "https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x"
@@ -894,7 +916,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 201872,
       "name": "Clave Ali",
       "url": "https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE"
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 233287,
       "name": "Cuna De Maleantes",
       "url": "https://open.spotify.com/track/0iAYAT6eNN8zWZQEsLbipt"
@@ -1113,6 +1135,32 @@
     },
     {
       "album": {
+        "name": "De Lunes A Viernes",
+        "url": "https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir"
+      },
+      "artists": [
+        {
+          "name": "Angel Ureta",
+          "url": "https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153443,
+      "name": "De Lunes A Viernes",
+      "url": "https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af"
+    },
+    {
+      "album": {
         "name": "Mentes Enfermas",
         "url": "https://open.spotify.com/album/6RS8hIFBylcwXaeGunLBQy"
       },
@@ -1146,7 +1194,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 209367,
       "name": "Delivery",
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
@@ -1542,7 +1590,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 261070,
       "name": "El Boom",
       "url": "https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o"
@@ -2064,7 +2112,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 213441,
       "name": "Enfocado En El Presente",
       "url": "https://open.spotify.com/track/3HSgIDUKrAaNeZG4QYNMHQ"
@@ -2118,7 +2166,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 234189,
       "name": "Falso",
       "url": "https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D"
@@ -2144,6 +2192,28 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "album": {
+        "name": "Forjando Mi Historia",
+        "url": "https://open.spotify.com/album/03TYLZbkF4IyK2y0YiJqZS"
+      },
+      "artists": [
+        {
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        },
+        {
+          "name": "Dani Ez",
+          "url": "https://open.spotify.com/artist/4RPB5RKDzpLwmRNQQucGQy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164455,
+      "name": "Forjando Mi Historia",
+      "url": "https://open.spotify.com/track/7ly3nWgGdDIoec14iLl1Jq"
     },
     {
       "album": {
@@ -2346,7 +2416,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171106,
       "name": "Haciendo Billetes",
       "url": "https://open.spotify.com/track/6aX8PK0YucNbL6N5DMuiVD"
@@ -2858,10 +2928,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197375,
       "name": "Las Caravanas",
       "url": "https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14"
+    },
+    {
+      "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
       "album": {
@@ -2962,7 +3054,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
@@ -3138,7 +3230,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 263288,
       "name": "Me Acostumbre (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
@@ -3516,6 +3608,50 @@
       "duration_ms": 216330,
       "name": "Morritas",
       "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "album": {
+        "name": "MOTEL CALIFORNIA",
+        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213033,
+      "name": "MOTEL CALIFORNIA",
+      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico B\u00e9lico",
+        "url": "https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "M\u00e9xico B\u00e9lico",
+      "url": "https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN"
     },
     {
       "album": {
@@ -3992,6 +4128,24 @@
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
+    },
+    {
+      "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
     },
     {
       "album": {
@@ -4917,6 +5071,32 @@
     },
     {
       "album": {
+        "name": "Tirando Flow Sesh #9",
+        "url": "https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187297,
+      "name": "Tirando Flow Sesh #9",
+      "url": "https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe"
+    },
+    {
+      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -4968,7 +5148,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191917,
       "name": "Todo Menso",
       "url": "https://open.spotify.com/track/7Cz1P6tmbAOqLrZMh5Z5T8"
@@ -5085,6 +5265,28 @@
     },
     {
       "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
+    },
+    {
+      "album": {
         "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
         "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
       },
@@ -5166,7 +5368,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 216393,
       "name": "Un Dia Todo Se Termina",
       "url": "https://open.spotify.com/track/4h3D9YX8raIWdDaDyiopow"
@@ -5188,7 +5390,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 251803,
       "name": "Un D\u00eda Todo Se Termina (Remix)",
       "url": "https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj"
@@ -5444,7 +5646,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 126498,
       "name": "Whiskey Con Agua",
       "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"

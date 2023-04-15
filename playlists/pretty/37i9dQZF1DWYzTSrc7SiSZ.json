@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 653000,
+  "num_followers": 653095,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5NTQ2OSwwMDAwMDAwMGI4MzU1MzcyOGMyZmEzYzBlN2M5NTBhMjc0ZDJhNTUy",
+  "snapshot_id": "MTY4MDg5NTQ2OSwwMDAwMDAwMDliMDdhMzUwMDZmZTU1MTA1YjcyN2Y2NjAxMTQ1NThj",
   "tracks": [
     {
       "added_at": "2023-04-07 19:24:29",
@@ -295,6 +295,26 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
+        "name": "Fogata",
+        "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
+      },
+      "artists": [
+        {
+          "name": "XAXO",
+          "url": "https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb"
+        },
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Fogata",
+      "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
         "name": "Planeando Madrid",
         "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "La Vida en Rosa",
-        "url": "https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP"
-      },
-      "artists": [
-        {
-          "name": "Pantera Blue",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "La Vida en Rosa",
-      "url": "https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -343,22 +347,18 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Fogata",
-        "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
+        "name": "La Vida en Rosa",
+        "url": "https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP"
       },
       "artists": [
         {
-          "name": "XAXO",
-          "url": "https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb"
-        },
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+          "name": "Pantera Blue",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
         }
       ],
-      "duration_ms": 173200,
-      "name": "Fogata",
-      "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
+      "duration_ms": 128000,
+      "name": "La Vida en Rosa",
+      "url": "https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Tus Ojitos",
-        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
-      },
-      "artists": [
-        {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
-        }
-      ],
-      "duration_ms": 255514,
-      "name": "Tus Ojitos",
-      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
         "name": "Mi Condena",
         "url": "https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 172319,
       "name": "Mi Condena",
       "url": "https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
+      },
+      "artists": [
+        {
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+        }
+      ],
+      "duration_ms": 255514,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
+        "name": "Siempre tengo sue\u00f1o",
+        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Siempre tengo sue\u00f1o",
+      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 148562,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "Siempre tengo sue\u00f1o",
-        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Siempre tengo sue\u00f1o",
-      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+        "name": "Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+      "duration_ms": 160399,
+      "name": "Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -803,6 +803,22 @@
       "duration_ms": 183000,
       "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
       "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 190120,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
         "name": "fr\u00edo",
         "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "beat relajado para estudiar",
-        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
         }
       ],
-      "duration_ms": 250160,
-      "name": "beat relajado para estudiar",
-      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1023,6 +1023,22 @@
       "duration_ms": 221322,
       "name": "Bolitas",
       "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "beat relajado para estudiar",
+        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "beat relajado para estudiar",
+      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Paralizado",
-        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
         "name": "Ya",
         "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 197910,
       "name": "Ya",
       "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Paralizado",
+        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Paralizado",
+      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
         }
       ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1247,70 +1263,6 @@
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "Qu\u00e9 Bonito Es Lo Bonito",
-      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "Singles 2019-2021",
-        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 224268,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1335,18 +1287,50 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Singles 2019-2021",
+        "url": "https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY"
+      },
+      "artists": [
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+        }
+      ],
+      "duration_ms": 224268,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "Qu\u00e9 Bonito Es Lo Bonito",
+      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/5BpGM2EOixRKmXjk9pGjIn"
       },
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Espera (feat. Carlos Sadness)",
-        "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
       },
       "artists": [
         {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        },
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 232594,
-      "name": "Espera (feat. Carlos Sadness)",
-      "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1423,6 +1419,26 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Espera (feat. Carlos Sadness)",
+        "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        },
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 232594,
+      "name": "Espera (feat. Carlos Sadness)",
+      "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
+        "name": "No Te Pude Soltar",
+        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 160399,
-      "name": "Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
+      "duration_ms": 164683,
+      "name": "No Te Pude Soltar",
+      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1531,22 +1547,6 @@
       "duration_ms": 193953,
       "name": "7 de febrero",
       "url": "https://open.spotify.com/track/3pT3Hel5mso2yNefImHIwb"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
-        "name": "No Te Pude Soltar",
-        "url": "https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 164683,
-      "name": "No Te Pude Soltar",
-      "url": "https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8"
     },
     {
       "added_at": "2023-04-07 19:24:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-07 19:24:29",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
-    },
-    {
-      "added_at": "2023-04-07 19:24:29",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2023-04-07 19:24:29",
+      "album": {
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
     },
     {
       "added_at": "2023-04-07 19:24:29",

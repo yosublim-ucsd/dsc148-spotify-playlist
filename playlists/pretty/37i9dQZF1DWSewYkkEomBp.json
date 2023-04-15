@@ -1,6 +1,6 @@
 {
   "description": "The perfect tunes to accompany your lazy day in the garden.",
-  "num_followers": 154743,
+  "num_followers": 154757,
   "original_name": "Summer in the Garden",
   "owner": {
     "name": "Spotify",
@@ -1340,12 +1340,12 @@
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
       "duration_ms": 298133,

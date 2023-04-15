@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 150700,
+  "num_followers": 150838,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxMTMxMCwwMDAwMDAwMGJiNmFmNzZhYTQ3OWQ0MjY2YzMwZWEzOWE2ZGU4YTAw",
+  "snapshot_id": "MTY4MDgxMTMxMCwwMDAwMDAwMDZjYzY4N2M0NWU3ZDk2YzVlZGVkM2VjZmE5NjQ2ZDNk",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 188341,
       "name": "Suin Romanticon",
       "url": "https://open.spotify.com/track/50ikhv8M3yUnoNW9dUEXxy"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "GP",
         "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 225920,
       "name": "Bailar Bien, Bailar Mal",
       "url": "https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Musica Para Despues De Almuerzo",
-        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
-      },
-      "artists": [
-        {
-          "name": "Bitman & Roban",
-          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Despues De Almuerzo Parte 3",
-      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 266925,
       "name": "Espero",
       "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Musica Para Despues De Almuerzo",
+        "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
+      },
+      "artists": [
+        {
+          "name": "Bitman & Roban",
+          "url": "https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Despues De Almuerzo Parte 3",
+      "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
-      },
-      "artists": [
-        {
-          "name": "MKRNI",
-          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Uno Dos (feat. Jaden Smith)",
         "url": "https://open.spotify.com/album/4YlvH07cfWhWO5UB3r2pF1"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 170125,
       "name": "Uno Dos (feat. Jaden Smith)",
       "url": "https://open.spotify.com/track/4izDoelJ5qRHICeE8iHx07"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
+      },
+      "artists": [
+        {
+          "name": "MKRNI",
+          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
     },
     {
       "added_at": "2023-02-08 23:13:43",

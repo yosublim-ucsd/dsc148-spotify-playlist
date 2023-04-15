@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,389 likes - 100 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,502 likes - 100 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 65 | [Already Done](https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Already Done](https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z) | 5:24 |
 | 66 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 |
 | 67 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 |
-| 68 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
-| 69 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
+| 68 | [Alleluia \- Live](https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:04 |
+| 69 | [Just Want You \- Live](https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 7:19 |
 | 70 | [Unshakable](https://open.spotify.com/track/05YyiE4iKGzNNwLDlA8v96) | [Mid\-Cities Worship](https://open.spotify.com/artist/3XerAM6cB9YmacAmbafgZP), [Brooklynn Ward](https://open.spotify.com/artist/3A04Fs4pJ2QpQtR8DjRQTv) | [The Songs We Sing](https://open.spotify.com/album/5KWSVv7EOYsOmuKmsLg5pD) | 4:48 |
 | 71 | [This Is Our Story](https://open.spotify.com/track/3qAgzc1GCfBHSAr9UxpNXT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [This Is Our Story](https://open.spotify.com/album/2Tj6FuYJTT5PmlgIyKCBPo) | 5:41 |
 | 72 | [Still](https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Still](https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Abraham](https://open.spotify.com/track/3zfgd4lsN0OJh4t4oYpdFo) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:32 |
 | 100 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 
-Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDkxNzkzMmZmM2UxYzhiNmYwMmM0ZWY2ZmFjOTk5YTFi`
+Snapshot ID: `MTU5MzE0NDEyMCwwMDAwMDAwMDc2N2UwZjY3ZmNjOGM2N2FmZDUwY2Y4MGI4ZDg5ZWEz`

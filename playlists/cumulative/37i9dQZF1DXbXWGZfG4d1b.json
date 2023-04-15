@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184186,
       "name": "Bailando tristes",
       "url": "https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi"
@@ -5901,6 +5901,28 @@
     },
     {
       "album": {
+        "name": "plantado",
+        "url": "https://open.spotify.com/album/33553eMrX4qPmRfGgE7vuD"
+      },
+      "artists": [
+        {
+          "name": "Linxes",
+          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+        },
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "plantado",
+      "url": "https://open.spotify.com/track/42te8o72SAgVeUHoaH8vL9"
+    },
+    {
+      "album": {
         "name": "Savia Roja",
         "url": "https://open.spotify.com/album/56QgvZNpKS8L7sVkDQyfYW"
       },
@@ -6436,7 +6458,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
@@ -7510,6 +7532,32 @@
       "duration_ms": 283000,
       "name": "Un Recuerdo",
       "url": "https://open.spotify.com/track/1q06uH13BsX1S7xW7FAjlQ"
+    },
+    {
+      "album": {
+        "name": "Un Sencillo de Nadia",
+        "url": "https://open.spotify.com/album/0tzNeL1YRoC2Rzd0mBwRaF"
+      },
+      "artists": [
+        {
+          "name": "Nadia Sandrone",
+          "url": "https://open.spotify.com/artist/2G5QfSxYMNMRYPMWGi492n"
+        },
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        },
+        {
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Un Sencillo de Nadia",
+      "url": "https://open.spotify.com/track/41up2ORs1QRWXUb4wMllIR"
     },
     {
       "album": {

@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 282758,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
@@ -1452,6 +1452,28 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "album": {

@@ -17070,7 +17070,7 @@
     {
       "album": {
         "name": "Exotico",
-        "url": "https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1"
+        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
       },
       "artists": [
         {
@@ -17081,6 +17081,24 @@
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Oval Stones",
+      "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
+    },
+    {
+      "album": {
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
       "duration_ms": 213053,
       "name": "Oval Stones",
       "url": "https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg"

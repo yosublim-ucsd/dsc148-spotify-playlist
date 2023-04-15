@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Habstrakt
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,503 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,592 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

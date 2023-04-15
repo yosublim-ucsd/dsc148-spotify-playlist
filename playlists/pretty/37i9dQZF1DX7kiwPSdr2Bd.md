@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,545 likes - 75 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,659 likes - 75 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 28 | [Me Deixe Aqui / Tudo Entregarei \- Ao Vivo](https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Me Deixe Aqui / Tudo Entregarei \(Ao Vivo\)](https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh) | 4:53 |
 | 29 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
 | 30 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 |
-| 31 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
-| 32 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
-| 33 | [Avance](https://open.spotify.com/track/4efYWPmwlxShjrp1uXkElp) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Avance](https://open.spotify.com/album/5Yi8GuK4Y9ej7BPgdcjyfV) | 3:34 |
+| 31 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
+| 32 | [Avance](https://open.spotify.com/track/4efYWPmwlxShjrp1uXkElp) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Avance](https://open.spotify.com/album/5Yi8GuK4Y9ej7BPgdcjyfV) | 3:34 |
+| 33 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
 | 34 | [Rei do Meu Coração](https://open.spotify.com/track/2LsPqdB1cWSVXxRQ5cKweN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rei do Meu Coração](https://open.spotify.com/album/3QhGWtEFA3VAwtgflnLLyT) | 6:00 |
 | 35 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
 | 36 | [Maranata](https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 5:25 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 67 | [É Só Confiar](https://open.spotify.com/track/2vDrTSizC2J4bCxaCtMIog) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [É Só Confiar](https://open.spotify.com/album/5hUg2ux7AJQ5dGVt5eWdrG) | 5:05 |
 | 68 | [100% Homem, 100% Deus \- Ao Vivo](https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [100% Homem, 100% Deus \(Ao Vivo\)](https://open.spotify.com/album/6LHyXTUDHlGbrfbFuOl2HT) | 4:34 |
 | 69 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 |
-| 70 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 |
+| 70 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 71 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 72 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 |
 | 73 | [Vida Aos Sepulcros \- Ao Vivo](https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23) | 5:51 |
 | 74 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 75 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 |
 
-Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDE0ODQ5N2FmNDRjYzE0MjMyYThhZDc3MTRjOWIyOWI5`
+Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDhlMTc4ZDNiOTgxNmY3NTBmOGQ5ZDI2YzcxODMzMjdl`

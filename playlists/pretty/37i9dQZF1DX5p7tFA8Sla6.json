@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47047,
+  "num_followers": 47071,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDU2ODI1NTc5MTcxY2NiZmM4NDA0Njk4ODk4MmY1NmMx",
+  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMGI0ODk2MTE0MTFlYzNlNjRiMTBlM2FhNTc4YjZlZjRm",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -43,22 +43,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 208893,
       "name": "Brick House",
       "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -179,22 +179,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Come Get It! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -231,22 +215,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Zapp",
         "url": "https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY"
       },
@@ -259,6 +227,38 @@
       "duration_ms": 311120,
       "name": "More Bounce to the Ounce",
       "url": "https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Come Get It! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -327,22 +327,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 482720,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
         "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "The Best of Delegation",
-        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
       },
       "artists": [
         {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 269640,
-      "name": "Put a Little Love On Me",
-      "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
+      "duration_ms": 482720,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -387,6 +371,22 @@
       "duration_ms": 258502,
       "name": "Do It",
       "url": "https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "The Best of Delegation",
+        "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Put a Little Love On Me",
+      "url": "https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back In The Day: The Best Of Bootsy",
-        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "Bootzilla",
-      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Back In The Day: The Best Of Bootsy",
+        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "Bootzilla",
+      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -859,22 +859,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 365200,
-      "name": "Highly Compatible",
-      "url": "https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Commodores: The Definitive Collection",
         "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Yes We Can Can",
-        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
         }
       ],
-      "duration_ms": 362733,
-      "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
+      "duration_ms": 365200,
+      "name": "Highly Compatible",
+      "url": "https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -923,6 +907,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Yes We Can Can",
+        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 362733,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Dirty Mind",
         "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 285506,
       "name": "Head",
       "url": "https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Bedrock",
-        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
-      },
-      "artists": [
-        {
-          "name": "Diggin' Dirt",
-          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
-        }
-      ],
-      "duration_ms": 351953,
-      "name": "Leather Tramp",
-      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
     },
     {
       "added_at": "2019-09-20 18:17:51",
@@ -971,6 +955,22 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Bedrock",
+        "url": "https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb"
+      },
+      "artists": [
+        {
+          "name": "Diggin' Dirt",
+          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
+        }
+      ],
+      "duration_ms": 351953,
+      "name": "Leather Tramp",
+      "url": "https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
-      },
-      "artists": [
-        {
-          "name": "Electro Deluxe",
-          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
-        }
-      ],
-      "duration_ms": 271054,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Back to the Funkture",
         "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
       },
@@ -1499,22 +1483,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
       },
@@ -1527,6 +1495,38 @@
       "duration_ms": 212026,
       "name": "Got Me Funked Up",
       "url": "https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
+      },
+      "artists": [
+        {
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+        }
+      ],
+      "duration_ms": 271054,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
-      },
-      "artists": [
-        {
-          "name": "Garth.",
-          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
-        },
-        {
-          "name": "Mammal Dap",
-          "url": "https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq"
-        }
-      ],
-      "duration_ms": 212065,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
+      },
+      "artists": [
+        {
+          "name": "Garth.",
+          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
+        },
+        {
+          "name": "Mammal Dap",
+          "url": "https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq"
+        }
+      ],
+      "duration_ms": 212065,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
     },
     {
       "added_at": "2019-08-22 14:26:16",

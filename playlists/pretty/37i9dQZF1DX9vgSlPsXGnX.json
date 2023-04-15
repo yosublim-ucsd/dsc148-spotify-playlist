@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 50925,
+  "num_followers": 51011,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDg3MzFiNDkwODM2ODI5OGE4M2M1YmZmZDMzNjcwYTRh",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDI2ZTUyY2Y5M2I1ZDRjY2NmYzkyZWE4MjdiMjFlZjQ5",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Boleros In Tr\u00edo",
-        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "La Gloria Eres T\u00fa",
-      "url": "https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 118933,
       "name": "Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Boleros In Tr\u00edo",
+        "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Como un Lunar",
+      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
       },
       "artists": [
         {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Como un Lunar",
-      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
+      "duration_ms": 180840,
+      "name": "Cha Cha Linda",
+      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -767,22 +783,6 @@
       "duration_ms": 178493,
       "name": "Aunque Me Cueste la Vida",
       "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Cha Cha Linda",
-      "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los Tecolines: Bolero Romantico",
         "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
       "artists": [
         {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
         }
       ],
-      "duration_ms": 126600,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
+      "duration_ms": 159746,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg"
     },
     {
       "added_at": "2021-12-26 12:28:38",

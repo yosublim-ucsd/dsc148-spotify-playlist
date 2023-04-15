@@ -353,6 +353,32 @@
     },
     {
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/2lkjKKKGAvbn2tjuVa2ToS"
+      },
+      "artists": [
+        {
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
+        },
+        {
+          "name": "Kristen Sangary",
+          "url": "https://open.spotify.com/artist/4LNYMNdDRDYKIB9rk8gY8K"
+        },
+        {
+          "name": "SUNGOLD",
+          "url": "https://open.spotify.com/artist/2hUpzJumCMeLzXdxnxkZ6E"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187479,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/1b4w6eVd2oGYjIDZx737P7"
+    },
+    {
+      "album": {
         "name": "Better Way",
         "url": "https://open.spotify.com/album/3QNdshOw44scd7yYfU1dTM"
       },

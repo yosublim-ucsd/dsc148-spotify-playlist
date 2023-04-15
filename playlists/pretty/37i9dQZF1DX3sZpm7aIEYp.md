@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sZpm7aIEYp.md) - [plain]
 
 > Keep calm & keep control with <a href="spotify:artist:3BkRu2TGd2I1uBxZKddfg1">ARTBAT</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,337 likes - 10 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,368 likes - 10 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

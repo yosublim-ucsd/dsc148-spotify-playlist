@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-425 songs - 19 hr 4 min
+427 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Beat Wave](https://open.spotify.com/track/0K07LFH3vL8cNkEo1iMfok) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Beat Wave](https://open.spotify.com/album/6W0wlThNv1BAiNqsWaxnQg) | 2:48 | 2022-04-05 | 2023-04-07 |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2021-11-10 |  |
 | [bebop](https://open.spotify.com/track/6AObdVuHnUIIzIhMcqnwpJ) | [spillled](https://open.spotify.com/artist/7bFTVLhRQhzZLbplSwtXrH) | [bebop](https://open.spotify.com/album/2n3WEaU2WnR71PIYc1uNPu) | 1:55 | 2021-11-10 | 2022-05-27 |
+| [Before The Storm](https://open.spotify.com/track/58fOflL9ipGFss8PbqskqJ) | [Ambrosia Light](https://open.spotify.com/artist/2y4IqtX8oi7CED9jr6LaPm) | [Before The Storm](https://open.spotify.com/album/22yCqIau4Vod9Y8TCx3bMz) | 2:10 | 2023-04-14 |  |
 | [Better Vibes](https://open.spotify.com/track/0o7EZM7Pjx1h5fe4rjL3UU) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Better Vibes](https://open.spotify.com/album/5K7yAtX3yp0ijNeMjI14BQ) | 3:33 | 2021-11-10 | 2022-10-07 |
 | [Blank Canvas](https://open.spotify.com/track/5DFV8QllfkIoItVL6vP4AN) | [Sumatra](https://open.spotify.com/artist/358fPKxfDbEwh6OEeU1Xql) | [Blank Canvas](https://open.spotify.com/album/6m7gfBQ2rLZflxv6lyGFcS) | 2:42 | 2021-11-10 | 2022-04-06 |
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-10 | 2022-07-08 |
@@ -138,6 +139,7 @@
 | [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 | 2022-10-14 |
 | [Flowers](https://open.spotify.com/track/1DCK1OSYbuD0y6UiKihULg) | [Paraceta](https://open.spotify.com/artist/4WOcTt3WS2TuaWc5yMcBFw) | [Flowers](https://open.spotify.com/album/0CHTY7ocNOvM1bMyM9Cos0) | 2:16 | 2023-01-06 |  |
 | [Flutters](https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:39 | 2022-06-17 |  |
+| [fly away](https://open.spotify.com/track/51srHVilMntmFnywwVVVOU) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [fly away](https://open.spotify.com/album/09f24SbWyHCIGvJIbIBJsR) | 2:18 | 2023-04-14 |  |
 | [Focused Projections](https://open.spotify.com/track/1W2z4uJzZuA0r0MDQWJvex) | [Tom Kalani](https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc) | [Clusters](https://open.spotify.com/album/7mPBccYXc1Wkx45EGsN0ir) | 3:25 | 2021-11-10 | 2022-07-08 |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2021-11-10 | 2023-04-07 |
 | [Food on the table](https://open.spotify.com/track/19eavXNLdFLjVnWdRfcBjJ) | [DUSTBIT3](https://open.spotify.com/artist/1jE3T1962cupRT6IJnHaJa) | [Food on the table](https://open.spotify.com/album/2ZlPeXO9ZxaTofcPbXLM5B) | 2:46 | 2022-06-17 | 2023-02-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/6qValgleME8pv861DLzupQ?si=nvlh7w9gTVGZjd2RzPFP2A\">Adoraci\u00f3n La IBI</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=2a330c8d57304a57\">Majo y Dan</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 266481,
       "name": "Alabo a Yahweh - En Vivo",
       "url": "https://open.spotify.com/track/6ENLv8K1USfk30SZhDEyW1"
@@ -1388,6 +1388,24 @@
       "duration_ms": 212125,
       "name": "Con Qu\u00e9 Pagar\u00e9?",
       "url": "https://open.spotify.com/track/2LKYoKY35J9bd69QLbGOoG"
+    },
+    {
+      "album": {
+        "name": "Lugar Secreto (En Vivo)",
+        "url": "https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns"
+      },
+      "artists": [
+        {
+          "name": "New Wine",
+          "url": "https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Conf\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt"
     },
     {
       "album": {
@@ -3179,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Grande Como El Cielo",
+        "url": "https://open.spotify.com/album/6wJARHYepBIKNbFFfiPFpl"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184547,
+      "name": "Grande Como El Cielo",
+      "url": "https://open.spotify.com/track/40NxV30GjlEjNK52Z40Dnq"
+    },
+    {
+      "album": {
         "name": "Grasa",
         "url": "https://open.spotify.com/album/0vrIWNJOBQ3BG7NQblMXOU"
       },
@@ -4500,7 +4536,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 292891,
       "name": "Mi Proceso - (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/7kS9xabaX3a5qVsA5w5vQZ"
@@ -5226,7 +5262,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 310775,
       "name": "No yo, sino Cristo",
       "url": "https://open.spotify.com/track/7s6zVg1x8HPprD36GB642Z"
@@ -6621,6 +6657,28 @@
     },
     {
       "album": {
+        "name": "Solo Cristo",
+        "url": "https://open.spotify.com/album/46R5v469YpWp9PXAnGOxpk"
+      },
+      "artists": [
+        {
+          "name": "Titus Naveja",
+          "url": "https://open.spotify.com/artist/3UkozH5W5OVm6KrpEbvDQQ"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315979,
+      "name": "Solo Cristo",
+      "url": "https://open.spotify.com/track/5mWLbn5NBU5uhVJrYGdWRT"
+    },
+    {
+      "album": {
         "name": "Mirar\u00e9 al Rey",
         "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
       },
@@ -6774,7 +6832,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 279097,
       "name": "Soy M\u00e1s Que Vencedor",
       "url": "https://open.spotify.com/track/41T7JkWXIqYuP95nEPXc6K"
@@ -7289,6 +7347,24 @@
     },
     {
       "album": {
+        "name": "Tu Autoridad",
+        "url": "https://open.spotify.com/album/40MFlVfN4uVqGzDWKF4xhl"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Tu Autoridad",
+      "url": "https://open.spotify.com/track/0ciNudJhfiMWE48PBGW0zB"
+    },
+    {
+      "album": {
         "name": "Tu Bondad",
         "url": "https://open.spotify.com/album/6czX5yPQCPYjFp7QU0eoqU"
       },
@@ -7432,7 +7508,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
@@ -7568,7 +7644,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 288374,
       "name": "T\u00fa est\u00e1s aqu\u00ed",
       "url": "https://open.spotify.com/track/5x2ctFVuKno0VyRvNwOz3u"
@@ -7590,6 +7666,28 @@
       "duration_ms": 216129,
       "name": "T\u00fa Lo Har\u00e1s",
       "url": "https://open.spotify.com/track/1oINgWWXQfjPfLaUJexmPd"
+    },
+    {
+      "album": {
+        "name": "T\u00fa proveer\u00e1s",
+        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
     },
     {
       "album": {
@@ -8130,7 +8228,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 574106,
       "name": "Yo Te Amo - Live",
       "url": "https://open.spotify.com/track/0vOMQ15k14fORfW5Q7f3gb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,862 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,865 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 5 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 |
 | 6 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 |
 | 7 | [Venezuela](https://open.spotify.com/track/0ZnMzSoVfqDRzXgagCOlKZ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Rave Radio](https://open.spotify.com/artist/7JrHNXd3zMD7xTFFhvnoyN) | [Venezuela](https://open.spotify.com/album/3acHknTBxqObDuCc4IMbu9) | 2:36 |
-| 8 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
-| 9 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 |
+| 8 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 |
+| 9 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
 | 10 | [Viento](https://open.spotify.com/track/0p34Y0tZFOvG3UpZQizOzv) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ) | [Viento](https://open.spotify.com/album/5MoTqDolgs1exn9oq0Cyyl) | 3:48 |
 | 11 | [Sway \(Mucho Mambo\)](https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Sway \(Mucho Mambo\)](https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr) | 2:39 |
 | 12 | [Mi Casa](https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 2:47 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 17 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 |
 | 18 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 |
 | 19 | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4) | 3:29 |
-| 20 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 |
-| 21 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 20 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 21 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 |
 | 22 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 |
 | 23 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
 | 24 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 | 50 | [Felicidad \- Colombian Mix](https://open.spotify.com/track/179w55cexITAFHwisxwRaE) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Felicidad \(Colombian Mix\)](https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF) | 5:55 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDNmMDRmMzZkZDYwMGMyYmQ4NWFkNDZiNWViZWU5ODI4`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDc5MmI0ZjU1MmNlMWM4NTc0NzI5OTAzMmJhZTQ0ZjM0`

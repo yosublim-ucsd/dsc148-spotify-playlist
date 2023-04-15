@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL">Christina Shusho</a>
 
-74 songs - 7 hr 45 min
+76 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Kama Si Wewe](https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Kama Si Wewe](https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf) | 4:57 | 2022-06-24 |  |
 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 | 2022-06-24 |  |
 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 | 2022-06-24 |  |
-| [Kiu Yangu](https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siku Mpya New Day](https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV) | 5:00 | 2022-06-24 |  |
+| [Kiu Yangu](https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siku Mpya New Day](https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV) | 5:00 | 2022-06-24 | 2023-04-15 |
+| [Love Is](https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is](https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc) | 3:20 | 2023-04-14 |  |
 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 | 2022-06-24 |  |
 | [Mifupani](https://open.spotify.com/track/4Ls6DToql6xu7jkEnCnuod) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust](https://open.spotify.com/album/7GX4V7LPwYaDJ1XXTXL1e4) | 4:13 | 2022-06-24 |  |
 | [Mifupani](https://open.spotify.com/track/0C2cGCNAmY64HF7qI4Km1r) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust \- EP](https://open.spotify.com/album/7n7K6yc1AkF1aX7ONFSbBC) | 4:13 | 2022-06-24 | 2023-03-26 |
@@ -57,7 +58,8 @@
 | [Niumbie Moyo Safi](https://open.spotify.com/track/43Bg1g38MwANRmhK8leUSq) | [Pastor Anthony Musembi](https://open.spotify.com/artist/5lkExVL0geY5mktCw5h69O) | [Ahadi Za Bwana](https://open.spotify.com/album/4aw7CJ3tySMMSWXWZOd5h7) | 7:47 | 2022-06-24 |  |
 | [Niwe Ngwenda](https://open.spotify.com/track/57chzVhBuTUqixdfALG5ft) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 5:20 | 2022-06-24 |  |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 |  |
-| [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 | 2022-06-24 |  |
+| [Rohoni Na Mwilini](https://open.spotify.com/track/3cAQfJwO74Hi99h8Lsw6CF) | [Bale John](https://open.spotify.com/artist/6Zm45YPCRDAbBGVdbDuYn6) | [Utukufu](https://open.spotify.com/album/7i58BRlxIRqKipoGXudPUc) | 5:49 | 2022-06-24 | 2023-04-15 |
+| [Salama](https://open.spotify.com/track/0FD62g19MnyK9ZBXLOsogP) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Salama](https://open.spotify.com/album/1SGn3WiqZbUaIybmhL5x7a) | 3:47 | 2023-04-14 |  |
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |

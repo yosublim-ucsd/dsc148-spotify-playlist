@@ -3461,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "War Pigs",
+        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309888,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
+    },
+    {
+      "album": {
         "name": "System Of A Down",
         "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,588 likes - 232 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,770 likes - 232 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 231 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
 | 232 | [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDMzNjc0ZTVlZjQyYzY1YzhjNWY0NzFjZjJhYjFmMzc2`
+Snapshot ID: `MTY4MTQ2NjUyMywwMDAwMDAwMGE2M2JjMWNkZWEwMWRlZDNlNmUxNGVkMzllMGY5NzM2`

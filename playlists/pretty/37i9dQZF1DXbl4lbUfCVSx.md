@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,078 likes - 40 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,091 likes - 40 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 17 | [Pa Leve Main Ou Sou Li](https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V) | [System Band](https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU) | [Nan Building Nan](https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu) | 5:23 |
 | 18 | [Kilot](https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Kilot](https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl) | 5:09 |
 | 19 | [Ma Cherie Je T'aime](https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [Resan](https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG) | 5:07 |
-| 20 | [Move chwa](https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR) | [K\-Dans](https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx) | [Bagay Yo Chanje!](https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS) | 5:19 |
-| 21 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
+| 20 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
+| 21 | [Move chwa](https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR) | [K\-Dans](https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx) | [Bagay Yo Chanje!](https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS) | 5:19 |
 | 22 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
 | 23 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
 | 24 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 32 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [Kai](https://open.spotify.com/artist/7B6Ajzkbv8vuRUJfOZE9GH), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
 | 33 | [Zouk\-La\-Se Sel Medikaman Nou Ni](https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 |
 | 34 | [Biznis pam](https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH) | [Djakout Mizik](https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe) | [Zouk soirée privée \(Danse avec moi\)](https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR) | 6:34 |
-| 35 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
-| 36 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
+| 35 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 |
+| 36 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
 | 37 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 | 38 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 39 | [Pa kite'm \- Djazz Dj'aa](https://open.spotify.com/track/6QpPY9WVrobfQM7pU4TdFB) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Olivier Duret](https://open.spotify.com/artist/4Lo1kP4n9FjjG8bDmOl2zB) | [Pa kite'm \(Djazz Dj'aa\)](https://open.spotify.com/album/7lmLIlwmKZfUmPFxWZY3kc) | 5:35 |
 | 40 | [What About Tomorrow](https://open.spotify.com/track/1r3NNzzdvjnVS6UEEe6tVk) | [Nu\-Look](https://open.spotify.com/artist/3GHVlKRurzupQYaoB5x9uB) | [I Got This](https://open.spotify.com/album/3RayyqJSPC8S0YGJQUqCAl) | 6:28 |
 
-Snapshot ID: `MTU5MTIwODI2NSwwMDAwMDAwMGFjNTE4MDg2NzBmN2VjMjZhYWJjZjExZjVhZjcyYzVi`
+Snapshot ID: `MTU5MTIwODI2NSwwMDAwMDAwMDRmMDdmNTQzZjFlZjFjNDBlNzJmZTNhMjUyZDE2Y2E4`

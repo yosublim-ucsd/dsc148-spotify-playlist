@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Ariel & The Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,763 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,767 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 23 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
 | 24 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
 | 25 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
-| 26 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 |
-| 27 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 |
+| 26 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 |
+| 27 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 |
 | 28 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 29 | [Sensei](https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sensei](https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X) | 2:54 |
 | 30 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 53 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
 | 54 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 |
 | 55 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 |
-| 56 | [Tatuaje](https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Tatuaje](https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X) | 3:06 |
-| 57 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
+| 56 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
+| 57 | [Tatuaje](https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Tatuaje](https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X) | 3:06 |
 | 58 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
 | 59 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
 | 60 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 |
 
-Snapshot ID: `MTY4MTQwMTQwNiwwMDAwMDAwMDQ3Njg0Yzk4ZmRiYjIxNzM2MWMyNDk4YzhjZDc1MTcz`
+Snapshot ID: `MTY4MTQwMTQwNiwwMDAwMDAwMDkzYmYxM2MzMWIwOTQ3ZjNmYTdhOWVhZjlhMmIxZTM0`

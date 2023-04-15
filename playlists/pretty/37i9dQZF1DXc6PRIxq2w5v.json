@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
-  "num_followers": 111841,
+  "num_followers": 111997,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGFhMjc5ZWFlNjRlODE5YjZmYjEzNDM2ODNhZDI2N2Qz",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDgwMGE0Y2Q0MjQ0YzgzNzA1NDFiOWQzMzFmYWI5MGZi",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "O Pai Espera Voc\u00ea Voltar",
-        "url": "https://open.spotify.com/album/4BEKkCNmiA6bFIY7BxgIZN"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "O Pai Espera Voc\u00ea Voltar",
-      "url": "https://open.spotify.com/track/6dlL6wopzZIaF0232y6ZOI"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Joquebede",
         "url": "https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 169306,
       "name": "Joquebede",
       "url": "https://open.spotify.com/track/7tSI0qlhyFJ4Ji9ksuMdth"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "O Pai Espera Voc\u00ea Voltar",
+        "url": "https://open.spotify.com/album/4BEKkCNmiA6bFIY7BxgIZN"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "O Pai Espera Voc\u00ea Voltar",
+      "url": "https://open.spotify.com/track/6dlL6wopzZIaF0232y6ZOI"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -383,22 +383,26 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Chamada Perdida",
-        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
+        "name": "Fatos & Fatos",
+        "url": "https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Chamada Perdida",
-      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
+      "duration_ms": 184324,
+      "name": "Fatos & Fatos",
+      "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -443,26 +447,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Fatos & Fatos",
-        "url": "https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh"
+        "name": "Chamada Perdida",
+        "url": "https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         },
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
         }
       ],
-      "duration_ms": 184324,
-      "name": "Fatos & Fatos",
-      "url": "https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY"
+      "duration_ms": 158500,
+      "name": "Chamada Perdida",
+      "url": "https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Pedra",
         "url": "https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w"
       },
@@ -615,30 +599,6 @@
       "duration_ms": 113941,
       "name": "Casa de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0gEu711kUN1VYRleEe2n0p"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00edque Ribeiro",
-          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
-        },
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 220279,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -683,6 +643,46 @@
       "duration_ms": 143530,
       "name": "Rei",
       "url": "https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00edque Ribeiro",
+          "url": "https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7"
+        },
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 220279,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 160062,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Alto",
         "url": "https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco"
       },
@@ -831,22 +815,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Estou de P\u00e9 (feat. Wesley Camilo, Cl\u00e9ber Ao Cubo, Biorki, J\u00e9ssica Augusto & Andr\u00e9 Mota)",
         "url": "https://open.spotify.com/album/4adVexlX4XXVgGa7Yglio8"
       },
@@ -883,18 +851,34 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "N\u00e3o Se Trata de Mim",
-        "url": "https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y"
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
       },
       "artists": [
         {
-          "name": "Emithir",
-          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         }
       ],
-      "duration_ms": 197671,
-      "name": "N\u00e3o Se Trata de Mim",
-      "url": "https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2"
+      "duration_ms": 160062,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -923,18 +907,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Imersum",
-        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+        "name": "N\u00e3o Se Trata de Mim",
+        "url": "https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y"
       },
       "artists": [
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Emithir",
+          "url": "https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb"
         }
       ],
-      "duration_ms": 170788,
-      "name": "Imersum",
-      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
+      "duration_ms": 197671,
+      "name": "N\u00e3o Se Trata de Mim",
+      "url": "https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 79459,
       "name": "Wow",
       "url": "https://open.spotify.com/track/3Nmj5IKVbneuuUGRGHYMzZ"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Imersum",
+        "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Imersum",
+      "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -975,26 +975,6 @@
       "duration_ms": 130369,
       "name": "Mulher de F\u00e9",
       "url": "https://open.spotify.com/track/1gTlbwHRrkbZNUsJcxME1i"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
-      },
-      "artists": [
-        {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
-        },
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1031,6 +1011,26 @@
       "duration_ms": 294703,
       "name": "Ele \u00c9 Deus Em Mim",
       "url": "https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1179,26 +1179,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Deserto",
-        "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
+        "name": "Aben\u00e7oado D+ / 0800",
+        "url": "https://open.spotify.com/album/4dnB84B6bKXyI4wjOGQNLj"
       },
       "artists": [
         {
           "name": "MN MC",
           "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        },
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Christian Beaver",
-          "url": "https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
+      "duration_ms": 143641,
+      "name": "Aben\u00e7oado D+ / 0800",
+      "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1331,50 +1323,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Sou Aben\u00e7oado",
-        "url": "https://open.spotify.com/album/5OfpdJ366fJ7oUmL7XOPec"
-      },
-      "artists": [
-        {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
-        },
-        {
-          "name": "Kenedy Gomes",
-          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 230156,
-      "name": "Sou Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Eu Era Servo",
-        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "Eu Era Servo",
-      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "\u00c1rea de Risco",
         "url": "https://open.spotify.com/album/5vNi3Rmt1e8tyy75ggIBhq"
       },
@@ -1399,18 +1347,70 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Aben\u00e7oado D+ / 0800",
-        "url": "https://open.spotify.com/album/4dnB84B6bKXyI4wjOGQNLj"
+        "name": "Eu Era Servo",
+        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "Eu Era Servo",
+      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Sou Aben\u00e7oado",
+        "url": "https://open.spotify.com/album/5OfpdJ366fJ7oUmL7XOPec"
+      },
+      "artists": [
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "Kenedy Gomes",
+          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 230156,
+      "name": "Sou Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/0B7JWUdjwrp7KrKBIHc1w4"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
       },
       "artists": [
         {
           "name": "MN MC",
           "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        },
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Christian Beaver",
+          "url": "https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB"
         }
       ],
-      "duration_ms": 143641,
-      "name": "Aben\u00e7oado D+ / 0800",
-      "url": "https://open.spotify.com/track/1tw4oZRBzjfiPI55BJjnE4"
+      "duration_ms": 209142,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/4RAeUonVKVHJVosv2j0eyU"
     },
     {
       "added_at": "2023-03-24 03:00:00",

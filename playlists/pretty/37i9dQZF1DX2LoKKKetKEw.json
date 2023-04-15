@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 40143,
+  "num_followers": 40280,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDg3ZTZmZmQzNDRkMjhmZTRkNzEyMTdiZjE5NzI0Mjc2",
+  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMGM2YmRhZTRmYjkyMDkyOGM5ODliNTIwZjNmNmZhMTM1",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -287,6 +287,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        },
+        {
+          "name": "Amanda Kono",
+          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -311,26 +331,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "No Other",
-        "url": "https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hylton",
-          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
-        },
-        {
-          "name": "Amanda Kono",
-          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf"
       },
@@ -351,8 +351,8 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+        "name": "Oh the day",
+        "url": "https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+      "duration_ms": 157335,
+      "name": "Oh the day",
+      "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -467,8 +467,8 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Oh the day",
-        "url": "https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc"
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
       "artists": [
         {
@@ -476,29 +476,9 @@
           "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 157335,
-      "name": "Oh the day",
-      "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
-      },
-      "artists": [
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 145278,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -519,6 +499,26 @@
       "duration_ms": 175333,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 145278,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Mercy (Sho Mo)",
-        "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Mercy (Sho Mo)",
-      "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 224000,
       "name": "On God",
       "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Mercy (Sho Mo)",
+        "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Mercy (Sho Mo)",
+      "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Unguilty Pleasure",
+        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "Unguilty Pleasure",
+      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 138710,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "YOUR MIND",
-        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "YOUR MIND",
-      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "YOUR MIND",
+        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "YOUR MIND",
+      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Shalaye",
         "url": "https://open.spotify.com/album/6oG5GAz0pv16zRyuHahRGw"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 169142,
       "name": "Shalaye",
       "url": "https://open.spotify.com/track/2I2nI93M7QVN0cg8CStNzr"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Unguilty Pleasure",
-        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 193398,
-      "name": "Unguilty Pleasure",
-      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
-      },
-      "artists": [
-        {
-          "name": "Paul Rarity",
-          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Keep You",
         "url": "https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 171333,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
+      },
+      "artists": [
+        {
+          "name": "Paul Rarity",
+          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "GOD'S LOVE",
         "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 137064,
       "name": "GOD'S LOVE",
       "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Lotta Things",
-        "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
-      },
-      "artists": [
-        {
-          "name": "Paul the Messenger",
-          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Lotta Things",
-      "url": "https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 206181,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Lotta Things",
+        "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
+      },
+      "artists": [
+        {
+          "name": "Paul the Messenger",
+          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Lotta Things",
+      "url": "https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1391,6 +1391,30 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
       },
@@ -1431,22 +1455,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
-      },
-      "artists": [
-        {
-          "name": "SESS",
-          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Shining",
         "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
       },
@@ -1467,42 +1475,34 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
       },
       "artists": [
         {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+          "name": "SESS",
+          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
         }
       ],
-      "duration_ms": 321428,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
+      "duration_ms": 155530,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
     },
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
+        "name": "Yakpa",
+        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
       },
       "artists": [
         {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "O'Tobi",
-          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
-        },
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
         }
       ],
-      "duration_ms": 176788,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
+      "duration_ms": 163369,
+      "name": "Yakpa",
+      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Yakpa",
-        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
         }
       ],
-      "duration_ms": 163369,
-      "name": "Yakpa",
-      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
+      "duration_ms": 321428,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
     },
     {
       "added_at": "2023-02-10 10:09:36",

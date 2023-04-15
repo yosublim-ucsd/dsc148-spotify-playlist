@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 389173,
+  "num_followers": 389196,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMDVkYTVhMDhiNzhjNTMwM2VjYjA3NzE0ZmM1MTJhYmQw",
+  "snapshot_id": "MTY2MzkyMDc1OCwwMDAwMDAwMDVhYzI5MGEyNjgzMDc2MWQyMGUzMDA3OTA0MTg5Yzc1",
   "tracks": [
     {
       "added_at": "2022-09-23 08:12:38",
@@ -519,26 +519,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Peer Pressure",
-      "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Dear August",
         "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
@@ -559,18 +539,22 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Bathing Beach",
-        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 273106,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+      "duration_ms": 176826,
+      "name": "Peer Pressure",
+      "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -587,6 +571,22 @@
       "duration_ms": 233880,
       "name": "Light On",
       "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Bathing Beach",
+        "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 163547,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 163547,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Rush (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/5uwgv6t86N0WpA0IxtFkFn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 198351,
       "name": "Rush (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/7tTRP2vA00uScZ4SjB3ZQZ"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 200661,
-      "name": "Let Me Love You Like A Woman",
-      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 200661,
+      "name": "Let Me Love You Like A Woman",
+      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
         "name": "A Little Bit Yours",
         "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 181178,
-      "name": "Hopeless Romantic",
-      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 197178,
       "name": "Lost On You",
       "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 181178,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+      "duration_ms": 229282,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Grown-ish",
-        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 186732,
-      "name": "Black Converse",
-      "url": "https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD"
+      "duration_ms": 225893,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1259,18 +1259,34 @@
     {
       "added_at": "2022-09-23 08:12:38",
       "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
+        "name": "Grown-ish",
+        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 229282,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
+      "duration_ms": 186732,
+      "name": "Black Converse",
+      "url": "https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD"
+    },
+    {
+      "added_at": "2022-09-23 08:12:38",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
     },
     {
       "added_at": "2022-09-23 08:12:38",
@@ -1291,22 +1307,6 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
-    },
-    {
-      "added_at": "2022-09-23 08:12:38",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
     },
     {
       "added_at": "2022-09-23 08:12:38",

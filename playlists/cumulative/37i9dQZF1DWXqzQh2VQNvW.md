@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-242 songs - 12 hr 32 min
+245 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,15 @@
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-07-11 | 2022-12-10 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-01-25 | 2023-03-04 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-07-11 |  |
+| [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 | 2023-04-14 |  |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2022-01-25 | 2022-04-09 |
 | [Easy](https://open.spotify.com/track/0TGIw5lMfCjMhFZN7z43uk) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Easy](https://open.spotify.com/album/3LgYJcq5rLlKX8lJUKnqQa) | 2:24 | 2022-07-25 |  |
 | [Electric](https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Electric](https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt) | 2:37 | 2022-07-11 | 2022-09-06 |
 | [EMPATHY](https://open.spotify.com/track/5csiTZbWuNHlU6kkqElpad) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7dwjYiomQezxXA6Gwd0fUE) | 3:15 | 2022-10-14 | 2022-10-22 |
 | [EMPATHY](https://open.spotify.com/track/7Mg30M7Yt6EBV7sN00Xr9k) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7A66n9P2h3Cfbuh5YZDNqZ) | 3:15 | 2022-01-25 | 2022-10-16 |
-| [Escape](https://open.spotify.com/track/0mn426FxVilDODhgiAkdd2) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Escape](https://open.spotify.com/album/1TzBxAR9oIbrfW9bjl3n7w) | 3:02 | 2022-04-08 |  |
-| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-12-09 |  |
+| [Escape](https://open.spotify.com/track/0mn426FxVilDODhgiAkdd2) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Escape](https://open.spotify.com/album/1TzBxAR9oIbrfW9bjl3n7w) | 3:02 | 2022-04-08 | 2023-04-15 |
+| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-12-09 | 2023-04-15 |
+| [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-14 |  |
 | [ex i never had](https://open.spotify.com/track/1NAyq9TrQIpLHWStUX4xAQ) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 3:21 | 2022-01-25 | 2023-03-04 |
 | [F2020](https://open.spotify.com/track/3HZuxQ80VWOsBWws8XQdFB) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [F2020](https://open.spotify.com/album/0bwBpa7inaWZChPEOnVTIk) | 3:01 | 2022-01-25 | 2022-07-09 |
 | [Facetime](https://open.spotify.com/track/3yXe8o61TRW5iSkq2BloyN) | [Broderick Jones](https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK) | [Facetime](https://open.spotify.com/album/2UTVRpVGSJUwqIQenvmDV7) | 3:21 | 2022-01-25 | 2022-03-18 |
@@ -158,7 +160,7 @@
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-11-11 | 2022-12-10 |
 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-16 |  |
 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 |  |
-| [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2022-01-25 |  |
+| [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2022-01-25 | 2023-04-15 |
 | [Nighttime Routine](https://open.spotify.com/track/2KgwVET4EKMAXGkQUGR6lF) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Nighttime Routine](https://open.spotify.com/album/6h5PaMV7R6ItjrEXtC3Yxc) | 3:10 | 2023-03-03 |  |
 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-03 |  |
 | [NO EXES](https://open.spotify.com/track/20hscPaq1dRsF43LI27gWS) | [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [NO EXES](https://open.spotify.com/album/23Cu6yShu6qOrJIqLxpFtn) | 2:33 | 2022-10-14 |  |
@@ -223,6 +225,7 @@
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-03-18 |  |
 | [Teenage Mind](https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Teenage Mind](https://open.spotify.com/album/37QVZrBFuo9PSLz6boslFw) | 2:35 | 2022-01-25 | 2022-07-12 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-16 |  |
+| [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 | 2023-04-14 |  |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-11-11 |  |
 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2022-01-25 | 2022-07-12 |
 | [The Bakery](https://open.spotify.com/track/3JUeBSM4bsJGwYCVRqMeuC) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [After School EP](https://open.spotify.com/album/75sm9IEmN01J5MsyZr4Cw1) | 2:34 | 2022-01-25 | 2022-07-12 |

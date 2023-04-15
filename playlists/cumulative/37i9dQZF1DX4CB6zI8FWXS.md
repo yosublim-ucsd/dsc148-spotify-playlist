@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-104 songs - 5 hr 37 min
+105 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-30 |  |
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-03-16 |  |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-16 |  |
+| [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 | 2023-04-13 |  |
 | [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-16 |  |
 | [Don't Lie \(feat\. Kuami Eugene\)](https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Just to Piss You Off](https://open.spotify.com/album/0XNCCyLb6fd11oeufnTI8Q) | 2:50 | 2023-03-23 | 2023-03-31 |
 | [Enough for Love](https://open.spotify.com/track/5ipyh2SML7XT0dfj38ln2w) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Enough For Love](https://open.spotify.com/album/43f412bly0VRYkVEbEehG3) | 4:25 | 2023-03-16 |  |

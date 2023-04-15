@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222573,
       "name": "Antes del Lunes",
       "url": "https://open.spotify.com/track/6yVGk00COgjDJbHELkO109"
@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 223133,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA"
@@ -5342,6 +5360,24 @@
       "duration_ms": 220986,
       "name": "Tu Veneno",
       "url": "https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp"
+    },
+    {
+      "album": {
+        "name": "Game over (Bachata\u2019s Most Wanted)",
+        "url": "https://open.spotify.com/album/3hZ9IfqBn0Vi2tDfv2Bs6h"
+      },
+      "artists": [
+        {
+          "name": "Esme",
+          "url": "https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201110,
+      "name": "Tu Y Yo",
+      "url": "https://open.spotify.com/track/5xVLmPSxDOMCrSJdhomxUQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Grigoré
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,196 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,318 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-721 songs - 1 day 15 hr 28 min
+722 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [midas touch](https://open.spotify.com/track/6JSzRKHhX0LrxA3DJUW8uS) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [midas touch](https://open.spotify.com/album/14UFYSTQgKQ9uAQ5XtWORW) | 3:12 | 2022-06-17 | 2022-07-29 |
 | [Midnight Sadness](https://open.spotify.com/track/6d9P9mgBNZFytbTl9ZuEgL) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd), [WISNER](https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L) | [Midnight Sadness](https://open.spotify.com/album/0B6fFmVrMW8TIl8rjNw5ou) | 2:09 | 2022-11-22 | 2023-02-22 |
 | [Midnight Sadness](https://open.spotify.com/track/33K5gIHX0vvTbO4A2VV2TP) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b), [WISNER](https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:09 | 2022-09-22 |  |
+| [Midnight Sadness 2.0 \(with broke\)](https://open.spotify.com/track/7cKqzTQ5wplwB6in21EadH) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [WISNER](https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L) | [Midnight Sadness 2.0 \(with broke\)](https://open.spotify.com/album/0DWR54JOFjzO8JWAW4oxDF) | 2:09 | 2023-04-14 |  |
 | [Mirrors \- Juelz Remix](https://open.spotify.com/track/5N7SiJthGxZwlmNHQXS5r0) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Fear \(The Remixes\)](https://open.spotify.com/album/4mf2DXx8ap2fliFDyYKleT) | 2:49 | 2022-01-14 | 2022-09-15 |
 | [Miss You](https://open.spotify.com/track/40n6KTKKkqbQcJg51YfnGj) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Wendy](https://open.spotify.com/album/2T01qdLuJvuHx63KgdIAfR) | 2:35 | 2023-01-13 |  |
 | [Mixed Emotions](https://open.spotify.com/track/48xtaMsWbLfX8aDNzfcRqM) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 4:27 | 2022-12-16 | 2022-12-27 |

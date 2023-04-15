@@ -4,7 +4,7 @@
 
 > With Le'Andria Johnson, Daryl Coley, LaShun Pace and more
 
-315 songs - 23 hr 41 min
+316 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Colors Change](https://open.spotify.com/track/4JucD3snJp6H00i5JRPqTD) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Green Balloon](https://open.spotify.com/album/4T9MbbBF5YuCU7T2bkOjTl) | 6:21 | 2023-03-18 | 2023-04-02 |
 | [Come Ye Disconsolate](https://open.spotify.com/track/53hI2E4KnHEwrn4laNVeEw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 4:52 | 2023-03-18 | 2023-03-20 |
 | [Count Your Blessings](https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 5:27 | 2023-03-22 | 2023-04-12 |
+| [Cry In Church](https://open.spotify.com/track/3ZvppnEuY6a0AFdPTBk7uK) | [Fabian Rudolph](https://open.spotify.com/artist/71YlLkw4u3Cc3sokTaKEu2) | [Miss You](https://open.spotify.com/album/15FGTBeq7FV8zLciYD4udN) | 2:18 | 2023-04-15 |  |
 | [Cry Today, Smile Tomorrow](https://open.spotify.com/track/4Kdrh94mxxZ27bzHUknV6f) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Cry Today, Smile Tomorrow](https://open.spotify.com/album/3s3H5SFIOfJPuKDfYXYXzh) | 4:22 | 2023-03-31 | 2023-04-12 |
 | [Cycles \(feat\. DOE\)](https://open.spotify.com/track/45paZz7nZelWkwGlZcuiEX) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:16 | 2023-03-20 | 2023-04-10 |
 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Goshen](https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e) | 5:44 | 2023-04-01 | 2023-04-02 |
@@ -150,7 +151,7 @@
 | [It Belongs To Me \(feat\. Marvin L\. Winans\)](https://open.spotify.com/track/6uY12z9dd3ySOiaaMrqoQH) | [Juan & Lisa Winans](https://open.spotify.com/artist/6IbvUS8g8T51jqIYak16A1), [Marvin L\. Winans](https://open.spotify.com/artist/3hjybWRzcos3v8ooD8hETy) | [It Belongs To Me \(feat\. Marvin L\. Winans\)](https://open.spotify.com/album/4sqT1eOcL5rvxVwIUCxK6Z) | 5:59 | 2023-03-29 | 2023-03-30 |
 | [It's All In The Worship](https://open.spotify.com/track/7CLwhGARPJHLobduuM3wGO) | [Bam Crawford's Purpose](https://open.spotify.com/artist/6nmSvSdjRWr7lRXz5d1oaJ) | [The King Is Coming Any Day](https://open.spotify.com/album/3Vvs43FUvzNfqNCMhW7fuZ) | 4:03 | 2023-04-12 |  |
 | [It's Alright](https://open.spotify.com/track/3tHIYPR7c30pHyvq7cqNUz) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [I Trust In You](https://open.spotify.com/album/61z0fHige5YtQ4mzct9GyP) | 3:16 | 2023-04-12 |  |
-| [It's in Jesus](https://open.spotify.com/track/3Jx03tVctQUhfCDGwQqR3P) | [Donnie Harper & New Jersey Mass](https://open.spotify.com/artist/46deE0EeElcUJnie4dMH6g) | [Hope of the World](https://open.spotify.com/album/2BT7UEAdEFnZpH8OgC4rl2) | 4:41 | 2023-04-14 |  |
+| [It's in Jesus](https://open.spotify.com/track/3Jx03tVctQUhfCDGwQqR3P) | [Donnie Harper & New Jersey Mass](https://open.spotify.com/artist/46deE0EeElcUJnie4dMH6g) | [Hope of the World](https://open.spotify.com/album/2BT7UEAdEFnZpH8OgC4rl2) | 4:41 | 2023-04-14 | 2023-04-15 |
 | [It’s Simply Worship \- Mold Me](https://open.spotify.com/track/7JwGAsEl9Uu1cloJtkZkMT) | [Marie Galloway](https://open.spotify.com/artist/7fB4onrl2FgrPkSW5eOXZp) | [It’s Simply Worship \- Mold Me](https://open.spotify.com/album/3zW5A5abgS6t6D6fPDIr8w) | 4:52 | 2023-04-12 |  |
 | [I’m Coming ‘Round](https://open.spotify.com/track/7urcCRdmnA8rPrluhyXAld) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 4:35 | 2023-03-18 | 2023-03-20 |
 | [J.E.S.U.S.](https://open.spotify.com/track/6vLiXLsPjfOiuJMNE8t7FG) | [Livre'](https://open.spotify.com/artist/6V4u8pTdkzXVJjAwG1KHzD) | [JERICHO: Tribe of Joshua](https://open.spotify.com/album/5CQLpkNCFJVJMNDyEjYXqj) | 4:55 | 2023-03-21 | 2023-03-22 |

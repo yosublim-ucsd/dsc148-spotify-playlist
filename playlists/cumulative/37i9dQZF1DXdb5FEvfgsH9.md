@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-108 songs - 6 hr 40 min
+109 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-07-26 | 2022-10-15 |
 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-07-26 |  |
 | [Audrey Tell Me](https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl) | 4:14 | 2021-07-26 |  |
+| [Back to School](https://open.spotify.com/track/5qUdaHRGN3n9yBfJwtjkKb) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Back to School](https://open.spotify.com/album/3Yy2lKiKtm4o2N9ZUCJzY5) | 2:58 | 2023-04-14 |  |
 | [Basement Fonk](https://open.spotify.com/track/4KRcIBZEAen2jCt6OJEEoG) | [Azmito](https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ), [Nicofasho](https://open.spotify.com/artist/4tWV1lOUGf5jTcgqNjDZQi), [Vade One](https://open.spotify.com/artist/4rPB8o4SyEa6cNCIzUBvU7), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Basement Fonk](https://open.spotify.com/album/76SkVpRwhBm3hpg9rzzV6u) | 3:36 | 2021-10-29 |  |
 | [BHAD NUWZ](https://open.spotify.com/track/63WAs3ozlAFSOinuYsM2eO) | [Meter Mobb](https://open.spotify.com/artist/46BNHwKFXtqbecdsfVbIU6) | [BHAD NUWZ](https://open.spotify.com/album/1sIVO1RBkeMR7g21gtxRag) | 3:33 | 2022-07-01 |  |
 | [Blue](https://open.spotify.com/track/2uXcCHlMq7Yh4sOlO2fcKl) | [Skunkhour](https://open.spotify.com/artist/6zKENpFrMgdaWF87sfnmWF) | [Blue](https://open.spotify.com/album/1BIUv1KClJRa3lIJ4E1DEX) | 4:02 | 2022-09-23 |  |

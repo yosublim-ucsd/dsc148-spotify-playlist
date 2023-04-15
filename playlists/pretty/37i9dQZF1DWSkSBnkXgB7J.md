@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,878 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,892 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 35 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 |
 | 36 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
 | 37 | [Taab El Senin](https://open.spotify.com/track/7bqDLf3GTAjWh2WtYO3S6j) | [Hany Mouner](https://open.spotify.com/artist/0FVUKs8fpQXUoc9nP2sl6E) | [تعب السنين](https://open.spotify.com/album/2JoIZjj1iPXKwCevK48qK7) | 4:30 |
-| 38 | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/track/2CGwAtvjAvC5gjSqg70pm1) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/album/0fZa8i60neztf1sbWw81x5) | 2:44 |
+| 38 | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/track/2CGwAtvjAvC5gjSqg70pm1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/album/0fZa8i60neztf1sbWw81x5) | 2:44 |
 | 39 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 |
 | 40 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 |
 | 41 | [FAWDA](https://open.spotify.com/track/5WxlfJ1bzFVP2keqmQnMTC) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [FAWDA](https://open.spotify.com/album/2sKwWuqZcp3yjmVgrNBhAx) | 3:20 |

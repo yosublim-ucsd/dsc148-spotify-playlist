@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,599 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,653 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 39 | [All of This Beauty](https://open.spotify.com/track/2O8sRSDqT68vda5AAo2lnt) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [All of This Beauty](https://open.spotify.com/album/7yE7ljWZBxRbVPhcoWv9ja) | 2:08 |
 | 40 | [Come On Down](https://open.spotify.com/track/2ImyWYZT3UsHcVrUuEZ55p) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Come On Down](https://open.spotify.com/album/3pPt5DMKO6G6rYC8hsKTDX) | 3:22 |
 | 41 | [Digital Game Time](https://open.spotify.com/track/758Ndjv1rycBx1wvrz909k) | [Cam Cool](https://open.spotify.com/artist/3suMIzyPYmZsVVIhYKTjjx) | [Camp Cool](https://open.spotify.com/album/3nd5cH8l7vUXU16mAZaHkN) | 4:16 |
-| 42 | [Birthright](https://open.spotify.com/track/5zzj3Zhdu5CJW8B9Q41HPn) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Birthright](https://open.spotify.com/album/4sLhDDf6wLURdRLk8feDVY) | 3:11 |
+| 42 | [Birthright](https://open.spotify.com/track/0f59bTNnPUgWYfVj0ma3n4) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Thief](https://open.spotify.com/album/0SycnUm3SW1wk0Ro1p8Vnc) | 3:11 |
 | 43 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
 | 44 | [Dog or Baby](https://open.spotify.com/track/2OxIWC9FjaZueYWAfA0YAF) | [Emma Frank](https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O) | [Dog or Baby](https://open.spotify.com/album/6RvD4WoxEhhhEEXPOyZu7J) | 3:21 |
 | 45 | [Wild Wind](https://open.spotify.com/track/72EbGRAdgdlTcn3vNGfqgG) | [Joey Hendricks](https://open.spotify.com/artist/3QhaBtqxJgyreg7CO1wjCV) | [Wild Wind](https://open.spotify.com/album/20BjnjLcpcDGhxTyzg9Ipz) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
 | 100 | [Jesus Christ](https://open.spotify.com/track/1FHqLxctCO6J96ULx0lK2F) | [Matilda Marigolds](https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr) | [Jesus Christ](https://open.spotify.com/album/28QSE6vaNRA2ZkRK5luNhq) | 5:19 |
 
-Snapshot ID: `MTY4MTMxNDAxMSwwMDAwMDAwMGEzYmFhNDMxODBjNWEzNjhkYjE5ODE0NWNlOGQyNGI5`
+Snapshot ID: `MTY4MTMxNDAxMSwwMDAwMDAwMGYwN2JmYzcwZjM1MzI5NjZhNThlMTQ0ZTQzNDNkMjBl`

@@ -1,15 +1,15 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Luis R Conriquez & Nicky Jam ",
-  "num_followers": 20744,
+  "num_followers": 20763,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5OTM3NiwwMDAwMDAwMDk5MjQ4OWMyMjYyOTU5YmU2NmEwZDUyMjJkNjQ1NThj",
+  "snapshot_id": "MTY4MDg5OTM3NiwwMDAwMDAwMDY3NDliN2UwMzBmMDUzOGUxNmU4ZGFjYTg5MjdkNTk4",
   "tracks": [
     {
-      "added_at": "2023-04-14 01:31:28",
+      "added_at": "2023-04-15 00:46:58",
       "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-03-24 07:01:54",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2023-03-24 07:01:54",
-      "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "added_at": "2023-03-24 07:01:54",
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2023-03-24 07:01:54",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-03-24 07:01:54",
       "album": {
-        "name": "T\u00fa Me Gustas",
-        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 206956,
-      "name": "T\u00fa Me Gustas",
-      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
-    },
-    {
-      "added_at": "2023-03-24 07:01:54",
-      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+    },
+    {
+      "added_at": "2023-03-24 07:01:54",
+      "album": {
+        "name": "T\u00fa Me Gustas",
+        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 206956,
+      "name": "T\u00fa Me Gustas",
+      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
     },
     {
       "added_at": "2023-03-24 07:01:54",
@@ -952,7 +952,7 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],

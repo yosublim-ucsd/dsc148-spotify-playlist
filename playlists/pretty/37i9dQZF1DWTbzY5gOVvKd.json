@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1170330,
+  "num_followers": 1170522,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM3MDQwOSwwMDAwMDAwMDQyYzYxNmIyZTU4NDhlZTRmY2NkYjQ1ZGQwYTNlOTI1",
+  "snapshot_id": "MTY4MTM3MDQwOSwwMDAwMDAwMDQ3MzhmZjNkYzc0MzVhM2ZlNGM2OTY0NTI2NzJkMjIz",
   "tracks": [
     {
       "added_at": "2023-04-13 07:20:09",
@@ -163,22 +163,18 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        },
-        {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 182508,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -199,18 +195,22 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        },
+        {
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
         }
       ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
+      "duration_ms": 182508,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+    },
+    {
+      "added_at": "2023-04-13 07:20:09",
+      "album": {
         "name": "OK Crooner",
         "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
       },
@@ -767,38 +783,6 @@
       "duration_ms": 192000,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
-    },
-    {
-      "added_at": "2023-04-13 07:20:09",
-      "album": {
-        "name": "Love For Sale (Deluxe)",
-        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
-    },
-    {
-      "added_at": "2023-04-13 07:20:09",
-      "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -827,6 +811,22 @@
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0DHyfTHCTvbeVJyXIzVhlq"
+    },
+    {
+      "added_at": "2023-04-13 07:20:09",
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+        "name": "Nat \"King\" Cole & Me",
+        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -911,18 +911,34 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
-        "name": "Nat \"King\" Cole & Me",
-        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 128520,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+    },
+    {
+      "added_at": "2023-04-13 07:20:09",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -943,22 +959,6 @@
       "duration_ms": 234446,
       "name": "Sweet Pumpkin",
       "url": "https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P"
-    },
-    {
-      "added_at": "2023-04-13 07:20:09",
-      "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
+    },
+    {
+      "added_at": "2023-04-13 07:20:09",
+      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 276013,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
-    },
-    {
-      "added_at": "2023-04-13 07:20:09",
-      "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
     },
     {
       "added_at": "2023-04-13 07:20:09",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-04-13 07:20:09",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
+    },
+    {
+      "added_at": "2023-04-13 07:20:09",
+      "album": {
         "name": "Partners",
         "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 250293,
       "name": "Come Rain or Come Shine (with John Mayer)",
       "url": "https://open.spotify.com/track/2d02A2eoTYHOnI162zeAKQ"
-    },
-    {
-      "added_at": "2023-04-13 07:20:09",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2023-04-13 07:20:09",

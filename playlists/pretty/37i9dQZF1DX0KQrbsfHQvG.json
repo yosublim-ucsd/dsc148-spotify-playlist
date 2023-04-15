@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 174308,
+  "num_followers": 174370,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDdkMTljYjY0N2EyZTYzM2NlMTc0Yzk0MGE5YWUyYTc3",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGQ2OTFhZTQ1OTM3OGE4NDk5NzBjZDIwZjNjM2NkODQ0",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "duration_ms": 189742,
+      "name": "(The First Stone) Changes [feat. Yelawolf]",
+      "url": "https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 193770,
       "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
       "url": "https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        }
-      ],
-      "duration_ms": 189742,
-      "name": "(The First Stone) Changes [feat. Yelawolf]",
-      "url": "https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM"
     },
     {
       "added_at": "2022-11-04 04:00:00",

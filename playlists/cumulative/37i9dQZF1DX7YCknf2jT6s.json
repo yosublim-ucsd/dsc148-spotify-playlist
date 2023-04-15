@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Brandee Younger",
+  "description": "New jazz for open minds. Cover: Hamilton de Holanda",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 188759,
       "name": "A New Spring",
       "url": "https://open.spotify.com/track/6es33v3qMlugLD03v72UIX"
@@ -788,6 +788,32 @@
       "duration_ms": 344812,
       "name": "All the Things You Are (feat. Mark Turner)",
       "url": "https://open.spotify.com/track/1sj18gBQAKZ8onvZx0awSw"
+    },
+    {
+      "album": {
+        "name": "All Twelve",
+        "url": "https://open.spotify.com/album/0FW8a4vabb2b1WpPDlt6Er"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marilyn Crispell",
+          "url": "https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD"
+        },
+        {
+          "name": "Carmen Castaldi",
+          "url": "https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276680,
+      "name": "All Twelve",
+      "url": "https://open.spotify.com/track/1NnOOixQv5YJnlR7lCsbrr"
     },
     {
       "album": {
@@ -2306,7 +2332,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218880,
       "name": "BLUE GIANT - \u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
@@ -2714,6 +2740,28 @@
       "duration_ms": 264360,
       "name": "Captured Time",
       "url": "https://open.spotify.com/track/4n4uG6LLOH4xab3V7fbrO7"
+    },
+    {
+      "album": {
+        "name": "Catching Drift",
+        "url": "https://open.spotify.com/album/1rdKuOU69ambZDS4utl3jM"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428493,
+      "name": "Catching Drift",
+      "url": "https://open.spotify.com/track/3IOo4OpLgkqrhGKqY1Fmsx"
     },
     {
       "album": {
@@ -3527,6 +3575,32 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4Uxcp6o39l7T2JikYVjLOL"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171830,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2JFT2hMLN4Fiv49wGS8uK3"
+    },
+    {
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/4M8V2iShVVJhfnnrshqAuf"
       },
@@ -3710,7 +3784,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 224666,
       "name": "Didn't You",
       "url": "https://open.spotify.com/track/51RS0cE9EwwWCS3ii2KVxD"
@@ -4735,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287992,
+      "name": "Everything Is Going to Be OK",
+      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+    },
+    {
+      "album": {
         "name": "Evolution (Tiny Room Sessions)",
         "url": "https://open.spotify.com/album/1ALQl57rAZsEfYAO8T23Y9"
       },
@@ -5221,6 +5313,32 @@
     },
     {
       "album": {
+        "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
+        "url": "https://open.spotify.com/album/4RqK5murOrvju4Lel65EzG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Thiago Rabello",
+          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
+        },
+        {
+          "name": "Salom\u00e3o Soares",
+          "url": "https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273388,
+      "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
+      "url": "https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX"
+    },
+    {
+      "album": {
         "name": "For Fun, You Scroll",
         "url": "https://open.spotify.com/album/2n9ltvpPY0s77s08gzDuJF"
       },
@@ -5236,6 +5354,24 @@
       "duration_ms": 39515,
       "name": "For Fun, You Scroll",
       "url": "https://open.spotify.com/track/7zABidxslxZcJyOZF9pEuy"
+    },
+    {
+      "album": {
+        "name": "For Horace",
+        "url": "https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "For Horace",
+      "url": "https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX"
     },
     {
       "album": {
@@ -6164,7 +6300,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 308433,
       "name": "Hearing Is Seeing",
       "url": "https://open.spotify.com/track/3SdmWOusKGgMIPJ1KPRHfW"
@@ -7032,7 +7168,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 272160,
       "name": "If There Are Mountains",
       "url": "https://open.spotify.com/track/1hsCejjZ7lVYAOx99EbNYX"
@@ -9252,12 +9388,12 @@
           "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
         },
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        },
-        {
           "name": "Theo Croker",
           "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
       "date_added": "2023-03-31",
@@ -9482,7 +9618,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 646800,
       "name": "Mbira / Stingaloon - Live",
       "url": "https://open.spotify.com/track/4EYfqSd4vRcShvWvN8v2HP"
@@ -11118,7 +11254,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 394346,
       "name": "Our Daily Bread",
       "url": "https://open.spotify.com/track/1d6deQhkxvcn8xSv1FpK3B"
@@ -11230,7 +11366,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 349036,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD"
@@ -16101,6 +16237,48 @@
     },
     {
       "album": {
+        "name": "There Is This Thing",
+        "url": "https://open.spotify.com/album/3FBl5DxTxTUf4bp5jFModn"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+        },
+        {
+          "name": "DJ Harrison",
+          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
+        },
+        {
+          "name": "R4nd4zzo",
+          "url": "https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA"
+        },
+        {
+          "name": "Jacob Ungerleider",
+          "url": "https://open.spotify.com/artist/0gWUlc0yGrgfEwLjd8HXtV"
+        },
+        {
+          "name": "Sean Durkin",
+          "url": "https://open.spotify.com/artist/6hFK4m2w08Uy9AfrRBwxJm"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219782,
+      "name": "There Is This Thing",
+      "url": "https://open.spotify.com/track/6Dd2qLs8ElSYBRJdZbUARM"
+    },
+    {
+      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1beCKoEjJcFKjXy72TNRes"
       },
@@ -17182,7 +17360,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 518557,
       "name": "Virgo (feat. Brandee Younger, Julius Rodriguez)",
       "url": "https://open.spotify.com/track/6sN7bFaMaaIU986NPHqlor"
@@ -17208,6 +17386,32 @@
       "duration_ms": 194000,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/0233KhoroEHU9pgyMoUyp3"
+    },
+    {
+      "album": {
+        "name": "Vuma (feat. Thandiswa, Joel Ross)",
+        "url": "https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Vuma (feat. Thandiswa, Joel Ross)",
+      "url": "https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw"
     },
     {
       "album": {
@@ -18284,6 +18488,28 @@
       "duration_ms": 308600,
       "name": "Youth",
       "url": "https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1"
+    },
+    {
+      "album": {
+        "name": "Off-Piste",
+        "url": "https://open.spotify.com/album/0gxTsSlEsWib1zKa5lZs71"
+      },
+      "artists": [
+        {
+          "name": "Greg Foat",
+          "url": "https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0"
+        },
+        {
+          "name": "Art Themen",
+          "url": "https://open.spotify.com/artist/44ocyaoesOgc5KjTR3D2Ob"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288157,
+      "name": "Yrsno",
+      "url": "https://open.spotify.com/track/7ffCbWaSiRRxBRtBLyiH1L"
     },
     {
       "album": {

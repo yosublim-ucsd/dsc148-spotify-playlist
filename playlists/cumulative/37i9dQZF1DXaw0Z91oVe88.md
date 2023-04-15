@@ -124,7 +124,7 @@
 | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/track/56cdOy3BkffwpENEg14leP) | [MangoPhalt](https://open.spotify.com/artist/2fMerCXa5JGcB8JNm5TfYN) | [망고팔트 \#1 / 비야 내려라](https://open.spotify.com/album/4Nx37N6XGK64vsy9Lgfhu8) | 4:07 | 2022-06-20 | 2022-07-28 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-18 |  |
 | [설명서 Guidebook](https://open.spotify.com/track/7gJoFABLxuCaR4Quf7N73a) | [Yoil](https://open.spotify.com/artist/7pBCd2Utn0stcoyugrAc2t) | [설명서 Guidebook](https://open.spotify.com/album/1d9tXvTXaG6ylDvoFIf2yL) | 3:49 | 2022-06-20 | 2022-06-29 |
-| [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 | 2023-03-27 |  |
-| [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 | 2022-09-05 | 2023-01-11 |
+| [폭우 Downpour](https://open.spotify.com/track/6id7v3U3p9TYA7KwCZyvAZ) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [폭우 Downpour](https://open.spotify.com/album/4SIYlL5PAg5Q497mt5DaEG) | 2:56 | 2023-03-27 | 2023-04-15 |
+| [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 | 2022-09-05 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

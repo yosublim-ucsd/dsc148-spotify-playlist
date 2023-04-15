@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:3uikSah4dwqwuk0EidFI4R”>Caitlyn Smith</a>
 
-858 songs - 1 day 22 hr 26 min
+859 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2021-12-01 | 2022-01-06 |
 | [Ain't Got Time For Hate](https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:18 | 2023-03-01 | 2023-04-06 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-04-06 | 2022-05-05 |
+| [Alaska](https://open.spotify.com/track/7KxQVpurQMcFdZzqRoFceH) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High & Low](https://open.spotify.com/album/3aHniWCq391zmVHUc7zBew) | 3:16 | 2023-04-14 |  |
 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 | 2023-02-01 | 2023-03-02 |
 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 | 2022-09-07 | 2022-10-06 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-08-03 | 2022-09-09 |
@@ -44,7 +45,7 @@
 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-10-05 | 2022-11-03 |
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-07-06 | 2022-08-04 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-04-05 |  |
-| [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 | 2023-04-05 |  |
+| [All the Things You'd Ruin](https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv) | 2:46 | 2023-04-05 | 2023-04-15 |
 | [Already Crazy](https://open.spotify.com/track/4IoZV0Lbu90FCgIxo2MDM3) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Already Crazy](https://open.spotify.com/album/7sw2yYFMArOmlXs1wHdTo0) | 3:19 | 2023-01-04 | 2023-02-02 |
 | [Alright](https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Alright](https://open.spotify.com/album/2xawjrCCEKSTSxOg6VkPe9) | 3:22 | 2023-02-01 | 2023-03-02 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2022-09-07 | 2022-10-06 |

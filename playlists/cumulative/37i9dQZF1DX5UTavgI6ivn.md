@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Feid
 
-172 songs - 9 hr 43 min
+173 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Más Fuerte](https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:04 | 2022-07-08 |  |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-03-04 | 2022-10-29 |
 | [Nada](https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Nada](https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne) | 2:54 | 2022-01-12 |  |
+| [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2023-04-14 |  |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-03-04 | 2023-02-25 |
 | [Niño Soñador](https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Niño Soñador](https://open.spotify.com/album/2Ng7X89Y4M7gxNMABtyij0) | 3:02 | 2022-03-04 | 2022-04-29 |
 | [No Es Justo](https://open.spotify.com/track/1RTlTuLOdnmgbe11ynwR7c) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [No Es Justo](https://open.spotify.com/album/3CjbO5ZFF7fPc3XFxONAE6) | 4:11 | 2022-01-12 |  |
@@ -136,7 +137,7 @@
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2022-01-12 |  |
 | [Qué Pena](https://open.spotify.com/track/5099x34vBakWpGkHourFxP) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Qué Pena](https://open.spotify.com/album/1Db95k6t4rCPHSmdfsTeDl) | 3:32 | 2022-01-12 |  |
 | [Q´Hubo Bebé](https://open.spotify.com/track/2TPWn36SvcFXT2lEfEvm0p) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Q´Hubo Bebé](https://open.spotify.com/album/5mENGsx78U8fn1xigykmwj) | 3:00 | 2022-05-27 | 2023-02-11 |
-| [Rara](https://open.spotify.com/track/58c299NMWH1asn2ISIpivs) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rara](https://open.spotify.com/album/0SxFRrk8ceiqrFag2K3EbI) | 3:46 | 2023-03-31 |  |
+| [Rara](https://open.spotify.com/track/58c299NMWH1asn2ISIpivs) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rara](https://open.spotify.com/album/0SxFRrk8ceiqrFag2K3EbI) | 3:46 | 2023-03-31 | 2023-04-15 |
 | [Rebelión](https://open.spotify.com/track/102UCB50ltvB7X7JeUbqNm) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Alacran Records](https://open.spotify.com/artist/4wntooRTuvapbOnY6fgAcv) | [Rebelión](https://open.spotify.com/album/6mtwe0M6HGV6EEpIn2pkY3) | 3:14 | 2022-10-28 | 2023-03-18 |
 | [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-03-17 |  |
 | [Resucitar](https://open.spotify.com/track/6InfpQJkkETSIXRyUb5JkA) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Resucitar](https://open.spotify.com/album/6oXaxJnA9nzwDvFWHVZ2rD) | 3:09 | 2022-01-12 | 2022-02-03 |

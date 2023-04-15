@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 123990,
+  "num_followers": 124316,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMDNiODRkNjI1MTAwNDU2MWI4NjFhMGEwMzM2MmRiOWMy",
+  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMDM2MDU4Yzg4ZDhlMThhMmYzNTk4N2E3N2QyMTViYWY2",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Diary (2009 Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 184293,
       "name": "Son Of Sam",
       "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Diary (2009 Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Songs of Faith and Devotion (2006 Remaster)",
-        "url": "https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "I Feel You - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Cure for Pain",
         "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Songs of Faith and Devotion (2006 Remaster)",
+        "url": "https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "I Feel You - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy"
     },
     {
       "added_at": "2023-01-10 19:08:23",

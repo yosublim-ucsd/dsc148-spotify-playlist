@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-122 songs - 12 hr 29 min
+123 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Known Unknowns \(Live\)](https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Known Unknowns \(Live\)](https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG) | 6:04 | 2023-03-03 |  |
 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 | 2020-10-30 |  |
 | [Let Me Love You Baby \- Live](https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Let Me Love You Baby \(Live\)](https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR) | 5:35 | 2020-10-30 | 2022-07-29 |
-| [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 | 2020-10-30 |  |
+| [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 | 2020-10-30 | 2023-04-15 |
 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 6:53 | 2021-06-11 |  |
 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/5vjFiCBjqqVV2CJj8fJYJt) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Little Wing \(Live at LOCKN' / 2019\)](https://open.spotify.com/album/03rUt9AiKYNGCOQ9zA0g4k) | 6:53 | 2021-06-11 | 2022-07-29 |
 | [Lonesome Whistle Blues \- Live](https://open.spotify.com/track/75QEITVgnbtUomK27erkds) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:21 | 2020-10-30 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [Texas Flood \- Live at Ripley's Music Hall, Philadelphia, PA, Oct\. 20, 1983](https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 10:00 | 2020-10-30 |  |
 | [The Healing \- Live](https://open.spotify.com/track/6dw30khcpmcf4Uw4KZqETY) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Healing \(Live\)](https://open.spotify.com/album/3mwKeJxKHxB0BRVK4AYgtb) | 5:38 | 2020-10-30 | 2022-07-29 |
 | [The Healing \- Live](https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Live North America 2016](https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN) | 5:38 | 2020-10-30 |  |
+| [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 | 2023-04-14 |  |
 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Loyal Kind \(Live\)](https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk) | 6:34 | 2023-02-03 |  |
 | [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 | 2022-11-04 | 2023-04-11 |
 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 | 2020-10-30 |  |

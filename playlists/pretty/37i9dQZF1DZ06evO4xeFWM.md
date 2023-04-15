@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,232 likes - 52 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,290 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [Eight Hours](https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Tyde](https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:28 |
 | 52 | [The Waves](https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:00 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA3MzhmM2ZiZDI2N2UwODE0MWQwNzViOGVhODRmYTY4Mg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmNDg4MTFiMWU3OTViZGYzNGE2ZTVmZWNmNzI1MWVjYw==`

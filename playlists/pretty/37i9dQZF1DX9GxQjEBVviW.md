@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,693 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,774 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 24 | [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 |
 | 25 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 26 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
-| 27 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
-| 28 | [Why Do Fools Fall In Love?](https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Milestones of "The" Legends \- Boy Groups, Vol\. 8](https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd) | 2:18 |
+| 27 | [Why Do Fools Fall In Love?](https://open.spotify.com/track/1Lw3f4kieVLzwPPItlO4bS) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [Milestones of "The" Legends \- Boy Groups, Vol\. 8](https://open.spotify.com/album/5vHNocVGT5hVdYlAPaXQZd) | 2:18 |
+| 28 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
 | 29 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
 | 30 | [Whispering Bells](https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5), [Krips Johnson](https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:24 |
 | 31 | [Goin' Out Of My Head](https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Goin' Out Of My Head](https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Hey Senorita](https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 1:46 |
 | 50 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
 
-Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMGM5OTE5YzRiZTZkMDEzMjUxZWUwZDZlMTk3OWVhMTdm`
+Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDJlOWU0NjAyMmNhMmRjZTAwNDVjNmMxYmY4NmE1Nzdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,788 likes - 80 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,821 likes - 80 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 5 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 |
 | 6 | [Mystery \- Tale Of Us & Mathame Remix](https://open.spotify.com/track/3fdXEMBTjHNJ5Bug5c7rZi) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nude Remixes](https://open.spotify.com/album/13V7SBTiEGttVK8zwqd2tr) | 7:04 |
 | 7 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
-| 8 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
-| 9 | [Mind Doodles](https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Mind Doodles](https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI) | 6:41 |
+| 8 | [Mind Doodles](https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x), [Alec Troniq](https://open.spotify.com/artist/7gY2UGpmfLNKfezQPuG7Hx) | [Mind Doodles](https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI) | 6:41 |
+| 9 | [Poly](https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 2:18 |
 | 10 | [Singularity](https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:01 |
 | 11 | [Apolune](https://open.spotify.com/track/1M3ldz0gop7cJeEWUuJCfe) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Aviator](https://open.spotify.com/album/0ZASLQCInYYMLkoK0VcHtL) | 6:42 |
 | 12 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 |
 | 80 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDJkM2ZiOGY4MTY2ZjlkNTJhZTkyZmI2ZDZlMGQ5ODU0`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGE5YWViZDEyNjIxNjBiOWE5MjlkNTI2NDJiODg5NjM3`

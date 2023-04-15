@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-241 songs - 14 hr 13 min
+242 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Better Place](https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 2:56 | 2022-02-11 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-11-05 |  |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-07-31 |  |
+| [Blue Dress](https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:08 | 2023-04-14 |  |
 | [Boxes](https://open.spotify.com/track/0fz7chmZCjFLLwW8n1g1DZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes](https://open.spotify.com/album/322ibWsVZQuqlXPtyMWOZM) | 2:48 | 2021-11-05 | 2022-07-29 |
 | [Caroline](https://open.spotify.com/track/7FTtz6C2lhpUHAZxMd1XcG) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Caroline](https://open.spotify.com/album/1VOogKF0JFYVcfDPcxoESS) | 4:30 | 2021-11-05 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-24 |  |
@@ -106,7 +107,7 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-24 |  |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-07-22 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2022-04-19 | 2022-05-17 |
-| [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-11 | 2023-04-12 |
+| [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-11 |  |
 | [if i were u \(with Lauv\)](https://open.spotify.com/track/0CF1RH8dQKuK2lQPSQw2lZ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [if i were u \(with Lauv\)](https://open.spotify.com/album/52smeiovut2Hhkja6x992D) | 3:06 | 2022-04-19 | 2022-04-21 |
 | [if I were u \(with Lauv\)](https://open.spotify.com/track/2ttGfRawDPWlkAoXxP5Z72) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:06 | 2022-07-22 | 2022-08-27 |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/02WKfyVrzC4AMKvPRokJra) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hold It Together](https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9) | 3:31 | 2021-11-05 | 2022-07-28 |
@@ -121,7 +122,7 @@
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-11-05 |  |
 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 | 2021-11-05 |  |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2021-11-05 |  |
-| [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-31 |  |
+| [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-31 | 2023-04-15 |
 | [Lady Like](https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/3l0QTUgr0CKXgpQb9PAdmH) | 3:14 | 2021-11-05 | 2022-03-19 |
 | [Leave A Light](https://open.spotify.com/track/5P0i0asekeb0hCEPCi2R5n) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [This Wild Willing](https://open.spotify.com/album/25b6LhJVwyvEEPLtyuCvJy) | 4:25 | 2022-04-19 | 2022-04-24 |
 | [Life Goes On](https://open.spotify.com/track/7HbKIvZWeJPD6JmxQymOZ8) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Life Goes On](https://open.spotify.com/album/5XCwUCcCM9fw79tU9Ga1BV) | 3:21 | 2021-11-05 | 2022-03-19 |
@@ -188,7 +189,7 @@
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2021-11-05 |  |
 | [Small Talk](https://open.spotify.com/track/1HkB10b5D1tb0fSb1QsOvD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 2:46 | 2022-07-22 |  |
 | [Small Talk](https://open.spotify.com/track/75lEWH0oMtWdHQ3DkfHWTy) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/7cbcg2z1LuCJ2rxAtBRxHt) | 2:46 | 2021-11-05 | 2022-07-29 |
-| [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-08 |  |
+| [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-08 | 2023-04-15 |
 | [Soldiers](https://open.spotify.com/track/7BwuuLN0Fcvd8OSMFw4cd9) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Soldiers](https://open.spotify.com/album/5Ec2cine5I7z9tUjKnqyhC) | 3:01 | 2021-11-05 | 2022-07-29 |
 | [Somebody \- Acoustic](https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh) | 2:48 | 2022-03-18 | 2022-07-29 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-05 |  |

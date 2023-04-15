@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Kali
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
 
-305 songs - 13 hr 51 min
+307 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2023-02-03 |  |
 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 | 2023-02-17 |  |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-24 |  |
-| [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-09-09 |  |
+| [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 | 2022-09-09 | 2023-04-15 |
 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 | 2022-11-18 | 2022-12-17 |
 | [Freaky Dancer \(feat\. Trina\)](https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Break The Bank](https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv) | 3:03 | 2021-10-15 | 2022-02-12 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2022-11-20 |  |
@@ -162,7 +162,8 @@
 | [Keep Dat Nigga](https://open.spotify.com/track/1J6LmildSwpP7q8OICHsn3) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/3BYFEDzli2cr8ZgVarGcLj) | 2:18 | 2023-04-07 |  |
 | [Keep Going](https://open.spotify.com/track/5WFS94mQU8LHIlejXYpKP2) | [Bella Blaq](https://open.spotify.com/artist/5fVqCTmEK6KwE54TdziL3R) | [Keep Going](https://open.spotify.com/album/2daeZKCpqIqpHJoOt12lyJ) | 2:08 | 2022-02-04 | 2022-05-20 |
 | [Keep it Playa](https://open.spotify.com/track/1JBjfBbl1WdRz01inOooWz) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Keep it Playa](https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516) | 2:45 | 2022-11-11 | 2022-11-19 |
-| [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-23 |  |
+| [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-23 | 2023-04-15 |
+| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 |  |
 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 | 2022-01-21 | 2022-02-26 |
 | [Like A Thug \(feat\. Lil Durk\)](https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2022-03-25 | 2022-04-16 |
 | [Like That](https://open.spotify.com/track/4sRA220I8uSmsF0rffzGU8) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/23kypbkgaHakfqAyvWZw0o) | 2:28 | 2022-02-18 | 2022-03-05 |
@@ -228,6 +229,7 @@
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-07-22 | 2022-12-17 |
 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 | 2022-10-14 | 2023-03-04 |
 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 | 2023-03-03 |  |
+| [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-14 |  |
 | [Problem](https://open.spotify.com/track/7LFN9ERrNzpsVg5BYcJCqt) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Problem](https://open.spotify.com/album/3OTsLgRdYM4OMNa8U4TaIq) | 2:24 | 2023-03-24 |  |
 | [PTDOM](https://open.spotify.com/track/5BfbwG8kBqNoHFrBJ6Ygt6) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [PTDOM](https://open.spotify.com/album/4JdgeVZeAPBeU4niC1ueKh) | 1:48 | 2022-07-01 | 2022-07-16 |
 | [PTPOM \- Shemix](https://open.spotify.com/track/5q146DLWV5OJTK0Uch3p5C) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [PTPOM \(Shemix\)](https://open.spotify.com/album/1vnwE0JjXVAvPLvtjkvuym) | 2:02 | 2022-03-11 | 2022-06-26 |

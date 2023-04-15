@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó featuring Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,585 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,644 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 17 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ULALA \(OOH LA LA\)](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 |
 | 18 | [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 |
 | 19 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
-| 20 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
-| 21 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 |
+| 20 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 |
+| 21 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 22 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 |
 | 23 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 |
 | 24 | [MODELITO](https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 49 | [No Te Bote](https://open.spotify.com/track/15pBzHFFi56qdMfJ2xR9YW) | [LKM](https://open.spotify.com/artist/72bHPNx6XJlnOXdZz5nsce) | [No Te Bote](https://open.spotify.com/album/0V8U6k2SHb0d0sU9SXxXSd) | 3:21 |
 | 50 | [Dame Cinturita Maricona](https://open.spotify.com/track/1UVf3NdJdBTNE3MfdfOcRO) | [Franciskito King](https://open.spotify.com/artist/5VrsfbPjSrDDeaYvGwZa2m), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Dame Cinturita Maricona](https://open.spotify.com/album/5PDtBuhsau29DKcH9qmHMb) | 3:08 |
 
-Snapshot ID: `MTY4MDI0NjcyMCwwMDAwMDAwMDZjNjlkYTRkZTE1ZDI0YmFlYzA3YmM2ZjljOGZmODA2`
+Snapshot ID: `MTY4MDI0NjcyMCwwMDAwMDAwMDRjMzczOTM1ZTNjY2M1ZDUxMGUxNDZkMjc4NGFkMmE3`

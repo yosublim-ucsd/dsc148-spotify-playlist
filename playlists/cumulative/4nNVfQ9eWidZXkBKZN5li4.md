@@ -4,7 +4,7 @@
 
 > Best of Bollywood \- All time favourites featuring A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood Top tracks only on this playlist!
 
-235 songs - 14 hr 26 min
+236 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Hermosa \(feat\. D Soldierz\)](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa \(feat\. D Soldierz\)](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 | 2021-01-25\* | 2021-07-14 |
 | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Hum Nashe Mein Toh Nahin \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/3i3rwvDDpdY1BZmIW2pAvT) | 3:58 | 2022-08-19 |  |
 | [Husnn Hai Suhaana New \(from "Coolie No\. 1"\)](https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI) | [Chandana Dixit](https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk) | [Husnn Hai Suhaana New \(from "Coolie No\. 1"\)](https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs) | 4:27 | 2020-12-14 | 2022-04-19 |
+| [I Don't Give A](https://open.spotify.com/track/7bEoIWQJwpYTDKupVJ7Frb) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [I Don't Give A](https://open.spotify.com/album/7yywKxX960dxfTOVgchmzl) | 2:35 | 2023-04-14 |  |
 | [Ik Wari](https://open.spotify.com/track/79NgY2Sq95T3sTHzVF8b7J) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Ik Wari](https://open.spotify.com/album/4vlAOBbj7xbuBridlW4UyA) | 3:35 | 2020-11-10 | 2022-04-19 |
 | [Iktara \- Lofi Flip](https://open.spotify.com/track/7JOFplrLQfYkuEcWCASZDo) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Iktara \(Lofi Flip\)](https://open.spotify.com/album/21bNH0z2JgCevs7f6gNRgJ) | 2:53 | 2021-09-24 | 2023-02-07 |
 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 | 2020-01-20 | 2022-01-14 |

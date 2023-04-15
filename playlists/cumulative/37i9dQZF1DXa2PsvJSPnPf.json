@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Heart is the Hero",
+        "url": "https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176915,
+      "name": "Heart is the Hero",
+      "url": "https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8"
+    },
+    {
+      "album": {
         "name": "Heart Swell",
         "url": "https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7"
       },

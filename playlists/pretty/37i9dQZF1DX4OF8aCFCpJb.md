@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,312 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,322 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 27 | [Bonus På Kortet](https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:43 |
 | 28 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 |
 | 29 | [Som Bob Marley](https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Dancehall](https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9) | 3:18 |
-| 30 | [Wayback](https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3) | [O\-Hund](https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Wayback](https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B) | 3:28 |
+| 30 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
 | 31 | [Över Min Döda](https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U) | 3:33 |
 | 32 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
-| 33 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
+| 33 | [Wayback](https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3) | [O\-Hund](https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Wayback](https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B) | 3:28 |
 | 34 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
 | 35 | [Kontakt](https://open.spotify.com/track/2BiSXiybgeW2stqoeVc8Ke) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 3:08 |
 | 36 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 | 50 | [Säg Som Det Är](https://open.spotify.com/track/3c4CLJau8lIF6ruSsuxHqU) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Säg Som Det Är](https://open.spotify.com/album/4UZeUwiN9Crlr62yJRFxdJ) | 3:35 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDQzM2FkZjVmZGQ2OWNiNGQwNDM5ZTFiNTkwMThmOWJl`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGI5ZmRkNDViNjk1ZTMyZmRmNjRkNGM1YjkxODBlMjE3`

@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Natanael Cano y Dan Sanchez en portada.
 
-106 songs - 5 hr 22 min
+107 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,11 +50,12 @@
 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 | 2022-12-16 | 2023-02-25 |
 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 | 2022-06-08 | 2022-12-31 |
 | [El Sueño Se Cumplió](https://open.spotify.com/track/4lXzUIG9TKSvKXxqIyCZbA) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [El Sueño Se Cumplió](https://open.spotify.com/album/4g42wQCHXwxJL4r59FzDUC) | 3:54 | 2022-12-30 |  |
+| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-14 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
 | [En El Refuego](https://open.spotify.com/track/2AoqaGQiMT1Yt10f2qypUk) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Paranormal](https://open.spotify.com/album/3WdqL2AIorwJ4ofhNGR1w0) | 3:04 | 2022-08-12 | 2022-11-13 |
 | [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2022-02-04 | 2022-07-29 |
 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-02-04 |  |
-| [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 | 2023-02-24 |  |
+| [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 | 2023-02-24 | 2023-04-15 |
 | [Estilo Call Of Duty](https://open.spotify.com/track/65zc43qPQdyWJdxjL0e39m) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Estilo Call Of Duty](https://open.spotify.com/album/5rs3LSRCXx44C3f8vYsGYu) | 3:10 | 2022-12-30 |  |
 | [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 | 2023-02-03 |  |
 | [Francotirador](https://open.spotify.com/track/4qRvs07nw5rtozM0AfIvZM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Francotirador](https://open.spotify.com/album/1L7lVRdCQFIxC3IbRMCEVK) | 3:11 | 2022-12-30 | 2023-02-04 |
@@ -108,7 +109,7 @@
 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 | 2022-02-04 |  |
 | [Tolin Infante](https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:47 | 2022-12-09 |  |
 | [Trokita Tumbada](https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Trokita Tumbada](https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5) | 2:46 | 2022-10-14 | 2022-12-17 |
-| [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 | 2023-02-03 |  |
+| [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 | 2023-02-03 | 2023-04-15 |
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-06-24 |  |
 | [Vida Loca](https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Vida Loca](https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv) | 4:07 | 2023-02-24 |  |
 | [Vida Movida](https://open.spotify.com/track/7cr1tli23NGeGpFRphz0rQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Vida Movida](https://open.spotify.com/album/6ZlSUDMImb7JjnxVWrASIi) | 3:14 | 2022-02-04 | 2022-06-25 |

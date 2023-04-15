@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,367 likes - 70 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,434 likes - 70 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 56 | [I Walk Alone](https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS) | [Michael Hardie](https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S) | [Waiting For Perfection](https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O) | 6:15 |
 | 57 | [You Put the Heart on Me](https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:40 |
 | 58 | [I've Lost My Baby](https://open.spotify.com/track/1K3L55HIhx61FIn173umta) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 4:17 |
-| 59 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
-| 60 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
-| 61 | [If You Gotta Make a Fool of Somebody \- 2008 Remaster](https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:00 |
+| 59 | [If You Gotta Make a Fool of Somebody \- 2008 Remaster](https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:00 |
+| 60 | [Sanctified, Holy And Hateful](https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 5:29 |
+| 61 | [No More Lonely Nights](https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 5:19 |
 | 62 | [One More Night](https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB) | [Lonesome Sundown](https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ) | [Been Gone Too Long](https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO) | 4:15 |
 | 63 | [Love Is Gone](https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8) | 4:48 |
 | 64 | [Friendless Blues](https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [The Essential Blue Archive: Why Should I Cry](https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 69 | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ) | 3:27 |
 | 70 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
 
-Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMDhlODdjNTNmZDYzMzkxOTA2NzQyMDIyMjViMzUxYjY0`
+Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMGQyNzVkNjg2Y2EyYmMyNmNhMzMzNzE1Zjk2YzU4MzVi`

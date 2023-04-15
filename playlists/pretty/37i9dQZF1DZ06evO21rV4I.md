@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,095 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,146 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 18 | [Balance](https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:01 |
 | 19 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 |
 | 20 | [Abracadabra \- Remix](https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Abracadabra \(Remix\)](https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3) | 2:52 |
-| 21 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
+| 21 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
 | 22 | [Slip N Slide \(feat\. Skillibeng & Shenseea\)](https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:29 |
-| 23 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
+| 23 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
 | 24 | [BROWN SKIN GIRL](https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP) | [Blue Ivy](https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:08 |
 | 25 | [Bella](https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 3:03 |
 | 26 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 48 | [Final \(Baba Nla\)](https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Final \(Baba Nla\) \- Single](https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t) | 2:40 |
 | 49 | [Only You \(feat\. WizKid, Offset & J Balvin\)](https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:38 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDBkM2IxYmQ4MTYxNjdmNGQxZDQwMjRhN2EzMWU0MmI2NA==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAzOTJiYzQzNWU3MWVkYTMxNjM3ZmVhNWJkYzgxNjZjNA==`

@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=Gs1LtpKzTKqjs9IoazUUMg" >Lloyiso</a>
 
-210 songs - 11 hr 10 min
+211 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2022-11-15 |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 |  |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 |  |
-| [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 |  |
+| [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 | 2023-04-15 |
 | [Mar Azul](https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Mar Azul](https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g) | 3:13 | 2022-09-01 | 2022-09-23 |
 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 | 2022-05-19 | 2022-07-08 |
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2021-12-02 |  |
@@ -210,6 +210,7 @@
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 |  |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-03 |  |
 | [Walk Away](https://open.spotify.com/track/3qpvQqhd8fLkTv9BsZmpGJ) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ) | [Love Supreme](https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6) | 3:01 | 2022-02-11 | 2022-04-22 |
+| [What you wanna do?](https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [What you wanna do?](https://open.spotify.com/album/2HEe16IuFDnQOnb8dT3zam) | 4:27 | 2023-04-14 |  |
 | [Wickedest](https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest](https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2) | 3:15 | 2022-07-22 | 2023-02-24 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-10-14 |
 | [with u](https://open.spotify.com/track/5hyte9fMz1uZvfj1Vgz2rY) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [IV](https://open.spotify.com/album/1cs2NpUBHmIyG4eJTOyxYp) | 2:41 | 2022-07-22 | 2022-08-13 |

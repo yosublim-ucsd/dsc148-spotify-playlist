@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-115 songs - 17 hr 11 min
+116 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Mediterranean Sundance / Rio Ancho \- Live at Warfield Theatre, San Francisco, CA \- December 5, 1980](https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Friday Night in San Francisco](https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT) | 11:31 | 2021-11-12 |  |
 | [Medley: Vertical Invader / Seventh Arrow / T.H\. / Doctor Honoris Causa \- Live](https://open.spotify.com/track/5Eg09OqI1LB9P9EcozE2Mt) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Live in Tokyo](https://open.spotify.com/album/0k2LseDR9ZTqlIeGt6t05u) | 26:11 | 2021-11-12 |  |
 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 | 2021-11-12 |  |
+| [Morning Glory \- Live](https://open.spotify.com/track/4ET4KbrR2ly7diI7rnQwhc) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [My Foolish Heart \(Live\)](https://open.spotify.com/album/0tkRkhaV8eqw0kn1MUKIWx) | 4:31 | 2023-04-14 |  |
 | [Ms\. Angelou \- Live](https://open.spotify.com/track/2aSiGeZ9qoYgdASyvzmOLl) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Inside Straight](https://open.spotify.com/artist/7MtmFTvuto2LZ3I9y4Gd96) | [Live at the Village Vanguard](https://open.spotify.com/album/1RZBIIFd5NYufxARh6yyWy) | 10:02 | 2021-11-26 |  |
 | [My One and Only Love \- Live](https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Live at Fabrik, Hamburg, 1987](https://open.spotify.com/album/3zV3pERmVFEntiv4j9MCKB) | 10:12 | 2022-10-07 |  |
 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 | 2021-12-01 |  |
@@ -91,7 +92,7 @@
 | [Smile \- Live](https://open.spotify.com/track/0OlyfGCXmgPfSQvwJLuqqv) | [Shirley Scott](https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI), [George Coleman](https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH) | [Smile \(Live\)](https://open.spotify.com/album/5zGvj76mc5eqobiqYiRq2U) | 9:19 | 2023-03-24 |  |
 | [Snowflakes And Sunshine \- Live At The Golden Circle, Stockholm, 1965 / Remastered 2002 / Rudy Van Gelder Edition](https://open.spotify.com/track/0vIj8yavF8QCq17FcidSZV) | [Ornette Coleman Trio](https://open.spotify.com/artist/0NRvpjoS4w3WdVSmkqSXgV) | [At The Golden Circle](https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs) | 10:42 | 2021-11-12 |  |
 | [Softly as in a Morning Sunrise \- Live at Lincoln Center](https://open.spotify.com/track/3UkNjYoO81SVJFNkrkkjgX) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [The Complete Last Concert](https://open.spotify.com/album/4SQ03iwnOPvzgClDLWS5oZ) | 6:26 | 2021-11-12 |  |
-| [Soul Eyes \(Live\)](https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Soul Eyes \(Live\)](https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0) | 8:49 | 2022-09-23 |  |
+| [Soul Eyes \(Live\)](https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Soul Eyes \(Live\)](https://open.spotify.com/album/0rOjjtD2olUaP8hRt4DOy0) | 8:49 | 2022-09-23 | 2023-04-15 |
 | [Splendido Sundance \- Live at Warfield Theater, San Francisco, CA \- December 6, 1980](https://open.spotify.com/track/7evFX4LIgofxcz2MGnPaf5) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Saturday Night in San Francisco \(Expanded Edition\) \[Live\]](https://open.spotify.com/album/0ucEskHaCyeqMWBmgT3J3n) | 7:05 | 2022-08-12 |  |
 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 | 2021-11-12 |  |
 | [Straight, No Chaser \- Live](https://open.spotify.com/track/1DkanoZx9FPP09j977x5ch) | [Miles Davis Sextet](https://open.spotify.com/artist/1i4ed4I1y7YerI0fQV4lVc) | [Miles and Monk at Newport \(Live\)](https://open.spotify.com/album/4bBbkwePNn99UrJrSNIs1L) | 8:46 | 2021-11-12 |  |

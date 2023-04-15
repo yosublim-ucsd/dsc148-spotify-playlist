@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-152 songs - 10 hr 3 min
+153 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Diamonds](https://open.spotify.com/track/76arnVYjWjOAHDyRCunKrI) | [Pixel Grip](https://open.spotify.com/artist/4NmxBuCBL7Y5nqxDawpYKW) | [Heavy Handed](https://open.spotify.com/album/3melhf7QbTrTpJgzOrhbgQ) | 5:06 | 2023-02-09 | 2023-02-24 |
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2023-02-09 |  |
 | [Dot in the Sky](https://open.spotify.com/track/2JDYNDcTJVpkuqKiJrIghn) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 5:26 | 2023-02-09 |  |
-| [Durdu Dünya](https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs) | 4:51 | 2023-01-06 |  |
+| [Durdu Dünya](https://open.spotify.com/track/0rXcRGePzt2vuBjTQnshsL) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/7J40uU1PnZuZrna7q8SNcs) | 4:51 | 2023-01-06 | 2023-04-15 |
 | [Dust](https://open.spotify.com/track/2BZYVqGyL1L1adBbq2ClVv) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [Particles E.P.](https://open.spotify.com/album/1kvyU0WQNcenwnLRBwyWhB) | 5:02 | 2020-12-21 |  |
 | [Dust + Stars](https://open.spotify.com/track/3wtiqIopwLEsyE7i33ZhEg) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Tima](https://open.spotify.com/artist/1rDy96MTvvmWDAbIg6B6o4) | [Dust + Stars](https://open.spotify.com/album/7fNP4uvFMfSz9jfRTbmRYo) | 4:17 | 2020-12-21 | 2023-02-10 |
 | [Ecstasy](https://open.spotify.com/track/4Sorp7a7ps9faLrKAzcwvX) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Fate](https://open.spotify.com/album/03ti9fj1guEvPZdYTAQ05D) | 3:03 | 2023-02-09 |  |
@@ -132,6 +132,7 @@
 | [Vengeance](https://open.spotify.com/track/0Bp3HwFfDlGzo7N5mePMxf) | [Cloud Battalion](https://open.spotify.com/artist/256QPBkvY5iLmc3mhwzoTO) | [Storm City](https://open.spotify.com/album/6rR86ssesqXKVIIVJMBz3q) | 4:24 | 2020-12-21 | 2023-02-10 |
 | [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Vertigo](https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI) | 3:30 | 2022-02-18 |  |
 | [We Need](https://open.spotify.com/track/2iQ5UVxkcCfGZ6vLd4q8t1) | [Ssleeping Desiress](https://open.spotify.com/artist/4fDRRcMe3Ci8lhq01OaVlI) | [Ssleeping Desiress](https://open.spotify.com/album/157P582dPYLDWK3tbHBe8f) | 4:13 | 2023-02-09 | 2023-03-08 |
+| [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 | 2023-04-14 |  |
 | [Whirl](https://open.spotify.com/track/5CNEbwdhDgosVr96njlnGK) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Choke](https://open.spotify.com/album/5gX6BIzokidmOiI6X6ZnBH) | 6:08 | 2023-02-09 |  |
 | [Worst Way](https://open.spotify.com/track/5N517sy8DmxfeXrm5ZxMpg) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Worst Way](https://open.spotify.com/album/6oAeyTReEk0aU9Ih8uZAp1) | 2:18 | 2023-02-21 | 2023-03-25 |
 | [Your Master is calling](https://open.spotify.com/track/0TXfAQ5ohVQPzt4Mrr5azG) | [Pink Turns Blue](https://open.spotify.com/artist/47oP5alMot58ggzcFwldky) | [Meta](https://open.spotify.com/album/7fSBShSLe5Glx6sifNLdJF) | 7:43 | 2023-02-09 |  |

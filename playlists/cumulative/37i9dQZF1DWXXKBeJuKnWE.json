@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy rockers. Cover: Empire State Bastard",
+  "description": "The home for heavy rockers. Cover: Metallica",
   "name": "The Pit",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 135466,
       "name": "Choose Your Fighter",
       "url": "https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203555,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW"
@@ -754,6 +754,24 @@
       "duration_ms": 193853,
       "name": "Gimme That Boom",
       "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
+    },
+    {
+      "album": {
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175205,
+      "name": "God/Devil",
+      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
     },
     {
       "album": {
@@ -1054,6 +1072,24 @@
       "duration_ms": 279593,
       "name": "Is It Really You?",
       "url": "https://open.spotify.com/track/7kjcdiknoCUe0OeE3BIw9J"
+    },
+    {
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
     },
     {
       "album": {
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172480,
       "name": "STFU",
       "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
@@ -2058,6 +2094,24 @@
       "duration_ms": 209976,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 138438,
+  "num_followers": 138518,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMDJkNmNiZWQ1ZmE0NGU0MmM4ZDA2NDI2MmQxMGE1ZTI5",
+  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMGEzNzRlOGZlOGU4ZDFkMzYyNWVkMzNlODkwYzcxMzM4",
   "tracks": [
     {
       "added_at": "2023-04-11 15:00:00",
@@ -651,22 +651,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "FANCITY",
-        "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
+        "name": "Smoky Valley",
+        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "I love you Orchestra Swing Style",
+          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
         },
         {
-          "name": "Soulflex",
-          "url": "https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS"
+          "name": "mahina",
+          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
         }
       ],
-      "duration_ms": 242143,
-      "name": "FANCITY",
-      "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
+      "duration_ms": 259000,
+      "name": "Night Distance",
+      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -687,22 +687,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Smoky Valley",
-        "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
+        "name": "FANCITY",
+        "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
       },
       "artists": [
         {
-          "name": "I love you Orchestra Swing Style",
-          "url": "https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         },
         {
-          "name": "mahina",
-          "url": "https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM"
+          "name": "Soulflex",
+          "url": "https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Night Distance",
-      "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+      "duration_ms": 242143,
+      "name": "FANCITY",
+      "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1004,7 +1004,7 @@
       },
       "artists": [
         {
-          "name": "\u4e09\u5b85\u5065",
+          "name": "Miyake Ken",
           "url": "https://open.spotify.com/artist/6jxv5njEC0TQ7R6zYvcmHb"
         }
       ],
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
+      },
+      "artists": [
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 239745,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
         "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 227253,
       "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
       "url": "https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239745,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Zurukunai?",
-        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 208981,
-      "name": "Zurukunai?",
-      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "MAO",
         "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "Zurukunai?",
+        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 208981,
+      "name": "Zurukunai?",
+      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Last Train",
-        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        },
-        {
-          "name": "THREE1989",
-          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Last Train",
-      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
         "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 273719,
       "name": "Rain Of Your Heart",
       "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "It's all about you",
-        "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 191663,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "It's all about you",
+        "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 191663,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
     },
     {
       "added_at": "2023-04-11 15:00:00",

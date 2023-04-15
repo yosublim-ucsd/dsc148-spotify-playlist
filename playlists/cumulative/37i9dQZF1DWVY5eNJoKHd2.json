@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Afraid of the Dark",
+        "url": "https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227940,
+      "name": "Afraid of the Dark",
+      "url": "https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8"
+    },
+    {
+      "album": {
         "name": "All For Us",
         "url": "https://open.spotify.com/album/4ryR7Dg9iWXYfFBtnFOTw8"
       },
@@ -1231,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
         "name": "Yoga Horror",
         "url": "https://open.spotify.com/album/5Bynuoj2T6zEGdTDYhoSYQ"
       },
@@ -1694,6 +1730,24 @@
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
+      "album": {
+        "name": "Girl I Used To Be",
+        "url": "https://open.spotify.com/album/5cOVlXCY4XCRk9q3SxHi7E"
+      },
+      "artists": [
+        {
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196966,
+      "name": "Girl I Used To Be",
+      "url": "https://open.spotify.com/track/7Bb3dpQFDGCHsBfNOWLWxH"
     },
     {
       "album": {
@@ -4326,7 +4380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
@@ -4628,7 +4682,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187200,
       "name": "TEMPTRESS",
       "url": "https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2"
@@ -4664,7 +4718,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 214672,
       "name": "The Afterparty",
       "url": "https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA"

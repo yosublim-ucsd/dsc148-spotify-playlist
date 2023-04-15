@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-191 songs - 8 hr 27 min
+192 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-05-27 |  |
 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 | 2023-01-27 | 2023-02-10 |
 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-02-24 |  |
-| [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 | 2022-05-25 |  |
+| [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 | 2022-05-25 | 2023-04-15 |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-07-08 | 2022-09-03 |
 | [GODBREAKER](https://open.spotify.com/track/6IvI7Zs2Ca3QIecWc6YSyP) | [Jamar Rose](https://open.spotify.com/artist/5eRDVS3cobE2WOM8xrjdOw), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PLOT TWIST](https://open.spotify.com/album/4JP8a119U8yQm6ttb0JsAB) | 2:33 | 2022-05-25 | 2022-07-20 |
 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 | 2022-05-25 |  |
@@ -103,7 +103,7 @@
 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 | 2022-07-08 | 2023-01-07 |
 | [Let's Ride](https://open.spotify.com/track/3dUXPkCP34x762v8cOJTRt) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let's Ride](https://open.spotify.com/album/0dZhr1Edoqtjps6fEXuWgP) | 2:00 | 2022-06-21 | 2022-10-22 |
 | [Liar Mask](https://open.spotify.com/track/17gqkmWPppwlxIZLxTWzVy) | [真山りか](https://open.spotify.com/artist/78hBJsHMdvLJNcUY2Y2kxs) | [Liar Mask](https://open.spotify.com/album/4KAGO5gZrdQaqYI0RY0uDi) | 4:53 | 2022-05-25 | 2022-07-29 |
-| [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-13 |  |
+| [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-04-12 |  |
 | [Lighten Up](https://open.spotify.com/track/46RP6nhOYe528v8NiQX3Cb) | [Downfvll](https://open.spotify.com/artist/11y2EjkCbWLix1tkjbiWed), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [ShokoProd](https://open.spotify.com/artist/72LqkWsCpzNUvPCYrxSmWa) | [Lighten Up](https://open.spotify.com/album/7FQQPhwNytUnurt2r0xv9E) | 2:15 | 2022-07-08 | 2022-10-22 |
 | [Like Yao](https://open.spotify.com/track/2yX7uY21fVapIyLVgaTDNC) | [Since99](https://open.spotify.com/artist/2dZGZpAgfWlVxCSFDqbytg) | [Like Yao](https://open.spotify.com/album/1W0kHAfCplRkAVsnpsHH0c) | 2:19 | 2022-06-21 | 2022-07-28 |
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-11-17 |  |
@@ -199,5 +199,6 @@
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-08-18 | 2022-09-29 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-07-08 |  |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-05-25 | 2023-02-03 |
+| [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-14 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

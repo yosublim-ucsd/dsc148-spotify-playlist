@@ -1,12 +1,12 @@
 {
   "description": "Just good energy",
-  "num_followers": 489823,
+  "num_followers": 489849,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMGMxNGQ4ZDA0ZjJlYjU4OWI4MTkwMTQwZDg4Yjk5NmYw",
+  "snapshot_id": "MTY4MDc4OTYwMCwwMDAwMDAwMDhjNzk4N2M1YTE2NTg5YzM0NTkxNDMxZWEyNzUwODNl",
   "tracks": [
     {
       "added_at": "2023-04-06 14:00:00",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Escapism. / The Thrill Is Gone.",
-        "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -115,22 +115,18 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -147,22 +143,6 @@
       "duration_ms": 185026,
       "name": "Hold",
       "url": "https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -203,22 +183,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -235,6 +199,22 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -431,22 +411,6 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
@@ -479,6 +443,26 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -567,22 +567,6 @@
       "duration_ms": 278480,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Feel So Close - Radio Edit",
-      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
     },
     {
       "added_at": "2023-04-06 14:00:00",
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -747,6 +747,34 @@
     {
       "added_at": "2023-04-06 14:00:00",
       "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2023-04-06 14:00:00",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -787,34 +815,6 @@
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2023-04-06 14:00:00",
-      "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2023-04-06 14:00:00",

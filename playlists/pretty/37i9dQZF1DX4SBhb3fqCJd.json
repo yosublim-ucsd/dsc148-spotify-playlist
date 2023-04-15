@@ -1,13 +1,29 @@
 {
-  "description": "The pulse of R&B music today. Cover: Daniel Caesar",
-  "num_followers": 6181059,
+  "description": "The pulse of R&B music today. Cover: Jorja Smith",
+  "num_followers": 6181957,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDdkZmZlM2IyNjY5MDFhMTAyNzQ3ZmJkZmVkN2IxOTVi",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDYxM2JiYzY5OTRmZmNhNGUzZDM3ZjA3MjA1M2VkYTY2",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
@@ -93,20 +109,24 @@
       "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "In Pieces",
-        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
       },
       "artists": [
         {
           "name": "Chl\u00f6e",
           "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 177419,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5"
+      "duration_ms": 166623,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -145,6 +165,26 @@
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "CUFF IT",
@@ -159,38 +199,6 @@
       "duration_ms": 249406,
       "name": "CUFF IT - WETTER REMIX",
       "url": "https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Terms and Conditions",
-        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 209682,
-      "name": "Terms and Conditions",
-      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 159242,
-      "name": "What You Wanna Try",
-      "url": "https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -243,6 +251,58 @@
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 159242,
+      "name": "What You Wanna Try",
+      "url": "https://open.spotify.com/track/526fD9LiAEi3KKvhhYfWmm"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 241232,
+      "name": "Disillusioned (with serpentwithfeet)",
+      "url": "https://open.spotify.com/track/4Jj48NypRej8Rld9U69Nvm"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -305,6 +365,30 @@
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
     },
     {
+      "added_at": "2023-03-04 19:27:59",
+      "album": {
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "calm & patient",
@@ -323,38 +407,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+        "name": "Terms and Conditions",
+        "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 166623,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
+      "duration_ms": 209682,
+      "name": "Terms and Conditions",
+      "url": "https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -401,6 +465,22 @@
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6phkEy1YzAK1JWZWgwC36v"
+    },
+    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "More Love, Less Ego",
@@ -421,20 +501,20 @@
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         }
       ],
-      "duration_ms": 198897,
-      "name": "AMERICA HAS A PROBLEM",
-      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
+      "duration_ms": 177419,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0BKP9mcDJOnIz3GHm07wP5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -475,30 +555,6 @@
       "duration_ms": 265888,
       "name": "Deserve Me (with Summer Walker)",
       "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
-    },
-    {
-      "added_at": "2023-03-04 19:27:59",
-      "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -761,22 +817,6 @@
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 187708,
-      "name": "Save Your Soul",
-      "url": "https://open.spotify.com/track/4ln9MQz4OChaV3eqGNS7BU"
-    },
-    {
       "added_at": "2023-02-14 06:08:51",
       "album": {
         "name": "Spotify Singles",
@@ -835,22 +875,6 @@
       "duration_ms": 201621,
       "name": "Feature Me",
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
       "added_at": "2023-02-03 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,481 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,643 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-293 songs - 14 hr 50 min
+295 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Nichibotsu](https://open.spotify.com/track/2ut3yv3w4KneKNGw4rOp8G) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Nichibotsu](https://open.spotify.com/album/2ApQZi64DB2KLR4Oogv9x3) | 3:13 | 2023-04-07 |  |
 | [night time](https://open.spotify.com/track/7jXUvRLubVHid8lX2LGsbT) | [fetch focus](https://open.spotify.com/artist/5Qc2nhM2huphoEWreLB8S8) | [night time](https://open.spotify.com/album/4tmHomzMHhyXBoHeDUBnlP) | 2:45 | 2022-10-07 |  |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2022-05-20 | 2023-01-07 |
+| [nitroglycerin](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 | 2023-04-14 |  |
 | [No Rain](https://open.spotify.com/track/4sMjlbOde81Lu4RtwRWDJn) | [Chilldine](https://open.spotify.com/artist/5iAKjp62cPdw1BgkXruG4O) | [No Rain](https://open.spotify.com/album/4zKl9JwuvmKu80SokNwZLp) | 3:17 | 2023-01-13 |  |
 | [Obscure](https://open.spotify.com/track/0PKMlISgvTdPj2tcysyBwW) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Obscure](https://open.spotify.com/album/2YsmqvleUTgthS1gO5Q9BS) | 3:03 | 2023-01-06 |  |
 | [ocean spray](https://open.spotify.com/track/12onSegGKvlFTrhG3LEMpK) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [ocean spray](https://open.spotify.com/album/7DdRTILv6s8g34oVu96XR9) | 2:41 | 2022-09-02 |  |
@@ -291,6 +292,7 @@
 | [vibing out](https://open.spotify.com/track/4DUkt7qqbKcVjWLuRUY2QF) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [vibing out](https://open.spotify.com/album/2s1jVVP4h8moCR68wfKqAg) | 3:12 | 2022-09-02 |  |
 | [Vice Versa](https://open.spotify.com/track/47dhXoqYUeOuk7QsTE4YKb) | [Vintage Vanity](https://open.spotify.com/artist/6SBEoQGRoWffIQOkxDJLmM) | [Vice Versa](https://open.spotify.com/album/21tozXtoTgDWVZFEbJsGFt) | 2:32 | 2022-05-20 | 2022-09-17 |
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2022-05-20 |  |
+| [Waipio](https://open.spotify.com/track/2cIwV2VqHn925sWcJ7Fmma) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Waipio](https://open.spotify.com/album/6JNHYe93hZDKHroRSX6jiB) | 2:15 | 2023-04-14 |  |
 | [Watered Down](https://open.spotify.com/track/62PE7zL1Gv5XiztojLgCWa) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Watered Down](https://open.spotify.com/album/4EhFuKANOiQToevZGLiu0U) | 2:56 | 2022-12-09 |  |
 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 | 2022-05-20 | 2022-09-02 |
 | [We Go Away](https://open.spotify.com/track/17o75NcuAZ7BkajsD9fUp4) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [We Go Away](https://open.spotify.com/album/3GnzsuiimsoskGd7ewgeC8) | 2:04 | 2022-09-02 |  |

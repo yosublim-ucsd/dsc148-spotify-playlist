@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 137155,
       "name": "Bout'a Bag",
       "url": "https://open.spotify.com/track/02vRi902LHTYZdYMcFFBcQ"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 125666,
       "name": "Charles Barkley",
       "url": "https://open.spotify.com/track/0TOuaZcWMgd3HEXonwzL0N"
@@ -1562,6 +1562,28 @@
       "duration_ms": 144463,
       "name": "Chose Me",
       "url": "https://open.spotify.com/track/2TXPpyvAghVDKSBeyEuUEH"
+    },
+    {
+      "album": {
+        "name": "Chrome Hearted (feat. Tyga)",
+        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Chrome Hearted (feat. Tyga)",
+      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
     },
     {
       "album": {
@@ -2852,7 +2874,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 160920,
       "name": "FOMF",
       "url": "https://open.spotify.com/track/1q9huadusReYqEjnENS3uw"
@@ -6127,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "One Pic",
+        "url": "https://open.spotify.com/album/135jcZOvD8gg1mtDXKfJmt"
+      },
+      "artists": [
+        {
+          "name": "1takejay",
+          "url": "https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83147,
+      "name": "One Pic",
+      "url": "https://open.spotify.com/track/26uouQ0wnleZOoWLhN7fMh"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/4bSCnj5Mlp6fixSnzYQTmq"
       },
@@ -6314,6 +6354,28 @@
       "duration_ms": 117894,
       "name": "Pacific Coast Highway",
       "url": "https://open.spotify.com/track/0o7Tdf8WP4Xf4g70LEyyeJ"
+    },
+    {
+      "album": {
+        "name": "Paid Dues",
+        "url": "https://open.spotify.com/album/5iyyfACISd90IZxjwaD17N"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Paid Dues",
+      "url": "https://open.spotify.com/track/61CNosIjvr8t5mR8O7azpf"
     },
     {
       "album": {

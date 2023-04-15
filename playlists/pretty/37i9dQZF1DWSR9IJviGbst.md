@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,736 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 25 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
 | 26 | [Gentle River Flow](https://open.spotify.com/track/3Gs2QLEuEXUEJeLidHuk7y) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Flowing Rivers](https://open.spotify.com/album/7uhHSNlivW28TuDO2fs6J4) | 3:21 |
 | 27 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 |
-| 28 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
-| 29 | [Birds and A Beautiful Brook](https://open.spotify.com/track/4OYT2GFHJmObxsuZdA8m0R) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Sounds Of The Forest](https://open.spotify.com/album/4LRcAAnR6Zlg200Op6tiZC) | 2:08 |
-| 30 | [Water Under a One\-Lane Bridge](https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
-| 31 | [Small River in the Forest](https://open.spotify.com/track/4G2Q9vWyTg0wAGzHzKuscy) | [Nature Library](https://open.spotify.com/artist/1ZziVLB2fJY09QInnbK12X) | [Rivers & Creeks Recordings](https://open.spotify.com/album/2oKiktP91bHOAXKjBKpVZh) | 3:25 |
-| 32 | [Rushing Stream](https://open.spotify.com/track/4nf0arXczGpdXTMi401O1m) | [Naturesque](https://open.spotify.com/artist/7A4Vjuj5WfIu5VGpeG6v0x) | [Peaceful Streams](https://open.spotify.com/album/3mV7mbNJTs2LfGAgqgklzw) | 2:35 |
-| 33 | [Down The River](https://open.spotify.com/track/4dU8unK0e42MOkGjnqpu66) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:26 |
-| 34 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
-| 35 | [Winter River](https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds 2 \(Deluxe Edition\)](https://open.spotify.com/album/3EO82RP4AsdHuoKNc1cpDm) | 2:36 |
-| 36 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
+| 28 | [Birds and A Beautiful Brook](https://open.spotify.com/track/4OYT2GFHJmObxsuZdA8m0R) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Sounds Of The Forest](https://open.spotify.com/album/4LRcAAnR6Zlg200Op6tiZC) | 2:08 |
+| 29 | [Water Under a One\-Lane Bridge](https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
+| 30 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
+| 31 | [Down The River](https://open.spotify.com/track/4dU8unK0e42MOkGjnqpu66) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Rivers Of Estelí](https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88) | 3:26 |
+| 32 | [Small River in the Forest](https://open.spotify.com/track/4G2Q9vWyTg0wAGzHzKuscy) | [Nature Library](https://open.spotify.com/artist/1ZziVLB2fJY09QInnbK12X) | [Rivers & Creeks Recordings](https://open.spotify.com/album/2oKiktP91bHOAXKjBKpVZh) | 3:25 |
+| 33 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
+| 34 | [Rushing Stream](https://open.spotify.com/track/4nf0arXczGpdXTMi401O1m) | [Naturesque](https://open.spotify.com/artist/7A4Vjuj5WfIu5VGpeG6v0x) | [Peaceful Streams](https://open.spotify.com/album/3mV7mbNJTs2LfGAgqgklzw) | 2:35 |
+| 35 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
+| 36 | [Winter River](https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds 2 \(Deluxe Edition\)](https://open.spotify.com/album/3EO82RP4AsdHuoKNc1cpDm) | 2:36 |
 | 37 | [Riverside Rocks](https://open.spotify.com/track/2IMSmgeJgxcfKvc1rqZy8f) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [River Relaxation](https://open.spotify.com/album/2eFLy8Nq0j7oUt7KxZka22) | 3:15 |
 | 38 | [Rapid Calm](https://open.spotify.com/track/56XP9cBYLWwB4tSDeyF0aF) | [Drifting Streams](https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo) | [Down Stream](https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP) | 5:52 |
 | 39 | [Fast Flowing River \- Seamless](https://open.spotify.com/track/0kqEkGV3rpy6BvVuM9x1EB) | [Sleepy Falls](https://open.spotify.com/artist/4YEs6CRrsB6P1JZtNVZ09C) | [Rivers And Streams](https://open.spotify.com/album/3l3fLrLSL3024gMcvVLt9c) | 1:50 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 47 | [Chill Forest Brook](https://open.spotify.com/track/337SLftuDIp4wYyXdqpcOA) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Chilled Creek](https://open.spotify.com/album/7HGxV79DywGHYEgzQcyfxk) | 2:39 |
 | 48 | [Blue Stream](https://open.spotify.com/track/5qjGUHHKNozzMnw987lVry) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Sound of Nature](https://open.spotify.com/album/7sBAqC5kXL7wZoDVXOU0ex) | 2:36 |
 | 49 | [Sparkling Energy Creek](https://open.spotify.com/track/7CQpRxRhiPsTIzbVaiMdXZ) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Sparkling Energy Creek](https://open.spotify.com/album/3H8VAtA2cT2BbZwSZ42aPB) | 1:55 |
-| 50 | [Soothing Stream](https://open.spotify.com/track/1SORCxjXkhCI9KKMVWziVC) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [River Run](https://open.spotify.com/album/41ZY6k3GWlLC7eGf3tAeRE) | 3:20 |
+| 50 | [Northern River](https://open.spotify.com/track/6OyRkPLVvqrhLCJkObruWb) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 3:04 |
 
-Snapshot ID: `MTY2OTIxNjI4OCwwMDAwMDAwMDg2NjBjOWJjNGQ3MGQ1NTRkY2EwY2FmNTkyMGQzOTk5`
+Snapshot ID: `MTY2OTIxNjI4OCwwMDAwMDAwMDliNDNiNTYxYjUxOTFmYWEyNDUyZDVlNmUxZjExYTFk`

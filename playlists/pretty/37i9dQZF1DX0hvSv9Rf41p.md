@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with WHIPPED CREAM.
+> All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,184 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,336 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [All Or Nothing](https://open.spotify.com/track/0t9RRa08BNjaNfnKlY6mIU) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Alter/Ego Volume II](https://open.spotify.com/album/0BCJXsvVkC7fpEPhFEBzhB) | 4:52 |
 | 150 | [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGExODY5OWJkN2JkZDZhZGEwMjdhNjk4ZjkwNWVjYzRk`
+Snapshot ID: `MTY4MTQ4ODAwMCwwMDAwMDAwMDE3ZTMwMGM3YTkyZDJmZDFiZGY0YjcwYjk4NTRhMDE1`

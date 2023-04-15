@@ -2,9 +2,9 @@
 
 ### [Copão na mão](https://open.spotify.com/playlist/37i9dQZF1DXbTYpRASjxaF)
 
-> Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Oreozin, Caio Luccas
+> Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Elicê
 
-184 songs - 9 hr 54 min
+185 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2023-03-31 |  |
 | [Mini Game](https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [DJ BRUNO PRADO](https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3) | [Mini Game](https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh) | 2:18 | 2022-05-15 | 2022-05-28 |
 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 | 2023-02-03 |  |
-| [Molly & Lean](https://open.spotify.com/track/0PsPpAjk9ZnQ3VkN2OiLzb) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Molly & Lean](https://open.spotify.com/album/3zGuvNZKU1hA3rUjvrnyOc) | 2:02 | 2023-04-07 |  |
+| [Molly & Lean](https://open.spotify.com/track/0PsPpAjk9ZnQ3VkN2OiLzb) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Molly & Lean](https://open.spotify.com/album/3zGuvNZKU1hA3rUjvrnyOc) | 2:02 | 2023-04-07 | 2023-04-15 |
 | [Monza Drift 2](https://open.spotify.com/track/4pq4nXtpCEJgkh7T1D1Y1R) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [Monza Drift 2](https://open.spotify.com/album/5XkMNAzloX0jsHw0R33fTK) | 2:21 | 2022-09-09 | 2022-09-24 |
 | [Morena Jambo](https://open.spotify.com/track/1B2bHrofRCWZW6skzyEyeP) | [Bren Oficial](https://open.spotify.com/artist/2kz0IOC0n4w9Zg7X7HigTB), [BAYDEN](https://open.spotify.com/artist/7c0fXRYG6tUlCU6q9CiZ0t), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv) | [Morena Jambo](https://open.spotify.com/album/5plxBEx5phRTSRkzUywmn9) | 2:27 | 2022-10-07 | 2022-10-29 |
 | [Motorola](https://open.spotify.com/track/4BCMUHGmaFaZGFcjBGOuzu) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Motorola](https://open.spotify.com/album/6KQUCi67p7tMUlpCUTAs2e) | 3:02 | 2022-09-09 | 2022-09-24 |
@@ -189,6 +189,7 @@
 | [Vou Parar de Tomar Gin 2](https://open.spotify.com/track/0tW642uinRMdXhCBdH2h1m) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Vou Parar de Tomar Gin 2](https://open.spotify.com/album/4GdyJ4UVrP1yUwcZUR3OIj) | 3:44 | 2022-03-18 | 2022-04-29 |
 | [Vulgo Malvadão](https://open.spotify.com/track/0bq6BwMFuwpaLxEZ9iZtf9) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv) | [Vulgo Malvadão](https://open.spotify.com/album/3MHEN4JOVTOOEFUGXunPnd) | 2:24 | 2022-04-29 | 2022-05-16 |
 | [Whisky](https://open.spotify.com/track/79fIVhifpK81aJa5VcMSTT) | [Bakari Boy](https://open.spotify.com/artist/2KpT0WurRGvBbhPHrGw4Lm), [WR No Beat](https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs) | [Whisky](https://open.spotify.com/album/7g4n5Jm4V1jfLFxrwa2mom) | 2:17 | 2022-08-05 | 2022-08-13 |
+| [Xurrasco Freestyle](https://open.spotify.com/track/7JkJMKjvNT4jOWcOh6alIG) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0) | [Xurrasco Freestyle](https://open.spotify.com/album/1xHkjKx49pUrZtLv8yIuQk) | 2:42 | 2023-04-14 |  |
 | [Zona Sul](https://open.spotify.com/track/3cBG9n5knrKohYjA3smGER) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS), [MC RP VK](https://open.spotify.com/artist/2JrpgVMFW3Hpe1CwLaAORl), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Zona Sul](https://open.spotify.com/album/3gnBlqScu5XcMEwlGF0SIG) | 2:20 | 2022-12-03 | 2022-12-31 |
 | [Água Rosè](https://open.spotify.com/track/0IeanQkxM2BZfZAiWVAtA9) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Além](https://open.spotify.com/album/6lphcExMxtb7BIIwrOFPTB) | 2:44 | 2023-02-03 | 2023-02-25 |
 | [Ô Moça](https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Ô Moça](https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6) | 3:00 | 2022-03-18 | 2022-09-24 |

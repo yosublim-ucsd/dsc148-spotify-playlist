@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,109 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,132 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 21 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
 | 22 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 |
 | 23 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
-| 24 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/55ik6uFrWcJCJWieLVkksl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 |
+| 24 | [Hundred Flowers Groove](https://open.spotify.com/track/5tW5MJ3uiziGFFgCQ2UZ8J) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Hundred Flowers](https://open.spotify.com/album/0GJeDLGTICRJY0cjWVAu6q) | 6:55 |
 | 25 | [Gary Mission](https://open.spotify.com/track/1udH7v82zd03uUlGNhzy9f) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [Loos In Twos \(NRG\)](https://open.spotify.com/album/6kOISrghqryTCzXFl877rx) | 5:00 |
 | 26 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 |
 | 27 | [Foundation](https://open.spotify.com/track/7vtyAcGAU5XL0ZbJLOsJZH) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle](https://open.spotify.com/album/2dAYxhDUENuQMgx3L9qUIh) | 4:28 |

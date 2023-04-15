@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 486976,
+  "num_followers": 487204,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDkwNywwMDAwMDAwMDkwNjFjN2U2ZDk0NzQyNThkNDhmMGY5ZDI3YWJhNjFh",
+  "snapshot_id": "MTY4MDI5MDkwNywwMDAwMDAwMDA4MzhmZmRhODNjMzM3ZWNhYTAwZjJhMmQ0Mjc4Y2Nj",
   "tracks": [
     {
       "added_at": "2023-02-23 02:07:34",
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
     },
     {
-      "added_at": "2023-04-14 00:42:54",
+      "added_at": "2023-04-15 00:41:40",
       "album": {
         "name": "Fugitivos",
         "url": "https://open.spotify.com/album/4ep9KHgO8WKp7ZEI3NoDTe"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
-      "added_at": "2023-04-14 00:42:54",
+      "added_at": "2023-04-15 00:41:40",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
-      "added_at": "2023-04-14 00:42:54",
+      "added_at": "2023-04-15 00:41:40",
       "album": {
         "name": "Qu\u00e9 Suerte",
         "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
     },
     {
-      "added_at": "2023-04-14 00:42:54",
+      "added_at": "2023-04-15 00:41:40",
       "album": {
         "name": "Me Acuerdo De Ti",
         "url": "https://open.spotify.com/album/1pJvqBTjliDkW7EUzEUO7Y"
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-02-23 02:07:34",

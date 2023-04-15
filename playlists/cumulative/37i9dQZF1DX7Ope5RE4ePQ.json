@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Music for the Royal Fireworks (arr. piano)",
+        "url": "https://open.spotify.com/album/0PGUKF5ILuyfQFaoS36xdX"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "Music for the Royal Fireworks (arr. piano)",
+      "url": "https://open.spotify.com/track/330Kg7uyfG3aVAd0gqPJZp"
+    },
+    {
+      "album": {
         "name": "Smetana: M\u00e1 Vlast",
         "url": "https://open.spotify.com/album/7bEgoD9Ays4eVg5zPvDhRb"
       },

@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 86535,
+  "num_followers": 86663,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDI5Y2VjMDUwZmEzZmE1OWI5YzAyMzQ4YWFkNGNlMjUy",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGFmOGI4YzE0ODYwZjcwMDIzYTFmYTVkZjFjYjFlZGNj",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 298586,
-      "name": "Wash.",
-      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Junk Of The Heart",
         "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 187253,
       "name": "Junk Of The Heart (Happy)",
       "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "What Did You Expect from The Vaccines?",
-        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Post Break-Up Sex",
-      "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "What Did You Expect from The Vaccines?",
+        "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Post Break-Up Sex",
+      "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "On the Water",
         "url": "https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 246426,
       "name": "Balance",
       "url": "https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Lights Out, Words Gone",
-      "url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 257786,
       "name": "Colours",
       "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Lights Out, Words Gone",
+      "url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "Limit To Your Love",
-      "url": "https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Cults",
         "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 203066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "Limit To Your Love",
+      "url": "https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Comeback Kid (That's My Dog)",
-      "url": "https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "BTSTU (Edit)",
         "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/1tTnc3AhId4QUgGR69cCF8"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Comeback Kid (That's My Dog)",
+      "url": "https://open.spotify.com/track/4Jjr9IXCJVWIXOTuXDBNoq"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Wounded Rhymes",
-        "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 202589,
-      "name": "Get Some",
-      "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 238546,
       "name": "East Harlem",
       "url": "https://open.spotify.com/track/4i6O75iAptEnENjKLOLZ9Y"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Wounded Rhymes",
+        "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 202589,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt"
     },
     {
       "added_at": "2021-09-02 08:15:11",

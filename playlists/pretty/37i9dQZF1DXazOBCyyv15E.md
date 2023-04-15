@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: King Krule
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,594 likes - 120 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,644 likes - 120 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 10 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
 | 11 | [like that](https://open.spotify.com/track/7idx1YkB2MGlsnCmbwMjVR) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [like that](https://open.spotify.com/album/6gcjscCResIRvj2pmBwoG2) | 1:58 |
 | 12 | [Windrush Baby](https://open.spotify.com/track/6UzZctITlti1xVg4zA6zeJ) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Windrush Baby](https://open.spotify.com/album/7Djnbj42u3dJfvr1fdcee7) | 3:24 |
-| 13 | [Oval Stones](https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1) | 3:33 |
+| 13 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 |
 | 14 | [Leon](https://open.spotify.com/track/2bBzjfxz6yLF1bX4tM4sJv) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Madelaine Hart](https://open.spotify.com/artist/3g8SpfbrHVEJk5rM8LCg7w) | [Leon](https://open.spotify.com/album/5Ke8YFSrOQFlltJM7mba4h) | 2:48 |
 | 15 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 |
 | 16 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 119 | [Past Life](https://open.spotify.com/track/0gnQIXp4YEsk3DgtT616re) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Past Life](https://open.spotify.com/album/3lbxwgkhW39lCa1Cq9Q9mI) | 3:37 |
 | 120 | [Dangling](https://open.spotify.com/track/37dySZZK5SUzZbb2wHQRTb) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Dangling](https://open.spotify.com/album/3CVGCgZ770NSXp52pWvAgi) | 2:48 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGQ3NTRjNGQwNzg1YmEyYmQxOGI1YTMzYjNkYjMzODM5`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDNmYTQ4MDQ5ZTgwNmEwOTk5ZGUyOTQ5MDNmN2I5MmMz`

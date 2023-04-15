@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,681 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,720 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 69 | [Famous Monsters](https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Famous Monsters](https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ) | 6:37 |
 | 70 | [Lune est l'autre](https://open.spotify.com/track/355aCQI1oP2uebzzCrvabZ) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:53 |
 | 71 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 |
-| 72 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
-| 73 | [Return to Oz](https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic](https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8) | 7:12 |
+| 72 | [Return to Oz](https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic](https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8) | 7:12 |
+| 73 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 74 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
 | 75 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
 | 76 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 90 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 91 | [Young Lies](https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Young Lies](https://open.spotify.com/album/2a8wGWGAR5NXoz3oeeG56Z) | 3:50 |
 | 92 | [Jardins Aquatics](https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a) | 5:58 |
-| 93 | [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 |
-| 94 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 |
+| 93 | [Sol](https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [Sol De Mi Vida](https://open.spotify.com/album/69zq4kjggO1ibPgk4px1Ve) | 3:07 |
+| 94 | [We All Move Together \- Kevin Saunderson x Latroit Remix](https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [We All Move Together \(Kevin Saunderson x Latroit Remix\)](https://open.spotify.com/album/2jCX2SAk1TFen1uv51Deqc) | 3:20 |
 | 95 | [Lucky](https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Eat](https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR) | 3:54 |
 | 96 | [So Right](https://open.spotify.com/track/0UEqdYaTjYYLuEr6fLneDl) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Working Class Woman](https://open.spotify.com/album/5AG8Dvo3N4y9ZlCjU06yXh) | 5:06 |
 | 97 | [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
 | 100 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 
-Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDg4MWEzZmE1MjI2OGQ0N2I2OTEzZDNiZjlkOTM5OTJh`
+Snapshot ID: `MTY3NjAwNTIwMCwwMDAwMDAwMDVmMGYyNmQ0YzMzMmIwOWM5ZGMwMDU0MmUzYTk4OWU3`

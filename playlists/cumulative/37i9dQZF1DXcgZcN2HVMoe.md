@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-698 songs - 1 day 17 hr 41 min
+699 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Bittersweet Endings](https://open.spotify.com/track/7B9msPusVvUMI4mV554aQz) | [Rightfield](https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14) | [Bittersweet Endings](https://open.spotify.com/album/3lYtQZRYaijacHL93WtxaX) | 3:38 | 2021-12-17 | 2022-04-21 |
 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2021-12-17 |  |
 | [Blind Missiles](https://open.spotify.com/track/4iIoVlUgVqWmnJ85HoOD7J) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Blind Missiles](https://open.spotify.com/album/3ia3GpJPPwJPx1mvu1JCaR) | 3:21 | 2022-01-24 | 2022-04-11 |
-| [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 | 2021-12-17 | 2023-01-15 |
+| [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 | 2021-12-17 |  |
 | [Bloom](https://open.spotify.com/track/1tP3UmAa7Uv2Sb6hjMwwCa) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Lighter](https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a) | 4:35 | 2021-12-17 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 | 2022-07-22 |  |
 | [Bloom](https://open.spotify.com/track/4TKHFv1IkAQFg9PJUWS8f6) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/3j15Ww18uWAdXNJxrxNiA9) | 2:53 | 2021-12-17 | 2022-07-29 |
@@ -168,7 +168,8 @@
 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 | 2022-07-29 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-07-22 | 2022-10-13 |
 | [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 |  |
-| [Everything Is Just a Mess](https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 4:43 | 2023-03-28 |  |
+| [Everything Is Just a Mess](https://open.spotify.com/track/1RsKWNZJOBfOsVSeDIogpB) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 4:43 | 2023-03-28 | 2023-04-15 |
+| [Everything Is Just a Mess](https://open.spotify.com/track/6sg3etiypBGJ9ZQ8G3nzz3) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Everything Is Just a Mess](https://open.spotify.com/album/04QQf7Nw7tfU8tCoewacbX) | 4:43 | 2023-03-28 |  |
 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 | 2021-12-17 | 2022-04-21 |
 | [Exhale \- Acoustic](https://open.spotify.com/track/0dY1EGwJi07EHmDr1qwyG0) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Exhale \(Acoustic\)](https://open.spotify.com/album/6iUYug744pXKrAk45VGcuq) | 2:36 | 2022-01-24 | 2022-04-20 |
 | [Extraordinary Life](https://open.spotify.com/track/5uzobcG3nuWj4MU6CBaHfd) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/5h81iCjTwueeh5ZbDGhU9V) | 3:41 | 2021-12-17 | 2022-07-29 |
@@ -304,7 +305,7 @@
 | [I Hope You Change Your Mind](https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [I Hope You Change Your Mind](https://open.spotify.com/album/5wnyz8qup6D4XuVysaiz8S) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 | 2021-12-17 |  |
 | [I Love the Rain the Most](https://open.spotify.com/track/0j9KNQ9pDEQejEm3wdgiAr) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/7jCI1V11SNSc6wjEEG2NlG) | 4:38 | 2022-01-24 | 2022-04-21 |
-| [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 | 2022-07-22 |  |
+| [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 | 2022-07-22 | 2023-04-15 |
 | [I Made a Mess Here \(22 Symphony\)](https://open.spotify.com/track/4ShMGb0fv1ew8I86a40tpe) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [All My Strength and All My Weakness](https://open.spotify.com/album/6PnEpx8wdShvkpbpuOteeG) | 3:46 | 2021-12-17 | 2022-06-11 |
 | [I Melt With You](https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt With You](https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [I Melt with You](https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [I Melt with You](https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS) | 3:37 | 2023-02-10 |  |

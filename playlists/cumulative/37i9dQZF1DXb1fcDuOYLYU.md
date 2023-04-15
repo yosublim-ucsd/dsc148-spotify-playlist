@@ -4,7 +4,7 @@
 
 > Celebrating the powerful voices of Latin music\. Cover: Emilia
 
-257 songs - 14 hr 10 min
+258 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aguardiente \- Remix](https://open.spotify.com/track/6pCUhBhx6VE8L15A6usvi2) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Andrés Torres](https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q), [Mauricio Renfigo](https://open.spotify.com/artist/0KOrS1vIyPI4RNJ80VUY8l) | [Aguardiente \(Remix\)](https://open.spotify.com/album/6MEDIrVfxoDBboJMDjlqvh) | 2:46 | 2022-03-28 | 2023-02-16 |
 | [Agüita e Coco](https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Agüita e Coco](https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk) | 2:56 | 2022-03-14 | 2023-02-16 |
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2023-02-16 |  |
-| [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 | 2023-02-16 | 2023-04-02 |
+| [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 | 2023-02-16 |  |
 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 | 2023-03-31 |  |
 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 | 2023-02-16 |  |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2023-02-16 |  |
@@ -123,6 +123,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-03-28 | 2023-02-16 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/7HL0P35A96wkutKopiovaX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Festejá con ritmos latinos](https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL) | 4:38 | 2022-03-28 | 2022-11-13 |
 | [Las Nenas \(feat\. La Duraca\)](https://open.spotify.com/track/2KTCXvWUbqfiinbFe7PJKP) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [La Duraca](https://open.spotify.com/artist/7x7vfF89MqM94K8wvK3Omq) | [Las Nenas \(feat\. La Duraca\)](https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI) | 3:44 | 2022-03-14 | 2023-02-16 |
+| [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 | 2023-04-14 |  |
 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 | 2023-02-16 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2022-03-14 |  |
 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 | 2022-03-14 | 2023-02-16 |
@@ -202,7 +203,7 @@
 | [Porque Soy Abeja Reina](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-02-16 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-02-16 |  |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2023-02-16 |  |
-| [Quieres](https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Quieres](https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc) | 3:33 | 2023-02-16 |  |
+| [Quieres](https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Quieres](https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc) | 3:33 | 2023-02-16 | 2023-04-15 |
 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 | 2023-02-16 |  |
 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2023-02-16 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2022-03-14 | 2023-02-16 |
@@ -244,7 +245,7 @@
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-14 | 2023-02-16 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2022-03-14 | 2023-02-16 |
 | [Un Baile Mas](https://open.spotify.com/track/1gdvQRgBMwyofkeCH6hi4o) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Un Baile Mas](https://open.spotify.com/album/2mxpgqyeZCnqOQrkHHrpD5) | 3:43 | 2022-03-14 | 2023-02-16 |
-| [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-02-16 |  |
+| [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-02-16 | 2023-04-15 |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2023-02-16 | 2023-04-01 |
 | [Valiente](https://open.spotify.com/track/60BzJsRXfql6GwO14IAiiZ) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [\#333](https://open.spotify.com/album/53fIYm90YSwnseipgrVr6M) | 4:15 | 2022-03-14 | 2023-02-16 |
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2022-03-14 | 2022-09-04 |

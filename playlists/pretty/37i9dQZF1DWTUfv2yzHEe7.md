@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > All 00s, all dance! Cover \- Dhoom 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,344 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,670 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

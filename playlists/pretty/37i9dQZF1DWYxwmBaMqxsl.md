@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,952 likes - 177 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,278 likes - 177 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 176 | [Bandängen](https://open.spotify.com/track/7HX0DryEZ4qOYEzVCF942E) | [Jazz Tonality](https://open.spotify.com/artist/7bUmkNAZbilFTnmG2lmU5t) | [Bandängen](https://open.spotify.com/album/7akZUKwJixzT2ey60dcaPR) | 2:30 |
 | 177 | [Some Other Time](https://open.spotify.com/track/4PWfrnO8uHHaym7JmlPeB3) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Some Other Time](https://open.spotify.com/album/3gfJkuMpRxheBsyQf5Sbc1) | 5:16 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDI1ZTc4M2U2MmU3ODkwNTdiNmI1NzQ5OTBkODhjZDdk`
+Snapshot ID: `MTY4MTQ2Njg1OSwwMDAwMDAwMDZjMjFhOTQxMjFmYWE1NTllYjg0OTY5ZWFjZTZkNDdm`

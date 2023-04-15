@@ -11,7 +11,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 1 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 2 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 |
 | 3 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 |
-| 4 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 |
+| 4 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 5 | [Pacific Line](https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [The Miseducation of Kidella](https://open.spotify.com/album/228W8YwNPHPSnWe4ebP6jr) | 4:14 |
 | 6 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
 | 7 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 |
 | 60 | [クエスチョン](https://open.spotify.com/track/0KeSj8mWXvtC7XfUgian5b) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [クエスチョン](https://open.spotify.com/album/7iUsgV2Sr93tmNaWKzzfwx) | 3:03 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDhiMzVjNzkyZDE5NDMzMTllN2U4MGVjMTMwYjQxMzFi`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGU1MGNjNTQ2NDhhMDNiOWQ1MDdhMDM5ZGY5Y2Y5YmI5`

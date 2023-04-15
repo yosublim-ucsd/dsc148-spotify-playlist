@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Chang Kiha\(장기하\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Daddy O Radio \(데디오레디오\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-468 songs - 1 day 4 hr 50 min
+469 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-04-12 |  |
 | [Dive](https://open.spotify.com/track/7yNK1wbcoFYckChKRRWuny) | [TOMMIER](https://open.spotify.com/artist/5Ew54mXT7GnPjS29Z4RVpg) | [Dive](https://open.spotify.com/album/3m0EapQi3Q4YAVaW1RIOeD) | 3:41 | 2022-04-21 | 2022-05-31 |
-| [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-05 |  |
+| [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 | 2023-04-05 | 2023-04-15 |
 | [Do You Need A Rockstar](https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Do You Need A Rockstar](https://open.spotify.com/album/4TMfhEcfhMRsFd3jHNlOIJ) | 3:13 | 2022-04-21 | 2022-04-24 |
 | [Doberman](https://open.spotify.com/track/64BzcskCExMQTFAcTubGv7) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Military Prosecutor Doberman, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0QP7DNMT3yVLOvbrTEndEl) | 3:07 | 2022-05-11 | 2022-05-25 |
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
@@ -383,6 +383,7 @@
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
 | [takeoff](https://open.spotify.com/track/5PRc30D1NLEGUKi7KeIetn) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [magicality](https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz) | 3:14 | 2022-08-10 | 2022-08-19 |
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-05-11 | 2022-07-29 |
+| [TATTOO](https://open.spotify.com/track/2qDm3urhZhuBDZanIPFLuF) | [Daddy O Radio](https://open.spotify.com/artist/2CnlaPaWAPrHEu4TbR0pz9) | [GREEN TATTOO](https://open.spotify.com/album/0wsqgKLZxPY2pDvv1ii1Tp) | 3:12 | 2023-04-14 |  |
 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 | 2022-10-02 | 2022-10-19 |
 | [Teddy bear](https://open.spotify.com/track/6ED0tnBoWmQdJHDBKL0w4e) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:59 | 2022-04-22 | 2022-07-26 |
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,114 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,184 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 30 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 31 | [Tu Traición Se Acabó \- En Vivo](https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Domingos de Fiesta \(En Vivo\)](https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy) | 4:07 |
 | 32 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
-| 33 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
-| 34 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
+| 33 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
+| 34 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
 | 35 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
 | 36 | [Me Vas a Extrañar](https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Me Vas a Extrañar](https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj) | 3:53 |
 | 37 | [Amor a Primera Vista](https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv) | [Amor a Primera Vista](https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
 | 50 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 
-Snapshot ID: `MTY4MDIzODg2MCwwMDAwMDAwMGIyY2EyZDYwN2M0MGYzYWNmNWVkMjQxOWY0MjgwNDRh`
+Snapshot ID: `MTY4MDIzODg2MCwwMDAwMDAwMGEzMTFkYjZkMjNiOTYxNDFlNWIxYjE1MTI2OTRhZThm`

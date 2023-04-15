@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Directo al Cora",
+        "url": "https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148929,
+      "name": "ARABIE",
+      "url": "https://open.spotify.com/track/78Pi9Yg0F33GljYvY359Ui"
+    },
+    {
+      "album": {
         "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
         "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
       },
@@ -2139,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Mi Testamento",
+      "url": "https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi"
+    },
+    {
+      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now"
       },
@@ -3012,6 +3052,24 @@
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
+    },
+    {
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "album": {

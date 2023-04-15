@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1980s.",
-  "num_followers": 10167544,
+  "num_followers": 10170099,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ4MTkwMCwwMDAwMDAwMDI2ZmNjNGE0ZTZmMDVlYTRlN2EwOTVkZjJiYjFjZWEx",
+  "snapshot_id": "MTY3OTQ4MTkwMCwwMDAwMDAwMDdlNjlkZGM3ZjljOWJjNTVjYTUzNThlMzc0YzlhMTll",
   "tracks": [
     {
       "added_at": "2023-02-02 20:37:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "99 Luftballons",
-      "url": "https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Secret Dreams and Forbidden Fire",
         "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 348333,
       "name": "Holding Out for a Hero - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/78hVLZZJhaXgrnfXKc6yxF"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "99 Luftballons",
+      "url": "https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 287440,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
     },
     {
       "added_at": "2023-02-02 20:37:09",

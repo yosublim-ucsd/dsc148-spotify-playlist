@@ -2,9 +2,9 @@
 
 ### [emo right now](https://open.spotify.com/playlist/37i9dQZF1DX5KAyJZfh4Qa)
 
-> it's just one of those days w/ Sweet Pill
+> it's just one of those days with Balance and Composure.
 
-101 songs - 5 hr 33 min
+104 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Call From You](https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:01 | 2022-12-20 |  |
 | [Callin Me](https://open.spotify.com/track/1u6DEiPt9CI214nVfF09Uu) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 2:52 | 2022-11-25 | 2022-12-02 |
 | [Callin Me](https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 2:52 | 2022-11-25 |  |
-| [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 |  |
+| [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 | 2023-04-15 |
 | [closure](https://open.spotify.com/track/0PnpSFbRM8BoUFHXCKTQNX) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [closure](https://open.spotify.com/album/4wizf68w9Q5Uz7UFTUKqp3) | 2:34 | 2023-02-11 |  |
 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 | 2022-11-25 | 2023-02-12 |
 | [computer exploder](https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/5Qcv0Vr8N5XOwfR7IyzOh8) | 3:18 | 2022-11-25 |  |
@@ -40,6 +40,7 @@
 | [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 |  |
 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2022-11-25 |  |
 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 | 2022-11-25 |  |
+| [Ferrari](https://open.spotify.com/track/1MpPv7wnIzfqJMdnSAnV6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Ferrari](https://open.spotify.com/album/5NAncxqbc4XMu0AOpIHYcM) | 2:25 | 2023-04-14 |  |
 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 | 2023-02-11 |  |
 | [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 | 2022-11-25 |  |
 | [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-11-25 |  |
@@ -67,7 +68,7 @@
 | [Mirage](https://open.spotify.com/track/46D6miQ2fYY0gaHhPEQVdH) | [With the Punches](https://open.spotify.com/artist/4USpQ4wWk8VrkCzQiSNb3u) | [Discontent](https://open.spotify.com/album/1sH3LVK2KommQFjz2svtE4) | 3:38 | 2022-11-25 |  |
 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 | 2022-11-25 |  |
 | [Nobody Said](https://open.spotify.com/track/1TV2LRINKshQDOJnDIR2Sa) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Nobody Said](https://open.spotify.com/album/1LEtw9ajPrpReLEEao1KqP) | 3:43 | 2022-11-25 |  |
-| [not a christmas carol](https://open.spotify.com/track/4PhwBqyQ825gi1qfQKY3yN) | [Dear Me](https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS) | [not a christmas carol](https://open.spotify.com/album/39FakGbdymf5l7cOg9639P) | 1:12 | 2022-12-20 |  |
+| [not a christmas carol](https://open.spotify.com/track/4PhwBqyQ825gi1qfQKY3yN) | [Dear Me](https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS) | [not a christmas carol](https://open.spotify.com/album/39FakGbdymf5l7cOg9639P) | 1:12 | 2022-12-20 | 2023-04-15 |
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-11 |  |
 | [October Valentine](https://open.spotify.com/track/5dzsXgBuueQO0VB5eeBbWJ) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [October Valentine](https://open.spotify.com/album/27nkQoAzmV91yIaQg3Uz5h) | 3:29 | 2022-11-25 | 2023-02-12 |
 | [one taste](https://open.spotify.com/track/3bLmCnBjjVxvpin9Pfp6G6) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [no worries](https://open.spotify.com/album/1CXDZI3XQimDSKqSqvr1h9) | 4:32 | 2022-11-25 | 2023-03-18 |
@@ -80,8 +81,9 @@
 | [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 | 2023-04-03 |  |
 | [Real Life](https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:44 | 2022-11-25 | 2023-04-14 |
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-25 | 2023-02-12 |
-| [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 |  |
+| [Roxies and Cigarettes](https://open.spotify.com/track/2G1P7fzblRleUALoFmtJyD) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [About Your Imaginary Friend](https://open.spotify.com/album/5D2FeA8bJy0VM7zT2vNGxo) | 3:55 | 2022-11-25 | 2023-04-15 |
 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 | 2022-11-25 |  |
+| [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 | 2023-04-14 |  |
 | [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 | 2023-03-17 |  |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-03-10 |  |
 | [Sick As Your Secrets](https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Love At Leeds](https://open.spotify.com/album/3xEWVX0nsMdrElVih8p62M) | 2:39 | 2022-11-25 | 2023-03-18 |
@@ -95,6 +97,7 @@
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-11-25 |  |
 | [Talk to Strangers](https://open.spotify.com/track/0RPuTw2dsCs8W4jAdlyxac) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Talk to Strangers](https://open.spotify.com/album/0eHCt4oUTdI8426acSlDBq) | 2:46 | 2023-02-11 |  |
 | [tarot cards](https://open.spotify.com/track/2I6KRUyzJpzlm7JDgp5GTB) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [hospital bed](https://open.spotify.com/album/0qb5ae9027o4FzBj3cTVif) | 3:01 | 2023-03-28 |  |
+| [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-14 |  |
 | [The Cool Kids](https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Nova](https://open.spotify.com/album/4ppxTvpqPEY7QGWlBxTHXE) | 3:49 | 2022-11-25 |  |
 | [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 | 2023-03-11 |
 | [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,863,350 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,864,500 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 187 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 |
 | 188 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 |
 | 189 | [Cry with you](https://open.spotify.com/track/46LAHXpuIUZ5kR7AyQ1qmd) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:37 |
-| 190 | [Drunk in the Bathtub](https://open.spotify.com/track/3jPPeZhJ5I6sSDqchAFlx4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:46 |
-| 191 | [River Of Tears](https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 4:14 |
+| 190 | [River Of Tears](https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 4:14 |
+| 191 | [Drunk in the Bathtub](https://open.spotify.com/track/3jPPeZhJ5I6sSDqchAFlx4) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:46 |
 | 192 | [Dreaming with a Broken Heart](https://open.spotify.com/track/7keXdrB4mz57u4b8YkCwag) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
 | 193 | [Lost My Mind](https://open.spotify.com/track/4gM1iFJFRFDvl2mz0t65Ce) | [FiloChill](https://open.spotify.com/artist/3dwVndIdsi5UVhJjFstRUX) | [Lost My Mind](https://open.spotify.com/album/43xwvHubA7qJpzPz7yBQEo) | 3:22 |
 | 194 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX) | 3:23 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 3:24 |
 | 200 | [Thinking 'Bout Love \- Acoustic](https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To \(Acoustic\)](https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw) | 3:04 |
 
-Snapshot ID: `MTY4MDI2MDQwMCwwMDAwMDAwMDZlYTIyYTU0OTQ0ZTQ4MTg0OGM3ZWUyNTM5NGRhZjI4`
+Snapshot ID: `MTY4MDI2MDQwMCwwMDAwMDAwMDk0ODBlMmFmNzliYTZlMmEzMTA0Y2VlMmU1ZTRlOGMy`

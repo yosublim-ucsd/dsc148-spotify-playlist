@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-155 songs - 9 hr 41 min
+158 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abril](https://open.spotify.com/track/1iDw6gQPCiRaXlzvnryPKh) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [La Fama](https://open.spotify.com/album/21Xq8rEbyJpRyLkvEUot7l) | 3:02 | 2022-01-28 |  |
 | [Acelerar](https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O) | [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acelerar](https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3) | 3:22 | 2023-03-17 |  |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-04-26 |  |
+| [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-14 |  |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2022-01-28 |  |
 | [Alto Riesgo](https://open.spotify.com/track/6mBGhOa2l2bltOh12QiHbl) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Alto Riesgo](https://open.spotify.com/album/5gXL83O1KlPQoJRAWkUMM2) | 3:27 | 2022-01-28 |  |
 | [Alucinante](https://open.spotify.com/track/7gkw2rnb9fr0jFibCEjeTK) | [Monte Casino](https://open.spotify.com/artist/5ar40BBA3PLuS5Ac8D8zon), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Alucinante](https://open.spotify.com/album/2zFnVvMJjnuqG8bTLSdcDg) | 2:37 | 2022-01-28 |  |
@@ -65,6 +66,7 @@
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2022-01-28 |  |
 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 | 2022-12-15 |  |
 | [Estás Dormida](https://open.spotify.com/track/5n66NHjgWybVQBwNDq710a) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [Estás Dormida](https://open.spotify.com/album/0z9NFb3G6T8O35iubt1hAo) | 3:34 | 2023-02-17 |  |
+| [Fake News](https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:07 | 2023-04-14 |  |
 | [Fluir](https://open.spotify.com/track/2UxrK7r4cyQOSh7wvdQTe1) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Todo Es Temporal](https://open.spotify.com/album/5jvy9tGQi1NE0l8XAGZhC9) | 3:52 | 2022-01-28 |  |
 | [Fotografía](https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 4:29 | 2022-01-28 |  |
 | [Fórmula](https://open.spotify.com/track/0WRaVLb74H6OqumreUs1mz) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:38 | 2022-04-26 |  |
@@ -101,6 +103,7 @@
 | [Luciana](https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Flotador](https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6) | 3:17 | 2022-09-28 | 2023-02-18 |
 | [Me Caes Perfecto](https://open.spotify.com/track/7BfhJ6Aiqe2VNkE6w1E2gr) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Carisma](https://open.spotify.com/album/3Ul56jxBCh4n02S1AAyxTp) | 4:06 | 2022-04-26 |  |
 | [Me Gustas](https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Rotos](https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz) | 3:22 | 2022-01-28 |  |
+| [Me Hago Mal](https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/4E2l41cZXhRKXIi8gMKDe4) | 3:06 | 2023-04-14 |  |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-01-28 |  |
 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 | 2022-01-28 |  |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-27 |  |

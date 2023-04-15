@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,956 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,023 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 36 | [Silver Threads And Golden Needles](https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Hand Sown...Home Grown](https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W) | 2:21 |
 | 37 | [Morning Sky](https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Souvenirs](https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq) | 2:49 |
 | 38 | [Cosmic Cowboy](https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Django Walker](https://open.spotify.com/artist/3gA6trQf3KmA74GZw9WTsI), [Gary P\. Nunn](https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL), [Bob Livingston](https://open.spotify.com/artist/1n8LsK850ruMqeFvVpcDW9) | [Austinology \- Alleys of Austin](https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1) | 4:16 |
-| 39 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
-| 40 | [White Line Fever](https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:16 |
+| 39 | [White Line Fever](https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:16 |
+| 40 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
 | 41 | [Mama Nantucket](https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq) | [Michael Nesmith](https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2), [The First National Band](https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF) | [Magnetic South \(Expanded Edition\)](https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7) | 2:39 |
 | 42 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
 | 43 | [Willin'](https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K) | [Commander Cody and His Lost Planet Airmen](https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE) | [Commander Cody & His Lost Planet Airmen](https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 50 | [It's Not Supposed to Be That Way](https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr) | [Steve Young](https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH) | [Renegade Picker](https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk) | 3:41 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDhkOWU1YjhkZTU5MDNhODNhMWFjOGRiYWQ3MDUyMDFi`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMGJiNmIzZGMyZjRkOTEyNmJjYjhkNGU4NWI4NTkxNDM2`

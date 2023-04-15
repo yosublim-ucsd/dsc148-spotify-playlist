@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1221428,
+  "num_followers": 1221417,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDNlZWY2ZTZjMzRjMGY5Yzc0MWU3MzllNTkwNjYzODFh",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDMzZGYzZjFhMzJiM2ZhMDVjZjkxMDdhNzIzYjVkYTQx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Free Yourself Up",
-        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178346,
       "name": "Virginia May",
       "url": "https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Twist",
-        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
-      },
-      "artists": [
-        {
-          "name": "Lorkin O'Reilly",
-          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
-        }
-      ],
-      "duration_ms": 186157,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
     },
     {
       "added_at": "2023-03-31 04:00:00",

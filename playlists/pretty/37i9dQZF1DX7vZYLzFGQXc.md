@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: TAEWOO\(태우\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,587 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,613 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 51 | [오늘도 그렇게](https://open.spotify.com/track/0NcMWuULDlYYpBuMBABmvz) | [Salmon Sushi](https://open.spotify.com/artist/4ogKGZt97ETvyY9AiHv7LU) | [오늘도 그렇게](https://open.spotify.com/album/4Wxb6agrgYJnse8au3W94F) | 3:57 |
 | 52 | [Seoul City Vibe](https://open.spotify.com/track/7bimbANEtBLHsyT0fm3wOh) | [Son Min Woo](https://open.spotify.com/artist/6t4Fk3SIaQ0RAFurM3t8aw) | [Seoul City Vibe](https://open.spotify.com/album/0olqyvrLhZSxWFYGpoFVjQ) | 2:04 |
 | 53 | [Fire Emoji](https://open.spotify.com/track/71Kifvlmko4zgeyZaBPFJO) | [99' Nasty Kidz](https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [Neo Zasty Cool](https://open.spotify.com/album/1ONFXsMrmBspD1edMDmJkk) | 2:31 |
-| 54 | [Denial \(With Neal\)](https://open.spotify.com/track/5OVLBzfTHAahOwvkRUTjqb) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc), [Neal](https://open.spotify.com/artist/6GCiiAQkLAFfrOqYeQa1vF) | [Denial](https://open.spotify.com/album/45VcI5CNQGLiBM56GSRJRx) | 2:26 |
+| 54 | [Denial \(With Chan Zo\)](https://open.spotify.com/track/5OVLBzfTHAahOwvkRUTjqb) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc), [Chan Zo](https://open.spotify.com/artist/7Db2QjFoXZZC6oE4kLR8r4) | [Denial](https://open.spotify.com/album/45VcI5CNQGLiBM56GSRJRx) | 2:26 |
 | 55 | [Can I love you without worrying?](https://open.spotify.com/track/2Zv3G7RUcEqROV5U0c5xiJ) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Can I love you without worrying?](https://open.spotify.com/album/3YDEMzvNx7eJVSktN4dOK3) | 3:28 |
 | 56 | [love ends](https://open.spotify.com/track/74FPQJJ6ao6V8NCBKb1Yjl) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [love ends](https://open.spotify.com/album/5u9HYEIX9G5QMAiwNjHQ0w) | 4:07 |
 | 57 | [Blank](https://open.spotify.com/track/4eJyP6nKKIqJzdwHIBwUfs) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Blank](https://open.spotify.com/album/3mvZil0Pb1KQBXEtUIf9zg) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-296 songs - 18 hr 33 min
+298 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 | 2023-01-20 |  |
 | [Amor de Verdad](https://open.spotify.com/track/7qozat5jqKmwgs7kLo2NWh) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT) | [Amor de Verdad](https://open.spotify.com/album/24MCC33x034nPk15G6K8MU) | 3:51 | 2022-03-04 | 2022-09-03 |
 | [Amorcito Enfermito](https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:50 | 2022-03-04 |  |
-| [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 | 2022-09-09 |  |
+| [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 | 2022-09-09 | 2023-04-15 |
 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 | 2023-04-11 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-03-04 |  |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-03-04 | 2022-09-03 |
@@ -133,6 +133,7 @@
 | [La Carretera](https://open.spotify.com/track/31q1SLZZJZkdXENljyG1xC) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [La Carretera](https://open.spotify.com/album/3U0yfBQFTl1LsSc1Esgwlt) | 3:58 | 2022-03-04 | 2022-07-29 |
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-12-04 | 2022-12-10 |
 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 | 2023-01-20 |  |
+| [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 | 2023-04-14 |  |
 | [La Diabla](https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:59 | 2022-09-02 | 2022-09-10 |
 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-07-19 |  |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-03-04 | 2022-07-29 |
@@ -206,7 +207,7 @@
 | [Pincesa Mia](https://open.spotify.com/track/3P3KYALsULoYB2D8qIuu2A) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Pincesa Mia](https://open.spotify.com/album/5Cn3fxulYCvMIosx6iYaLn) | 3:40 | 2022-03-25 | 2022-04-24 |
 | [Pobre Diabla](https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Musica Tropical Para Bailar](https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e) | 4:15 | 2022-09-09 | 2023-02-25 |
 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 | 2022-03-04 | 2022-09-03 |
-| [Por Favor](https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Favor](https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP) | 3:43 | 2022-09-16 |  |
+| [Por Favor](https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Favor](https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP) | 3:43 | 2022-09-16 | 2023-04-15 |
 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 | 2022-03-25 | 2023-01-25 |
 | [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 | 2022-03-04 | 2022-09-03 |
 | [Princesa Mia](https://open.spotify.com/track/58b7JlzLEEK7nnecVP2OQe) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Princesa Mia](https://open.spotify.com/album/5MkMetkuLTsUi4ZIrAfSWr) | 3:40 | 2022-07-19 | 2022-08-20 |
@@ -286,6 +287,7 @@
 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 | 2022-09-09 |  |
 | [Tu Tienes Tu Vida](https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [Tu Tienes Tu Vida](https://open.spotify.com/album/786RkvYJnMkMm9yLHgObfr) | 3:28 | 2022-03-25 | 2022-09-03 |
 | [Tu Veneno](https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Con El Corazón Abierto](https://open.spotify.com/album/0K9TfhxcGsjOBOLrf2C4Wj) | 3:40 | 2022-03-04 | 2022-09-03 |
+| [Tu Y Yo](https://open.spotify.com/track/5xVLmPSxDOMCrSJdhomxUQ) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Game over \(Bachata’s Most Wanted\)](https://open.spotify.com/album/3hZ9IfqBn0Vi2tDfv2Bs6h) | 3:21 | 2023-04-14 |  |
 | [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 | 2022-09-09 | 2023-01-29 |
 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 | 2023-03-24 |  |
 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 | 2022-03-04 |  |

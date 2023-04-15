@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 211002,
       "name": "Beaut\u00e9 baroque - Session live H2T",
       "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
@@ -7002,6 +7002,28 @@
       "duration_ms": 176560,
       "name": "Vall\u00e9e embrum\u00e9e",
       "url": "https://open.spotify.com/track/19ewBbCHh4wNEeLPEmHwJ8"
+    },
+    {
+      "album": {
+        "name": "Vers la mer",
+        "url": "https://open.spotify.com/album/3soUS8FlIpF1yRB3riT9xw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Lord",
+          "url": "https://open.spotify.com/artist/1c1Eft7z1a5uQdJ2iwSct7"
+        },
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238388,
+      "name": "Vers la mer",
+      "url": "https://open.spotify.com/track/36rXAkb0k72JIjOil4SS6W"
     },
     {
       "album": {

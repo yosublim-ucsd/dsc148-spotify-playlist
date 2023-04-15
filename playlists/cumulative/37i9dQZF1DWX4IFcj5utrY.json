@@ -14186,10 +14186,32 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 141774,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6k6vZAcgZ5mnKn9SkBx9rH"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4covYFWbZzjHIjLciUFO2E"
+      },
+      "artists": [
+        {
+          "name": "Keerthin",
+          "url": "https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt"
+        },
+        {
+          "name": "Reverse Prime",
+          "url": "https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141774,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6wvg23QPvpHmgJNJbVsSyD"
     },
     {
       "album": {

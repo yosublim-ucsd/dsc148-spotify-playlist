@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,794 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,836 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 26 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
 | 27 | [Didn't It Rain](https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 2:38 |
 | 28 | [Summertime](https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:53 |
-| 29 | [Evil Gal Blues](https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:54 |
-| 30 | [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 |
+| 29 | [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 |
+| 30 | [Evil Gal Blues](https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:54 |
 | 31 | [When The Levee Breaks](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Queen Of The Blues](https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY) | 3:08 |
 | 32 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |
 | 33 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 48 | [Good Old Wagon](https://open.spotify.com/track/66UbGr4aj2FCys1UQnzCRR) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:19 |
 | 49 | [Funny Feathers](https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99) | [Victoria Spivey](https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4), [Louis Armstrong's Orchestra](https://open.spotify.com/artist/2zDpfbbDiCyXhKSZIwiDpY) | [The Victoria Spivey Collection 1926\-27](https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe) | 3:16 |
 | 50 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
-| 51 | [Trouble In Mind \(9510\)](https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT) | [Bertha "Chippie" Hill](https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E) | [Bertha "Chippie" Hill 1925\-1929](https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9) | 2:44 |
-| 52 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
+| 51 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
+| 52 | [Trouble In Mind \(9510\)](https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT) | [Bertha "Chippie" Hill](https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E) | [Bertha "Chippie" Hill 1925\-1929](https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9) | 2:44 |
 | 53 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
 | 54 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
 | 55 | [Trouble in Mind](https://open.spotify.com/track/6qURWmWdKXkoGGvEl2iiEi) | [Julia Lee](https://open.spotify.com/artist/12YnPfu3zqQ9uOalclG0bK) | [Tonight's the Night](https://open.spotify.com/album/29MBxwwCj9k7jt6Z6mUTnv) | 2:55 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 72 | [The Bluest Blues](https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo) | [Annisteen Allen](https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4) | [Fujiyama Mama](https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA) | 2:51 |
 | 73 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
 | 74 | [I'm His And He's Mine](https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB) | [The Soul Satisfiers Of Philadelphia](https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL) | [Powerhouse Gospel](https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ) | 2:36 |
-| 75 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
+| 75 | [Jack I'm Mellow \(Alternate Take 2\)](https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Presenting Trixie Smith](https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu) | 2:45 |
 
-Snapshot ID: `MTY3Nzg2NzA4MSwwMDAwMDAwMDc4MjI3OWUwM2RjZjA4OGJiNmM0MmFiMmZhODEzNGRj`
+Snapshot ID: `MTY3Nzg2NzA4MSwwMDAwMDAwMDQ0ZWIwNDM1OTI3MDdjZWMzMzY0NTNkOWRiYzAyYzY4`

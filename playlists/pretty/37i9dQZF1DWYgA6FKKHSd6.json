@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 211161,
+  "num_followers": 211190,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDcxYzhhZWI0MmU5YmYwMTcxMDEwMDhjYThhMTJhZmIx",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDM5YmZhODM3NjA2ZjFmNjQ0ZjI3MjA3OGI3MTc2ZWY3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Embrace",
@@ -699,22 +715,6 @@
       "duration_ms": 266506,
       "name": "Leave It to the Gods",
       "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+        "name": "G (Bonus Version)",
+        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+      "duration_ms": 244600,
+      "name": "Taking Control",
+      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "G (Bonus Version)",
-        "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
       },
       "artists": [
         {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Taking Control",
-      "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Moment of Truth",
@@ -1303,6 +1287,22 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1339,22 +1339,6 @@
       "duration_ms": 309827,
       "name": "As the Days Go by...",
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
-    },
-    {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1407,6 +1391,22 @@
       "duration_ms": 310480,
       "name": "Another Part Of Me",
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
+    },
+    {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Church Boy",
         "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 238529,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Steppin' Up",
         "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 243986,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Another Time",
-        "url": "https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM"
-      },
-      "artists": [
-        {
-          "name": "Rocco Ventrella",
-          "url": "https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ"
-        }
-      ],
-      "duration_ms": 273653,
-      "name": "She's Ready",
-      "url": "https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 249320,
       "name": "Break the Ice",
       "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM"
+      },
+      "artists": [
+        {
+          "name": "Rocco Ventrella",
+          "url": "https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ"
+        }
+      ],
+      "duration_ms": 273653,
+      "name": "She's Ready",
+      "url": "https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3"
     },
     {
       "added_at": "2021-07-12 18:09:21",

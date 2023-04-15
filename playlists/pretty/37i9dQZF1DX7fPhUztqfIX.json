@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 104254,
+  "num_followers": 104302,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGVmMjlhYjg3NmQ5NDQ5NTU4ZGY3OTZlMmZhMzIxODM4",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMGU4ZTk0OWZhNWE4NjQwMzY4YTBiZTgxYWRlNTA5Yjk5",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -651,26 +651,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 266826,
       "name": "Christ The Lord Is with Me (with Amanda Lindsey Cook & Wonder Grace Gretzinger)",
       "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -883,6 +883,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 258250,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/7JfaRyAN7i49gRG80Cevon"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Gold (Live)",
-        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 499053,
-      "name": "Gold - Live",
-      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Gold (Live)",
+        "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 499053,
+      "name": "Gold - Live",
+      "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
       },
@@ -1135,42 +1155,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The Worship Project, Vol. 2",
         "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 365294,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 242647,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Christ Our Hope in Life and Death",
-        "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 271320,
-      "name": "Christ Our Hope in Life and Death",
-      "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -1791,6 +1771,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Christ Our Hope in Life and Death",
+        "url": "https://open.spotify.com/album/5M5GDV3NSebMu0GbfraYl1"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 271320,
+      "name": "Christ Our Hope in Life and Death",
+      "url": "https://open.spotify.com/track/0tNDbw65xyUlKWsOZhTe0f"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Nothing To Fear (feat. Audrey Assad)",
         "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
       },
@@ -1807,6 +1807,22 @@
       "duration_ms": 184746,
       "name": "Nothing To Fear (feat. Audrey Assad)",
       "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1835,18 +1851,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
       },
       "artists": [
         {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+          "name": "Jonathan Turner",
+          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
         }
       ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+      "duration_ms": 261886,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Turner",
-          "url": "https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ"
-        }
-      ],
-      "duration_ms": 261886,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Grace That Changes Everything",
         "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
       },
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 259399,
-      "name": "PEACE",
-      "url": "https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Remember (Studio Version)",
         "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
       },
@@ -1979,18 +1963,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
       "artists": [
         {
-          "name": "Battledrums",
-          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 341328,
-      "name": "Edge of Heaven",
-      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
+      "duration_ms": 259399,
+      "name": "PEACE",
+      "url": "https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2007,6 +1991,22 @@
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/4CqjRUsp9hg8dNAuTWbbbl"
+      },
+      "artists": [
+        {
+          "name": "Battledrums",
+          "url": "https://open.spotify.com/artist/57a1IPwm1Fgo9aQSLeVyBJ"
+        }
+      ],
+      "duration_ms": 341328,
+      "name": "Edge of Heaven",
+      "url": "https://open.spotify.com/track/1yCXi0IcWoURNKCqGTubQ6"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2299,26 +2299,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Holy Holy Here With Me (Live)",
-        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        }
-      ],
-      "duration_ms": 297563,
-      "name": "Holy Holy Here With Me - Live",
-      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Kingdom Dreamers",
         "url": "https://open.spotify.com/album/54YU74s9xFDTSHpVWYZud2"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 297070,
       "name": "Kingdom Dreamers",
       "url": "https://open.spotify.com/track/0AMdWRYpnj36Fw7EDtfAId"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Holy Holy Here With Me (Live)",
+        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 297563,
+      "name": "Holy Holy Here With Me - Live",
+      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
     },
     {
       "added_at": "2021-06-12 04:00:40",

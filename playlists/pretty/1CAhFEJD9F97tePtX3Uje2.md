@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 356 likes - 215 songs - 12 hr 50 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 354 likes - 215 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

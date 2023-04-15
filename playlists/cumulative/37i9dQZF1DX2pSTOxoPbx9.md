@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-202 songs - 13 hr 37 min
+203 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Sleep Baby Sleep](https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:00 | 2022-07-11 |  |
 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 | 2021-10-22 | 2022-11-14 |
 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 | 2022-07-11 |  |
-| [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 | 2022-07-11 |  |
+| [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 | 2022-07-11 | 2023-04-15 |
 | [Smile](https://open.spotify.com/track/33Ya9pdh5KEpbaG1Q8D3eh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 6:02 | 2021-10-22 | 2022-07-29 |
 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 | 2021-10-22 | 2022-07-29 |
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2022-07-11 | 2022-10-13 |
@@ -210,5 +210,6 @@
 | [Why'd You Make Me Cry](https://open.spotify.com/track/24ggYI2cbBWWMfZzyxBGGg) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [Why'd You Make Me Cry](https://open.spotify.com/album/2SfxWd7YQV7VgFx2nHZIDx) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Why'd You Make Me Cry](https://open.spotify.com/track/2fgpYCWp31JJlplZ7MRANG) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [Why'd You Make Me Cry](https://open.spotify.com/album/2TG55es15dmqG0aOtE5Wml) | 3:40 | 2022-07-11 | 2023-02-22 |
 | [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2021-10-22 |  |
+| [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-14 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

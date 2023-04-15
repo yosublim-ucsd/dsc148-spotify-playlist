@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-176 songs - 11 hr 11 min
+177 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2022-03-11 |  |
 | [Mrs\. Robinson \- Single Mix](https://open.spotify.com/track/3CJ60azPXtva8OdBsxSA7a) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:54 | 2021-08-18 | 2022-07-29 |
 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 | 2021-08-18 | 2022-03-09 |
-| [Not Dark Yet \- Version 1](https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 7:10 | 2023-01-27 |  |
+| [Not Dark Yet \- Version 1](https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 7:10 | 2023-01-27 | 2023-04-15 |
 | [Not Dark Yet \- Version 1](https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Not Dark Yet \(Version 1\)](https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc) | 7:12 | 2023-01-20 | 2023-01-29 |
 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 | 2021-08-18 |  |
 | [Old Man](https://open.spotify.com/track/4rWbao8Vde6ioqH2jZI4ee) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 3:22 | 2021-08-18 | 2022-03-09 |
@@ -174,6 +174,7 @@
 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 | 2021-08-18 |  |
 | [Universal Soldier](https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [The Best Of](https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw) | 2:19 | 2021-08-18 |  |
 | [Urge for Going \- 2008 Remaster](https://open.spotify.com/track/4mVWOXS9KKhvDIdmkYUBOQ) | [Tom Rush](https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp) | [The Circle Game \[Expanded & Remastered\]](https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm) | 5:51 | 2021-08-18 |  |
+| [Watching the River Flow](https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Watching the River Flow \(From 'Shadow Kingdom'\)](https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR) | 3:00 | 2023-04-14 |  |
 | [We Shall Overcome](https://open.spotify.com/track/2XKUNFRqUFg9ugFI3WWzWQ) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 4:42 | 2021-08-18 |  |
 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 | 2021-08-18 |  |
 | [Where Have All The Flowers Gone? \- Remastered](https://open.spotify.com/track/4C3jDWATqX5n4xaRO8wZOF) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Collector's Series](https://open.spotify.com/album/21Rt1AxI2XkU9codmltHFJ) | 3:04 | 2021-08-18 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Tyler Childers",
+  "description": "A new shade of Country. Cover: Zach Bryan",
   "name": "Indigo",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 212613,
       "name": "Ain't a Day Goes By",
       "url": "https://open.spotify.com/track/5QvCKK52a348z920a2fH3X"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179288,
       "name": "All I Needed",
       "url": "https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 247666,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332306,
+      "name": "Chosen to Deserve",
+      "url": "https://open.spotify.com/track/1c2meJL1RaGILGSw9Lnj0P"
+    },
+    {
+      "album": {
         "name": "Circles Around This Town",
         "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
       },
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 320726,
       "name": "Darlin\u2019",
       "url": "https://open.spotify.com/track/2oLiG3wsAPUUR4dqYTvxx9"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 193493,
       "name": "Dig A Little Deeper (In The Well)",
       "url": "https://open.spotify.com/track/2LVc94jQD0PMgUcmcV2CkH"
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 307285,
       "name": "Draw From My Memory",
       "url": "https://open.spotify.com/track/39Ih7RHv7E9ZVF08ZVd7RG"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
+    },
+    {
+      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
       },
@@ -2306,7 +2342,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274240,
       "name": "Fire Line",
       "url": "https://open.spotify.com/track/2HMrDjNB4Qw3x28hlXVPJz"
@@ -2480,7 +2516,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182826,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
@@ -2632,6 +2668,24 @@
       "duration_ms": 239616,
       "name": "Gettin\u2019 By",
       "url": "https://open.spotify.com/track/55QeY7A9H3ioVq1XcBIpBQ"
+    },
+    {
+      "album": {
+        "name": "Give It Some Time",
+        "url": "https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Give It Some Time",
+      "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
     },
     {
       "album": {
@@ -2994,7 +3048,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199040,
       "name": "Heart Like A Truck",
       "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
@@ -3230,7 +3284,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 209051,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN"
@@ -3602,7 +3656,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 253920,
       "name": "I'm Just a Clown",
       "url": "https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut"
@@ -3638,7 +3692,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 211524,
       "name": "If I Give My Soul",
       "url": "https://open.spotify.com/track/2r3nBqcEeMz6ctR6HMS3QO"
@@ -3864,7 +3918,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 256720,
       "name": "It's Hard to Be Humble",
       "url": "https://open.spotify.com/track/6RnKm1xSMDnPtzWx8K9T8a"
@@ -4160,7 +4214,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 133829,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/4fCBhPtizvIiLO6CIdcbxK"
@@ -4920,7 +4974,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 211739,
       "name": "Oklahoma Smokeshow",
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
@@ -4938,7 +4992,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 216480,
       "name": "Old Before My Time",
       "url": "https://open.spotify.com/track/1QaFCynmvTvyipCwY8d2s0"
@@ -4956,7 +5010,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 208856,
       "name": "Old Enough to Know",
       "url": "https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo"
@@ -5090,7 +5144,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 258480,
       "name": "Other Than That",
       "url": "https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2"
@@ -5350,7 +5404,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 208472,
       "name": "Place Out Back",
       "url": "https://open.spotify.com/track/6lBbIMJnQ7uuCyBFHOXFEW"
@@ -5568,7 +5622,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172840,
       "name": "Ramblin' Soul",
       "url": "https://open.spotify.com/track/5KYS5YUKdrqkujJFtupKNV"
@@ -5608,7 +5662,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 286320,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/2YgmnWc5M8DDYLKgDarBq7"
@@ -5670,7 +5724,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 156178,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq"
@@ -5894,7 +5948,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
@@ -5912,7 +5966,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 249560,
       "name": "Shenandoah Shakedown",
       "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
@@ -5930,7 +5984,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 154613,
       "name": "Shoot Low Sheriff!",
       "url": "https://open.spotify.com/track/3UhGXH7S4384OGFgVJ4lSE"
@@ -6172,7 +6226,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 282815,
       "name": "Starved",
       "url": "https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP"
@@ -6560,7 +6614,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
@@ -6716,7 +6770,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 238624,
       "name": "The Greatest Day of My Life",
       "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
@@ -7100,7 +7154,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173360,
       "name": "Time of the Cottonwood Trees",
       "url": "https://open.spotify.com/track/4yqTF5PlZSTmaFsd2pi54p"
@@ -7452,7 +7506,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 209773,
       "name": "Waxahachie",
       "url": "https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5"
@@ -7920,7 +7974,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 272024,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5"
@@ -8140,7 +8194,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 246000,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/6kSBMzeXOsmPvrOvoV6WBt"

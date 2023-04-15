@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Live at the Ryman",
+        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223032,
+      "name": "Heavens To Betsy - Live at the Ryman",
+      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
+    },
+    {
+      "album": {
         "name": "Pass the Jar - Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta (Live)",
         "url": "https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb"
       },
@@ -1843,7 +1861,7 @@
     },
     {
       "album": {
-        "name": "Wyoming\u2019s Sons Live from Cheyenne",
+        "name": "Wyoming\u2019s Sons (Live from Cheyenne)",
         "url": "https://open.spotify.com/album/6DFVfxEm38Lrq7kS6jzyYI"
       },
       "artists": [

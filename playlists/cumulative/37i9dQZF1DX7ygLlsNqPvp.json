@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/4gP93834jVbocef9R42gQz?si=E9SyvXp9Rs2fj13j9vm27w\" > Kwaku DMC</a> ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=Wu38xFPeR6SAC4ItkpqxHQ\" > Reggie</a> ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 111106,
       "name": "Bougie and Thick",
       "url": "https://open.spotify.com/track/3Glyucf9Jy5kAwIHQrGLW3"
@@ -1588,6 +1588,36 @@
       "duration_ms": 184555,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
+    },
+    {
+      "album": {
+        "name": "Oh Ma Linda",
+        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
     },
     {
       "album": {

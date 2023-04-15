@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 168580,
+  "num_followers": 168643,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMGIxMzVmZDlhZDc1YTczMmI3MzJlZGI4OTRjYWI5NmI4",
+  "snapshot_id": "MTY3MTE1NzY1NCwwMDAwMDAwMDQwMTgzZDc2NTYyOGEyZTMzZTg3OWNjOTZjM2Q0NjM5",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Mercedes Sosa En Argentina (En Directo)",
+        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Como La Cigarra - En Directo",
+      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Plata Ta T\u00e1",
         "url": "https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Mercedes Sosa En Argentina (En Directo)",
-        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "Como La Cigarra - En Directo",
-      "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Fijate Bien",
         "url": "https://open.spotify.com/album/7IOugW3LC5qxTyceggg00d"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 294266,
       "name": "Fijate Bien",
       "url": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Dime Qu\u00e9 Pasa",
+        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 110308,
+      "name": "Matar al Presidente",
+      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 237080,
       "name": "Rompan Todo",
       "url": "https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Dime Qu\u00e9 Pasa",
-        "url": "https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx"
-      },
-      "artists": [
-        {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
-        }
-      ],
-      "duration_ms": 110308,
-      "name": "Matar al Presidente",
-      "url": "https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Paco Vampiro",
+        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 201284,
+      "name": "Paco Vampiro",
+      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Un Le\u00f3n D-Mente",
         "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Paco Vampiro",
-        "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 201284,
-      "name": "Paco Vampiro",
-      "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
+      "duration_ms": 215733,
+      "name": "El Pa\u00eds de No Pasa Nada",
+      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
     },
     {
       "added_at": "2022-09-26 22:09:52",
@@ -1711,22 +1727,6 @@
       "duration_ms": 242306,
       "name": "Se Me Ocurre",
       "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "El Pa\u00eds de No Pasa Nada",
-      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1833,20 +1833,24 @@
       "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
     },
     {
-      "added_at": "2021-09-24 14:38:22",
+      "added_at": "2021-11-12 04:36:31",
       "album": {
-        "name": "Mensajes Del Alma",
-        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
+        "name": "Un Canto por M\u00e9xico - El Musical",
+        "url": "https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Cinco Siglos Igual",
-      "url": "https://open.spotify.com/track/3fL89NetmOyr0q8c4eg8XD"
+      "duration_ms": 114781,
+      "name": "Nada Es Verdad (Finale) / Spoken Words",
+      "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

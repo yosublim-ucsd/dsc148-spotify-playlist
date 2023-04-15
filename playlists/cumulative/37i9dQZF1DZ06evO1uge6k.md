@@ -4,10 +4,11 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 14 min
+68 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/56osPBrG8UgZTlgJN6IUYD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 2:35 | 2023-04-14 |  |
 | [A Fool for Your Stockings](https://open.spotify.com/track/0NmxhwG2NwLhY6iCJIfGWA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [One Foot in the Blues](https://open.spotify.com/album/0etWjNu0rvWYY3fUMacV14) | 4:16 | 2022-10-17 |  |
 | [Arrested for Driving While Blind](https://open.spotify.com/track/5NR2RuQ5rQplGLaKS7ZwAu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:06 | 2022-10-12 |  |
 | [Asleep in the Desert \- Instrumental](https://open.spotify.com/track/0ukb39j9T97cToQVbxnn9a) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/3fI0aQIkLZEDk5a8EhzlAn) | 3:29 | 2022-09-17 |  |
@@ -40,7 +41,7 @@
 | [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 | 2022-10-30 |  |
 | [I'm Bad, I'm Nationwide](https://open.spotify.com/track/7hq8ntGVskliIPeoP99nA2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 | 2022-09-17 |  |
 | [If I Could Only Flag Her Down \- 2008 Remaster](https://open.spotify.com/track/12kRyzNezk2nE2EzJ2nq2l) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:40 | 2022-09-17 | 2022-09-19 |
-| [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 | 2022-09-17 |  |
+| [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 | 2022-09-17 | 2023-04-15 |
 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 | 2022-09-17 |  |
 | [Just Got Back from Baby's](https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 4:10 | 2022-09-17 |  |
 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 | 2022-09-17 |  |

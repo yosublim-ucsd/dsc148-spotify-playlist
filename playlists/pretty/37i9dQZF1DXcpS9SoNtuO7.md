@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > 2023/1/27・28・29に日本武道館にて開催されるアニソンフェス“リスアニ！LIVE 2023”出演アーティストの楽曲をピックアップ！ The official playlist of "LisAni! LIVE 2023"
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,190 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,189 likes - 90 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 68 | [Synthetic Sympathy](https://open.spotify.com/track/14YkayZQGmbxQpGApfxpUZ) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [wyxt.](https://open.spotify.com/album/62uq5JHze5hCeXhlWkBY1h) | 3:06 |
 | 69 | [A Shout Of Triumph](https://open.spotify.com/track/4HBGkqivkaobQRqXZjjtsM) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [A Shout Of Triumph](https://open.spotify.com/album/3U27ACC68WSFvZdjoxQ22F) | 3:52 |
 | 70 | [VIVID VICE](https://open.spotify.com/track/1a1b22lYmn0y5YPJUGFCqb) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [WⅡ](https://open.spotify.com/album/2B9qHYgb5Si7LbG42Uv1rC) | 3:03 |
-| 71 | [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 |
+| 71 | [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 |
 | 72 | [Hametsu no Junjyo \-Mikumo solo\-](https://open.spotify.com/track/52OcZQ4SETYyjWNAtYr7LB) | [Walkure](https://open.spotify.com/artist/4b1IVV9meynYx65WpsxjbT) | [TV Animation "MACROSS DELTA" VOCAL SONGS COLLECTION "Walk?re TRAP!"](https://open.spotify.com/album/0HuVUFY5e2Gp3OlpJHzyWO) | 4:26 |
 | 73 | [Melody of Revolution](https://open.spotify.com/track/78qfb4aulqiH4jWKyxzVOp) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Aimai na Futari](https://open.spotify.com/album/4ihyMvy2k1D1cyL8BjhJ5Y) | 3:53 |
-| 74 | [Kazenootosae kikoenai](https://open.spotify.com/track/6SqIyW99DmQiRKD1aJj6Kl) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Kazenootosae kikoenai](https://open.spotify.com/album/6pFiNJhIsCLVer4KmSfHU0) | 3:40 |
+| 74 | [Kazenootosae kikoenai](https://open.spotify.com/track/48uOREHgRTGnIcZITpINcD) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 3:38 |
 | 75 | [シドニア](https://open.spotify.com/track/7fHz3bMy909FFZx3u6eRFV) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [ONE WAY](https://open.spotify.com/album/3I4jRS8RLmSKuDTkYukgKF) | 4:24 |
 | 76 | [RECONNECTION](https://open.spotify.com/track/443HQtfWncB04hs3wuKD01) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [RECONNECTION](https://open.spotify.com/album/7I1WR1fKmdIFkykMVDGTpA) | 3:42 |
 | 77 | [全力☆Summer!](https://open.spotify.com/track/53Uy2m8yielFV4bkGBybhZ) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Beyond](https://open.spotify.com/album/7J912LJZvfnljtxFnHHo8f) | 3:53 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 89 | [コネクト \-2017\-](https://open.spotify.com/track/0Yvh6rUn42qYGxNBHeQXo6) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:30 |
 | 90 | [Clear Sky](https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:22 |
 
-Snapshot ID: `MTY3ODI2NzQwNywwMDAwMDAwMDQ2ZGU5NGEyYjc2ZDAxNDExNWI4ZDRiZTI5ZDg0MmQz`
+Snapshot ID: `MTY3ODI2NzQwNywwMDAwMDAwMGIwMjY2ZjY1NGI3NjAxOTdkYmZjOTdmZmQyZGE1ZmY1`

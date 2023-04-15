@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+    },
+    {
+      "album": {
         "name": "Amante",
         "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 227733,
       "name": "Desesperada",
       "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205911,
       "name": "Entremundos",
       "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176960,
       "name": "Falsas Esperanzas",
       "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
@@ -1042,6 +1060,24 @@
       "duration_ms": 235813,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/58zE9NyMKGTpzV5J8WyXXe"
+    },
+    {
+      "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
     },
     {
       "album": {
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 241906,
       "name": "Luz Sin Gravedad",
       "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
@@ -1573,6 +1609,42 @@
     },
     {
       "album": {
+        "name": "Kinesis",
+        "url": "https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199137,
+      "name": "Navego",
+      "url": "https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j"
+    },
+    {
+      "album": {
+        "name": "Netflix & Chill",
+        "url": "https://open.spotify.com/album/6ifGExbAC6E7OlfRiwMx7U"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Netflix & Chill",
+      "url": "https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54"
+    },
+    {
+      "album": {
         "name": "Gran Disco Mini Precio - Ananda",
         "url": "https://open.spotify.com/album/1q85HscwBLdcomJGIkoLNt"
       },
@@ -1638,7 +1710,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 145259,
       "name": "No Eras Para Tanto",
       "url": "https://open.spotify.com/track/6ZUdOomSKYPhrCTB1Ig1FC"
@@ -2126,6 +2198,24 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     },
     {
       "album": {

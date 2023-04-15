@@ -11481,6 +11481,32 @@
     },
     {
       "album": {
+        "name": "VIOLENT BEHAVIOUR",
+        "url": "https://open.spotify.com/album/1Wuax4YjdRjpExMLw40fNh"
+      },
+      "artists": [
+        {
+          "name": "weirdtechnogirlfriend",
+          "url": "https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC"
+        },
+        {
+          "name": "PAUL LE B\u00c1Y",
+          "url": "https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn"
+        },
+        {
+          "name": "WTG & PLB",
+          "url": "https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181041,
+      "name": "VIOLENT BEHAVIOUR",
+      "url": "https://open.spotify.com/track/7eqfazRxRtKoIZuWunzCkl"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz"
       },

@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-276 songs - 14 hr 43 min
+277 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Duemilaminuti](https://open.spotify.com/track/59nchDV5vZqIP0m1DgpSuS) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Duemilaminuti](https://open.spotify.com/album/7LZw3UWmtxA9mP8s9ZeIEb) | 3:44 | 2023-02-08 |  |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-26 |  |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-04-27 |  |
-| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2023-01-23 |  |
+| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2023-01-23 | 2023-04-15 |
+| [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-23 |  |
 | [Extasi](https://open.spotify.com/track/6ojrj2NSj3EkMm05yiuaMG) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [Extasi](https://open.spotify.com/album/5D6d0m5tYnBz0wowzfLlQ6) | 2:37 | 2022-07-26 | 2022-12-02 |
 | [Farfalle](https://open.spotify.com/track/1ZrRky95mkjZV0TX5PiiPh) | [Michele Merlo](https://open.spotify.com/artist/6ngQRJyPmD9dPecABvtYW2) | [Farfalle](https://open.spotify.com/album/57nYY1KWKNUBcW6y2FDoUe) | 3:41 | 2022-05-30 | 2022-06-01 |
 | [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 | 2022-04-27 | 2022-07-29 |

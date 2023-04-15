@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796 likes - 73 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 73 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 10 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 |
 | 11 | [hypotheticals](https://open.spotify.com/track/1HI84AsI0wokonlV760TRT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hypotheticals](https://open.spotify.com/album/3VYNIeDemi3QCq5QDFwHo2) | 2:04 |
 | 12 | [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 |
-| 13 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 |
-| 14 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 13 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 14 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 |
 | 15 | [nature](https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/1ojtegqub3YXbSq9YNj9lF) | 3:21 |
 | 16 | [Don't You Worry](https://open.spotify.com/track/5PLh9vLtiBe3uTmMCOaFVZ) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:31 |
 | 17 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 72 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 73 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgwMjM4NTUsMDAwMDAwMDA3OTk0ZmRjMTliMTEwMWRjNjdhMTI0Zjg5MDI0NGYwYg==`
+Snapshot ID: `MjgwMjUyOTUsMDAwMDAwMDBjMDE0YzY5OWFkOTZiNjQ5M2U5NjJkOTY1YmJkNWI5MA==`

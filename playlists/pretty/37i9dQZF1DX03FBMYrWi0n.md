@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> Le meilleur de la scène alternative québécoise actuelle\. Photo: Kanen
+> Le meilleur de la scène alternative québécoise actuelle\. Photo: Lou\-Adriane Cassidy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 |
+| 1 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
 | 2 | [Nos corps](https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:39 |
 | 3 | [You Can Let Go](https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [You Can Let Go](https://open.spotify.com/album/5kC54Lqi95lrT1DRFCLtd2) | 3:06 |
 | 4 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 66 | [Wave](https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Wave](https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE) | 3:59 |
 | 67 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 |
 | 68 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 |
-| 69 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 |
-| 70 | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 |
-| 71 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 |
-| 72 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
-| 73 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 |
-| 74 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 |
-| 75 | [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 |
+| 69 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 |
+| 70 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 |
+| 71 | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 |
+| 72 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 |
+| 73 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 74 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 |
+| 75 | [whatwasthatwine](https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/4r5raINIASmps1EZ090fio) | 4:01 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDgwZTRlN2FmMTI2NTQwYjhlYWFiZGI3YjI2YTVhNGNj`
+Snapshot ID: `MTY4MTQ5ODU3NiwwMDAwMDAwMDI0YjRjNGEyN2I3NmFhNmRiYjYyYzYzNTc2MDhmZDMw`

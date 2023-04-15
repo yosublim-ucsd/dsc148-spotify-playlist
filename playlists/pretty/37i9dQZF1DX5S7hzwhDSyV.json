@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 71037,
+  "num_followers": 71168,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM4NzI5MSwwMDAwMDAwMDAxMGZjMWRiNjYzYWVhNDFlYzg5ZTRmNzA5NTAyNWM4",
+  "snapshot_id": "MTY4MTM4NzI5MSwwMDAwMDAwMGUzN2UzMThhOGNhZTIyMjAxNTZhNzIzM2Y2Mzg4YmU2",
   "tracks": [
     {
       "added_at": "2023-04-13 12:01:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -563,18 +547,34 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
+      "duration_ms": 191293,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3FAweDLYCPCPac82221ULG"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 405853,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3FAweDLYCPCPac82221ULG"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -727,26 +743,18 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Djangologie Vol.4 / 1937",
-        "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Hawkins C. All Star Jam Band",
-          "url": "https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 166826,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -763,22 +771,6 @@
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "This Is Jazz #14",
-        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -815,18 +807,26 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Djangologie Vol.4 / 1937",
+        "url": "https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Hawkins C. All Star Jam Band",
+          "url": "https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+      "duration_ms": 166826,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -863,34 +879,18 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
       "artists": [
         {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -911,6 +911,22 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -947,22 +963,6 @@
       "duration_ms": 411293,
       "name": "The Night Has a Thousand Eyes",
       "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 389293,
       "name": "You Don't Know What Love Is - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1to5IySvboywOgXW9jCjDn"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Everybody Still Digs Bill Evans",
-        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
         }
       ],
-      "duration_ms": 454186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
+      "duration_ms": 496893,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "The Cure",
-        "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
+        "name": "Everybody Still Digs Bill Evans",
+        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
       },
       "artists": [
         {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 496893,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
+      "duration_ms": 454186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 250840,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Work From Home with Count Basie",
-        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 163599,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Criss-Cross (Expanded Edition)",
         "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 424933,
       "name": "Don't Blame Me (Retake 1)",
       "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Work From Home with Count Basie",
+        "url": "https://open.spotify.com/album/7p5Qi9IeHphcvwl5yOr2y6"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 163599,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/5BcC9UZ6Ji1NZtLkcfYoPW"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 427826,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Warm Woods",
         "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 155693,
       "name": "Time After Time - Instrumental",
       "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 427826,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl"
     },
     {
       "added_at": "2023-04-13 12:01:31",

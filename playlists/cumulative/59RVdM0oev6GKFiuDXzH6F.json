@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A Little Bit More",
+        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
+      },
+      "artists": [
+        {
+          "name": "Gaudini",
+          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
+        },
+        {
+          "name": "KVKI",
+          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "A Little Bit More",
+      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM"
       },
@@ -122,7 +144,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202258,
       "name": "Alright",
       "url": "https://open.spotify.com/track/10NhL0ZATdOsOaySlN9RvW"
@@ -261,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/6ELdXNQeBKwzdVYIE9CdrG"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Back To Back",
+      "url": "https://open.spotify.com/track/1udsDxRlROykMOdAYY25Ms"
+    },
+    {
+      "album": {
         "name": "Back to Groovy",
         "url": "https://open.spotify.com/album/1YOBaHq1oH2UCpv4mFgeZc"
       },
@@ -276,6 +316,28 @@
       "duration_ms": 190080,
       "name": "Back to Groovy",
       "url": "https://open.spotify.com/track/3CTtxRGgUgrNJkDi01wjQd"
+    },
+    {
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/59qvVG9f9OULDFQ5TuHHzo"
+      },
+      "artists": [
+        {
+          "name": "Kitty McPaws",
+          "url": "https://open.spotify.com/artist/6zHPDTqeF4fminLS9Ekz9I"
+        },
+        {
+          "name": "Troy Pes",
+          "url": "https://open.spotify.com/artist/23U4sUxAMT8xB73MCDXyvo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/3MsUWU9TM7y5dvmvW4R2uW"
     },
     {
       "album": {
@@ -457,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Comin' Back",
+        "url": "https://open.spotify.com/album/3HtrSJhzonB7WNfy22Dkbf"
+      },
+      "artists": [
+        {
+          "name": "Titus1",
+          "url": "https://open.spotify.com/artist/4dCWLsP4fsgMjs3zcNq3TU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Comin' Back",
+      "url": "https://open.spotify.com/track/3u672pLueDfjhsLBvERzKh"
+    },
+    {
+      "album": {
         "name": "Crank That",
         "url": "https://open.spotify.com/album/3Sn7J040OsJ7aXC4t7WNV0"
       },
@@ -562,7 +642,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173001,
       "name": "Dummy \u2013 Chris Lake Remix",
       "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
@@ -580,7 +660,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166451,
       "name": "El Ritmo",
       "url": "https://open.spotify.com/track/58bu9nSS6GAOgBQJJsDVVm"
@@ -598,7 +678,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182382,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
@@ -910,7 +990,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180245,
       "name": "Hear That Sound",
       "url": "https://open.spotify.com/track/0X7GTndbpdWcfqKtf9NEOM"
@@ -954,10 +1034,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 133889,
       "name": "Hold You Close",
       "url": "https://open.spotify.com/track/4hmeY8Qid45jlBnY19dco0"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0Xb5A3SSvc17t8kTz9JhXh"
+      },
+      "artists": [
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201659,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/6BSm5agl8YBZIbtYHconLX"
     },
     {
       "album": {
@@ -1017,9 +1119,35 @@
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 155538,
+      "duration_ms": 155076,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt"
+    },
+    {
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/2C4BfIuaOsejtPb6efGfOM"
+      },
+      "artists": [
+        {
+          "name": "Blaikz",
+          "url": "https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde"
+        },
+        {
+          "name": "Robaer",
+          "url": "https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5"
+        },
+        {
+          "name": "lisawanderlust",
+          "url": "https://open.spotify.com/artist/73mCiGGnWwrRiUQBCaj8DF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130341,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/2NDU2YmIjgyOjiDx5rKK3O"
     },
     {
       "album": {
@@ -1342,7 +1470,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167468,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4GEnreXJT5oRBx5LOB4MhA"
@@ -1544,7 +1672,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 200418,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/4fWBsxD5qLDz98zi900VyZ"
@@ -1636,6 +1764,24 @@
       "duration_ms": 155180,
       "name": "MOLLY (ESSEL Remix)",
       "url": "https://open.spotify.com/track/2YFwJSnIT4LJmEQXUhR4Kp"
+    },
+    {
+      "album": {
+        "name": "Move Left Move Right",
+        "url": "https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Move Left Move Right",
+      "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
     },
     {
       "album": {
@@ -1741,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216368,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl"
       },
@@ -1804,6 +1968,24 @@
       "duration_ms": 371617,
       "name": "Out of Reach - Kydus Club Mix",
       "url": "https://open.spotify.com/track/2uCxSjh1eAV01GI21J9oWt"
+    },
+    {
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/7M1cV0VHHlbmUQM8Uvarh1"
+      },
+      "artists": [
+        {
+          "name": "Hit Or Miss",
+          "url": "https://open.spotify.com/artist/5i7cq2o03NZt7TMBduDUqZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130571,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/58VDyZmGn823Xg4XCDoFCl"
     },
     {
       "album": {
@@ -1906,7 +2088,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180020,
       "name": "Pay",
       "url": "https://open.spotify.com/track/1zuqMvBmkGsOvHwhrMCdei"
@@ -1932,6 +2114,32 @@
       "duration_ms": 204094,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
+    },
+    {
+      "album": {
+        "name": "Penguin Hit Squad (Claude VonStroke Remix)",
+        "url": "https://open.spotify.com/album/3ejzxC21LTjfX8Gu1WvUzD"
+      },
+      "artists": [
+        {
+          "name": "Mike Kerrigan",
+          "url": "https://open.spotify.com/artist/6SptiYBeyJucEFIJfH8dIE"
+        },
+        {
+          "name": "n808",
+          "url": "https://open.spotify.com/artist/4pzJW4dAwRMnyDdJXQhOFf"
+        },
+        {
+          "name": "Claude VonStroke",
+          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354285,
+      "name": "Penguin Hit Squad - Claude VonStroke Remix",
+      "url": "https://open.spotify.com/track/6OfgBGFF8L8SRfUjP1CIG7"
     },
     {
       "album": {
@@ -2099,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
+    },
+    {
+      "album": {
         "name": "Saturday Love",
         "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
       },
@@ -2118,6 +2344,32 @@
       "duration_ms": 141120,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+    },
+    {
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/4NpfiBoBzu80w4eTDhJCD6"
+      },
+      "artists": [
+        {
+          "name": "Siik",
+          "url": "https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf"
+        },
+        {
+          "name": "Andrew A",
+          "url": "https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/0T8VMb5jV2XeNJvXG4wWr4"
     },
     {
       "album": {
@@ -2194,7 +2446,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 140783,
       "name": "STRESS - Andry J Remix",
       "url": "https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN"
@@ -2369,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "The Beat",
+        "url": "https://open.spotify.com/album/52SU5pjM72oqlTJqVNwt8w"
+      },
+      "artists": [
+        {
+          "name": "Alannys Weber",
+          "url": "https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu"
+        },
+        {
+          "name": "Municipal",
+          "url": "https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140175,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/7pACtmPKSQzRI2gFv0Idg7"
+    },
+    {
+      "album": {
         "name": "The Devil",
         "url": "https://open.spotify.com/album/2H7e6QQZZ49BkJJA8KP0bs"
       },
@@ -2464,10 +2738,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 204094,
       "name": "The Jack (Dan McKie Remix)",
       "url": "https://open.spotify.com/track/5Jhl4KMCPGIJpYZky2C70k"
+    },
+    {
+      "album": {
+        "name": "To The Night (Radio Edit)",
+        "url": "https://open.spotify.com/album/1b4ohggKMxKLBlfmU31h1y"
+      },
+      "artists": [
+        {
+          "name": "Seb Todd",
+          "url": "https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv"
+        },
+        {
+          "name": "MVNGO",
+          "url": "https://open.spotify.com/artist/3zeNUoJwbse1JSnImySe1U"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "To The Night - Radio Edit",
+      "url": "https://open.spotify.com/track/3rgcuqW66rKotXsCfrwkQJ"
     },
     {
       "album": {
@@ -2588,7 +2884,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197343,
       "name": "Want Me - Radio Edit",
       "url": "https://open.spotify.com/track/0hTt3P29K4eXCfR8pn69Q6"

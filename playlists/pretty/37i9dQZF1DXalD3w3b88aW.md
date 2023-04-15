@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,299 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 19 | [I Wanna Be Where You Are](https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 1:16 |
 | 20 | [Yo Yeah](https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 1:10 |
 | 21 | [Use Your Heart \- Interlude](https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:34 |
-| 22 | [Daniel's Interlude](https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:25 |
-| 23 | [Runnin' \- Interlude](https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 2:17 |
-| 24 | [A.N.G.E.L\. \- Interlude](https://open.spotify.com/track/3sDeuisFRzTK7dfwlNvoNK) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 2:19 |
-| 25 | [Never Felt This Way](https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 2:00 |
+| 22 | [Runnin' \- Interlude](https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 2:17 |
+| 23 | [Daniel's Interlude](https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:25 |
+| 24 | [Never Felt This Way](https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 2:00 |
+| 25 | [A.N.G.E.L\. \- Interlude](https://open.spotify.com/track/3sDeuisFRzTK7dfwlNvoNK) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 2:19 |
 | 26 | [Come Over Interlude](https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Danity Kane](https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV) | 1:44 |
 | 27 | [I Dedicate \(Pt\. 3\)](https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:01 |
 | 28 | [You Loving Me \(Session\)](https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 1:04 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 30 | [Drown in It](https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 1:10 |
 | 31 | [Intermission\-lude](https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 0:42 |
 | 32 | [Q, Mike, Slim, Daron \- Interlude](https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:58 |
-| 33 | [Makin' Love \- Interlude](https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Full Circle](https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN) | 1:57 |
-| 34 | [Nobody Not Really \(Interlude\)](https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:56 |
+| 33 | [Nobody Not Really \(Interlude\)](https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:56 |
+| 34 | [Makin' Love \- Interlude](https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Full Circle](https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN) | 1:57 |
 | 35 | [I Dedicate \(Pt\. 2\)](https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 0:55 |
 | 36 | [Where Is The Love \- Interlude](https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 2:02 |
 | 37 | [Yesterday](https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 2:32 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 55 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
 | 56 | [Why \(Interlude\)](https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:43 |
 | 57 | [Room 454: De Vante's " Inhermission"](https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 2:10 |
-| 58 | [Smoke \(Interlude\) \(feat\. Soko\)](https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:42 |
-| 59 | [Definition of a Bad Girl \(Interlude\)](https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 1:10 |
+| 58 | [Definition of a Bad Girl \(Interlude\)](https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 1:10 |
+| 59 | [Smoke \(Interlude\) \(feat\. Soko\)](https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:42 |
 | 60 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
 | 61 | [Don't Go Away \(Interlude\)](https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Soul Of A Woman](https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u) | 1:16 |
 | 62 | [J.L \(Interlude\)](https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 0:39 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
 | 76 | [20 \- Pt\. 2 / Interlude](https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [20 Y.O.](https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA) | 0:27 |
 
-Snapshot ID: `MTY3MDA0NTM1NiwwMDAwMDAwMGE3Yjg5OTUzMjJhOWY4NmFlYWViYjViMTQwNDQzYjZj`
+Snapshot ID: `MTY3MDA0NTM1NiwwMDAwMDAwMGFhZDcwNTk1YmI2OTEzMWM4N2M0OTRiZjljYjQ4YWVm`

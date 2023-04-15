@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Haryana Zone",
+        "url": "https://open.spotify.com/album/4tz7GSeVevhfjXSddHw4J3"
+      },
+      "artists": [
+        {
+          "name": "Oye Amit",
+          "url": "https://open.spotify.com/artist/7mmiYB1wyaV5OfJkyq4w9X"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183356,
+      "name": "Haryana Zone",
+      "url": "https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II"
+    },
+    {
+      "album": {
         "name": "HHH - Hip Hop Haryana",
         "url": "https://open.spotify.com/album/6WWxMRqdGFcjpWPewmYm0L"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 193527,
       "name": "TAMASHA",
       "url": "https://open.spotify.com/track/4T8C29foDJgAbVNKZT14Vq"

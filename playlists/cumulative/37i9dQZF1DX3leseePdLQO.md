@@ -2,22 +2,22 @@
 
 ### [Crema Pop](https://open.spotify.com/playlist/37i9dQZF1DX3leseePdLQO)
 
-> Pop para refrescarte los días, featuring TINI.
+> Pop para refrescarte los días, featuring Alex Ponce.
 
-52 songs - 2 hr 41 min
+55 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2023-04-04 |  |
 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-04 |  |
-| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja \(Extended Version\)](https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc) | 3:53 | 2023-04-06 |  |
+| [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [La cuarta hoja \(Extended Version\)](https://open.spotify.com/album/3nYJDr8s1Jyw4YeZRcScQc) | 3:53 | 2023-04-06 | 2023-04-15 |
 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 | 2023-04-04 |  |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 | 2023-04-04 |  |
 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2023-04-04 |  |
 | [Ben & Jerry´s](https://open.spotify.com/track/2k8O5ZlRwsPnWSP2ZqSZRf) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:23 | 2023-04-04 |  |
 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 | 2023-04-04 |  |
-| [Break](https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Break](https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6) | 3:25 | 2023-04-04 |  |
+| [Break](https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Break](https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6) | 3:25 | 2023-04-04 | 2023-04-15 |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2023-04-04 |  |
 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-04-04 |  |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-04-04 |  |
@@ -44,8 +44,10 @@
 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 | 2023-04-04 |  |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-04-04 |  |
 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 | 2023-04-04 |  |
+| [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-14 |  |
 | [Perdón](https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Perdón](https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu) | 2:46 | 2023-04-04 |  |
-| [plan](https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [plan](https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9) | 3:19 | 2023-04-04 |  |
+| [plan](https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [plan](https://open.spotify.com/album/0aj9WFB9hsubUgiU6jolp9) | 3:19 | 2023-04-04 | 2023-04-15 |
+| [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 | 2023-04-14 |  |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2023-04-04 |  |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-04 |  |
 | [Se Siente Así](https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:29 | 2023-04-04 |  |
@@ -55,6 +57,7 @@
 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2023-04-04 |  |
 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 | 2023-04-04 | 2023-04-06 |
 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 | 2023-04-04 |  |
+| [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 | 2023-04-14 |  |
 | [TV](https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 2:45 | 2023-04-04 |  |
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-04-04 |  |
 | [Volare](https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 2:27 | 2023-04-04 |  |

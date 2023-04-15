@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,938 likes - 154 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,950 likes - 154 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 153 | [Velvet](https://open.spotify.com/track/27EA3eyGv6Scd80kEiTvB8) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:32 |
 | 154 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDM4NmJmOGVjNDIwOWRjY2FmYjE2ZjQzNjY1MGZkNTZh`
+Snapshot ID: `MTY4MTQ2Njk1MSwwMDAwMDAwMGNjYWJhNjQ4NjViMDYzMDYxZTNhODhjZmFkMmM5MGI0`

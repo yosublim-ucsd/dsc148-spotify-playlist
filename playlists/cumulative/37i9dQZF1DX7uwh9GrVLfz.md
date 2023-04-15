@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ニーハオ!!!! \(ni\-hao!!!!\)
 
-532 songs - 1 day 4 hr 57 min
+533 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [After 30 years](https://open.spotify.com/track/3HbdkqhTM4maDSnNI5bV1b) | [LABRET](https://open.spotify.com/artist/28gEh6RZDT8AHNjm78kEfY) | [AFTER 30 YEARS](https://open.spotify.com/album/24wJdb9QkcqtqWIF8yxnca) | 3:16 | 2022-06-28 | 2022-07-20 |
 | [Ain't Nothing](https://open.spotify.com/track/1Y5CDS0yJ10aB5g0xWaQ5Z) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [Ain't Nothing](https://open.spotify.com/album/2TyfNadUiT54W25ySe9K7E) | 4:21 | 2022-05-12 | 2022-07-29 |
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 | 2022-08-19 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/1uPPNErpuO72oAPnzwhdzn) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:43 | 2023-04-11 |  |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-03-07 | 2023-04-12 |
 | [Ashtray](https://open.spotify.com/track/4wFaKe5coaqpWw38VJUqNo) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:18 | 2022-05-17 | 2022-07-26 |

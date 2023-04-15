@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 
 > Close the curtains, it's time for some leftfield gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,288 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,342 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 18 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 |
 | 19 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 |
 | 20 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 |
-| 21 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 |
-| 22 | [Desire](https://open.spotify.com/track/5xR1NMAs89qMlE5tDh0HYR) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Desire](https://open.spotify.com/album/0VitxTKul3NXKutMMDCPBH) | 3:13 |
-| 23 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 |
-| 24 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 |
-| 25 | [Gfortune](https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:19 |
+| 21 | [Talia](https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Talia](https://open.spotify.com/album/3fr1pMdhBZKMGRbfkki8OD) | 4:33 |
+| 22 | [The East](https://open.spotify.com/track/3f24OX8Zk6JAbZJbpbXd6U) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE \(Remixes\)](https://open.spotify.com/album/4Q5GWCi3s7c9ei0au3ewMA) | 3:07 |
+| 23 | [Desire](https://open.spotify.com/track/5xR1NMAs89qMlE5tDh0HYR) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [Desire](https://open.spotify.com/album/0VitxTKul3NXKutMMDCPBH) | 3:13 |
+| 24 | [Gfortune](https://open.spotify.com/track/6V52Oad8LGjePNLKQHqfgE) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:19 |
+| 25 | [And Groove \- Edit](https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 3:25 |
 | 26 | [Naif](https://open.spotify.com/track/1ouVOHVm1FGkEch0sinTTE) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Naif](https://open.spotify.com/album/72lhRktJCMEHHZ5lTaEzeA) | 3:44 |
 | 27 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
 | 28 | [You](https://open.spotify.com/track/5bDaY6dCXp6obvN6MKV23v) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Vol\. 1 \- The Mixtape](https://open.spotify.com/album/1ZZSNrohitWJIhvm4ThElN) | 3:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 39 | [agape](https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [agape](https://open.spotify.com/album/0fLcvbxE3GGVBVv6v5NG5S) | 3:18 |
 | 40 | [IHEARTPARIS](https://open.spotify.com/track/1q4RIjVsZ7lBsW3wZhranD) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Boxia](https://open.spotify.com/artist/1OU8mX7tZjCf4u3Ege0JX3) | [IHEARTPARIS](https://open.spotify.com/album/4fagOwyVkX7lSzA4Ma0snt) | 5:50 |
 | 41 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 |
-| 42 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
-| 43 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
+| 42 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
+| 43 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
 | 44 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 |
 | 45 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 |
 | 46 | [She Loves Me](https://open.spotify.com/track/5oSPxL7HL9TmZdEC11mYd4) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [She Loves Me](https://open.spotify.com/album/3RWu10vRzLgRiw7X9hwijw) | 4:08 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 49 | [I've Felt Better \- Daniel Avery Remix](https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [I've Felt Better \(Daniel Avery Remix\)](https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB) | 5:12 |
 | 50 | [Volca](https://open.spotify.com/track/28NpDrD2786HAM55WX21ux) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Volca](https://open.spotify.com/album/3mbTIUXfzrkP1frqjZbjY8) | 6:36 |
 | 51 | [Polymer Pyramid](https://open.spotify.com/track/0SSgDTHqX7y3JwJ47XUtmx) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Polymer Pyramid](https://open.spotify.com/album/7JgvbVWgRYz1IqkieeUaqQ) | 4:49 |
-| 52 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
-| 53 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
+| 52 | [If U Ever](https://open.spotify.com/track/2z1mqiyWEh4ecNm7q1ajRr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [If U Ever](https://open.spotify.com/album/11ECs9H72FNih398XK8aRI) | 4:48 |
+| 53 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 54 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 |
 | 55 | [IQarus](https://open.spotify.com/track/5xYWdZVRcU81zYwlB29uJC) | [Brain De Palma](https://open.spotify.com/artist/44VVWk4YFJFoiv7oRNt5wO) | [IQarus](https://open.spotify.com/album/1oiwy4ZjFGIIcJE4DIu1Vu) | 5:24 |
 | 56 | [Nisida](https://open.spotify.com/track/6rExvAWFcBNl0RGE2S7Fw2) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Nisida](https://open.spotify.com/album/3bpoKXTJmgbgYmWoNZYssg) | 7:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fxf4OrMhXb.md) - [plain]
 | 59 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
 | 60 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 |
 
-Snapshot ID: `MTY4MDA5NTYzNiwwMDAwMDAwMDYxYmY0YTkxZTY4ZDUzOTc2ZjdiYzhlYTNlMGUwOGM4`
+Snapshot ID: `MTY4MDA5NTYzNiwwMDAwMDAwMGY1ZjdhYThjOTM3MmVjZTJmOGI1YTRiZDhlMTA3ODU0`

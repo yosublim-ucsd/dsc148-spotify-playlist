@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,359 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,366 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 9 | [In Your Arms \(with X Ambassadors\)](https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:40 |
 | 10 | [Unsteady \- Erich Lee Gravity Remix](https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Erich Lee](https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 3:24 |
 | 11 | [BOOM](https://open.spotify.com/track/3V9cM3nCH2G66afoDi0snu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:44 |
-| 12 | [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 |
-| 13 | [Renegades \- Live Session / Acoustic Version](https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [This is Acoustic \(Live Session / Acoustic Version\)](https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84) | 3:01 |
+| 12 | [Renegades \- Live Session / Acoustic Version](https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [This is Acoustic \(Live Session / Acoustic Version\)](https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84) | 3:01 |
+| 13 | [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 |
 | 14 | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Zen \(with K.Flay & grandson\)](https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL) | 3:35 |
 | 15 | [HEY CHILD](https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:28 |
 | 16 | [The Devil You Know](https://open.spotify.com/track/5MEKqNAOlgt3sh5o0iq8EM) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Devil You Know](https://open.spotify.com/album/386PuaIwJSmvEYhwgSKJoF) | 4:02 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 19 | [HOLD YOU DOWN](https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:17 |
 | 20 | [Bad Husband \(feat\. X Ambassadors\)](https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:47 |
 | 21 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
-| 22 | [forever, now](https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [forever, now](https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw) | 4:48 |
-| 23 | [Torches](https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Torches](https://open.spotify.com/album/6FxKKFxevg8HASgFpIOj8E) | 3:27 |
+| 22 | [Torches](https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Torches](https://open.spotify.com/album/6FxKKFxevg8HASgFpIOj8E) | 3:27 |
+| 23 | [forever, now](https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [forever, now](https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw) | 4:48 |
 | 24 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
 | 25 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
 | 26 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Shining](https://open.spotify.com/track/4qwaIFrAbHGLjeqwEO77rG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 3:37 |
 | 52 | [Down With Me](https://open.spotify.com/track/17FV9pZcXiJsFRn3McId1e) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 3:37 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA1MWVlZTY1ODM3ZTBkODAxMWI2YWZmZGQ5Y2MxMTk3MQ==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA1YzBhNGY1N2VlNzQzNmY4M2NlZmNmNDdhMjk1NmY2Yg==`

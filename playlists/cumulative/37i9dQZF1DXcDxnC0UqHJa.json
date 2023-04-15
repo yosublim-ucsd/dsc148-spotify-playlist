@@ -1803,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Heading for Home (feat. John Legend)",
+        "url": "https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Heading for Home (feat. John Legend)",
+      "url": "https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89"
+    },
+    {
+      "album": {
         "name": "\"Heaven Help The Child\"",
         "url": "https://open.spotify.com/album/3WveYXV6ceBK1AOoB7Vy8H"
       },
@@ -3110,7 +3132,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 367333,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"

@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Giriboy(\uae30\ub9ac\ubcf4\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 185652,
+  "num_followers": 185826,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3MDYwMiwwMDAwMDAwMGRmNDZiODFjYjQxYmMzZDMyZjVkM2E3M2IzN2FkM2Mx",
+  "snapshot_id": "MTY4MDc3MDYwMiwwMDAwMDAwMDE4MTQyMTFlMjAwYjI3NmQ0MDZhM2Y5MDEzNjE5MmQ0",
   "tracks": [
     {
       "added_at": "2023-04-06 08:38:09",
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5KdY5Yn4hNRRf7vEWS57BD"
     },
     {
-      "added_at": "2023-04-14 00:33:06",
+      "added_at": "2023-04-15 01:06:28",
       "album": {
         "name": "come to my stu (Remix) [feat. Leellamarz]",
         "url": "https://open.spotify.com/album/29pHmhmbZ0D4h3loLSHdqZ"
@@ -1739,6 +1739,30 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+      },
+      "artists": [
+        {
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 197714,
+      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
         "name": "Empty Head",
         "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
       },
@@ -1779,30 +1803,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
-      },
-      "artists": [
-        {
-          "name": "Vapo",
-          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 197714,
-      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
       },
@@ -1819,26 +1819,6 @@
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
-        "name": "Beginning",
-        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
-      },
-      "artists": [
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        },
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        }
-      ],
-      "duration_ms": 172956,
-      "name": "Dessert shop (Feat. h3hyeon)",
-      "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1863,6 +1843,42 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
+        "name": "Beginning",
+        "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "duration_ms": 172956,
+      "name": "Dessert shop (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 210870,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
         "name": "pool vol. 1 - the way you move",
         "url": "https://open.spotify.com/album/6qqLPbX9JdQmfia6WPMKdM"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 149479,
       "name": "the way you move",
       "url": "https://open.spotify.com/track/6V63olQ6UOmPqRgcO0bEcb"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 210870,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
     },
     {
       "added_at": "2023-04-06 08:38:09",

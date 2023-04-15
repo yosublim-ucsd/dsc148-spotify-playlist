@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 628600,
+  "num_followers": 628912,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMDc2ZTNmYTQ0NGQzNGY3YjMxMDM4YjRjNzM0MWM3NTMy",
+  "snapshot_id": "MTY3OTAxNDA5NCwwMDAwMDAwMDcxYjNiODQ3YjljZDdhNWMxN2QxZmI0NjkwNmZmZDZj",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 286306,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 281013,
       "name": "Todo",
       "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 286306,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Victor Manuelle (3 CD Box Set)",
-        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
         }
       ],
-      "duration_ms": 288293,
-      "name": "Pensamiento y Palabra",
-      "url": "https://open.spotify.com/track/2Dy2rajQYwC0p1j4nOH9bX"
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "Victor Manuelle (3 CD Box Set)",
+        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+      "duration_ms": 288293,
+      "name": "Pensamiento y Palabra",
+      "url": "https://open.spotify.com/track/2Dy2rajQYwC0p1j4nOH9bX"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 303373,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Ironias",
-        "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
-      "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 296720,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/1Lm4aFolaeESmsGSzgpCuK"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Ironias",
+        "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
+      "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Magdalena, Mi Amor (Quimbara)",
-      "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 292480,
       "name": "Herida",
       "url": "https://open.spotify.com/track/6a09sAXkgnkfSW8HEDJzBf"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Magdalena, Mi Amor (Quimbara)",
+      "url": "https://open.spotify.com/track/0ZmsWQm6rhz1VGUEbHZQfd"
     },
     {
       "added_at": "2023-03-17 00:48:14",

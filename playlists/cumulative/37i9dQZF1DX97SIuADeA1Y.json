@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 152490,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3VQbVgbSnqu7xPsVk91ZPS"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 123711,
       "name": "Changes",
       "url": "https://open.spotify.com/track/42ab6M2Xm2Jkuo3nMUVgj3"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164516,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5WVG4MP29MfXX4PdJ7jY4N"
@@ -4196,6 +4196,28 @@
       "duration_ms": 140000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
+    },
+    {
+      "album": {
+        "name": "SexyBack",
+        "url": "https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        },
+        {
+          "name": "Fella",
+          "url": "https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "SexyBack",
+      "url": "https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH"
     },
     {
       "album": {

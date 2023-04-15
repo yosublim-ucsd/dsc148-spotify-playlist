@@ -6558,10 +6558,32 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167850,
       "name": "Frie Fugle (feat. Hjalmer)",
       "url": "https://open.spotify.com/track/0OHnyBb5ybSWlNpGrCvDLa"
+    },
+    {
+      "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167850,
+      "name": "Frie Fugle (feat. Hjalmer)",
+      "url": "https://open.spotify.com/track/7IGqXv0ubjEO8KLw4CdgdW"
     },
     {
       "album": {
@@ -19005,6 +19027,24 @@
     },
     {
       "album": {
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158957,
+      "name": "Tro P\u00e5 K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
+    },
+    {
+      "album": {
         "name": "Tro P\u00e5 K\u00e6rlighed",
         "url": "https://open.spotify.com/album/3247pE2qscZmvyEwamtd2W"
       },
@@ -19034,7 +19074,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 158957,
       "name": "Tro P\u00e5 K\u00e6rlighed",
       "url": "https://open.spotify.com/track/6UMdjOGgEJE1khAnrGJk2k"

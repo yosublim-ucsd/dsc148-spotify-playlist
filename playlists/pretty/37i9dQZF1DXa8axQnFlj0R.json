@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 70715,
+  "num_followers": 70692,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMDEzMjkyYjQwMTk4YzE1ZmY1ZGRiZmY3MGZmZWE2MWY0",
+  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMDIyZmY0YWQxMjRlYzkzYjFmZDU5MDExYTMxMTRmMWRi",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Without Fear",
         "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 202346,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Subject To Change",
-        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Glad I Got You",
-      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "False Floors",
         "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 151240,
       "name": "Rookery",
       "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Glad I Got You",
+      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
-      },
-      "artists": [
-        {
-          "name": "Qazi & Qazi",
-          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Holding",
         "url": "https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
         }
       ],
-      "duration_ms": 321400,
-      "name": "Last To Make It Home",
-      "url": "https://open.spotify.com/track/3cV2LIqOuroxPnpAYsfoLq"
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1491,6 +1475,22 @@
       "duration_ms": 289074,
       "name": "Follaton Wood",
       "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Last To Make It Home",
+      "url": "https://open.spotify.com/track/3cV2LIqOuroxPnpAYsfoLq"
     },
     {
       "added_at": "2022-12-02 19:02:37",

@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 483850,
+  "num_followers": 483971,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMGE0OWQ0NjVkN2I3MmI2ZTkzNDI2YzY4YTMxYWY1YmE5",
+  "snapshot_id": "MTY2MDc1MDczNSwwMDAwMDAwMDBhNTliZTJiM2U2ZTQyMjU5MzJiNDBmNTNlOWM0Nzlj",
   "tracks": [
     {
       "added_at": "2022-08-17 15:38:55",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 216773,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2022-08-17 15:38:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-17 15:38:55",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
-      "added_at": "2022-08-17 15:38:55",
-      "album": {
         "name": "Stunt (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
+    },
+    {
+      "added_at": "2022-08-17 15:38:55",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2022-08-17 15:38:55",

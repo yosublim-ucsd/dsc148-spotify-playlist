@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Pranjal Dahiya & KHATRI
 
-55 songs - 3 hr 9 min
+56 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Ghani Syaani](https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Syaani](https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc) | 3:33 | 2023-03-28 |  |
 | [Goli](https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS) | [Goli](https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m) | 2:45 | 2023-03-28 | 2023-04-04 |
 | [Haryana Roadways](https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Haryana Roadways](https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW) | 3:08 | 2023-03-28 |  |
+| [Haryana Zone](https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II) | [Oye Amit](https://open.spotify.com/artist/7mmiYB1wyaV5OfJkyq4w9X) | [Haryana Zone](https://open.spotify.com/album/4tz7GSeVevhfjXSddHw4J3) | 3:03 | 2023-04-14 |  |
 | [HHH \- Hip Hop Haryana](https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [HHH \- Hip Hop Haryana](https://open.spotify.com/album/6WWxMRqdGFcjpWPewmYm0L) | 6:16 | 2023-03-28 |  |
 | [Hollywood](https://open.spotify.com/track/1mGTLPsrLmDqElnb7urLNK) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Hollywood](https://open.spotify.com/album/4JVu7ANPoiT6kvbNlLDOHG) | 4:32 | 2023-03-28 | 2023-04-04 |
 | [HR Mashup](https://open.spotify.com/track/02GPZPUJAZ8gevwlzxst82) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [HR Mashup](https://open.spotify.com/album/0DsNQpOYvXCr4j16ottimR) | 2:48 | 2023-03-28 |  |
@@ -57,7 +58,7 @@
 | [Shok Albaadi](https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7) | [Monty Badanpur](https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa) | [Shok Albaadi](https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw) | 2:50 | 2023-03-28 |  |
 | [Small Towns](https://open.spotify.com/track/4If3KpzvKF4ua9eabqGDFM) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa) | [Small Towns](https://open.spotify.com/album/3hh9T0laD4bpieYXkc3OHb) | 4:03 | 2023-03-28 |  |
 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 | 2023-03-28 |  |
-| [TAMASHA](https://open.spotify.com/track/4T8C29foDJgAbVNKZT14Vq) | [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [TAMASHA](https://open.spotify.com/album/7wNoGdhbo6bxjjyOBeXYAh) | 3:13 | 2023-03-28 |  |
+| [TAMASHA](https://open.spotify.com/track/4T8C29foDJgAbVNKZT14Vq) | [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [TAMASHA](https://open.spotify.com/album/7wNoGdhbo6bxjjyOBeXYAh) | 3:13 | 2023-03-28 | 2023-04-15 |
 | [The Haryanvi Mashup 13](https://open.spotify.com/track/58RrIwnTYX6uKBj53ght8Q) | [Lokesh Gurjar](https://open.spotify.com/artist/6N9B1KW4wRl02vWTdSlwjE), [Gurmeet Bhadana](https://open.spotify.com/artist/58K23kT7FusjF4OBXzb5NI), [Desi King](https://open.spotify.com/artist/3Ip2KXe1kSAIpNd0q2aykb), [Baba Bhairupia](https://open.spotify.com/artist/45dDwb9r8jbiKt5j09ZB1V), [Totaram Sondhiya](https://open.spotify.com/artist/1xUgYsuIwMzWa2BFf8U9UX), [Priyanka Nagar](https://open.spotify.com/artist/7rdtBsOUkb4pictjWwQ0QA) | [The Haryanvi Mashup 13](https://open.spotify.com/album/17Pb3XoGyK6du7RkdEoGbi) | 6:11 | 2023-03-28 |  |
 | [True](https://open.spotify.com/track/2R7KeXRqnkjHfH66B1kn9A) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [True](https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D) | 4:05 | 2023-03-28 |  |
 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 | 2023-03-28 |  |

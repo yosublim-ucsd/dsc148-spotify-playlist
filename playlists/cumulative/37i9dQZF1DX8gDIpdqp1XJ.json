@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "album": {
         "name": "Aerostar",
         "url": "https://open.spotify.com/album/7qC9vTonZ0IXuKKkPyNqar"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
@@ -645,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Around",
+        "url": "https://open.spotify.com/album/6iLsJBQLbWdFRUeiuPnoc0"
+      },
+      "artists": [
+        {
+          "name": "Scotch Mist",
+          "url": "https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/1rxlKYkqpoq67Pzw9YHTNE"
+    },
+    {
+      "album": {
         "name": "As You Move Through The World",
         "url": "https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej"
       },
@@ -794,7 +830,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182601,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
@@ -1802,7 +1838,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195933,
       "name": "Chameleons",
       "url": "https://open.spotify.com/track/2AD9ksH0C7hJrSXZMllbgh"
@@ -4620,7 +4656,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 159226,
       "name": "Ghost On The Mend",
       "url": "https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR"
@@ -5148,7 +5184,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
@@ -5340,6 +5376,24 @@
       "duration_ms": 273854,
       "name": "Honey",
       "url": "https://open.spotify.com/track/01IuTsgAlgKlgrvPhZ2c95"
+    },
+    {
+      "album": {
+        "name": "Hot Ghee",
+        "url": "https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh"
+      },
+      "artists": [
+        {
+          "name": "Night Beats",
+          "url": "https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Hot Ghee",
+      "url": "https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4"
     },
     {
       "album": {
@@ -5714,7 +5768,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 265278,
       "name": "I Shimmer",
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
@@ -7839,6 +7893,28 @@
     },
     {
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+    },
+    {
+      "album": {
         "name": "Meet You in the Dark",
         "url": "https://open.spotify.com/album/5BqQM6aij8GzQgcNyuOQln"
       },
@@ -9103,6 +9179,24 @@
     },
     {
       "album": {
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Oval Stones",
+      "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
+    },
+    {
+      "album": {
         "name": "Over Now",
         "url": "https://open.spotify.com/album/5LTta2Z5mdVl1RgVdcQJ83"
       },
@@ -9320,7 +9414,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222920,
       "name": "Part III",
       "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
@@ -9338,7 +9432,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 243173,
       "name": "Passed Me By",
       "url": "https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le"
@@ -9493,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "Petroglyph",
+        "url": "https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Williams",
+          "url": "https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273374,
+      "name": "Petroglyph",
+      "url": "https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9"
+    },
+    {
+      "album": {
         "name": "Pitbull Goes To The Club",
         "url": "https://open.spotify.com/album/0fFfUdrvMKgczkaWOpqHWU"
       },
@@ -9598,6 +9710,24 @@
       "duration_ms": 258706,
       "name": "Powerlines",
       "url": "https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO"
+    },
+    {
+      "album": {
+        "name": "Prefecture",
+        "url": "https://open.spotify.com/album/61TiECWYYs43V3B1oVRU69"
+      },
+      "artists": [
+        {
+          "name": "The Bright Light Social Hour",
+          "url": "https://open.spotify.com/artist/7oIZ8VPQ688hUQ3dQ4y6rD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329000,
+      "name": "Prefecture",
+      "url": "https://open.spotify.com/track/2mgaWlD0SH2B87EMftqqEL"
     },
     {
       "album": {
@@ -10055,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv"
+    },
+    {
+      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -10398,7 +10546,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 221946,
       "name": "Shed Head",
       "url": "https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT"
@@ -11694,7 +11842,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"

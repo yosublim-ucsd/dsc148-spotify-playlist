@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Lainey Wilson",
-  "num_followers": 111702,
+  "num_followers": 111723,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM2MDI2MiwwMDAwMDAwMDQwMDhmZThkNzUyNmNlZWZmZmIwMzJkZjEzMGNiMDgz",
+  "snapshot_id": "MTY3OTM2MDI2MiwwMDAwMDAwMDRiYjk2NmI1OTRkOWI2Zjk2ZTE4YjQ4ZjJkYzEyZDQ5",
   "tracks": [
     {
       "added_at": "2023-03-21 00:57:42",
@@ -300,22 +300,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -327,6 +311,22 @@
       "duration_ms": 181000,
       "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-03-21 00:57:42",

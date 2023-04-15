@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,320 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,321 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 54 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 |
 | 55 | [SAMURAI](https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SUSHI VENUS](https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu) | 3:20 |
 | 56 | [Ceniza](https://open.spotify.com/track/0U0gXgyUw0QZ7rzLP2gRDQ) | [Joint Ravolta](https://open.spotify.com/artist/6iOXlI4iuOoXZO1gzp99UW) | [Ceniza](https://open.spotify.com/album/2LpgUOTVv0nFoaP9wuf4wq) | 3:06 |
-| 57 | [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 |
+| 57 | [Liberarme](https://open.spotify.com/track/1uVMbb1alEeaZpT0xRhlYH) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2h8PU8Y32DnHwvMHXuaQLp) | 3:23 |
 | 58 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 |
 | 59 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 | 60 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 69 | [ME QUIERO QUEDAR \- morko remix](https://open.spotify.com/track/6sHrSoKOTHwlZTJ9Pewwej) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Morko](https://open.spotify.com/artist/7ECK6zVWsnoTS1k3kH7mzt) | [NO VAYA A LA FIESTA REMIX](https://open.spotify.com/album/4rUFwIVoRO3shvDEs5N7ek) | 2:29 |
 | 70 | [malo](https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:03 |
 
-Snapshot ID: `MTY3MTc0NjEwMCwwMDAwMDAwMDNhYjMzOGM5MTEzNzJmY2EzMDBiMTBlMWE2MTdiMDU5`
+Snapshot ID: `MTY3MTc0NjEwMCwwMDAwMDAwMDQ0YTI0M2ZiMTFiNTE5MThhN2JlOGJjMzJmYzI2YjU4`

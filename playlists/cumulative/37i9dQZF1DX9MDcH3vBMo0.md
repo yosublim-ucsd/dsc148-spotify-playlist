@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-604 songs - 1 day 2 hr 22 min
+606 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-21 | 2022-09-29 |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-21 |  |
 | [Eclipse](https://open.spotify.com/track/0T8qo3Tr3rgGhYky5t2L5U) | [Arex Coda](https://open.spotify.com/artist/1Tu7K63su6HKvopaN2DBpB) | [Eclipse](https://open.spotify.com/album/5OO0jNyNBiKY4C4F0ftxpQ) | 4:38 | 2022-04-21 | 2022-07-21 |
+| [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-12 |  |
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-04-21 | 2022-07-20 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2022-04-21 |  |
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2022-04-21 | 2022-07-21 |
@@ -224,7 +225,8 @@
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2022-04-21 |  |
 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 | 2022-04-21 | 2022-09-24 |
 | [I found you](https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [I found you](https://open.spotify.com/album/46AgYDtzsWu8eczwGknUBW) | 2:17 | 2022-07-20 |  |
-| [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2022-04-21 |  |
+| [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2022-04-21 | 2023-04-15 |
+| [I Rette Tid](https://open.spotify.com/track/0CIVRRNufQLSNuD0ODckGm) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [I Rette Tid](https://open.spotify.com/album/4gwidAK3Xt7XmGMDzch8Cm) | 2:18 | 2023-04-12 |  |
 | [Il 7 Aprile](https://open.spotify.com/track/3HucjbWKBtOBPiPsegP8gt) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Il 7 Aprile](https://open.spotify.com/album/1UtnruDyYmndStPTCykHPD) | 1:49 | 2022-04-21 | 2022-07-21 |
 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 | 2022-04-21 | 2022-07-21 |
 | [Illusive Appearance](https://open.spotify.com/track/1TjW6B6oAQTyh4ca3r32DA) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Illusive Appearance](https://open.spotify.com/album/1B1fTeAhsxFmMQtRvsRqSF) | 3:09 | 2022-04-21 | 2022-09-24 |
@@ -240,7 +242,7 @@
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-04-21 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2022-04-21 |  |
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2022-04-21 |  |
-| [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2022-04-21 |  |
+| [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2022-04-21 | 2023-04-15 |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2022-04-21 | 2022-07-21 |
 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 | 2022-04-21 |  |
 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2022-04-21 | 2022-09-24 |

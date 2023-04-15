@@ -2,9 +2,9 @@
 
 ### [Las Chacalosas](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Irene del Rosario
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-278 songs - 15 hr 34 min
+282 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 | 2023-03-03 |  |
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2022-01-07 | 2022-07-29 |
 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 | 2022-01-07 | 2023-03-04 |
+| [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-04-14 |  |
 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 | 2022-08-03 |  |
 | [Gabriel Ornelas](https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Gabriel Ornelas](https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ) | 3:07 | 2022-08-03 | 2023-01-21 |
 | [Gaviota Traidora](https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Principios Vol\. 1](https://open.spotify.com/album/05KzRftEfw53JFMEzSZ5sY) | 3:47 | 2022-05-20 | 2022-08-04 |
@@ -181,6 +182,7 @@
 | [Palabras Tristes](https://open.spotify.com/track/1FktCE7NbKvj85XmGIp6Cb) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:36 | 2022-01-07 | 2022-06-21 |
 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 | 2022-01-07 | 2023-02-16 |
 | [Para No Extrañarte Tanto](https://open.spotify.com/track/7aUpb64GsXLoVteGzxoqFF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Para No Extrañarte Tanto](https://open.spotify.com/album/4luKNKit2Et3h4DrD9Uhgo) | 3:53 | 2022-01-07 | 2022-07-28 |
+| [Paso A Pasito](https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:43 | 2023-04-14 |  |
 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 | 2022-01-07 | 2023-03-04 |
 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 | 2022-04-01 | 2022-07-12 |
 | [Pierde El Miedo](https://open.spotify.com/track/4lQrNs6ZXPIT81dpq2I6FK) | [Alessa](https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T) | [Pierde El Miedo](https://open.spotify.com/album/1GsidVy5uqeAiqwqzyYjNU) | 3:43 | 2022-02-18 | 2022-04-20 |
@@ -213,6 +215,7 @@
 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 | 2023-03-03 |  |
 | [Romeo Y Su Nieta](https://open.spotify.com/track/45q7Y91RaCuQAOk2pCSMGM) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Romeo Y Su Nieta](https://open.spotify.com/album/3RSaSZediHZ92VPNRzf8KU) | 2:14 | 2023-01-09 | 2023-03-04 |
 | [Romeo y Su Nieta](https://open.spotify.com/track/67C1cYX9y10IZZ0b71Rt2J) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Romeo y Su Nieta](https://open.spotify.com/album/5URRVEb6ATU4MaJzAhSuvj) | 2:14 | 2022-01-07 | 2022-07-23 |
+| [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 | 2023-04-14 |  |
 | [Sangre De Gorilla](https://open.spotify.com/track/3pfkSqEtTtNvhxBVK79wZD) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Sangre De Gorilla](https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM) | 3:00 | 2023-03-03 |  |
 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 | 2022-05-20 | 2022-08-04 |
 | [Se Disfrazó](https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Se Disfrazó](https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8) | 3:26 | 2022-08-03 | 2023-01-21 |
@@ -244,6 +247,7 @@
 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 | 2022-01-07 | 2023-03-04 |
 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 | 2022-05-20 | 2023-03-04 |
 | [Tres Veces Te Engañe](https://open.spotify.com/track/6gErMkDgSLWNUwpt6SCOog) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/71EM8cmQSP7gGXqEEDHKuz) | 3:19 | 2022-01-07 | 2022-07-29 |
+| [Tres Veces Te Engañe](https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz) | [Sarah La Morena](https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ) | [Tres Veces Te Engañe](https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw) | 3:35 | 2023-04-14 |  |
 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 | 2023-03-03 |  |
 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:58 | 2022-01-07 | 2023-03-04 |
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6PblaBoFvMNh3x4gbTV0zU) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 3:04 | 2022-01-07 | 2022-07-28 |

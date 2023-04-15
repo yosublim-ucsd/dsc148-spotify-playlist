@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
-  "num_followers": 97623,
+  "num_followers": 97656,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDNjOTlmMzE1N2U1ZmFmMTk4YmUzNTU5ZmUyYjcxYzM5",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGJiNzBlZjZmN2I2ZjE1Zjc5MDM1NjQ4MjVjM2Y0NGMz",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 214357,
-      "name": "Ya No Est\u00e1s - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf"
+      "duration_ms": 323695,
+      "name": "Pistolas",
+      "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 323695,
-      "name": "Pistolas",
-      "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
+      "duration_ms": 214357,
+      "name": "Ya No Est\u00e1s - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 247679,
+      "name": "Desde Lejos No Se Ve",
+      "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 226186,
       "name": "Yo Tomo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 247679,
-      "name": "Desde Lejos No Se Ve",
-      "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Mil Horas - En Vivo",
-      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "El Amor No Existe (En Vivo)",
         "url": "https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 168693,
       "name": "El Amor No Existe - En Vivo",
       "url": "https://open.spotify.com/track/1zDK1iD8uUYhT3yExKFG1S"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Luces (En Vivo Luna Park 2006)",
-        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
-      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Instante Eterno (ac\u00fastico en Vivo)",
         "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 253757,
       "name": "Volando - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/5ba8CYp9PnXs6gISceAzLQ"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Luces (En Vivo Luna Park 2006)",
+        "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
+      "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
     },
     {
       "added_at": "2023-04-07 03:00:00",

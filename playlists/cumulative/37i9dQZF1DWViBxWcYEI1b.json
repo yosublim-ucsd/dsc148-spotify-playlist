@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Stacey Ryan",
+  "description": "For those with a taste for both the new and the classic. Cover: C\u00e9line Dion",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 216426,
       "name": "A Potion For Love",
       "url": "https://open.spotify.com/track/5mDvRgYQY8dJp8Oy1veESd"
+    },
+    {
+      "album": {
+        "name": "Afraid of the Dark",
+        "url": "https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227940,
+      "name": "Afraid of the Dark",
+      "url": "https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8"
     },
     {
       "album": {
@@ -448,7 +466,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 177066,
       "name": "Another Love Song",
       "url": "https://open.spotify.com/track/2PKEWeRvcGxPzr3FaGes5e"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187940,
       "name": "Before You",
       "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 290892,
       "name": "Dawns (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
@@ -4069,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Moon Mist",
+        "url": "https://open.spotify.com/album/5OJVEFW0e5lCJQTVCN31Iz"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse Beats",
+          "url": "https://open.spotify.com/artist/0L2FsTbvoOWxuRcgSPDd7z"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178221,
+      "name": "Gordon Pinsent",
+      "url": "https://open.spotify.com/track/1srbBO5tOYSFFcfeYLVmg3"
+    },
+    {
+      "album": {
         "name": "Face The River",
         "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
       },
@@ -4268,7 +4304,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 219268,
       "name": "Hard to Love",
       "url": "https://open.spotify.com/track/4Xy5IUkDArWcbJZBJpvaJQ"
@@ -4878,7 +4914,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226440,
       "name": "How I'm Feeling Now",
       "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
@@ -5272,6 +5308,24 @@
       "duration_ms": 301066,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/072QqxZxkYBiyCYwIlKu22"
+    },
+    {
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179006,
+      "name": "I Take It Back",
+      "url": "https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS"
     },
     {
       "album": {
@@ -6185,6 +6239,24 @@
     },
     {
       "album": {
+        "name": "LadyLove",
+        "url": "https://open.spotify.com/album/0IXVy9DSFUCwOHEcg61hXS"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186230,
+      "name": "LadyLove",
+      "url": "https://open.spotify.com/track/2Jm8tcWP8sgs30KDZoFeNt"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
       },
@@ -6763,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Love Again (from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Love Again - from the Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2"
+    },
+    {
+      "album": {
         "name": "love is just a word",
         "url": "https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg"
       },
@@ -6908,6 +6998,24 @@
       "duration_ms": 150173,
       "name": "Love You Still (abcdefu romantic version)",
       "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272021,
+      "name": "Made Of Love",
+      "url": "https://open.spotify.com/track/33uyQzDxVrCo7p7SaPfo15"
     },
     {
       "album": {
@@ -7190,6 +7298,24 @@
       "duration_ms": 203660,
       "name": "Million To One - from the Amazon Original Movie \"Cinderella\"",
       "url": "https://open.spotify.com/track/3lzYrD0WcgGFiAFKkB2shE"
+    },
+    {
+      "album": {
+        "name": "mine / me",
+        "url": "https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191007,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T"
     },
     {
       "album": {
@@ -8161,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "The Ballet Girl EP - Part 1",
+        "url": "https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "Other Side of the Moon",
+      "url": "https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez"
+    },
+    {
+      "album": {
         "name": "Over Tonight",
         "url": "https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk"
       },
@@ -8554,7 +8698,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 145186,
       "name": "Put Me First - Spotify Singles",
       "url": "https://open.spotify.com/track/7AVh4WcNbYldNAMtC3Rki1"
@@ -9194,7 +9338,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 214208,
       "name": "See, I'm Sorry",
       "url": "https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl"
@@ -10122,7 +10266,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1"
@@ -10140,7 +10284,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
@@ -10562,7 +10706,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 137628,
       "name": "Thought You Should Know",
       "url": "https://open.spotify.com/track/11mEd9lROCjJ3yOzFgbBXq"
@@ -10620,6 +10764,24 @@
       "duration_ms": 257061,
       "name": "Tides Turn",
       "url": "https://open.spotify.com/track/1vBsjM4iVuC0RKBkxmm37b"
+    },
+    {
+      "album": {
+        "name": "To Whoever Has You Next",
+        "url": "https://open.spotify.com/album/2m79RYJzEIhDWiPclcRle7"
+      },
+      "artists": [
+        {
+          "name": "12AM",
+          "url": "https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152821,
+      "name": "To Whoever Has You Next",
+      "url": "https://open.spotify.com/track/5kFyn9ADelkaJ7vO8aTxCU"
     },
     {
       "album": {
@@ -11650,6 +11812,24 @@
       "duration_ms": 210952,
       "name": "Wild Dogs (Running in a Slow Dream)",
       "url": "https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

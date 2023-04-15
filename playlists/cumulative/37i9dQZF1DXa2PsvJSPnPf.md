@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-176 songs - 11 hr 1 min
+177 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 | 2021-11-19 |  |
 | [Hands for the Harvest](https://open.spotify.com/track/6phbZ3XdpEPzmye2NNrDt9) | [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Eno Axis](https://open.spotify.com/album/3jPpqSXDrFVsZeFTmRRE00) | 4:17 | 2022-05-16 |  |
 | [Hands for the Harvest](https://open.spotify.com/track/7Dkw3j1rlDRf5qlQs1Qthw) | [H.C\. McEntire](https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4) | [Eno Axis](https://open.spotify.com/album/17pqCR4Q5CInYKj4VizvD8) | 4:17 | 2021-11-19 | 2022-07-29 |
+| [Heart is the Hero](https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Heart is the Hero](https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS) | 2:56 | 2023-04-14 |  |
 | [Heart Swell](https://open.spotify.com/track/2mML5QnqL781rheJbrmJuW) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Heart Swell](https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7) | 4:09 | 2022-05-16 |  |
 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 | 2021-11-19 |  |
 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 | 2021-11-19 |  |

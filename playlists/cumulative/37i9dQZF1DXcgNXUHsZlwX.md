@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-397 songs - 23 hr 28 min
+398 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2023-02-24 |
-| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
+| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2023-04-15 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 | 2021-01-17 | 2022-07-23 |
@@ -386,6 +386,7 @@
 | [Vagues aurores](https://open.spotify.com/track/5DIsukT6a4bmYWl7bCMPRV) | [Pierre\-Hervé Goulet](https://open.spotify.com/artist/1GjPz9lzOzK7jJlWv7RwS8) | [Le jeu des lumières](https://open.spotify.com/album/2h8xyQLOdHd8wY7v6yWby2) | 2:54 | 2021-02-25 | 2021-05-08 |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2021-10-23 |  |
 | [Vallée embrumée](https://open.spotify.com/track/19ewBbCHh4wNEeLPEmHwJ8) | [Dans l'Shed](https://open.spotify.com/artist/0rUB643AKozBTQqO7T78Cb) | [Vallée embrumée](https://open.spotify.com/album/1JB8StNLzFhQJCviUIPd4b) | 2:56 | 2021-01-03\* | 2021-05-08 |
+| [Vers la mer](https://open.spotify.com/track/36rXAkb0k72JIjOil4SS6W) | [Victoria Lord](https://open.spotify.com/artist/1c1Eft7z1a5uQdJ2iwSct7), [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Vers la mer](https://open.spotify.com/album/3soUS8FlIpF1yRB3riT9xw) | 3:58 | 2023-04-14 |  |
 | [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-06 | 2022-06-13 |
 | [Vigiles](https://open.spotify.com/track/6ClNYY6az9pC4T0pZI3T44) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:20 | 2022-07-08 | 2022-08-31 |
 | [Vigiles](https://open.spotify.com/track/7mV63vY1vlPhDh41veyTHl) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:20 | 2021-01-03\* | 2022-07-29 |

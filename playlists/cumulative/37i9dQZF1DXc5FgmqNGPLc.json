@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "My Foolish Heart (Live)",
+        "url": "https://open.spotify.com/album/0tkRkhaV8eqw0kn1MUKIWx"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271520,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/4ET4KbrR2ly7diI7rnQwhc"
+    },
+    {
+      "album": {
         "name": "Live at the Village Vanguard",
         "url": "https://open.spotify.com/album/1RZBIIFd5NYufxARh6yyWy"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 529360,
       "name": "Soul Eyes (Live)",
       "url": "https://open.spotify.com/track/1QtKtRFcCtacDvGWEhe5uP"

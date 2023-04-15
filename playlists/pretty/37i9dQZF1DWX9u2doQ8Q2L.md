@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,572 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,624 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 2 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 3 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 4 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
-| 5 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 |
+| 5 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 6 | [nestling](https://open.spotify.com/track/2eXkWpzzJVQ57l6DOQec7y) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [nestling](https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq) | 3:47 |
 | 7 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 |
 | 8 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 52 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
 | 53 | [summercut](https://open.spotify.com/track/4SDFECUJAYtTEElw4cgZ9e) | [Cruyff](https://open.spotify.com/artist/7lSyPTZ8neNa8NSrRYyx8A) | [lovefullstudentnerdthings](https://open.spotify.com/album/6lqDNJ9mpw2n9LLTtLJFmQ) | 5:49 |
 | 54 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 |
-| 55 | [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 |
+| 55 | [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 |
 | 56 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 |
 | 57 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
 | 58 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 99 | [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 |
 | 100 | [brownie](https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [brownie](https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4) | 2:32 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDBhOWRiZGVjNjBlODcxNDk2ODA5ZTkxNDhhOTA0OWUy`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDQzYWNjNDE0ZDY4NmMxMzVmZDBkNjMyMTQ2YzU4Y2Iy`

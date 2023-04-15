@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: King Krule
 
-1,427 songs - 3 day 12 hr 29 min
+1,428 songs - 3 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,7 +914,8 @@
 | [ornament](https://open.spotify.com/track/3VALJVjUCrG0SR8Z0PjvPT) | [Jazmine Flowers](https://open.spotify.com/artist/24vkpuyIDXuQ1nGGPChhcA) | [ornament](https://open.spotify.com/album/034ZUHRuyyoi4q2RJqTQf5) | 3:35 | 2021-09-17 | 2021-10-16 |
 | [Our Bones Turn To Stone](https://open.spotify.com/track/3L0XH247cWBtheVx7Tkfaa) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Our Bones Turn To Stone](https://open.spotify.com/album/0dwMCKOYFs0j4pWRx9iuZ5) | 4:20 | 2021-07-23 | 2021-09-24 |
 | [Out the Gaff](https://open.spotify.com/track/1HujLcfquU7tSd4ZHWj5OI) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y), [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc), [God Knows](https://open.spotify.com/artist/64QEe8zqbKitkSxw6tO2Ef), [MuRli](https://open.spotify.com/artist/3VK5J4XEgwX0xu9pjZfCiS) | [Out the Gaff](https://open.spotify.com/album/4N3cpXwp01m67vNqvz5Mqy) | 3:37 | 2020-09-29\* | 2020-11-13 |
-| [Oval Stones](https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1) | 3:33 | 2023-04-13 |  |
+| [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-13 |  |
+| [Oval Stones](https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1) | 3:33 | 2023-04-13 | 2023-04-15 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 |  |
 | [Overstayed](https://open.spotify.com/track/0GqhoSy21Qhp6036saeWLx) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Cozy Kiyo](https://open.spotify.com/artist/1klqpHTsd2SPcQFoYqLmEw) | [Overstayed](https://open.spotify.com/album/4mfuviXdL3Y8TcGG1qO6BK) | 2:29 | 2021-01-15 | 2021-03-14 |
 | [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 | 2020-09-29\* | 2020-10-16 |

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,070 likes - 130 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,157 likes - 130 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [never mind](https://open.spotify.com/track/5jjRbQBPGIgR1h4GXni04h) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [never mind](https://open.spotify.com/album/19HVR0fbGl81JaABc5pNym) | 2:32 |
-| 2 | [Fourth Great Year](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Fourth Great Year](https://open.spotify.com/album/5G8WnxsQ0KdNPKl9PArltd) | 2:25 |
-| 3 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 |
-| 4 | [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 |
-| 5 | [Lasting Moments](https://open.spotify.com/track/5Hr9Y7IUmWzUZW2AUnzk1e) | [Kamizuro](https://open.spotify.com/artist/4nF5uh9GPzeV02AnChx3q9) | [Lasting Moments](https://open.spotify.com/album/3nyl36Z97weIsLrkI8w3pJ) | 2:02 |
-| 6 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 |
-| 7 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 |
-| 8 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 |
-| 9 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 |
-| 10 | [Papaya Jam](https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Papaya Jam](https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr) | 2:12 |
-| 11 | [Aberdeen](https://open.spotify.com/track/5Zi4ss26YhBU16imt3WEJ3) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Aberdeen](https://open.spotify.com/album/6i9ncCIApWTzLU5T1auj3y) | 2:32 |
-| 12 | [Oaks Are Real](https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Oaks Are Real](https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54) | 2:52 |
-| 13 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 |
-| 14 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 |
-| 15 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 |
+| 1 | [Fourth Great Year](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Fourth Great Year](https://open.spotify.com/album/5G8WnxsQ0KdNPKl9PArltd) | 2:25 |
+| 2 | [Creatures](https://open.spotify.com/track/2Xu88uUM8dvRSzsZa8Tm2W) | [Justin Berghart](https://open.spotify.com/artist/2U8TggBhPjlTITew6Z3Dgt) | [Creatures](https://open.spotify.com/album/4GSSe42yWKGReogQuuUfuE) | 4:58 |
+| 3 | [Lasting Moments](https://open.spotify.com/track/5Hr9Y7IUmWzUZW2AUnzk1e) | [Kamizuro](https://open.spotify.com/artist/4nF5uh9GPzeV02AnChx3q9) | [Lasting Moments](https://open.spotify.com/album/3nyl36Z97weIsLrkI8w3pJ) | 2:02 |
+| 4 | [Polar](https://open.spotify.com/track/3CkFs9nquXcv4VsHnsvhJ5) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Polar](https://open.spotify.com/album/40QMSxAcbxjVpqnsIorPMX) | 4:34 |
+| 5 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 |
+| 6 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 |
+| 7 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 |
+| 8 | [To Do List](https://open.spotify.com/track/2yboFvgwf9aj8kNpYzWFJb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Autograph](https://open.spotify.com/album/1RiVyB6YIkv3cwCtnzVwE9) | 3:17 |
+| 9 | [Papaya Jam](https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Papaya Jam](https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr) | 2:12 |
+| 10 | [Wons](https://open.spotify.com/track/6xcXGCA6Qs9LwxY4r6B0g4) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Reyk](https://open.spotify.com/album/1BkKPSXIsJvSBhqS9FI7qY) | 3:15 |
+| 11 | [Oaks Are Real](https://open.spotify.com/track/7KoQlaxIbg3FhBABlBTKEt) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Oaks Are Real](https://open.spotify.com/album/4qIxKQMmCNGyXZWH7Bel54) | 2:52 |
+| 12 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 |
+| 13 | [Aberdeen](https://open.spotify.com/track/5Zi4ss26YhBU16imt3WEJ3) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Aberdeen](https://open.spotify.com/album/6i9ncCIApWTzLU5T1auj3y) | 2:32 |
+| 14 | [Ramblas](https://open.spotify.com/track/5yvdQZqYzMt191ssW3NvUD) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Ramblas](https://open.spotify.com/album/1wc0My9WNuYDavAKc7ifgf) | 3:12 |
+| 15 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 |
 | 16 | [Francisco](https://open.spotify.com/track/0H3e2aKIJo154hMg1fcTE2) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Francisco](https://open.spotify.com/album/609Yhbf9SQvk7pFEQWqU4H) | 2:27 |
 | 17 | [Glacier](https://open.spotify.com/track/2W8nY0OmBoOaPtGxtJ3chw) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Glacier](https://open.spotify.com/album/73k8K7hyjXrHqmfEXpOyZf) | 2:12 |
 | 18 | [Casa Commercial](https://open.spotify.com/track/4wwrQNY2AjrCt2mGc7HcQA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Casa Commercial](https://open.spotify.com/album/2TtYOujCGZcesSm6FEe24g) | 2:48 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 129 | [Tempted](https://open.spotify.com/track/6hiA6WO0DRm9D480BIGqOT) | [Summon U](https://open.spotify.com/artist/0TyHSpKbAEP2QoXB7jVxCE) | [Technically Sane](https://open.spotify.com/album/3zVigb4My48jZIPLWVDiRW) | 2:55 |
 | 130 | [canggu \- Edit](https://open.spotify.com/track/0jy4TqKxOwZoraKJkle0dC) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [canggu \(Edit\)](https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k) | 2:23 |
 
-Snapshot ID: `MTY4MDIyMDg2MCwwMDAwMDAwMDVkNGYzMDY0Y2IwZWUzYjI2ZTY2YzdjMDYxN2RhNTUx`
+Snapshot ID: `MTY4MTQ3NTU3NywwMDAwMDAwMDQwYzQyZGM0NWJlZTkwMzI1YmI0NzgzNzA4OTNhM2Nj`

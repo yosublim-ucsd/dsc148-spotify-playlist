@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72727,
+  "num_followers": 72728,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDA5ZjY5MDFjNjgzOTRhZGM5MTA5NmZlMTVlZTkzODBm",
+  "snapshot_id": "MTY3ODI4MDQwMCwwMDAwMDAwMDMxYzZhOWJkOTE3MTc1N2ZiNWE5ZTk1ODA3NWY3OTE3",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
     },
     {
-      "added_at": "2023-04-14 00:39:25",
+      "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Higher Now",
-        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
+        "name": "The Future of an End",
+        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
       },
       "artists": [
         {
-          "name": "Seph Cove",
-          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
         }
       ],
-      "duration_ms": 258532,
-      "name": "Higher Now",
-      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
+      "duration_ms": 194453,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR"
     },
     {
-      "added_at": "2023-01-12 13:00:00",
+      "added_at": "2023-04-15 00:43:53",
       "album": {
-        "name": "The Future of an End",
-        "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
+        "name": "Higher Now",
+        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
       },
       "artists": [
         {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+          "name": "Seph Cove",
+          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
+      "duration_ms": 258532,
+      "name": "Higher Now",
+      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
     },
     {
       "added_at": "2023-01-12 13:00:00",

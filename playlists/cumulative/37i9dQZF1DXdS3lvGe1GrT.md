@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Superviolet \| Visual Artist: Bailey Elder
 
-559 songs - 1 day 9 hr 40 min
+560 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Big Love Ahead](https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Big Love Ahead](https://open.spotify.com/album/0XT6wyN9L8cv0On0rOKNIb) | 1:48 | 2023-02-01 | 2023-04-13 |
 | [Big Songbirds Don't Cry](https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Big Songbirds Don’t Cry](https://open.spotify.com/album/1jRzU7XRaMYyoNAHniaWMI) | 3:54 | 2023-04-05 |  |
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-03-29 |  |
-| [Birthright](https://open.spotify.com/track/5zzj3Zhdu5CJW8B9Q41HPn) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Birthright](https://open.spotify.com/album/4sLhDDf6wLURdRLk8feDVY) | 3:11 | 2023-04-05 |  |
+| [Birthright](https://open.spotify.com/track/0f59bTNnPUgWYfVj0ma3n4) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Thief](https://open.spotify.com/album/0SycnUm3SW1wk0Ro1p8Vnc) | 3:11 | 2023-04-12 |  |
+| [Birthright](https://open.spotify.com/track/5zzj3Zhdu5CJW8B9Q41HPn) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Birthright](https://open.spotify.com/album/4sLhDDf6wLURdRLk8feDVY) | 3:11 | 2023-04-05 | 2023-04-15 |
 | [Black & Blue](https://open.spotify.com/track/4mOLUW7Im4QEvBGA3dfbNq) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 3:00 | 2022-05-25 | 2022-08-25 |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-05-25 | 2022-07-21 |
 | [Blissful Lands](https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Blissful Lands](https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS) | 2:59 | 2023-03-22 |  |

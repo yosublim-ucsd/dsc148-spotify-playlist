@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 15549,
+  "num_followers": 15636,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMDUxMjFkZjM3MmUzNGQzNzEwYTI3ZTEwOTZmMjEyOTA3",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGZhMDYyZjUwNWJmNzEzMjBmZDQ1YTk4NzZhY2FjMDUz",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 167810,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
     },
     {
       "added_at": "2022-10-02 01:51:23",

@@ -1,12 +1,12 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 29026,
+  "num_followers": 29077,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGZkMjU1NzZlODA2MWFlMjViZjYwZmJlMGMzY2U4YzI1",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDQ3YjQ1MzViMzk4M2JiNWYyYWViODAzZDExYWVjOWRm",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Settling Down",
-      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"
+      "duration_ms": 197453,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 231265,
       "name": "Long Haul",
       "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 221240,
       "name": "Country Again",
       "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "You\u2019ll Think Of Me",
+      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Graffiti U",
-        "url": "https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z"
+        "name": "Dylan Marlowe",
+        "url": "https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 253084,
-      "name": "Parallel Line",
-      "url": "https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl"
+      "duration_ms": 185144,
+      "name": "All About It",
+      "url": "https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj"
     }
   ],
   "unique_name": "Cozy Country",

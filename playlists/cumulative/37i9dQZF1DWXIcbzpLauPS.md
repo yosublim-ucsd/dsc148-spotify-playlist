@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Attack Attack!
 
-671 songs - 1 day 18 hr 19 min
+672 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 | 2022-12-16 |  |
 | [Baba Yaga](https://open.spotify.com/track/2qk76H18li0kh0hPJTZmMk) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Baba Yaga](https://open.spotify.com/album/1fUP56lgqAS5bzycn35WAl) | 4:15 | 2022-07-13 | 2022-07-23 |
 | [Back for More](https://open.spotify.com/track/3DM9DwtKbAiwvRc4bJ1NyF) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Back for More](https://open.spotify.com/album/490ljTJrUAlYnjTgjMQMrU) | 3:41 | 2021-12-17 | 2022-01-08 |
-| [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-01-27 |  |
+| [Backfire](https://open.spotify.com/track/2zd7WJWnvGNNnqnNZ2xzkg) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:22 | 2023-03-31 |  |
+| [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-01-27 | 2023-04-15 |
 | [Backfire](https://open.spotify.com/track/0HcjKTb2vcKHSi8xZejERI) | [Devil's Cut](https://open.spotify.com/artist/4slQgNvBaj8rtuTZRhrMkf) | [LIFTED](https://open.spotify.com/album/0DdAVTe2xiSMJLrDErt2Tm) | 3:02 | 2021-12-17 | 2022-04-09 |
 | [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-11-04 | 2023-01-28 |
 | [Banquet of Enigmatic Horrors Pt1: Terror](https://open.spotify.com/track/4vjralLcZQXtoCFTQajZQu) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Banquet of Enigmatic Horrors Pt 1: Terror](https://open.spotify.com/album/4t6hqON21Pp8pkNAXKd9lK) | 4:22 | 2022-07-13 | 2022-07-15 |

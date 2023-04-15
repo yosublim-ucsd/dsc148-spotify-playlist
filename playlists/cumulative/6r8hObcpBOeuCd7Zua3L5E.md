@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the internet.
 
-144 songs - 7 hr 21 min
+145 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bananza \(Belly Dancer\) \- Sped Up](https://open.spotify.com/track/5QkLSv4fVAJpRdlj9MpyRW) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sped Up Hits Vol\. 1](https://open.spotify.com/album/4jlSVUy9WXylCQQuJ1d7iI) | 3:03 | 2023-02-27 |  |
 | [Bartender Song \(Sittin' At A Bar\) \- Sped Up](https://open.spotify.com/track/0mqMFep8g3JBP4UGsQnKeJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sped Up Hits Vol\. 1](https://open.spotify.com/album/4jlSVUy9WXylCQQuJ1d7iI) | 3:03 | 2023-02-27 |  |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-07-18 |  |
-| [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-07-18 |  |
+| [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-07-18 | 2023-04-15 |
 | [Bulletproof \- Tiborg Remix](https://open.spotify.com/track/6kZiU1GpRB9ukpHXRQROci) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Bulletproof \(Tiborg Remix\)](https://open.spotify.com/album/1Y9ELQbetvtxstnfvoPKId) | 3:27 | 2020-03-31 | 2022-07-19 |
 | [Bust A Move](https://open.spotify.com/track/3IeCYkdKI55mNMl2o4vX0k) | [Young MC](https://open.spotify.com/artist/5n30a5V4ftXNMHCHChmK2h) | [Stone Cold Rhymin'](https://open.spotify.com/album/5epYkQqWldhYysHIH9mrmE) | 4:23 | 2020-03-31 | 2022-07-19 |
 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 | 2020-03-31 | 2022-07-19 |
@@ -43,6 +43,7 @@
 | [Down](https://open.spotify.com/track/7LP4Es66zdY7CyjepqmvAg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [All Or Nothing](https://open.spotify.com/album/3v0AeWgJPrdPPZGt1tS2s0) | 3:32 | 2020-03-31 | 2022-07-19 |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-07-18 | 2023-01-22 |
 | [dumb dumb \- sped up](https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette \(bonus\)](https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k) | 1:42 | 2022-10-10 |  |
+| [dumiri \(Sped Up\)](https://open.spotify.com/track/6a2CPvoOR6AYucxHxJhsNK) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Nightcore Warped](https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu) | [dumiri \(Sped Up\)](https://open.spotify.com/album/1L1pI24Czropj5CRT8uYlm) | 2:38 | 2023-04-15 |  |
 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 | 2020-03-31 | 2022-07-19 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2020-03-31 | 2022-07-19 |
 | [Everybody Wants To Rule The World \- Sped Up Version](https://open.spotify.com/track/6MRD4fDXBbqa0xodmaFk8Q) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Everybody Wants To Rule The World \(Sped Up Version\)](https://open.spotify.com/album/1OCUxmIIq0Q1Mj3AFATzsI) | 3:03 | 2022-09-07 |  |

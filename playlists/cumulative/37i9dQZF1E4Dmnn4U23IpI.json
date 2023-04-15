@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 349706,
       "name": "America Online",
       "url": "https://open.spotify.com/track/1BU1WTFvnrXpgooJRMlWiW"
@@ -1633,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
+      },
+      "artists": [
+        {
+          "name": "Fantom '87",
+          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309847,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4AYUKYqDKg5SWNGjs75h05"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/7I3UkF8rKPPr54QWJUZEws"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 292186,
       "name": "Art3mis & Parzival",
       "url": "https://open.spotify.com/track/3UwWu3k4ppm1vQxLuSIr0H"
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 237333,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/4EJvZM8TZs5DuRWn1t3R3y"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 216774,
       "name": "Beta Girl Lost in Forever",
       "url": "https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 290153,
       "name": "California Winter",
       "url": "https://open.spotify.com/track/10pk49gpQEkG9jjkAnbfzY"
@@ -7324,7 +7342,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218872,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/3VA0MbKd8BHOnS7neOKwz5"
@@ -8608,7 +8626,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 289897,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
@@ -9590,6 +9608,24 @@
       "duration_ms": 204063,
       "name": "Homestretch",
       "url": "https://open.spotify.com/track/7opKNgSuQMzEB3JQOWpGTH"
+    },
+    {
+      "album": {
+        "name": "Return to Synth City",
+        "url": "https://open.spotify.com/album/6WJLMNPwxm5LlzkJeRvr7x"
+      },
+      "artists": [
+        {
+          "name": "Nightstop",
+          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232544,
+      "name": "Hooker Havoc",
+      "url": "https://open.spotify.com/track/4nW0g3QJ8UEyBb8FVdM4uW"
     },
     {
       "album": {
@@ -11248,7 +11284,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 251329,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
@@ -11556,7 +11592,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 282627,
       "name": "Kyra - The Midnight Remix",
       "url": "https://open.spotify.com/track/28JgeXZxmTfzsfYLGo3e5G"
@@ -13212,7 +13248,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 303000,
       "name": "Meet Me at the Dance",
       "url": "https://open.spotify.com/track/5NDoe2gbMEfwSD2gKsQlEI"
@@ -13266,7 +13302,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 241008,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3ZBmuDjccs81ULgtURHvY0"
@@ -13392,7 +13428,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 279575,
       "name": "Midnight Affair",
       "url": "https://open.spotify.com/track/4VumlZ9R3dMQIuvmwBQu3v"
@@ -13692,7 +13728,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 209102,
       "name": "Missing Out - The Midnight Remix",
       "url": "https://open.spotify.com/track/0vhaMhozCr9SKpqRvEltsX"
@@ -15130,7 +15166,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 340800,
       "name": "Nocturn",
       "url": "https://open.spotify.com/track/2BVz0n3zbMMprOUBpEIbxZ"
@@ -16570,7 +16606,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 270512,
       "name": "Pastel Sunset",
       "url": "https://open.spotify.com/track/52y7YLGxeVIBikeaL5wjzg"
@@ -18632,7 +18668,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 302068,
       "name": "See It in Your Eyes",
       "url": "https://open.spotify.com/track/355zmcjh9ZtCD6MZxMZahN"
@@ -20660,7 +20696,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 320306,
       "name": "Strong - Instrumental",
       "url": "https://open.spotify.com/track/68z36ZU2RgiB9VyafaBrqV"
@@ -20988,7 +21024,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 281564,
       "name": "Sunset Strip",
       "url": "https://open.spotify.com/track/54leWgkYwmwTGXf97IyQAZ"
@@ -21980,7 +22016,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 246085,
       "name": "The Driver",
       "url": "https://open.spotify.com/track/7sOcTBKCHGjgBHsQ8P3f1h"
@@ -22312,7 +22348,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 262784,
       "name": "The Outfield - The Midnight Remix",
       "url": "https://open.spotify.com/track/06QJmUSrIP7f1bueeteg6E"

@@ -6,10 +6,318 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMTQwMDAsMDAwMDAwMDBlYTY1MzFmOTIwMjJmOWY4NzhmMzg5NThlNTJlOWU1Yw==",
+  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDA1OWEyMjMwOWVmMGUxMjg3N2EwZTM4OWE4NjgwYmNhYg==",
   "tracks": [
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Ac\u00fastico (En Vivo)",
+        "url": "https://open.spotify.com/album/3bc0DXravo99FhuX5ocVzR"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "La Ni\u00f1ez - En Vivo",
+      "url": "https://open.spotify.com/track/04h9jCJsT5V8NTrfXiq2RG"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I Ran (So Far Away) [Re-Recorded - Sped Up]",
+        "url": "https://open.spotify.com/album/5hx7Zy4lTktokmVhxquMus"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 298055,
+      "name": "I Ran (So Far Away) - Re-Recorded",
+      "url": "https://open.spotify.com/track/0ZQl3QQoQ2shj2hA9X8xrl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 405106,
+      "name": "Chasing Light",
+      "url": "https://open.spotify.com/track/0aHwh2rqyJNN0eZ4sGZLEt"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "It's Called Paradise",
+        "url": "https://open.spotify.com/album/5KVHMKigtRSzH2qV6rd1XU"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "duration_ms": 263925,
+      "name": "It's Called Paradise",
+      "url": "https://open.spotify.com/track/645MkmRB7md78K9cIUemDn"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Release My Soul (Blutengel Mix)",
+        "url": "https://open.spotify.com/album/3gddcNaS3VV1P11yw7Q6cs"
+      },
+      "artists": [
+        {
+          "name": "Caisaron",
+          "url": "https://open.spotify.com/artist/0TzaHjcLavIpy1JXy4ao68"
+        },
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Release My Soul - Blutengel Mix",
+      "url": "https://open.spotify.com/track/1EUc6WWBdyHxGHmWU8cN07"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 175205,
+      "name": "God/Devil",
+      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Layla (Live at The Royal Albert Hall, Orchestral Version)",
+        "url": "https://open.spotify.com/album/0TrWzHGezfYZ6vHZ0E2AYx"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 498053,
+      "name": "Layla - Live at The Royal Albert Hall, Orchestral Version",
+      "url": "https://open.spotify.com/track/7uieAW8vvl8LEs02SMOhXQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "I will fall",
+      "url": "https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Scorched",
+        "url": "https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 263840,
+      "name": "Harder They Fall",
+      "url": "https://open.spotify.com/track/03FoFnnYhTThtHY0uitNWa"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cult of Personality (Re-Recorded - Sped Up)",
+        "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 237912,
+      "name": "Cult of Personality - Re-Recorded - Sped Up",
+      "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "VSQ Performs Prince",
+        "url": "https://open.spotify.com/album/1ar4vW8uFoF3r9dJAQSpe6"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/0VCFh1gjSSwpZRszNgS5kI"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Destellos Del Folklore",
+        "url": "https://open.spotify.com/album/5R4Bzjf6rdaMJ0wWxyTB2p"
+      },
+      "artists": [
+        {
+          "name": "Maxi Banegas",
+          "url": "https://open.spotify.com/artist/3Luys0WRFHjGxsi3vkoB1n"
+        },
+        {
+          "name": "CDI RECORDS S.A.",
+          "url": "https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Y ahora soy feliz",
+      "url": "https://open.spotify.com/track/1EbtCOI51Bdo2hVLvuCU37"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Watching the River Flow (From 'Shadow Kingdom')",
+        "url": "https://open.spotify.com/album/00PPrKBCj0AvPyw7rvvehR"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Watching the River Flow",
+      "url": "https://open.spotify.com/track/3ektGwc8hlLCghIr93FY1H"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Qu\u00e9 tan arriba",
+        "url": "https://open.spotify.com/album/3VGefkevXb59npP2FROWsM"
+      },
+      "artists": [
+        {
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        }
+      ],
+      "duration_ms": 276876,
+      "name": "Qu\u00e9 tan arriba",
+      "url": "https://open.spotify.com/track/3CPWmb1uPtTBoaMKJuTxN5"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Loser Kid 2.0",
+        "url": "https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 223269,
+      "name": "Loser Kid 2.0",
+      "url": "https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "$moke Halation",
+        "url": "https://open.spotify.com/album/5iJ09mj8XApVFnjE3l3Ezf"
+      },
+      "artists": [
+        {
+          "name": "Dehumanizing Itatrain Worship",
+          "url": "https://open.spotify.com/artist/2sQT1TXWHhcNs1fU240LOi"
+        },
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        },
+        {
+          "name": "gizmo",
+          "url": "https://open.spotify.com/artist/0uya6QELbHSc91t24xHUr1"
+        }
+      ],
+      "duration_ms": 285256,
+      "name": "$moke Halation",
+      "url": "https://open.spotify.com/track/5gboqVPoXXGxPvWzW31pLz"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "La Sangre En El Cuerpo (En Vivo)",
+        "url": "https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "La Sangre En El Cuerpo - En Vivo",
+      "url": "https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Meteora 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
@@ -20,12 +328,12 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 161000,
-      "name": "More the Victim",
-      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
+      "duration_ms": 188028,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/3NvAcUYxfyZhW2ALOGknXB"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Just Be Mine",
         "url": "https://open.spotify.com/album/1EomlwRboXk162AA1B1uVN"
@@ -53,7 +361,7 @@
       "url": "https://open.spotify.com/track/6OSxh7V6vCh9pOCJj5ztxp"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "KISS Off The Soundboard: Live In Poughkeepsie",
         "url": "https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj"
@@ -64,80 +372,12 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 293480,
-      "name": "Fits Like a Glove - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
-      "url": "https://open.spotify.com/track/3CHYQ3WhPwhEoTrjNta8o1"
+      "duration_ms": 367400,
+      "name": "Cold Gin - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
+      "url": "https://open.spotify.com/track/2hec4qB5MssyiR5j25mcU5"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Hammer on Hammer",
-        "url": "https://open.spotify.com/album/4Ml3Ryzd78FHBNw96a1R83"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Hammer on Hammer",
-      "url": "https://open.spotify.com/track/6UY9h6P1s22CO0iGhwxfZU"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Aire (Documental Elementos)",
-        "url": "https://open.spotify.com/album/5hcFT7y5y6nkRhOuiSS4OL"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 223928,
-      "name": "Aire (Documental Elementos)",
-      "url": "https://open.spotify.com/track/3wyVAvVgaKnzv5JIQSoXho"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Lavender Haze (Acoustic Version)",
-        "url": "https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Lavender Haze - Acoustic Version",
-      "url": "https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Atardecer Criollo",
-        "url": "https://open.spotify.com/album/28XF752UEwARpay7g0eZh4"
-      },
-      "artists": [
-        {
-          "name": "Oscar Oca\u00f1o",
-          "url": "https://open.spotify.com/artist/1qU7nn29e3yBNKUjPBCdQQ"
-        },
-        {
-          "name": "CDI RECORDS S.A.",
-          "url": "https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k"
-        }
-      ],
-      "duration_ms": 228728,
-      "name": "Arde la Vida",
-      "url": "https://open.spotify.com/track/0052wWhpGEbKFUoiAIEJvi"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Misery Made Me (Deluxe)",
         "url": "https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0"
@@ -148,152 +388,12 @@
           "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 160200,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/0ekj7zzX4WF1gaG4ovazV7"
+      "duration_ms": 86000,
+      "name": "Mary - Orchestral",
+      "url": "https://open.spotify.com/track/6q4vY0iDmq1PK7vM5Hxz7z"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "i/o (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/0zCeZc7mhxfKvQRawdS8wr"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 232247,
-      "name": "i/o - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/2mLV96M3Ee4oQzShI2CwAK"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Dreamlike",
-        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 208645,
-      "name": "Dreamlike",
-      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Caught A Body (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Plein D'Amour",
-        "url": "https://open.spotify.com/album/6EVahxO9mNINs8O1Bnb3MK"
-      },
-      "artists": [
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 264152,
-      "name": "Plein D'Amour",
-      "url": "https://open.spotify.com/track/4ZoAWoO0n96v8mekipLgDx"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Into the Abyss",
-        "url": "https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Into the Abyss",
-      "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "The prophecy",
-        "url": "https://open.spotify.com/album/55NsiB7f1pvz5YMp8St93K"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "The prophecy",
-      "url": "https://open.spotify.com/track/5x731CS1YMNiSdOeX3OjVR"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "New Messiah",
-        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "New Messiah",
-      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "The Who With Orchestra: Live At Wembley",
         "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
@@ -302,54 +402,14 @@
         {
           "name": "The Who",
           "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        },
-        {
-          "name": "Isobel Griffiths Orchestra",
-          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
         }
       ],
-      "duration_ms": 510946,
-      "name": "Love Reign O'er Me - Live At Wembley, UK / 2019",
-      "url": "https://open.spotify.com/track/3xXulxthxt9RN9yApzWawR"
+      "duration_ms": 227280,
+      "name": "Substitute - Live At Wembley, UK / 2019 / Without Orchestra",
+      "url": "https://open.spotify.com/track/3inb5daMxjxhvWYLjpAY9f"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3u4HcEsvcPmzUrhLitt0y5"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 216771,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/1BqsFNh9cUiZ5hxqtYyCNG"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Shades 22",
-        "url": "https://open.spotify.com/album/1dzfS5TPT70CPpHvHYMubZ"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Shades 22",
-      "url": "https://open.spotify.com/track/3nQAKnTuxpzJW7X9Dj4X8I"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Pirates over Wacken (Live)",
         "url": "https://open.spotify.com/album/3FrOHRVCQ41hHbg7NhpWc0"
@@ -360,192 +420,28 @@
           "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
         }
       ],
-      "duration_ms": 282346,
-      "name": "Clocks - Live",
-      "url": "https://open.spotify.com/track/5W5tAe49XOpBHRd3tVfMzG"
+      "duration_ms": 446400,
+      "name": "Master the Hurricane - Live",
+      "url": "https://open.spotify.com/track/71U0mFB7NRzZPRFxCiRR30"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Spellbinding",
-        "url": "https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3"
+        "name": "Angel of Fortune and Crime",
+        "url": "https://open.spotify.com/album/6sUoNm5bfObOgctaklrxqw"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Deathstars",
+          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
         }
       ],
-      "duration_ms": 246837,
-      "name": "Spellbinding",
-      "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
+      "duration_ms": 256226,
+      "name": "Angel of Fortune and Crime",
+      "url": "https://open.spotify.com/track/5hs4G7QQOjWN6Rtbbt2q1Q"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "D\u00eda De Luz (80 Aniversario)",
-        "url": "https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "D\u00eda De Luz - 80 Aniversario",
-      "url": "https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
-        "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
-      "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 171168,
-      "name": "The Air Near My Fingers - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/3ghB4ioxsIapyD6VJF5VGI"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
-        "url": "https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 225408,
-      "name": "Oportunidad Oportuna - En Vivo",
-      "url": "https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Echoes (Original Demo 2008)",
-        "url": "https://open.spotify.com/album/64mx6DqmkoWR1lRoKlARBF"
-      },
-      "artists": [
-        {
-          "name": "Outlanders",
-          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
-        },
-        {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Torsten Stenzel",
-          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Echoes (Original Demo 2008)",
-      "url": "https://open.spotify.com/track/5gOhodemUSArqCnjtjyFRF"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Alternate Endings",
-        "url": "https://open.spotify.com/album/7iFiHLTulnvfJmiXSTIGpK"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 263214,
-      "name": "Alternate Endings",
-      "url": "https://open.spotify.com/track/6fIYvQKlh64f3sAFDRE1w1"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Black Hole Sun",
-        "url": "https://open.spotify.com/album/3R8GhDAi9r5wv8cOUFZ9xK"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 323684,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/6pRAO4YzGQI5iEvBdttgGb"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "LOW",
-        "url": "https://open.spotify.com/album/1TW9CQwdnOC1PFXfL0RIoY"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 194014,
-      "name": "LOW",
-      "url": "https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Step On Me (Sped Up Version)",
         "url": "https://open.spotify.com/album/4Hvhn8Llylsg57osaLEVcJ"
@@ -569,23 +465,135 @@
       "url": "https://open.spotify.com/track/7r28jv8dtlXDOoulEIPP04"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Memento Mori",
-        "url": "https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q"
+        "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+        "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 258957,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/0Fy8AMzsGc5MVD7fHIVaKn"
+      "duration_ms": 175150,
+      "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
+      "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 171168,
+      "name": "The Air Near My Fingers - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3ghB4ioxsIapyD6VJF5VGI"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
+        "url": "https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 225408,
+      "name": "Oportunidad Oportuna - En Vivo",
+      "url": "https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Echoes (Original Demo 2008)",
+        "url": "https://open.spotify.com/album/64mx6DqmkoWR1lRoKlARBF"
+      },
+      "artists": [
+        {
+          "name": "Outlanders",
+          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
+        },
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Echoes (Original Demo 2008)",
+      "url": "https://open.spotify.com/track/5gOhodemUSArqCnjtjyFRF"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Alternate Endings",
+        "url": "https://open.spotify.com/album/7iFiHLTulnvfJmiXSTIGpK"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "duration_ms": 263214,
+      "name": "Alternate Endings",
+      "url": "https://open.spotify.com/track/6fIYvQKlh64f3sAFDRE1w1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Black Hole Sun",
+        "url": "https://open.spotify.com/album/3R8GhDAi9r5wv8cOUFZ9xK"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 323684,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/6pRAO4YzGQI5iEvBdttgGb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "LOW",
+        "url": "https://open.spotify.com/album/1TW9CQwdnOC1PFXfL0RIoY"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 194014,
+      "name": "LOW",
+      "url": "https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
@@ -601,47 +609,23 @@
       "url": "https://open.spotify.com/track/0GbJXh142SGBmH9fsiFsEL"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tremendo Mujer\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/1bytWwnJDy4iNb2Gp6Zwzt"
+        "name": "Playing For Time (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/4tkYeUSPaS2QwBtVbIAYXc"
       },
       "artists": [
         {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        },
-        {
-          "name": "J O H A",
-          "url": "https://open.spotify.com/artist/0KUkZ6eIe37HtvhcwYPPp3"
-        },
-        {
-          "name": "Polemik",
-          "url": "https://open.spotify.com/artist/6hiopMbWjD1aTiRanrmlly"
-        },
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 184675,
-      "name": "Tremendo Mujer\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/4qKAcbmxbhcsABXrW5E1VC"
+      "duration_ms": 377929,
+      "name": "Playing For Time - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/6bPpa4CddsqY16GtMUu4ko"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D"
@@ -652,12 +636,32 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 167827,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/3CxAUJgKdfDzS0CIbn8mqQ"
+      "duration_ms": 179419,
+      "name": "I'd Be Fine (If I Never Saw You Again)",
+      "url": "https://open.spotify.com/track/0cLNjebMun5VyYDORebAkp"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Don't Show This Album to Your Mom",
+        "url": "https://open.spotify.com/album/0JAEGCKwQpqwh2BWMvNWTr"
+      },
+      "artists": [
+        {
+          "name": "\u0427\u0442\u043e?",
+          "url": "https://open.spotify.com/artist/66T7A37jfW4M4SiEwUktyT"
+        },
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 146137,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/17SU6rNaDH0e6vil1Iwh3B"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Ego Trip (Deluxe)",
         "url": "https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc"
@@ -673,23 +677,7 @@
       "url": "https://open.spotify.com/track/6yVIPSY8DWCM5D63E3LGWs"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Suffer in Heaven",
-        "url": "https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 247029,
-      "name": "The Path to Suffering",
-      "url": "https://open.spotify.com/track/0EwWKshGNLnR9PSsLPyCKs"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
@@ -703,6 +691,26 @@
       "duration_ms": 231453,
       "name": "Willow",
       "url": "https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "SET ME FREE (Remixes)",
+        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Tommy \u201cTBHits\u201d Brown",
+          "url": "https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "SET ME FREE (Tommy \u201cTBHits\u201d Brown Remix)",
+      "url": "https://open.spotify.com/track/3em8yvglQOquNvttDVnRWS"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,995,500 likes - 304 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,996,991 likes - 304 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 47 | [Berceuse](https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Berceuse](https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg) | 2:31 |
 | 48 | [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 |
 | 49 | [Benediction](https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Benediction](https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE) | 2:23 |
-| 50 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
+| 50 | [Lawson: fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
 | 51 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 |
 | 52 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 |
 | 53 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |

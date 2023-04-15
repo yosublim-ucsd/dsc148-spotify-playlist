@@ -1,13 +1,29 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 15651,
+  "num_followers": 15690,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGJhNjE0ZDUyYmIxYjI1YWFhMzAwMzY2ODU5ZTVhOTBh",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGRjNmFjYTc1Y2JiYThmYTNmZWI0ZmUxNzJjNTZmNjJj",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Back to School",
+        "url": "https://open.spotify.com/album/3Yy2lKiKtm4o2N9ZUCJzY5"
+      },
+      "artists": [
+        {
+          "name": "Pink Flamingo Rhythm Revue",
+          "url": "https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp"
+        }
+      ],
+      "duration_ms": 178992,
+      "name": "Back to School",
+      "url": "https://open.spotify.com/track/5qUdaHRGN3n9yBfJwtjkKb"
+    },
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {

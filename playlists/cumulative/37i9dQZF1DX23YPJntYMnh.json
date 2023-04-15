@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/2JsgVPQiEaMnpJyO6rQ9Hd"
+      },
+      "artists": [
+        {
+          "name": "High Fade",
+          "url": "https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265632,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/2RCz7D2tqHOrBxAQ8F88iX"
+    },
+    {
+      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -406,6 +424,24 @@
       "duration_ms": 269000,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/16eZZtgTw8uqL8egLeO2zr"
+      },
+      "artists": [
+        {
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166410,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2o476V7Y8JVrwXpsOwrth6"
     },
     {
       "album": {
@@ -492,7 +528,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 210360,
       "name": "Courage",
       "url": "https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX"
@@ -852,7 +888,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191240,
       "name": "Jerry Was A Race Car Driver",
       "url": "https://open.spotify.com/track/0EMLtepZpcY9T64AVEmyyv"
@@ -1029,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Mull",
+        "url": "https://open.spotify.com/album/6t9fHNq2Y9OJ47kuaVNxNz"
+      },
+      "artists": [
+        {
+          "name": "Mike Gordon",
+          "url": "https://open.spotify.com/artist/2Onb70uN9rRM3VMerSpA37"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Mull",
+      "url": "https://open.spotify.com/track/1E9aJiINWakPxFnVYopfh3"
+    },
+    {
+      "album": {
         "name": "They Can't All Be Zingers",
         "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
       },
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 287439,
       "name": "Phat Blunt",
       "url": "https://open.spotify.com/track/1PD0lIuQku2P5xxJ1XVUxY"

@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Same Streets But I Don't See You Around",
+        "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173196,
+      "name": "Have I Ever Been",
+      "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
+    },
+    {
+      "album": {
         "name": "Have I Ever Been",
         "url": "https://open.spotify.com/album/2NB8LDy6LsycfkiFHr8Nwv"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173196,
       "name": "Have I Ever Been",
       "url": "https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up"

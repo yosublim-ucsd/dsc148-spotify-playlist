@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,475 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,571 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [Moderation](https://open.spotify.com/track/0ZnVZan6NgkelQmtZBFNFr) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/0FHU2NxNeg7sw3pjuUHk5w) | 4:04 |
 | 125 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMGQwYTYzMDBiMGUxMmE2MTBiNTVlY2IzMjhmOGIzNzJi`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGYzYTU0NTEwMmY1ODI5YjkzNWRhODQ4ZDZlMGVmMjQ1`

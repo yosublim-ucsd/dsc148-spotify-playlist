@@ -1,12 +1,12 @@
 {
-  "description": "The home for heavy rockers. Cover: Empire State Bastard",
-  "num_followers": 27699,
+  "description": "The home for heavy rockers. Cover: Metallica",
+  "num_followers": 27718,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY5Njg3NSwwMDAwMDAwMDcxNGRlNTc1NDI0MDkyYjFjNTY4ZDBkNDZhYTY5ZjYz",
+  "snapshot_id": "MTY4MTQ3OTEyNywwMDAwMDAwMDU1ZjNmNTVhN2U4NDAwMDYyNWE4ZDQwNTMwOWIyMGJl",
   "tracks": [
     {
       "added_at": "2023-03-23 20:43:55",
@@ -25,36 +25,36 @@
       "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"
     },
     {
-      "added_at": "2023-03-23 20:43:55",
+      "added_at": "2023-04-14 13:32:07",
       "album": {
-        "name": "Poison Pill",
-        "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Poison Pill",
-      "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
-      "added_at": "2023-03-23 20:43:55",
+      "added_at": "2023-04-14 13:32:07",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 135466,
-      "name": "Choose Your Fighter",
-      "url": "https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ"
+      "duration_ms": 175205,
+      "name": "God/Devil",
+      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
     },
     {
       "added_at": "2023-03-24 22:27:55",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
     },
     {
+      "added_at": "2023-04-14 13:32:07",
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
       "added_at": "2023-03-23 20:43:55",
       "album": {
         "name": "For Those That Wish To Exist",
@@ -287,22 +303,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "DiE4u",
         "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 207141,
       "name": "DiE4u",
       "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -355,6 +371,38 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Bone Church",
+        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Bone Church",
+      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Vore",
+        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -367,6 +415,22 @@
       "duration_ms": 222738,
       "name": "Planet Zero",
       "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "If Darkness Had a Son",
+        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -395,22 +459,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Vore",
-        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -427,22 +475,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 215346,
       "name": "Circle The Drain",
       "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "If Darkness Had a Son",
-        "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Welcome To Horrorwood: The Silver Scream 2",
-        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Funeral Derangements",
-      "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Funeral Derangements",
+      "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "the classic symptoms of a broken spirit",
-        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 211848,
-      "name": "a new moral low ground",
-      "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "IMPERA",
         "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 348333,
       "name": "Watcher In The Sky",
       "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 211848,
+      "name": "a new moral low ground",
+      "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1047,6 +1063,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Heretic (feat. Loz Taylor)",
+        "url": "https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "Heretic (feat. Loz Taylor)",
+      "url": "https://open.spotify.com/track/2mTi7e03FygOF0bds32848"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Patient Number 9 (feat. Jeff Beck)",
         "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
       },
@@ -1063,22 +1095,6 @@
       "duration_ms": 441402,
       "name": "Patient Number 9 (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Heretic (feat. Loz Taylor)",
-        "url": "https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 212878,
-      "name": "Heretic (feat. Loz Taylor)",
-      "url": "https://open.spotify.com/track/2mTi7e03FygOF0bds32848"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "By The Sound",
         "url": "https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq"
       },
@@ -1179,6 +1195,22 @@
       "duration_ms": 222361,
       "name": "By The Sound",
       "url": "https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1199,38 +1231,6 @@
       "duration_ms": 200920,
       "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
       "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Zick Zack",
-        "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 244365,
-      "name": "Zick Zack",
-      "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1267,6 +1267,54 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "Zick Zack",
+        "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 244365,
+      "name": "Zick Zack",
+      "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Poison Pill",
+        "url": "https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Poison Pill",
+      "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Dead Inside",
         "url": "https://open.spotify.com/album/72oUFiAsXttWcMqcg7hslo"
       },
@@ -1291,22 +1339,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "H8 MY SELF",
-        "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 178963,
-      "name": "H8 MY SELF",
-      "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "STILL SUCKS",
         "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
@@ -1323,6 +1355,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "H8 MY SELF",
+        "url": "https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 178963,
+      "name": "H8 MY SELF",
+      "url": "https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -1335,54 +1383,6 @@
       "duration_ms": 128983,
       "name": "Her",
       "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "The Mourning",
-        "url": "https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 203555,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
     }
   ],
   "unique_name": "The Pit",

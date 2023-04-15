@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Check out some of the songs from the <a href="https://www.passion2023.com/"> Passion 2023 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,224 likes - 42 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,280 likes - 42 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

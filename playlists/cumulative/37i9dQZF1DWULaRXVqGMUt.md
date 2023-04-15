@@ -4,12 +4,13 @@
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-93 songs - 4 hr 41 min
+94 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 | 2022-05-13 |  |
-| [A Boogie Woogie Sunday](https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | ["Devil Digit Boogie Woogie"](https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16) | 3:22 | 2022-05-13 |  |
+| [A Boogie Woogie Sunday](https://open.spotify.com/track/1JJCKBuLVPAU0oeu5aWtSt) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | ["Devil Digit Boogie Woogie"](https://open.spotify.com/album/3Ex4BUJtFC1CvSqXqdKdYe) | 3:22 | 2023-01-10 |  |
+| [A Boogie Woogie Sunday](https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | ["Devil Digit Boogie Woogie"](https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16) | 3:22 | 2022-05-13 | 2023-04-15 |
 | [At The Hop](https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rock 'n' Roll](https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm) | 2:29 | 2022-05-13 | 2022-07-26 |
 | [At The Hop](https://open.spotify.com/track/1EmCm4UJHBdvDEYUGiJZR9) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Best 50s Songs](https://open.spotify.com/album/0USh1S5PHXqTJJ1VDw2aZX) | 2:30 | 2022-07-29 | 2022-11-13 |
 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 | 2022-07-12 |  |

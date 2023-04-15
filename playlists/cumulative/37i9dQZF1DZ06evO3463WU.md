@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 31 min
+79 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,10 @@
 | [No Llega el Olvido \- En Vivo](https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC) | 4:32 | 2022-06-01 |  |
 | [No Llores Mis Recuerdos](https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 4:11 | 2022-06-02 |  |
 | [No Va a Matarme Tu Amor](https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [No Va a Matarme Tu Amor](https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX) | 3:09 | 2022-06-01 |  |
-| [No Volveré](https://open.spotify.com/track/5Z1KeebCVT8PsUrNhKfZtm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/2qbFmJ80D79YBITLEAgxlh) | 2:47 | 2023-04-01 |  |
+| [No Volveré](https://open.spotify.com/track/5Z1KeebCVT8PsUrNhKfZtm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/2qbFmJ80D79YBITLEAgxlh) | 2:47 | 2023-04-01 | 2023-04-15 |
 | [Nuestro Amor](https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I) | 3:31 | 2022-06-01 |  |
 | [Nunca Cambies](https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 | 2022-06-01 |  |
+| [Oh Carol](https://open.spotify.com/track/0oyTIk8169r7VcZJdcty20) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda AT](https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto) | [Oh Carol](https://open.spotify.com/album/1qXOg0IGKb4tk2dUSuULWB) | 2:37 | 2023-04-14 |  |
 | [Ojalá Sea Cierto](https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 2:36 | 2022-06-15 | 2022-10-08 |
 | [Pasion de Amor](https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:38 | 2022-06-03 |  |
 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 | 2022-06-01 | 2022-07-11 |

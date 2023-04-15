@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl"
+      },
+      "artists": [
+        {
+          "name": "Generation.",
+          "url": "https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "nitroglycerin",
+      "url": "https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM"
+    },
+    {
+      "album": {
         "name": "No Rain",
         "url": "https://open.spotify.com/album/4zKl9JwuvmKu80SokNwZLp"
       },
@@ -5116,6 +5134,24 @@
       "duration_ms": 198409,
       "name": "Vista Del Mar",
       "url": "https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo"
+    },
+    {
+      "album": {
+        "name": "Waipio",
+        "url": "https://open.spotify.com/album/6JNHYe93hZDKHroRSX6jiB"
+      },
+      "artists": [
+        {
+          "name": "Maurea",
+          "url": "https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135578,
+      "name": "Waipio",
+      "url": "https://open.spotify.com/track/2cIwV2VqHn925sWcJ7Fmma"
     },
     {
       "album": {

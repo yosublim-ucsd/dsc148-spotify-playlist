@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-212 songs - 11 hr 3 min
+213 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Aganu](https://open.spotify.com/track/1jHnCxpBLbjRpvnBKQv0Wn) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Aganu](https://open.spotify.com/album/6mNexagJqu1jK84JjxYEYD) | 2:55 | 2022-11-25 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2022-04-15 |  |
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
+| [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 |  |
 | [AMS \- Alex Hoevelmann Rework](https://open.spotify.com/track/7b1MYYw5IJf3FJuWGW96oM) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [AMS \(Alex Hoevelmann Rework\)](https://open.spotify.com/album/1I4c64ZimJJVTz3kWTfjcX) | 6:47 | 2022-06-17 | 2023-02-18 |
-| [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 |  |
+| [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 | 2023-04-15 |
 | [Antibes \(Edit\)](https://open.spotify.com/track/5hqXlyEW2t0pGCLwyv6VZP) | [Leo Lemón](https://open.spotify.com/artist/0UV1gZRx5rxnptMwUtFRqQ) | [Antibes \(Edit\)](https://open.spotify.com/album/6yYduz4N7FvAdHT4ZBJObY) | 2:37 | 2022-10-14 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-04-15 | 2022-08-19 |
 | [Atamasco](https://open.spotify.com/track/7x0p3Zv2c8sPbWKVMowndy) | [SCÆNDALOUS](https://open.spotify.com/artist/1Vg3IL8IPc6KmKBrfxfFUq) | [Atamasco](https://open.spotify.com/album/1Ii3LKFwRry1gGHgtwAmUd) | 2:46 | 2022-04-15 | 2022-05-11 |

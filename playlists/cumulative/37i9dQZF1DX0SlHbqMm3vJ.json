@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Winny",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Johnny Drille",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Balablu",
+        "url": "https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        },
+        {
+          "name": "Hitsound",
+          "url": "https://open.spotify.com/artist/1gkLlq1xDlp3krBv3H9zLg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147091,
+      "name": "Balablu",
+      "url": "https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ"
+    },
+    {
+      "album": {
         "name": "TBH (To Be Honest)",
         "url": "https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r"
       },
@@ -798,6 +820,24 @@
       "duration_ms": 207611,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1AXdI9rJDWmiiIBlcV5Ifo"
+    },
+    {
+      "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "album": {
@@ -2809,6 +2849,32 @@
     },
     {
       "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
+    },
+    {
+      "album": {
         "name": "How To Kill A Man",
         "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
       },
@@ -3216,6 +3282,28 @@
       "duration_ms": 187851,
       "name": "Jahera",
       "url": "https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV"
+    },
+    {
+      "album": {
+        "name": "Jejely",
+        "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Jejely",
+      "url": "https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1"
     },
     {
       "album": {
@@ -4628,7 +4716,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197500,
       "name": "Operation",
       "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
@@ -5364,7 +5452,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180000,
       "name": "See Finish",
       "url": "https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc"
@@ -5462,7 +5550,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
@@ -6666,7 +6754,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 165161,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ"

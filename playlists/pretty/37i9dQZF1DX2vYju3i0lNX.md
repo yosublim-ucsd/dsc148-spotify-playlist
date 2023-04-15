@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,000 likes - 411 songs - 1 day 0 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,097 likes - 411 songs - 1 day 0 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -420,4 +420,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 410 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 |
 | 411 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDE4N2NjMzZhNGI2M2U5NGI2MjMxYjUyZDhlODc1OTFl`
+Snapshot ID: `MTY4MTQ2NjYyNiwwMDAwMDAwMDhkNmRkZDY0ZDA3NWRhZWJkY2RiZTY1NTgxZWVmNDk5`

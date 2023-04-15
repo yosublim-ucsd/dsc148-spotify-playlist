@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Damn son, where'd ya find this? Cover: Madlib, Meyhem Lauren, DJ Muggs",
+  "description": "Damn son, where'd ya find this? Cover: Saba",
   "name": "Raw & Uncut",
   "tracks": [
     {
@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+    },
+    {
+      "album": {
         "name": "Above Water",
         "url": "https://open.spotify.com/album/0ek3Mj5Ptxr1ens0OlhYnx"
       },
@@ -394,6 +416,28 @@
       "duration_ms": 185286,
       "name": "All Good",
       "url": "https://open.spotify.com/track/6EaNEcInL9XVCBNSdrlmDI"
+    },
+    {
+      "album": {
+        "name": "Shadow Moses",
+        "url": "https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205935,
+      "name": "All Greatness",
+      "url": "https://open.spotify.com/track/6yjh7wXJyem02IAmlKoTYF"
     },
     {
       "album": {
@@ -525,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No I.D.",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173146,
+      "name": "Back In Office",
+      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
+    },
+    {
+      "album": {
         "name": "BANG",
         "url": "https://open.spotify.com/album/6owjFYUYF5Dz5KoZNUpows"
       },
@@ -558,7 +624,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 130192,
       "name": "Be Honest'",
       "url": "https://open.spotify.com/track/0YQ1b1ySD9cDPnqpDVB7SQ"
@@ -1683,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+    },
+    {
+      "album": {
         "name": "DRILL MUSIC IN ZION",
         "url": "https://open.spotify.com/album/1SkHVsBV7qIfKx0mdVuxbV"
       },
@@ -1752,7 +1840,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 132147,
       "name": "E. Coli (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/3GXSywNvYLAVUCtjMHkKDh"
@@ -1854,7 +1942,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
@@ -2307,6 +2395,32 @@
     },
     {
       "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        },
+        {
+          "name": "Mr Man",
+          "url": "https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311040,
+      "name": "Fortfied Live",
+      "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
+    },
+    {
+      "album": {
         "name": "Fortified",
         "url": "https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w"
       },
@@ -2420,6 +2534,32 @@
       "duration_ms": 274440,
       "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
       "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
+    },
+    {
+      "album": {
+        "name": "Ghetto Lullaby",
+        "url": "https://open.spotify.com/album/1K5yquIewb6rtPQVAr9NdC"
+      },
+      "artists": [
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        },
+        {
+          "name": "Jazzfeezy",
+          "url": "https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi"
+        },
+        {
+          "name": "BEATCAVE",
+          "url": "https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161942,
+      "name": "Ghetto Lullaby",
+      "url": "https://open.spotify.com/track/2vh2s0o28XkvhgxFo31p8p"
     },
     {
       "album": {
@@ -2968,7 +3108,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 124738,
       "name": "I'm Still Somehow",
       "url": "https://open.spotify.com/track/6cGROQpysVhw5Pd4UEvp5n"
@@ -3784,6 +3924,28 @@
       "duration_ms": 167724,
       "name": "Michael & Quincy",
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
     },
     {
       "album": {
@@ -5080,7 +5242,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162978,
       "name": "Respectfully",
       "url": "https://open.spotify.com/track/2iq4zO451gPlVSWT5PEYVg"
@@ -6038,7 +6200,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 194826,
       "name": "Subpar (with Method Man)",
       "url": "https://open.spotify.com/track/4ihDvBziAGDBtxggYujhks"
@@ -6254,7 +6416,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163920,
       "name": "The $",
       "url": "https://open.spotify.com/track/5lQXkClM3axFsWL2NkqIW6"
@@ -6276,6 +6438,32 @@
       "duration_ms": 324533,
       "name": "The Art of Peer Pressure",
       "url": "https://open.spotify.com/track/0d0jsoba88SpOoFxCxA2rZ"
+    },
+    {
+      "album": {
+        "name": "The Marina",
+        "url": "https://open.spotify.com/album/4PBzJyNVh1iWyiuOstR74B"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "The Count (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/171PWhxgdrIOgcAiBPO3Gr"
     },
     {
       "album": {
@@ -6552,7 +6740,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180000,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4s9jU8Krr0ICOhOF7JoBGX"

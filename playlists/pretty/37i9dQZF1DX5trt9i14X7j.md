@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,427 likes - 117 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,622 likes - 117 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 67 | [8 Hours, Still No Rain \- Mixed](https://open.spotify.com/track/0PHMK9TRJasKOWELsdcyRC) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF), [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:14 |
 | 68 | [Loungerie](https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages](https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0) | 3:15 |
 | 69 | [Parallel 7](https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:43 |
-| 70 | [Daisies](https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:58 |
-| 71 | [Blur](https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Blur](https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd) | 1:56 |
+| 70 | [Blur](https://open.spotify.com/track/7eHDn7TyswvJIfxWGtIYKk) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Blur](https://open.spotify.com/album/74AP9PqF7MTlqiRy9oXiPd) | 1:56 |
+| 71 | [Daisies](https://open.spotify.com/track/4IGXQV2e7JHJ5FMkh2eUPw) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [no one's perfect](https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX) | [The Beauty Around Us](https://open.spotify.com/album/1wP2Dwzd5uMCzzGjvCKV8l) | 2:58 |
 | 72 | [Nothing It Can](https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g) | 4:47 |
 | 73 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 |
 | 74 | [We Contain Multitudes \- from home](https://open.spotify.com/track/2ich9n3I8MHo1AkC26bpqK) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:10 |
@@ -91,23 +91,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 81 | [Absent Minded in Berlin](https://open.spotify.com/track/1ErakKk3ypf8rp8N5UUrta) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 5:11 |
 | 82 | [India](https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [India](https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd) | 8:55 |
 | 83 | [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 2:33 |
-| 84 | [Mano](https://open.spotify.com/track/2Z2CLhQwH001Wr1Zea44hu) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Four](https://open.spotify.com/album/4oxvKHTBzfTD86BLU0ftou) | 4:12 |
-| 85 | [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 |
-| 86 | [Scene 2](https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pentagram](https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO) | 2:52 |
-| 87 | [chilling by your bedside.](https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA) | [beeno](https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo) | [decades.](https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9) | 2:46 |
-| 88 | [Particle Emission](https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR) | 2:43 |
-| 89 | [I Know That](https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD) | [Brilliantes Del Vuelo](https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:20 |
-| 90 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 |
+| 84 | [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 |
+| 85 | [Mano](https://open.spotify.com/track/2Z2CLhQwH001Wr1Zea44hu) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Four](https://open.spotify.com/album/4oxvKHTBzfTD86BLU0ftou) | 4:12 |
+| 86 | [Particle Emission](https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR) | 2:43 |
+| 87 | [Scene 2](https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pentagram](https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO) | 2:52 |
+| 88 | [chilling by your bedside.](https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA) | [beeno](https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo) | [decades.](https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9) | 2:46 |
+| 89 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 |
+| 90 | [I Know That](https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD) | [Brilliantes Del Vuelo](https://open.spotify.com/artist/1Ng076kHQlxAUjKL50VnxJ) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:20 |
 | 91 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
 | 92 | [Swoon](https://open.spotify.com/track/2ylb7ruks50yKP8JXHPBQQ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/3BiA4ylo9PwprkAn2UJ437) | 2:37 |
 | 93 | [Beau](https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Flourishing Views](https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw) | 2:17 |
 | 94 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 |
-| 95 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 |
-| 96 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 |
+| 95 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 |
+| 96 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 |
 | 97 | [Void \(feat\. Cnebce\)](https://open.spotify.com/track/7vPuyrHssHCdaVHjiwiMYs) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/2mHj52L9rB4gIyQG5phdaH) | 3:42 |
 | 98 | [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 |
-| 99 | [Homecoming](https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme) | [Sahamanyu](https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C) | [Homecoming](https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A) | 5:21 |
-| 100 | [Our Distance](https://open.spotify.com/track/4FEcEOyyGbPR1cnYMBTRfO) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Domicile](https://open.spotify.com/album/3WU8Qb7Biyfi8BOeK0M3JG) | 5:23 |
+| 99 | [Our Distance](https://open.spotify.com/track/4FEcEOyyGbPR1cnYMBTRfO) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Domicile](https://open.spotify.com/album/3WU8Qb7Biyfi8BOeK0M3JG) | 5:23 |
+| 100 | [Homecoming](https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme) | [Sahamanyu](https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C) | [Homecoming](https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A) | 5:21 |
 | 101 | [Spike](https://open.spotify.com/track/4DxGYJgokpQi2ChUzQEzp6) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Spike](https://open.spotify.com/album/0QrP0xTuWwy3CBz0dHBpgs) | 7:36 |
 | 102 | [Stay Near](https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [Sjangeli](https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb) | 2:48 |
 | 103 | [Free Fall](https://open.spotify.com/track/74D1dmMEX6tAsspSMQQldK) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Twisty](https://open.spotify.com/album/6Zq5AYy0Hqz0tStf9CXdsX) | 6:56 |
@@ -120,10 +120,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 110 | [Chasing the Calm](https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 1:44 |
 | 111 | [For every man saved a victim will be found](https://open.spotify.com/track/23GeR1VGo3QHeS5UWQ5riO) | [Seasonal Affected Beats](https://open.spotify.com/artist/1fpm7q8YoBTXIiS4jJLPbs) | [In Song](https://open.spotify.com/album/5mqKifgMH0rmB37d1ty7vh) | 4:51 |
 | 112 | [Machines Are People Too](https://open.spotify.com/track/4Y7I8njISED3da52cbdbKf) | [B 3 N B i](https://open.spotify.com/artist/1lER5N3Qx6dOfkDkseDeeg) | [IWYMI Volume Four](https://open.spotify.com/album/5bCxD19JPbHXGTe9mzLaaV) | 2:28 |
-| 113 | [Alive](https://open.spotify.com/track/6grkrnX0IaNPz92hH8qDAt) | [Mansij](https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5), [Max B Groove](https://open.spotify.com/artist/61d8OA4KyZ5NX3xDMPMLuL) | [Alive](https://open.spotify.com/album/6MVlc0SiEZNFEREstZWyGt) | 4:48 |
-| 114 | [Voyager 22](https://open.spotify.com/track/2DChgRQfFPgJjRJnTbdAYw) | [Kalbaisakhi](https://open.spotify.com/artist/0GpnIJfvw6GV1WMlQXTSA5) | [Tunnels](https://open.spotify.com/album/5um9AFcLYg0xUejlloAyE9) | 3:44 |
+| 113 | [Voyager 22](https://open.spotify.com/track/2DChgRQfFPgJjRJnTbdAYw) | [Kalbaisakhi](https://open.spotify.com/artist/0GpnIJfvw6GV1WMlQXTSA5) | [Tunnels](https://open.spotify.com/album/5um9AFcLYg0xUejlloAyE9) | 3:44 |
+| 114 | [Alive](https://open.spotify.com/track/6grkrnX0IaNPz92hH8qDAt) | [Mansij](https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5), [Max B Groove](https://open.spotify.com/artist/61d8OA4KyZ5NX3xDMPMLuL) | [Alive](https://open.spotify.com/album/6MVlc0SiEZNFEREstZWyGt) | 4:48 |
 | 115 | [One Too Many](https://open.spotify.com/track/3MfbA1oqDBXC2teY5yFqR5) | [Exist Strategy](https://open.spotify.com/artist/5I1pEm0UZGOxOHtCNkLzut) | [Dreamcatcher](https://open.spotify.com/album/3NVFHTmDQPvM9rDJv1fpYm) | 4:00 |
 | 116 | [Mind](https://open.spotify.com/track/77jK2QjSXOGX3eFxT9Opuk) | [chrms](https://open.spotify.com/artist/4ysxE5dwRvjnXcd5IGCZiB), [Sabu](https://open.spotify.com/artist/7x83EC0xUwygcVSbS6Rwou) | [Lover Boy](https://open.spotify.com/album/7d8Lt4YEN9P6DkaT7FwPd1) | 4:04 |
 | 117 | [Relief](https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 2:06 |
 
-Snapshot ID: `MTY4MTEyMjk3MSwwMDAwMDAwMDlhNzc2YjE1NzIxMzdmNjEzZTJmZWEwMmFmZGQ1YzMx`
+Snapshot ID: `MTY4MTEyMjk3MSwwMDAwMDAwMDE4NzQwNjkxZTU4NGRlNjg3YTVkNTI3ZWIyNzViMTc3`

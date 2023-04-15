@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1631436,
+  "num_followers": 1632739,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMDU5NmE0YTU1MmI5MTZlZDBjZGQ5ZDIyM2JhY2E4YTQ0",
+  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMGIxNWRiZDRlOGI4MTVhMDg5MGZiMzk4NjNjNzI0YWUx",
   "tracks": [
     {
       "added_at": "2023-02-27 22:20:42",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "The Reason (15th Anniversary Deluxe)",
         "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 162106,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2023-02-27 22:20:42",

@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Night Sparkle (\u30ca\u30a4\u30c8\u30b9\u30d1\u30fc\u30af\u30eb)",
+        "url": "https://open.spotify.com/album/7pgQ2Te5cRHMdHhFjb1fkj"
+      },
+      "artists": [
+        {
+          "name": "tow kee o",
+          "url": "https://open.spotify.com/artist/2V8knumvJeLvlxvpywJm03"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Night Sparkle (\u30ca\u30a4\u30c8\u30b9\u30d1\u30fc\u30af\u30eb)",
+      "url": "https://open.spotify.com/track/1Fs1xkcbL8se6Yz62ATSWd"
+    },
+    {
+      "album": {
         "name": "Night Vision",
         "url": "https://open.spotify.com/album/3gg0YD1goHwykxatEwcenR"
       },
@@ -2160,6 +2178,24 @@
       "duration_ms": 190956,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe"
+    },
+    {
+      "album": {
+        "name": "Really",
+        "url": "https://open.spotify.com/album/3slEFvvLdHdY87gYg8QHt2"
+      },
+      "artists": [
+        {
+          "name": "Sleap Year",
+          "url": "https://open.spotify.com/artist/3rHbl02YzcYLfkNurILXKH"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125125,
+      "name": "Really",
+      "url": "https://open.spotify.com/track/1aApO1iwmZQxfwbFPbxy3I"
     },
     {
       "album": {

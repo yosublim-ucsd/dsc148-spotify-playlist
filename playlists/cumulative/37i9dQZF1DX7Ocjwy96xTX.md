@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-140 songs - 8 hr 38 min
+143 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Glass \(feat\. King Woman\)](https://open.spotify.com/track/5jd0tByuTdqVpN6ntIsCiq) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Glass \(feat\. King Woman\)](https://open.spotify.com/album/3tTUXsa5tbaGFxuw5cBb4L) | 4:07 | 2022-12-01 |  |
 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 | 2022-09-02 |  |
 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 | 2022-09-02 |  |
+| [goodbye](https://open.spotify.com/track/2kDgDowQoXREViAbY6samN) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [goodbye](https://open.spotify.com/album/5yZIwrtpEzSUqzBDziKoKq) | 3:12 | 2023-04-14 |  |
 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2022-09-02 |  |
 | [Hansel and Gretel](https://open.spotify.com/track/3HZOIXH7nPZiAQoZleksYC) | [Mercy Necromancy](https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d) | [Hansel and Gretel](https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z) | 3:02 | 2022-09-30 | 2022-11-11 |
 | [Heaven in Your Head](https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Heaven in Your Head](https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1) | 3:14 | 2022-11-10 |  |
@@ -134,6 +135,7 @@
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2022-09-02 |  |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2022-10-24 | 2022-10-29 |
 | [Tag](https://open.spotify.com/track/0LrVtzdvd2ojEuFMUURlA1) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Tag](https://open.spotify.com/album/66ULdjZjnE8Dbq6XBLzPt0) | 3:10 | 2022-09-02 |  |
+| [Take Me Down](https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [A Little Disaster](https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5) | 4:03 | 2023-04-14 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-09-02 |  |
 | [The American Experiment](https://open.spotify.com/track/0Zo5E6jjqPZgIvzZdWHxuc) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [New Jersey](https://open.spotify.com/album/3ryHJlyWJf8CjR7jrgIYqB) | 3:00 | 2022-12-12 |  |
 | [Vampiro](https://open.spotify.com/track/2ZgKOGthLtSzmDWde75FtY) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [Haunted Castle \(Extended Play\)](https://open.spotify.com/album/4hQBvgh0Cq2VoXccNVnbBu) | 2:16 | 2023-01-19 |  |
@@ -143,6 +145,7 @@
 | [When I'm Small](https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp) | 4:09 | 2022-09-02 |  |
 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 | 2022-10-14 | 2023-01-20 |
 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 | 2022-09-02 | 2022-12-13 |
+| [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-04-14 |  |
 | [Would It Kill You At All](https://open.spotify.com/track/0MFpii15OtF6euR17upS7S) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [About A Boy](https://open.spotify.com/album/2Pz55SWZIQb3Y7uUbgPzVc) | 2:47 | 2022-10-07 | 2022-10-29 |
 | [Would It Kill You At All](https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Would It Kill You At All](https://open.spotify.com/album/169zbd4B9wyNVMcknh3zcC) | 2:47 | 2022-09-30 | 2022-10-13 |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-16 | 2022-10-01 |

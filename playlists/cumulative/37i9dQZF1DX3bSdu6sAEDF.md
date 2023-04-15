@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-292 songs - 16 hr 26 min
+293 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Attitude](https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Attitude](https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC) | 2:55 | 2022-01-21 |  |
 | [Autumn Rains](https://open.spotify.com/track/161evQybSEzoy0FvAX8bsE) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Confessions](https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2) | 4:01 | 2021-08-05 | 2022-01-20 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2022-01-19 | 2022-04-21 |
-| [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-01-19 |  |
+| [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-01-19 | 2023-04-15 |
 | [BACKYARD PARTY](https://open.spotify.com/track/59SZWfl2cuxiaJKI94LCRK) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 2:06 | 2022-05-27 | 2022-06-01 |
 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 | 2021-08-05 | 2022-01-20 |
 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-03-31 |  |
@@ -67,6 +67,7 @@
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-27 |  |
 | [Casualty](https://open.spotify.com/track/6nwxT0W6u4JYDGK5iyBOYt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 2:23 | 2022-01-21 | 2022-07-28 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2023-03-18 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-14 |  |
 | [Chicken Wings](https://open.spotify.com/track/1qqUYjjfC6Rbr9lpthLrOt) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 2:48 | 2022-01-21 | 2023-04-01 |
 | [Chicken Wings](https://open.spotify.com/track/42F8JMc5pSlGShBkhR0uPQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Chicken Wings](https://open.spotify.com/album/0q22c9Zv8OZ7owt8o0jj4X) | 2:48 | 2022-01-19 | 2022-07-24 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-08 |  |

@@ -4,7 +4,7 @@
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-68 songs - 4 hr 7 min
+69 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Cacho de Buenos Aires](https://open.spotify.com/track/4PhXYZCCN94hBeWYBTiikR) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ), [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [Cacho de Buenos Aires](https://open.spotify.com/album/0E3s1yVPKs8jp4DQoqK2GJ) | 4:37 | 2022-06-24 |  |
 | [Cambalache](https://open.spotify.com/track/6M7sooRPMxkicgcVlnXOnL) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Intérpretes](https://open.spotify.com/album/5aiz5TGgMyaJDnjbM8zpqR) | 2:34 | 2022-06-24 | 2022-07-29 |
 | [Cambalache](https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a) | [Hermetica](https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7) | [Intérpretes](https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3) | 2:34 | 2022-06-24 |  |
+| [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 | 2023-04-14 |  |
 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 | 2022-06-24 |  |
 | [Ciudad de los Tangos Sarpados](https://open.spotify.com/track/42aMjiZ6vLYCe7yD8RM0H9) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Federico Mizrahi](https://open.spotify.com/artist/2L2vj05sMjVY6kh1UEHhjg), [Luis Longhi](https://open.spotify.com/artist/4Cgo07ZCIZW8VnYn2sjflH), [Walter Chino Laborde](https://open.spotify.com/artist/16dxgUOiCDItNawZjRwgOI), [Omar Mollo](https://open.spotify.com/artist/1mgAJTJwXEJYkRdePQ5nEW) | [El Tango Es Puro Cuento](https://open.spotify.com/album/4wee0rFwBNvKpKIWHmhm6c) | 3:16 | 2022-06-24 | 2022-07-29 |
 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 | 2022-06-24 |  |
@@ -58,7 +59,7 @@
 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 | 2022-06-24 |  |
 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 | 2022-06-24 |  |
 | [Salvavidas de Plomo](https://open.spotify.com/track/7cNvngqh1wKhEAAJ7bikHD) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/6ecr6nssE6FPGcQL4CGWqD) | 6:44 | 2022-06-24 | 2022-07-29 |
-| [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 | 2022-06-24 |  |
+| [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 | 2022-06-24 | 2023-04-15 |
 | [Siga El Baile \- Versión Cantada por Alberto Castillo](https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Obras Cumbres](https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye) | 2:29 | 2022-06-24 |  |
 | [Tango del Diablo](https://open.spotify.com/track/7ecBAjx1GU25gkqgFkpIGA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:07 | 2022-06-24 | 2022-07-29 |
 | [Tango del Diablo](https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:07 | 2022-06-24 |  |

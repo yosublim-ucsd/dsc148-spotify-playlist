@@ -1,13 +1,29 @@
 {
-  "description": "Genre-less. Quality first always. Cover: KAYTRAMIN\u00c9",
-  "num_followers": 1325574,
+  "description": "Genre-less. Quality first always. Cover: Jorja Smith",
+  "num_followers": 1325625,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0MTg1OCwwMDAwMDAwMGYwYzBkZmNjMTE5Y2YyOTFhMmY4MzY5NTRhZDJhM2Vl",
+  "snapshot_id": "MTY4MTQ1Mjk4MSwwMDAwMDAwMDc1MTQzZGNkMjEzNWE3NjI3MzhhM2MyZDg3N2Y4MWQw",
   "tracks": [
+    {
+      "added_at": "2023-04-14 06:16:21",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
@@ -37,24 +53,20 @@
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-04-14 06:16:21",
       "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2023-03-29 21:15:15",
@@ -73,72 +85,44 @@
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
     },
     {
-      "added_at": "2023-04-03 18:07:21",
+      "added_at": "2023-04-14 06:16:21",
       "album": {
-        "name": "One Touch",
-        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 180437,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
+      "duration_ms": 169411,
+      "name": "QUIET ON THE SET",
+      "url": "https://open.spotify.com/track/5xWvCOX5UAgOljuv2QAFtG"
     },
     {
-      "added_at": "2023-03-31 04:03:01",
+      "added_at": "2023-04-14 06:16:21",
       "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
+        "name": "SPEED RUN",
+        "url": "https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51"
       },
       "artists": [
         {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 206012,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "DAYS GO BY",
-        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         },
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 271756,
-      "name": "DAYS GO BY",
-      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
-    },
-    {
-      "added_at": "2023-03-31 04:03:01",
-      "album": {
-        "name": "NOT ALONE",
-        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
-      },
-      "artists": [
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        },
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
         }
       ],
-      "duration_ms": 185013,
-      "name": "NOT ALONE",
-      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
+      "duration_ms": 212000,
+      "name": "WONDERLAND",
+      "url": "https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0"
     },
     {
       "added_at": "2023-03-28 17:23:50",
@@ -159,6 +143,146 @@
       "duration_ms": 174020,
       "name": "Candle Flame",
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
+    },
+    {
+      "added_at": "2023-04-14 06:16:21",
+      "album": {
+        "name": "FaceTime",
+        "url": "https://open.spotify.com/album/6rJX3JImDualjhMEgYjQ6j"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4"
+    },
+    {
+      "added_at": "2023-04-03 18:07:21",
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
+    },
+    {
+      "added_at": "2023-04-14 06:16:21",
+      "album": {
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
+    },
+    {
+      "added_at": "2023-04-14 06:16:21",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 179776,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv"
+    },
+    {
+      "added_at": "2023-03-31 04:03:01",
+      "album": {
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"
+    },
+    {
+      "added_at": "2023-04-14 06:16:21",
+      "album": {
+        "name": "Pressure Bump",
+        "url": "https://open.spotify.com/album/67h21Mpdd5ME56hbAX8IbE"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 195339,
+      "name": "Pressure Bump",
+      "url": "https://open.spotify.com/track/6CdHl9Bw10isdinuz9jn3k"
+    },
+    {
+      "added_at": "2023-03-31 04:03:01",
+      "album": {
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -227,18 +351,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Whenever I Want",
-        "url": "https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA"
+        "name": "DAYS GO BY",
+        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 269914,
-      "name": "Whenever I Want",
-      "url": "https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn"
+      "duration_ms": 271756,
+      "name": "DAYS GO BY",
+      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -255,6 +383,22 @@
       "duration_ms": 247805,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Whenever I Want",
+        "url": "https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 269914,
+      "name": "Whenever I Want",
+      "url": "https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1277,22 +1421,6 @@
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "This World Couldn\u2019t See Us",
-        "url": "https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "This World Couldn\u2019t See Us",
-      "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Like You in Linen",
@@ -1541,22 +1669,6 @@
       "url": "https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "BY THE WAY",
@@ -1597,20 +1709,20 @@
       "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2022-11-28 16:00:11",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+        "name": "Luv 4 Rent",
+        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+      "duration_ms": 175018,
+      "name": "No L's",
+      "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1659,110 +1771,6 @@
       "duration_ms": 262941,
       "name": "Same Problems?",
       "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
-      "added_at": "2022-11-28 16:00:11",
-      "album": {
-        "name": "Luv 4 Rent",
-        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No L's",
-      "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/71gKjKg1GfdCM7rtEWc48o"
-      },
-      "artists": [
-        {
-          "name": "Afroham",
-          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
-        },
-        {
-          "name": "cocabona",
-          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
-        },
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 238831,
-      "name": "Heart on Fire",
-      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Young Hearts",
-        "url": "https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Young Hearts",
-      "url": "https://open.spotify.com/track/52toMEmu3DXhXT059TTyFL"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy"
     }
   ],
   "unique_name": "POLLEN",

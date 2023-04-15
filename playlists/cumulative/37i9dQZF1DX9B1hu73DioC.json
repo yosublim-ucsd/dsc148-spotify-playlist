@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 109714,
       "name": "Fish Maan",
       "url": "https://open.spotify.com/track/6osmPkzt0Ap9LA9lta3rOV"
@@ -4542,7 +4542,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
@@ -5602,7 +5602,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Jasmine - Demo",
       "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
@@ -5710,7 +5710,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 172707,
       "name": "keep going",
       "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
@@ -6255,6 +6255,28 @@
     },
     {
       "album": {
+        "name": "Lose You (feat. Soccer Mommy)",
+        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -6332,7 +6354,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 155083,
       "name": "Love Between...",
       "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
@@ -7834,7 +7856,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
@@ -9555,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "A Little Disaster",
+        "url": "https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243870,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv"
+    },
+    {
+      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -9678,7 +9718,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
@@ -11266,6 +11306,24 @@
       "duration_ms": 224481,
       "name": "Work",
       "url": "https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup"
+    },
+    {
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "album": {

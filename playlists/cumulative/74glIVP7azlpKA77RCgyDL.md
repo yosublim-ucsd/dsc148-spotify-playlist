@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Pupil Slicer
 
-382 songs - 1 day 0 hr 29 min
+383 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Imposter Syndrome](https://open.spotify.com/track/6Gyfnh212BLrBpIwjnXYIh) | [Whores](https://open.spotify.com/artist/1tK28YnQJ6edBujubs7FXo) | [Imposter Syndrome](https://open.spotify.com/album/4l0JAsTXAZyERJR2h7O6z6) | 4:04 | 2022-03-04 |  |
 | [In the Void](https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [In the Void](https://open.spotify.com/album/5aiIy9BVEoDh7AdP3PoDbf) | 8:58 | 2022-04-29 |  |
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-04-08 |  |
+| [Inamorata](https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 11:10 | 2023-04-14 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2022-06-24 |  |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 |  |
 | [Intestinal Wrap](https://open.spotify.com/track/3qXfb5Wd4A6EqU7DgAtdXy) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Intestinal Wrap](https://open.spotify.com/album/420l4HT9cFaWz2zv2ymvv8) | 3:24 | 2023-03-24 |  |

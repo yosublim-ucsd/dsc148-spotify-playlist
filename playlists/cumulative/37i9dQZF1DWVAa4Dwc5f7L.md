@@ -2,9 +2,9 @@
 
 ### [Merengue Mania](https://open.spotify.com/playlist/37i9dQZF1DWVAa4Dwc5f7L)
 
-> ¡Hasta las 15! Monster merengue hits! Cover: Becky G & Omega
+> ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo
 
-174 songs - 12 hr 7 min
+175 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Sandunga](https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [La Hora De La Verdad](https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB) | 3:54 | 2022-01-20 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/1CdBBfADPyTsN5RiZo7dqT) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:42 | 2022-01-20 | 2022-07-29 |
 | [Si Tú Te Vas](https://open.spotify.com/track/2ermCIX1iu4KHddSFTcex1) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG) | 3:48 | 2022-01-20 | 2022-07-29 |
+| [Solo Pienso En Ti](https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Solo Pienso En Ti](https://open.spotify.com/album/686zjPymwJWho1sRetIdZE) | 2:59 | 2023-04-14 |  |
 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 | 2023-02-24 |  |
 | [Suavemente](https://open.spotify.com/track/1YwPNemawMgGe6sF4U0FTE) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:26 | 2022-01-20 | 2023-03-11 |
 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 | 2022-01-20 | 2022-07-28 |

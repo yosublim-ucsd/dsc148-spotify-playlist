@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Drake, YoungBoy Never Broke Again and Lil Yachty.",
+  "description": "New music from NLE Choppa, Ice Spice and Fivio Foreign.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -566,6 +566,36 @@
       "duration_ms": 104911,
       "name": "4 Thangs (feat. Big Sean & Hit-Boy)",
       "url": "https://open.spotify.com/track/4wmZtoif8SGm7PDqgKrEXr"
+    },
+    {
+      "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "album": {
@@ -1236,7 +1266,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187453,
       "name": "AIN'T GONNA ANSWER",
       "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
@@ -5108,7 +5138,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 231160,
       "name": "Can't Nobody Hold Me Down (feat. Mase)",
       "url": "https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l"
@@ -8350,7 +8380,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197011,
       "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
       "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
@@ -12739,6 +12769,24 @@
     },
     {
       "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT"
+    },
+    {
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -14848,7 +14896,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 214593,
       "name": "King Snipe",
       "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
@@ -18982,7 +19030,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 200000,
       "name": "No 808\u2019s (feat. Vory)",
       "url": "https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ"
@@ -19162,6 +19210,24 @@
       "duration_ms": 154424,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu"
+    },
+    {
+      "album": {
+        "name": "No Love For A Thug",
+        "url": "https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305366,
+      "name": "No Love For A Thug",
+      "url": "https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP"
     },
     {
       "album": {
@@ -21844,10 +21910,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 140053,
       "name": "Pretty Girls Walk (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
+    },
+    {
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "album": {
@@ -28252,6 +28340,24 @@
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+    },
+    {
+      "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220556,
+      "name": "TALK DIFFERENT",
+      "url": "https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm"
     },
     {
       "album": {

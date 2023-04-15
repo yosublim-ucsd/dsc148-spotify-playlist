@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: TANAKA, Vince\(다나카, 빈스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,390 likes - 53 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,432 likes - 53 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

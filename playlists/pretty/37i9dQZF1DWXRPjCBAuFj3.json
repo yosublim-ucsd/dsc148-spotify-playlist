@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Drake",
-  "num_followers": 202767,
+  "num_followers": 202776,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGNmYmJlODA2ZmFhMTlmYjZiZGZkMTY3YmE4ZGUxOGQ3",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDhjNWYzODU2NmZjYzg0MzI1ZWMzYWUwOTFhYTMwYmJk",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "DOGTOOTH",
         "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 179868,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 283493,
       "name": "J\u2019comprends pas",
       "url": "https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 179868,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "No Time Wasted (feat. Future)",
         "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1415,6 +1415,34 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
@@ -1431,22 +1459,6 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1475,6 +1487,22 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1515,54 +1543,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+        "name": "Honey Bun",
+        "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
       },
       "artists": [
         {
           "name": "Quavo",
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 283196,
-      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+      "duration_ms": 134666,
+      "name": "Honey Bun",
+      "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1583,22 +1575,6 @@
       "duration_ms": 167916,
       "name": "Rover (feat. DTG)",
       "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1671,18 +1647,42 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Honey Bun",
-        "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
       "artists": [
         {
           "name": "Quavo",
           "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 134666,
-      "name": "Honey Bun",
-      "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
+      "duration_ms": 283196,
+      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 197692,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 171319,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     }
   ],
   "unique_name": "Rap Internazionale",

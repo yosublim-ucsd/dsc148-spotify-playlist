@@ -11517,6 +11517,32 @@
     },
     {
       "album": {
+        "name": "Prarambha Payana #TravelJam (From \"Daredevil Musthafa\")",
+        "url": "https://open.spotify.com/album/5Xtrpse8Jbc766shWsP9Ai"
+      },
+      "artists": [
+        {
+          "name": "Navaneeth Sham",
+          "url": "https://open.spotify.com/artist/7o9uqL4spl1juQLR9jij8S"
+        },
+        {
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
+        },
+        {
+          "name": "Varun Ramachandra",
+          "url": "https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Prarambha Payana #TravelJam (From \"Daredevil Musthafa\")",
+      "url": "https://open.spotify.com/track/05YeUZdZ9TU8HWJAGUBeLH"
+    },
+    {
+      "album": {
         "name": "Prathijanuma (From \"Picture Perfect\")",
         "url": "https://open.spotify.com/album/3CgNPqUDQKS7tV3cN0ELZ7"
       },
@@ -14108,10 +14134,36 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172948,
       "name": "Welcome To Bengaluru",
       "url": "https://open.spotify.com/track/1oZuRYmEywtRzRbDrfrE8Y"
+    },
+    {
+      "album": {
+        "name": "Welcome to Bengaluru (From \"Raaghu\") - Single",
+        "url": "https://open.spotify.com/album/0LQcI8rTiVUQabQH1sop6J"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Sanjay Malavalli",
+          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172948,
+      "name": "Welcome To Bengaluru (From \"Raaghu\")",
+      "url": "https://open.spotify.com/track/3luuHoWZH4QeJeL4kCpJew"
     },
     {
       "album": {

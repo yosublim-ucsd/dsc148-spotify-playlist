@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Karri\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,185 likes - 175 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,308 likes - 175 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

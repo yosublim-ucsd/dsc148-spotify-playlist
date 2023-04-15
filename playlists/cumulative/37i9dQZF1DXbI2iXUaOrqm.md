@@ -4,7 +4,7 @@
 
 > Rock meets pop meets punk, para esos días cuando todo te vale.
 
-69 songs - 3 hr 36 min
+70 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,10 +49,11 @@
 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/6p89XxqTCv34VrLQADjHRj) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/album/4xkGY6Qceq06NaCim0j62d) | 2:57 | 2023-01-20 |  |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2023-01-20 |  |
 | [Odio que te quiero](https://open.spotify.com/track/3GazPkKkfpgoHk4VgRbUY0) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Odio que te quiero](https://open.spotify.com/album/30ATsCNOpb1XAPop66VxQD) | 2:43 | 2023-01-20 |  |
+| [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 |  |
 | [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2023-02-03 | 2023-03-11 |
 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 | 2023-01-20 |  |
 | [Plaza en el cielo](https://open.spotify.com/track/0HCN1c8AGVd0AJKqdw7WOr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/6vR3IjKZz96v4RXVdcN39q) | 3:26 | 2023-02-23 | 2023-04-05 |
-| [Plaza en el cielo](https://open.spotify.com/track/2gCUxvwaDqfzp6zDiijnfr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:26 | 2023-04-11 |  |
+| [Plaza en el cielo](https://open.spotify.com/track/2gCUxvwaDqfzp6zDiijnfr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:26 | 2023-04-11 | 2023-04-15 |
 | [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-29 | 2023-03-08 |
 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 | 2023-01-20 |  |
 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 | 2023-01-20 |  |

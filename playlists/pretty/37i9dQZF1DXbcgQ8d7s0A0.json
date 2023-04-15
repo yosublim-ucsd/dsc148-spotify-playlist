@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1196350,
+  "num_followers": 1196682,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDU4MTdhMzY1MmFkMmQ4YjA2YjQ3YmNmNWZhMDI1N2U0",
+  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDgzZDQzYjE3NjYzNzYxYmNhNDc0ODUzODIzZDYyNjQ2",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Don't Look Any Further (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Dennis Edwards",
+          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+      "duration_ms": 242213,
+      "name": "Don't Look Any Further",
+      "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
     }
   ],
   "unique_name": "Sweet Soul Chillout",

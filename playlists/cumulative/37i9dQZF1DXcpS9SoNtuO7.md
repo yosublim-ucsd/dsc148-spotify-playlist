@@ -4,7 +4,7 @@
 
 > 2023/1/27・28・29に日本武道館にて開催されるアニソンフェス“リスアニ！LIVE 2023”出演アーティストの楽曲をピックアップ！ The official playlist of "LisAni! LIVE 2023"
 
-345 songs - 1 day 1 hr 9 min
+347 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [irony](https://open.spotify.com/track/4t8qhaNh0L55NBQ7j2pBf7) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [irony](https://open.spotify.com/album/4KVzqHCeNZVdSV8j4PM3np) | 4:19 | 2022-09-14 | 2023-01-12 |
 | [JUMP](https://open.spotify.com/track/2ni7JeAC8kbVCeuY2rmQDJ) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [NATURAL](https://open.spotify.com/album/4T6TiVpQaWHwViRSQK7B2v) | 3:44 | 2023-01-28 |  |
 | [kaika](https://open.spotify.com/track/1mHuDqFVDEi5DLFJ0Pyz3d) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [Kaika](https://open.spotify.com/album/1wIsTaFpUqn6QnTf1f1i3G) | 3:34 | 2022-07-19 | 2023-01-12 |
-| [Kazenootosae kikoenai](https://open.spotify.com/track/6SqIyW99DmQiRKD1aJj6Kl) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Kazenootosae kikoenai](https://open.spotify.com/album/6pFiNJhIsCLVer4KmSfHU0) | 3:40 | 2023-01-29 |  |
+| [Kazenootosae kikoenai](https://open.spotify.com/track/48uOREHgRTGnIcZITpINcD) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 3:38 | 2023-03-08 |  |
+| [Kazenootosae kikoenai](https://open.spotify.com/track/6SqIyW99DmQiRKD1aJj6Kl) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Kazenootosae kikoenai](https://open.spotify.com/album/6pFiNJhIsCLVer4KmSfHU0) | 3:40 | 2023-01-29 | 2023-04-15 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-08 | 2023-01-12 |
 | [King Gainer Over!](https://open.spotify.com/track/1vFhL2Gk3WV6io0ZjJTkNg) | [Yoshiki Fukuyama](https://open.spotify.com/artist/2f0GgEXy1Yzapzsat45lHH) | [King Gainer over!](https://open.spotify.com/album/6qqsUW6pAidUpL8sWViPEq) | 4:55 | 2022-07-19 | 2023-01-12 |
 | [KOE](https://open.spotify.com/track/6zTztr72JPciRx7Rl1QuRR) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 4:20 | 2023-01-29 |  |
@@ -171,7 +172,8 @@
 | [Teppen’ Tengoku \~TOP OF THE LAUGH!!!\~ \- TV size](https://open.spotify.com/track/28NiQ87L6jShHGyab4TBGI) | [てっぺんっオールスターズ\(阪本やよいCV.伊藤彩沙、高橋よもぎCV.愛美、細野ゆずCV.佐々木未来、清鶴かなCV.相良茉優、天野ちとせCV.相羽あいな、秋鹿いろはCV.黒木ほの香、藪北さえかCV.北守さいか、城ヶ崎ひかりCV.若井友希、白壁まこCV.小原莉子、小松崎みゆCV.櫻川めぐ、牛久みさおCV.豊田萌絵、笠間ひなCV.葉月ひまり、六香亭ゆいなCV.小島菜々恵、石屋もねCV.鈴木愛奈、北斗ちほりCV.小山百代\)](https://open.spotify.com/artist/5vvCD5VCcAfOGTbo8PRsp4) | [Teppen’ Tengoku \~TOP OF THE LAUGH!!!\~ \(TV size\)](https://open.spotify.com/album/57IW4atHmoeOKo266acv5K) | 1:29 | 2022-08-16 | 2023-01-12 |
 | [The Light Before We Land](https://open.spotify.com/track/1YlJxKDk7fvXgkoKwxlo9v) | [The Delgados](https://open.spotify.com/artist/4wavWMHhIiUXxwCuWsHzXo) | [Hate](https://open.spotify.com/album/2oAM6coeJLJ8j20lnLzvdF) | 5:30 | 2022-08-30 | 2023-01-12 |
 | [The One](https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:46 | 2022-08-30 | 2023-01-12 |
-| [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2023-01-29 |  |
+| [the sea and a pearl](https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [the sea and a pearl](https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8) | 4:39 | 2023-01-29 | 2023-04-15 |
+| [the sea and a pearl \(Japanese Ver\)](https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 4:39 | 2023-03-08 |  |
 | [THEME SONG OF KUMOKO](https://open.spotify.com/track/1uc0mhifmcwgxVdPamhmkp) | [「私」\(CV:悠木碧\)](https://open.spotify.com/artist/7AJ1v2xiatHqOBsC3n7wbM) | [ENDING THEME FROM TV SERIES ”SO I'M SPIDER, SO WHAT?”](https://open.spotify.com/album/19JLCJj8slFAadgzk2wwnI) | 4:00 | 2022-07-19 | 2023-01-28 |
 | [Timeless Shooting Star](https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:32 | 2023-03-08 |  |
 | [TOMORROW](https://open.spotify.com/track/6Diwp8VlEBl8fuv7HnnLF4) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [TVアニメ『この素晴らしい世界に祝福を! 2』オープニング・テーマ「TOMORROW」](https://open.spotify.com/album/4HoqmFAB6Osf1k1esn0rAw) | 4:35 | 2022-06-07 | 2022-06-23 |

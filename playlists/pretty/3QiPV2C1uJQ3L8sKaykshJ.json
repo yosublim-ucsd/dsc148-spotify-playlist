@@ -1,28 +1,32 @@
 {
   "description": "Listen to A-List tracks from the women of RCA Records featuring music from SZA, Latto, Foushe\u00e9, Elle King, and more. Cover: SZA",
-  "num_followers": 14229,
+  "num_followers": 14228,
   "original_name": "The RCA-List",
   "owner": {
     "name": "RCA Records",
     "url": "https://open.spotify.com/user/rcarecords"
   },
-  "snapshot_id": "MjMxNSw5MGNlNmNmNTNmNGMyYzg1NWEyYTBjNjdmYzMyNDg0MWUwMDJlZmZh",
+  "snapshot_id": "MjMxOSxlMWYyNjYwNTIzZjAzOGUxODhjODhjNGUyNGQ1MGQzMjNhYWMxZDc2",
   "tracks": [
     {
-      "added_at": "2022-12-16 14:57:35",
+      "added_at": "2023-04-14 13:11:14",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
       },
       "artists": [
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "added_at": "2023-03-17 22:28:38",
@@ -811,6 +815,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4"
+    },
+    {
+      "added_at": "2022-12-16 14:57:35",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2023-03-28 21:28:51",

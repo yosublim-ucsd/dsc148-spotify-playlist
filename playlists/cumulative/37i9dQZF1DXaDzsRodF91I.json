@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Don't Mind If We Do",
+        "url": "https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149380,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/5B4781MgAPj8fdr1ptKJPs"
+    },
+    {
+      "album": {
         "name": "Let Your Love Flow",
         "url": "https://open.spotify.com/album/3N0N8CSBVOazYoWWN0h5tI"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 169066,
       "name": "PEOPLE (feat. FIDLAR)",
       "url": "https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV"

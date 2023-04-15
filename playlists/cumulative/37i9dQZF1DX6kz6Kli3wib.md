@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-260 songs - 12 hr 45 min
+261 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2021-11-11 |  |
 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 | 2021-11-11 | 2022-05-20 |
 | [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 |  |
+| [Easy Going](https://open.spotify.com/track/0ZcsS6h3lz6651TSvMTCqo) | [Dee Delvechio](https://open.spotify.com/artist/6MGmJoRyVYie4OBBtkvLQ2) | [Easy Going](https://open.spotify.com/album/4IXljxNRUqWInfLbpeUMCJ) | 2:21 | 2023-04-14 |  |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2021-11-11 |  |
 | [Elusive Language](https://open.spotify.com/track/5LZGCkGCiZJfiNO7PWdFZ1) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Comfortable Right Here](https://open.spotify.com/album/1zncEXQRslpxk9ZffXsx1c) | 4:12 | 2021-11-11 | 2022-09-09 |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2021-11-11 | 2022-09-23 |
@@ -195,7 +196,7 @@
 | [Resume](https://open.spotify.com/track/4OKFg2NTbnszvbvl99h2zG) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Resume](https://open.spotify.com/album/5qrTkSXwubgrbgdNKfiKG8) | 1:50 | 2021-11-11 | 2022-05-11 |
 | [Retina](https://open.spotify.com/track/7mElsoZrRt8KlP1WeOimey) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Retina](https://open.spotify.com/album/6DduSY6YssLCtd0IJZG6Xz) | 2:56 | 2022-10-28 |  |
 | [Rheya](https://open.spotify.com/track/2oMDxIp1I6uNQkexFBjJWQ) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Fascination](https://open.spotify.com/album/5gcMQyg7DqkvElsPY5pyVb) | 3:03 | 2021-11-11 | 2022-05-20 |
-| [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2021-11-11 |  |
+| [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2021-11-11 | 2023-04-15 |
 | [Roads](https://open.spotify.com/track/1MmHFGCOtt5QDYTVxKkZLU) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Roads](https://open.spotify.com/album/4AI1ZaPqCCQntJGjVTk79S) | 3:02 | 2022-09-23 |  |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2021-11-11 |  |
 | [Saltwater](https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Saltwater](https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0) | 2:27 | 2021-11-11 | 2022-09-09 |

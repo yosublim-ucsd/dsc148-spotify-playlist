@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 33859,
+  "num_followers": 33889,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMGM2Mzk2MGYyZTRlODNjMDc1NjgyYzdhMDU5M2JjMGY0",
+  "snapshot_id": "MTY3NDQ3OTQzOCwwMDAwMDAwMDg5Zjk2Mzc1NjlkOGE4ZGFlYTEyNjFlOGEwZDZhMTc5",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Durbans Finest",
-        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
-      },
-      "artists": [
-        {
-          "name": "Blackwhole",
-          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "1000 Seconds",
-      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 394677,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Durbans Finest",
+        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
+      },
+      "artists": [
+        {
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "1000 Seconds",
+      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Undisputed",
-        "url": "https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0M6etJRitjGp9FyYImM6Nn"
       },
       "artists": [
         {
-          "name": "Big Nuz",
-          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         }
       ],
-      "duration_ms": 388226,
-      "name": "Umlilo",
-      "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
+      "duration_ms": 354053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/7ySKl4stuFkqah4184kgnu"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+        "name": "Undisputed",
+        "url": "https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22"
       },
       "artists": [
         {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
         }
       ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+      "duration_ms": 388226,
+      "name": "Umlilo",
+      "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -531,18 +531,38 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0M6etJRitjGp9FyYImM6Nn"
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
       },
       "artists": [
         {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
         }
       ],
-      "duration_ms": 354053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/7ySKl4stuFkqah4184kgnu"
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Sound Revival",
+        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
+      },
+      "artists": [
+        {
+          "name": "DJ Sbu",
+          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
+        }
+      ],
+      "duration_ms": 436960,
+      "name": "Lengoma",
+      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -579,22 +599,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Sound Revival",
-        "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
+        "name": "Kalawa Jazmee Classics: Bongo Maffin",
+        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
       },
       "artists": [
         {
-          "name": "DJ Sbu",
-          "url": "https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq"
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
         }
       ],
-      "duration_ms": 436960,
-      "name": "Lengoma",
-      "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -611,22 +627,6 @@
       "duration_ms": 306786,
       "name": "How Do You Feel",
       "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Kalawa Jazmee Classics: Bongo Maffin",
-        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "duration_ms": 387500,
+      "name": "Heavenly Sent",
+      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        }
-      ],
-      "duration_ms": 387500,
-      "name": "Heavenly Sent",
-      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
     },
     {
       "added_at": "2023-01-23 13:10:38",

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:JUNGKEY\(정키\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Nilo\(닐로\)\) \(당신의 감성에 발라드, 려요\)
 
-842 songs - 2 day 6 hr 47 min
+845 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 | 2023-01-10 | 2023-02-25 |
 | [Blue Flower](https://open.spotify.com/track/6weNDrRLGlnvT731NPuQap) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow \(Original Television Soundtrack\)](https://open.spotify.com/album/2EFckuWdFPw7sF2nKxNzLO) | 3:48 | 2023-01-20 | 2023-02-25 |
 | [Blue Night](https://open.spotify.com/track/0ItqbjLfJyUYTPqbKklSCR) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Blue Night](https://open.spotify.com/album/1NsHwomUoMbw74oPzVXH1w) | 3:36 | 2022-08-12 | 2022-11-17 |
+| [Blue night song](https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Blue night song](https://open.spotify.com/album/2EIFbTHUp9QwbxJrs5w3pB) | 3:45 | 2023-04-14 |  |
 | [Blue Sky](https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn) | [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [Blue Sky](https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp) | 3:26 | 2022-06-18 | 2022-09-06 |
 | [BORN TO LOVE YOU](https://open.spotify.com/track/3gOfgRZp9Cglmn2p0I68YP) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [BORN TO LOVE YOU](https://open.spotify.com/album/3qzLoa9H5KHNdhU7qcINmo) | 2:54 | 2022-03-14 | 2022-07-08 |
 | [Boy in time \- HUI Solo](https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:38 | 2022-01-17 | 2022-04-04 |
@@ -380,6 +381,7 @@
 | [I′m Fine](https://open.spotify.com/track/5HHIWjALSDmfZJGG8Nw6aS) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [I'm Fine](https://open.spotify.com/album/4w85vsZs8LOMXnQMCXO7Ff) | 4:09 | 2023-02-24 |  |
 | [I′m Sad without You \(Feat\. DOKO\)](https://open.spotify.com/track/35gNUShmNzCuSccQ5XheBp) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [I'm Sad without You](https://open.spotify.com/album/1T5vbcHbRYU9ICbvmfexFe) | 3:34 | 2022-11-09 | 2023-01-21 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-11 | 2023-02-15 |
+| [Just](https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Just](https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ) | 3:41 | 2023-04-14 |  |
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-03-24 | 2022-04-12 |
 | [Just hug me](https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Just hug me](https://open.spotify.com/album/5DeM0LUxSOmfXQzBedDA2F) | 3:22 | 2021-12-20 | 2022-06-29 |
 | [Just Leave Me](https://open.spotify.com/track/5ThV0PXVkkkw74WsjVrjYU) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1EAuKZNnt6SEwmzKNDNW0M) | 4:19 | 2022-03-29 | 2022-04-20 |
@@ -502,6 +504,7 @@
 | [My You, My Star](https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG) | [Nam Saera](https://open.spotify.com/artist/5U37QbWZ7EvVfD7EGpMC9t) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7) | 3:42 | 2023-01-20 | 2023-03-28 |
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2021-12-23 | 2022-04-21 |
 | [Natural Sorrow](https://open.spotify.com/track/5ADgSqZx39JVjG0siBRncL) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [After\. 1st](https://open.spotify.com/album/1zDXYgsyupkTZQj3W9GFQP) | 4:15 | 2022-03-31 | 2022-04-09 |
+| [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-14 |  |
 | [Never let you go](https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Never let you go](https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc) | 4:04 | 2021-12-20 | 2022-07-02 |
 | [Night We Shine](https://open.spotify.com/track/1wEVAO5UNyPn0Fh4H89fhK) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Night We Shine](https://open.spotify.com/album/50tZqh8ASPusurk4CTQ0wn) | 3:51 | 2022-09-21 | 2023-01-11 |
 | [Nightmare \(Art\. SAEBIT\)\(With\. MINE\)](https://open.spotify.com/track/5fNSKLye8tniXk48rtoUTQ) | [Anonymous Artists \(어나니머스 아티스트\)](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD), [MINE](https://open.spotify.com/artist/11RVbK7wyBMH4UzjELv6wq) | [ARTIST\. SAEBIT](https://open.spotify.com/album/1f9KclCcIDueccVILc3u3t) | 4:16 | 2023-02-13 | 2023-03-28 |

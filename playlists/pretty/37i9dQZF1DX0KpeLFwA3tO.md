@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Pinkshift
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,695 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,749 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
-| 2 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
+| 2 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
 | 3 | [Dizzy](https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:44 |
 | 4 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 5 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 14 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
 | 15 | [I See You](https://open.spotify.com/track/6mFPbMbBtGYzfwI2KGKhNF) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Growing Pains](https://open.spotify.com/album/1e2UBRfuELbXvY3BsIm66l) | 3:03 |
 | 16 | [Customer Service](https://open.spotify.com/track/5Pnh1Ye2dhQOAQmxfxOV0R) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Customer Service](https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1) | 1:52 |
-| 17 | [So Mad](https://open.spotify.com/track/0WjBjld2C4nbGm5rbY55j6) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love In Hi\-Fi](https://open.spotify.com/album/0DY2wnrbwmbMhtIVMK1eVH) | 3:00 |
+| 17 | [So Mad](https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love in Hi\-Fi](https://open.spotify.com/album/2D0HrukRJ7GrOuORD14Y3A) | 3:00 |
 | 18 | [Beg For The Torture](https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Beg For The Torture](https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ) | 1:25 |
 | 19 | [Cherry Red Rage](https://open.spotify.com/track/51ftpjRx4Kw7FLgnAl3X0R) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Cherry Red Rage](https://open.spotify.com/album/2F314L6DLTaWt1BlO9JTdi) | 2:51 |
 | 20 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 80 | [Rabbit Hole](https://open.spotify.com/track/4t2UN0fnbOyWc3cDb5OF1S) | [Attic Stories](https://open.spotify.com/artist/6WLBHcOEiXfOt5mrREFth2) | [Rabbit Hole](https://open.spotify.com/album/3IO5mTpE7yvDazc5JrFz21) | 3:38 |
 | 81 | [MADHATTAN](https://open.spotify.com/track/7kGuKjgZvyPTJKwHgnvPw5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos), [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [DENZ JUNIOR](https://open.spotify.com/artist/6hiy2sLG05CnoB3Kv7Qeox) | [MADHATTAN](https://open.spotify.com/album/4l9rowUxTu47lnDjI8TDs8) | 1:59 |
 | 82 | [Sad Dumb Game](https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Head Shrunk / Sad Dumb Game](https://open.spotify.com/album/7ikoCgdYh59PwvS3T1BliZ) | 2:19 |
-| 83 | [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 |
+| 83 | [RADIATION](https://open.spotify.com/track/0gYhKvqRSWK0hfBjbAlZCG) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/0gHb2KspaWK9XZx2I9QAIR) | 2:24 |
 | 84 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 85 | [Howl](https://open.spotify.com/track/1eRAZZelizJPQkksU0oEux) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Howl](https://open.spotify.com/album/1DUB2TNAvBF8WMBvd2kUdr) | 4:46 |
 | 86 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Don't Cut Your Hair](https://open.spotify.com/track/4afcRSxkvKPlZDoBRwTuv7) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Don't Cut Your Hair](https://open.spotify.com/album/4AesOaNA7EgCBV8pIbBa01) | 2:21 |
 | 100 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDkzMDk5OWVhZjBkZDU4Njg0OGY0NGNjMmEwODc1OTdj`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGU5OGRhNjA5NDg3Mzk4MWE2MzZkOTJjYjExOTc0ZWQy`

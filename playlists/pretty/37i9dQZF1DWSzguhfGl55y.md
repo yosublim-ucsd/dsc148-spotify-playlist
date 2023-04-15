@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,790 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,954 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 41 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 42 | [Bon Voyage \(feat\. Nina\)](https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z) | [Deichkind](https://open.spotify.com/artist/49eo9xE4yGzJLWkOndiODs), [Nina Tenge](https://open.spotify.com/artist/5OsMY9Hwrho3pltegqow1p) | [Bitte ziehen sie durch](https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW) | 3:24 |
 | 43 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
-| 44 | [Verstrahlt](https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:54 |
-| 45 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
+| 44 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
+| 45 | [Verstrahlt](https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:54 |
 | 46 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 |
 | 47 | [Hinterland](https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 3:55 |
 | 48 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
 | 49 | [Da draussen](https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Fettes Brot lässt grüssen](https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL) | 5:20 |
-| 50 | [Endboss](https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft](https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg) | 3:44 |
+| 50 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
 
-Snapshot ID: `MTY3Nzc3MDE1NSwwMDAwMDAwMDhiMDI0ZmNhNjVjZDUwZTQ4ZWUyZGZlMDdhZGVmMDJh`
+Snapshot ID: `MTY3Nzc3MDE1NSwwMDAwMDAwMDZiNzlhNmU1NGU5NTdhZTVhMmJhYWJjMmZlMTRjMjdk`

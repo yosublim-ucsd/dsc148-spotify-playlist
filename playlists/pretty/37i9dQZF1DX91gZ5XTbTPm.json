@@ -1,13 +1,69 @@
 {
   "description": "The Midwest is always on time. Cover: Polo G",
-  "num_followers": 104361,
+  "num_followers": 104394,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDg1MWE5YjEwNjQyYWIxNDBkZWUwMmFmYmE0ZGUxZTky",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDA0Yzk3OTcyMWU0MWUyNjc3YWNjOTE5MDU4ZjE3YmEz",
   "tracks": [
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "GOMD",
+        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 171872,
+      "name": "GOMD",
+      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dropped The Lo",
+        "url": "https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "Dropped The Lo",
+      "url": "https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl"
+    },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
@@ -43,42 +99,6 @@
       "duration_ms": 151099,
       "name": "Wicked Inna RaQ 2 (with G Herbo)",
       "url": "https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "GOMD",
-        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 171872,
-      "name": "GOMD",
-      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "No Time Wasted (feat. Future)",
-        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "No Time Wasted (feat. Future)",
-      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -165,72 +185,24 @@
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
-        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
-      },
-      "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "Cash Kidd",
-          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
-        },
-        {
-          "name": "RiskTaker D-Boy",
-          "url": "https://open.spotify.com/artist/7z3tvvfp9CCpGPG2NmFCWu"
-        },
-        {
-          "name": "DJBJ 3525",
-          "url": "https://open.spotify.com/artist/73hKkoJ0qQxdfy6B8LyN7Y"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "OH BOY",
-      "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Blast Off",
-        "url": "https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM"
-      },
-      "artists": [
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        }
-      ],
-      "duration_ms": 105365,
-      "name": "Blast Off",
-      "url": "https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p"
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -247,6 +219,58 @@
       "duration_ms": 130703,
       "name": "Likka Sto",
       "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "ROLL THE DICE (feat. DeJ Loaf)",
+        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "ROLL THE DICE (feat. DeJ Loaf)",
+      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Blast Off",
+        "url": "https://open.spotify.com/album/5mfmkBq7JGuNgU4OOMIlbM"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        }
+      ],
+      "duration_ms": 105365,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/0lfVhOvKOPILinrrahAz6p"
     },
     {
       "added_at": "2023-02-21 16:21:10",
@@ -279,6 +303,22 @@
       "duration_ms": 80352,
       "name": "Out On Bond",
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -369,20 +409,40 @@
       "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
     },
     {
-      "added_at": "2023-03-31 08:32:46",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Look At Me",
-        "url": "https://open.spotify.com/album/307v3FFRTkfyRg1xG9c8bq"
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
       },
       "artists": [
         {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
           "name": "Baby Money",
           "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "name": "RiskTaker D-Boy",
+          "url": "https://open.spotify.com/artist/7z3tvvfp9CCpGPG2NmFCWu"
+        },
+        {
+          "name": "DJBJ 3525",
+          "url": "https://open.spotify.com/artist/73hKkoJ0qQxdfy6B8LyN7Y"
         }
       ],
-      "duration_ms": 118922,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/4HYhjtXDWh8cWeZLysLtJm"
+      "duration_ms": 222500,
+      "name": "OH BOY",
+      "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
     },
     {
       "added_at": "2023-03-31 08:32:46",
@@ -463,22 +523,6 @@
       "duration_ms": 140053,
       "name": "Pretty Girls Walk (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Hate Being Lonely",
-        "url": "https://open.spotify.com/album/1kyWMBlePFumCnYQ0yazen"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 126733,
-      "name": "Hate Being Lonely",
-      "url": "https://open.spotify.com/track/3SpXBJKCjImLwlr2jwA6t5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -735,42 +779,6 @@
       "duration_ms": 177230,
       "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "SHONUFF",
-        "url": "https://open.spotify.com/album/2Wex5QVHpDs99hZJxM55hr"
-      },
-      "artists": [
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "OLD SKOOL WHOOP",
-      "url": "https://open.spotify.com/track/3vVglxAcpBVDR0B5HquXrU"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Leather Belt",
-        "url": "https://open.spotify.com/album/6JLSLzNZlo1TOVorgew4c0"
-      },
-      "artists": [
-        {
-          "name": "DCG BROTHERS",
-          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
-        }
-      ],
-      "duration_ms": 189113,
-      "name": "Leather Belt",
-      "url": "https://open.spotify.com/track/1uEzrWbDQqZJKMC1yUuNq4"
     },
     {
       "added_at": "2023-01-20 05:00:00",

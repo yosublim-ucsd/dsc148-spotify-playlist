@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 28068,
+  "num_followers": 28077,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDk4YTJjOTNhNmM1YjU0ODFlNzVkMThlMzc1MDhiYWRj",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGE5YTdhMTk1MTZhYzUwMWFjN2I2MGRkMjYxZGE3NzE4",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
-        "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "En vacker d\u00f6d stad",
-      "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 247827,
       "name": "Dra \u00c5t Helvete",
       "url": "https://open.spotify.com/track/2NLoDpuaf96GLxXH7Nv9tJ"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
+        "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "En vacker d\u00f6d stad",
+      "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
+        "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
+      "url": "https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "[emo]",
         "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
         "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 196840,
       "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
       "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -943,34 +959,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Alderland",
-        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+        "name": "F\u00f6r Sverige",
+        "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
       },
       "artists": [
         {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Kom och dansa lite",
-      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        },
         {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+          "name": "Loke Nyberg",
+          "url": "https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Tidens tempo",
-      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
+      "duration_ms": 205506,
+      "name": "Hela hatet stormar",
+      "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -991,38 +995,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Krymplings",
-        "url": "https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH"
-      },
-      "artists": [
-        {
-          "name": "Krymplings",
-          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Jag Vill Ha En Slav",
-      "url": "https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
-        "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
-      "url": "https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "V\u00e4lkommen till fabriken",
         "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
@@ -1039,18 +1011,50 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Tretton \u00d6vningar i Mindfulness",
-        "url": "https://open.spotify.com/album/38BvEgilcgoviVitJEqpKc"
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
       "artists": [
         {
-          "name": "EPA",
-          "url": "https://open.spotify.com/artist/6vLwmfijKpOf0xR8Mv79aj"
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 160148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/2tFsLCGvOirHBRBeC4JxcK"
+      "duration_ms": 132800,
+      "name": "Tidens tempo",
+      "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Alderland",
+        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Kom och dansa lite",
+      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Krymplings",
+        "url": "https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH"
+      },
+      "artists": [
+        {
+          "name": "Krymplings",
+          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Jag Vill Ha En Slav",
+      "url": "https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b"
     }
   ],
   "unique_name": "Svensk Punk",

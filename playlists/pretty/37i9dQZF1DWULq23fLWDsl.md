@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,674 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,010 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 83 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
 | 84 | [Draw Your Swords](https://open.spotify.com/track/0m6DFmtVCFmtAEdkO9KqUK) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 6:35 |
 | 85 | [Norway](https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 3:54 |
-| 86 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |
-| 87 | [Factory](https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 4:35 |
+| 86 | [Factory](https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 4:35 |
+| 87 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |
 | 88 | [Sorrow](https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 3:25 |
 | 89 | [White Sky](https://open.spotify.com/track/1QdVwO5xqAI88pNn2qfNjU) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 2:58 |
 | 90 | [Louder Than Ever](https://open.spotify.com/track/5j08C17ks3onk4i4g7XRJi) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Mine Is Yours](https://open.spotify.com/album/69Kgl92Q1X2n7ERDX4me1r) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 99 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
 | 100 | [Weekend](https://open.spotify.com/track/7DQDpDeLVS3L9kgb6ejU3z) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt) | 3:22 |
 
-Snapshot ID: `MTY2MjM3NzQ4NSwwMDAwMDAwMDM1YjVlMDhmOWU1YmU1YWVkYTVmMWVkMjdkODM3Y2E4`
+Snapshot ID: `MTY2MjM3NzQ4NSwwMDAwMDAwMDAyZDQ3ODc4ZTI3Y2VjZjQwYTU0OWYwZjEyNmRhNGZk`

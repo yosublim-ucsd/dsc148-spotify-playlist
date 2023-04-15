@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De vuelta a los 2000s con los mejores \u00e9xitos! Christina Aguilera en portada.",
-  "num_followers": 2960,
+  "num_followers": 3088,
   "original_name": "Fiesta 2000era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0OTY5OSwwMDAwMDAwMDQ1Zjc3MmY2OWZlMjBjODNkMDY1NTgwZWIwMzg5MTcz",
+  "snapshot_id": "MTY4MDY0OTY5OSwwMDAwMDAwMDJkNTQ1OWZlZjJmNjZkMmVhMDFiOTI4NTYyZjI1NmE2",
   "tracks": [
     {
       "added_at": "2023-03-10 15:58:12",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-03-10 15:58:12",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2023-03-10 15:58:12",
+      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 267786,
       "name": "Ella Y Yo - Featuring Don Omar",
       "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
-    },
-    {
-      "added_at": "2023-03-10 15:58:12",
-      "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2023-03-10 15:58:12",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-03-10 15:58:12",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-03-10 15:58:12",
-      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 237386,
       "name": "Mi primer millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2023-03-10 15:58:12",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-03-10 15:58:12",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-10 15:58:12",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "5 Letras",
+      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
+    },
+    {
+      "added_at": "2023-03-10 15:58:12",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-03-10 15:58:12",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "5 Letras",
-      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
     },
     {
       "added_at": "2023-03-10 15:58:12",

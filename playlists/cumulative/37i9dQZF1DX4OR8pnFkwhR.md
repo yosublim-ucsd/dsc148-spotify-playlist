@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ねぐせ
 
-789 songs - 2 day 0 hr 42 min
+790 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-04-12 | 2022-07-13 |
 | [And / you](https://open.spotify.com/track/7ecm8hr7HyPz009himM2kI) | [Kouichi Arakawa](https://open.spotify.com/artist/0jjsQnz7M1lFD3vFEWlwSw) | [Late night talking](https://open.spotify.com/album/0pxvbsmcAKroIlXjJp4Luk) | 2:52 | 2022-09-27 | 2022-10-05 |
 | [and i](https://open.spotify.com/track/56cG2g8dIJluJUY26SOCua) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [まちあわせ \- EP](https://open.spotify.com/album/6OI2liQOHd024WUmM1ZAA4) | 3:03 | 2022-05-31 | 2022-06-22 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [As you are](https://open.spotify.com/track/4MXe4P4d0PuX7l9wc6bTod) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/3PhgUhmbejD4Oo4BKQhlQS) | 3:07 | 2022-05-12 | 2022-05-18 |
 | [Awesome Day](https://open.spotify.com/track/0qqmOwDSPhH1PNHv72al3N) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Awesome Day](https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T) | 3:18 | 2023-02-28 | 2023-03-22 |

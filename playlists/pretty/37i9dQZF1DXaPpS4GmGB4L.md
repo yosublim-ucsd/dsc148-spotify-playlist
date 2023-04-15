@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,002 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,082 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 32 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
 | 33 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 | 34 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 |
-| 35 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
-| 36 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
+| 35 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
+| 36 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 37 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
 | 38 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 |
 | 39 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Watch Me Change](https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC), [Roberto Luti](https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 3:36 |
 | 50 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 |
 
-Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMDQ0N2ZhNDUwN2IwOTRhOGFkNzA0NmRiZWZmOWUwNzMw`
+Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMGM1ODNkNGRhOTNiOGUzZWZkZTZjNGUzODMwMDE1MmVh`

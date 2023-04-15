@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,832 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,050 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 25 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 |
 | 26 | [De Aqui Paya](https://open.spotify.com/track/6U5rCJ8xJmZxNe3fbg1X7Q) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos 2019 Vol\. 2](https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D) | 2:58 |
 | 27 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
-| 28 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
-| 29 | [Aquí Seguimos De Pie](https://open.spotify.com/track/7KGs838LI4AjgRDlDkQYPD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:00 |
-| 30 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 |
-| 31 | [Sigo Aqui](https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:34 |
-| 32 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 |
+| 28 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 |
+| 29 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
+| 30 | [Aquí Seguimos De Pie](https://open.spotify.com/track/7KGs838LI4AjgRDlDkQYPD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:00 |
+| 31 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 |
+| 32 | [Sigo Aqui](https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:34 |
 | 33 | [Chingandole Macizo](https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:34 |
 | 34 | [El Mickey](https://open.spotify.com/track/120PEdxV65LmPyrTNFEMTp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Mickey](https://open.spotify.com/album/2rGybDkmfUvIxy7bWS2tH1) | 3:23 |
 | 35 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [El Tony](https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Paramos de Chambear](https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97) | 3:14 |
 | 50 | [El Doble R](https://open.spotify.com/track/516mMyMpgX5AvGZ773buQd) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Doble R](https://open.spotify.com/album/0qitEBP6yqG4OJNw4NjR7a) | 2:41 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDBmMDQ1NjI5NWU3ZDg2YjZhMzFjMGI2Y2Y5MmE5NWJiYg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmNTBiYWNlODIzMDkxZDZmMjQyYThiNjhiZWZkZWRlYw==`

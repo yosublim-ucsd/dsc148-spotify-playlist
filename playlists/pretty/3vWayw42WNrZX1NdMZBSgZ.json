@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Marshmello, Farruko",
-  "num_followers": 56485,
+  "num_followers": 56482,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "Mzc1OCw5YjQ0Y2FkZDk4NWNkYzI2MDdiZjliYmM5OTQ1MGRkNWIzYzk5NjNl",
+  "snapshot_id": "Mzc3MSw2Y2VkMzVkMDFlMWE3ZTU1ZTk3OGM4Nzg3Y2I1MjU5NDg5NWIwNWVk",
   "tracks": [
     {
       "added_at": "2023-04-14 00:02:14",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
+      "added_at": "2023-04-14 13:15:18",
+      "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
+    },
+    {
       "added_at": "2023-03-29 14:21:43",
       "album": {
         "name": "La Single",
@@ -71,6 +91,142 @@
       "duration_ms": 276066,
       "name": "La Single",
       "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
+    },
+    {
+      "added_at": "2023-04-14 13:12:46",
+      "album": {
+        "name": "Luz Azul",
+        "url": "https://open.spotify.com/album/3jC2pH39SzVORAsE3xYnnd"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Luz Azul",
+      "url": "https://open.spotify.com/track/6vvS5fgoOS3kjrH8Pyc8d5"
+    },
+    {
+      "added_at": "2023-04-14 13:20:06",
+      "album": {
+        "name": "Wuapa",
+        "url": "https://open.spotify.com/album/1jGVjqkgkhhwXDwjU988gW"
+      },
+      "artists": [
+        {
+          "name": "Bernier",
+          "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Wuapa",
+      "url": "https://open.spotify.com/track/1GXZJCOFcyGpvUEqq7qxiY"
+    },
+    {
+      "added_at": "2023-04-14 13:56:22",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
+    },
+    {
+      "added_at": "2023-04-14 13:54:37",
+      "album": {
+        "name": "Urau",
+        "url": "https://open.spotify.com/album/7xHo1vDJY2neCNsvdvlZdI"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Urau",
+      "url": "https://open.spotify.com/track/3ar209bZ8iKi049HcYhRFQ"
+    },
+    {
+      "added_at": "2023-04-14 13:57:13",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2023-04-14 15:52:59",
+      "album": {
+        "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
+        "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 206054,
+      "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
+    },
+    {
+      "added_at": "2023-04-14 19:49:00",
+      "album": {
+        "name": "Brillante Sobre el Mic",
+        "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 246183,
+      "name": "Brillante Sobre el Mic",
+      "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
     },
     {
       "added_at": "2023-03-31 00:11:19",
@@ -5384,7 +5540,7 @@
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -7165,7 +7321,7 @@
         }
       ],
       "duration_ms": 182133,
-      "name": "TE FUISTE (feat. Myke Towers)",
+      "name": "TE FUISTE",
       "url": "https://open.spotify.com/track/0qV3ZLVDdRisXy3cbhZLQW"
     },
     {
@@ -7652,7 +7808,7 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -8736,7 +8892,7 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {

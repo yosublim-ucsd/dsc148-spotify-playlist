@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Miranda Lambert
 
-202 songs - 10 hr 56 min
+203 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 | 2023-02-03 |  |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-12-28 |  |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-31 |  |
+| [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-04-14 |  |
 | [7500 OBO](https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:41 | 2021-12-28 | 2022-12-10 |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-28 | 2022-09-10 |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-12-28 | 2023-02-05 |
@@ -126,7 +127,7 @@
 | [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 | 2023-01-14 |
 | [Never Til Now \(feat\. Brett Young\)](https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2023-01-13 |  |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-28 | 2022-09-24 |
-| [New Truck](https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [New Truck](https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM) | 2:54 | 2021-12-28 |  |
+| [New Truck](https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [New Truck](https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM) | 2:54 | 2021-12-28 | 2023-04-15 |
 | [No Body](https://open.spotify.com/track/3knS4WXNNRBd3zkx2v78cx) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [No Body](https://open.spotify.com/album/1uZ08XKEtgy5FRYv4pogsQ) | 3:07 | 2022-08-25 |  |
 | [No Hard Feelings](https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 3:11 | 2022-01-10 |  |
 | [Note To Self](https://open.spotify.com/track/7ETfVO4Njvmf3oNPJy33zF) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Note to Self](https://open.spotify.com/album/4rjH55hv2qMcmmAsh3fdgN) | 3:15 | 2022-06-21 | 2023-01-28 |

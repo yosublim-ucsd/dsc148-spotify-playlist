@@ -2,7 +2,7 @@
 
 ### [Tamil BAE 💕](https://open.spotify.com/playlist/37i9dQZF1DX09enSktFOuB)
 
-> Check out these funky Tanglish Love Tracks!<br/>Cover : Don
+> Best Love songs, Before Anything Else<br/>Cover : Don
 
 69 songs - 4 hr 57 min
 

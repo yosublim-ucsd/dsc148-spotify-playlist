@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25130,
+  "num_followers": 25131,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGZjMjhkN2FlMzEwMGU1ZmVlOTM1OGNkMTBkNTllMzk2",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGU3MWFjNDViODU2NGM4YWE5MTllNmIwMTIyODM2YWFi",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The Divine Storm",
         "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 177200,
       "name": "Glorify (feat. Toby Mac & Terrian)",
       "url": "https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Let It Be Love",
+        "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 177566,
+      "name": "Let It Be Love",
+      "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Let It Be Love",
-        "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 177566,
-      "name": "Let It Be Love",
-      "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1475,22 +1475,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Songs for Every Soul",
-        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
+        "name": "North Point Worship",
+        "url": "https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63"
       },
       "artists": [
         {
-          "name": "Firma Collective",
-          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
         },
         {
-          "name": "Lexi Jones",
-          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
+          "name": "Desi Raines",
+          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Mercy's Tree",
-      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+      "duration_ms": 217386,
+      "name": "On My Way Back Home (feat. Seth Condrey & Desi Raines)",
+      "url": "https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1515,26 +1519,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "North Point Worship",
-        "url": "https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63"
+        "name": "Songs for Every Soul",
+        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+          "name": "Firma Collective",
+          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
         },
         {
-          "name": "Desi Raines",
-          "url": "https://open.spotify.com/artist/5uy8gLsNLU5E9dgB464PaZ"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "Lexi Jones",
+          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
         }
       ],
-      "duration_ms": 217386,
-      "name": "On My Way Back Home (feat. Seth Condrey & Desi Raines)",
-      "url": "https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn"
+      "duration_ms": 257399,
+      "name": "Mercy's Tree",
+      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
     },
     {
       "added_at": "2020-08-13 14:39:00",

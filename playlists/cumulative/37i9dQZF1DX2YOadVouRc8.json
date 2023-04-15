@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "CHOSEN",
+        "url": "https://open.spotify.com/album/6IG94A5YQ5AKqZs0RtXWTv"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155769,
+      "name": "CHOSEN",
+      "url": "https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb"
+    },
+    {
+      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
@@ -824,7 +842,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 143527,
       "name": "Crayons",
       "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
@@ -1959,6 +1977,42 @@
     },
     {
       "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
+      "album": {
+        "name": "Now you know",
+        "url": "https://open.spotify.com/album/0AmU09bzeHjQjMnopF0pQH"
+      },
+      "artists": [
+        {
+          "name": "Mizzle",
+          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Omoyi",
+      "url": "https://open.spotify.com/track/2LskJ9MKS5uuqUbLeqNClt"
+    },
+    {
+      "album": {
         "name": "ROOTS",
         "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
       },
@@ -2160,7 +2214,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 130666,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6"

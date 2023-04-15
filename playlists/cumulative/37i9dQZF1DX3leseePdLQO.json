@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "Pop para refrescarte los d\u00edas, featuring TINI. ",
+  "description": "Pop para refrescarte los d\u00edas, featuring Alex Ponce. ",
   "name": "Crema Pop",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205296,
       "name": "Break",
       "url": "https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p"
@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
       },
@@ -734,10 +752,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199384,
       "name": "plan",
       "url": "https://open.spotify.com/track/0H9UKVMv725ASb34l8OIVL"
+    },
+    {
+      "album": {
+        "name": "ser humano",
+        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "plan",
+      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
       "album": {
@@ -904,6 +940,28 @@
       "duration_ms": 180619,
       "name": "TU VALOR",
       "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "TURISMO",
+      "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
     },
     {
       "album": {

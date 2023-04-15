@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104221,
+  "num_followers": 104214,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODYxNjMxOCwwMDAwMDAwMDQzMmRhNjM5Mjg3YTc1YzU2YTMxYTM2MDg2MTU2ZDgy",
+  "snapshot_id": "MTY3ODYxNjMxOCwwMDAwMDAwMGRlMDZmNWUxNDJmZmZlZWM1YmE1NGU1MDMwMDY2ODYx",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "fields of forever (sleep rework)",
-        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "duration_ms": 221702,
-      "name": "fields of forever - sleep rework",
-      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Cygne Noir",
         "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 178634,
       "name": "Cygne Noir",
       "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "fields of forever (sleep rework)",
+        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "duration_ms": 221702,
+      "name": "Lawson: fields of forever - sleep rework",
+      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Om \u00e4n bara f\u00f6r en stund",
-        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
-      },
-      "artists": [
-        {
-          "name": "Maya \u00c5str\u00f6m",
-          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
-        }
-      ],
-      "duration_ms": 158591,
-      "name": "Om \u00e4n bara f\u00f6r en stund",
-      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Greek",
         "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 164999,
       "name": "The Greek",
       "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Om \u00e4n bara f\u00f6r en stund",
+        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
+      },
+      "artists": [
+        {
+          "name": "Maya \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+        }
+      ],
+      "duration_ms": 158591,
+      "name": "Om \u00e4n bara f\u00f6r en stund",
+      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Home full of solipsism",
         "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 177882,
       "name": "Home full of solipsism",
       "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Solipsism",
-        "url": "https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 345800,
-      "name": "Midwayer",
-      "url": "https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Ambrosia (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 96500,
       "name": "For Stormboy",
       "url": "https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Solipsism",
+        "url": "https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 345800,
+      "name": "Midwayer",
+      "url": "https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Eyes Closed And Traveling",
-        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
-      },
-      "artists": [
-        {
-          "name": "Peter Broderick",
-          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
-        }
-      ],
-      "duration_ms": 219549,
-      "name": "Eyes Closed And Traveling",
-      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 138000,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Eyes Closed And Traveling",
+        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
+      },
+      "artists": [
+        {
+          "name": "Peter Broderick",
+          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "Eyes Closed And Traveling",
+      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Open Window",
-        "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
-      },
-      "artists": [
-        {
-          "name": "Matti Bye",
-          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
         "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 353146,
       "name": "Opening",
       "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
+      },
+      "artists": [
+        {
+          "name": "Matti Bye",
+          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Mosel Reflections (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
-      },
-      "artists": [
-        {
-          "name": "Nikolas Belalis",
-          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
-        }
-      ],
-      "duration_ms": 98993,
-      "name": "Mosel Reflections (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Mosel Reflections (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
+      },
+      "artists": [
+        {
+          "name": "Nikolas Belalis",
+          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
+        }
+      ],
+      "duration_ms": 98993,
+      "name": "Mosel Reflections (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2023-03-12 10:18:38",

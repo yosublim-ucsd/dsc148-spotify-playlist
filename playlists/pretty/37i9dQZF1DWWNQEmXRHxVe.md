@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,944 likes - 96 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,955 likes - 96 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

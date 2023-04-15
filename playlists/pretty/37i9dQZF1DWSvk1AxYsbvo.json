@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 8311,
+  "num_followers": 8328,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDgyNiwwMDAwMDAwMGRhYWJiMGMyOGY2OWMzZjk5NmU1NDU3MWQ0MGY2N2Y1",
+  "snapshot_id": "MTY4MDg0MDgyNiwwMDAwMDAwMGI1YTNhN2UxOTkwMjFlMTExOGU2ZTg2MzUyMTBiMGFj",
   "tracks": [
     {
       "added_at": "2023-04-07 04:13:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-07 04:13:46",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
-    },
-    {
-      "added_at": "2023-04-07 04:13:46",
-      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "added_at": "2023-04-07 04:13:46",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
     },
     {
       "added_at": "2023-04-07 04:13:46",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-04-07 04:13:46",
       "album": {
-        "name": "Do You Know My Heart",
-        "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
-      },
-      "artists": [
-        {
-          "name": "Norwegian Wood",
-          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
-        },
-        {
-          "name": "NUITNUIT",
-          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
-        }
-      ],
-      "duration_ms": 201151,
-      "name": "Do You Know My Heart (Feat. NUITNUIT)",
-      "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
-    },
-    {
-      "added_at": "2023-04-07 04:13:46",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
+    },
+    {
+      "added_at": "2023-04-07 04:13:46",
+      "album": {
+        "name": "Do You Know My Heart",
+        "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "NUITNUIT",
+          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
+        }
+      ],
+      "duration_ms": 201151,
+      "name": "Do You Know My Heart (Feat. NUITNUIT)",
+      "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
     },
     {
       "added_at": "2023-04-07 04:13:46",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-04-07 04:13:46",
       "album": {
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-04-07 04:13:46",
+      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 186441,
       "name": "\uc9c0\ucce4\uc5b4 Burned out",
       "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
-    },
-    {
-      "added_at": "2023-04-07 04:13:46",
-      "album": {
-        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
-      },
-      "artists": [
-        {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
     },
     {
       "added_at": "2023-04-07 04:13:46",

@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 475559,
+  "num_followers": 476121,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDNhNGQ2ZjgyNmIwY2ZkZjU4N2RiYjNiODhmOTM0NjAw",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU5ZjcyNjZlZmE4NGUwMDM5NDEyY2IwZDYxZjVjNjYx",
   "tracks": [
     {
       "added_at": "2023-02-09 19:51:15",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
-    },
-    {
       "added_at": "2023-03-09 17:50:54",
       "album": {
         "name": "THE DEATH OF PEACE OF MIND",
@@ -155,22 +139,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
       },
@@ -187,6 +155,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "Sam's Town",
         "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
       },
@@ -199,22 +183,6 @@
       "duration_ms": 220426,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -283,22 +251,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Would? (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -327,22 +279,6 @@
       "duration_ms": 231400,
       "name": "Animal I Have Become",
       "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "Purple (2019 Remaster)",
-        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Interstate Love Song - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -527,22 +463,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -623,22 +543,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -683,22 +587,6 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -859,6 +747,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -887,22 +791,6 @@
       "duration_ms": 126573,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1147,22 +1035,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Stay Away (feat. Machine Gun Kelly & Goody Grace)",
         "url": "https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK"
       },
@@ -1203,6 +1075,22 @@
       "duration_ms": 189920,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 228372,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1275,22 +1163,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 195390,
-      "name": "They Don't Want What We Want (And They Don't Care)",
-      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Below",
         "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
       },
@@ -1303,6 +1175,22 @@
       "duration_ms": 198927,
       "name": "Skin",
       "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 195390,
+      "name": "They Don't Want What We Want (And They Don't Care)",
+      "url": "https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1439,6 +1327,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "Saint Cecilia EP",
+        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Saint Cecilia",
+      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -1527,22 +1431,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Saint Cecilia EP",
-        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Saint Cecilia",
-      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -1607,22 +1495,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -1651,6 +1523,142 @@
       "duration_ms": 177840,
       "name": "Kiss This",
       "url": "https://open.spotify.com/track/3Zm5SMUA3JH98Aty7Zc0xr"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "LOVE LUST FAITH + DREAMS",
+        "url": "https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 275786,
+      "name": "Up In The Air",
+      "url": "https://open.spotify.com/track/0zqwz7SNny9fwqSDpIu4qN"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Ludens",
+        "url": "https://open.spotify.com/album/4IojpVltvdlDvlQ6uC6iVW"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+        }
+      ],
+      "duration_ms": 280151,
+      "name": "Ludens",
+      "url": "https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Atlas Falls",
+        "url": "https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 192370,
+      "name": "Atlas Falls",
+      "url": "https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 194463,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/6jxmo6nCMbZ0AWN8C0zdSM"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Heat Seeker",
+        "url": "https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM"
+      },
+      "artists": [
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 175342,
+      "name": "Heat Seeker",
+      "url": "https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     }
   ],
   "unique_name": "Ultimate Rock Gaming",

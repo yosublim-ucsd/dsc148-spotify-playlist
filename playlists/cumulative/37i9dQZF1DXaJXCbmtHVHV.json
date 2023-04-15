@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
+    },
+    {
+      "album": {
         "name": "Here On Earth",
         "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
       },
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174360,
       "name": "New Truck",
       "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"

@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "99,9",
+        "url": "https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130942,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n"
+    },
+    {
+      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG"
       },
@@ -3575,6 +3593,32 @@
     },
     {
       "album": {
+        "name": "Maldita Tentaci\u00f3n",
+        "url": "https://open.spotify.com/album/0w9a7qRyEYARR98kwiv1wl"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/5rRsKY7EykyWCpURh3a64G"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Maldita Tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw"
+    },
+    {
+      "album": {
         "name": "Malvivientes",
         "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
       },
@@ -3875,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Mucho Wannabe",
+        "url": "https://open.spotify.com/album/2CPbobxLI6HGnEGpDCmIo1"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226046,
+      "name": "Mucho Wannabe",
+      "url": "https://open.spotify.com/track/6yi2nyqJtGm630oXGHUYbM"
+    },
+    {
+      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
       },
@@ -3908,6 +3970,28 @@
       "duration_ms": 196370,
       "name": "M\u00e1quina de escribir",
       "url": "https://open.spotify.com/track/3ZOjsCJn1IrMaUvhX4eDje"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico B\u00e9lico",
+        "url": "https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "M\u00e9xico B\u00e9lico",
+      "url": "https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN"
     },
     {
       "album": {
@@ -4802,7 +4886,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 252865,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/4wTXGVoFvKjqvFZNgHuioe"

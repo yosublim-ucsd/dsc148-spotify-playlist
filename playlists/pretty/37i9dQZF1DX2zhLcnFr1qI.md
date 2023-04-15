@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,229 likes - 37 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,219 likes - 37 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 19 | [All I Want for Christmas](https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [JeLa](https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft) | [All I Want for Christmas](https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1) | 2:58 |
 | 20 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 21 | [Jingle Bells](https://open.spotify.com/track/6FFXHjCbfW4R34jhdHK3mB) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Happy Holidees](https://open.spotify.com/album/12ayOyjiubYv6Ak89nLSIh) | 1:52 |
-| 22 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
-| 23 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
+| 22 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
+| 23 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
 | 24 | [Santa Tell Me](https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY) | [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [An Electronic Christmas](https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc) | 2:05 |
 | 25 | [2020 Christmas](https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A) | [Dominique](https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8) | [2020 Christmas](https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq) | 2:05 |
 | 26 | [Do They Know It's Christmas](https://open.spotify.com/track/4AFTW65X9He0p8NONkBPy8) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:55 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 33 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
 | 34 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 |
 | 35 | [Christmas Days](https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Christmas Days](https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo) | 3:16 |
-| 36 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
-| 37 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
+| 36 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
+| 37 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 
-Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMGViNDk2ZDBmNjU0MGI5YWRlMjQ1ZTc5ODJmNThiZmVj`
+Snapshot ID: `MTY3Mjk0NDA4MCwwMDAwMDAwMGE3MzAyYTlkOGJjYzM1MWUzMTliMTkxYjlhMjYwYTUy`

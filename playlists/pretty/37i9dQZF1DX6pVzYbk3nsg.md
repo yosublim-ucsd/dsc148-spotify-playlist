@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 3 | [Que Bonita Bandera](https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Corazón](https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5) | 4:50 |
 | 4 | [El Doctor Guenaga](https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:32 |
 | 5 | [Bámbula](https://open.spotify.com/track/1fZXAwO0Rh3osppfV2SVAV) | [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO) | [Otro Formato de Música](https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB) | 4:56 |
-| 6 | [El Conde De Loiza](https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:15 |
-| 7 | [Mamá, cuídame a Belén](https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:11 |
+| 6 | [Mamá, cuídame a Belén](https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:11 |
+| 7 | [El Conde De Loiza](https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:15 |
 | 8 | [Que Bonita Bandera](https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg) | [Ramito](https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN) | [Raíces Borincanas](https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS) | 3:22 |
 | 9 | [Candela](https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 2:43 |
 | 10 | [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 18 | [Bomba y Plena](https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 3:56 |
 | 19 | [Medley: Mañana por la Mañana/Voy Subiendo](https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l) | [Gary Nuñez & Plena Libre](https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF) | [Regalo de Navidad](https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo) | 6:51 |
 | 20 | [La Novia Nueva](https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw) | 4:32 |
-| 21 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
+| 21 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
 | 22 | [Meli Ton Ton Be](https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:37 |
 | 23 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 |
-| 24 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
+| 24 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
 | 25 | [Afro Boricua](https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 5:38 |
 | 26 | [Soy Plenero Soy](https://open.spotify.com/track/674J7UQypQ6OjikX4XUIPn) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:02 |
 | 27 | [Pa’ un Plenero \(plena\)](https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Viento de Agua Unplugged: Materia Prima](https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Seshuque Y Balance](https://open.spotify.com/track/5PyVfVCAxsYPzHO94CzBgv) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:36 |
 | 50 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
 
-Snapshot ID: `MTY3NzAxODg1OSwwMDAwMDAwMGRiNmMzMmFjODM3ZThjOWQ3YTU5YjY2YWZkYjI0NjU0`
+Snapshot ID: `MTY3NzAxODg1OSwwMDAwMDAwMGZlNjQyOTU4ZTllZjJhMTBkMDNiYmVhZDZkYWU0YWE5`

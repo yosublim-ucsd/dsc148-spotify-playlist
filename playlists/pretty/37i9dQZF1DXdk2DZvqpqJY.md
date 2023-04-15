@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz and soft beats for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,529 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,647 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 84 | [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 |
 | 85 | [L'Autofilteur](https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 3:31 |
 | 86 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 |
-| 87 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 |
-| 88 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 |
+| 87 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 |
+| 88 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 |
 | 89 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 |
 | 90 | [no, regrets](https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 2:47 |
 | 91 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 93 | [No Chaser](https://open.spotify.com/track/6VdJXwynCKFcPU76NRJUb3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 2:56 |
 | 94 | [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 |
 | 95 | [Floatin'](https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB) | [Charlie Calz Beats](https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp) | [Floatin'](https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j) | 1:52 |
-| 96 | [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 |
-| 97 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 |
+| 96 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 |
+| 97 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 |
 | 98 | [Jumbled](https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [THE HEIST](https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W) | 3:25 |
-| 99 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 |
-| 100 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 |
+| 99 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 |
+| 100 | [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGQwOGZlYzAwYTc1YzU0MDE0ODMxMTkwMDM5MzAyOGVk`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDMzZjk3OWM0YTA2MTNkMDViNTgwZDAwYjE5ZjNiMjIw`

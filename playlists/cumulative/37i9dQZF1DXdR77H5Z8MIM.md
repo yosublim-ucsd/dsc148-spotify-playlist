@@ -4,7 +4,7 @@
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: BE'O
 
-364 songs - 20 hr 41 min
+365 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-02-14 |  |
 | [Hellevator](https://open.spotify.com/track/6UDtY4939Z6p8gwuHhXb3g) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:59 | 2021-11-17 | 2022-05-20 |
 | [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-11-17 | 2022-07-29 |
-| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2023-01-04 |  |
+| [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2023-01-04 | 2023-04-15 |
 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2022-06-18 | 2023-01-04 |
 | [HIT](https://open.spotify.com/track/0xHgclG2TeqIzB8N3Wb5rP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HIT](https://open.spotify.com/album/36HsGgJsOHL4cHqR4J2GEU) | 3:23 | 2021-11-17 | 2022-01-27 |
 | [Home](https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:23 | 2023-03-15 | 2023-04-01 |
@@ -334,6 +334,7 @@
 | [TT](https://open.spotify.com/track/5KfbFCacFuNJGdK2zvovcF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/6Ib9CGdtxU34pR0Qp60Ht3) | 3:32 | 2021-11-17 | 2022-07-27 |
 | [TWILIGHT](https://open.spotify.com/track/7ruu3WCZipZT9ST11iI7WV) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : First Sight](https://open.spotify.com/album/4vVljcTg81LAhaD7vQAoFu) | 3:20 | 2021-11-17 | 2022-02-28 |
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2022-02-23 | 2022-05-22 |
+| [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2023-04-15 |  |
 | [Violeta](https://open.spotify.com/track/0ahbzg4GCq3wJzUM3cjS3N) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 3:20 | 2022-02-23 | 2022-05-20 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-06-18 | 2023-01-04 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2021-11-17 | 2022-02-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,854 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,882 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 53 | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/track/3Q5cLvkKsHJvYltf8k7HkO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/1zg6QT0eGqLBlhAT2FPoFj) | 3:51 |
 | 54 | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V) | 3:39 |
 | 55 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 |
-| 56 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 |
+| 56 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 |
 | 57 | [Sold Out Dates](https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sold Out Dates](https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG) | 2:21 |
 | 58 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
 | 59 | [Lock It Up \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 2:50 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 63 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
 | 64 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
 | 65 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 |
-| 66 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
+| 66 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 67 | [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 |
 | 68 | [Tren Thomas](https://open.spotify.com/track/2215X6fteco2cgMa8I8ifV) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Tren Thomas](https://open.spotify.com/album/63Bc1jFmC0eRj07FrE12tF) | 3:15 |
 | 69 | [Cascada](https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,503 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,824 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 34 | [Cool Water](https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:09 |
 | 35 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
 | 36 | [The Shot\-Gun Boogie](https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 2:35 |
-| 37 | [Stay a Little Longer](https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:20 |
-| 38 | [Canned Heat \- Buddha Remastered \- 2000](https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE) | [Chet Atkins & His Colorado Mountain Boys](https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1) | [Guitar Legend: The RCA Years](https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0) | 2:32 |
+| 37 | [Canned Heat \- Buddha Remastered \- 2000](https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE) | [Chet Atkins & His Colorado Mountain Boys](https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1) | [Guitar Legend: The RCA Years](https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0) | 2:32 |
+| 38 | [Stay a Little Longer](https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:20 |
 | 39 | [Bouquet of Roses](https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:32 |
 | 40 | [Old Nevada Moon](https://open.spotify.com/track/3rhYzTf2LKvMd4K0JkcL3E) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:56 |
 | 41 | [Jingle Jangle Jingle](https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 50 | [Straighten Up And Fly Right](https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:26 |
 | 51 | [Candy Kisses \- 78 rpm Version](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
 | 52 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 |
-| 53 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
-| 54 | [Slowpoke](https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Country Hoedown](https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId) | 2:56 |
+| 53 | [Slowpoke](https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM) | [Pee Wee King](https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2) | [Country Hoedown](https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId) | 2:56 |
+| 54 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
 | 55 | [Invisible Stripes](https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Psycho \- The K\-Ark and Allstar Recordings 1962\-1969](https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6) | 2:20 |
 | 56 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
 | 57 | [Born to Lose](https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY) | [Ted Daffan's Texans](https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq) | [Columbia Country Classics Volume 1: The Golden Age](https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V) | 2:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
 | 70 | [Cherokee Maiden](https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:53 |
 
-Snapshot ID: `MTY3MjY5NjIzMiwwMDAwMDAwMDc5ZmYwYzJiYjA4YzRiNWIzZTA4YmQxNjE0YjVhMTY2`
+Snapshot ID: `MTY3MjY5NjIzMiwwMDAwMDAwMDAxNTI5ODhiNDI2ZTc2NWMwMTE3MmJkZGY1MmU0ZmM1`

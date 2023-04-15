@@ -2,9 +2,9 @@
 
 ### [Streets Of Gold](https://open.spotify.com/playlist/37i9dQZF1DXdP7Xdr0y4p4)
 
-> An essential list of recent hits of SoGo\.  Cover: The Guardians
+> An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-147 songs - 9 hr 19 min
+148 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Church of the Great I Am](https://open.spotify.com/track/3UaRwZMjw140KkSrtc1ULO) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [More to the Story](https://open.spotify.com/album/4xdKJAW8nrvV3iS5lpjE4K) | 3:14 | 2021-10-29 | 2022-08-28 |
 | [Come and Dine](https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6) | [William Lee Golden and The Goldens](https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX) | [Come and Dine](https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC) | 2:29 | 2021-10-29 |  |
 | [Every Other Throne](https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig) | [Hebron Road](https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51) | [In a Moment](https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe) | 5:06 | 2022-08-27 |  |
-| [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 | 2021-10-29 |  |
+| [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 | 2021-10-29 | 2023-04-15 |
 | [Everyday](https://open.spotify.com/track/1eanEK6p990gBoG6jORXb4) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/6hU1RkXOJRXhwybcfWaKve) | 3:45 | 2021-10-29 | 2022-07-29 |
 | [Everyday](https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 3:45 | 2021-10-29 |  |
 | [Faith Like That](https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9) | [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG) | [All Things New](https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe) | 3:39 | 2021-10-29 |  |
@@ -92,6 +92,7 @@
 | [My Name Is Jesus](https://open.spotify.com/track/4YCt6MI1Q2SXgPwd8KytpO) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [I Still Need Him](https://open.spotify.com/album/1RAQZp4SUgNfFoZN3NulUu) | 5:11 | 2021-10-29 |  |
 | [No Bones About It](https://open.spotify.com/track/0jrbL1mvRUpTaxvUDlPlrt) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/2mK1OSCYxXpeHgh4kUZm0D) | 2:51 | 2021-10-29 | 2022-07-29 |
 | [No Bones About It](https://open.spotify.com/track/7IdjRdGpf5aLXrZfh9cUFl) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [We Will Stand Our Ground](https://open.spotify.com/album/3KoNQ5R7a9Yz7MEzqyQtE7) | 2:51 | 2021-10-29 | 2022-08-28 |
+| [No One Greater](https://open.spotify.com/track/2o8GNK8ydsmYvQxCrs17wT) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Breakthrough](https://open.spotify.com/album/5MT0vqFrhs9mRUzvT8feKb) | 4:16 | 2023-04-14 |  |
 | [Not For Long](https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Not For Long](https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62) | 3:50 | 2022-08-27 |  |
 | [O What a Day](https://open.spotify.com/track/61q2hdnQiDRSWTVAVeHefa) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [A Pioneer Legacy](https://open.spotify.com/album/2qqnHI9X0Wlv5KIBe9HfPQ) | 1:59 | 2022-08-27 |  |
 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 | 2022-08-27 |  |

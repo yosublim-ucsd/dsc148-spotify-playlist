@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Justend\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,040 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,992 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,16 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 61 | [Prettiest Bitch](https://open.spotify.com/track/4nb74on2zXeU0Klk48wL0A) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Prettiest Bitch](https://open.spotify.com/album/0JJLIOAjG35L0gePSTWtYK) | 2:50 |
 | 62 | [Somebody can love you](https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ) | [Young Combo](https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL) | [Somebody can love you](https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8) | 2:45 |
 | 63 | [Before The Dawn](https://open.spotify.com/track/4dYtUInvejpxihZgV03QVM) | [Omar Andino](https://open.spotify.com/artist/6W7hzb76Wv2tCwX7mfFe0z) | [Before The Dawn](https://open.spotify.com/album/3oc1NZrCDUAP6jgXvzcKaP) | 3:45 |
-| 64 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 |
-| 65 | [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 |
-| 66 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 |
-| 67 | [try again](https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 4:14 |
-| 68 | [Happier](https://open.spotify.com/track/7bh8iyEh9w4j0avFN2bIJR) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Happier](https://open.spotify.com/album/5PmkyJvYmwTljLWcpWOjQm) | 3:22 |
-| 69 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
-| 70 | [Done With the Day](https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q) | 3:30 |
-| 71 | [Soft Heat](https://open.spotify.com/track/2r1mCnEoVniAzaq3qOa493) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Soft Heat](https://open.spotify.com/album/6iPUZR7sWHl8dArPYeiN3K) | 3:04 |
-| 72 | [Penetración](https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT) | [Isabel Do Diego](https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ) | [Penetración](https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc) | 3:19 |
-| 73 | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/track/5kYwg6VjXxq33Ur7MYwfCb) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/album/6EPQ2xDyB71ZdEis7MVNlg) | 2:07 |
-| 74 | [Higher](https://open.spotify.com/track/5ju2w8RfI79r2fE3nTOXDK) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Higher](https://open.spotify.com/album/7Hw5AFpacyOqZ208oWRUJY) | 3:28 |
+| 64 | [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 |
+| 65 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 |
+| 66 | [try again](https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 4:14 |
+| 67 | [Happier](https://open.spotify.com/track/7bh8iyEh9w4j0avFN2bIJR) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Happier](https://open.spotify.com/album/5PmkyJvYmwTljLWcpWOjQm) | 3:22 |
+| 68 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
+| 69 | [Done With the Day](https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q) | 3:30 |
+| 70 | [Soft Heat](https://open.spotify.com/track/2r1mCnEoVniAzaq3qOa493) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Soft Heat](https://open.spotify.com/album/6iPUZR7sWHl8dArPYeiN3K) | 3:04 |
+| 71 | [Penetración](https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT) | [Isabel Do Diego](https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ) | [Penetración](https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc) | 3:19 |
+| 72 | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/track/5kYwg6VjXxq33Ur7MYwfCb) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/album/6EPQ2xDyB71ZdEis7MVNlg) | 2:07 |
+| 73 | [Higher](https://open.spotify.com/track/5ju2w8RfI79r2fE3nTOXDK) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Higher](https://open.spotify.com/album/7Hw5AFpacyOqZ208oWRUJY) | 3:28 |
 
-Snapshot ID: `MTY4MTMzOTE2OSwwMDAwMDAwMDgyOGY4ZjEyNWJkNGY4NDk5NTBkY2IyMmQzYTgxMjgz`
+Snapshot ID: `MTY4MTQ5MjAyNiwwMDAwMDAwMDU4NTUzNjI2OTkxYTFkZTdiNGNjNWVjOTk2Yjc0NTRj`

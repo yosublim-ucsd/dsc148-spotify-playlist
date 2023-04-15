@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-710 songs - 1 day 16 hr 46 min
+712 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2021-09-09 |  |
 | [Parallel](https://open.spotify.com/track/5Jg7Qhb7QgXHaKIlcRn8CK) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Parallel](https://open.spotify.com/album/5TAPx8rt1i2YaAXA93vOne) | 7:16 | 2020-11-19 | 2020-12-02 |
 | [Parasol Paradise](https://open.spotify.com/track/0G42P5rpaqBp0dKWxG7OOo) | [Sunrise Collective](https://open.spotify.com/artist/63ADxbQmSnhOMqafX8Bfo6) | [Parasol Paradise](https://open.spotify.com/album/0PdU9sY4v5t0i5zuIJyeg8) | 2:46 | 2022-01-21 |  |
+| [paris](https://open.spotify.com/track/1glNxuJz4qAUyYmauaYD9I) | [Rosi Peloni](https://open.spotify.com/artist/1VgCv8r28xEc11pDhmJSWf) | [paris](https://open.spotify.com/album/6kEPoi0sevh73Wyi2UVNC5) | 2:19 | 2023-04-14 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2021-06-02 |  |
 | [Passing By](https://open.spotify.com/track/28lMyaJBMmgvw4Cn4OvoeH) | [Monday Motive](https://open.spotify.com/artist/4bCmFKZPJZBIZeQ5qVzIyN) | [Passing By](https://open.spotify.com/album/7tj4fpjyhDvNyPgp76Zhlb) | 3:05 | 2021-03-18 | 2022-10-14 |
 | [Peace](https://open.spotify.com/track/1vHmv7gLhEKSutMPCnHltv) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Peace](https://open.spotify.com/album/3UisgcnczLQpCiAEakEyj1) | 2:19 | 2022-12-09 |  |
@@ -543,6 +544,7 @@
 | [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 | 2021-06-02 | 2022-09-02 |
 | [See Em' Dancing](https://open.spotify.com/track/1mBzumW8DcPEqqJkClUXMN) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [See Em' Dancing](https://open.spotify.com/album/6UHPW3timr7sHxY8e3tCWR) | 4:04 | 2022-07-15 | 2022-08-05 |
 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 | 2021-09-09 |  |
+| [Select It](https://open.spotify.com/track/0aSfCc675yCDs2k8nfJiHr) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [Select It](https://open.spotify.com/album/44sgbHXrS43LtjvDEdyRjo) | 2:38 | 2023-04-14 |  |
 | [Self Care](https://open.spotify.com/track/3urwxkDqkgj3f1yMNvjDat) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Good Rising](https://open.spotify.com/album/6FpPtyj1Q86xBCiHgAKxL6) | 2:31 | 2021-04-15 | 2021-06-16 |
 | [Sentimental Road](https://open.spotify.com/track/6IDnWHdHKFbMPH9KgbPT5I) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [My Foolish Heart](https://open.spotify.com/album/1w4bu1vjEeZEUWttpCGxdM) | 6:20 | 2020-12-02 | 2020-12-09 |
 | [Sepal](https://open.spotify.com/track/6kCjJBSJJEhekXIK8vjhUZ) | [JMesa](https://open.spotify.com/artist/5ZNXdxiULniz44HffkKmGC) | [Sepal](https://open.spotify.com/album/6y9ctlthL6v9SM3hTHrAnV) | 4:39 | 2022-09-02 |  |

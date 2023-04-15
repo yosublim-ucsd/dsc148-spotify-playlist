@@ -4,7 +4,7 @@
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-221 songs - 13 hr 29 min
+222 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 | 2022-02-25 | 2022-12-31 |
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-05-27 | 2022-10-15 |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 |  |
+| [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 | 2023-04-14 |  |
 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 |  |
 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 | 2022-02-25 |  |
 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 | 2022-02-25 |  |
@@ -224,7 +225,7 @@
 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L) | 3:39 | 2022-09-30 | 2023-01-01 |
 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 | 2022-12-30 |  |
 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3gPUFEEuGfZ4jTckTJrgUE) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/album/78lpvl9BAUf8x5yre7b4vF) | 3:39 | 2022-12-30 | 2023-01-05 |
-| [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 |  |
+| [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-18 | 2023-04-15 |
 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 | 2022-02-25 |  |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-02-25 | 2022-03-26 |
 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 | 2022-02-25 |  |

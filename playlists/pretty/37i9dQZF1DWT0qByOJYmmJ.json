@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 608866,
+  "num_followers": 609059,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMDIxNjBjN2ExOWZlZTdkNjhkODVjYWE1NTFiNDdiZDhi",
+  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMGI0MDdlNDNmYWQxY2RmMzE2YjE0MDg4ZGRjMDM3ODNj",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Primeras Canciones",
         "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 199936,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2023-02-24 17:40:22",

@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ"
+      },
+      "artists": [
+        {
+          "name": "m4x",
+          "url": "https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129964,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq"
+    },
+    {
+      "album": {
         "name": "OUTOFBODY",
         "url": "https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn"
       },
@@ -692,7 +710,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
@@ -889,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Hate.",
+        "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Hate.",
+      "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "album": {
         "name": "have you had enough?",
         "url": "https://open.spotify.com/album/1PXCNZP2ZdEDvKbXZ4O54Q"
       },
@@ -922,7 +958,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164528,
       "name": "Heavy Jacket",
       "url": "https://open.spotify.com/track/5NxwAYPr4gyc7gLmhZHwAl"
@@ -940,7 +976,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 227560,
       "name": "highscore!",
       "url": "https://open.spotify.com/track/2crXnfUgYV2a5yfMWOmQdT"
@@ -1135,6 +1171,42 @@
     },
     {
       "album": {
+        "name": "i wna be like you",
+        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "i wna be like you",
+      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
+    },
+    {
+      "album": {
+        "name": "High School Football",
+        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "I'll Be Damned",
+      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
+    },
+    {
+      "album": {
         "name": "ihatefeelingthisway",
         "url": "https://open.spotify.com/album/72me9cMEdcQxa0uwvEijen"
       },
@@ -1146,7 +1218,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 223921,
       "name": "ihatefeelingthisway",
       "url": "https://open.spotify.com/track/3IP5kKSUkqZcOLraMddHJy"
@@ -1182,7 +1254,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 139780,
       "name": "Internet Girl",
       "url": "https://open.spotify.com/track/3Qo8zqhdyVxacgVJGIQF4u"
@@ -1240,7 +1312,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 215431,
       "name": "just like before - sped up",
       "url": "https://open.spotify.com/track/3w8rxEsj85AOAjt4TUUXmW"
@@ -1280,10 +1352,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162177,
       "name": "KIDS",
       "url": "https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4"
+    },
+    {
+      "album": {
+        "name": "coward",
+        "url": "https://open.spotify.com/album/1vo8d9FSCr5UfDxHTL3IHc"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "know how it felt",
+      "url": "https://open.spotify.com/track/4AXFBdy4wYLI4pwP1p9kqJ"
     },
     {
       "album": {
@@ -1298,7 +1388,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 138000,
       "name": "let her go",
       "url": "https://open.spotify.com/track/2ovFPM5cL34Mo5ZsOD0F7N"
@@ -1450,7 +1540,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 109560,
       "name": "Muse",
       "url": "https://open.spotify.com/track/51R1xeUf5cPnZRqsnndBxo"
@@ -1497,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "never let you leave",
+        "url": "https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII"
+      },
+      "artists": [
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126296,
+      "name": "never let you leave",
+      "url": "https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N"
+    },
+    {
+      "album": {
         "name": "PERFECT!",
         "url": "https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580"
       },
@@ -1526,7 +1634,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 234187,
       "name": "numbers station",
       "url": "https://open.spotify.com/track/10omTPgbmMKhrB1d6fbyWk"
@@ -1642,7 +1750,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 159380,
       "name": "Pity Sex",
       "url": "https://open.spotify.com/track/2n9oB3ftDuSv6mEtDWfU3R"
@@ -1906,7 +2014,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166413,
       "name": "save yourself first",
       "url": "https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT"
@@ -2050,7 +2158,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 149627,
       "name": "sos",
       "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
@@ -2158,7 +2266,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201977,
       "name": "starfruit",
       "url": "https://open.spotify.com/track/3k1pThlE9Yb7JNy32drS6Q"

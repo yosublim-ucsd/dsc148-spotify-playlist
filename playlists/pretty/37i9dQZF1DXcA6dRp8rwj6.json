@@ -1,13 +1,33 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: tlinh)",
-  "num_followers": 420566,
+  "num_followers": 420795,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMzg2MSwwMDAwMDAwMDI3MzQyY2Y3NGVmOGViYWUyZjA4OTZjMTgxNWJkOGUx",
+  "snapshot_id": "MTY4MTQzMzg2MSwwMDAwMDAwMDM4MGZiMTA1MjU2YTU0NmMzYWI4NjI0Yzc0OTE5ZGNh",
   "tracks": [
+    {
+      "added_at": "2023-04-14 00:57:41",
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
     {
       "added_at": "2023-04-14 00:57:41",
       "album": {
@@ -115,6 +135,22 @@
     {
       "added_at": "2023-04-14 00:57:41",
       "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 220556,
+      "name": "TALK DIFFERENT",
+      "url": "https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm"
+    },
+    {
+      "added_at": "2023-04-14 00:57:41",
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/74bJAFB6hCl8XdTPc8fDqp"
       },
@@ -143,6 +179,26 @@
       "duration_ms": 96681,
       "name": "21",
       "url": "https://open.spotify.com/track/74qTkUdWvA41zDIETDRlzb"
+    },
+    {
+      "added_at": "2023-04-14 00:57:41",
+      "album": {
+        "name": "Chrome Hearted (feat. Tyga)",
+        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Chrome Hearted (feat. Tyga)",
+      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
     },
     {
       "added_at": "2023-04-14 00:57:41",
@@ -295,6 +351,26 @@
       "duration_ms": 205996,
       "name": "gh\u1ec7 iu d\u1ea5u c\u1ee7a em \u01a1i",
       "url": "https://open.spotify.com/track/27fqy8VruqYZlKiK1qfwEd"
+    },
+    {
+      "added_at": "2023-04-14 00:57:41",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
     },
     {
       "added_at": "2023-04-14 00:57:41",
@@ -475,8 +551,8 @@
     {
       "added_at": "2023-04-14 00:57:41",
       "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/3qj12s6OGIhd91wUQ0VUl0"
+        "name": "No Signal",
+        "url": "https://open.spotify.com/album/3BLcsAbU41bMIhW3s37bMK"
       },
       "artists": [
         {
@@ -486,7 +562,7 @@
       ],
       "duration_ms": 137602,
       "name": "Notice Me",
-      "url": "https://open.spotify.com/track/0hxn9WQw3d8rHKhUPC7j8X"
+      "url": "https://open.spotify.com/track/0y5ychpMHo8cdpKks8qhag"
     },
     {
       "added_at": "2023-04-14 00:57:41",
@@ -567,8 +643,8 @@
     {
       "added_at": "2023-04-14 00:57:41",
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
       "artists": [
         {
@@ -582,7 +658,7 @@
       ],
       "duration_ms": 218920,
       "name": "Misty",
-      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
+      "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
     },
     {
       "added_at": "2023-04-14 00:57:41",

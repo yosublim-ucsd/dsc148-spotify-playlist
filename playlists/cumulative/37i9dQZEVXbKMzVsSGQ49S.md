@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,237 songs - 2 day 19 hr 59 min
+1,238 songs - 2 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-30 | 2022-08-06 |
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2022-02-28 | 2022-03-13 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2022-02-15 | 2022-02-28 |
-| [All I Need Forever](https://open.spotify.com/track/6AoN87c4pPmG9fcxT2fie2) | [J Young MDK](https://open.spotify.com/artist/2Y3TfEfR86AHux0QFAcB1R) | [All I Need Forever](https://open.spotify.com/album/7iF2G0LtoflYHx6iOj1h1P) | 3:38 | 2023-04-08 |  |
+| [All I Need Forever](https://open.spotify.com/track/6AoN87c4pPmG9fcxT2fie2) | [J Young MDK](https://open.spotify.com/artist/2Y3TfEfR86AHux0QFAcB1R) | [All I Need Forever](https://open.spotify.com/album/7iF2G0LtoflYHx6iOj1h1P) | 3:38 | 2023-04-08 | 2023-04-15 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-11-08 | 2023-01-02 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2021-11-21 | 2021-11-27 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-14 | 2021-11-27 |
@@ -994,6 +994,7 @@
 | [Stjörnulífið Intro](https://open.spotify.com/track/5sOcNP2uMSGYFt4iqF2hE3) | [Yung Nigo Drippin'](https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG) | [Stjörnulífið](https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE) | 0:54 | 2023-01-07 | 2023-01-09 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-28 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-04-21 |
+| [Strong Ting](https://open.spotify.com/track/3TM0owiKZmewQBdXnkSBWO) | [Duncan Daniels](https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL), [Yadima](https://open.spotify.com/artist/7lxeVOSdsLBhh4hAs52LLD), [DEMOLA](https://open.spotify.com/artist/5cUFIkBWAwJOJZDEiACH6m) | [Strong Ting](https://open.spotify.com/album/1pkDbJ4ci4HgENqe1aNkVl) | 3:03 | 2023-04-14 |  |
 | [Stundum snýst heimurinn gegn þér](https://open.spotify.com/track/6yxe3mjWdK9hzDk61EG2ar) | [BRAGI](https://open.spotify.com/artist/6zDmSdnWH55mWy9oqqVEZE) | [Söngvakeppnin 2023](https://open.spotify.com/album/5W1dK6cjGRBQeOF1uQpbMd) | 3:02 | 2023-02-20 | 2023-03-07 |
 | [Styttist í það](https://open.spotify.com/track/3veY63DgDUzZB44wMUQVz8) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD) | [Styttist í það](https://open.spotify.com/album/4m5TkvBEDK9gos7CS3voRs) | 3:23 | 2021-11-14 | 2022-01-04 |
 | [Styttist í það](https://open.spotify.com/track/6YM1HkXJshC0gA5bGNhnFb) | [Baggalútur](https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD), [Bryndis Jakobsdottir](https://open.spotify.com/artist/0DhIXgQNwZlP63RyqKiiiD) | [Jólasjór](https://open.spotify.com/album/2KmT2h3FQAUcjjDbVzTEoC) | 3:23 | 2022-12-03 | 2022-12-29 |

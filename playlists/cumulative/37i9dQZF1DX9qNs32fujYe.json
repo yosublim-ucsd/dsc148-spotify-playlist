@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Metallica",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Ghost",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 335146,
       "name": "Broken Cog",
       "url": "https://open.spotify.com/track/6AkUaYmKQMW7EhzqPqYB5n"
@@ -5577,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "album": {
         "name": "Jinnslammer",
         "url": "https://open.spotify.com/album/6W3LQ5tl5c3srkHOjfG7N9"
       },
@@ -5646,6 +5664,24 @@
       "duration_ms": 395500,
       "name": "Kai Tangata",
       "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
+    },
+    {
+      "album": {
+        "name": "Keeper of the Celestial Flame of Abernethy",
+        "url": "https://open.spotify.com/album/3mekZiHdAwHqO9CE5XgrzI"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200458,
+      "name": "Keeper of the Celestial Flame of Abernethy",
+      "url": "https://open.spotify.com/track/37wXJXAHLBxOcGdwMaFbEb"
     },
     {
       "album": {
@@ -5840,7 +5876,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 256068,
       "name": "Knives",
       "url": "https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH"
@@ -6470,7 +6506,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274202,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/4Avnu5FR70qWD9VxandTWe"
@@ -7768,6 +7804,24 @@
       "duration_ms": 266053,
       "name": "Paint the Sky with Blood",
       "url": "https://open.spotify.com/track/7j0DSyekwDBBkAesbD5bzH"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241153,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
     },
     {
       "album": {
@@ -12686,6 +12740,24 @@
       "duration_ms": 258227,
       "name": "Wolves in Winter",
       "url": "https://open.spotify.com/track/6tk9GCcjDX5racqg7r6M4R"
+    },
+    {
+      "album": {
+        "name": "Interludium (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6GT4LxMljVb8iEe4G3vgJk"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238186,
+      "name": "Wolves Of War",
+      "url": "https://open.spotify.com/track/5ciIVxJBbI45h6wvLKxFT7"
     },
     {
       "album": {

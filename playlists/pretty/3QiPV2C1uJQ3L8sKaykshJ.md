@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from the women of RCA Records featuring music from SZA, Latto, Fousheé, Elle King, and more\. Cover: SZA
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,229 likes - 51 songs - 2 hr 47 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,228 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
+| 1 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 2 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 3 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 4 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
@@ -54,10 +54,11 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 | 44 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |
 | 45 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/1uMmvZ8fmYUinSVbs5HTpK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [P2J](https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:30 |
 | 46 | [Never Gonna Not Dance Again](https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:45 |
-| 47 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
-| 48 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 |
-| 49 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
-| 50 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
-| 51 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/0PspnH1gJYzr1NGqYRK3IO) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:43 |
+| 47 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
+| 48 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
+| 49 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 |
+| 50 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
+| 51 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
+| 52 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/0PspnH1gJYzr1NGqYRK3IO) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:43 |
 
-Snapshot ID: `MjMxNSw5MGNlNmNmNTNmNGMyYzg1NWEyYTBjNjdmYzMyNDg0MWUwMDJlZmZh`
+Snapshot ID: `MjMxOSxlMWYyNjYwNTIzZjAzOGUxODhjODhjNGUyNGQ1MGQzMjNhYWMxZDc2`

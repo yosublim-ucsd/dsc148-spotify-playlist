@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Whyte Fang
 
-587 songs - 1 day 8 hr 14 min
+588 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [updown](https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [updown](https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ) | 2:45 | 2023-02-16 | 2023-03-10 |
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-13 |  |
 | [Used to Losing You](https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Used to Losing You](https://open.spotify.com/album/0SO9gIl0UKy42daxkuXtNT) | 4:25 | 2023-02-02 | 2023-02-24 |
+| [VIOLENT BEHAVIOUR](https://open.spotify.com/track/7eqfazRxRtKoIZuWunzCkl) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [VIOLENT BEHAVIOUR](https://open.spotify.com/album/1Wuax4YjdRjpExMLw40fNh) | 3:01 | 2023-04-14 |  |
 | [Voices](https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Voices](https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz) | 3:40 | 2023-01-26 | 2023-02-17 |
 | [Wake Me Up](https://open.spotify.com/track/0gJfMJKBhvClIkBV6AmHvs) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Wake Me Up](https://open.spotify.com/album/3SGXMMIGMnIUzzmLV3gcf6) | 4:11 | 2023-03-09 | 2023-03-31 |
 | [Walk Away](https://open.spotify.com/track/2CrKkK4Bd3TPkBVtI6IXi0) | [REPAIR](https://open.spotify.com/artist/0xLqXvK6horF4enARe8AIN), [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Walk Away](https://open.spotify.com/album/59uxFHzPPuMiX2UwuU8PBN) | 4:24 | 2023-02-09 | 2023-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,567 likes - 80 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,756 likes - 80 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 38 | [Heart Of Glass \- Remix](https://open.spotify.com/track/5Q8SPijJts3lV4fcmCrZXp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Once More Into The Bleach](https://open.spotify.com/album/3KqhlIxtnXfWJfi445kI8X) | 5:51 |
 | 39 | [I Can Lose My Heart Tonight \- Maxi\-Version](https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh) | [C.C\. Catch](https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq) | [The 80's Album](https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ) | 5:52 |
 | 40 | [Domino Dancing \- 2018 Remaster](https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 7:40 |
-| 41 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
-| 42 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
+| 41 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
+| 42 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
 | 43 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
 | 44 | [Relax \- New York Mix](https://open.spotify.com/track/008gS3ob2GZv3e9fkWQ1k7) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh) | 7:24 |
 | 45 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 71 | [Open Sesame \- Original 12" Extended Version](https://open.spotify.com/track/6byGMdwFLHl4KNAk9i7Dom) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 8:44 |
 | 72 | [Don't Look Any Further \- Original 12” M+M Mix](https://open.spotify.com/track/03qJBUtJvcKKqvsySHCJHi) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Don't Look Any Further \(Expanded Edition\)](https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk) | 5:23 |
 | 73 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
-| 74 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 |
+| 74 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 | 75 | [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/2IilSSaVhuQLjCqlubC4qE) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Collections](https://open.spotify.com/album/4zEi9uAv9KKrYTG2bLDeCT) | 5:09 |
 | 76 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 | 77 | [Get Down On It \- Original 12" Extended Version](https://open.spotify.com/track/15K0cU9Fm55h3AAALKrc3v) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 6:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [White Lines \(Long Version\) \[Re\-Recorded\]](https://open.spotify.com/track/0Dj3iMM3fvHMOqWsqS64Fu) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [Hip Hop Soundtrack To The Concrete Jungle \(Re\-Recorded\)](https://open.spotify.com/album/5bl0ggdoV1nNEGuVkUG9c3) | 7:45 |
 | 80 | [Pulstar](https://open.spotify.com/track/617Q6rtyEGRhWGCPRYFs1x) | [Hypnosis](https://open.spotify.com/artist/7GlFV8o2NCkvCu29FMZkUb) | [80s Hit News](https://open.spotify.com/album/5nROXEanX68PMIOLdAw91D) | 3:49 |
 
-Snapshot ID: `MTY3MTgwNDIyOCwwMDAwMDAwMGVjNDZkOWUzZjRjMDBkMjI1NTNiMjM3ODBhMmVmNmU4`
+Snapshot ID: `MTY3MTgwNDIyOCwwMDAwMDAwMDVjMzdlMGIxZDA2ODQ5NzZlNjM3NGU2N2IxMTEzNDdh`

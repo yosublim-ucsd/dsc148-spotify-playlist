@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,062,224 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,062,902 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 99 | [Nada Es Como Tú \- Acústico](https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Apague la Luz y Escuche](https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN) | 3:30 |
 | 100 | [No Puedo Dejarte de Amar \(with Jesús Navarro\)](https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 5:17 |
 
-Snapshot ID: `MTY4MDYzNDQ5MiwwMDAwMDAwMGI2YjA2MmQ5YWVjZGU1ZTFiM2JkZjc5MDkxNmUxMjIy`
+Snapshot ID: `MTY4MTQ5MzE1NywwMDAwMDAwMDY5OTMwNDY5ODk3MjBhMTQyMzg0YjQ0YjE4OTEyMTBi`

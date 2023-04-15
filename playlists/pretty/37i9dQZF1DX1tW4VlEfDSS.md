@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,237 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,296 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 54 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 | 55 | [Ghetto Rock](https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Hope](https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL) | 3:02 |
 | 56 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
-| 57 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
-| 58 | [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 |
+| 57 | [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 |
+| 58 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
 | 59 | [Closer](https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ) | 4:10 |
 | 60 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDA3MzQ0MjVhMDAwMzgzOTEzMmQwMTIwZTU0ODIxMWQw`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDRlNjQyMGIxZmFiYjk1ZWY0NjdhZjFiZTRmNjdhZjQz`

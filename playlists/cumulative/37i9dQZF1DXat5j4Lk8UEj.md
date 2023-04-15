@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-219 songs - 13 hr 56 min
+220 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 | 2021-12-09 | 2022-07-29 |
 | [Colorblind](https://open.spotify.com/track/0iAB1A8B5jHPrkfWWyrvj5) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Colorblind](https://open.spotify.com/album/0KxmyxNOqRRKGgBmApF3xj) | 3:28 | 2021-12-09 | 2022-07-28 |
 | [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 | 2021-12-09 | 2022-12-13 |
-| [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 | 2021-12-09 |  |
+| [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 | 2021-12-09 | 2023-04-15 |
 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 | 2021-12-09 | 2022-04-25 |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 |  |
 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 | 2021-12-09 | 2022-01-19 |
@@ -48,6 +48,7 @@
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 | 2021-12-09 |  |
 | [Doobie Bronson](https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:23 | 2021-12-09 |  |
 | [Down in the Country](https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2) | 3:34 | 2021-12-09 |  |
+| [Down In The Dirt](https://open.spotify.com/track/7tOqak4EI2F6D1x6Qa1FnL) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Down In The Dirt](https://open.spotify.com/album/0q7qdiuMBPLB19eAJSDM25) | 3:35 | 2023-04-14 |  |
 | [Elastic Heart](https://open.spotify.com/track/5QUBz8NnN1LfHTckvldMNc) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/2pgXrkogTz9L82tULHZekY) | 4:17 | 2022-02-17 | 2023-03-16 |
 | [Elastic Heart](https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC) | 4:17 | 2022-02-17 | 2022-11-12 |
 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 | 2022-02-17 |  |

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Don Joe, Guè, Rondodasosa e tanti altri 🔥
 
-1,591 songs - 3 day 0 hr 39 min
+1,592 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -909,7 +909,7 @@
 | [Milwaukee Bucks '71](https://open.spotify.com/track/6k3kpwSESFvlfpZcjAxecg) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Doye](https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF), [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn) | [Milwaukee Bucks '71](https://open.spotify.com/album/18z0gN0EdRiN6kS9nteqoR) | 2:15 | 2023-04-06 |  |
 | [Minaccia](https://open.spotify.com/track/0RbhNJIb0vOtLbFlcBN3lx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Minaccia](https://open.spotify.com/album/0jBPzPKM05G6OyULtiaq9p) | 2:41 | 2023-03-03 | 2023-04-07 |
 | [Mind](https://open.spotify.com/track/4aOW5YsaqkDvVSQXP7C2Z4) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Mind](https://open.spotify.com/album/4ltfCHeEaOjQkjvtAeHbQF) | 1:48 | 2022-12-09 | 2022-12-16 |
-| [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH) | 3:26 | 2023-04-13 |  |
+| [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MIRAGE \(feat\. Ozuna, Sfera Ebbasta & GIMS\)](https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH) | 3:26 | 2023-04-13 |  |
 | [MISFIT](https://open.spotify.com/track/1VyYdZuLF2y7a8hsZFf3BJ) | [Cherry Ills](https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3) | [MISFIT](https://open.spotify.com/album/6rA53FxoXxcKjhmb01CJkP) | 1:33 | 2022-06-09 | 2022-06-17 |
 | [MISS YOU](https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb) | [ZE7E](https://open.spotify.com/artist/7jjCGirkG8ErxZkrVijR5n) | [MISS YOU](https://open.spotify.com/album/570ebPHKPWtW1K7jInF0Ic) | 3:10 | 2022-09-15 | 2022-10-07 |
 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 | 2023-03-16 |  |
@@ -1168,6 +1168,7 @@
 | [Proiettile RMX](https://open.spotify.com/track/0Q5grgMsDKEakF03Ni8JtS) | [Sunnyxrisis](https://open.spotify.com/artist/2Kr0BvVhkEHQkYAYk5B750), [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u) | [Proiettile RMX](https://open.spotify.com/album/2sdNVOnCXEmpLP5FlsxFSE) | 4:08 | 2023-03-30 | 2023-04-07 |
 | [PROMESSO](https://open.spotify.com/track/0Ew6sQQMxXcQiXjReT8YOv) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [PROMESSO](https://open.spotify.com/album/2VhxXSlxBrMwg8ItYopzDZ) | 2:36 | 2023-04-06 |  |
 | [Pronto](https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pronto](https://open.spotify.com/album/3WaCFgHj2H2dWIlzvbTb47) | 1:55 | 2023-04-13 |  |
+| [PROZAC](https://open.spotify.com/track/35exRd1JBdAV03NvziRYs4) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN) | [PROZAC](https://open.spotify.com/album/2e23M3Yc5hSRI91lv4Pke4) | 2:49 | 2023-04-14 |  |
 | [PRR PRR \#2](https://open.spotify.com/track/0KzwcPTbXLvlxyPpP7gmtj) | [LB Prada](https://open.spotify.com/artist/6iintLqFyDnREB4gTwQnrH) | [PRR PRR \#2](https://open.spotify.com/album/0ZKTAMmhZBW7LgoTn6b2Fi) | 1:38 | 2023-01-26 | 2023-02-24 |
 | [PSG](https://open.spotify.com/track/0eSEWznFliPPpXmCSR10YA) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [PSG](https://open.spotify.com/album/1VH2Hhq3cep5k7gcknPPkG) | 2:36 | 2022-06-23 | 2022-07-08 |
 | [Psico \(feat\. Inoki\)](https://open.spotify.com/track/1Y1YbSIZ9eUflDn8Wr0zsT) | [Ema Door](https://open.spotify.com/artist/66V5LJ1qLFdKKlSGPbmPR4), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Psico \(feat\. Inoki\)](https://open.spotify.com/album/6uILvkPTzT0XmNZvPlYQd0) | 2:47 | 2023-01-12 | 2023-02-03 |

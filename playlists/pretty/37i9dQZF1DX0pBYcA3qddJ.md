@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,125 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,148 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 10 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 |
 | 11 | [24の前奏曲 作品28 第15番変ニ長調「雨だれ」](https://open.spotify.com/track/4SYtaQjXT3Wyw2mIBU6FF6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [映画「蜜蜂と遠雷」 \~ 河村尚子 plays 栄伝亜夜](https://open.spotify.com/album/6vlTbjLLiXsgdyShPe1IFb) | 5:37 |
 | 12 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
-| 13 | [Préludes / Book 1, L.117: 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 |
+| 13 | [Debussy: Préludes / Book 1, L.117 \- 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 |
 | 14 | [Falling](https://open.spotify.com/track/2COAy9Fid4TD0jZA7wqaAm) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 3:52 |
 | 15 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 |
 | 16 | [ごめんね](https://open.spotify.com/track/3k2Cp8MPEWVbjmfDbboFbd) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [ごめんね](https://open.spotify.com/album/0jI1hHT93QEMp9XUdNwJBf) | 3:31 |

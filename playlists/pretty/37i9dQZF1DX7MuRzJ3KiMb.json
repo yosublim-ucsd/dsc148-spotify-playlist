@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 46806,
+  "num_followers": 46889,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMDk0MzIyMDFjZjMxYzUwZTNiYzhhOWRiOWE2OWZhMDRj",
+  "snapshot_id": "MTY4MDI3NzczOCwwMDAwMDAwMDQ3NDYxMGNhYTM1ZTI5Zjg4MmRiYzk4ZjA2OGNlOGVh",
   "tracks": [
     {
       "added_at": "2023-03-31 15:48:58",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
         "name": "Mientras T\u00fa Dorm\u00edas",
         "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 212156,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/7jcOfJG3z9Bt543UQSg72w"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Querernos Bien",
-        "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 183043,
-      "name": "Querernos Bien",
-      "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
-    },
-    {
-      "added_at": "2023-03-31 15:48:58",
-      "album": {
         "name": "En Vivo Desde Tu Nostalgia",
         "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
       },
@@ -1195,8 +1179,24 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+        "name": "Querernos Bien",
+        "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Querernos Bien",
+      "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
+    },
+    {
+      "added_at": "2023-03-31 15:48:58",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
       "artists": [
         {
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-03-31 15:48:58",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2023-03-31 15:48:58",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     }
   ],
   "unique_name": "cursi",

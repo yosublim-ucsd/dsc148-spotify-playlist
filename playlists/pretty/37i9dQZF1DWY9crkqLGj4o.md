@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,272 likes - 70 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,602 likes - 70 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 39 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 |
 | 40 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 |
 | 41 | [Jesus é o Caminho \- Ao Vivo](https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Ao Vivo em São Paulo](https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg) | 3:52 |
-| 42 | [Caminho no Deserto](https://open.spotify.com/track/6T6P23pVlhZdY2apyAtL1O) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Caminho no Deserto](https://open.spotify.com/album/54C7SYkNSCVdvih743HKDZ) | 5:33 |
-| 43 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
+| 42 | [Jesus em Tua Presença // Ao Único // Eu Navegarei \- Ao Vivo](https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Jesus em Tua Presença // Ao Único // Eu Navegarei \(Ao Vivo\)](https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7) | 11:09 |
+| 43 | [Caminho no Deserto](https://open.spotify.com/track/6T6P23pVlhZdY2apyAtL1O) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Caminho no Deserto](https://open.spotify.com/album/54C7SYkNSCVdvih743HKDZ) | 5:33 |
 | 44 | [Oceanos \(Onde Meus Pés Podem Falhar\) \[Oceans Where Feet May Fail\] \- Ao Vivo](https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Não Me Deixes Desistir \(Ao Vivo\)](https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6) | 8:15 |
 | 45 | [Diz](https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Diz](https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O) | 4:35 |
 | 46 | [Deus de Detalhes](https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Esconderijo](https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh) | 4:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 69 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
 | 70 | [Casa do Pai](https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:44 |
 
-Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMGFkOGRkYjQ0MWUyNjc0Y2RlNDBiNDYyOGRlN2ZhY2E1`
+Snapshot ID: `MTY2NDg5ODUwMiwwMDAwMDAwMDIyYzhlMDRlYzljNzE2MzRjYTYzOGE0MmZiZmY3OTU4`

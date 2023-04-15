@@ -4,7 +4,7 @@
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Ptazeta
 
-272 songs - 15 hr 5 min
+273 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,9 +191,10 @@
 | [NO PUTX \- Spotify Singles](https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [NO PUTX \- Spotify Singles](https://open.spotify.com/album/59gNuylpSUihz8qxcHHeJx) | 3:51 | 2021-12-09 | 2022-06-01 |
 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 | 2022-06-01 | 2023-01-25 |
 | [Nunca Fue](https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5) | [Una Típica Francisca](https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Nunca Fue](https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG) | 4:42 | 2023-01-24 |  |
+| [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 | 2023-04-14 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-06-01 | 2023-01-25 |
 | [On The Floor](https://open.spotify.com/track/3STTVKfJGTdhbg5aLppEzX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LOVE? \(Deluxe Edition\)](https://open.spotify.com/album/2l8HCTHlnWSUwK47umlJ2C) | 4:44 | 2021-12-09 | 2023-01-25 |
-| [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2023-01-24 |  |
+| [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2023-01-24 | 2023-04-15 |
 | [Paradinha](https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paradinha](https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa) | 2:21 | 2021-12-09 | 2023-01-25 |
 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 | 2023-01-24 |  |
 | [Perfecta \- Versión con Julieta Venegas](https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El Disco de Tu Corazón](https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe) | 3:45 | 2021-12-09 | 2023-01-25 |

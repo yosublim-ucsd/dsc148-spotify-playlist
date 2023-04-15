@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,400 likes - 125 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,534 likes - 125 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 2 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 |
 | 3 | [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 |
 | 4 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
-| 5 | [Spaceman \- Original Mix](https://open.spotify.com/track/3UkKMTiHxRt0E8SyF9tb45) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 6:19 |
+| 5 | [Spaceman \- Extended Mix](https://open.spotify.com/track/3UkKMTiHxRt0E8SyF9tb45) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 6:19 |
 | 6 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 |
 | 7 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3) | 3:28 |
 | 8 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 58 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
 | 59 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 |
 | 60 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
-| 61 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 |
+| 61 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 |
 | 62 | [Boneless](https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Boneless \(Remixes\)](https://open.spotify.com/album/3EJZwYDh3zfdpjw1HX4MYA) | 4:30 |
 | 63 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 64 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 |

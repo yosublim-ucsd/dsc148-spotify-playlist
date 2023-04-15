@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,187 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,289 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 99 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 100 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 |
 
-Snapshot ID: `MTY4MDk4OTE1NCwwMDAwMDAwMDk2MGFjYzgzYTUxYjIzNjkxODZiOTQ5ZTZkMTJjZDNk`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDAxMzdjNTZjZTk0NWQ5OGU0ZDI5NzZmOWEzZDVkYTQz`

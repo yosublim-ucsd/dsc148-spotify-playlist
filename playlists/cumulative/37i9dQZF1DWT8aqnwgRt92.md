@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-629 songs - 1 day 16 hr 1 min
+631 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 | 2022-08-02 | 2022-10-09 |
 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 | 2022-10-05 |
 | [Ahatte Teppen' \- TV size](https://open.spotify.com/track/58uIXj0FV76d3g2h3UBZZC) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen' \(TV size\)](https://open.spotify.com/album/3qMx7JqolPCn74lz6rdmRD) | 1:30 | 2022-07-05 | 2022-07-29 |
-| [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 | 2023-03-28 |  |
+| [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 | 2023-03-28 | 2023-04-15 |
+| [Aino Uta](https://open.spotify.com/track/5sf1C7Bml4va8nDYZbltBc) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Ureshii Koewo Honnochotto](https://open.spotify.com/album/3hiEm3dKM0x6p76360xXpT) | 4:21 | 2023-04-13 |  |
 | [Akatsuki](https://open.spotify.com/track/574u5IAlTW7pCG5C8oRlJO) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 4:13 | 2023-02-28 | 2023-04-14 |
 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 | 2022-07-12 | 2022-10-12 |
 | [Alive](https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Alive](https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF) | 4:18 | 2022-11-08 | 2023-01-13 |
@@ -463,6 +464,7 @@
 | [トメハネハラウ](https://open.spotify.com/track/2R3Pfcb5loHfNs0FI7RQxY) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [トメハネハラウ](https://open.spotify.com/album/4LvSFjOlrfFOG3K8eFShyb) | 3:56 | 2022-12-22 | 2023-01-13 |
 | [トリック・アート](https://open.spotify.com/track/466WrVxdpRXkuRDU4vF16l) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [トリック・アート](https://open.spotify.com/album/7n7GiqZeFOpyX97bnA0HaB) | 2:56 | 2023-04-11 |  |
 | [ドキメキダイアリー](https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q) | 3:19 | 2023-04-13 |  |
+| [ドラマチック](https://open.spotify.com/track/2iDzfN3XkTcmdl0uPBRgat) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [ドラマチック](https://open.spotify.com/album/6O5dU5UQP9Dv36xKJCSlGp) | 4:31 | 2023-04-13 |  |
 | [ドラマチックじゃなくても](https://open.spotify.com/track/5zxc1g7UVdTfp3pYD1lzmW) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [ドラマチックじゃなくても](https://open.spotify.com/album/2pAuAsjzwHKiPx47Vy6DxK) | 4:22 | 2023-01-10 | 2023-01-12 |
 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 | 2023-01-10 | 2023-04-02 |
 | [ノミック](https://open.spotify.com/track/0gxbwxvxTBW1Z3ihlJbq6H) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [ノミック](https://open.spotify.com/album/0Y6dEaa80Jfq6GTQ04fLnK) | 3:00 | 2022-10-06 | 2022-10-08 |

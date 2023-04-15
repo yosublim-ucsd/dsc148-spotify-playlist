@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Chris Tomlin",
-  "name": "Easter Worship 2023",
+  "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Brooke Ligertwood",
+  "name": "Worship 2023",
   "tracks": [
     {
       "album": {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 313933,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274709,
       "name": "Before The Breakthrough",
       "url": "https://open.spotify.com/track/7o8zy970EfByTCYnG4zkR5"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 394075,
       "name": "Christ And Christ Crucified - Live",
       "url": "https://open.spotify.com/track/32adupKO13M1j6hWpysy0U"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 256491,
       "name": "Every Season",
       "url": "https://open.spotify.com/track/02t03Wh4GNnBnrHRssVnrN"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 367089,
       "name": "Fall Afresh",
       "url": "https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 590208,
       "name": "Forever & Amen (with Kari Jobe) - Live",
       "url": "https://open.spotify.com/track/7oLo0igjbbCuuZhoj8agMs"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 409986,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 528461,
       "name": "Goodness And Mercy - Live",
       "url": "https://open.spotify.com/track/4cuIcR021pcu8KmUFSGyQs"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 350480,
       "name": "Gracefully Broken",
       "url": "https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc"
@@ -1884,6 +1884,28 @@
       "duration_ms": 332946,
       "name": "Hallelujah For The Cross - Live",
       "url": "https://open.spotify.com/track/4cd4S4o80CBDAXEI9f4Fch"
+    },
+    {
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        },
+        {
+          "name": "Adam Agee",
+          "url": "https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286586,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD"
     },
     {
       "album": {
@@ -1994,7 +2016,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 489453,
       "name": "Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 305426,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
@@ -2348,6 +2370,54 @@
       "duration_ms": 228845,
       "name": "I See You",
       "url": "https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg"
+    },
+    {
+      "album": {
+        "name": "I Stand in Awe (Live)",
+        "url": "https://open.spotify.com/album/0EkviXlaPdCXFcm5LzwJeI"
+      },
+      "artists": [
+        {
+          "name": "Jesus Image",
+          "url": "https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 744452,
+      "name": "I Stand in Awe - Live",
+      "url": "https://open.spotify.com/track/4ctvFp1plo9vreYy6yw0Ce"
+    },
+    {
+      "album": {
+        "name": "I Thank God",
+        "url": "https://open.spotify.com/album/2PwhFb40eeJMRsGlRlOe5u"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "JWLKRS Worship",
+          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+        },
+        {
+          "name": "Blake Wiggins",
+          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232855,
+      "name": "I Thank God",
+      "url": "https://open.spotify.com/track/2ALhy6p03JCxOy8UD29E9F"
     },
     {
       "album": {
@@ -2458,6 +2528,32 @@
       "duration_ms": 430120,
       "name": "If I Could Have Anything",
       "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
+    },
+    {
+      "album": {
+        "name": "How To Start A Housefire",
+        "url": "https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Blake Wiggins",
+          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430120,
+      "name": "If I Could Have Anything",
+      "url": "https://open.spotify.com/track/7sH8zeRLZk4ub2SfUxKEwO"
     },
     {
       "album": {
@@ -2810,7 +2906,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 310333,
       "name": "Just The Mention Of His Name - Live",
       "url": "https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3"
@@ -2916,7 +3012,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 424777,
       "name": "Lay It All Down",
       "url": "https://open.spotify.com/track/6pk4msiL2Igg3KlRqMYwjo"
@@ -3314,7 +3410,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 221084,
       "name": "Morning By Morning (I Will Trust) - Radio Version",
       "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
@@ -3852,7 +3948,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 398616,
       "name": "Only You Are - Live",
       "url": "https://open.spotify.com/track/0H4Xz9DZnvzTMtM52DQBhS"
@@ -4120,7 +4216,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 561041,
       "name": "Rise And Shine - Live",
       "url": "https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH"
@@ -4336,7 +4432,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 384501,
       "name": "Simple Kingdom (with Cody Carnes) - Live",
       "url": "https://open.spotify.com/track/5WryeVVD4YY1LnbZvwa40s"
@@ -4398,6 +4494,24 @@
       "duration_ms": 212226,
       "name": "Something About That Name",
       "url": "https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx"
+    },
+    {
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/19UG5zBSrydGOTANXVUhPf"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259426,
+      "name": "Song Of My Salvation - Live",
+      "url": "https://open.spotify.com/track/2bMGimLuvFdSQ2wTsBjJrI"
     },
     {
       "album": {
@@ -4802,7 +4916,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 313295,
       "name": "The Christ The King - Live",
       "url": "https://open.spotify.com/track/4zZwP5AbsFmmKHdeVFsfZT"
@@ -5168,7 +5282,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 412227,
       "name": "Way Maker - Live From Passion 2020",
       "url": "https://open.spotify.com/track/16lF3B47C7KM9GPok917Ap"
@@ -5558,7 +5672,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"

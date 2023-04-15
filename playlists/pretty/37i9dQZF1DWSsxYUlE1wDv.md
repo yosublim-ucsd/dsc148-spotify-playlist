@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsxYUlE1wDv.md) - [plain]
 
 > Featuring YOVNGCHIMI, Myke Towers, Don Omar & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 923 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsxYUlE1wDv.md) - [plain]
 | 15 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 |
 | 16 | [Trending](https://open.spotify.com/track/0WY20ugVpmNX68kKtORl8i) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 3:02 |
 | 17 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 |
-| 18 | [Costear \- Remix](https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY) | [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Eq](https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh) | [Costear \(Remix\)](https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO) | 3:44 |
+| 18 | [Costear \- Remix](https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Eq](https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh) | [Costear \(Remix\)](https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO) | 3:44 |
 | 19 | [CANDY \- Remix](https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:24 |
 | 20 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:17 |
 | 21 | [Al Dia](https://open.spotify.com/track/4ZX3ui4xclh7h5XXCZMo3p) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Al Dia](https://open.spotify.com/album/5c7ikVWg62OlZWFC4iGOJP) | 5:15 |

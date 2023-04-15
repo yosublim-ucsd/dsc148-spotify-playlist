@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226453,
       "name": "Bruises - Guitar Acoustic",
       "url": "https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk"
@@ -458,6 +458,24 @@
       "duration_ms": 168538,
       "name": "Burning Bridges - up close, acoustic",
       "url": "https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao"
+    },
+    {
+      "album": {
+        "name": "Chasing Shadows (Acoustic)",
+        "url": "https://open.spotify.com/album/7blH1R6aCVgNqRUi8lVp3f"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Chasing Shadows - Acoustic",
+      "url": "https://open.spotify.com/track/2B9E8ofcNTXRhMtzNgKr4h"
     },
     {
       "album": {
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Devil Doesn\u2019t Bargain (Acoustic)",
         "url": "https://open.spotify.com/album/6R9I3f43R1OLJSGWixrqBo"
       },
@@ -636,6 +672,28 @@
       "duration_ms": 215680,
       "name": "Evergreen (You Didn't Deserve Me At All) - Stripped",
       "url": "https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r"
+    },
+    {
+      "album": {
+        "name": "Everybody Needs Someone (feat. Vance Joy)",
+        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178819,
+      "name": "Everybody Needs Someone (feat. Vance Joy)",
+      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
       "album": {
@@ -747,6 +805,54 @@
     },
     {
       "album": {
+        "name": "Feels This Good (feat. Stefflon Don)",
+        "url": "https://open.spotify.com/album/7GnaLWzyYTxpcRRnEQhrJd"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207765,
+      "name": "Feels This Good (feat. Stefflon Don) - Acoustic",
+      "url": "https://open.spotify.com/track/2mzEYOnypTxiC5WVDZR6ZE"
+    },
+    {
+      "album": {
+        "name": "Powerlines",
+        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "First Place",
+      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
+    },
+    {
+      "album": {
         "name": "Fly Away (RIP King T)",
         "url": "https://open.spotify.com/album/5L0hCFPh4J7M77QYu2OltJ"
       },
@@ -776,7 +882,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 204294,
       "name": "Fool's Gold - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
@@ -1311,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "I Wrote A Song (Acoustic)",
+        "url": "https://open.spotify.com/album/2xnlu6naZOCUeiYQZW6ke3"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "I Wrote A Song - Acoustic",
+      "url": "https://open.spotify.com/track/00EC5CH3rcbU2eCgUBnyJS"
+    },
+    {
+      "album": {
         "name": "~how i'm feeling~ (the extras)",
         "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
       },
@@ -1374,6 +1498,24 @@
       "duration_ms": 187675,
       "name": "i'm so tired... - Stripped - Live in LA",
       "url": "https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b"
+    },
+    {
+      "album": {
+        "name": "If We Ever Broke Up (Acoustic)",
+        "url": "https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147358,
+      "name": "If We Ever Broke Up - Acoustic",
+      "url": "https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR"
     },
     {
       "album": {
@@ -1472,7 +1614,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189729,
       "name": "Joke's On You - Acoustic",
       "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
@@ -1710,7 +1852,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 271825,
       "name": "Light On - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
@@ -1862,7 +2004,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 178897,
       "name": "Mine - Stripped Version",
       "url": "https://open.spotify.com/track/5GbX3kHPKh1tZhDzUbHqcf"
@@ -1906,6 +2048,24 @@
       "duration_ms": 203633,
       "name": "Missing Piece - Acoustic",
       "url": "https://open.spotify.com/track/3U9rKD4n0Gk03dxsAMkGs2"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162091,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7"
     },
     {
       "album": {
@@ -2484,7 +2644,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 168758,
       "name": "Somebody - Acoustic",
       "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
@@ -2502,7 +2662,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 214906,
       "name": "Someone To You - Acoustic",
       "url": "https://open.spotify.com/track/12feeSGKNVKrzuKazFpTNN"
@@ -2564,6 +2724,24 @@
       "duration_ms": 195051,
       "name": "Stay - Acoustic",
       "url": "https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD"
+    },
+    {
+      "album": {
+        "name": "Stupid Cupid (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7la8OQJ5dzgJ5oQFSeeTzk"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172237,
+      "name": "Stupid Cupid - Acoustic Version",
+      "url": "https://open.spotify.com/track/5TwVQJeh2k2ED1LHrCUl50"
     },
     {
       "album": {
@@ -2752,7 +2930,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 175423,
       "name": "Victoria's Secret - Piano Stripped",
       "url": "https://open.spotify.com/track/50skDNkr45SubYkVWC4YOi"

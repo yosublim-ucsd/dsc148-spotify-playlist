@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,322 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,655 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

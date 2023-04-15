@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-78 songs - 5 hr 18 min
+79 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/2oiA79pJ9Y901ZS2qd6Jl1) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/7L5ViL8FXX0tr7ccEByRfH) | 3:55 | 2022-04-22 |  |
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/3tLvxAAZi8EWFT5fW6R763) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/67O2wOdn2nqHitF5e3Yim3) | 3:55 | 2022-02-10 | 2022-07-29 |
 | [Elk River](https://open.spotify.com/track/75s7uFrBUhwHH4sVbsSn0a) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 3:11 | 2022-02-10 |  |
+| [Elsewhere](https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Elsewhere](https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE) | 5:28 | 2023-04-14 |  |
 | [Estancia](https://open.spotify.com/track/6JSZq2FkHOZGZ5hV85fBa2) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 2:02 | 2022-09-30 |  |
 | [Estancia](https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 2:02 | 2022-02-10 | 2022-11-30 |
 | [Flower Turned Inside\-Out](https://open.spotify.com/track/25ISO5GDUQU94hqhjFFQIS) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [Fleeting](https://open.spotify.com/album/1nJRtI9d5gAd3HZjN2IXLA) | 4:20 | 2022-02-10 |  |

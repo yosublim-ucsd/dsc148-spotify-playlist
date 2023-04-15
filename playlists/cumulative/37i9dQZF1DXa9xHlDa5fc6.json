@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "100-99 (feat. GoldLink)",
+        "url": "https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216775,
+      "name": "100-99 (feat. GoldLink)",
+      "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
+    },
+    {
+      "album": {
         "name": "63 Days",
         "url": "https://open.spotify.com/album/5aGVzJSl9a7wixznvz995F"
       },
@@ -394,7 +416,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192666,
       "name": "Come Follow Me Down",
       "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
@@ -1292,7 +1314,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 181626,
       "name": "Dangerous Game (feat. Clairo)",
       "url": "https://open.spotify.com/track/6wZ9pIuOLgKEkFDi5s1mPH"
@@ -1515,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/0teTj8UrrJJEnNMX3eoq4Z"
       },
@@ -1566,6 +1606,24 @@
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
+    },
+    {
+      "album": {
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
     },
     {
       "album": {
@@ -2016,7 +2074,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201146,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
@@ -2070,7 +2128,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195706,
       "name": "Go Down Together",
       "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
@@ -2618,6 +2676,24 @@
       "duration_ms": 193493,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/69pHON1ZVmefKhnPW7cKVn"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "album": {
@@ -3383,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Meshuggah",
+        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277986,
+      "name": "Meshuggah",
+      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
+    },
+    {
+      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -3556,10 +3650,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 198755,
       "name": "Mr. 29",
       "url": "https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl"
+    },
+    {
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
       "album": {
@@ -3610,7 +3722,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 215693,
       "name": "Nearer My God",
       "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
@@ -3977,6 +4089,24 @@
     },
     {
       "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "album": {
         "name": "Black Bear",
         "url": "https://open.spotify.com/album/2lctdjQcxDUo9Q93GScAKC"
       },
@@ -4136,6 +4266,24 @@
       "duration_ms": 229000,
       "name": "Pretty Peggy",
       "url": "https://open.spotify.com/track/5jCp5A9hMitx5zeo5Djofm"
+    },
+    {
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "album": {
@@ -4435,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Tilt At The Wind No More",
+        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212081,
+      "name": "Smoke & Ribbons",
+      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
+    },
+    {
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -4630,6 +4796,24 @@
       "duration_ms": 218760,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
+    },
+    {
+      "album": {
+        "name": "See You In The Dark",
+        "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196239,
+      "name": "Spoiled",
+      "url": "https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v"
     },
     {
       "album": {
@@ -5184,7 +5368,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 241866,
       "name": "Turn Your Love",
       "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
@@ -5274,7 +5458,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199360,
       "name": "Vagabonds",
       "url": "https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic"
@@ -5508,7 +5692,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"

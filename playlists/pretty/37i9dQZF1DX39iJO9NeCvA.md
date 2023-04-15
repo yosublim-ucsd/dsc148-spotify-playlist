@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 
 > Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。© 2023 内藤泰弘・少年画報社／「TRIGUN STAMPEDE」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,210 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,260 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 34 | [Human or Plant?](https://open.spotify.com/track/38xpIxhCnCO8EIsMbz4wil) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:08 |
 | 35 | [Erhu in July](https://open.spotify.com/track/66P3vRKqhELHLwtFkJXdp8) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 0:44 |
 | 36 | [Plant Song on Erhu](https://open.spotify.com/track/1SPGpGLHNM1209NbkvS7SP) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 0:47 |
-| 37 | [July City](https://open.spotify.com/track/6O7jfSaUUcjTVsbtsoBmtk) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TRIGUN STAMPEDE \- Original Television Soundtrack 2](https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt) | 1:14 |
+| 37 | [July City](https://open.spotify.com/track/2kuNsxcDAHEtXR9ThN7DCm) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 1:14 |
 | 38 | [Elendira the Crimsonnail](https://open.spotify.com/track/4BPDzvgptsGk12vBwN3eoU) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 0:59 |
 | 39 | [Which Is The Monster?](https://open.spotify.com/track/5ZDeMf03xyiTKrDoD5R1St) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:34 |
 | 40 | [Meryl's Regrets](https://open.spotify.com/track/1dn3LEerJt3wQY5VytCz84) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [「TRIGUN STAMPEDE」 Original Soundtrack 2](https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 79 | [get even](https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:26 |
 | 80 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 |
 
-Snapshot ID: `MTY3OTg1MDQ0NSwwMDAwMDAwMGU2OTM4NTQ1MDg5NDQ2ZWNiMWIxMjgzNjJiMzZjMWU0`
+Snapshot ID: `MTY3OTg1MDQ0NSwwMDAwMDAwMDcwZDgxNjYxMmI0YzBhNmMxMjZjMzkwODlmZThjZDU3`

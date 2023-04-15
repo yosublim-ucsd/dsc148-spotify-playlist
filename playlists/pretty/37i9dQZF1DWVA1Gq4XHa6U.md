@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! Cover: Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,384,871 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,387,441 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
-| 2 | [Who Am I \(What’s My Name\)?](https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 |
-| 3 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 |
-| 4 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 |
-| 5 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 |
-| 6 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
-| 7 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
+| 1 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 |
+| 2 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
+| 3 | [Who Am I \(What’s My Name\)?](https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 |
+| 4 | [Get Money](https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO) | [Junior M.A.F.I.A.](https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39) | [Conspiracy \(PA\)](https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG) | 4:34 |
+| 5 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 4:12 |
+| 6 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 |
+| 7 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 8 | [Ain’t No Fun \(If The Homies Can’t Have None\)](https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 |
 | 9 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 |
 | 10 | [Oooh / Ghost Weed Skit 01](https://open.spotify.com/track/0m1EDSjYlgZ3OQteqhP0XR) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Art Official Intelligence: Mosaic Thump](https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 49 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
 | 50 | [Lollipop](https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III \(MTV Bonus Version\)](https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4) | 4:59 |
 
-Snapshot ID: `MTY4MDgzMjE2MSwwMDAwMDAwMDkwMmY4YWQzNjNiNGE0OWU1NmIwNjVmNTY2NjNmNWY3`
+Snapshot ID: `MTY4MTQ0NTM0NSwwMDAwMDAwMDMzNWUxNDc1NDdiNTc3YzBiY2Y1MjBhYTJiZmY4OWY4`

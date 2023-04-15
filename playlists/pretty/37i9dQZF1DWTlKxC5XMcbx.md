@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,256 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,261 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 29 | [The Nearness Of You](https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Stardust: The Music Of Hoagy Carmichael](https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT) | 7:27 |
 | 30 | [Moonlight In Vermont](https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Essential Stan Getz: The Getz Songbook](https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s) | 2:27 |
 | 31 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
-| 32 | [The Tearjerker Returns](https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX) | 3:32 |
-| 33 | [My Wish](https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:32 |
+| 32 | [My Wish](https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:32 |
+| 33 | [The Tearjerker Returns](https://open.spotify.com/track/5BmNj3cDAyqSFw69VY12WU) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5OoDylPvT78As7o5uwIDRX) | 3:32 |
 | 34 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |
 | 35 | [You Go To My Head](https://open.spotify.com/track/4ymHy4hzJ09WxvvT7p0Azy) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 4:18 |
 | 36 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Easy Living](https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 3:44 |
 | 75 | [Last Ride Home](https://open.spotify.com/track/22QZgO76vLjdpZY161iF72) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [The Gotland Session](https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA) | 3:13 |
 
-Snapshot ID: `MTY4MTEwMzMwMywwMDAwMDAwMDZlOTVkN2RiYTBkODI3NTZlMTEzYzRhN2UzMGRjMTc0`
+Snapshot ID: `MTY4MTEwMzMwMywwMDAwMDAwMDBjOThlODAwNTEwYTY3OGVmYjVkNTVlZGZhODAxNzU2`

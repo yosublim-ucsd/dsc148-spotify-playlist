@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6728\u6751\u7d18",
-  "num_followers": 25573,
+  "num_followers": 25599,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMDBjY2JjNTAxZmU1MGU1MzM4MjRiNzc1YWEzNzU2YzM4",
+  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMDdkN2VhZmNkZDYwY2ZiZjhjNGQyMWRhZGNiN2Q0Zjgy",
   "tracks": [
     {
       "added_at": "2023-04-11 15:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Synapse",
-        "url": "https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Synapse",
-      "url": "https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "MISIA SOUL JAZZ SESSION",
         "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 350880,
       "name": "It's just love",
       "url": "https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "Synapse",
+        "url": "https://open.spotify.com/album/0YW1Wqu4Wf7bmkkDuddSoP"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Synapse",
+      "url": "https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "Dear Family",
+        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "duration_ms": 132853,
+      "name": "The Great U's Train",
+      "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
@@ -863,22 +883,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Dear Family",
-        "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
+        "name": "MISIA SOUL JAZZ SESSION",
+        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
       },
       "artists": [
         {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 132853,
-      "name": "The Great U's Train",
-      "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
+      "duration_ms": 294400,
+      "name": "\u6700\u5f8c\u306e\u591c\u6c7d\u8eca",
+      "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 295000,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5zDaw3oBx3e5dCnpyt7NEW"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "MISIA SOUL JAZZ SESSION",
-        "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "\u6700\u5f8c\u306e\u591c\u6c7d\u8eca",
-      "url": "https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c"
     },
     {
       "added_at": "2023-04-11 15:00:00",

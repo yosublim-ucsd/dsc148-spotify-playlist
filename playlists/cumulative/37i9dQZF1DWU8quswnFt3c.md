@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: INNA
 
-1,131 songs - 2 day 14 hr 26 min
+1,132 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 | 2022-10-04 | 2022-12-01 |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2023-01-05 |
 | [Oi Erro \- Ao Vivo](https://open.spotify.com/track/0T0RPIejPIMYgtpOEkGFT4) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Oi Erro \(Ao Vivo\)](https://open.spotify.com/album/5AkZJUBtmRmJ9UqfZGmMVD) | 2:40 | 2023-04-05 |  |
+| [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 |  |
 | [Omamy](https://open.spotify.com/track/782FwMqCDO8brUZmb9yFd7) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Omamy](https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD) | 3:41 | 2022-07-06 | 2022-08-04 |
 | [Onde Vais \(feat\. Carminho\)](https://open.spotify.com/track/4xigvdbvlzxJIIZGIg6eGT) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Onde Vais \(feat\. Carminho\)](https://open.spotify.com/album/2qUlkECr3lYwfkWSSTtr16) | 3:58 | 2022-04-06 | 2023-01-05 |
 | [Only Love](https://open.spotify.com/track/6H29rXPIM9nCqRUwDTpE1I) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/1qPTIdE56XHvxHGfwXhDhR) | 3:05 | 2022-07-06 | 2022-07-29 |
@@ -704,7 +705,7 @@
 | [Osú Qué Niña](https://open.spotify.com/track/0kZrv7hKThf4qUPlqDFZXF) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Osú Qué Niña](https://open.spotify.com/album/5e5LUOFIgGLBNq2675XQEu) | 3:19 | 2022-03-08 | 2022-04-07 |
 | [OTP](https://open.spotify.com/track/2gZjpC2hxO1kA7PLmvj75k) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [OTP](https://open.spotify.com/album/2fPPX83Dj02yGaDEHjpyUY) | 2:17 | 2023-01-04 | 2023-02-02 |
 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 | 2022-07-06 | 2022-08-04 |
-| [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2023-04-05 |  |
+| [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2023-04-05 | 2023-04-15 |
 | [Overthinking](https://open.spotify.com/track/7I5SpqksVGppahx77uNC1Q) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Overthinking](https://open.spotify.com/album/1EZNGT5hsDKH7b2tLO6s3I) | 4:11 | 2022-03-08 | 2022-04-07 |
 | [PANDA](https://open.spotify.com/track/5DwW0Y7LWmVRMTMxYw3vCA) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [PANDA](https://open.spotify.com/album/5Wpjc38AogK8fEcj07Yh5E) | 2:22 | 2022-06-01 | 2022-07-07 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-04-06 | 2022-05-05 |

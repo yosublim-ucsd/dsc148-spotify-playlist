@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Jess Williamson
 
-379 songs - 21 hr 37 min
+380 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Get More Rest](https://open.spotify.com/track/0x6p5TFeH5kCZunuF6XXQ7) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Get More Rest](https://open.spotify.com/album/1QNvfTMX7nmn0uoeHi3l5p) | 3:57 | 2021-11-19 | 2022-07-28 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-11-19 | 2022-07-01 |
 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 | 2021-11-19 | 2022-05-13 |
+| [give me hell](https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [give me hell](https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0) | 3:04 | 2023-04-14 |  |
 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 |  |
 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 | 2022-08-12 |  |
 | [Go Easy, Kid](https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/59e93fZMly2pvsqUQc1y1H) | 4:08 | 2021-11-19 | 2022-10-13 |
@@ -300,7 +301,7 @@
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-11-19 |  |
 | [Slow Separation](https://open.spotify.com/track/02hJFdZllz45ysp4caZh3z) | [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Slow Separation](https://open.spotify.com/album/1Sfnsxg3EiSOxXfiVJVnyF) | 3:49 | 2021-11-19 | 2022-07-01 |
 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 | 2022-02-04 | 2022-07-29 |
-| [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 | 2022-01-07 |  |
+| [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 | 2022-01-07 | 2023-04-15 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-11 | 2022-03-12 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-19 | 2022-07-23 |
 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 | 2022-05-13 | 2022-11-24 |

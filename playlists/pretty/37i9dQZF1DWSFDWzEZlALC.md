@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,091 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,289 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 16 | [Mama Liebe](https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 2:58 |
 | 17 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 |
 | 18 | [Lass es kreisen](https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:19 |
-| 19 | [Bialetti](https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2) | [Resi Reiner](https://open.spotify.com/artist/4tK6IJTf7TZG3WCW4sfjhW) | [Bialetti](https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE) | 3:32 |
+| 19 | [Bialetti](https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Bialetti](https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE) | 3:32 |
 | 20 | [Danke dass du mich verlassen hast](https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Danke dass du mich verlassen hast](https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD) | 3:17 |
 | 21 | [Wie Du](https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Wie Du](https://open.spotify.com/album/6dkH0Z1f411BzyjcHuZk9I) | 2:50 |
 | 22 | [Gekreuzte Finger](https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:50 |

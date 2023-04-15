@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,126 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,138 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 55 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 |
 | 56 | [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 |
 | 57 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 |
-| 58 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 |
-| 59 | [우리 같은 사람들 People like us](https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [우리 같은 사람들 People like us](https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH) | 3:13 |
+| 58 | [우리 같은 사람들 People like us](https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [우리 같은 사람들 People like us](https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH) | 3:13 |
+| 59 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 |
 | 60 | [Fashion Hoarder](https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Fashion Hoarder](https://open.spotify.com/album/54raPqsVO70w92rOVD1plB) | 3:07 |
 
-Snapshot ID: `MTY4MDc1Mzg2NSwwMDAwMDAwMGMzYzc0MGU3YmMxM2JhNWVhNzAzYTZiZWZjYTA0NTli`
+Snapshot ID: `MTY4MDc1Mzg2NSwwMDAwMDAwMDU1Y2Y0YWI0Mjc5MjIyN2ZmMzhjMDRmYjI4ZWRkNWVi`

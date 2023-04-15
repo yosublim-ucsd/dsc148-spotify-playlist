@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,473 likes - 46 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,715 likes - 46 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 21 | [JoJo Sonochino Kioku\~end of THE WORLD\~](https://open.spotify.com/track/6x5R5nYhMCwfIJILBi25Ss) | [JO☆STARS 〜TOMMY,Coda,JIN〜](https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk) | [JoJo Sonochino Kioku\~end of THE WORLD\~](https://open.spotify.com/album/2w1cFFSElKsA6VVqxbh6aO) | 4:23 |
 | 22 | [Akuyaku Kyousoukyoku \- Hol Horse&Boingo \- TV edit](https://open.spotify.com/track/5XuNJS2K8eJn4hCK7O5LU4) | [ホルホース](https://open.spotify.com/artist/09FLbWkSkeiHzBQT9dtnMl), [ボインゴ](https://open.spotify.com/artist/1rHmhZwZq6GhjgQGLNrwWH) | [Akuyaku Kyousoukyoku \- Hol Horse&Boingo \(TV edit\)](https://open.spotify.com/album/5jDMmuimKXAUqOfuanQL3z) | 1:36 |
 | 23 | [Kouketsunaru Kyoukou](https://open.spotify.com/track/0nA51z4UszHDnVihedcPFQ) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Departure\]](https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC) | 2:54 |
-| 24 | [Last Train Home](https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n) | 5:38 |
+| 24 | [Last Train Home](https://open.spotify.com/track/0Rr5Lw09CzqcchhsH0Pmhs) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/2hLXa5j81nsOy8KmqM1sSx) | 5:38 |
 | 25 | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/track/2TsyTag2aNa4wmUNmExzcI) | [THE DU](https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL) | [CRAZY NOISY BIZARRE TOWN](https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp) | 3:06 |
 | 26 | [chase](https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy) | [batta](https://open.spotify.com/artist/5vyNgIKfSHb5dvDvDXupGL) | [chase](https://open.spotify.com/album/1PVmWC0v2EES44AzAMFkHi) | 2:25 |
 | 27 | [Great Days](https://open.spotify.com/track/1Ub6VfiTXgyV8HnsfzrZzC) | [Karen Aoki](https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ), [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [Great Days](https://open.spotify.com/album/3u3WsbVPLT0fXiClx9GYD9) | 4:03 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 45 | [Koukatsuna Nezumi](https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Nightwalk\~](https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC) | 3:15 |
 | 46 | [Canzoni preferite](https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 2:24 |
 
-Snapshot ID: `MTY4MDg3OTYwMCwwMDAwMDAwMDk2OGU0NTA3MDc2NmVlNzYzMTIxMGRlOTk0NDUyYmNk`
+Snapshot ID: `MTY4MDg3OTYwMCwwMDAwMDAwMDVjZTQ0NzAzOGM1MTMxOTk1NzM1ZDAyNWI1M2QzNzdi`

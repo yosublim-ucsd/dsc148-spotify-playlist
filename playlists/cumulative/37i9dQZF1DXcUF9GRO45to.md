@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-239 songs - 15 hr 20 min
+240 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 | 2021-12-15 |  |
 | [Daddy Is Drunk Again](https://open.spotify.com/track/5LsRmuc3NJgGEsJSNY6dgf) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Daddy Is Drunk Again](https://open.spotify.com/album/5jmkzwcqR2q6gqbsfOvC8R) | 2:56 | 2022-06-30 | 2022-07-23 |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
+| [Death Sound](https://open.spotify.com/track/3jcqQv97hJOLA9CaHyEMBZ) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Rise from the Ashes](https://open.spotify.com/album/1esrQ31gmJpt7c1I4inyFn) | 4:03 | 2023-03-30 |  |
 | [Death Sound](https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Death Sound](https://open.spotify.com/album/59WBiX12rBMJkVXpStVGWe) | 4:03 | 2021-12-15 | 2022-07-27 |
 | [Despite](https://open.spotify.com/track/129whHjHOOX5AyxEXGwh9N) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Despite](https://open.spotify.com/album/7CIoj4MTGannSHp7Tp7dCa) | 4:46 | 2022-11-28 | 2023-01-27 |
 | [Devil in sight](https://open.spotify.com/track/7t6rd88j5ie44uHFzDO5kP) | [Cold Valley](https://open.spotify.com/artist/1w1u8ebvhNqRMCv2GeBRrQ) | [Devil in sight](https://open.spotify.com/album/7a6PGGG9hVl4VicBn6iwYL) | 3:50 | 2021-12-31 | 2022-07-25 |
@@ -171,7 +172,7 @@
 | [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 |  |
 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 | 2023-01-26 |  |
 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 | 2022-04-17 |  |
-| [Post\-Post\-](https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Post\-Post\-](https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM) | 7:34 | 2023-02-02 |  |
+| [Post\-Post\-](https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Post\-Post\-](https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM) | 7:34 | 2023-02-02 | 2023-04-15 |
 | [Power Lines](https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Power Lines](https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS) | 3:40 | 2021-12-15 |  |
 | [Preliminary](https://open.spotify.com/track/4DS5aXb22EZCfFzNZV2Mdv) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Preliminary](https://open.spotify.com/album/6dlFEG62a3cpgQgnx2R6W6) | 4:11 | 2023-02-28 |  |
 | [Pretty Vicious Summer](https://open.spotify.com/track/2o7UfjK4hX42hJ5rhC27xS) | [Murder At The Pony Club](https://open.spotify.com/artist/7C3EICXmCNNxgAs2CPneWO) | [Pretty Vicious Summer](https://open.spotify.com/album/03wwVkw1W92XMrW45nKzN9) | 4:20 | 2021-12-15 | 2022-07-28 |

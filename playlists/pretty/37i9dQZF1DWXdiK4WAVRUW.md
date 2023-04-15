@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Kacey Musgraves' debut record Same Trailer Different Park on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,521 likes - 200 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,398 likes - 200 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

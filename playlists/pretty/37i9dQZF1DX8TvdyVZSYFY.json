@@ -1,12 +1,12 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2053875,
+  "num_followers": 2053954,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxNDA2NCwwMDAwMDAwMDNhMmJkZTlhMzU1NzYzOTI2MWUzMWE2NjFmOGNiNzJk",
+  "snapshot_id": "MTY0MTgxNDA2NCwwMDAwMDAwMGQwZGRkMDBiNTgxMzI0YjJlNGU1YzA0ZTk2YzVlOTA5",
   "tracks": [
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2"
+      },
+      "artists": [
+        {
+          "name": "Zak Manley",
+          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
+        }
+      ],
+      "duration_ms": 163913,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "Firestone (Live Acoustic Version)",
         "url": "https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 226345,
       "name": "Firestone - Live Acoustic Version",
       "url": "https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/7K4WKUlWlgzQMDs5ioxQS2"
-      },
-      "artists": [
-        {
-          "name": "Zak Manley",
-          "url": "https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2"
-        }
-      ],
-      "duration_ms": 163913,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/1nnEOnBgHPVpAAZIkFknzv"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "We Can't Stop (Acoustic)",
-        "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
-      },
-      "artists": [
-        {
-          "name": "Halloran & Kate",
-          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
-        }
-      ],
-      "duration_ms": 178490,
-      "name": "We Can't Stop - Acoustic",
-      "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Speak Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 217613,
       "name": "Haunted - Acoustic Version",
       "url": "https://open.spotify.com/track/62rlxI6g2PNaWsHoiRryto"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "We Can't Stop (Acoustic)",
+        "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
+      },
+      "artists": [
+        {
+          "name": "Halloran & Kate",
+          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+        }
+      ],
+      "duration_ms": 178490,
+      "name": "We Can't Stop - Acoustic",
+      "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -2927,6 +2927,22 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
       },
@@ -2943,22 +2959,6 @@
       "duration_ms": 209434,
       "name": "FRIENDS - Acoustic",
       "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2022-01-10 11:27:44",
@@ -3919,26 +3919,6 @@
     {
       "added_at": "2022-01-10 11:27:44",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/3R4Wg1XFOSnekFhat6K5Ba"
-      },
-      "artists": [
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/6JjQ6iGRJ7PLbJGR4WB9uu"
-    },
-    {
-      "added_at": "2022-01-10 11:27:44",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
       },
@@ -3983,6 +3963,26 @@
       "duration_ms": 219378,
       "name": "Angel",
       "url": "https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t"
+    },
+    {
+      "added_at": "2022-01-10 11:27:44",
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/3R4Wg1XFOSnekFhat6K5Ba"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/6JjQ6iGRJ7PLbJGR4WB9uu"
     },
     {
       "added_at": "2022-01-10 11:27:44",

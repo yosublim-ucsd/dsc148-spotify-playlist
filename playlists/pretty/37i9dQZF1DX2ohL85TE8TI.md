@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Call It Love\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 사랑이라 말해요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,500 likes - 103 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,613 likes - 103 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

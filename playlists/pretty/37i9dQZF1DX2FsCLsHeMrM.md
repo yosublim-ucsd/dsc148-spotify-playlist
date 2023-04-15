@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,475 likes - 150 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,989 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 53 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 |
 | 54 | [Get Down Saturday Night](https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Saturday Songs](https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY) | 4:01 |
 | 55 | [Madiba Riddim](https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:25 |
-| 56 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
-| 57 | [You Rock My World \- Radio Edit](https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:25 |
-| 58 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
+| 56 | [You Rock My World \- Radio Edit](https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number Ones](https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX) | 4:25 |
+| 57 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
+| 58 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 59 | [Don't Mess With My Man](https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 3:37 |
 | 60 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 |
 | 61 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 107 | [You're the Reason Why](https://open.spotify.com/track/1zpw3YUidzLjf8h92LFNmw) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [The Long Way Home](https://open.spotify.com/album/1bBcuPUK7dnJjiS70izzw5) | 3:17 |
 | 108 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 | 109 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 |
-| 110 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
-| 111 | [You Stepped Into My Life](https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 3:26 |
+| 110 | [You Stepped Into My Life](https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 3:26 |
+| 111 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
 | 112 | [Used to Love U](https://open.spotify.com/track/051NZ3rr3HXTULCEySJRX3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:30 |
 | 113 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
 | 114 | [Morning Sun](https://open.spotify.com/track/0nruobjhKItGHfkH3VbTXy) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Morning Sun](https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6) | 3:30 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 135 | [911 \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/28hgx2bWXcaBJeC9zVwrBq) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Ecleftic \-2 Sides II A Book](https://open.spotify.com/album/3FDZZk861xfI9wPNAlgrhm) | 4:19 |
 | 136 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
 | 137 | [Everlasting](https://open.spotify.com/track/7qeZlLUOEwoWAiNKHNo6Sw) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 4:21 |
-| 138 | [Little Bit of Lovin](https://open.spotify.com/track/15iPPD2UhkZs71jPXG8a08) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 2:52 |
-| 139 | [Loose Tonight](https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D) | 4:32 |
+| 138 | [Loose Tonight](https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D) | 4:32 |
+| 139 | [Little Bit of Lovin](https://open.spotify.com/track/15iPPD2UhkZs71jPXG8a08) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 2:52 |
 | 140 | [Ngempela \(feat, Howard\) \- Bonus Track](https://open.spotify.com/track/0QKJGz2aZfZzcjSfktQiDG) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Howard](https://open.spotify.com/artist/4i84mu5b6h1dGMZmUCoEV7) | [Isina Muva \(Gold Deluxe\)](https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn) | 3:48 |
 | 141 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 |
 | 142 | [Higher Higher](https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 149 | [So Fine](https://open.spotify.com/track/2cIcOEMjo8uqi4eXjiJpdr) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:32 |
 | 150 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
 
-Snapshot ID: `MTY3OTU3MDY0MywwMDAwMDAwMDkxY2IzMjAwNTEzNTk3NzY5YTYxNDQ3ZTIzMDZmZGE0`
+Snapshot ID: `MTY3OTU3MDY0MywwMDAwMDAwMDNjYzEyZDc2NzBjNTY1YWRmNWE2YWU5OWJkOTkxZDhj`

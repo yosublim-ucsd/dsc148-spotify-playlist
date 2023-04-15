@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-255 songs - 12 hr 31 min
+256 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 | 2021-01-04 | 2022-01-29 |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-07-29 | 2022-10-10 |
 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-02-03 |  |
+| [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-14 |  |
 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 | 2022-01-28 | 2022-07-27 |
 | [Put The Minks Down \(feat\. 42 Dugg\)](https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 1:56 | 2022-12-09 | 2022-12-22 |
 | [Rambo](https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rambo](https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr) | 3:31 | 2021-12-03 | 2022-07-29 |
@@ -191,7 +192,7 @@
 | [Rich MF \(feat\. Polo G & Lil Durk\)](https://open.spotify.com/track/5KQxun2WxwDMsV7HCN2ONK) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight](https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q) | 4:07 | 2021-08-20 | 2022-01-29 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-01 | 2022-09-10 |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 |  |
-| [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 | 2021-11-12 |  |
+| [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 | 2021-11-12 | 2023-04-15 |
 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 | 2022-03-18 |  |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2021-01-04 |  |
 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 | 2021-01-04 |  |

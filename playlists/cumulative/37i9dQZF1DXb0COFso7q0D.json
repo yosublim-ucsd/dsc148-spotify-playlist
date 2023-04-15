@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras. Cover: Yahritza Y Su Esencia & Grupo Frontera",
+  "description": "The playlist sin fronteras. Cover: Becky G",
   "name": "Los Que Mandan",
   "tracks": [
     {
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 212915,
       "name": "Enloquecido",
       "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
@@ -3531,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+    },
+    {
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -3714,6 +3732,28 @@
       "duration_ms": 144640,
       "name": "Me Toc\u00f3 Morir",
       "url": "https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV"
+    },
+    {
+      "album": {
+        "name": "Mentira No Es",
+        "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mentira No Es",
+      "url": "https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ"
     },
     {
       "album": {
@@ -4109,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124826,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
+    },
+    {
+      "album": {
         "name": "No",
         "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
       },
@@ -4454,6 +4512,28 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "album": {
+        "name": "Paso A Pasito",
+        "url": "https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163875,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J"
     },
     {
       "album": {
@@ -5126,7 +5206,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 175319,
       "name": "Se Me Solt\u00f3 El Hocico",
       "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
@@ -6540,7 +6620,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 87142,
       "name": "\u00bfQu\u00e9 Se Te Quit\u00f3?",
       "url": "https://open.spotify.com/track/2VaHYCxdN3xpNAQdPzIqkG"

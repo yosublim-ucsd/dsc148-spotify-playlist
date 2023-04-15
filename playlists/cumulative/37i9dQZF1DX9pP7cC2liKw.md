@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-267 songs - 18 hr 52 min
+268 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 | 2022-02-25 | 2022-07-19 |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 | 2022-01-04 | 2022-06-06 |
 | [Carajillo](https://open.spotify.com/track/5EQpL5oI678CWnEjYcZA4s) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [La Real](https://open.spotify.com/artist/4NQ9yQ7EZ4WRFiwScVyHEl) | [Carajillo](https://open.spotify.com/album/7vzp9W5CviB9ql327pDYTr) | 3:22 | 2022-01-04 | 2022-05-16 |
+| [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2023-04-15 |  |
 | [Cariñito](https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Uno](https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX) | 3:23 | 2022-04-08 | 2023-03-25 |
 | [Carnavalera](https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Carnavalera](https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb) | 3:47 | 2022-06-15 | 2023-03-25 |
 | [Chan Chan](https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Chan Chan](https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp) | 4:20 | 2022-02-11 |  |
@@ -102,7 +103,7 @@
 | [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 | 2022-07-29 |
 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 | 2022-01-11 | 2022-07-27 |
 | [Greener](https://open.spotify.com/track/59EiGiciwk8QMrYkrHxIUd) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Greener](https://open.spotify.com/album/6hkjFXcRidOAaZHjMB5jaq) | 3:54 | 2022-04-08 | 2022-07-29 |
-| [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-15 |  |
+| [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-15 | 2023-04-15 |
 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 | 2022-06-15 |  |
 | [Guadalupe](https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Guadalupe](https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS) | 3:24 | 2022-01-04 | 2022-07-29 |
 | [Gwandena](https://open.spotify.com/track/2Dt9epAirVFFcbJ1kguLch) | [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0) | [Gwandena](https://open.spotify.com/album/0MouOAP3KTxeedoyUP4KMz) | 3:21 | 2022-08-09 | 2022-09-13 |

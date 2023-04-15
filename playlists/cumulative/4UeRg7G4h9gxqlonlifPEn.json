@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "2MORE",
+        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131913,
+      "name": "aorta",
+      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
+    },
+    {
+      "album": {
         "name": "Bacc Like I Never Left",
         "url": "https://open.spotify.com/album/7o86mmziw5xMO0oIO3KGaB"
       },
@@ -1703,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Facts (feat. BigXthaPlug)",
+        "url": "https://open.spotify.com/album/5Wf5eCpeHKEx7BNp2XUbwe"
+      },
+      "artists": [
+        {
+          "name": "RiskTakerLeek",
+          "url": "https://open.spotify.com/artist/2cD4nVRakJU18WJCb2oVmy"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Facts (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/1aSYC1OsSAnrcOWC2PKINJ"
+    },
+    {
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -1907,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Got Off",
+        "url": "https://open.spotify.com/album/1eZq1xJDkPAweNS5a3ZEEW"
+      },
+      "artists": [
+        {
+          "name": "Hopout Shawn",
+          "url": "https://open.spotify.com/artist/0IHxRJsYzqOU0pLAN7k44r"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Got Off",
+      "url": "https://open.spotify.com/track/0bnn3CrDbtzyOdxM4pIO8f"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu"
       },
@@ -2047,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Hot Sauce",
+        "url": "https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT"
+    },
+    {
+      "album": {
         "name": "I Go Dancing (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6"
       },
@@ -2062,7 +2138,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162545,
       "name": "I Go Dancing (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3"
@@ -2284,6 +2360,28 @@
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
+    },
+    {
+      "album": {
+        "name": "Kamikaze (feat. Anti Da Menace)",
+        "url": "https://open.spotify.com/album/5I66L2HreA7cm7HXmqJSGH"
+      },
+      "artists": [
+        {
+          "name": "JMB Juvie",
+          "url": "https://open.spotify.com/artist/25zUbJzU1WGRTN5Y0ajRzd"
+        },
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214912,
+      "name": "Kamikaze (feat. Anti Da Menace)",
+      "url": "https://open.spotify.com/track/7ITEvZVvUqDLbGVl4DX9Bq"
     },
     {
       "album": {
@@ -2648,7 +2746,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 131200,
       "name": "Margiela Witch (feat. Riot Angel)",
       "url": "https://open.spotify.com/track/2tA8XgdDVUnCJbLNq978JO"
@@ -2771,6 +2869,32 @@
     },
     {
       "album": {
+        "name": "Murda This, Murda That",
+        "url": "https://open.spotify.com/album/7b659YaMdHA0BJK1npHvlS"
+      },
+      "artists": [
+        {
+          "name": "Murda B",
+          "url": "https://open.spotify.com/artist/4HuE6dCutt16fdrJiA2uqr"
+        },
+        {
+          "name": "Set Da Trend",
+          "url": "https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143513,
+      "name": "Murda This, Murda That",
+      "url": "https://open.spotify.com/track/35xvGVdUL7fGqDj8Xx9aPl"
+    },
+    {
+      "album": {
         "name": "MURDAMAN!",
         "url": "https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u"
       },
@@ -2880,7 +3004,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184659,
       "name": "My Kind",
       "url": "https://open.spotify.com/track/1plHk1KHGjLoCjsH1UcsSL"
@@ -3206,7 +3330,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 117543,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
@@ -3334,7 +3458,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 130026,
       "name": "PERM",
       "url": "https://open.spotify.com/track/61dXty0FR61qyVczdM49F4"
@@ -3476,6 +3600,24 @@
       "duration_ms": 99567,
       "name": "Praying Aunties",
       "url": "https://open.spotify.com/track/0EPtgPGYmjgidnvlgZWSQV"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0wS6TiGQ7Aqy8EqGZvd6Ru"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142778,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7B14SxMZsylXcX8FJSaClw"
     },
     {
       "album": {
@@ -3814,7 +3956,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 150588,
       "name": "Sko",
       "url": "https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX"
@@ -3868,7 +4010,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 118252,
       "name": "SPIN SPIN!!!",
       "url": "https://open.spotify.com/track/265CquztdaIpzTYobiDCUJ"
@@ -3890,7 +4032,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 168648,
       "name": "Spinnin' (feat. Doe Boy)",
       "url": "https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C"
@@ -4120,7 +4262,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 116794,
       "name": "THE GOV'T GAVE US GUNS",
       "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"

@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: J\. Cole
+> The tracks you just keep pulling up\. Cover: NLE Choppa
 
-660 songs - 1 day 10 hr 0 min
+661 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Camelot](https://open.spotify.com/track/4sWuPniHClkInYAnzXAYUF) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Camelot](https://open.spotify.com/album/5tdGgaiW18D6bjHFLhtblL) | 2:28 | 2022-04-01 | 2022-04-17 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2022-02-04 | 2022-07-29 |
 | [Canada Breeze \(feat\. Pressa\)](https://open.spotify.com/track/2JhgWdWYaK81My49mZLTTE) | [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Canada Breeze \(feat\. Pressa\)](https://open.spotify.com/album/6Tu0YQHZmWUW0RtxoIPqFc) | 2:37 | 2022-01-07 | 2022-03-06 |
-| [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 | 2022-01-07 |  |
+| [Candy \(feat\. Trippie Redd\)](https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:36 | 2022-01-07 | 2023-04-15 |
 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 | 2022-07-28 | 2022-08-05 |
 | [Caroline](https://open.spotify.com/track/5GFDrUTLGJix84sNhjCG0g) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Caroline](https://open.spotify.com/album/2RnntA0TeD1mVGMxxbOPms) | 3:29 | 2022-04-01 | 2022-04-11 |
 | [Case Closed](https://open.spotify.com/track/3RvLAm0ESbUOUZOD7sF4xn) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer 2](https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv) | 3:47 | 2022-02-08 | 2022-07-19 |
@@ -517,6 +517,7 @@
 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 | 2022-08-26 | 2022-09-03 |
 | [Sleep Like A Baby](https://open.spotify.com/track/7GVO0Xk2OUN21S6AnFfASM) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Sleep Like A Baby](https://open.spotify.com/album/5k1rOZ09Q6OLR3T8Qeq3Gr) | 2:46 | 2022-01-14 | 2022-06-01 |
 | [Slide Around](https://open.spotify.com/track/0QBRshHeQLEThdj2TqxM9n) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 4:30 | 2022-04-15 | 2022-04-19 |
+| [SLUT ME OUT](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 | 2023-04-14 |  |
 | [SMALL TALK](https://open.spotify.com/track/4RQvgOmRgrrfrkCqAvy9TE) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SMALL TALK](https://open.spotify.com/album/5yJU1vO3neGkLlrYeDKgVY) | 2:01 | 2022-01-07 | 2022-07-29 |
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2022-01-07 | 2022-11-05 |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 > This is Ana Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,639 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,801 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 45 | [La Cárcel del Amor](https://open.spotify.com/track/0Z7ZdI3JNqqVJBYz0xFQoF) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 4:22 |
 | 46 | [Solo Quiero Ser Amada](https://open.spotify.com/track/3hHZV1O1yWYzxSczYEow2d) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:29 |
 | 47 | [Medley Ranchero: Cómo Olvidar/Ahora/Huelo A Soledad \- Altos De Chavón Live Version](https://open.spotify.com/track/0TSOI5YfqnpfuxqoAXvvA8) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Un Mariachi En Altos De Chavón](https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB) | 6:43 |
-| 48 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 |
-| 49 | [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 |
+| 48 | [Paz en Este Amor](https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:31 |
+| 49 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/5SDff61AfRGrIpxLIZkiBW) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:24 |
 | 50 | [En la Oscuridad](https://open.spotify.com/track/3oiN2kkGwsyicthwPQtdYN) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:55 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDBlYjI4Y2VjNzcwMzhjYjQxMGUzZWY4YjkyMjViOTU3Ng==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkM2M5N2EzY2Y1MDJlMDQzZGE4Y2QwNzNlZGFkZmI2Yg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,083 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,061 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 14 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 15 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
 | 16 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
-| 17 | [Cannibal](https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:14 |
-| 18 | [Tribute](https://open.spotify.com/track/6crBy2sODw2HS53xquM6us) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS) | 4:08 |
+| 17 | [Tribute](https://open.spotify.com/track/6crBy2sODw2HS53xquM6us) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS) | 4:08 |
+| 18 | [Cannibal](https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:14 |
 | 19 | [Thriller](https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 5:58 |
 | 20 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
 | 21 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 37 | [This is Halloween \- Pop Version](https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:22 |
 | 38 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
 | 39 | [Hungry Like the Wolf](https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Greatest](https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0) | 3:29 |
-| 40 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
-| 41 | [Deal with the Devil](https://open.spotify.com/track/6aoCWGknNkO1GmDMih37TQ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 3:21 |
+| 40 | [Deal with the Devil](https://open.spotify.com/track/6aoCWGknNkO1GmDMih37TQ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 3:21 |
+| 41 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
 | 42 | [Going To Hell](https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 4:36 |
 | 43 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |
 | 44 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Yes, I'm A Witch](https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Palumbo Of The Brothers Brothers](https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b), [John Palumbo](https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM) | [Yes, I'm A Witch](https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7) | 3:48 |
 | 60 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 
-Snapshot ID: `MTU3MDYzMzM3MCwwMDAwMDAwMDc4ZGQyYzAyYmMxNjk4MGY4ZDRlOGIyNWE5Y2IzN2Fi`
+Snapshot ID: `MTU3MDYzMzM3MCwwMDAwMDAwMDljYjRiZDEwY2YwZWM3YWRiNjU4ZDA5ODdlZTI4MTAy`

@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/33GFAg6SjyzJRF8dSxAfGY"
+      },
+      "artists": [
+        {
+          "name": "bergis",
+          "url": "https://open.spotify.com/artist/1WqjeyURqigJHtqogSRaPm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5BHlYrNR9p68siAtuHs0Uh"
+    },
+    {
+      "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
       },
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 131368,
       "name": "Churchill Syndrom",
       "url": "https://open.spotify.com/track/58DF3XFqMA2uVwvpmsPDoJ"
@@ -3876,6 +3894,24 @@
       "duration_ms": 139108,
       "name": "Dalmatiner",
       "url": "https://open.spotify.com/track/416zEIteZuKwSiGFjXpuGW"
+    },
+    {
+      "album": {
+        "name": "Daniel Ek",
+        "url": "https://open.spotify.com/album/2AFUvmc53zRGoez6pZiTmF"
+      },
+      "artists": [
+        {
+          "name": "Papi Santana",
+          "url": "https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Daniel Ek",
+      "url": "https://open.spotify.com/track/2zoBSITldDcnI0z4Akjfrr"
     },
     {
       "album": {
@@ -4716,6 +4752,24 @@
       "duration_ms": 163764,
       "name": "Dum",
       "url": "https://open.spotify.com/track/0OterqJ9QPa44frf5djZ6P"
+    },
+    {
+      "album": {
+        "name": "Dum av dej",
+        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Dum av dej",
+      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
     },
     {
       "album": {
@@ -9654,7 +9708,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 124000,
       "name": "LLD",
       "url": "https://open.spotify.com/track/0JF8pIVmf8GQq9zyRnEiFW"
@@ -9690,7 +9744,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222281,
       "name": "LOCKDOWN",
       "url": "https://open.spotify.com/track/6oxP1UOvoz23TZb8uKCCyj"
@@ -9712,6 +9766,24 @@
       "duration_ms": 125753,
       "name": "LOGGA UT",
       "url": "https://open.spotify.com/track/6WZ0e4BsFb5tmGQeaOsuco"
+    },
+    {
+      "album": {
+        "name": "LOJALITET",
+        "url": "https://open.spotify.com/album/2nGsQkIVLx2Vt26lyUbwsl"
+      },
+      "artists": [
+        {
+          "name": "KHAKI",
+          "url": "https://open.spotify.com/artist/7AnDgYb2aDOMpuXAfZBmsS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "LOJALITET",
+      "url": "https://open.spotify.com/track/6zOg5LH1MdqYAcZ1EXoyvK"
     },
     {
       "album": {
@@ -10244,7 +10316,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 120000,
       "name": "MA BELLE",
       "url": "https://open.spotify.com/track/37ahOLMeucbxuofi7UFVxM"
@@ -10662,6 +10734,24 @@
       "duration_ms": 249389,
       "name": "MEDALJERNA",
       "url": "https://open.spotify.com/track/0V16lbVQ96VaQb5yA4PlwA"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6wMme5yXO3htPrChwmWW17"
+      },
+      "artists": [
+        {
+          "name": "Jeaff",
+          "url": "https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175918,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3QY7uDD6cE0lPjH1rpZtgJ"
     },
     {
       "album": {
@@ -18176,7 +18266,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171428,
       "name": "\u00c5terigen",
       "url": "https://open.spotify.com/track/3UzNrudEFcGjmLOP2RYxdC"

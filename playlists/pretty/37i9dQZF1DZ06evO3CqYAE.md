@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,881 likes - 37 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 37 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 6 | [Onyedikagi](https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Glowrie](https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF) | [Onyedikagi](https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J) | 4:57 |
 | 7 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 8 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 |
-| 9 | [Tobechukwu](https://open.spotify.com/track/3hn4MBWOme2k1oweg2tXak) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Tobechukwu](https://open.spotify.com/album/4tRS4ccbwVlDDZLBhegfGQ) | 8:06 |
-| 10 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
+| 9 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
+| 10 | [Tobechukwu](https://open.spotify.com/track/3hn4MBWOme2k1oweg2tXak) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Tobechukwu](https://open.spotify.com/album/4tRS4ccbwVlDDZLBhegfGQ) | 8:06 |
 | 11 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
 | 12 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 |
 | 13 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 28 | [Strong Tower](https://open.spotify.com/track/69dqXCQKvyZQyHdOpNKRVV) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 4:56 |
 | 29 | [Oyoyo Chukwu](https://open.spotify.com/track/5WR1mNYq5TZ91wLUFdcRXZ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a), [EeZee Tee](https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7) | [Oyoyo Chukwu](https://open.spotify.com/album/6LPvDzMH8QOzboO3gmm69l) | 5:17 |
 | 30 | [Eze](https://open.spotify.com/track/3JQICNnRF692Tzc1ODuMUc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Eze](https://open.spotify.com/album/1zoFoQgg34mK1OOcglKMMC) | 5:56 |
-| 31 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
+| 31 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
 | 32 | [Yahweh](https://open.spotify.com/track/4MPfkCbLCfVYoCGvt9hkZJ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yahweh](https://open.spotify.com/album/4RjUVXlEwzzVPvCbkT5aiA) | 7:04 |
 | 33 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 |
 | 34 | [How great You are](https://open.spotify.com/track/6PAzJWolKN6mcZrZvqu26j) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 5:19 |
-| 35 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
+| 35 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
 | 36 | [Love Expression](https://open.spotify.com/track/1h4oo2IsxI5xUiipPYOj15) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Love Expression](https://open.spotify.com/album/6YMiYEkP0jdzjvCXsmlE1O) | 3:44 |
 | 37 | [NaNa Owei \(feat\. Mercy Chinwo\)](https://open.spotify.com/track/1st08MRE0BCD7CwwlEL8oi) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Ready](https://open.spotify.com/album/3ZDKzS3dLFIo0UErHknL2A) | 4:08 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDA2MDcwMjZjMzIwMDExZWY3YzRmZTAxYWM4Mzg5MGZmMg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA0Njg2MjE1NzMzNWM3YjY0ZDY3ODA4MzFiNzlmNWFhYw==`

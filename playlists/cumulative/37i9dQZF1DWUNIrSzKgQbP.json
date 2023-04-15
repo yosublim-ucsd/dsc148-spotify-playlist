@@ -5671,6 +5671,24 @@
     },
     {
       "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
+    },
+    {
+      "album": {
         "name": "Pick and Choose",
         "url": "https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ"
       },

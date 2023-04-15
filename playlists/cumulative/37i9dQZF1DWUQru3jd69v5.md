@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Ele A in cover.
 
-509 songs - 22 hr 11 min
+512 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Al ladro](https://open.spotify.com/track/03MnE7T7IGkL6f7K7lQj2L) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Al ladro](https://open.spotify.com/album/2cA3xbw2V831gZOsFtWATb) | 2:51 | 2022-07-01 | 2022-08-19 |
 | [Alaska](https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Alaska](https://open.spotify.com/album/4fMG0tZOJ4VqA1nbx8WJy6) | 1:53 | 2022-10-06 | 2022-10-28 |
 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 | 2023-03-23 |  |
+| [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 | 2023-04-14 |  |
 | [Ancora Viva](https://open.spotify.com/track/0Ysx8NHwcjmeciv4tvCa3i) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [Ancora Viva](https://open.spotify.com/album/4DpiEp8oZpigUeBa9hbSgz) | 2:43 | 2022-11-17 | 2022-11-25 |
 | [Angel Gabriel](https://open.spotify.com/track/4OEligpS2COR14Plpw8c8f) | [Joe Scacchi](https://open.spotify.com/artist/2K2213LQPCdQMJdpw1k65R), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Angel Gabriel](https://open.spotify.com/album/5WKGbIZm9JTJCUqmRgl9Wc) | 2:15 | 2022-10-13 | 2022-10-28 |
 | [Ansia](https://open.spotify.com/track/6CV7yapL2bhEaWKE4p7IoB) | [4m](https://open.spotify.com/artist/2e87DWvLyzKFgyHYxpF7G3) | [Ansia](https://open.spotify.com/album/5bQsB7DQ6eRVHsEuGxeSjn) | 2:40 | 2023-01-26 | 2023-03-03 |
@@ -172,6 +173,7 @@
 | [ESTATE ZANZA](https://open.spotify.com/track/2Zcm4bfzIeOyR2FPp2DMmt) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ) | [ESTATE ZANZA](https://open.spotify.com/album/5fvmpFRfoI3V4hJJw7WZTi) | 2:53 | 2022-09-29 | 2022-11-04 |
 | [Estorsione](https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Estorsione](https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa) | 3:36 | 2022-09-08 | 2022-10-14 |
 | [EURO](https://open.spotify.com/track/3rzEdUTRzNQym0aiexeSy7) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [EURO](https://open.spotify.com/album/5n6v2WO3aJLR8s7WJBeEru) | 2:48 | 2022-05-26 | 2022-07-15 |
+| [EYES OF THE TIGER](https://open.spotify.com/track/1OWN1K4Yb1Sd8g4xDnQg7R) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [EYES OF THE TIGER](https://open.spotify.com/album/5R6eqKWeUb9Suxt6CP6yR1) | 2:46 | 2023-04-14 |  |
 | [Facile](https://open.spotify.com/track/00bmaHVOEDarcvwlxxkHW9) | [Spinas](https://open.spotify.com/artist/4Cox9N9TeGWWSfyvPEex5m), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Facile](https://open.spotify.com/album/01eTjOeJSoT0b4QS9KEzTi) | 2:25 | 2022-08-25 | 2022-09-02 |
 | [Fahrenheit](https://open.spotify.com/track/0SNunpTVP3UO4RZ9LNXHj7) | [Lokita](https://open.spotify.com/artist/0qkSFtzIwfHhZhTaFGXfxp) | [Fahrenheit](https://open.spotify.com/album/3iPxEJnlQ2BsvawA5gY4Jn) | 3:15 | 2022-07-21 | 2022-09-16 |
 | [FAKE LOV3](https://open.spotify.com/track/0uddaGz9eiKu58im2uqqlG) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6), [Razen](https://open.spotify.com/artist/6xEx33PHYEKQCQ2UlKxS98) | [FAKE LOV3](https://open.spotify.com/album/4XQ4VYfyLFf45J37xKNoyn) | 2:04 | 2022-07-07 | 2022-07-29 |
@@ -387,6 +389,7 @@
 | [Proiettili](https://open.spotify.com/track/6ToBt6T9kNzI7hn4bchviJ) | [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq), [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP) | [Il ragazzo](https://open.spotify.com/album/4DaKiYHGbaCjkK77cpignm) | 2:53 | 2022-05-10 | 2022-07-15 |
 | [PROMESSO](https://open.spotify.com/track/0Ew6sQQMxXcQiXjReT8YOv) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [PROMESSO](https://open.spotify.com/album/2VhxXSlxBrMwg8ItYopzDZ) | 2:36 | 2023-04-06 |  |
 | [Pronto](https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pronto](https://open.spotify.com/album/3WaCFgHj2H2dWIlzvbTb47) | 1:55 | 2023-04-13 |  |
+| [PROZAC](https://open.spotify.com/track/35exRd1JBdAV03NvziRYs4) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN) | [PROZAC](https://open.spotify.com/album/2e23M3Yc5hSRI91lv4Pke4) | 2:49 | 2023-04-14 |  |
 | [PSG](https://open.spotify.com/track/0eSEWznFliPPpXmCSR10YA) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [PSG](https://open.spotify.com/album/1VH2Hhq3cep5k7gcknPPkG) | 2:36 | 2022-06-23 | 2022-08-24 |
 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 | 2022-12-08 | 2023-01-04 |
 | [QUANTO CASINO](https://open.spotify.com/track/2UYfrM2ulvxYroL2ZQjRVY) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [QUANTO CASINO](https://open.spotify.com/album/0JzBL0zjYqwzU1edd9DZUk) | 2:46 | 2022-09-29 | 2022-10-07 |

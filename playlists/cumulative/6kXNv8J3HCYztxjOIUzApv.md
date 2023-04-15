@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-200 songs - 12 hr 39 min
+201 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-10-15 | 2023-01-04 |
 | [Walking In My Shoes](https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:51 | 2021-08-20 |  |
 | [War Nerve](https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:53 | 2022-03-08 |  |
+| [War Pigs](https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [War Pigs](https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x) | 5:09 | 2023-04-14 |  |
 | [War?](https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:40 | 2022-07-25 | 2023-01-04 |
 | [Warrior \(feat\. Travis Barker\)](https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior / Underrated](https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4) | 2:45 | 2021-08-20 | 2023-01-04 |
 | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2021-08-20 |  |

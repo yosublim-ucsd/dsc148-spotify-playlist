@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Romy
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,612 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,646 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 65 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 |
 | 66 | [harder](https://open.spotify.com/track/66zt8IyGtkoJEoxxnZOuQB) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [harder](https://open.spotify.com/album/2RYiKmYrXAt6QEyE3Pht2w) | 3:01 |
 | 67 | [Never Die](https://open.spotify.com/track/5Sjl43G665Bah8bFETiyoh) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC) | [Never Die](https://open.spotify.com/album/4lQcEVTUVjhE4wxyxhl4k7) | 3:22 |
-| 68 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 |
+| 68 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 69 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 |
 | 70 | [Like You in Linen](https://open.spotify.com/track/43C6k35MErofjbUCQAFD37) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Like You in Linen](https://open.spotify.com/album/0uyaQpCaqeZKLHS5Zf8e4x) | 3:20 |
 | 71 | [Arms Of Who \- Rework](https://open.spotify.com/track/352SDhyp43IeiCzauKXTyu) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms Of Who \(Rework\)](https://open.spotify.com/album/1j9vo0lvIR7yvLEO2lrdD0) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Dancing Ain't Enough](https://open.spotify.com/track/2AFtuddFzafFChO3RDnB51) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo), [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [Dancing Ain't Enough](https://open.spotify.com/album/2yOmqnThwnhPd3QPsefWWq) | 3:27 |
 | 75 | [Nobody Else](https://open.spotify.com/track/0D8T0ibtaX7PkBcpKlzo3Z) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) | 3:50 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGEyMTYyODgyZjc5MWJmODI2ZTk1NWY2ZDE0Y2MyY2Nh`
+Snapshot ID: `MTY4MTQ2NjgxOCwwMDAwMDAwMGQ3NDhiZDk5ODEzMmEwZjFmOTQxNzY1OTcwNmRiOWQx`

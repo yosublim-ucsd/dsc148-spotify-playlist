@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,857 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,907 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 56 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 |
 | 57 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
 | 58 | [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 |
-| 59 | [Walk Away](https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Walk Away](https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug) | 3:29 |
-| 60 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 |
+| 59 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 |
+| 60 | [Walk Away](https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Walk Away](https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug) | 3:29 |
 | 61 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |
 | 62 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
 | 63 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 79 | [BANG! BANG!](https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [BANG! BANG!](https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W) | 2:38 |
 | 80 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 |
 
-Snapshot ID: `MTY3MzY0NjQxNiwwMDAwMDAwMDc0MjRlMTgxOTkxNjgwZGM5NDk2MDczNjRlYWRlMmJm`
+Snapshot ID: `MTY3MzY0NjQxNiwwMDAwMDAwMDI3ODA4Y2QwYmY5ZjdhMTMyMTU5NzE0MGUxZTY4MTE5`

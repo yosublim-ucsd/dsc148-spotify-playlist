@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11098,
+  "num_followers": 11113,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMGI3ZDE5M2JjNmFlMGZjNjA4NWMxMzY2NDAyNjFjMWVl",
+  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMGI0N2FmMDY2MjJhOTQ5NDMwYWU5YTIxZDViMmY4ODhh",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:44",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "With me",
-      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "With me",
+      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 237030,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-03-31 10:23:44",

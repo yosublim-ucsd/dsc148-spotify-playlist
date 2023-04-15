@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 228493,
       "name": "El Cielo a Mi Favor",
       "url": "https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i"
@@ -3122,6 +3122,24 @@
       "duration_ms": 217760,
       "name": "Se puede amar",
       "url": "https://open.spotify.com/track/3jaG9XW2uHrKoDL4K5KZEU"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222346,
+      "name": "serotonina",
+      "url": "https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP"
     },
     {
       "album": {

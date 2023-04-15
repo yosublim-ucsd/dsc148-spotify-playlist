@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,565 likes - 85 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,670 likes - 85 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

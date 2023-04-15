@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "No News (2023 Version)",
+        "url": "https://open.spotify.com/album/1TA5XToA2y7gWRVjXZyiHr"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "Amazed - 2023 Version",
+      "url": "https://open.spotify.com/track/7jR4FTZmk8sYjBhjJP97Zt"
+    },
+    {
+      "album": {
         "name": "And Then Some",
         "url": "https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF"
       },
@@ -2234,6 +2252,24 @@
       "duration_ms": 198733,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/6BdSXxFTkybuT8CbcDLxru"
+    },
+    {
+      "album": {
+        "name": "No News (2023 Version)",
+        "url": "https://open.spotify.com/album/1TA5XToA2y7gWRVjXZyiHr"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186413,
+      "name": "No News - 2023 Version",
+      "url": "https://open.spotify.com/track/2K1M78aAirgsT99LjZzQir"
     },
     {
       "album": {

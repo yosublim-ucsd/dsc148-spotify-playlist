@@ -9537,6 +9537,28 @@
     },
     {
       "album": {
+        "name": "Blue night song",
+        "url": "https://open.spotify.com/album/2EIFbTHUp9QwbxJrs5w3pB"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        },
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225910,
+      "name": "Blue night song",
+      "url": "https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B"
+    },
+    {
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/56pwxoS3n0wBSpDmBrOIVp"
       },
@@ -10836,6 +10858,24 @@
       "duration_ms": 184480,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc"
+    },
+    {
+      "album": {
+        "name": "DIFF",
+        "url": "https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124026,
+      "name": "Buck",
+      "url": "https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk"
     },
     {
       "album": {
@@ -27603,7 +27643,7 @@
       "artists": [
         {
           "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+          "url": "https://open.spotify.com/artist/21pZ2vLoPfOxnwv5ihs7av"
         },
         {
           "name": "Tobio",
@@ -30788,6 +30828,24 @@
       "duration_ms": 183635,
       "name": "Gulliver",
       "url": "https://open.spotify.com/track/7HB3OUMUrZDdS0XnQ9h8Wr"
+    },
+    {
+      "album": {
+        "name": "Gunshot (Original Television Soundtrack From \"Duty After School\")",
+        "url": "https://open.spotify.com/album/0YovGTBw89gmvBxi2LuaDG"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181438,
+      "name": "Gunshot (Original Television Soundtrack From \"Duty After School\")",
+      "url": "https://open.spotify.com/track/5hu51url5Zal0EGVEurwpb"
     },
     {
       "album": {
@@ -41624,6 +41682,24 @@
       "duration_ms": 233395,
       "name": "Jungle Radio",
       "url": "https://open.spotify.com/track/3iM5JCKDQ3hXKeZJlSdoyj"
+    },
+    {
+      "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/1mNNVEDDbAWUGas45o94VZ"
+      },
+      "artists": [
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4DR1sTHvsHjyKObD5PscKA"
     },
     {
       "album": {
@@ -67228,8 +67304,8 @@
           "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
         },
         {
-          "name": "POLODARED",
-          "url": "https://open.spotify.com/artist/4R3VoFf4QWrwmkOuyxWPBR"
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
         }
       ],
       "date_added": "2023-04-12",
@@ -79578,6 +79654,28 @@
       "duration_ms": 219706,
       "name": "Today",
       "url": "https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2"
+    },
+    {
+      "album": {
+        "name": "TODAY (Feat. Kim Mi Jeong)",
+        "url": "https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN"
+      },
+      "artists": [
+        {
+          "name": "CHANHYUN",
+          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "TODAY (Feat. Kim Mi Jeong)",
+      "url": "https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt"
     },
     {
       "album": {

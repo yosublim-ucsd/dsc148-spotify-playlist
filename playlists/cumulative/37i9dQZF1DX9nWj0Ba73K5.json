@@ -3523,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "The Blade",
+        "url": "https://open.spotify.com/album/6qYwhKD3Mjvq8FOt31eCi3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Floyd",
+          "url": "https://open.spotify.com/artist/6oa3LL4lNRhWZPgcmtg6ZK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "The Blade",
+      "url": "https://open.spotify.com/track/5I6ww9S6hWYySdIQxmM3my"
+    },
+    {
+      "album": {
         "name": "Gold. Platinum. Chrome And Steele",
         "url": "https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj"
       },

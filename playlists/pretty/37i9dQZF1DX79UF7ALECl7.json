@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 117076,
+  "num_followers": 117092,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGE5NDMwYmMzZWE5ZDg5NTlhYzE4YTI0NTk1OWMwZjcy",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDVjOTUwMGUxNTFlYzQwNThiZjY1MDBkZDdjZDJiYTAx",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+      },
+      "artists": [
+        {
+          "name": "LYANE",
+          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+        }
+      ],
+      "duration_ms": 153345,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Obscure",
-        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
-      },
-      "artists": [
-        {
-          "name": "LYANE",
-          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
-        }
-      ],
-      "duration_ms": 153345,
-      "name": "Obscure",
-      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
       },
       "artists": [
         {
-          "name": "mAsis",
-          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
         }
       ],
-      "duration_ms": 223682,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
       },
       "artists": [
         {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+          "name": "mAsis",
+          "url": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
         }
       ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+      "duration_ms": 223682,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -819,22 +819,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
       "artists": [
         {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
         }
       ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
       "artists": [
         {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
         }
       ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Funk",
+          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
+        }
+      ],
+      "duration_ms": 211071,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Profound EP",
         "url": "https://open.spotify.com/album/3SSZfZPuBVKpFaSriYWBUt"
       },
@@ -927,34 +943,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
+        "name": "House Shit",
+        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
       },
       "artists": [
         {
-          "name": "Nothing But Funk",
-          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
         }
       ],
-      "duration_ms": 211071,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+      "duration_ms": 107586,
+      "name": "House Shit",
+      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -979,34 +979,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "House Shit",
-        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
       "artists": [
         {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 107586,
-      "name": "House Shit",
-      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -1115,18 +1083,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
       "artists": [
         {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
         }
       ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1143,6 +1111,22 @@
       "duration_ms": 165600,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Natural Movement",
-        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
       },
       "artists": [
         {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
         }
       ],
-      "duration_ms": 317288,
-      "name": "Back 2 It",
-      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "After Midnyte",
+        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 191819,
+      "name": "Got to Fall Out",
+      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "After Midnyte",
-        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
-      },
-      "artists": [
-        {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
-        }
-      ],
-      "duration_ms": 191819,
-      "name": "Got to Fall Out",
-      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "I Lost My Way",
-        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "I Lost My Way",
-      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Infinity (The Remixes)",
         "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Natural Movement",
+        "url": "https://open.spotify.com/album/5YzvYAfuFbXc36n4do35Jn"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 317288,
+      "name": "Back 2 It",
+      "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "I Lost My Way",
+        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "I Lost My Way",
+      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "What Should I Do",
         "url": "https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 175908,
       "name": "What Should I Do",
       "url": "https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Wax Casting",
+        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Woodcole",
+          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Dub 002",
         "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Wax Casting",
-        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Woodcole",
-          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
     },
     {
       "added_at": "2023-04-13 22:00:00",

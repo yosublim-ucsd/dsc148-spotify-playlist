@@ -1484,10 +1484,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 90070,
       "name": "Ijazat",
       "url": "https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT"
+    },
+    {
+      "album": {
+        "name": "Ijazat Cover",
+        "url": "https://open.spotify.com/album/58Ri6HbF07OMoYoE41Qfs9"
+      },
+      "artists": [
+        {
+          "name": "Arnob Khan Akib",
+          "url": "https://open.spotify.com/artist/6MmkwDpS1JUxr05xRBx5Tu"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90093,
+      "name": "Ijazat Cover",
+      "url": "https://open.spotify.com/track/18XICD9QHduuxiewBjFZga"
     },
     {
       "album": {

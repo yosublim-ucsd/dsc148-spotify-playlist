@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 46859,
+  "num_followers": 46903,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDExNywwMDAwMDAwMGY3NDFlZDU1NzY4ODYyMmY5NTEzMDZiYWRkYWI2NmI0",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDMxOGVhZWQ2MjZmNDQ2ZTRlY2QwODkyYTBkOWQzZDIz",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/6HlGorHFMS1vH536EJhCyv"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 256023,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4KLpRFRn11BiQHeODY6EeU"
+    },
+    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "For the Cool in You",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/3ilVn6i8gwJzTlfy50HLPo"
+      },
+      "artists": [
+        {
+          "name": "JJ Sansaverino",
+          "url": "https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy"
+        }
+      ],
+      "duration_ms": 215027,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/0Q00M9Rn0Nz519t2FLUJUW"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "I Wanna Be Down",
@@ -55,6 +87,26 @@
       "duration_ms": 294252,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Hoboken",
+        "url": "https://open.spotify.com/album/2eCVft4UJb36r2UeBnXM0G"
+      },
+      "artists": [
+        {
+          "name": "Slim Gambill",
+          "url": "https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx"
+        },
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Hoboken",
+      "url": "https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -89,6 +141,22 @@
       "url": "https://open.spotify.com/track/0GXwCLCJgQZEEIBDjk3apT"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "The Manhattan Sessions",
+        "url": "https://open.spotify.com/album/1tM9EL2tWxTIG5t8PVOJUJ"
+      },
+      "artists": [
+        {
+          "name": "Stephen Duros",
+          "url": "https://open.spotify.com/artist/6bMMVhovwIYA1yF1ZLHZwq"
+        }
+      ],
+      "duration_ms": 213723,
+      "name": "Heat of the Rhythm",
+      "url": "https://open.spotify.com/track/7HCdFjqTKyxShTz58ohH8A"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Jazz Party",
@@ -103,6 +171,30 @@
       "duration_ms": 287040,
       "name": "Jazz Party",
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Freddie Freeloader",
+        "url": "https://open.spotify.com/album/1AzwNDfEC7MTfPMEOGYeOo"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 281956,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/2vICDXXuj3ceVBHlp2ABYg"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -713,22 +805,6 @@
       "url": "https://open.spotify.com/track/4Cg8Y13powmHcQce8q0wAV"
     },
     {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Shine a Light",
-        "url": "https://open.spotify.com/album/3B3k8AASfqJTK7TXlJkhTT"
-      },
-      "artists": [
-        {
-          "name": "Michael Broening",
-          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
-        }
-      ],
-      "duration_ms": 406750,
-      "name": "Shine a Light",
-      "url": "https://open.spotify.com/track/5tL6TAf1qxRZu5wfMCGQhQ"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Savoir Faire",
@@ -1113,30 +1189,6 @@
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Ticket to Pittsburgh",
-        "url": "https://open.spotify.com/album/3OTI2McvDpATafqL7qxUq7"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 323500,
-      "name": "Ticket to Pittsburgh",
-      "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
-    },
-    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Believe",
@@ -1183,34 +1235,6 @@
       "duration_ms": 232751,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Manhattan Nights",
-        "url": "https://open.spotify.com/album/3Ax3p9DGGtGmOJ2kDRnpxC"
-      },
-      "artists": [
-        {
-          "name": "Stephen Duros",
-          "url": "https://open.spotify.com/artist/6bMMVhovwIYA1yF1ZLHZwq"
-        },
-        {
-          "name": "Ken Freeman",
-          "url": "https://open.spotify.com/artist/3Zkyc5Jp05iEeC73U1BNW7"
-        },
-        {
-          "name": "Larry Crowe",
-          "url": "https://open.spotify.com/artist/0YMgRY0jbFVyTnA5vYvQe6"
-        },
-        {
-          "name": "Lenny Castro",
-          "url": "https://open.spotify.com/artist/19raT6ODTtEVtTTSgB9T1Z"
-        }
-      ],
-      "duration_ms": 325687,
-      "name": "Manhattan Nights",
-      "url": "https://open.spotify.com/track/76OLNmYoqMslPGJOxXsOnd"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1597,22 +1621,6 @@
       "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Stride",
@@ -1655,34 +1663,6 @@
       "duration_ms": 184285,
       "name": "Newfound Treasure",
       "url": "https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Protest Injustice",
-        "url": "https://open.spotify.com/album/4DK0GKLXoPHbUTuq3AsWvX"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Arun Shenoy",
-          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
-        },
-        {
-          "name": "Douglas Lira",
-          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
-        },
-        {
-          "name": "Strat Carter",
-          "url": "https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Protest Injustice",
-      "url": "https://open.spotify.com/track/1aREJJkEL35o73R4uw5w0z"
     },
     {
       "added_at": "2022-05-13 04:02:00",

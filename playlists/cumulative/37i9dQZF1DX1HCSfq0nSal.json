@@ -1414,7 +1414,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -1489,7 +1489,7 @@
     },
     {
       "album": {
-        "name": "D X Vida",
+        "name": "D X VIDA",
         "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
       },
       "artists": [
@@ -1506,7 +1506,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182576,
-      "name": "D X Vida",
+      "name": "D X VIDA",
       "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
     },
     {
@@ -6518,6 +6518,28 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "album": {
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
     },
     {
       "album": {

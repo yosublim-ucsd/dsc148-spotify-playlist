@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3598191,
+  "num_followers": 3599009,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA2MzYwMywwMDAwMDAwMGU1OTY4NTEwZmNmYzI4YzkyNDllZmVjYmFkZDRhYjUz",
+  "snapshot_id": "MTY3OTA2MzYwMywwMDAwMDAwMDdiMzBjMzM5MDdiNGQzZmFhMTFiOWY3ODE5NGY5NDQw",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -723,22 +723,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "New Fires",
-        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 251591,
-      "name": "New Fires",
-      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
+        "name": "New Fires",
+        "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 187990,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w"
+      "duration_ms": 251591,
+      "name": "New Fires",
+      "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 273679,
+      "name": "Manila Palm",
+      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Leave You",
         "url": "https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9"
+        "name": "A Range of Light",
+        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
         }
       ],
-      "duration_ms": 273679,
-      "name": "Manila Palm",
-      "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+      "duration_ms": 224637,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 183876,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "A Range of Light",
-        "url": "https://open.spotify.com/album/5TB7mKRYc9jZ4pP6YGMpGV"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 224637,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/768eZ69L0HODV9UlcriGaq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1819,22 +1819,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG"
       },
       "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
         {
           "name": "Sultan + Shepard",
           "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
         }
       ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+      "duration_ms": 252058,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1863,26 +1867,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Pattern",
-        "url": "https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
         }
       ],
-      "duration_ms": 252058,
-      "name": "Pattern",
-      "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
+      "duration_ms": 253240,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/22QG2saDLvgToHzeOZPm20"
     }
   ],
   "unique_name": "Chill Tracks",

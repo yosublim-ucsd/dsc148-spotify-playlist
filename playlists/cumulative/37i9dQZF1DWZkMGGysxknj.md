@@ -4,10 +4,11 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-255 songs - 14 hr 29 min
+256 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [23](https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [23](https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1) | 3:07 | 2023-04-15 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-07-16 |  |
 | [7 Inches](https://open.spotify.com/track/0Dh4cFSEyEWacV2FRf1viP) | [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1) | [For the Wolfish & Wandering](https://open.spotify.com/album/6tcuUCswHBUn4TikHmJK3M) | 3:26 | 2021-07-16 | 2022-07-29 |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2021-07-16 |  |
@@ -186,8 +187,8 @@
 | [Que Facil Es Hablar](https://open.spotify.com/track/2CiVK2RuaMOieFPdYacJtB) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2mmRppQCZB8ccGGUkxp0dJ) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 | 2021-07-16 |  |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-07-16 |  |
-| [Rare](https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P) | [Nina Olivia](https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9) | [Rare](https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak) | 3:44 | 2021-07-16 |  |
-| [Reencontrarnos](https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5), [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Reencontrarnos](https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5) | 4:15 | 2023-04-01 |  |
+| [Rare](https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P) | [Nina Olivia](https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9) | [Rare](https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak) | 3:44 | 2021-07-16 | 2023-04-15 |
+| [Reencontrarnos](https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5), [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Reencontrarnos](https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5) | 4:15 | 2023-03-31 |  |
 | [Sad Town](https://open.spotify.com/track/45VNBVpp3UZA3fD8At5j3I) | [Birdy Bardot](https://open.spotify.com/artist/0fLUN3EcqC9nKhHKYOQ539) | [Sad Town](https://open.spotify.com/album/1WVMyPT8JE0ZVgwRJTJI7e) | 4:19 | 2021-07-16 | 2022-07-28 |
 | [Saturday Nights](https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Saturday Nights](https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv) | 2:58 | 2021-07-16 |  |
 | [Saudade \- Versión Acústica](https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Saudade \(Versión Acústica\)](https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG) | 3:58 | 2021-07-16 |  |

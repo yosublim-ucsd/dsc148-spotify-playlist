@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 15789,
+  "num_followers": 15796,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDczNjhjYjg5NWM0NmMwZDg0MDhkZTg0ZTUwNGQ3NGRh",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDA4NTVjZjc5NmNmY2U0YTdlNGRkMjBiYmM3ZDMwOTMw",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 274482,
-      "name": "Muleque De Vila",
-      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Slow Flow",
         "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 159730,
       "name": "Rosas e Rimas",
       "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -727,6 +727,22 @@
       "duration_ms": 329920,
       "name": "Respeito \u00c9 pra Quem Tem",
       "url": "https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
-      },
-      "artists": [
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Bonde da Madrugada pt. 2",
         "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
       },
@@ -815,6 +815,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Oriente",
-        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
-      },
-      "artists": [
-        {
-          "name": "Oriente, Rebeca",
-          "url": "https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE"
-        }
-      ],
-      "duration_ms": 202617,
-      "name": "Linda, Louca e Mimada",
-      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Di\u00e1spora",
         "url": "https://open.spotify.com/album/1Q03zZsHWMBmW1LJ0Qo9f8"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 315933,
       "name": "Di\u00e1spora",
       "url": "https://open.spotify.com/track/5Ry5dvgGqRn6FJzF3dlH25"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Oriente",
+        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
+      },
+      "artists": [
+        {
+          "name": "Oriente, Rebeca",
+          "url": "https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE"
+        }
+      ],
+      "duration_ms": 202617,
+      "name": "Linda, Louca e Mimada",
+      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

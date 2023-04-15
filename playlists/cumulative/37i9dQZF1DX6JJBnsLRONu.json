@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS"
+    },
+    {
+      "album": {
         "name": "Red Dead Redemption Original Soundtrack",
         "url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK"
       },

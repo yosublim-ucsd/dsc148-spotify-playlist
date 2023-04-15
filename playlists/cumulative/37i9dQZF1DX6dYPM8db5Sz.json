@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=GRkdBRNXRs-c3_OL2XTfrA\">Lucy Kruger & The Lost Boys</a>",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=THmU87LkRuW3AM6shL3PFQ\">Kloudink</a>",
   "name": "SAlt",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 140494,
       "name": "Above Water",
       "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199384,
       "name": "Baby from Atlanta",
       "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "MotherFather",
+        "url": "https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151275,
+      "name": "Best One",
+      "url": "https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI"
+    },
+    {
+      "album": {
         "name": "Better Together (Acoustic)",
         "url": "https://open.spotify.com/album/5HXfoEBYak7Iu5TjLt0IqE"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 303529,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/3gv47i3eI5YN7vVX1Rax9m"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 208000,
       "name": "Bug Bites",
       "url": "https://open.spotify.com/track/4BuFwzFaE1gnEYrgIdollf"
@@ -688,6 +706,24 @@
       "duration_ms": 216398,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn"
+    },
+    {
+      "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/4QTSXWfsESSVLTPdXkBG4s"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Stephen Simons",
+          "url": "https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255991,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/5NpL6MZYw5JJz2iQw9cD66"
     },
     {
       "album": {
@@ -1680,7 +1716,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 232160,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/3dqjCz5iXTjKumvHOpQFLw"
@@ -1723,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6pwaBv6eLgpCy61j1X18MI"
+      },
+      "artists": [
+        {
+          "name": "Just Mia",
+          "url": "https://open.spotify.com/artist/69yCMdp9f50YlB42gYrC3H"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M"
+    },
+    {
+      "album": {
         "name": "Home Grown Flowers",
         "url": "https://open.spotify.com/album/7kzhGEkq46mfCiGXaTe6Sg"
       },
@@ -1756,6 +1810,24 @@
       "duration_ms": 169306,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5OwGcj4q2ccikHjtpAcOM3"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161504,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/6CR9ZGHjJOdvXtiEvR7qLS"
     },
     {
       "album": {
@@ -1984,7 +2056,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
@@ -2056,7 +2128,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 220046,
       "name": "it's not me (it's u)",
       "url": "https://open.spotify.com/track/4R9pq6DudcNooi09OLvzNt"
@@ -2078,6 +2150,24 @@
       "duration_ms": 232000,
       "name": "Izibongo Zami",
       "url": "https://open.spotify.com/track/0cBmKjNZdIFdNk7eXvp1bT"
+    },
+    {
+      "album": {
+        "name": "Jitterbug",
+        "url": "https://open.spotify.com/album/455hS0gKWKpiAVMretDPgy"
+      },
+      "artists": [
+        {
+          "name": "Nic Preen",
+          "url": "https://open.spotify.com/artist/4LSZlGbwEQvVj7V0f9ngU0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163090,
+      "name": "Jitterbug",
+      "url": "https://open.spotify.com/track/19vOqAbUEc0VGfFsahoTT4"
     },
     {
       "album": {
@@ -2272,7 +2362,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 327634,
       "name": "Letters To Her",
       "url": "https://open.spotify.com/track/5J97ILfiHISwAHM2kJB5J7"
@@ -2464,7 +2554,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187653,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"
@@ -2620,7 +2710,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 228000,
       "name": "Ndi a Ni Funa",
       "url": "https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1"
@@ -2907,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/253aXlpWUfWcsBYHCIfEuS"
+      },
+      "artists": [
+        {
+          "name": "Kloudink",
+          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257910,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/6xhxc0Z25bPsFX6TReNtOc"
+    },
+    {
+      "album": {
         "name": "Distopia",
         "url": "https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9"
       },
@@ -2922,6 +3030,24 @@
       "duration_ms": 213940,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
+    },
+    {
+      "album": {
+        "name": "Picasso'sConcept",
+        "url": "https://open.spotify.com/album/6umdXya30JzYnahewihJb6"
+      },
+      "artists": [
+        {
+          "name": "MELLE",
+          "url": "https://open.spotify.com/artist/4Xsikt3RZsWMRwsRa2DnVD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244358,
+      "name": "Picasso'sConcept",
+      "url": "https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G"
     },
     {
       "album": {
@@ -3182,6 +3308,24 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/0OiuUVfE36MWrMTJHsHgow"
+      },
+      "artists": [
+        {
+          "name": "Richard Stirton",
+          "url": "https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266451,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU"
     },
     {
       "album": {
@@ -3481,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Era 555",
+        "url": "https://open.spotify.com/album/5VIjNIInyKNFdpPFLrrA3h"
+      },
+      "artists": [
+        {
+          "name": "Miyelani",
+          "url": "https://open.spotify.com/artist/6YGulIJN0mxkJlOMJ9KNBF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226741,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2lqeImzOzJY8Z3K4cptJqe"
+    },
+    {
+      "album": {
         "name": "Skip to the Present",
         "url": "https://open.spotify.com/album/38w9omFsu7BjToXXhmAUgR"
       },
@@ -3702,7 +3864,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274337,
       "name": "Swim Back",
       "url": "https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj"
@@ -4002,6 +4164,24 @@
       "duration_ms": 130142,
       "name": "Tonite",
       "url": "https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A"
+    },
+    {
+      "album": {
+        "name": "Too Lost in You",
+        "url": "https://open.spotify.com/album/5AucKgLVhQ9BunewaVmpye"
+      },
+      "artists": [
+        {
+          "name": "PHFAT",
+          "url": "https://open.spotify.com/artist/5OjwToGCaI7xwzN5l27VIN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209072,
+      "name": "Too Lost in You",
+      "url": "https://open.spotify.com/track/2zOzF2hfTy2YupyhlnD8Sl"
     },
     {
       "album": {

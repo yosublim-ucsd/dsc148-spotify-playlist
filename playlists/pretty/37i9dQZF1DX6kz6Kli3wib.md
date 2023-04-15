@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,056 likes - 148 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,098 likes - 148 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 7 | [holy cows](https://open.spotify.com/track/2nSpe6yeULSw6pu4DEJAN0) | [Hicut Lopass](https://open.spotify.com/artist/1sS4XmaU4vzA2TQ2PbKqJX) | [holy cows](https://open.spotify.com/album/46GCXSORoBE6MnvIGEg6Yb) | 2:01 |
 | 8 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 |
 | 9 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 |
-| 10 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 |
-| 11 | [Counting Minutes](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Counting Minutes](https://open.spotify.com/album/28z1GRHUJVAiVihlBM1pqe) | 2:18 |
+| 10 | [Counting Minutes](https://open.spotify.com/track/4SQCH4rJrVxAHcdlLOWtX9) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Counting Minutes](https://open.spotify.com/album/28z1GRHUJVAiVihlBM1pqe) | 2:18 |
+| 11 | [Easy Going](https://open.spotify.com/track/0ZcsS6h3lz6651TSvMTCqo) | [Dee Delvechio](https://open.spotify.com/artist/6MGmJoRyVYie4OBBtkvLQ2) | [Easy Going](https://open.spotify.com/album/4IXljxNRUqWInfLbpeUMCJ) | 2:21 |
 | 12 | [Thanks To You](https://open.spotify.com/track/1a3kjYRNW9vrvn8VG7wmv5) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Thanks To You](https://open.spotify.com/album/0lHve23h4PTqyf9L9b53Uy) | 3:07 |
 | 13 | [Moment Of Truth](https://open.spotify.com/track/5UtW7NhfDYUmmLy87YKlat) | [Of An Age](https://open.spotify.com/artist/5vbszQaOLYBHG5jjVvF4Le) | [Moment Of Truth](https://open.spotify.com/album/3zgh81HSmMS848FRY1ugqm) | 3:45 |
 | 14 | [Nighttime Flow](https://open.spotify.com/track/2M8UxcYTFMQgTPC16zjiJB) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Nighttime Flow](https://open.spotify.com/album/1BzIrWpww8v3E8fluT75KV) | 2:52 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 147 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 |
 | 148 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 
-Snapshot ID: `MTY3OTAxMTI2MCwwMDAwMDAwMGVmMzMwMzAzYWEzODIyNTRjYzVkZTczZmQxZDYxOGNl`
+Snapshot ID: `MTY4MTQ3NDYzMiwwMDAwMDAwMGRkODliMDQ2YmY1ZjY2NjAwYjQxYTA3NzFkZTA2MWYz`

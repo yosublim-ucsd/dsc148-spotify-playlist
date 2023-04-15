@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"
+    },
+    {
+      "album": {
         "name": "drift",
         "url": "https://open.spotify.com/album/1zF8UZSu4zDHVSqbFmsI5L"
       },

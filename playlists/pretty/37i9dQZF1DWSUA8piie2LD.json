@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 70270,
+  "num_followers": 70423,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM3NTU1NywwMDAwMDAwMDAyNDUyZWEzY2VjZTBiNWY5MDFhOGQ5OWJmY2I5ZTRm",
+  "snapshot_id": "MTY4MTM3NTU1NywwMDAwMDAwMDQ5NTZkOGI3MDQxOTgwZmVkODk3YTg4N2E2OGUzMDQ0",
   "tracks": [
     {
       "added_at": "2023-03-22 12:40:48",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+        "name": "Dance Of The Soul",
+        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
         }
       ],
-      "duration_ms": 233042,
-      "name": "When I Say Your Name",
-      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
+      "duration_ms": 271800,
+      "name": "Love's Serenade",
+      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -639,18 +635,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Dance Of The Soul",
-        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis",
-          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Love's Serenade",
-      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
+      "duration_ms": 233042,
+      "name": "When I Say Your Name",
+      "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 254746,
-      "name": "Can't Tell You Why",
-      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -763,6 +747,38 @@
       "duration_ms": 308826,
       "name": "A Summer Night's Dream",
       "url": "https://open.spotify.com/track/0c0BVgVakGq5rylCucXVau"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Work to Do",
+        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
+      },
+      "artists": [
+        {
+          "name": "Fattburger",
+          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
+        }
+      ],
+      "duration_ms": 293133,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -807,18 +823,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Work to Do",
-        "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
       "artists": [
         {
-          "name": "Fattburger",
-          "url": "https://open.spotify.com/artist/57EAEbnYbr1PFzadw9Zvgi"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 293133,
-      "name": "100 Ways",
-      "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
+      "duration_ms": 392506,
+      "name": "Sensuality",
+      "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 392506,
-      "name": "Sensuality",
-      "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 276226,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Sneak a Peek",
-      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Above The Clouds",
-        "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 222853,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
+      "duration_ms": 304400,
+      "name": "Sneak a Peek",
+      "url": "https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Above The Clouds",
+        "url": "https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "A Quiet Place",
-      "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 295933,
       "name": "Later Tonight",
       "url": "https://open.spotify.com/track/3gQjJXN3AnbvgeBY4Vomi4"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "A Quiet Place",
+      "url": "https://open.spotify.com/track/1OPul4djgqzViAUdGMHJof"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Somethin' Bout Love",
-        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Somethin' Bout Love",
-      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "Somethin' Bout Love",
+        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
+      "duration_ms": 285733,
+      "name": "Somethin' Bout Love",
+      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+      },
+      "artists": [
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
       },
@@ -1191,38 +1207,6 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
-      },
-      "artists": [
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
         "name": "Someone To Love You",
         "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 290453,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
+        "name": "One Special Moment",
+        "url": "https://open.spotify.com/album/4OzVLEUQ8StLgWCarWmyvC"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        },
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        },
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Secrets Told",
+      "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
+    },
+    {
+      "added_at": "2023-03-22 12:40:48",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
       },
@@ -1347,30 +1371,6 @@
       "duration_ms": 242000,
       "name": "Shelbi",
       "url": "https://open.spotify.com/track/3THBbgiNAp43CpeU5knmFn"
-    },
-    {
-      "added_at": "2023-03-22 12:40:48",
-      "album": {
-        "name": "One Special Moment",
-        "url": "https://open.spotify.com/album/4OzVLEUQ8StLgWCarWmyvC"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        },
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Secrets Told",
-      "url": "https://open.spotify.com/track/5lj52TLx3oa8qoVdTCpvZH"
     },
     {
       "added_at": "2023-03-22 12:40:48",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-03-22 12:40:48",
       "album": {
-        "name": "Groove On!",
-        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 293613,
-      "name": "Round and Round",
-      "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
+      "duration_ms": 269453,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/7dTrU26wEI2BTGZ5vb0HCy"
     }
   ],
   "unique_name": "Romantic Smooth Jazz",

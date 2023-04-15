@@ -2,9 +2,9 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq?si=NJq9xDo3Qey9oZYAEBhYpA"> Stonebwoy</a>
+> The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG?si=KnsJMu\_JRN\-DYtslP6qgUA"> Bayanni</a> and <a href="https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y?si=YmRjjZgBRCeeSiJ2Fd\_buQ"> Jason Derulo</a>
 
-301 songs - 15 hr 43 min
+302 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 |  |
 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 | 2023-02-16 |  |
 | [My Baby](https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [My Baby](https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW) | 2:48 | 2023-02-03 | 2023-02-10 |
-| [My Lover](https://open.spotify.com/track/6bxFI9U3hOEmAsRlo2cnwH) | [Guapanessse](https://open.spotify.com/artist/6zJgkHLtZhceHLSun3u4tm), [Otile Brown](https://open.spotify.com/artist/59hvamaii1oHIHADPits7C), [Pabi Cooper](https://open.spotify.com/artist/7L6o1JwhvcWc8R9gW3J457) | [My Lover](https://open.spotify.com/album/1F7RZi3QRqRnWWrpVM8vnn) | 3:01 | 2023-03-30 |  |
+| [My Lover](https://open.spotify.com/track/6bxFI9U3hOEmAsRlo2cnwH) | [Guapanessse](https://open.spotify.com/artist/6zJgkHLtZhceHLSun3u4tm), [Otile Brown](https://open.spotify.com/artist/59hvamaii1oHIHADPits7C), [Pabi Cooper](https://open.spotify.com/artist/7L6o1JwhvcWc8R9gW3J457) | [My Lover](https://open.spotify.com/album/1F7RZi3QRqRnWWrpVM8vnn) | 3:01 | 2023-03-30 | 2023-04-15 |
 | [My Man](https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA) | 3:38 | 2022-04-07 | 2022-12-02 |
 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 | 2021-10-11 | 2022-11-13 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-16 | 2022-07-01 |
@@ -282,6 +282,7 @@
 | [Sundress](https://open.spotify.com/track/5TMZ2IjHlZgKth7v2wp9YK) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Sunset Stories: A Mixtape](https://open.spotify.com/album/2onOtERxl33g3YfbhGJ4ci) | 3:31 | 2022-09-29 | 2022-10-14 |
 | [Sweetah](https://open.spotify.com/track/5UaMqWZYeTwPnAPMmGWrDg) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Sweetah](https://open.spotify.com/album/45US1zurGmfatH0ewaKNuD) | 3:16 | 2021-11-15 | 2022-04-15 |
 | [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 | 2022-02-17 | 2022-11-13 |
+| [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 |  |
 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 | 2022-08-18 | 2022-10-21 |
 | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt) | 3:25 | 2022-07-29 | 2022-08-19 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 | 2023-02-19 |

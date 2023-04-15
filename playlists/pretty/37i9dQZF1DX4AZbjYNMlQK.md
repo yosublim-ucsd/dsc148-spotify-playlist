@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,608 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,589 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 39 | [25 de Diciembre](https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [25 de Diciembre](https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY) | 2:58 |
 | 40 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 41 | [Navidad En Pr](https://open.spotify.com/track/13mE3Skl0hCb1oigQzobQl) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Navidad En Pr](https://open.spotify.com/album/7p7YqBXRbW5vEohzUDB6eq) | 4:11 |
-| 42 | [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 |
-| 43 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 |
+| 42 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 |
+| 43 | [Regresé Para Navidad](https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Regresé Para Navidad](https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe) | 2:47 |
 | 44 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 |
 | 45 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
 | 46 | [Last Christmas \- Versión Español](https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Last Christmas \(Versión Español\)](https://open.spotify.com/album/76KZzbhufZs8y12v5mBE5w) | 3:21 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 60 | [Para Navidad](https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Para Navidad](https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2) | 2:57 |
 | 61 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 2:32 |
 
-Snapshot ID: `MTY3MTczNDI2OSwwMDAwMDAwMGVmMGU2ZTVkNDFlZmRlMGI1YWNiYzBlNTU3YWE4Y2Iw`
+Snapshot ID: `MTY3MTczNDI2OSwwMDAwMDAwMDU0OTc2MjFmNmI3YzRkMTZjY2Y2NTI1NDQ3M2E1N2Qw`

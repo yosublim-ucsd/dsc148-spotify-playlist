@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,252 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,322 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 |
 | 100 | [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGJlMDVkNmRlM2UwODZhZjY4MTAwM2I4YTc3MmRkZDJm`
+Snapshot ID: `MTY4MTQ2NjU3MCwwMDAwMDAwMDI0YTM5YmU2MTMyNzFjYzE2MDEwN2E0NzYyMDk2OTFi`

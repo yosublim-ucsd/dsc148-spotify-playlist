@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Trying to Hold On",
+        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
+      },
+      "artists": [
+        {
+          "name": "Diunna Greenleaf",
+          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Be for Me",
+      "url": "https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7"
+    },
+    {
+      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163933,
       "name": "I Want to Hear You Sing",
       "url": "https://open.spotify.com/track/3Ek5imwgbQxR8bWdtxJJwk"
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 134333,
       "name": "Mashing Rain",
       "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176738,
       "name": "Wasting Time With You",
       "url": "https://open.spotify.com/track/6QMZqQ1BqqeNVknaEWzUhe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841 likes - 22 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 845 likes - 22 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 3 | [Stoned, Alone](https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:09 |
 | 4 | [Mary](https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:46 |
 | 5 | [Stella](https://open.spotify.com/track/0V1Ww4KZzeNvImlv3BnLBl) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 4:40 |
-| 6 | [Afterglow](https://open.spotify.com/track/6zixerdspBU1krXRNMaalM) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Afterglow](https://open.spotify.com/album/1vl7YPWGq7DgJMcOsWHWIg) | 4:44 |
+| 6 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 |
 | 7 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
-| 8 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 |
+| 8 | [Afterglow](https://open.spotify.com/track/6zixerdspBU1krXRNMaalM) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Afterglow](https://open.spotify.com/album/1vl7YPWGq7DgJMcOsWHWIg) | 4:44 |
 | 9 | [Silverspoon](https://open.spotify.com/track/16hoFpn4UinRTtqCD0iSIt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:42 |
 | 10 | [Slide Away](https://open.spotify.com/track/2DK4iSjT5g0lyqGwHOSG6f) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Slide Away](https://open.spotify.com/album/1365iNoQHqzhKQng8DpkEF) | 4:07 |
 | 11 | [Dweeb](https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 4:23 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 21 | [Yellowbelly](https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:14 |
 | 22 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDBlYTlhZDQ1ZGZjMzlhNjBhYzUxYzg1ZTM1MDdiODU3Mg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBlZDRlYmIwNWQ3ZjYxNGNlMjdkMmU2YzIyMDcyYjkyNg==`

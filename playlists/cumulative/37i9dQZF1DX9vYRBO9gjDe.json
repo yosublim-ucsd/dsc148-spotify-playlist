@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30024\u670811\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30024\u670812\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Harenchi",
+        "url": "https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160164,
+      "name": "BIJIN",
+      "url": "https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9"
+    },
+    {
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl"
       },
@@ -829,6 +847,24 @@
     },
     {
       "album": {
+        "name": "FULLCOLOR",
+        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255408,
+      "name": "Burning Friday Night",
+      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
+    },
+    {
+      "album": {
         "name": "By The End Of The Night",
         "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
       },
@@ -941,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Cantabile",
+        "url": "https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Cantabile",
+      "url": "https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58"
+    },
+    {
+      "album": {
         "name": "CAN'T BUY MY LOVE",
         "url": "https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd"
       },
@@ -1032,6 +1086,28 @@
       "duration_ms": 211700,
       "name": "CHILI CHOCOLATE",
       "url": "https://open.spotify.com/track/4McjocmLGIWuKnjIm8g9HD"
+    },
+    {
+      "album": {
+        "name": "CHILL CHILL MICHELLE feat. SUDA MASAKI",
+        "url": "https://open.spotify.com/album/4JOhow7VJUDmmdYWbjVvvC"
+      },
+      "artists": [
+        {
+          "name": "STRANGE REITARO",
+          "url": "https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4"
+        },
+        {
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "CHILL CHILL MICHELLE feat. SUDA MASAKI",
+      "url": "https://open.spotify.com/track/2JVOI4H7atEqOUVdmPZ4RA"
     },
     {
       "album": {
@@ -1296,7 +1372,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -2008,7 +2084,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179266,
       "name": "FINE LINE (feat. Skaai) (Prod. uin)",
       "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
@@ -2230,7 +2306,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 207015,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip"
@@ -2804,7 +2880,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
@@ -3116,7 +3192,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191198,
       "name": "I\u2019m now here",
       "url": "https://open.spotify.com/track/44eBoxkBWlUUQH2uiVCbYp"
@@ -3286,7 +3362,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 198673,
       "name": "Kimochy",
       "url": "https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF"
@@ -3326,6 +3402,24 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
       "album": {
@@ -3376,7 +3470,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 207166,
       "name": "LADY",
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
@@ -4517,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "OTONABLUE",
+      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
+    },
+    {
+      "album": {
         "name": "OTONABLUE",
         "url": "https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i"
       },
@@ -4528,7 +4640,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185538,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo"
@@ -5142,6 +5254,24 @@
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "album": {
+        "name": "Red:birthmark",
+        "url": "https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Red:birthmark",
+      "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
     },
     {
       "album": {
@@ -6859,6 +6989,24 @@
     },
     {
       "album": {
+        "name": "Verbal Justice",
+        "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Verbal Justice",
+      "url": "https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av"
+    },
+    {
+      "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
       },
@@ -7876,7 +8024,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 230800,
       "name": "\u3084\u3055\u3057\u3044\u30ad\u30b9\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/5xsxvfSHqdaF5DumnLfKjq"
@@ -7916,6 +8064,24 @@
       "duration_ms": 186694,
       "name": "\u30a2\u30a4\u30ab\u30ae",
       "url": "https://open.spotify.com/track/54KCUHsvxnZzSnTzBCyhnq"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "album": {
@@ -8050,6 +8216,24 @@
       "duration_ms": 254138,
       "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
       "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
+    },
+    {
+      "album": {
+        "name": "last aurorally",
+        "url": "https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325693,
+      "name": "\u30a2\u30ec\u30ad\u30b7\u30b5\u30a4\u30df\u30a2\u30b9\u30da\u30a2",
+      "url": "https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso"
     },
     {
       "album": {
@@ -8302,7 +8486,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199585,
       "name": "\u30bb\u30d6\u30f3\u30c6\u30a3\u30fc\u30f3",
       "url": "https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB"
@@ -9210,7 +9394,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 263733,
       "name": "\u51fa\u9022\u3063\u305f\u9803\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/6Z7LayRg0N3mkFFjGsO8fN"
@@ -9632,6 +9816,24 @@
       "duration_ms": 234866,
       "name": "\u60b2\u3057\u3044\u6c17\u6301\u3061(Just a man in love)",
       "url": "https://open.spotify.com/track/14evwICDoy0d36Nat7hsUT"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3057\u3066\u307f\u3066\u3088\u6e1b\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3057",
+        "url": "https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198806,
+      "name": "\u611b\u3057\u3066\u307f\u3066\u3088\u6e1b\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3057",
+      "url": "https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS"
     },
     {
       "album": {

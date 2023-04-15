@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151066,
       "name": "Brain Damage",
       "url": "https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
@@ -1202,6 +1202,24 @@
       "duration_ms": 301962,
       "name": "Game of Thrones (Main Theme)",
       "url": "https://open.spotify.com/track/6L5QcgxgdqWAh9fknzChJH"
+    },
+    {
+      "album": {
+        "name": "Windy City (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9"
     },
     {
       "album": {
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 229760,
       "name": "Outbound Plane",
       "url": "https://open.spotify.com/track/2Dx0LnWpxdKyKlYPMNiaUn"
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 228352,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T"
@@ -3250,6 +3268,42 @@
       "duration_ms": 310853,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7"
+    },
+    {
+      "album": {
+        "name": "The Devil Went Down to Utah",
+        "url": "https://open.spotify.com/album/4lqJ0SpmQ5oL4J7yYxEKQw"
+      },
+      "artists": [
+        {
+          "name": "Pixie and The Partygrass Boys",
+          "url": "https://open.spotify.com/artist/4roJTFn2kSsoN1UIwiXUJ3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293017,
+      "name": "The Devil Went Down to Utah",
+      "url": "https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269146,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O"
     },
     {
       "album": {
@@ -3788,6 +3842,24 @@
       "duration_ms": 206826,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4G7Q7lJaJjm6YciwXuQs4H"
+    },
+    {
+      "album": {
+        "name": "Your Cheatin' Heart",
+        "url": "https://open.spotify.com/album/4wsfGe51ggt8ECtwfZ48ER"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201034,
+      "name": "Your Cheatin' Heart",
+      "url": "https://open.spotify.com/track/2d98MI58RiTw614uKkwPkJ"
     },
     {
       "album": {

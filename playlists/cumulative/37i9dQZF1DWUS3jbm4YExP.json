@@ -1052,7 +1052,7 @@
           "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "date_added": "2023-04-06",
+      "date_added": "2023-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 450240,
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
@@ -2969,6 +2969,28 @@
     },
     {
       "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "album": {
         "name": "Mr Bongo Record Club, Vol. 1",
         "url": "https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r"
       },
@@ -3318,7 +3340,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
@@ -3760,7 +3782,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
@@ -5182,6 +5204,40 @@
       "duration_ms": 323082,
       "name": "L.A. Night",
       "url": "https://open.spotify.com/track/5t3qH3xZNxTscMT0adF8hF"
+    },
+    {
+      "album": {
+        "name": "GOSHINBOKU",
+        "url": "https://open.spotify.com/album/6ETbH5RFLFcY3lyWy495b1"
+      },
+      "artists": [
+        {
+          "name": "Anthonius",
+          "url": "https://open.spotify.com/artist/2WALCcYqfxc6tcLVbt5Sny"
+        },
+        {
+          "name": "Yadira Ferrer",
+          "url": "https://open.spotify.com/artist/2mginHA29nrfNmvFoGtgKX"
+        },
+        {
+          "name": "Tarquim",
+          "url": "https://open.spotify.com/artist/7qMC73hJTezS5KODuYn8ta"
+        },
+        {
+          "name": "Kevin D\u00edaz",
+          "url": "https://open.spotify.com/artist/1RkrvgjO0Ig4OsD0jjhHkv"
+        },
+        {
+          "name": "Diego Coppinger",
+          "url": "https://open.spotify.com/artist/6unKT5IZSWhllP00qDflu4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387348,
+      "name": "La Ceiba",
+      "url": "https://open.spotify.com/track/5Qxq67uihw0kxbuDh2IBqw"
     },
     {
       "album": {
@@ -7815,6 +7871,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic Covers",
+        "url": "https://open.spotify.com/album/6xUrdhFact10AmqeGLSRg8"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220369,
+      "name": "Roforofo Fight",
+      "url": "https://open.spotify.com/track/3ICKoXCVtFE6rp4bJfgxGa"
+    },
+    {
+      "album": {
         "name": "Invisible Joy",
         "url": "https://open.spotify.com/album/5qWGSPSciy5ZaEXLo8ORlD"
       },
@@ -8306,6 +8380,24 @@
       "duration_ms": 343841,
       "name": "Silence is Golden",
       "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
+    },
+    {
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "album": {
@@ -9136,7 +9228,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"

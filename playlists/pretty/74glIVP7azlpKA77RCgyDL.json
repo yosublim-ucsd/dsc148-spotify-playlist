@@ -1,13 +1,29 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Pupil Slicer",
-  "num_followers": 7713,
+  "num_followers": 7714,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjYzMCw3MWVhZDEwNzU5MTVhMDFmMzY5NjRmMjljMmViOTJkYTAxMzAzMjFj",
+  "snapshot_id": "MjYzMiw1NTNhZDFjYjEyYTIwNTI0MDFkZDE0MDZmYTFiNzcxYzhlYWYyYmE1",
   "tracks": [
+    {
+      "added_at": "2023-04-14 13:47:04",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 670253,
+      "name": "Inamorata",
+      "url": "https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL"
+    },
     {
       "added_at": "2023-04-13 18:26:17",
       "album": {

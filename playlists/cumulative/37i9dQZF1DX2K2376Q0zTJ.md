@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  新しい学校のリーダーズ \(ATARASHII GAKKO!\)
 
-775 songs - 1 day 22 hr 14 min
+776 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,8 @@
 | [one more time](https://open.spotify.com/track/2AmDepLWKUJD7zfEA14OGc) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [MIRROR](https://open.spotify.com/album/0wI2QMhhTC96nq0q2XrFtM) | 4:07 | 2022-03-07 | 2022-04-06 |
 | [One Night Party](https://open.spotify.com/track/0lsuSUTp0t8E0X0EozRuJI) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [One Night Party](https://open.spotify.com/album/3ETKko9A00kJ45PlKbFtP7) | 2:59 | 2023-04-04 |  |
 | [OOPARTS](https://open.spotify.com/track/2WxK04UTeg0ZkYWaw5DLdm) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [our hope](https://open.spotify.com/album/1ONQrLL5EaVJd34qsM21id) | 5:06 | 2022-05-04 | 2022-06-01 |
-| [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-04-04 |  |
+| [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-04-11 |  |
+| [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-04-04 | 2023-04-15 |
 | [Our Home](https://open.spotify.com/track/5FghpyYoictAFphQ5Gcp1U) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Beautiful Boy \(Side A\)](https://open.spotify.com/album/7fAcDecrmH6UR8TpTc0CP4) | 3:47 | 2022-07-05 | 2022-07-29 |
 | [Our Home](https://open.spotify.com/track/5RVTO1gmvf10ItRDj5Gwck) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Beautiful Boy \(Side A\)](https://open.spotify.com/album/4lNC1eKcSxLpAJup1iAqgq) | 3:47 | 2022-07-05 | 2022-08-03 |
 | [Out of the Race](https://open.spotify.com/track/2SY1oH2Q6edfYgZQLiTmdn) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML) | [Out of the Race](https://open.spotify.com/album/1ssGCVagwRCAsIejdZb0eL) | 1:49 | 2021-11-30 | 2022-01-05 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 39320,
+  "num_followers": 39349,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMDNhMTI2Mzg0YTY4ZDc2MDE5NWQxNWU4NjUwN2RhMmZl",
+  "snapshot_id": "MTY3MTY0NDQ2NSwwMDAwMDAwMGM1NjZkZjUxOWUxZTYwMzRlMzIzNTdlNTk5OWJkZDIw",
   "tracks": [
     {
       "added_at": "2022-10-28 19:05:39",
@@ -71,22 +71,6 @@
       "duration_ms": 223160,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -159,22 +143,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Enrique Delgado (feat. Enrique Delgado Montes)",
-        "url": "https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Za\u00f1artu",
-          "url": "https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "Para Elisa",
-      "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -191,18 +159,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+        "name": "Enrique Delgado (feat. Enrique Delgado Montes)",
+        "url": "https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj"
       },
       "artists": [
         {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+          "name": "Los Hermanos Za\u00f1artu",
+          "url": "https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI"
         }
       ],
-      "duration_ms": 256653,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
+      "duration_ms": 168306,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -219,6 +187,22 @@
       "duration_ms": 213026,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -271,22 +255,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Acu\u00e9rdate de Mi",
         "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
       },
@@ -299,6 +267,22 @@
       "duration_ms": 184743,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -403,6 +387,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252888,
+      "name": "Te Vez Buena",
+      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "En Mi Escritorio",
         "url": "https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 252888,
-      "name": "Te Vez Buena",
-      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -515,6 +499,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Abraz\u00e1ndonos",
         "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -647,22 +631,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -907,18 +891,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
-        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
       "artists": [
         {
-          "name": "Los Hijos del sol",
-          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
         }
       ],
-      "duration_ms": 245031,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -939,18 +923,18 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+        "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
+        "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
       "artists": [
         {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+          "name": "Los Hijos del sol",
+          "url": "https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+      "duration_ms": 245031,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Chico de Oro",
+        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Conductor",
+      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Chico de Oro",
-        "url": "https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Conductor",
-      "url": "https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Cumbia Urbana del Pueblo y para el Pueblo, Vol. 2",
         "url": "https://open.spotify.com/album/5BuCSY4KVyIBcvd1WGLPj6"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 188813,
       "name": "Un Poblano en New York",
       "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 161426,
+      "name": "Cumbia De Los Pajaritos",
+      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
-        "name": "Gypsy Woman",
-        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 310216,
       "name": "Nariz Con Ra\u00edz",
       "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
     },
     {
       "added_at": "2022-10-28 19:05:39",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-10-28 19:05:39",
       "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
+    },
+    {
+      "added_at": "2022-10-28 19:05:39",
+      "album": {
         "name": "Quiero Verte Feliz",
         "url": "https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
-    },
-    {
-      "added_at": "2022-10-28 19:05:39",
-      "album": {
-        "name": "Baile Bucanero",
-        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lazalypso",
-      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
     },
     {
       "added_at": "2022-10-28 19:05:39",

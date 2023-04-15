@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/3WdpM0kX0UbJs4yGpEtrJQ"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186507,
+      "name": "Blues Run the Game",
+      "url": "https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ"
+    },
+    {
+      "album": {
         "name": "Burns Effect",
         "url": "https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax"
       },
@@ -380,6 +398,24 @@
       "duration_ms": 223200,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
+    },
+    {
+      "album": {
+        "name": "Cosmic Healing",
+        "url": "https://open.spotify.com/album/3ahj4pz2dCaetSPtagcxcf"
+      },
+      "artists": [
+        {
+          "name": "Cayo Coco",
+          "url": "https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188352,
+      "name": "Cosmic Healing",
+      "url": "https://open.spotify.com/track/0TeQkFUDSFbtmHjvAEkCoV"
     },
     {
       "album": {
@@ -496,6 +532,24 @@
       "duration_ms": 236625,
       "name": "Drain the Pool",
       "url": "https://open.spotify.com/track/02E6lFwMoNkUekkF7ofoNy"
+    },
+    {
+      "album": {
+        "name": "Enjoyer",
+        "url": "https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216949,
+      "name": "Enjoyer",
+      "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
     },
     {
       "album": {
@@ -841,6 +895,24 @@
     },
     {
       "album": {
+        "name": "High School Football",
+        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "I'll Be Damned",
+      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
+    },
+    {
+      "album": {
         "name": "If Blue Could Be Happiness",
         "url": "https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v"
       },
@@ -1025,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
+    },
+    {
+      "album": {
         "name": "Like You Do",
         "url": "https://open.spotify.com/album/1qtek4ncBDO5HYjOrbUTbX"
       },
@@ -1040,6 +1130,24 @@
       "duration_ms": 235172,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/6bpWedLJqI8q0xMqJT88HP"
+    },
+    {
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196815,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
     },
     {
       "album": {
@@ -1202,6 +1310,24 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "album": {
+        "name": "I'M OK NO I'M NOT",
+        "url": "https://open.spotify.com/album/5UniBmaoxyjTUwBgOS165S"
+      },
+      "artists": [
+        {
+          "name": "Abby Holliday",
+          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233601,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ"
     },
     {
       "album": {
@@ -1524,6 +1650,24 @@
       "duration_ms": 229961,
       "name": "Self Fulfilling Prophecy",
       "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
+    },
+    {
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "album": {
@@ -2026,6 +2170,24 @@
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "album": {

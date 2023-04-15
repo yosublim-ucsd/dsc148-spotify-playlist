@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 |
-| 2 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
+| 2 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
 | 3 | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 |
 | 4 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 5 | [Vicious](https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Vicious](https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7) | 3:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 89 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 |
 | 90 | [Like You Love Me](https://open.spotify.com/track/4tRbfvXqGOj8fbYbXzTWrd) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX) | [Like You Love Me](https://open.spotify.com/album/2zF61PbxFf6USTCCk673nb) | 2:26 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDExNDVmMjUxOGEwNGJiNzE5MTk2NWY4ZjVhZWJkYzVi`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDljYTc0YzYwYzk3MWY2ZTg0ODgyZTlmMmM5OTU5YjUz`

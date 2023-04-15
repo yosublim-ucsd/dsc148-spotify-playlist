@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > Let your hair down and dance along to music from the Trolls movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,331 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,602 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

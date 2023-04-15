@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Jesu, Joy of Man's Desiring",
+        "url": "https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128242,
+      "name": "Jesu, Joy of Man's Desiring - Arr. by Alexis Ffrench",
+      "url": "https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF"
+    },
+    {
+      "album": {
         "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
       },
@@ -843,6 +861,32 @@
     },
     {
       "album": {
+        "name": "Song without Words - Mendelssohn Works",
+        "url": "https://open.spotify.com/album/0zcFfaAbwrcKqGhx2RTISW"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Haruma Sato",
+          "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
+        },
+        {
+          "name": "\u4e45\u672b \u822a",
+          "url": "https://open.spotify.com/artist/4F682tC1bLChNJpYReJL78"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Mendelssohn: On Wings of Song, Op. 34 No. 2",
+      "url": "https://open.spotify.com/track/2vateCLI3wCUjrVnm9xE2l"
+    },
+    {
+      "album": {
         "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
         "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
       },
@@ -936,7 +980,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 439877,
       "name": "Mozart: String Quintet No. 3 in C Major, K. 515: IV. Allegro",
       "url": "https://open.spotify.com/track/3O1IQIwr9vG6ZpqhMhntTE"
@@ -1068,6 +1112,36 @@
       "duration_ms": 234880,
       "name": "Prelude in G Major",
       "url": "https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl"
+    },
+    {
+      "album": {
+        "name": "Price: Adoration (Arr. Gray for Violin and Orchestra)",
+        "url": "https://open.spotify.com/album/6NYQGUgBsuLuQjIIUTO6AH"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Price: Adoration (Arr. Gray for Violin and Orchestra)",
+      "url": "https://open.spotify.com/track/6HcBleYKVQIUE7UPjV9v46"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,581,562 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,581,728 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 45 | [Count on Me](https://open.spotify.com/track/3ssnFwx5lu6qxhLBR0vutB) | [Jefferson Starship](https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF) | [Earth](https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g) | 3:14 |
 | 46 | [Love Is Alive](https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Dream Weaver](https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp) | 3:50 |
 | 47 | [Cool Night](https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Cool Night](https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov) | 3:38 |
-| 48 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 |
-| 49 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 |
+| 48 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 |
+| 49 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 |
 | 50 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
 | 51 | [You Belong to Me](https://open.spotify.com/track/3pErM4EiWKf3k8KU3jjbXn) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 3:52 |
 | 52 | [Heart Of The Night](https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 4:54 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 66 | [Let Me Love You Tonight](https://open.spotify.com/track/6vOMU2u38Z9Wru3CqPxcKs) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Firin' Up](https://open.spotify.com/album/6Norh72qPrDRebO1656Xo1) | 2:47 |
 | 67 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
 | 68 | [Indian Summer](https://open.spotify.com/track/44yC6xqdIvE4G60mGc81ng) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 3:03 |
-| 69 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
-| 70 | [Whatever Happened to Benny Santini?](https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:19 |
+| 69 | [Whatever Happened to Benny Santini?](https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:19 |
+| 70 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 71 | [This Night Won't Last Forever](https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [This Night Won't Last Forever](https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue) | 4:25 |
 | 72 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |
 | 73 | [That's Why I Love You](https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Andrew Gold](https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ) | 3:10 |
 | 74 | [Never Let Her Go](https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 3:07 |
 | 75 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
 
-Snapshot ID: `MTY3OTUxMTQzNiwwMDAwMDAwMDc1MTM0ZTk1ZjVkNjAyOTNkZjc3NWJjOTMzYzdiNzlm`
+Snapshot ID: `MTY3OTUxMTQzNiwwMDAwMDAwMDc4OGQyYWY0YWZmZDY2MjMwYzU1N2IwOWEwYjNmYjRm`

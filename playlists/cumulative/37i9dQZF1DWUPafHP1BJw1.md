@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-153 songs - 9 hr 8 min
+156 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,9 +88,11 @@
 | [Let's Get Loud](https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Let's Get Loud](https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR) | 3:47 | 2022-08-12 |  |
 | [Lose Yourself](https://open.spotify.com/track/1crphtLmE5qben7biopmp3) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck) | 3:06 | 2022-07-08 |  |
 | [Lose Yourself](https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU) | 3:06 | 2021-11-19 | 2022-07-29 |
+| [Love Me Like I Am](https://open.spotify.com/track/43izAMB4XyHkEghLzaxnKi) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Love Me Like I Am](https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D) | 4:34 | 2023-04-14 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 | 2021-11-19 |  |
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-19 |  |
 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 | 2022-03-30 |  |
+| [Matilda](https://open.spotify.com/track/0FsaTknAtvrXcf6qtJkOjI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Matilda](https://open.spotify.com/album/0XTCR8EFxyZoT3zBfOJRMR) | 4:34 | 2023-04-14 |  |
 | [Morning Has Broken](https://open.spotify.com/track/4TaDnIQ6UmD8BW07VCH0ie) | [Rick Wakeman](https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB) | [Piano Portraits](https://open.spotify.com/album/1Yo5LUdLUSn2fwNgYFEebf) | 3:41 | 2021-11-19 | 2022-05-07 |
 | [Moves Like Jagger](https://open.spotify.com/track/4GI6DgHjcyThFVotaMepa4) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Moves Like Jagger](https://open.spotify.com/album/236GnBMmPj4RzbhhpADljT) | 2:58 | 2021-11-19 | 2022-01-05 |
 | [My Gift Is My Song \(Single Edit\): Your Song / Goodbye Yellow Brick Road](https://open.spotify.com/track/257EJQlyUhELc7VqoBqMcx) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [My Gift Is My Song](https://open.spotify.com/album/3bGTshvqxl7igqEbBuFlW4) | 3:53 | 2022-03-25 |  |
@@ -100,6 +102,7 @@
 | [Nightcall \- From "Drive"](https://open.spotify.com/track/3BCe21LqWVOWWDfHjuoeeR) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Nightcall \(From "Drive"\)](https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz) | 3:01 | 2021-11-19 |  |
 | [No Time to Die](https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [No Time to Die](https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr) | 2:21 | 2021-11-19 |  |
 | [No Woman, No Cry \(Arr\. Kanneh\-Mason\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 | 2021-11-19 |  |
+| [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-04-14 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ) | 4:45 | 2022-07-08 |  |
 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 | 2021-11-19 | 2022-07-29 |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 |  |

@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Yahritza y Su Esencia en portada.
 
-145 songs - 8 hr 20 min
+147 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 | 2023-02-10 |  |
 | [Claro Que Te Amo](https://open.spotify.com/track/6bbqOi8ccpkyVpX4E2dUTK) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Claro Que Te Amo](https://open.spotify.com/album/1uO2tuBoVL3QF5K8p874fC) | 3:07 | 2022-04-08 | 2022-05-24 |
 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 | 2022-02-03 |  |
+| [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 | 2023-04-14 |  |
 | [Cómo Poder Olvidar \- Spotify Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-16 | 2023-01-06 |
 | [Dejalo Ir](https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:57 | 2022-07-22 | 2023-01-14 |
 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 | 2022-04-22 | 2022-07-29 |
@@ -40,6 +41,7 @@
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 |  |
 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 | 2023-02-17 | 2023-03-18 |
 | [Días de Ayer](https://open.spotify.com/track/1A2cUAx3jBMNPrdhUWqhdt) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Yo Solo Me Entiendo](https://open.spotify.com/album/3zUXwynFFkOGXC0MDAz1po) | 3:55 | 2023-01-13 | 2023-01-28 |
+| [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 | 2023-04-14 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-17 |  |
 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2021-11-22 | 2022-07-09 |
 | [Endless Summer](https://open.spotify.com/track/3IMACfPG8wHaC6KccsyuUn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Endless Summer](https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6) | 3:57 | 2022-07-22 | 2023-01-14 |
@@ -81,7 +83,7 @@
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-01-28 |  |
 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 | 2022-07-22 | 2023-01-14 |
 | [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 | 2023-01-13 |  |
-| [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 | 2023-02-24 |  |
+| [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 | 2023-02-24 | 2023-04-15 |
 | [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 | 2022-11-11 | 2023-02-18 |
 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 | 2022-05-06 | 2022-07-09 |
 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2022-11-25 |  |
@@ -100,7 +102,7 @@
 | [Para No Verte Mas](https://open.spotify.com/track/1iM44BAVCu9b2CsKeE68HD) | [Eskuela de Las Calles](https://open.spotify.com/artist/6V11W3tkCfXgwSEZ3VQGfR) | [Para No Verte Mas](https://open.spotify.com/album/54mb1gZmF7eMRpsLbPcY0O) | 3:43 | 2023-01-27 | 2023-03-04 |
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-02-11 |  |
 | [Piensa](https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [Piensa](https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV) | 4:33 | 2022-07-08 | 2023-02-18 |
-| [Pistie Tu Recuerdo](https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [DEL Records Presenta: Por Causa DEL Amor](https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9) | 3:09 | 2023-01-13 |  |
+| [Pistie Tu Recuerdo](https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [DEL Records Presenta: Por Causa DEL Amor](https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9) | 3:09 | 2023-01-13 | 2023-04-15 |
 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 | 2022-12-01 | 2023-03-18 |
 | [Por las Noches \- Remix](https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Por las Noches \(Remix\)](https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG) | 3:42 | 2023-03-03 |  |
 | [Por Ti \- Spotify Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 | 2022-11-16 | 2023-01-06 |

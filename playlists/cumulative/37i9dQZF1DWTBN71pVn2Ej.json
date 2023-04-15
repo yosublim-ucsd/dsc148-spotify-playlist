@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 100377,
       "name": "Ache",
       "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
+    },
+    {
+      "album": {
         "name": "Bubblegum Infinity",
         "url": "https://open.spotify.com/album/1sIkmuMAHX0LDBwDOmr8QE"
       },
@@ -856,6 +874,24 @@
       "duration_ms": 171665,
       "name": "Burnt (By the Sun)",
       "url": "https://open.spotify.com/track/0LcU62QpwyqPy0kTylVvkQ"
+    },
+    {
+      "album": {
+        "name": "bury me.",
+        "url": "https://open.spotify.com/album/0gjniTbXyqfgZoviud4RyC"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "bury me.",
+      "url": "https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG"
     },
     {
       "album": {
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 190180,
       "name": "Chasing Highs",
       "url": "https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro"
@@ -1706,7 +1742,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167080,
       "name": "Done",
       "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
@@ -1912,7 +1948,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203062,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/2zcIwrnFbmwBSbJf29xq1c"
@@ -2636,6 +2672,24 @@
       "duration_ms": 186847,
       "name": "Honeybrains",
       "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
+    },
+    {
+      "album": {
+        "name": "Houses of American Style",
+        "url": "https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
     },
     {
       "album": {
@@ -3659,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
+    },
+    {
+      "album": {
         "name": "Myopic",
         "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
       },
@@ -4034,7 +4106,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201834,
       "name": "Only One",
       "url": "https://open.spotify.com/track/2ba9azFI83kqCDUwWudeww"
@@ -4653,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Too Quick to Forgive",
+        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261345,
+      "name": "Savior Mode",
+      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
+    },
+    {
+      "album": {
         "name": "Say I Won't",
         "url": "https://open.spotify.com/album/5sImBI3vR27SaInKMVtT6m"
       },
@@ -4848,6 +4938,24 @@
       "duration_ms": 167437,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11"
+    },
+    {
+      "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245338,
+      "name": "snarky",
+      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
     },
     {
       "album": {
@@ -5060,7 +5168,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173458,
       "name": "Stuck In A Loop",
       "url": "https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ"
@@ -5118,6 +5226,24 @@
       "duration_ms": 223978,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/5KaxxDE0h1Gq3OVCh9h5Ak"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
     },
     {
       "album": {
@@ -5695,6 +5821,24 @@
     },
     {
       "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "album": {
         "name": "Together in Pieces",
         "url": "https://open.spotify.com/album/6fvX8DbXDo5alyS4yoE98o"
       },
@@ -5814,7 +5958,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176072,
       "name": "Under The Knife",
       "url": "https://open.spotify.com/track/3XtlCUDgBJaPbK0S4LKPbA"
@@ -6138,7 +6282,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 252253,
       "name": "Wide Asleep",
       "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"

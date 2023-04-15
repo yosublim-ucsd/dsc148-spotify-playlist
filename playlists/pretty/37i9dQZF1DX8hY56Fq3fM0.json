@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 221493,
+  "num_followers": 221887,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMDJhMWIzMTczZGQ3NDY1YmU1OWJiMjA4Yjk1N2IyMmQ1",
+  "snapshot_id": "MTY2ODc3MjgwMCwwMDAwMDAwMDExMTRlZjE0OGUxNTkwNDljYzc5NzkxNjhlMThiNjI2",
   "tracks": [
     {
       "added_at": "2022-11-18 12:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 192789,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 193030,
-      "name": "Snap Out Of It",
-      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 467586,
       "name": "Let It Happen",
       "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 135581,
       "name": "Honeypie",
       "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2022-11-18 12:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-11-18 12:00:00",
       "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys",
-      "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
-    },
-    {
-      "added_at": "2022-11-18 12:00:00",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+    },
+    {
+      "added_at": "2022-11-18 12:00:00",
+      "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys",
+      "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
     },
     {
       "added_at": "2022-11-18 12:00:00",

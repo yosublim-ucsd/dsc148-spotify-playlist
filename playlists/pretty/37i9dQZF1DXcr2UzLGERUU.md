@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,895 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,099 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 42 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
 | 43 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 44 | [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 |
-| 45 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
-| 46 | [Beautiful Dreamer](https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:51 |
+| 45 | [Beautiful Dreamer](https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:51 |
+| 46 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
 | 47 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 |
 | 48 | [Firework](https://open.spotify.com/track/2haZiTgnuhR6zOKqSc3s8N) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 1](https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj) | 4:01 |
 | 49 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
 | 50 | [In Too Deep \(feat\. Kiana Ledé\) – Acoustic](https://open.spotify.com/track/1Gh2ei6BJlppER2kjUx7L9) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [In Too Deep \(feat\. Kiana Ledé\) – Acoustic](https://open.spotify.com/album/2F88pNDPEwuDUe0d83VS5F) | 3:23 |
 
-Snapshot ID: `MTY4MDg3Njg2MCwwMDAwMDAwMDIyMGYzYWNkNTUyZGMxZTA1MjFkOWI2ODg3MDJhNmIy`
+Snapshot ID: `MTY4MDg3Njg2MCwwMDAwMDAwMGU2YWQzZWE2YTE1NWMxODUyNTg4ZGY3YjEyMTUxMzJi`

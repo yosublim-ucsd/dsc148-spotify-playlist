@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,310 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,419 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 45 | [Rhapsody on a Theme of Paganini, Op\. 43: Variation No\. 18 Andante cantabile](https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninov Variations](https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf) | 2:54 |
 | 46 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 |
 | 47 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 |
-| 48 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
+| 48 | [Lawson: In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
 | 49 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 |
 | 50 | [PAN](https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Flur](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 3:51 |
 | 51 | [Shimmering Water](https://open.spotify.com/track/4Z4RbVmOpawdQSFLtTvZPB) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G) | [Silent Waves](https://open.spotify.com/album/2prO7Ke2ASXq9cDTvvVPUk) | 4:49 |

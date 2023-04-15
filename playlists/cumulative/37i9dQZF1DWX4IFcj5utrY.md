@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX?si=gVjPZpv6Rd6Dto7MsL8onQ">Shimza</a>
 
-791 songs - 3 day 1 hr 7 min
+792 songs - 3 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,8 @@
 | [Take It All \( Miza & Regalo Joints Revisit \)](https://open.spotify.com/track/3CxEFsiqDPFqGyVjGogrKB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Brian Temba](https://open.spotify.com/artist/4AZ1cwMMACbUJCp0gNiplV), [REGALO Joints](https://open.spotify.com/artist/64DRaEOKK7PPXGKUPQXVgu) | [Take It All \( Miza & Regalo Joints Revisit \)](https://open.spotify.com/album/0zSBUEXj07AGwxvCfcNckP) | 7:06 | 2022-03-24 | 2022-05-06 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 | 2023-03-18 |
 | [Take Me Away](https://open.spotify.com/track/6yVhRr5Zs71tYKkS678MRd) | [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Take Me Away](https://open.spotify.com/album/4XS8ypy6BBVKDjHJfhY0C8) | 3:50 | 2022-08-18 | 2022-09-16 |
-| [Take Me Home](https://open.spotify.com/track/6k6vZAcgZ5mnKn9SkBx9rH) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt), [Reverse Prime](https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv) | [Take Me Home](https://open.spotify.com/album/0NPkfOUC2K8T06MkSO7ff9) | 2:21 | 2023-04-13 |  |
+| [Take Me Home](https://open.spotify.com/track/6k6vZAcgZ5mnKn9SkBx9rH) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt), [Reverse Prime](https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv) | [Take Me Home](https://open.spotify.com/album/0NPkfOUC2K8T06MkSO7ff9) | 2:21 | 2023-04-13 | 2023-04-15 |
+| [Take Me Home](https://open.spotify.com/track/6wvg23QPvpHmgJNJbVsSyD) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt), [Reverse Prime](https://open.spotify.com/artist/1ViYDWPfb0pD6hAeD8xnxv) | [Take Me Home](https://open.spotify.com/album/4covYFWbZzjHIjLciUFO2E) | 2:21 | 2023-04-13 |  |
 | [Take One \- Stalgic Mix](https://open.spotify.com/track/2lYNVCl9jgXmPWvAkktnGC) | [DysFonik](https://open.spotify.com/artist/4nXzfkdJt25bPkJ6JdcjsD), [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI), [BlaQ Afro\-Kay](https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E), [Home\-Mad Djz](https://open.spotify.com/artist/42LvtXQcIhHWE4yFEbXqpF) | [Altitude of House Music, Vol\. 3](https://open.spotify.com/album/2WApTLRmlLspGDVC9gBmqg) | 7:24 | 2022-04-07 | 2022-04-23 |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-23 |  |
 | [Tawada \- Saint Evo Remix](https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Anas Chlih](https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tawada](https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M) | 7:15 | 2022-05-05 | 2022-05-13 |

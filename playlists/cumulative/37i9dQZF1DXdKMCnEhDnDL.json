@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Als Thuis",
+        "url": "https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Als Thuis",
+      "url": "https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV"
+    },
+    {
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 231804,
       "name": "Avond",
       "url": "https://open.spotify.com/track/2tF8Amp5Q4uBYwh70RBDPR"
@@ -645,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Er Was Eens Een Meid",
+        "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176494,
+      "name": "Er Was Eens Een Meid",
+      "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
+    },
+    {
+      "album": {
         "name": "Gebruik Me",
         "url": "https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y"
       },
@@ -660,7 +696,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 204697,
       "name": "Gebruik Me",
       "url": "https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83"

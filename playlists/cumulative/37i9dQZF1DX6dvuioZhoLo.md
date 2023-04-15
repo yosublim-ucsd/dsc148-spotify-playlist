@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-194 songs - 11 hr 28 min
+195 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 | 2021-11-12 |  |
 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 | 2021-11-12 | 2022-07-27 |
 | [Captain](https://open.spotify.com/track/3Y9lUEz7m6066pMifT9159) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Britt Daniel](https://open.spotify.com/artist/50VwXblSjWqTmcDO1OqigH) | [Italian Ice](https://open.spotify.com/album/74UN1ucm77OPXi3VyWVgAE) | 3:07 | 2021-11-12 | 2022-07-29 |
+| [Cherie Vico](https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Cherie Vico](https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I) | 5:16 | 2023-04-14 |  |
 | [Companion](https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:08 | 2021-11-12 |  |
 | [Cool Cars](https://open.spotify.com/track/7gr3VoP3mj1EturQLVIM6x) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Cool Cars \- EP](https://open.spotify.com/album/6EIsPf2RVWonLJzfSSUtV2) | 3:57 | 2022-04-01 | 2022-04-21 |
 | [Country Songs](https://open.spotify.com/track/7ptUsILjsH0184yYu0U7mn) | [Karen Jonas](https://open.spotify.com/artist/1iWiaHJz7feD0Jlg1y1NB2) | [Country Songs](https://open.spotify.com/album/6tNnX7ccPJ9pvLdyYJZvTl) | 5:04 | 2021-11-12 | 2022-04-21 |
@@ -116,7 +117,7 @@
 | [Lover's Lane](https://open.spotify.com/track/1pDXYuqZd9JjWDShs11Y1U) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Lover's Lane / The Years Tire On](https://open.spotify.com/album/2kyEZin1n3lWpa50iYTppe) | 3:02 | 2021-11-12 | 2022-07-29 |
 | [Lying in the Sun](https://open.spotify.com/track/7cvW4ayjsoS29xwgLImRzl) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Lying in the Sun](https://open.spotify.com/album/1BDkPA1VYoDMnHvWeTdFOz) | 3:51 | 2022-04-01 | 2022-04-21 |
 | [Make Way for Love](https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 3:55 | 2021-11-12 | 2022-07-28 |
-| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 |  |
+| [Make Way for Love](https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 3:55 | 2022-04-01 | 2023-04-15 |
 | [Makin' Memories](https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:52 | 2022-02-18 |  |
 | [Mama Said](https://open.spotify.com/track/1G7COoZddkxeS4J9wp3aWM) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Mama Said](https://open.spotify.com/album/0rbncsbptDoCmN28OHJAUt) | 3:33 | 2021-11-12 | 2022-07-28 |
 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 | 2022-04-01 |  |

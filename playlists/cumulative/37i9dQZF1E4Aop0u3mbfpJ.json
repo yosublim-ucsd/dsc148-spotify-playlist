@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 507746,
       "name": "A Year Without Rain - Dave Aud\u00e9 Club Remix",
       "url": "https://open.spotify.com/track/25xDItLSUvUS36DckdEKF0"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 247533,
       "name": "ARTPOP",
       "url": "https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 186333,
       "name": "Bang Bang - 3LAU Remix",
       "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-14",
+      "date_removed": null,
       "duration_ms": 215388,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7"
@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167026,
       "name": "Can't Be Tamed - Wideboys Stadium Radio Remix",
       "url": "https://open.spotify.com/track/3D2DcaqKcQ4K8yWKu1jsaS"
@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 204533,
       "name": "Chillin",
       "url": "https://open.spotify.com/track/4HYc74wPEfUAhlQFm4fZHa"
@@ -7041,6 +7041,24 @@
     },
     {
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243995,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/4oB9UvwZUkic3nWWZKULqs"
+    },
+    {
+      "album": {
         "name": "Do What U Want",
         "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm"
       },
@@ -8420,7 +8438,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 292373,
       "name": "Fergalicious",
       "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
@@ -10430,7 +10448,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 248706,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/2BnfMbmWbfqi7ac5y7GHXn"
@@ -11632,6 +11650,24 @@
       "duration_ms": 172120,
       "name": "Hook It Up",
       "url": "https://open.spotify.com/track/4U1vdfpTLZmAM7gjQQM3gQ"
+    },
+    {
+      "album": {
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175906,
+      "name": "Hook Me Up",
+      "url": "https://open.spotify.com/track/1UQUJlTPbdufUmBU3RQ83q"
     },
     {
       "album": {
@@ -13460,7 +13496,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186182,
       "name": "I'm Still Hot - Radio Version",
       "url": "https://open.spotify.com/track/10eASj793Wcqng4OW6QFbh"
@@ -13942,7 +13978,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 240640,
       "name": "Into the Nightlife",
       "url": "https://open.spotify.com/track/5sNMvugK74Y1EtpRfBETX6"
@@ -13978,7 +14014,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
@@ -14108,7 +14144,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 219880,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/6gP19WE3a58uwWKaGlaKuo"
@@ -15850,7 +15886,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 282600,
       "name": "Looking Hot",
       "url": "https://open.spotify.com/track/0DRvLkBUlGjEQUQKr1uP4M"
@@ -19338,7 +19374,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 146259,
       "name": "Painkillr - Oliver Twizt Radio Edit",
       "url": "https://open.spotify.com/track/4qWSz0dsKFVkeuIqZEFtw7"
@@ -20032,7 +20068,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 224173,
       "name": "Please Don't Leave Me - Digital Dog Radio Edit",
       "url": "https://open.spotify.com/track/6lvg1G1r5nyooClAP0cep6"

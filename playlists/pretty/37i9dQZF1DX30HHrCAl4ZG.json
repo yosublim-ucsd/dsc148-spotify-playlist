@@ -1,13 +1,81 @@
 {
-  "description": "All new indie rock. Featuring new music from Royel Otis.",
-  "num_followers": 844339,
+  "description": "All new indie rock. Featuring new music from Vacations.",
+  "num_followers": 844343,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMyNTQwNiwwMDAwMDAwMDVjOGFiNDI3N2VmZTllOWIzZDAzNTZlZTcxMGY1MTg1",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDgxOWUxZjNhYTI0NTUzY2NjNjhjMzJlOGM1OTZmNjhl",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Champ (feat. Edgar Winter)",
+        "url": "https://open.spotify.com/album/53Ss7QGhX8hDfymNXdSRtd"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        }
+      ],
+      "duration_ms": 229747,
+      "name": "Champ (feat. Edgar Winter)",
+      "url": "https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Go Boy",
+        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Go Boy",
+      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
+    },
     {
       "added_at": "2023-04-12 18:50:06",
       "album": {
@@ -41,36 +109,64 @@
       "url": "https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 247520,
-      "name": "Quarry",
-      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Go Boy",
-        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Go Boy",
-      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
+      "duration_ms": 290360,
+      "name": "Satanist",
+      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 103310,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -89,52 +185,52 @@
       "url": "https://open.spotify.com/track/58HNyZisRT0WSPnfpXgoFQ"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "I DON'T WANNA TALK",
+        "url": "https://open.spotify.com/album/5G7wg0A3x8huAcbsT8wojT"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+      "duration_ms": 192162,
+      "name": "I DON'T WANNA TALK",
+      "url": "https://open.spotify.com/track/5SJNQjnloYeMYKA5Pn3Tlq"
     },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "You Can Be Mean",
-        "url": "https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9"
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 145000,
-      "name": "You Can Be Mean",
-      "url": "https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt"
+      "duration_ms": 247520,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Everything Is Boring",
-        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+        "name": "Good Kid 3",
+        "url": "https://open.spotify.com/album/1sfZzqkDMiJiYXfO0hQPKh"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Everything Is Boring",
-      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+      "duration_ms": 173122,
+      "name": "Osmosis",
+      "url": "https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -169,6 +265,54 @@
       "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
     },
     {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Everything Is Boring",
+        "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Everything Is Boring",
+      "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Being Square",
@@ -201,32 +345,20 @@
       "url": "https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+        "name": "Drown Me In Emotions",
+        "url": "https://open.spotify.com/album/3hcOGmFHcV1st3jsDqK0zg"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Carver Commodore",
+          "url": "https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU"
         }
       ],
-      "duration_ms": 290360,
-      "name": "Satanist",
-      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
+      "duration_ms": 218400,
+      "name": "Drown Me In Emotions",
+      "url": "https://open.spotify.com/track/3mPFQwHIMIRLheTICb02YP"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -243,6 +375,22 @@
       "duration_ms": 191813,
       "name": "Boy",
       "url": "https://open.spotify.com/track/6hPJX9Vsot1FeqZqJ05Jhu"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "You Can Be Mean",
+        "url": "https://open.spotify.com/album/55AeOkUW28sgptXC5DCzn9"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "You Can Be Mean",
+      "url": "https://open.spotify.com/track/5HlHycHNeXIjYhY4AJRErt"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -275,6 +423,22 @@
       "duration_ms": 187547,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/1YSNxaaqDvsIyBFakpf8PW"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Be Still My Heart",
+        "url": "https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1013,22 +1177,6 @@
       "url": "https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v"
     },
     {
-      "added_at": "2023-02-22 15:48:06",
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/6ksGWnHDMEW9HIWxbNbOBe"
-      },
-      "artists": [
-        {
-          "name": "The Hails",
-          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
-        }
-      ],
-      "duration_ms": 180548,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/39JRTESEqGbjhTPz0N0Ctk"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Disappointment",
@@ -1059,22 +1207,6 @@
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
-    },
-    {
-      "added_at": "2023-02-15 16:30:53",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 267994,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1157,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj"
     },
     {
-      "added_at": "2023-02-15 16:30:53",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6LRdHSHKE8gMoKwslmRIpY"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 199820,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/7cnLxDzxPgYc0M5wWhKEwg"
-    },
-    {
       "added_at": "2023-03-03 16:44:13",
       "album": {
         "name": "Oysters In My Pocket",
@@ -1187,22 +1303,6 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
-      "added_at": "2023-02-22 15:48:06",
-      "album": {
-        "name": "It's Just A Bit Of Blood",
-        "url": "https://open.spotify.com/album/12DSMvIltoBDrMGwFgDLgn"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "It's Just A Bit Of Blood",
-      "url": "https://open.spotify.com/track/2lToI26o842YtPLOQHPM7r"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1283,26 +1383,6 @@
       "duration_ms": 182719,
       "name": "What You Did",
       "url": "https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s"
-    },
-    {
-      "added_at": "2023-02-22 15:48:06",
-      "album": {
-        "name": "Lose You (feat. Soccer Mommy)",
-        "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1401,22 +1481,6 @@
       "url": "https://open.spotify.com/track/3wQj6B79bhlBVLzkMLN2im"
     },
     {
-      "added_at": "2023-02-22 15:48:06",
-      "album": {
-        "name": "Buzzed",
-        "url": "https://open.spotify.com/album/68bbtsnWT7V3jOx4iGlxYq"
-      },
-      "artists": [
-        {
-          "name": "Caroline Culver",
-          "url": "https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0"
-        }
-      ],
-      "duration_ms": 177572,
-      "name": "Buzzed",
-      "url": "https://open.spotify.com/track/2TNfI1TGo40RpRfvIuI2zO"
-    },
-    {
       "added_at": "2023-03-03 16:44:13",
       "album": {
         "name": "Blue Rev",
@@ -1453,22 +1517,6 @@
       "url": "https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U"
     },
     {
-      "added_at": "2023-02-15 16:30:53",
-      "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 276320,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B"
-    },
-    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Blue Rev",
@@ -1483,34 +1531,6 @@
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL"
-    },
-    {
-      "added_at": "2023-02-15 16:30:53",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Emily I'm Sorry",
-      "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1593,22 +1613,6 @@
       "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
     },
     {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Daily News",
@@ -1639,22 +1643,6 @@
       "duration_ms": 132383,
       "name": "Hey Monet",
       "url": "https://open.spotify.com/track/2LReZPqy0KOejjm8E0aOLa"
-    },
-    {
-      "added_at": "2023-02-15 16:30:53",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X"
     }
   ],
   "unique_name": "Today's Indie Rock",

@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Crepuscolo",
+        "url": "https://open.spotify.com/album/24N87ShW17h11WIXpdlGnd"
+      },
+      "artists": [
+        {
+          "name": "Buriana",
+          "url": "https://open.spotify.com/artist/2xp9MuQLpCHqMuoRQ2AtHu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195986,
+      "name": "Crepuscolo",
+      "url": "https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7"
+    },
+    {
+      "album": {
         "name": "Cristallo metallo",
         "url": "https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c"
       },
@@ -2672,6 +2690,24 @@
       "duration_ms": 154282,
       "name": "Hamsik",
       "url": "https://open.spotify.com/track/4KR8wGG7Z4shKUROWnafVM"
+    },
+    {
+      "album": {
+        "name": "Heavy Metallo",
+        "url": "https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM"
+      },
+      "artists": [
+        {
+          "name": "DOLA",
+          "url": "https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Heavy Metallo",
+      "url": "https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn"
     },
     {
       "album": {
@@ -6364,7 +6400,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 207999,
       "name": "Ticking",
       "url": "https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah"

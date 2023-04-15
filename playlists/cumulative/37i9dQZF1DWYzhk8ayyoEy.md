@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart
 
-77 songs - 4 hr 18 min
+78 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 | 2023-01-04 |  |
 | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/track/4WwfMajCmOe3ApD9eF5B15) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [BACK ON TOP \(feat\. Griff\)](https://open.spotify.com/album/5bAoNisJV6KVdJ3puwJ54B) | 2:53 | 2023-01-04 |  |
 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 | 2023-02-10 |  |
+| [Beacon](https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Beacon](https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0) | 3:47 | 2023-04-14 |  |
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2023-01-04 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2023-01-04 |  |
 | [Better Days](https://open.spotify.com/track/2SLxgJ2YFohfd8KwuJZTUE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:24 | 2023-01-04 |  |
@@ -58,7 +59,7 @@
 | [North](https://open.spotify.com/track/0pjBEOWMJTwzzjBrTAlbDd) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane](https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl) | 3:34 | 2023-01-04 |  |
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2023-01-04 |  |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2023-01-04 |  |
-| [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 | 2023-01-28 |  |
+| [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 | 2023-01-28 | 2023-04-15 |
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2023-01-04 | 2023-03-19 |
 | [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2023-03-10 |  |
 | [Promised Land \(Collab OG\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5OGnvOXpZk65xdmmt1AddZ) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:30 | 2023-01-04 |  |

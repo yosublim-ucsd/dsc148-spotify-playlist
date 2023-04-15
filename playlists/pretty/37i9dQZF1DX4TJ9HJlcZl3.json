@@ -1,12 +1,12 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 6228,
+  "num_followers": 6251,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDFhZGRiZGVlZWFjN2QzZWIwMjk1YzE4YmY5ZTgxOWU5",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDg4MzBkNzI0YTkyMjdiZDI0OGRjZTRlYjdkNDBmMDcx",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -79,6 +79,30 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/0CIe4u7zQdSYlZJjdRuf1q"
+      },
+      "artists": [
+        {
+          "name": "Bradley McCaw",
+          "url": "https://open.spotify.com/artist/6WBjKhWSZmfAdHoeUIzaVR"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        },
+        {
+          "name": "Louie Shelton",
+          "url": "https://open.spotify.com/artist/2vJfIJtB4PLlIHICVf4V0N"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -451,22 +475,6 @@
       "duration_ms": 327866,
       "name": "Free",
       "url": "https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Yachty Rock Feelings, Vol. 1",
-        "url": "https://open.spotify.com/album/6nfTINfvFH6VZb81AYTxFP"
-      },
-      "artists": [
-        {
-          "name": "superGOODthings",
-          "url": "https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp"
-        }
-      ],
-      "duration_ms": 256459,
-      "name": "Ms. Marigold",
-      "url": "https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3"
     },
     {
       "added_at": "2022-10-21 04:01:00",

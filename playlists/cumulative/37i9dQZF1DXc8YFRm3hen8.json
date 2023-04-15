@@ -2829,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "OLA DE SUICIDIOS",
+        "url": "https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154373,
+      "name": "OLA DE SUICIDIOS",
+      "url": "https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N"
+    },
+    {
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222541,
       "name": "Ya No Sos Igual",
       "url": "https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT"

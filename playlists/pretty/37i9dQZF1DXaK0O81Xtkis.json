@@ -1,13 +1,29 @@
 {
-  "description": "make it pop! cover: Go-Jo",
-  "num_followers": 203383,
+  "description": "make it pop! cover: LAUREL",
+  "num_followers": 203417,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5MjYxNCwwMDAwMDAwMDJjZTc5MTU0YjU0NDNkNjc1MzAwMjdlYjY4ZmUyN2Fl",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDVmMjkzYTQ1YTEzNGY4YWM1Yjc5MTRkMDc5MzA3YTAw",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1kRceDDpkVLfnvC68Hy5lK"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1m1WkrpWMJ5ic1D0oLd5EF"
+    },
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 143840,
       "name": "Mrs. Hollywood",
       "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 138127,
+      "name": "2 BEST FRIENDS",
+      "url": "https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Hyperfixations",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "The Ballet Girl EP - Part 1",
+        "url": "https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "Other Side of the Moon",
+      "url": "https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez"
+    },
+    {
       "added_at": "2023-03-28 20:14:11",
       "album": {
         "name": "Will You Be My Yellow?",
@@ -71,6 +135,38 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Hello My Name Is",
+        "url": "https://open.spotify.com/album/2J1sl3AmTdeaDKIR0SWlUa"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Hello My Name Is",
+      "url": "https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "added_at": "2023-04-07 18:36:54",
@@ -107,22 +203,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Hello My Name Is",
-        "url": "https://open.spotify.com/album/2J1sl3AmTdeaDKIR0SWlUa"
-      },
-      "artists": [
-        {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Hello My Name Is",
-      "url": "https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG"
       },
@@ -151,6 +231,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Medical Attention",
+        "url": "https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe"
+      },
+      "artists": [
+        {
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+        }
+      ],
+      "duration_ms": 176623,
+      "name": "Medical Attention",
+      "url": "https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl"
     },
     {
       "added_at": "2023-03-31 03:59:46",
@@ -383,22 +479,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "WORTHLESS",
-        "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 163049,
-      "name": "WORTHLESS",
-      "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Are You Okay?",
         "url": "https://open.spotify.com/album/0C2ywpvuigurTtGcHVi3VX"
       },
@@ -411,38 +491,6 @@
       "duration_ms": 204398,
       "name": "Are You Okay?",
       "url": "https://open.spotify.com/track/31J8owdYtJ3Kgp4YA8BHlG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/5AYFv9iMMbwWAR5APhNHrp"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "idtwcbf (friends)",
-      "url": "https://open.spotify.com/track/4FAdGJxiagKwaF2d8ER1dn"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/5GlO7wj3p6cmmgT8qnFqEg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -903,8 +951,8 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/17CC61VuUARx8AHynTbmnP"
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY"
       },
       "artists": [
         {
@@ -914,39 +962,7 @@
       ],
       "duration_ms": 195104,
       "name": "Naive",
-      "url": "https://open.spotify.com/track/5IyQ3FaPU3EbE9Sbleq59M"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/71ksMhG7YqwphT30LMElRK"
-      },
-      "artists": [
-        {
-          "name": "ZEE MACHINE",
-          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2WP51KZ9ijZ6Kh68X5n3oc"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/2BQlr0YCvJHM3HKEEtBe6T"
+      "url": "https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg"
     },
     {
       "added_at": "2023-03-24 04:00:00",

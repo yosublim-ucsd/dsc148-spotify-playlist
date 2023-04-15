@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892575,
+  "num_followers": 892577,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2NzIwMCwwMDAwMDAwMGYwMzVlZTk1YWU4YmQ3MDEzYWFjMmQyZWZkOGQxODcw",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGJiZTY2ZGVmNWU5ZGRhN2FkODJhNWIwMjhjNWM0Njll",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Worst Taste In Girls",
-        "url": "https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq"
-      },
-      "artists": [
-        {
-          "name": "Charley",
-          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
-        }
-      ],
-      "duration_ms": 176604,
-      "name": "Worst Taste In Girls",
-      "url": "https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Tiempo Indefinido",
         "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 137167,
       "name": "Tiempo Indefinido",
       "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Worst Taste In Girls",
+        "url": "https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq"
+      },
+      "artists": [
+        {
+          "name": "Charley",
+          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
+        }
+      ],
+      "duration_ms": 176604,
+      "name": "Worst Taste In Girls",
+      "url": "https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Ma che Hit",
-        "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
-      },
-      "artists": [
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
-        }
-      ],
-      "duration_ms": 138500,
-      "name": "Ma che Hit",
-      "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Shoreditch Road",
         "url": "https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 193288,
       "name": "Shoreditch Road",
       "url": "https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Ma che Hit",
+        "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Ma che Hit",
+      "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1mFnNicKCQPKlth8V3zovY"
-      },
-      "artists": [
-        {
-          "name": "The Jordan",
-          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Ana Wein",
-        "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1mFnNicKCQPKlth8V3zovY"
       },
       "artists": [
         {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+          "name": "The Jordan",
+          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
         }
       ],
-      "duration_ms": 232857,
-      "name": "Ana Wein",
-      "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
+      "duration_ms": 228893,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
+        "name": "Ana Wein",
+        "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
       },
       "artists": [
         {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
+      "duration_ms": 232857,
+      "name": "Ana Wein",
+      "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Lotus Glow",
-        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 217985,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/4PKc2BFgxs3wQmWR85slvD"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 163480,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0bJGCUiWt2jlH3VR3gdeIo"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Lotus Glow",
+        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 217985,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Done (Let's Get It)",
-        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Soul Ties",
         "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 238847,
       "name": "Soul Ties",
       "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Done (Let's Get It)",
+        "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "VATA",
-        "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 96969,
-      "name": "VATA",
-      "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "FORA",
         "url": "https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 218149,
       "name": "FORA",
       "url": "https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "VATA",
+        "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 96969,
+      "name": "VATA",
+      "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Saif Ul Malook",
         "url": "https://open.spotify.com/album/3V05xjwa9iNewopfpIO1sY"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 121531,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI"
+    },
+    {
+      "added_at": "2023-04-14 12:11:56",
+      "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     }
   ],
   "unique_name": "EQUAL Global",

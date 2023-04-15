@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,023 likes - 288 songs - 14 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,039 likes - 288 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 9 | [Starry Night \- No piano melody](https://open.spotify.com/track/0EorrnTG4RA05pDMGvJ2mQ) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Restfulness](https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto) | 3:46 |
 | 10 | [Evermore](https://open.spotify.com/track/5S2fFnqCM8jYc4GL6k8dWK) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Evermore](https://open.spotify.com/album/0GqhgQEET7SJTiFydo3Svp) | 2:53 |
 | 11 | [Sakalas](https://open.spotify.com/track/6OA8XPGALjJXIhQ7996ftt) | [Gabriel Derus](https://open.spotify.com/artist/0eUKr3LcMQaxwzgIqKKDZ8) | [Sakalas](https://open.spotify.com/album/6YrWkecb5QbcvBBVwJcalr) | 2:56 |
-| 12 | [Momenti](https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I) | [Momenti](https://open.spotify.com/artist/4my1b33vbvuY4mVXDbNVIR) | [Aamina Russo](https://open.spotify.com/album/0rUu4FTSdGBVwr4x4Gxr6I) | 3:12 |
+| 12 | [Momenti](https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I) | [Momenti](https://open.spotify.com/artist/033LMiTBVqCY9QjIyBTemd) | [Aamina Russo](https://open.spotify.com/album/0rUu4FTSdGBVwr4x4Gxr6I) | 3:12 |
 | 13 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 |
 | 14 | [Colour Me](https://open.spotify.com/track/0uy2agXCETXM1UVxAwNAhl) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:10 |
 | 15 | [Olam](https://open.spotify.com/track/6HrGN0OzPVjRLgl6ODRLNn) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Olam](https://open.spotify.com/album/2KRR4loMfpy592sFF3d3D6) | 2:30 |

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: 2 minutos",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Dillom",
   "name": "Rock Argentino",
   "tracks": [
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5P8fb4qfq5ONlFjd4TeS4T"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        },
+        {
+          "name": "Facu Soto",
+          "url": "https://open.spotify.com/artist/28TAi26EYVpZjpfsdMIqyB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207658,
+      "name": "33",
+      "url": "https://open.spotify.com/track/0Or8gwrL6DpEsp59HPM7IE"
+    },
     {
       "album": {
         "name": "A Medias",
@@ -591,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS"
+    },
+    {
+      "album": {
         "name": "Dulce",
         "url": "https://open.spotify.com/album/4rSqRY2mGS0kUETwHMh6Oj"
       },
@@ -936,10 +976,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 262693,
       "name": "Fango",
       "url": "https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH"
+    },
+    {
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     },
     {
       "album": {
@@ -1460,7 +1518,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 215466,
       "name": "La ultima carta",
       "url": "https://open.spotify.com/track/2yCBPSsMp9modg5Gmb9oqB"
@@ -1734,7 +1792,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 303326,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4USWiwJXVmSKNgfjj9hpRj"
@@ -2037,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "OLA DE SUICIDIOS",
+        "url": "https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154373,
+      "name": "OLA DE SUICIDIOS",
+      "url": "https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N"
+    },
+    {
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -2298,7 +2374,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 223806,
       "name": "Que Sigas Bien",
       "url": "https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR"

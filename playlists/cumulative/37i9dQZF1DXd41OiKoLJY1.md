@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Amari, Artwork: Isu Kim
 
-1,055 songs - 2 day 14 hr 55 min
+1,056 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,6 +1057,7 @@
 | [You Look So Pretty](https://open.spotify.com/track/6imMafGDAsnDhkb46WeVSc) | [Off To Neverland!](https://open.spotify.com/artist/0qRRkcXmQsPEhiPPDGm4Qq) | [You Look So Pretty](https://open.spotify.com/album/3EwsuVuPjTL0X5HY55WuYM) | 2:16 | 2023-02-23 | 2023-03-18 |
 | [you wanted a woman](https://open.spotify.com/track/6preeBUwtL6H5tRZJZFK1r) | [Eliza Marie](https://open.spotify.com/artist/2J15J7lLY74L3uG6mvPVnc) | [you wanted a woman](https://open.spotify.com/album/7z66WMwER7LsR97cDZ7nl1) | 3:33 | 2022-05-05 | 2022-07-01 |
 | [YOU WANTED MORE](https://open.spotify.com/track/5llL9735jr1eD3GjFQVZA3) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [BJ Esporma](https://open.spotify.com/artist/5Yry7sNo8rH2jGuJGRayKx) | [Facade](https://open.spotify.com/album/6BBnOSfcyXphLOhdX8bbFT) | 2:27 | 2022-02-03 | 2022-02-11 |
+| [You Won't Let Go](https://open.spotify.com/track/3Ds3Gqb8fGhaIygsYJACrt) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [You Won't Let Go](https://open.spotify.com/album/1kmrP2Scualgq4iyPK8zHC) | 3:10 | 2023-04-13 |  |
 | [Young Love \(feat\. Steven Peregrina\)](https://open.spotify.com/track/1dIjGMe0QoQJBzUalONNrF) | [LouisVint](https://open.spotify.com/artist/1p36Q0wCxaswB4fLCKmTJS), [Steven Peregrina](https://open.spotify.com/artist/5KrSUjqj2SRoveNRwgm2rZ) | [Young Love \(feat\. Steven Peregrina\)](https://open.spotify.com/album/2irQtvMp3cOcGq2tdkTQIg) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [Your Special Day](https://open.spotify.com/track/4dZddqrwCcoUo3SgyZIKUO) | [Tank B Music](https://open.spotify.com/artist/2BYROy3YacI3iGwZHRamsU) | [Your Special Day](https://open.spotify.com/album/2KQTsHpVlbTJjwhpLM0qLD) | 3:15 | 2022-01-07 | 2022-02-11 |
 | [You’ve Got Me](https://open.spotify.com/track/22Uk9ksspcElEdVXwsHghA) | [Jmag](https://open.spotify.com/artist/1lNfm1SfOVhvY54S3sOzOE), [MaJo](https://open.spotify.com/artist/6szGcow7KiG35tQZE0M5Zh) | [You’ve Got Me](https://open.spotify.com/album/0ngqODnljbwqH57olLEbcp) | 4:20 | 2022-03-31 | 2022-04-22 |

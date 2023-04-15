@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 
 > Featuring LiL CaKe, Calle 13, Young Miko & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZrAsKbr4qB.md) - [plain]
 | 18 | [Tranquilita Quieta](https://open.spotify.com/track/1SzYWgwf3898EvxcCvl8Sr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [Tranquilita Quieta](https://open.spotify.com/album/7nNcFmwj1G8O9cWyP0CRNq) | 2:08 |
 | 19 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 |
 | 20 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 |
-| 21 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
+| 21 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
 | 22 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
 | 23 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
 | 24 | [+HP](https://open.spotify.com/track/0nFu1WN1whrcVqY3ZrxZtm) | [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [+HP](https://open.spotify.com/album/4XGV3CmZwOSCd6IdoFlegu) | 3:33 |

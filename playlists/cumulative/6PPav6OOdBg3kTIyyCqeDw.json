@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
+        "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Big tonka (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2aCj4aX6TXFFUn5zTFRH4w"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -592,10 +614,36 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 291611,
       "name": "D.M.B.",
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
+    },
+    {
+      "album": {
+        "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
+        "url": "https://open.spotify.com/album/317PcUzE4jLbru2ex8v1k9"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184155,
+      "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
+      "url": "https://open.spotify.com/track/7ePT9TlNfASJdDB8v9xbBD"
     },
     {
       "album": {
@@ -658,7 +706,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172053,
       "name": "Do What I Want",
       "url": "https://open.spotify.com/track/5OIz27S6SQOJtweneBd6QP"
@@ -786,7 +834,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 124558,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
@@ -904,6 +952,24 @@
       "duration_ms": 165870,
       "name": "Feelings (feat. EST Gee & Rick Ross)",
       "url": "https://open.spotify.com/track/5sLibBUm0ES1LOuy5fEbHj"
+    },
+    {
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240561,
+      "name": "Flaunt It/Cheap",
+      "url": "https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8"
     },
     {
       "album": {
@@ -1030,7 +1096,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 159370,
       "name": "Gangsta Boo (with Lil Tjay)",
       "url": "https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv"
@@ -1458,7 +1524,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
@@ -1572,7 +1638,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -1762,6 +1828,28 @@
       "duration_ms": 140053,
       "name": "Pretty Girls Walk (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
+    },
+    {
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "album": {
@@ -1959,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
         "name": "Sensual Seduction",
         "url": "https://open.spotify.com/album/71gdTUo3ZYPBwiLdjFxQ6p"
       },
@@ -2018,7 +2124,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
@@ -2252,7 +2358,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151903,
       "name": "Think It\u2019s Funny (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/1mwj7ag32lH1x6nZyFtGPh"
@@ -2616,7 +2722,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201373,
       "name": "Why I Love You",
       "url": "https://open.spotify.com/track/4lLmG1fatRUgnRz0Ol0WUi"

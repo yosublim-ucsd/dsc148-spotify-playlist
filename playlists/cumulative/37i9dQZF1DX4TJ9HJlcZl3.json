@@ -385,6 +385,32 @@
     },
     {
       "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/0CIe4u7zQdSYlZJjdRuf1q"
+      },
+      "artists": [
+        {
+          "name": "Bradley McCaw",
+          "url": "https://open.spotify.com/artist/6WBjKhWSZmfAdHoeUIzaVR"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        },
+        {
+          "name": "Louie Shelton",
+          "url": "https://open.spotify.com/artist/2vJfIJtB4PLlIHICVf4V0N"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243946,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/4ju3ITVDX4cauQCRUcl8FK"
       },
@@ -504,7 +530,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 256459,
       "name": "Ms. Marigold",
       "url": "https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Ian Munsick",
+  "description": "Today's top country hits of the week, worldwide! Cover: Chris Young",
   "name": "Hot Country",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -4172,7 +4190,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199040,
       "name": "Heart Like A Truck",
       "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
@@ -8980,7 +8998,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -10583,6 +10601,24 @@
     },
     {
       "album": {
+        "name": "Watermelon Moonshine",
+        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
+    },
+    {
+      "album": {
         "name": "Born Here Live Here Die Here (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
       },
@@ -11388,6 +11424,24 @@
       "duration_ms": 211933,
       "name": "Worth A Shot (feat. Dierks Bentley)",
       "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"
+    },
+    {
+      "album": {
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf"
     },
     {
       "album": {

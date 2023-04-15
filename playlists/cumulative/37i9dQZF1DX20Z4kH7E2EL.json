@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1000 Lords",
+        "url": "https://open.spotify.com/album/4NUSaDBcfmf7J8FdBXXfs6"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341928,
+      "name": "1000 Lords - West",
+      "url": "https://open.spotify.com/track/3FMtOZEsFCyqAuNQQQjHw7"
+    },
+    {
+      "album": {
         "name": "11-11",
         "url": "https://open.spotify.com/album/1aSXw07nHyVs3KG9GZmYu4"
       },
@@ -799,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
+    },
+    {
+      "album": {
         "name": "Fire & Rain",
         "url": "https://open.spotify.com/album/7sEj5kw3b1gi3iY5ijqJCJ"
       },
@@ -988,6 +1024,24 @@
       "duration_ms": 289800,
       "name": "Hold Up, Hold On",
       "url": "https://open.spotify.com/track/1ZgSeZW90oTERXELrNjALJ"
+    },
+    {
+      "album": {
+        "name": "Hope Song",
+        "url": "https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw"
+      },
+      "artists": [
+        {
+          "name": "INV\u014cKER",
+          "url": "https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339351,
+      "name": "Hope Song",
+      "url": "https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn"
     },
     {
       "album": {
@@ -1855,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "Retrospective EP",
+        "url": "https://open.spotify.com/album/3G6VjVa9kWlDv6MiDaoejA"
+      },
+      "artists": [
+        {
+          "name": "Joe Red",
+          "url": "https://open.spotify.com/artist/6mrrDNhEKcQAzEAb1wEuiF"
+        },
+        {
+          "name": "Paul Darey",
+          "url": "https://open.spotify.com/artist/2kdn3dAsp4YUJu96EFFd8p"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418750,
+      "name": "Retrospective - Extended Mix",
+      "url": "https://open.spotify.com/track/0lZiaWIvmdFiWfKtif39xb"
+    },
+    {
+      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/51klBqprA1zzX1cMd2Zbzs"
       },
@@ -2500,6 +2576,24 @@
       "duration_ms": 201600,
       "name": "We Got The Fire",
       "url": "https://open.spotify.com/track/4CLr66ZELcnHxwF5VaQ1rq"
+    },
+    {
+      "album": {
+        "name": "We You / Track 51",
+        "url": "https://open.spotify.com/album/4QQMFcqAbJQgseDTKeC0Ov"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "We You",
+      "url": "https://open.spotify.com/track/3WQ2ZSaSvkU6cmf6vZZb7Q"
     },
     {
       "album": {

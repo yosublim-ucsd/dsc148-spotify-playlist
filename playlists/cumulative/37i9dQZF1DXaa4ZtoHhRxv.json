@@ -1827,6 +1827,28 @@
     },
     {
       "album": {
+        "name": "Spring Break '23 Remixes",
+        "url": "https://open.spotify.com/album/60Z7QokUtvM3SqQNBbNeuo"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121005,
+      "name": "My Bar - VAVO Remix",
+      "url": "https://open.spotify.com/track/4NYFbAU5P7pfEeFe6H2187"
+    },
+    {
+      "album": {
         "name": "BRELAND EP",
         "url": "https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt"
       },
@@ -2730,6 +2752,36 @@
       "duration_ms": 252333,
       "name": "Two Black Cadillacs / Jolene (Dee Jay Silver Edit) (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42"
+    },
+    {
+      "album": {
+        "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+        "url": "https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+      "url": "https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC"
     },
     {
       "album": {

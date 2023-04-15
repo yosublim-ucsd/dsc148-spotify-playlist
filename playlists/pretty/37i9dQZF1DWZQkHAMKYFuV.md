@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQkHAMKYFuV.md) - [plain]
 
 > The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,776 likes - 85 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,833 likes - 85 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

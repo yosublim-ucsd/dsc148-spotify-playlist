@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Nita Strauss on top of the biggest Metal playlist.",
+  "description": "Metallica on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Disappoint Me",
+        "url": "https://open.spotify.com/album/2mSPOTwIwW8TkscyYGsETO"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138709,
+      "name": "Disappoint Me",
+      "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
+    },
+    {
+      "album": {
         "name": "Dismantled",
         "url": "https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T"
       },
@@ -1817,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Dreamlike",
+        "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208645,
+      "name": "Dreamlike",
+      "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
       },
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
@@ -2234,6 +2270,24 @@
       "duration_ms": 240591,
       "name": "Feel What I Believe",
       "url": "https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ"
+    },
+    {
+      "album": {
+        "name": "Fence",
+        "url": "https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217856,
+      "name": "Fence",
+      "url": "https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj"
     },
     {
       "album": {
@@ -3363,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -3934,6 +4006,24 @@
       "duration_ms": 214724,
       "name": "New Devil (feat. Maria Brink of In This Moment)",
       "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
+    },
+    {
+      "album": {
+        "name": "New Messiah",
+        "url": "https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "New Messiah",
+      "url": "https://open.spotify.com/track/784D068nWk6mUvEXkufPnF"
     },
     {
       "album": {
@@ -4526,7 +4616,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205925,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/6AhwAWzSlISc5ZvGonkgdN"
@@ -5184,6 +5274,24 @@
       "duration_ms": 220066,
       "name": "Sign Of Life",
       "url": "https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2"
+    },
+    {
+      "album": {
+        "name": "...So Unknown",
+        "url": "https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce"
+      },
+      "artists": [
+        {
+          "name": "Jesus Piece",
+          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235261,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE"
     },
     {
       "album": {
@@ -6271,6 +6379,28 @@
     },
     {
       "album": {
+        "name": "The Shape of Water",
+        "url": "https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        },
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "The Shape of Water",
+      "url": "https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5"
+    },
+    {
+      "album": {
         "name": "The Steeple",
         "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
       },
@@ -6556,7 +6686,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202908,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM"
@@ -6962,6 +7092,24 @@
       "duration_ms": 223413,
       "name": "Wake Up Dead",
       "url": "https://open.spotify.com/track/4cj9oqXwEDaXOADJw9clMc"
+    },
+    {
+      "album": {
+        "name": "The Aggression Sessions",
+        "url": "https://open.spotify.com/album/3mPX3GO24FWBfxy1NqMkhl"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Waste Of Myself",
+      "url": "https://open.spotify.com/track/05EAMJGwvxDcqcGxhT4t9R"
     },
     {
       "album": {

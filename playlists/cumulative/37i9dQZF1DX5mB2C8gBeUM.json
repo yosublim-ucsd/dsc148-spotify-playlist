@@ -4563,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Pray All The Way Home",
+        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144173,
+      "name": "Pray All The Way Home",
+      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
+    },
+    {
+      "album": {
         "name": "Ragdoll",
         "url": "https://open.spotify.com/album/6WjJUeJmOsU4BnkYGRGBSi"
       },
@@ -5282,6 +5300,28 @@
       "duration_ms": 163000,
       "name": "Sunday Toasted",
       "url": "https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz"
+    },
+    {
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/7GTqzcYBdaT6Ify2iHtcay"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Vwillz",
+          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129005,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/26HQt3tNOagBa4Av5lftP2"
     },
     {
       "album": {

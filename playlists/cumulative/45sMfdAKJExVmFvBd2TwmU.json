@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Chaahe Jo Tumhe",
+        "url": "https://open.spotify.com/album/3XR6kTJOzgdKXHil3xY0QF"
+      },
+      "artists": [
+        {
+          "name": "Prashant Katheriya",
+          "url": "https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Chaahe Jo Tumhe",
+      "url": "https://open.spotify.com/track/3ebaoc3Cxprmk6OmtVfymQ"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },

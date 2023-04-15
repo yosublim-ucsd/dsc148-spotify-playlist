@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 108784,
+  "num_followers": 108806,
   "original_name": "Workday K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0Mjc1OCwwMDAwMDAwMGYyNzNmNWYxNTc5NzdkMGE3MWJiZWI3ZTU2YzM5OTUy",
+  "snapshot_id": "MTY4MDI0Mjc1OCwwMDAwMDAwMDFiNjMxNWFkY2I0MDNjOGY2OGFlNWYzOTQyMTVjNzFi",
   "tracks": [
     {
       "added_at": "2023-03-28 12:30:30",
@@ -131,26 +131,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+        "name": "As If It's Your Last",
+        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+      "duration_ms": 213264,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -203,18 +195,26 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+        "name": "Bad Decisions (with BTS & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+      "duration_ms": 172714,
+      "name": "Bad Decisions (with BTS & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "As If It's Your Last",
-        "url": "https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv"
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 213264,
-      "name": "As If It's Your Last",
-      "url": "https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT"
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "minisode 2: Thursday's Child",
         "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
@@ -591,26 +607,6 @@
       "duration_ms": 191038,
       "name": "Good Boy Gone Bad",
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 192441,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -647,22 +643,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "NOEASY",
         "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 192441,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
     },
     {
-      "added_at": "2023-04-14 01:20:49",
+      "added_at": "2023-04-15 01:22:19",
       "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1095,6 +1095,38 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/23yd1cYlPgl643vE8bb0WD"
       },
@@ -1135,22 +1167,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 204973,
       "name": "INVU",
       "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "CHECKMATE",
-        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 179453,
-      "name": "SNEAKERS",
-      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
       },
       "artists": [
         {
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "mono.",
         "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 229989,
-      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
-      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "COLOR*IZ",
         "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 218993,
       "name": "La Vie en Rose",
       "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
+      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "Dreams Come True - SM STATION",
-        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
       },
@@ -1643,6 +1643,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+      "duration_ms": 189858,
+      "name": "Let Me In (20 CUBE)",
+      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+        "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 189858,
-      "name": "Let Me In (20 CUBE)",
-      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+      "duration_ms": 225171,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1727,22 +1743,6 @@
       "duration_ms": 202772,
       "name": "LATATA",
       "url": "https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 225171,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "Love War",
-        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Love War (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 193173,
       "name": "Heart Burn",
       "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Love War (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "KARD 5th Mini Album 'Re:'",
+        "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "Last Melody",
         "url": "https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "KARD 5th Mini Album 'Re:'",
-        "url": "https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Ring The Alarm",
-      "url": "https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "COUP D'ETAT",
         "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
       },
@@ -2487,18 +2503,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+        "name": "No Make Up",
+        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+      "duration_ms": 189154,
+      "name": "No Make Up",
+      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2535,22 +2551,6 @@
       "duration_ms": 192735,
       "name": "Dream of You (with R3HAB)",
       "url": "https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "No Make Up",
-        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "No Make Up",
-      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2827,6 +2827,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "ONE & SIX",
+        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 199402,
+      "name": "I'm so sick",
+      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "Don't Forget",
         "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
       },
@@ -2847,18 +2863,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "ONE & SIX",
-        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
       },
       "artists": [
         {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
         }
       ],
-      "duration_ms": 199402,
-      "name": "I'm so sick",
-      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2875,22 +2891,6 @@
       "duration_ms": 180320,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 193321,
-      "name": "200%",
-      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -3094,11 +3094,15 @@
         {
           "name": "IU",
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Coin",
-      "url": "https://open.spotify.com/track/7CZRguMolNqIobnXxpV735"
+      "duration_ms": 189920,
+      "name": "Troll (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -3171,22 +3175,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 190050,
-      "name": "Tie a Cherry",
-      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -3203,18 +3191,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "The Road : Keep on Going - The 11th Album Vol.1",
-        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
       },
       "artists": [
         {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+      "duration_ms": 190050,
+      "name": "Tie a Cherry",
+      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -3231,6 +3219,22 @@
       "duration_ms": 209207,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "The Road : Keep on Going - The 11th Album Vol.1",
+        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
     },
     {
       "added_at": "2023-03-28 12:30:30",

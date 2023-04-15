@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2:30",
+        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
+    },
+    {
+      "album": {
         "name": "2AM In Da Club",
         "url": "https://open.spotify.com/album/0YUPlTsdsJq07biJTLzOUR"
       },
@@ -1207,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "album": {
         "name": "Don't Shout",
         "url": "https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3"
       },
@@ -1266,6 +1306,24 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "album": {
+        "name": "Elon musk",
+        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195761,
+      "name": "Elon musk",
+      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
     },
     {
       "album": {
@@ -2132,7 +2190,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151983,
       "name": "I Don't Like You",
       "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
@@ -2176,7 +2234,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 157204,
       "name": "I Like Girls",
       "url": "https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk"
@@ -2732,7 +2790,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274285,
       "name": "La Maluka",
       "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
@@ -3762,7 +3820,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
@@ -4846,6 +4904,24 @@
       "duration_ms": 168946,
       "name": "WAKA WAKA",
       "url": "https://open.spotify.com/track/51GphBzrIolTeEEsAj8nBP"
+    },
+    {
+      "album": {
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
     },
     {
       "album": {

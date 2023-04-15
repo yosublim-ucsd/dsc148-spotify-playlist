@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,049 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,341 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 2 | [TQG](https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TQG](https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa) | 3:18 |
 | 3 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 |
 | 4 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 |
-| 5 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
-| 6 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
-| 7 | [Rara](https://open.spotify.com/track/58c299NMWH1asn2ISIpivs) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rara](https://open.spotify.com/album/0SxFRrk8ceiqrFag2K3EbI) | 3:46 |
+| 5 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
+| 6 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
+| 7 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 8 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
 | 9 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 10 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 99 | [Alguien Robo](https://open.spotify.com/track/7gpccT9M7V3NGWDlxKVQzt) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Alguien Robó](https://open.spotify.com/album/4jpkMYMmAmPCKuVz2c6b8v) | 3:43 |
 | 100 | [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 |
 
-Snapshot ID: `MTY4MDIzNTI0NSwwMDAwMDAwMDU4OTc0NjcwODkxZThhODdiNzZhYzcyYTcyNjRlZjNl`
+Snapshot ID: `MTY4MTQ1NTMwMCwwMDAwMDAwMDQ2NmY0ODI1M2I1NDE4MTkzMmEwMzQzZGQ2YmIwMzQ1`

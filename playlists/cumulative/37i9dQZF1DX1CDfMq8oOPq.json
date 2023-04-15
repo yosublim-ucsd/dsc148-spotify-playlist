@@ -704,10 +704,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 181504,
       "name": "Fartura E Riqueza",
       "url": "https://open.spotify.com/track/4vn6W7bT3fqHG466IfaJck"
+    },
+    {
+      "album": {
+        "name": "Faz o Pix",
+        "url": "https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja"
+      },
+      "artists": [
+        {
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131684,
+      "name": "Faz o Pix",
+      "url": "https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO"
     },
     {
       "album": {

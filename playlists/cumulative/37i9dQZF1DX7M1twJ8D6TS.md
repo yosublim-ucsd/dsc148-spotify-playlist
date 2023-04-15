@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-163 songs - 9 hr 53 min
+164 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 | 2022-03-18 |  |
 | [Pocket Full of Kisses](https://open.spotify.com/track/0kYxQScxyryMlmIMqhWu9I) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Pretty Good Heart](https://open.spotify.com/album/0IXHC12fZ0z8vKVcqnp5A5) | 3:57 | 2021-10-08 | 2022-05-28 |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2021-04-16 |  |
-| [Pretty Things](https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 2](https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK) | 4:28 | 2021-09-03 |  |
+| [Pretty Things](https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 4:28 | 2022-05-27 |  |
+| [Pretty Things](https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 2](https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK) | 4:28 | 2021-09-03 | 2023-04-15 |
 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 | 2023-02-11 |  |
 | [Queen for a Night](https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [One Light Town](https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa) | 3:16 | 2021-10-08 |  |
 | [Ranch Girl Dream](https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Muchos Sonidos](https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE) | 3:43 | 2021-04-16 |  |

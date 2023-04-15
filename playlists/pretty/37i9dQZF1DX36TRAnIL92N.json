@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 130331,
+  "num_followers": 130900,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDQ0MDFlZTE5NTQzOWJhMTZmNzg1MzMyZjg5YmRkMzBl",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGE4MjVhODg0YmQzOTJjZDFlZTQ1NTdmMmI0Zjc4NTc2",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -223,8 +223,8 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
       "artists": [
         {
@@ -232,13 +232,13 @@
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -407,8 +407,8 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
       },
       "artists": [
         {
@@ -416,13 +416,13 @@
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+      "duration_ms": 184888,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -499,22 +499,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "The Coldest Form",
-        "url": "https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh"
+        "name": "Alle meine Raver",
+        "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
       },
       "artists": [
         {
-          "name": "Julien Riess",
-          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
         },
         {
-          "name": "CNTRBND",
-          "url": "https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk"
+          "name": "Ben Dust",
+          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
         }
       ],
-      "duration_ms": 360000,
-      "name": "The Coldest Form",
-      "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
+      "duration_ms": 314666,
+      "name": "Alle meine Raver",
+      "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -535,22 +535,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Alle meine Raver",
-        "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
+        "name": "The Coldest Form",
+        "url": "https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh"
       },
       "artists": [
         {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
         },
         {
-          "name": "Ben Dust",
-          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+          "name": "CNTRBND",
+          "url": "https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk"
         }
       ],
-      "duration_ms": 314666,
-      "name": "Alle meine Raver",
-      "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
+      "duration_ms": 360000,
+      "name": "The Coldest Form",
+      "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Motokobo",
-        "url": "https://open.spotify.com/album/33CfjoHj8ve1RMRJAIRKfa"
-      },
-      "artists": [
-        {
-          "name": "Chris Veron",
-          "url": "https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S"
-        }
-      ],
-      "duration_ms": 384480,
-      "name": "Motokobo",
-      "url": "https://open.spotify.com/track/3J8xd0PgO6nKvvsmB3q53H"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 245333,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Motokobo",
+        "url": "https://open.spotify.com/album/33CfjoHj8ve1RMRJAIRKfa"
+      },
+      "artists": [
+        {
+          "name": "Chris Veron",
+          "url": "https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S"
+        }
+      ],
+      "duration_ms": 384480,
+      "name": "Motokobo",
+      "url": "https://open.spotify.com/track/3J8xd0PgO6nKvvsmB3q53H"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Lonely Traveller",
-        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 366038,
-      "name": "Lonely Traveller",
-      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Colonia EP",
         "url": "https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 234546,
       "name": "Colonia",
       "url": "https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     },
     {
       "added_at": "2023-04-13 22:01:00",

@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "album": {
         "name": "Bezos",
         "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147272,
       "name": "Blind",
       "url": "https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae"
@@ -1257,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/6ApVH27GE5u86dQs11WiuB"
+      },
+      "artists": [
+        {
+          "name": "UAX",
+          "url": "https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164075,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86"
+    },
+    {
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
@@ -1856,6 +1892,32 @@
       "duration_ms": 139610,
       "name": "Honest Decision",
       "url": "https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0"
+    },
+    {
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "album": {
@@ -2890,7 +2952,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197575,
       "name": "MY WAY (feat. Joey B)",
       "url": "https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl"
@@ -3086,6 +3148,24 @@
       "duration_ms": 173571,
       "name": "Ole Gan",
       "url": "https://open.spotify.com/track/5mkGlDnaz1DCJZ5B2NyPkj"
+    },
+    {
+      "album": {
+        "name": "Now you know",
+        "url": "https://open.spotify.com/album/0AmU09bzeHjQjMnopF0pQH"
+      },
+      "artists": [
+        {
+          "name": "Mizzle",
+          "url": "https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Omoyi",
+      "url": "https://open.spotify.com/track/2LskJ9MKS5uuqUbLeqNClt"
     },
     {
       "album": {
@@ -3292,7 +3372,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173793,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
@@ -4442,7 +4522,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 158812,
       "name": "Wetin No Good",
       "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"

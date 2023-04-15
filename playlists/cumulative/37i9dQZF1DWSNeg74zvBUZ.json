@@ -352,7 +352,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 223810,
       "name": "Arboretum",
       "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 243250,
       "name": "Birki",
       "url": "https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K"
@@ -634,6 +634,24 @@
       "duration_ms": 299936,
       "name": "By The Sea",
       "url": "https://open.spotify.com/track/5t4QJ9XnmAxzw9e92yt3I6"
+    },
+    {
+      "album": {
+        "name": "Scacco Matto",
+        "url": "https://open.spotify.com/album/2vgQwkBwLcdwdwvQecpp1p"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299413,
+      "name": "Canone Infinito",
+      "url": "https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps"
     },
     {
       "album": {
@@ -840,7 +858,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 415000,
       "name": "Crystal Silence",
       "url": "https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 283200,
       "name": "Dwellberry",
       "url": "https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180227,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 268400,
       "name": "Le jardin",
       "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
@@ -1810,7 +1828,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 143973,
       "name": "Oceanic Feeling",
       "url": "https://open.spotify.com/track/6pkXXWpMwdZZTXoaCDZ6Ci"
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 276308,
       "name": "Rebecca's Theme (Water)",
       "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
@@ -2378,6 +2396,28 @@
       "duration_ms": 317867,
       "name": "Strands",
       "url": "https://open.spotify.com/track/0XA6999Nceq9KDYlqC7H06"
+    },
+    {
+      "album": {
+        "name": "sunrise mtn",
+        "url": "https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "sunrise mtn",
+      "url": "https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL"
     },
     {
       "album": {
@@ -2724,7 +2764,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 397000,
       "name": "Yulquen",
       "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
@@ -2742,7 +2782,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 183569,
       "name": "\u30b6\u30fb\u30ef\u30fc\u30c9 II",
       "url": "https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ"

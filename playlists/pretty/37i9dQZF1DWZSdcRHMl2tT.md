@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,220 likes - 236 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,302 likes - 236 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 14 | [Travolta](https://open.spotify.com/track/4aL6ArytlzfYU49VPTFisX) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Travolta](https://open.spotify.com/album/4MDDzBeqGKO1SSWjVvpQMU) | 3:35 |
 | 15 | [Cassette Tape](https://open.spotify.com/track/34vL3tUAnlevnJR0NyiEkB) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Cassette Tape](https://open.spotify.com/album/0xysheVNUl2zt3wib4ksKh) | 3:32 |
 | 16 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 |
-| 17 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 |
-| 18 | [Bellagio](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Bellagio](https://open.spotify.com/album/0gpz1wC0WPY7328nh0N74m) | 2:54 |
-| 19 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 |
+| 17 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 |
+| 18 | [Cradle Beach](https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Cradle Beach](https://open.spotify.com/album/6cYWvOK87fNQkvgrevG8UV) | 2:52 |
+| 19 | [Bellagio](https://open.spotify.com/track/44vcTNxN1PUjZxsi7apRLK) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Bellagio](https://open.spotify.com/album/0gpz1wC0WPY7328nh0N74m) | 2:54 |
 | 20 | [electric sea](https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [electric sea](https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA) | 2:33 |
 | 21 | [wicked play](https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [wicked play](https://open.spotify.com/album/31L7sJ9kqF3tFueTDTIJ0n) | 3:32 |
 | 22 | [10pm](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [10pm](https://open.spotify.com/album/7MJsQ6xb1pxzQxwyjM3FbU) | 2:48 |
@@ -40,20 +40,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 30 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 |
 | 31 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 |
 | 32 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 |
-| 33 | [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 |
-| 34 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 |
-| 35 | [Saint](https://open.spotify.com/track/28HAQ14CuQBdYXVDaiLnNI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Saint](https://open.spotify.com/album/1PJZR969k2nt3tD8a376XK) | 2:59 |
-| 36 | [With My Whole Heart](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [With My Whole Heart](https://open.spotify.com/album/1IowasV6lzpLW6kGZm1dNJ) | 2:32 |
-| 37 | [Campeche](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV) | [Amber & Ochre](https://open.spotify.com/artist/1ThQ3MXSa99zoFt5j8QDkX) | [Campeche](https://open.spotify.com/album/3uYXQwG7rWrBiaPCTGAGIF) | 2:23 |
-| 38 | [dune tune](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [dune tune](https://open.spotify.com/album/4HmvWfHAXKo1XpwKOnxPPK) | 2:38 |
-| 39 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 |
-| 40 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
-| 41 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 |
-| 42 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 |
-| 43 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 |
-| 44 | [heated waves](https://open.spotify.com/track/3XWowi8PlawJwuxA6lNLGy) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [heated waves](https://open.spotify.com/album/0d1ycOBr9Z1TdrDdWuR63q) | 2:23 |
-| 45 | [embrace](https://open.spotify.com/track/3plZSRM45AgutYEAsQCZ0j) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [embrace](https://open.spotify.com/album/0QUAVjr8P0jffmbgL6YYwE) | 2:39 |
-| 46 | [Alright \- Instrumental](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc) | [LUXXURY](https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z) | [Ambiance](https://open.spotify.com/album/7uUsmnIjwEAV1S0IYXNsCH) | 3:04 |
+| 33 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 |
+| 34 | [Saint](https://open.spotify.com/track/28HAQ14CuQBdYXVDaiLnNI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Saint](https://open.spotify.com/album/1PJZR969k2nt3tD8a376XK) | 2:59 |
+| 35 | [With My Whole Heart](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [With My Whole Heart](https://open.spotify.com/album/1IowasV6lzpLW6kGZm1dNJ) | 2:32 |
+| 36 | [Campeche](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV) | [Amber & Ochre](https://open.spotify.com/artist/1ThQ3MXSa99zoFt5j8QDkX) | [Campeche](https://open.spotify.com/album/3uYXQwG7rWrBiaPCTGAGIF) | 2:23 |
+| 37 | [dune tune](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [dune tune](https://open.spotify.com/album/4HmvWfHAXKo1XpwKOnxPPK) | 2:38 |
+| 38 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 |
+| 39 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
+| 40 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 |
+| 41 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 |
+| 42 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 |
+| 43 | [heated waves](https://open.spotify.com/track/3XWowi8PlawJwuxA6lNLGy) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [heated waves](https://open.spotify.com/album/0d1ycOBr9Z1TdrDdWuR63q) | 2:23 |
+| 44 | [embrace](https://open.spotify.com/track/3plZSRM45AgutYEAsQCZ0j) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [embrace](https://open.spotify.com/album/0QUAVjr8P0jffmbgL6YYwE) | 2:39 |
+| 45 | [Alright \- Instrumental](https://open.spotify.com/track/7vgJUNJWIrKhH2WXdWHaXc) | [LUXXURY](https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z) | [Ambiance](https://open.spotify.com/album/7uUsmnIjwEAV1S0IYXNsCH) | 3:04 |
+| 46 | [Don't Need To Worry](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s) | [Simple Jim](https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0) | [Don't Need To Worry](https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah) | 2:10 |
 | 47 | [David's House](https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [David's House](https://open.spotify.com/album/76saSRyM5eymCJFacvJYed) | 2:50 |
 | 48 | [locking lips](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [locking lips](https://open.spotify.com/album/28M6S2X1BaPQI0IcJ6ju55) | 3:37 |
 | 49 | [Fifteen](https://open.spotify.com/track/2dhziN5G456z3P2J4inmH1) | [Beau Vallon](https://open.spotify.com/artist/5K0wrtw39gjYV1Gf63auL4) | [Fifteen](https://open.spotify.com/album/0lRGe4tyvQ7mtaghEFx49i) | 2:21 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 235 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 236 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MTY4MTMxMzg0OCwwMDAwMDAwMGYwY2Y3Mzg0NTgyZGU1Yjg4YzlkNzcxNTI0MGExYjM4`
+Snapshot ID: `MTY4MTQ3NTM2OCwwMDAwMDAwMDQ4MzQ4NWIzMzgyNjgyMGNmY2YxOTZmNzhiNjlhYmFk`

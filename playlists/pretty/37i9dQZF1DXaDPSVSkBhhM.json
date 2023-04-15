@@ -1,13 +1,33 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 59993,
+  "num_followers": 60022,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0MzM2MiwwMDAwMDAwMGRkZTMzNGEzZDdkY2E2ZGNiOGE1YjYxNjE2OWNlZWFh",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGM5MWU4ZGE3ZDRhYTAxNTEwZmU1YTYxMzk4NzBjODM0",
   "tracks": [
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Himno (para los que est\u00e1n jodidos)",
+        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 185790,
+      "name": "Himno (para los que est\u00e1n jodidos)",
+      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 238373,
       "name": "Disculpa los Malos Pensamientos",
       "url": "https://open.spotify.com/track/76VYYaRC2np6iUbD2Ze2lD"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Divisi\u00f3n",
-        "url": "https://open.spotify.com/album/1LmzZpRdF3pP8o8P7ZUY9u"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Humanos Como T\u00fa",
-      "url": "https://open.spotify.com/track/3PfJcQLyrDOrVcyrDf3mzg"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -59,6 +63,22 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Divisi\u00f3n",
+        "url": "https://open.spotify.com/album/1LmzZpRdF3pP8o8P7ZUY9u"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Humanos Como T\u00fa",
+      "url": "https://open.spotify.com/track/3PfJcQLyrDOrVcyrDf3mzg"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "Una Vida No Es Suficiente",
         "url": "https://open.spotify.com/album/0C7eBRwY63jNnFyqqwrwlj"
       },
@@ -71,6 +91,22 @@
       "duration_ms": 173133,
       "name": "Cielos Que Lloran",
       "url": "https://open.spotify.com/track/1YMUqYf5tNsXJEzaBlswnz"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "t\u00fa + yo",
+        "url": "https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us"
+      },
+      "artists": [
+        {
+          "name": "Marc!",
+          "url": "https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "t\u00fa + yo",
+      "url": "https://open.spotify.com/track/4lPCAX8wRQKNzHTiXnZUjb"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -91,18 +127,34 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "t\u00fa + yo",
-        "url": "https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us"
+        "name": "Gracias por la Herida",
+        "url": "https://open.spotify.com/album/5Dgg26VbrIcbkVaZUyTgRQ"
       },
       "artists": [
         {
-          "name": "Marc!",
-          "url": "https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF"
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 212000,
-      "name": "t\u00fa + yo",
-      "url": "https://open.spotify.com/track/4lPCAX8wRQKNzHTiXnZUjb"
+      "duration_ms": 229947,
+      "name": "Gracias por la Herida",
+      "url": "https://open.spotify.com/track/52JXNqsIEDNzEy2Iu0G5fV"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -137,20 +189,24 @@
       "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
     },
     {
-      "added_at": "2022-10-01 18:54:42",
+      "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Gracias por la Herida",
-        "url": "https://open.spotify.com/album/5Dgg26VbrIcbkVaZUyTgRQ"
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1pcGdOq2pFTBjivCc8CqbI"
       },
       "artists": [
         {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+          "name": "Hey Bandit!",
+          "url": "https://open.spotify.com/artist/2yzrbMnmjvrupo4AuOwnRJ"
+        },
+        {
+          "name": "Gibr\u00e1n Serrano",
+          "url": "https://open.spotify.com/artist/2iXLevANnYqq76VN1xaBYc"
         }
       ],
-      "duration_ms": 229947,
-      "name": "Gracias por la Herida",
-      "url": "https://open.spotify.com/track/52JXNqsIEDNzEy2Iu0G5fV"
+      "duration_ms": 177074,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/0Tvg72r8G8sd3rxRlnZxGR"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -171,18 +227,34 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "La Insoportable Levedad del Final",
-        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
       "artists": [
         {
-          "name": "THE SUPUESTOS",
-          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 237633,
-      "name": "La Insoportable Levedad del Final",
-      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Experiencia Miguel",
+        "url": "https://open.spotify.com/album/4LFw2Xc55QxecgpHzNIwWE"
+      },
+      "artists": [
+        {
+          "name": "Meeky",
+          "url": "https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5"
+        }
+      ],
+      "duration_ms": 156164,
+      "name": "LilPeep69Minion420",
+      "url": "https://open.spotify.com/track/24SAYRe4xqyhZrYgnVfFYU"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -203,38 +275,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "No Hay Final Feliz",
-        "url": "https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea"
-      },
-      "artists": [
-        {
-          "name": "Cuatro y Medio",
-          "url": "https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC"
-        }
-      ],
-      "duration_ms": 218811,
-      "name": "No Hay Final Feliz",
-      "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Masappan",
         "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
@@ -251,18 +291,18 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Saoko (Post-Punk)",
-        "url": "https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5"
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
       "artists": [
         {
-          "name": "Isaac De los Santos",
-          "url": "https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ"
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 180152,
-      "name": "Saoko (Post-Punk)",
-      "url": "https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0"
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -279,22 +319,6 @@
       "duration_ms": 226063,
       "name": "Cc (Como Compas)",
       "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -421,22 +445,6 @@
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
-      "added_at": "2022-12-21 17:22:42",
-      "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
-      },
-      "artists": [
-        {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
-        }
-      ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
-    },
-    {
       "added_at": "2022-10-01 18:54:42",
       "album": {
         "name": "Fantasmas",
@@ -451,6 +459,22 @@
       "duration_ms": 216296,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2022-12-21 17:22:42",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -523,22 +547,6 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
-      },
-      "artists": [
-        {
-          "name": "Abril 88",
-          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
-        }
-      ],
-      "duration_ms": 166540,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -551,6 +559,22 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "duration_ms": 166540,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -601,22 +625,6 @@
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
     },
     {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
       "added_at": "2022-12-21 17:22:42",
       "album": {
         "name": "Te Vale Madre",
@@ -631,6 +639,22 @@
       "duration_ms": 190933,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -719,6 +743,26 @@
     {
       "added_at": "2022-10-01 18:54:42",
       "album": {
+        "name": "Clavo",
+        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        },
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Clavo",
+      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
         "name": "III\u00b7I",
         "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
       },
@@ -731,6 +775,38 @@
       "duration_ms": 191346,
       "name": "Lav\u00e1ntula",
       "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "No Hay Final Feliz",
+        "url": "https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea"
+      },
+      "artists": [
+        {
+          "name": "Cuatro y Medio",
+          "url": "https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC"
+        }
+      ],
+      "duration_ms": 218811,
+      "name": "No Hay Final Feliz",
+      "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
+    },
+    {
+      "added_at": "2022-10-01 18:54:42",
+      "album": {
+        "name": "Saoko (Post-Punk)",
+        "url": "https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5"
+      },
+      "artists": [
+        {
+          "name": "Isaac De los Santos",
+          "url": "https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ"
+        }
+      ],
+      "duration_ms": 180152,
+      "name": "Saoko (Post-Punk)",
+      "url": "https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0"
     },
     {
       "added_at": "2022-10-01 18:54:42",
@@ -763,74 +839,6 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "A Todos Nos Pasa",
-        "url": "https://open.spotify.com/album/6wJEaTch4XaGZnsXSAv0ve"
-      },
-      "artists": [
-        {
-          "name": "Blast55",
-          "url": "https://open.spotify.com/artist/6ZtsVCTccysmOQrMasGMG8"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Canci\u00f3n para Ti",
-      "url": "https://open.spotify.com/track/45Vmknqo3EMaLb6ijxUA3q"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "Empezar, Pt. 2",
-        "url": "https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS"
-      },
-      "artists": [
-        {
-          "name": "Sureste",
-          "url": "https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH"
-        }
-      ],
-      "duration_ms": 165927,
-      "name": "Empezar, Pt. 2",
-      "url": "https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2"
-    },
-    {
-      "added_at": "2022-10-01 18:54:42",
-      "album": {
-        "name": "La Naturaleza Incoherente del Ser",
-        "url": "https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW"
-      },
-      "artists": [
-        {
-          "name": "Dolores De Huevos",
-          "url": "https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV"
-        }
-      ],
-      "duration_ms": 203003,
-      "name": "La Naturaleza Incoherente del Ser",
-      "url": "https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG"
     }
   ],
   "unique_name": "Escena Pop Punk",

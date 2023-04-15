@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "David Ecker",
+          "url": "https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128173,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k"
+    },
+    {
+      "album": {
         "name": "Around the stabs",
         "url": "https://open.spotify.com/album/5HqljPTsCr2Sm0it9VhLiI"
       },
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 144469,
       "name": "Chem Dawg",
       "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
@@ -1276,6 +1298,40 @@
       "duration_ms": 194464,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/58zFkROMyeq4o1OMIQQgsL"
+    },
+    {
+      "album": {
+        "name": "CRNGGLS.MMBL",
+        "url": "https://open.spotify.com/album/5MhXEMFIHl9n9so6jTQr17"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        },
+        {
+          "name": "Zach Connolly",
+          "url": "https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "CRNGGLS.MMBL",
+      "url": "https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa"
     },
     {
       "album": {
@@ -4256,7 +4312,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 177036,
       "name": "PRNDL.exe",
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
@@ -5517,6 +5573,28 @@
     },
     {
       "album": {
+        "name": "Praise the Sun",
+        "url": "https://open.spotify.com/album/7uaWonOY8KMY4ejg4K1ETM"
+      },
+      "artists": [
+        {
+          "name": "Polyswitch",
+          "url": "https://open.spotify.com/artist/2nAiJ5TWbKYMyQ5heeqQEX"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309532,
+      "name": "The Great Conjunction",
+      "url": "https://open.spotify.com/track/3XE0173HJVx4L34FqdakeK"
+    },
+    {
+      "album": {
         "name": "The Message Continues (DJ Harrison Remix)",
         "url": "https://open.spotify.com/album/51XPFoP8cVhjYnWcuunV07"
       },
@@ -5558,6 +5636,32 @@
       "duration_ms": 369585,
       "name": "The Message Continues - Mark de Clive-Lowe Remix",
       "url": "https://open.spotify.com/track/4kyzWwDs6Pumurfu3fIM01"
+    },
+    {
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/619tv6INqR5CiZM21mVqN4"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        },
+        {
+          "name": "Protonebula",
+          "url": "https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun"
+        },
+        {
+          "name": "Glance",
+          "url": "https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4Xr8WBVperOkz9VbNniPdZ"
     },
     {
       "album": {
@@ -5762,7 +5866,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 271375,
       "name": "Tiger's Den - Radio Edit",
       "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
@@ -6054,7 +6158,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 223302,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"

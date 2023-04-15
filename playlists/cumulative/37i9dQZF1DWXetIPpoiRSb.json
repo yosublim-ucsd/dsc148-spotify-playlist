@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The freshest pop sounds. Cover: FIFTY FIFTY",
+  "description": "The freshest pop sounds. Cover: Lauren Spencer Smith + GAYLE + Em Beihold",
   "name": "New Pop Revolution",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 152909,
       "name": "2020s",
       "url": "https://open.spotify.com/track/0TLsJGWkuTUFZIIRuLNJDO"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
@@ -4033,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "album": {
         "name": "dancing in the kitchen",
         "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
       },
@@ -4120,6 +4138,24 @@
       "duration_ms": 175508,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -5695,6 +5731,32 @@
     },
     {
       "album": {
+        "name": "Fantasy (with GAYLE & Em Beihold)",
+        "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
+    },
+    {
+      "album": {
         "name": "Fast Times",
         "url": "https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd"
       },
@@ -6346,6 +6408,24 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
     },
     {
       "album": {
@@ -8518,7 +8598,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 145667,
       "name": "i'm yours",
       "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
@@ -10142,7 +10222,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 224500,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
@@ -11974,7 +12054,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167550,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
@@ -12761,6 +12841,24 @@
     },
     {
       "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0wvlzL66ClrOKiy3Vc4s5E"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147066,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/63Nx8zAsDf3YRfZmNF5OTC"
+    },
+    {
+      "album": {
         "name": "Plain (feat. Lily Allen & Flo Milli)",
         "url": "https://open.spotify.com/album/2Tn3eZ9tWRqKqg2Y4BDsFX"
       },
@@ -12798,7 +12896,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -13462,10 +13560,32 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+    },
+    {
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "album": {
@@ -14512,6 +14632,24 @@
       "duration_ms": 177750,
       "name": "Skinny Dipping",
       "url": "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi"
+    },
+    {
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "album": {

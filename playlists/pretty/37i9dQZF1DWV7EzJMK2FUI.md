@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,684 likes - 575 songs - 1 day 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,396 likes - 575 songs - 1 day 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 574 | [Everytime We Say Goodbye](https://open.spotify.com/track/6xeEdMWJiNsQwxmCJ7fsQ6) | [Billy Charlotte](https://open.spotify.com/artist/5kwTfmxxihzQfDf7lavECv) | [How Long Has This Been Going On](https://open.spotify.com/album/1I3EDZzXo6MPpsOy0Bt2n7) | 4:05 |
 | 575 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDM4NTA4MTM3ODUyYTAzMTE4ZWZmNDJiNDEyNGJkMDJh`
+Snapshot ID: `MTY4MTQ2NjU0OSwwMDAwMDAwMGZiYzMxOWM4YzhjZjE0MjJkYzM3YjVjNWQ4MTM2ODc4`

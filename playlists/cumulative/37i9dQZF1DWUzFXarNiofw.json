@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest r&b drops, every week. Cover: Leon Thomas",
+  "description": "The newest r&b drops, every week. Cover: SZA & Doja Cat",
   "name": "R&B Weekly",
   "tracks": [
     {
@@ -862,6 +862,24 @@
       "duration_ms": 169010,
       "name": "Always Something",
       "url": "https://open.spotify.com/track/6JjmyW2TXtFq4Ahus1NtSh"
+    },
+    {
+      "album": {
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "album": {
@@ -2275,6 +2293,44 @@
     },
     {
       "album": {
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189098,
+      "name": "Breathe (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/5T6MaD8kh2Sj5nUEM4DZXE"
+    },
+    {
+      "album": {
         "name": "Bruce Wayne",
         "url": "https://open.spotify.com/album/5BOehCpbaZHz4WDpQVFUvb"
       },
@@ -2290,6 +2346,24 @@
       "duration_ms": 123629,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/4r2VLMcSn7hxfZvd5T3lMr"
+      },
+      "artists": [
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4PWEOC42dyiedQfS85MId3"
     },
     {
       "album": {
@@ -2812,7 +2886,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171120,
       "name": "Certified",
       "url": "https://open.spotify.com/track/2Gn2bH14XiEMWdb1Y0iJJi"
@@ -2924,7 +2998,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 129080,
       "name": "CHERIMOYA",
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
@@ -3688,6 +3762,24 @@
       "duration_ms": 224268,
       "name": "Da Girls",
       "url": "https://open.spotify.com/track/0Vv7lPT21u7YjxpCYdCYwq"
+    },
+    {
+      "album": {
+        "name": "Sacred Timeline",
+        "url": "https://open.spotify.com/album/5gNTY7xT6ALMhzEUChjZMi"
+      },
+      "artists": [
+        {
+          "name": "King Sis",
+          "url": "https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240261,
+      "name": "day 1",
+      "url": "https://open.spotify.com/track/5gDbLqOku5V86tfcqi60nc"
     },
     {
       "album": {
@@ -4601,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
+    },
+    {
+      "album": {
         "name": "Ego (Extended Mix)",
         "url": "https://open.spotify.com/album/456U2WVAieUGqyrptZM4Yf"
       },
@@ -4704,7 +4814,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166156,
       "name": "Enough",
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
@@ -6702,7 +6812,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179828,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
@@ -7052,7 +7162,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 200560,
       "name": "Honeysuckle Neckbone",
       "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
@@ -7194,6 +7304,24 @@
       "duration_ms": 132640,
       "name": "hurt (feat. Somni)",
       "url": "https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH"
+    },
+    {
+      "album": {
+        "name": "Hurt Before",
+        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122086,
+      "name": "Hurt Before",
+      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "album": {
@@ -8266,7 +8394,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173431,
       "name": "Insane (feat. Ant Clemons)",
       "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
@@ -8462,7 +8590,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179579,
       "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
@@ -8502,7 +8630,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182698,
       "name": "It's You",
       "url": "https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7"
@@ -8732,6 +8860,28 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "album": {
@@ -9248,7 +9398,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
@@ -9296,6 +9446,24 @@
       "duration_ms": 202371,
       "name": "Let Me See Your Phone",
       "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "album": {
@@ -10139,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab"
+    },
+    {
+      "album": {
         "name": "IT'S not YOU, it's me",
         "url": "https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf"
       },
@@ -10617,6 +10803,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4nhOITm4OzWdDh2wboHnxw"
+      },
+      "artists": [
+        {
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197993,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4bCqQaoBG8TC1dCE2yxgpA"
+    },
+    {
+      "album": {
         "name": "More Than I Deserve",
         "url": "https://open.spotify.com/album/0CBC9HJB20kR1M1kEuio3L"
       },
@@ -10890,7 +11094,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184385,
       "name": "Naked - Feat. Leven Kali",
       "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
@@ -11624,7 +11828,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180545,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
@@ -12382,7 +12586,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 91105,
       "name": "Patient (02)",
       "url": "https://open.spotify.com/track/77gaU2zZfncrzF9vxA8fEC"
@@ -12986,7 +13190,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 183651,
       "name": "Reassurance",
       "url": "https://open.spotify.com/track/0k9cWPjz8uI5iIAnHotHo8"
@@ -13186,6 +13390,24 @@
       "duration_ms": 151730,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
+    },
+    {
+      "album": {
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140973,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
       "album": {
@@ -13884,6 +14106,24 @@
       "duration_ms": 174637,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt"
+    },
+    {
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/5N9bOh6HESnuqWX2DsXxaZ"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173604,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/0XNIOrz384Vp5fbpsfERxW"
     },
     {
       "album": {
@@ -14604,6 +14844,24 @@
       "duration_ms": 220199,
       "name": "sorry",
       "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
+    },
+    {
+      "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197610,
+      "name": "Southern Delicacy",
+      "url": "https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm"
     },
     {
       "album": {
@@ -15594,7 +15852,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184200,
       "name": "Talkback",
       "url": "https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe"
@@ -16080,6 +16338,24 @@
       "duration_ms": 294103,
       "name": "The Roof (When I Feel the Need) (feat. Brandy)",
       "url": "https://open.spotify.com/track/3rptYWhwQWNWcACrYu4CGg"
+    },
+    {
+      "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "THERAPY",
+      "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
     },
     {
       "album": {
@@ -16683,6 +16959,24 @@
     },
     {
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
+    {
+      "album": {
         "name": "Try Peace...",
         "url": "https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y"
       },
@@ -17075,6 +17369,28 @@
     },
     {
       "album": {
+        "name": "W8",
+        "url": "https://open.spotify.com/album/570MYwKWpYzH9WDITiHcb7"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        },
+        {
+          "name": "DrewTheRew",
+          "url": "https://open.spotify.com/artist/6v88vKZue57e76Pes3aZkv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220510,
+      "name": "W8",
+      "url": "https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1"
+    },
+    {
+      "album": {
         "name": "N\u00fc Moon",
         "url": "https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O"
       },
@@ -17282,7 +17598,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
@@ -17477,6 +17793,24 @@
     },
     {
       "album": {
+        "name": "4Play",
+        "url": "https://open.spotify.com/album/3SeBjLdX2gX02thhla8PxC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189306,
+      "name": "What Are We",
+      "url": "https://open.spotify.com/track/1JGtASXpqtKEkrpjLWa1Pf"
+    },
+    {
+      "album": {
         "name": "What I Want (feat. Jacquees)",
         "url": "https://open.spotify.com/album/35SGTgFnncFTZQ4RJyFfoU"
       },
@@ -17514,7 +17848,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185566,
       "name": "What It Do (with Fridayy)",
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
@@ -17536,7 +17870,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 223343,
       "name": "What It Is (Block Boy) (with Kodak Black)",
       "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
@@ -18376,7 +18710,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 240320,
       "name": "YOU",
       "url": "https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ"

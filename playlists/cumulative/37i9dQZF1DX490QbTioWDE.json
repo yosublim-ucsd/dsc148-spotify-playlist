@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 107442,
       "name": "Como Si No Importara",
       "url": "https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA"
@@ -1056,6 +1056,24 @@
       "duration_ms": 190533,
       "name": "De Enero a Enero",
       "url": "https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR"
+    },
+    {
+      "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197565,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
     },
     {
       "album": {
@@ -1910,6 +1928,24 @@
       "duration_ms": 208396,
       "name": "Hoy Te Vas",
       "url": "https://open.spotify.com/track/5fDX6H3NBKVRMHiA60PjtC"
+    },
+    {
+      "album": {
+        "name": "INAUDITO",
+        "url": "https://open.spotify.com/album/536XUCFywd1uWloYlQeXU9"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209912,
+      "name": "INAUDITO",
+      "url": "https://open.spotify.com/track/30Nu2MaRxo4OtAUlStOzdg"
     },
     {
       "album": {
@@ -4026,6 +4062,28 @@
       "duration_ms": 205906,
       "name": "Por Portaci\u00f3n de Rostro",
       "url": "https://open.spotify.com/track/5uQMECg268HlGu78XOrIj2"
+    },
+    {
+      "album": {
+        "name": "Mundo Streaming",
+        "url": "https://open.spotify.com/album/1XcxJcPrL8eN2jTaULf3DD"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204392,
+      "name": "Por Primera Vez",
+      "url": "https://open.spotify.com/track/35YkHpp1eIB5kb19QINsTV"
     },
     {
       "album": {

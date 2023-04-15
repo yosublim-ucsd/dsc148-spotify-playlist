@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,147 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,192 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 39 | [Trans Orient Express \- Adana Twins "A Night At EGO" Version \- Edit](https://open.spotify.com/track/0zCqYPJEfVhCDDvCDrWIAV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Trans Orient Express \(Adana Twins A Night At EGO" Version \- Edit"\)](https://open.spotify.com/album/5bSWEhz58eNwQuKehvAaW2) | 3:58 |
 | 40 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 | 41 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
-| 42 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
-| 43 | [Mirage \- Anoraak Extended Remix](https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 5:58 |
+| 42 | [Mirage \- Anoraak Extended Remix](https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 5:58 |
+| 43 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
 | 44 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDkwNjU2NTRlMzg3M2IwYjJmODFlMzFhOGY3YmFhM2Nj`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDRiN2JiZWEyNjM4NTQxNTllMjViNzliZGEyY2M2MDli`

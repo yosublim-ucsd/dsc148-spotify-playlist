@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Chl\u00f6e",
+  "description": "Bad b**** energy. Be blessed, be spicy. Cover: Kali Uchis",
   "name": "BBE",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147525,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
@@ -3524,10 +3524,32 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "album": {
@@ -3882,7 +3904,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171288,
       "name": "Meet Yo Mama",
       "url": "https://open.spotify.com/track/1YPQlOn1f25xaTF3oXM1bS"
@@ -4302,7 +4324,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 165745,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji"
@@ -4806,6 +4828,28 @@
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
+    },
+    {
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "album": {
@@ -5352,7 +5396,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 178733,
       "name": "Shabooya",
       "url": "https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY"
@@ -6838,6 +6882,24 @@
       "duration_ms": 270497,
       "name": "Xtasy (Remix) [feat. Doechii]",
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
+    },
+    {
+      "album": {
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182845,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/3VSBjeNW4XzxPdE2yaJNHR"
     },
     {
       "album": {

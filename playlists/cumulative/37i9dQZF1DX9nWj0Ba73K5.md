@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Joey Hyde
 
-229 songs - 13 hr 16 min
+230 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [That's Where It's At](https://open.spotify.com/track/3emkNnlUI9A5YJopfdk6wC) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Zach Crowell](https://open.spotify.com/artist/2yZT0zo8NPltj0c8KZvJip) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:17 | 2022-01-01 |  |
 | [That's Why I Don't Drink Anymore](https://open.spotify.com/track/6q0h7XhAkIjkFZZEhR1vaE) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 4:00 | 2022-01-01 |  |
 | [The Better Part of Living](https://open.spotify.com/track/2h2LM8gHbCu7USHG8rRVG5) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 3:37 | 2022-01-01 |  |
+| [The Blade](https://open.spotify.com/track/5I6ww9S6hWYySdIQxmM3my) | [Jamie Floyd](https://open.spotify.com/artist/6oa3LL4lNRhWZPgcmtg6ZK) | [The Blade](https://open.spotify.com/album/6qYwhKD3Mjvq8FOt31eCi3) | 3:35 | 2023-04-14 |  |
 | [The Cowboy In Me](https://open.spotify.com/track/3cciDMejW1xa9uCe4EFJTZ) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 3:56 | 2022-01-01 |  |
 | [The Dream](https://open.spotify.com/track/13Afx0TSu0tO8xJEiZUjCK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 4:29 | 2022-01-01 | 2022-04-02 |
 | [The Driver](https://open.spotify.com/track/1LDeuD3jbSpHucsd0nOt6t) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [The Driver](https://open.spotify.com/album/6YXkbmsVABrzPBO6Vknj2P) | 4:34 | 2022-02-28 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u?si=GRkdBRNXRs-c3_OL2XTfrA\">Lucy Kruger & The Lost Boys</a>",
-  "num_followers": 5760,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P?si=THmU87LkRuW3AM6shL3PFQ\">Kloudink</a>",
+  "num_followers": 5762,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODM0MCwwMDAwMDAwMDZjM2U2ZjkzMzVlN2Y3MGM0Yzk2ZDRhOGY5YjA1ZmJm",
+  "snapshot_id": "MTY4MTQ0Mzk2NiwwMDAwMDAwMDE2ZmZkY2JiOWU3ZDFiY2I4MjE1ZDcxYmRlMGU5ODRm",
   "tracks": [
+    {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/253aXlpWUfWcsBYHCIfEuS"
+      },
+      "artists": [
+        {
+          "name": "Kloudink",
+          "url": "https://open.spotify.com/artist/3oEPpWf8EAjhwnTqDoXH2P"
+        }
+      ],
+      "duration_ms": 257910,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/6xhxc0Z25bPsFX6TReNtOc"
+    },
     {
       "added_at": "2023-04-06 21:59:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 236400,
       "name": "Feedback Hounds",
       "url": "https://open.spotify.com/track/0BLBZXRlN1FrW93Qs959qE"
+    },
+    {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/0OiuUVfE36MWrMTJHsHgow"
+      },
+      "artists": [
+        {
+          "name": "Richard Stirton",
+          "url": "https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB"
+        }
+      ],
+      "duration_ms": 266451,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/1YpFyv72TTr3ysGlJb1tXU"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
     },
     {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/4QTSXWfsESSVLTPdXkBG4s"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Stephen Simons",
+          "url": "https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave"
+        }
+      ],
+      "duration_ms": 255991,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/5NpL6MZYw5JJz2iQw9cD66"
+    },
+    {
       "added_at": "2023-03-30 21:59:00",
       "album": {
         "name": "Bastard Jargon",
@@ -55,6 +103,22 @@
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+    },
+    {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Too Lost in You",
+        "url": "https://open.spotify.com/album/5AucKgLVhQ9BunewaVmpye"
+      },
+      "artists": [
+        {
+          "name": "PHFAT",
+          "url": "https://open.spotify.com/artist/5OjwToGCaI7xwzN5l27VIN"
+        }
+      ],
+      "duration_ms": 209072,
+      "name": "Too Lost in You",
+      "url": "https://open.spotify.com/track/2zOzF2hfTy2YupyhlnD8Sl"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -73,6 +137,22 @@
       "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Jitterbug",
+        "url": "https://open.spotify.com/album/455hS0gKWKpiAVMretDPgy"
+      },
+      "artists": [
+        {
+          "name": "Nic Preen",
+          "url": "https://open.spotify.com/artist/4LSZlGbwEQvVj7V0f9ngU0"
+        }
+      ],
+      "duration_ms": 163090,
+      "name": "Jitterbug",
+      "url": "https://open.spotify.com/track/19vOqAbUEc0VGfFsahoTT4"
+    },
+    {
       "added_at": "2023-03-23 21:59:00",
       "album": {
         "name": "Boyhood",
@@ -87,6 +167,22 @@
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
+    },
+    {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Picasso'sConcept",
+        "url": "https://open.spotify.com/album/6umdXya30JzYnahewihJb6"
+      },
+      "artists": [
+        {
+          "name": "MELLE",
+          "url": "https://open.spotify.com/artist/4Xsikt3RZsWMRwsRa2DnVD"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Picasso'sConcept",
+      "url": "https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -105,6 +201,22 @@
       "url": "https://open.spotify.com/track/0DXmLK3tPnsVbwLn35SJui"
     },
     {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6pwaBv6eLgpCy61j1X18MI"
+      },
+      "artists": [
+        {
+          "name": "Just Mia",
+          "url": "https://open.spotify.com/artist/69yCMdp9f50YlB42gYrC3H"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1yQO5Dt6SZkXBPHAsRC80M"
+    },
+    {
       "added_at": "2023-03-30 21:59:00",
       "album": {
         "name": "The Things We Dare Not Tell",
@@ -121,6 +233,22 @@
       "url": "https://open.spotify.com/track/1bIXMzlYYkaIBMRH7vG1Lu"
     },
     {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "MotherFather",
+        "url": "https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        }
+      ],
+      "duration_ms": 151275,
+      "name": "Best One",
+      "url": "https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI"
+    },
+    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Meet Me There",
@@ -135,6 +263,22 @@
       "duration_ms": 125187,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
+    },
+    {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Era 555",
+        "url": "https://open.spotify.com/album/5VIjNIInyKNFdpPFLrrA3h"
+      },
+      "artists": [
+        {
+          "name": "Miyelani",
+          "url": "https://open.spotify.com/artist/6YGulIJN0mxkJlOMJ9KNBF"
+        }
+      ],
+      "duration_ms": 226741,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2lqeImzOzJY8Z3K4cptJqe"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -203,6 +347,22 @@
       "duration_ms": 202653,
       "name": "Stay as You Are",
       "url": "https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV"
+    },
+    {
+      "added_at": "2023-04-14 03:46:05",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5OwGcj4q2ccikHjtpAcOM3"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "duration_ms": 161504,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/6CR9ZGHjJOdvXtiEvR7qLS"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -629,26 +789,6 @@
       "url": "https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Ndi a Ni Funa",
-        "url": "https://open.spotify.com/album/1u5Wl8S3EuGd0woWFeJ68I"
-      },
-      "artists": [
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        },
-        {
-          "name": "Kozo Zwane",
-          "url": "https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Ndi a Ni Funa",
-      "url": "https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1"
-    },
-    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Shelter",
@@ -729,70 +869,6 @@
       "url": "https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Baby from Atlanta",
-        "url": "https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc"
-      },
-      "artists": [
-        {
-          "name": "Jimi Somewhere",
-          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Baby from Atlanta",
-      "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/5eENAlmncUhYojSv3POYj9"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/3dqjCz5iXTjKumvHOpQFLw"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Chapter I: Letters To Her",
-        "url": "https://open.spotify.com/album/2JmXRlyMfYpYXMq6fkGsZY"
-      },
-      "artists": [
-        {
-          "name": "Sad Sovana",
-          "url": "https://open.spotify.com/artist/3s08FEGTYAZeCZKcUIkm2Y"
-        }
-      ],
-      "duration_ms": 327634,
-      "name": "Letters To Her",
-      "url": "https://open.spotify.com/track/5J97ILfiHISwAHM2kJB5J7"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw"
-      },
-      "artists": [
-        {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
-    },
-    {
       "added_at": "2023-03-16 21:59:00",
       "album": {
         "name": "Midnight Fox",
@@ -827,38 +903,6 @@
     {
       "added_at": "2023-03-02 21:59:00",
       "album": {
-        "name": "blotter baby",
-        "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 220046,
-      "name": "it's not me (it's u)",
-      "url": "https://open.spotify.com/track/4R9pq6DudcNooi09OLvzNt"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Swim Back",
-        "url": "https://open.spotify.com/album/4oAb0GaGkYtX3N9h89FpKt"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 274337,
-      "name": "Swim Back",
-      "url": "https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
         "name": "Bad For My Health",
         "url": "https://open.spotify.com/album/45mHDL2ssD8mlsWGLe0mCw"
       },
@@ -887,22 +931,6 @@
       "duration_ms": 167777,
       "name": "Funeral for the World",
       "url": "https://open.spotify.com/track/01HxG3OBY1KPK0sgYSHkym"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Bug Bites",
-        "url": "https://open.spotify.com/album/5Tb1ttXhuFN881mLcVffHA"
-      },
-      "artists": [
-        {
-          "name": "Jake Bennett",
-          "url": "https://open.spotify.com/artist/3chSPsmCBrOXJXD4o86p5Y"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bug Bites",
-      "url": "https://open.spotify.com/track/4BuFwzFaE1gnEYrgIdollf"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -1169,22 +1197,6 @@
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
-      "added_at": "2023-01-19 21:59:00",
-      "album": {
-        "name": "Above Water",
-        "url": "https://open.spotify.com/album/11XACNsDwFVgxVQkiKhvdT"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 140494,
-      "name": "Above Water",
-      "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
-    },
-    {
       "added_at": "2023-01-27 08:16:39",
       "album": {
         "name": "noba bangathini",
@@ -1203,26 +1215,6 @@
     {
       "added_at": "2022-12-15 21:59:00",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Tubatsi Mpho Moloi",
-          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"
-    },
-    {
-      "added_at": "2022-12-15 21:59:00",
-      "album": {
         "name": "Drop Dead",
         "url": "https://open.spotify.com/album/7fadIrhu9sB9jmkTAO6oUh"
       },
@@ -1235,22 +1227,6 @@
       "duration_ms": 136161,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1sjnIv36iD8HHbBimsLlUk"
-    },
-    {
-      "added_at": "2023-01-12 21:59:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/67ECqw3BYzNRrSbRQ02eZ1"
-      },
-      "artists": [
-        {
-          "name": "Tanaka",
-          "url": "https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph"
-        }
-      ],
-      "duration_ms": 303529,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/3gv47i3eI5YN7vVX1Rax9m"
     },
     {
       "added_at": "2022-12-01 21:59:00",

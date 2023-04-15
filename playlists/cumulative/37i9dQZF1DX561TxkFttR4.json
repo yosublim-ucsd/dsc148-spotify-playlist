@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "You Finally Knew",
+        "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203935,
+      "name": "Lawson: Rain",
+      "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"
+    },
+    {
+      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },
@@ -2722,24 +2740,6 @@
       "duration_ms": 144840,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/3IfGkda2bATGGvOnrtb8ar"
-    },
-    {
-      "album": {
-        "name": "You Finally Knew",
-        "url": "https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "date_added": "2022-02-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203935,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-134 songs - 7 hr 30 min
+136 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Moves](https://open.spotify.com/track/4fPv168u1RcMv7EvXpjhm2) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:47 | 2022-09-23 |  |
 | [narrow club](https://open.spotify.com/track/6hMCmAzbsXyzcfcR11429z) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [narrow club](https://open.spotify.com/album/6bDsCQR9bY1Q0Jvk06Js1j) | 2:26 | 2022-11-25 |  |
 | [Naymara](https://open.spotify.com/track/30cOun7g2v2GO6fLin6gPy) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Naymara](https://open.spotify.com/album/43ECTj9mRWwpMr5ehDBHzT) | 2:20 | 2022-09-23 |  |
-| [never mind](https://open.spotify.com/track/5jjRbQBPGIgR1h4GXni04h) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [never mind](https://open.spotify.com/album/19HVR0fbGl81JaABc5pNym) | 2:32 | 2023-01-06 |  |
+| [never mind](https://open.spotify.com/track/5jjRbQBPGIgR1h4GXni04h) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [never mind](https://open.spotify.com/album/19HVR0fbGl81JaABc5pNym) | 2:32 | 2023-01-06 | 2023-04-15 |
 | [Night Riding](https://open.spotify.com/track/1lzBu9GwCyWPieEWTrqtnI) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Night Riding](https://open.spotify.com/album/6fGErE6z1bpMnu6Qm2qRXP) | 5:05 | 2022-09-23 |  |
 | [Nigiro](https://open.spotify.com/track/2aGpPdS5daiW8vQrTI3SgC) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Nigiro](https://open.spotify.com/album/3VNO5vtzrLIbN9IVlBNVO8) | 2:30 | 2022-09-23 |  |
 | [Nizm](https://open.spotify.com/track/3fMOE6PBOkIAEHlMAExlKj) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Nizm](https://open.spotify.com/album/0pq3stQS2eEe1xRDpqDix8) | 2:29 | 2022-10-28 |  |
@@ -95,11 +95,12 @@
 | [Off the radar](https://open.spotify.com/track/6LpCOSM7ti0RkktlPHPBbK) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Off the radar](https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6) | 2:12 | 2022-09-23 |  |
 | [Once Upon A World](https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Once Upon A World](https://open.spotify.com/album/4mw0Q07pxSpQEmS7QuOBRy) | 3:27 | 2022-09-23 |  |
 | [Osmosis](https://open.spotify.com/track/6GgPl2EbOG69cvo59kETdw) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Osmosis](https://open.spotify.com/album/7gIZQbcjtE5edqwBu9DwMQ) | 3:21 | 2022-11-25 |  |
-| [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 | 2022-09-23 |  |
+| [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 | 2022-09-23 | 2023-04-15 |
 | [Palm Springs](https://open.spotify.com/track/33Qvtl9E5ARA8HOxgEBX4v) | [Mason Madris](https://open.spotify.com/artist/4fJWxGIcLWTW9BGjDBy7Yo) | [Palm Springs](https://open.spotify.com/album/6LxmhD0Jkhbt8r8CcYcxBf) | 3:50 | 2022-09-23 |  |
 | [Papaya Jam](https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Papaya Jam](https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr) | 2:12 | 2023-03-17 |  |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 |  |
 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 | 2023-02-17 |  |
+| [Polar](https://open.spotify.com/track/3CkFs9nquXcv4VsHnsvhJ5) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Polar](https://open.spotify.com/album/40QMSxAcbxjVpqnsIorPMX) | 4:34 | 2023-04-14 |  |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-09-23 |  |
 | [Projectile](https://open.spotify.com/track/4ODWE5SOUACS8xu6aV9ORL) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Projectile](https://open.spotify.com/album/2AmwppTukWbE4BmVGlM6zo) | 2:24 | 2022-11-25 |  |
@@ -136,6 +137,7 @@
 | [We Are the Stars](https://open.spotify.com/track/5nRHKAgw6ZY1NqNA5amA2Y) | [Lady DJ](https://open.spotify.com/artist/3luz91ywJZl3n8zqhqNTLP) | [We Are the Stars](https://open.spotify.com/album/5OGy2WlkfkHf8uSchuFEkl) | 2:19 | 2022-09-23 |  |
 | [Where Have U Been?](https://open.spotify.com/track/3bCnwmJwBob222khzVUrcN) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Where Have U Been?](https://open.spotify.com/album/3gmS7R3fNWUNN8Ewwy6URY) | 2:16 | 2022-09-23 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2022-09-23 |  |
+| [Wons](https://open.spotify.com/track/6xcXGCA6Qs9LwxY4r6B0g4) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Reyk](https://open.spotify.com/album/1BkKPSXIsJvSBhqS9FI7qY) | 3:15 | 2023-04-14 |  |
 | [Wrath](https://open.spotify.com/track/0nxEpiRh6ja8YxKTR8kCkO) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wrath / Envy](https://open.spotify.com/album/1dCtDbppPhPtiIl3ZCkfFu) | 3:21 | 2022-11-25 |  |
 | [Wut](https://open.spotify.com/track/1dlNlopZwjwqb6orJH1MKC) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [Wut](https://open.spotify.com/album/1D9FIFbNkvp0dPN8CuKLKB) | 4:03 | 2022-10-07 |  |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-09-23 |  |

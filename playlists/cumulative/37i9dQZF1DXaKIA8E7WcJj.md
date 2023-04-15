@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-822 songs - 1 day 19 hr 4 min
+823 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 | 2021-01-05 | 2022-11-13 |
 | [I Left My Heart In San Francisco](https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Definitive 60's \(sixties\)](https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX) | 2:49 | 2021-01-05 | 2022-07-10 |
 | [I Only Want To Be With You](https://open.spotify.com/track/0FlITClPKfKqQxVHzFD3iF) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/5zLIEvoMI7H5c3TmS4afrt) | 2:34 | 2021-01-05 | 2022-07-29 |
+| [I Only Want To Be With You](https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Stay Awhile / I Only Want To Be With You](https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St) | 2:38 | 2022-08-12 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2022-06-08 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/4DKRLDVRIGojztAOEdvmXK) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Best Of Nina Simone](https://open.spotify.com/album/0PldU9grZQ2ZJKCCORJx3b) | 2:38 | 2019-06-24 | 2021-05-27 |
 | [I Say a Little Prayer](https://open.spotify.com/track/0FD8KMG4pHp0O9clTpChjp) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Respect \- The Very Best of](https://open.spotify.com/album/3IadQMKTsvI9DhuE4UexFz) | 3:36 | 2019-05-26\* | 2023-03-23 |
@@ -815,7 +816,7 @@
 | [You Really Got Me](https://open.spotify.com/track/4D0BiMiLN6z2x7Tq9BcqoT) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Ultimate Collection](https://open.spotify.com/album/0OW9cVAZjWakByTLSGfrd2) | 2:13 | 2019-05-26\* | 2019-06-15 |
 | [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:14 | 2020-08-15 |  |
 | [You Really Got Me \- Remastered](https://open.spotify.com/track/09nZ9ZDWq1rTkmM3WjvMvF) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Anthology 1964 \- 1971](https://open.spotify.com/album/32AODg8lzwKusDg5rCq9N0) | 2:14 | 2019-06-21 | 2019-08-02 |
-| [You Send Me](https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:29 | 2021-01-05 |  |
+| [You Send Me](https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:29 | 2021-01-05 | 2023-04-15 |
 | [You'll Never Walk Alone](https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [Oldies 60's](https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH) | 2:40 | 2019-06-24 | 2021-10-16 |
 | [You'll Never Walk Alone \- Stereo; 1997 Remaster](https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [How Do You Like It? \[Mono And Stereo Version\]](https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2) | 2:44 | 2020-08-15 | 2020-08-27 |
 | [You're All I Need To Get By](https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL) | 2:53 | 2019-07-18 | 2021-10-16 |

@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
@@ -9596,7 +9596,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -11754,7 +11754,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 210600,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
@@ -12548,7 +12548,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
@@ -14112,7 +14112,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
@@ -18368,6 +18368,24 @@
     {
       "album": {
         "name": "VVS",
+        "url": "https://open.spotify.com/album/3fSxAwJqvmGvGkiEME4hLj"
+      },
+      "artists": [
+        {
+          "name": "glocklord",
+          "url": "https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163728,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/4JZ8IStL5OpkyzYKV0fMKg"
+    },
+    {
+      "album": {
+        "name": "VVS",
         "url": "https://open.spotify.com/album/2cZv2QPIn6czgM3jwYahRv"
       },
       "artists": [
@@ -18378,7 +18396,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163840,
       "name": "VVS",
       "url": "https://open.spotify.com/track/0wUA5VlwL9L25IPRy48LL9"

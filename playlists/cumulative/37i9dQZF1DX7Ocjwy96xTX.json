@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/5yZIwrtpEzSUqzBDziKoKq"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/2kDgDowQoXREViAbY6samN"
+    },
+    {
+      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2"
       },
@@ -2309,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "A Little Disaster",
+        "url": "https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243870,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv"
+    },
+    {
+      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -2468,6 +2508,24 @@
       "duration_ms": 219453,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB"
+    },
+    {
+      "album": {
+        "name": "WISH ME LUCK",
+        "url": "https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203033,
+      "name": "WISH ME LUCK",
+      "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
     },
     {
       "album": {

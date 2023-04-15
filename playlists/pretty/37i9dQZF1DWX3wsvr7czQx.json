@@ -1,13 +1,65 @@
 {
-  "description": "Icons only. Cover: Belinda Carlisle",
-  "num_followers": 9100,
+  "description": "Icons only. Cover: Michael Bolton",
+  "num_followers": 9107,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDY1MWI1NjNmZGUxNTQ5OGQwNGFjNTA0NTk4NTA3MTYz",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDEzZGIwYTliNWQ5YzgwYTVkMGZmMzhhMDk4NTM1ZjJj",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/64zhv06ZKT442BXcPja3aE"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 205433,
+      "name": "Just The Beginning",
+      "url": "https://open.spotify.com/track/2fMw2LCmWiDVVGCqMIxVOs"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Again (from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Love Again - from the Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Lost Inside Your Heart",
+        "url": "https://open.spotify.com/album/3KYaEaS8IySjbFUgjLIi74"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 244756,
+      "name": "Lost Inside Your Heart",
+      "url": "https://open.spotify.com/track/6YTU4q4ti2tcqIUpbN63I1"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -23,26 +75,6 @@
       "duration_ms": 232247,
       "name": "i/o - Bright-Side Mix",
       "url": "https://open.spotify.com/track/7onf6RIP2d08FOHos3U324"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "True To Yourself",
-        "url": "https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "Vanessa Amorosi",
-          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
-        }
-      ],
-      "duration_ms": 241921,
-      "name": "True To Yourself",
-      "url": "https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -125,22 +157,6 @@
       "url": "https://open.spotify.com/track/7Fi5nCKmCDd29fdhdE60Qz"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "The Book of Making / Yesterday Meets Today",
-        "url": "https://open.spotify.com/album/37fPofkMlxgccr5E7sRXz3"
-      },
-      "artists": [
-        {
-          "name": "Eric Johnson",
-          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Another One Like You",
-      "url": "https://open.spotify.com/track/7LG4q9SfTN7JKSXfR9TjPP"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "I'm In",
@@ -155,6 +171,26 @@
       "duration_ms": 305906,
       "name": "I'm In",
       "url": "https://open.spotify.com/track/0uVt1UqcssBjFCQogJCkoz"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "True To Yourself",
+        "url": "https://open.spotify.com/album/6Y9rVFJIoUVpFwjbXTe6rE"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+        }
+      ],
+      "duration_ms": 241921,
+      "name": "True To Yourself",
+      "url": "https://open.spotify.com/track/3rYUollaaz3IHp94BiRzCx"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -571,22 +607,6 @@
     {
       "added_at": "2021-10-22 04:02:00",
       "album": {
-        "name": "McCartney III",
-        "url": "https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Find My Way",
-      "url": "https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
         "name": "Diane Warren: The Cave Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV"
       },
@@ -603,38 +623,6 @@
       "duration_ms": 221426,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Five Years",
-        "url": "https://open.spotify.com/album/2LfOEABtSzqIDAFUSUm2m3"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 285246,
-      "name": "Five Years",
-      "url": "https://open.spotify.com/track/7rmGBiCtvTv2Fh50FWZKHs"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Hi (Deluxe)",
-        "url": "https://open.spotify.com/album/3vSFoYoiYD8ir8VYaGx6Vn"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Mr Haze",
-      "url": "https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -835,6 +823,22 @@
       "duration_ms": 230893,
       "name": "The Buzz",
       "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "McCartney III",
+        "url": "https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY"
     },
     {
       "added_at": "2021-10-22 04:02:00",

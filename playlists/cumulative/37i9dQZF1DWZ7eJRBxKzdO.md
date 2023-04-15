@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-243 songs - 12 hr 24 min
+244 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Ready 2 Dance \(with Biscits feat\. Anelisa Lamola\)](https://open.spotify.com/track/65rgchI8TW6KX4Zsesiu3i) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Ready 2 Dance \(with Biscits feat\. Anelisa Lamola\)](https://open.spotify.com/album/0PL8HBjU6iTy7eQOjXNtOW) | 2:50 | 2022-05-02 | 2022-07-23 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2022-07-28 | 2022-08-13 |
 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 | 2022-05-18 |  |
-| [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-04-07 |  |
+| [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-04-07 | 2023-04-15 |
+| [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-12 |  |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-05-02 |  |
 | [Ricochet](https://open.spotify.com/track/6tGXmjNXIZ0AHvmQzeApaj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Ricochet](https://open.spotify.com/album/3FBiuG25koQiNpp39km7g1) | 3:25 | 2022-05-19 | 2022-05-26 |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-02 |  |

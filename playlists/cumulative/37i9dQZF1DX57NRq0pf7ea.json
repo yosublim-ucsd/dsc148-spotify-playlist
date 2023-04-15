@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
         "name": "2005",
         "url": "https://open.spotify.com/album/4J4KvvywWFEYRSKbMA9frG"
       },
@@ -370,6 +388,28 @@
       "duration_ms": 196842,
       "name": "Antes Que Salga el Sol",
       "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
+    },
+    {
+      "album": {
+        "name": "Aria Vega Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/26Mksnxwl6TQAJ5FGdQGsm"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Aria Vega Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/7cURSrRxV8kJCDSzWYJKow"
     },
     {
       "album": {
@@ -1060,7 +1100,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 146086,
       "name": "Brinca",
       "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
@@ -1538,7 +1578,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -1760,7 +1800,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
@@ -2411,6 +2451,28 @@
     },
     {
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
@@ -2677,6 +2739,28 @@
     },
     {
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "album": {
         "name": "Est\u00e1 Claro (Remix Los Calder\u00f3n)",
         "url": "https://open.spotify.com/album/69wVwIJC8dqyeRMV0cgphH"
       },
@@ -2872,7 +2956,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
@@ -3653,6 +3737,24 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
+    },
+    {
+      "album": {
         "name": "La Ducha Remix (con Becky G, Tini)",
         "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
       },
@@ -3982,7 +4084,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 276066,
       "name": "La Single",
       "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
@@ -4494,7 +4596,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166612,
       "name": "L\u00edo",
       "url": "https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I"
@@ -8295,6 +8397,28 @@
     },
     {
       "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206639,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
+    },
+    {
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -8474,7 +8598,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180588,
       "name": "Xexo",
       "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: على لوكا
 
-387 songs - 22 hr 34 min
+388 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Magash Mennek](https://open.spotify.com/track/7jTV5xzP8f252w6xS6isRv) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Magash Mennek](https://open.spotify.com/album/5ut1qAv97kxgJcnR1XbnMN) | 3:26 | 2022-11-24 | 2023-02-03 |
 | [Makhnou'](https://open.spotify.com/track/5v0c54YIy1sEGpAPAilaj3) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Makhnou'](https://open.spotify.com/album/2H50AlmXBg5c0dSRYl3aJH) | 3:34 | 2023-02-09 | 2023-03-22 |
 | [Malak](https://open.spotify.com/track/6Ghgn3JIGwJq3H9SuTCikZ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:00 | 2022-01-20 | 2022-04-08 |
-| [Malamhe](https://open.spotify.com/track/4xb4C74lJKFSr0UaD3z4K7) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Malamhe](https://open.spotify.com/album/2HABaYD6SD8pe3E8KAqTX0) | 3:46 | 2023-02-16 |  |
+| [Malamhe](https://open.spotify.com/track/4xb4C74lJKFSr0UaD3z4K7) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Malamhe](https://open.spotify.com/album/2HABaYD6SD8pe3E8KAqTX0) | 3:46 | 2023-02-16 | 2023-04-15 |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2021-12-23 | 2022-01-21 |
 | [Malena Leh](https://open.spotify.com/track/5E96Ex09RlVHskQfsZVjfo) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Malena Leh](https://open.spotify.com/album/46nBeCCXZtYYIeljz9QdJ3) | 3:31 | 2023-01-26 | 2023-01-28 |
 | [Manstghnash](https://open.spotify.com/track/6tiAvjptfjuV1itslVeR5K) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Manstghnash](https://open.spotify.com/album/6YgGZaFXO9BSoK5MTE9Q24) | 3:52 | 2021-12-23 | 2022-02-18 |
@@ -360,6 +360,7 @@
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 | 2023-03-04 |
 | [على وضعنا](https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Mohamed Adaweya](https://open.spotify.com/artist/6wNAr6KAMa7NDqm9vSiv7T), [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [على وضعنا](https://open.spotify.com/album/5Yqwoth9VJ3epyKF0x2QQP) | 3:24 | 2023-01-01 | 2023-02-22 |
 | [عملة نادرة \- تتر بداية المسلسل](https://open.spotify.com/track/2Eneo9yawKGoBxHTimTozd) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [عملة نادرة \(تتر بداية المسلسل\)](https://open.spotify.com/album/6exv42Ui7EwRX7QJvMVvI5) | 3:37 | 2023-04-05 |  |
+| [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/track/4dYAFJEQjVh50FjSHBfHWl) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/album/6NsLjJGK0DOO8V1jMFK8q1) | 3:48 | 2023-04-14 |  |
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-09 | 2023-03-25 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |
 | [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 | 2022-07-21 |

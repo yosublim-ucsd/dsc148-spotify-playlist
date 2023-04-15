@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
+> All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,300 likes - 95 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,310 likes - 95 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 |
-| 2 | [Concentration](https://open.spotify.com/track/0MwGGgsZInEvo9OlltxXqs) | [Hye Seong](https://open.spotify.com/artist/5YHzTjo4SJzAq43agV2HfW) | [Everyday Chatter](https://open.spotify.com/album/4BcFeuz4AUOacPlIXawARW) | 3:10 |
-| 3 | [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 |
-| 4 | [CHANSON TRISTE](https://open.spotify.com/track/4QDOaEC18YN6l2BOFKo463) | [Horan](https://open.spotify.com/artist/6458zvXJjZ1ukrrb6fJdqd) | [OASIS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/71nxgPyEYPi8hTK3kTRQxo) | 3:45 |
-| 5 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 |
+| 1 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 |
+| 2 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 |
+| 3 | [Concentration](https://open.spotify.com/track/0MwGGgsZInEvo9OlltxXqs) | [Hye Seong](https://open.spotify.com/artist/5YHzTjo4SJzAq43agV2HfW) | [Everyday Chatter](https://open.spotify.com/album/4BcFeuz4AUOacPlIXawARW) | 3:10 |
+| 4 | [Prison of Heart](https://open.spotify.com/track/0XQi48bPn6kIddXudP1t22) | [Song Yong Chang](https://open.spotify.com/artist/5lbGnf9x8fvOQHcSVhKnCS) | [Prison of Heart](https://open.spotify.com/album/1BNrGJf8nhsKFCcS9Kz9BG) | 6:22 |
+| 5 | [CHANSON TRISTE](https://open.spotify.com/track/4QDOaEC18YN6l2BOFKo463) | [Horan](https://open.spotify.com/artist/6458zvXJjZ1ukrrb6fJdqd) | [OASIS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/71nxgPyEYPi8hTK3kTRQxo) | 3:45 |
 | 6 | [Mother](https://open.spotify.com/track/4yFZI3a9OSWthGSW9G5lFr) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Mother](https://open.spotify.com/album/6C8can54DREmXWUC2Gcg6I) | 5:19 |
 | 7 | [gray hair](https://open.spotify.com/track/65mCrA8bRPqvmlhdFBRzHC) | [U\-jin](https://open.spotify.com/artist/3ho6nC4QjX2r8PyaVyHlCS) | [Gray hair](https://open.spotify.com/album/6yHmPMWk2l1hBxVg3i3snm) | 2:16 |
 | 8 | [Sebaet\-noli](https://open.spotify.com/track/3RA5FtWW7iYcxbhpA3fjq7) | [XIIDO](https://open.spotify.com/artist/0Rehu23IN36yNREIHyLRMy) | [leap](https://open.spotify.com/album/1zbvwDTqquGyfJwztj7EWx) | 3:36 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 94 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 95 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MTY4MTA5OTU2MiwwMDAwMDAwMDhlYmE4NDEzYjkyNGQ5MzJhZGZiZjI0OTA4YzhkMzRh`
+Snapshot ID: `MTY4MTQ4ODI5NiwwMDAwMDAwMDU0YmFiN2QyZWY0YWViODgzMzYwMzNkNjgxMDEyYTgz`

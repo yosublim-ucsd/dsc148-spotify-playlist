@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Catching sunsets con indie rock de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 816 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 16 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
 | 17 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
 | 18 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
-| 19 | [Sin Vos No Puedo](https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 2:55 |
-| 20 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 19 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
+| 20 | [Sin Vos No Puedo](https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 2:55 |
 | 21 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
 | 22 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 23 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 38 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
 | 39 | [dejarse querer](https://open.spotify.com/track/2fVVRlRJoqWezN8l6LdpVa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 3:03 |
 | 40 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 |
-| 41 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 |
-| 42 | [Sale mal](https://open.spotify.com/track/10i21cKAzsfofJrqwa2KkQ) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Sale mal](https://open.spotify.com/album/4RPZzOSaWyP9JyshmltVvF) | 3:19 |
+| 41 | [Sale mal](https://open.spotify.com/track/10i21cKAzsfofJrqwa2KkQ) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Sale mal](https://open.spotify.com/album/4RPZzOSaWyP9JyshmltVvF) | 3:19 |
+| 42 | [Trail Blazer](https://open.spotify.com/track/0Pe3iMJXI9a0dDdoXgG10G) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:13 |
 | 43 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 |
 | 44 | [mi pobre angelito 2](https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 2:41 |
 | 45 | [Todo Es Perfecto](https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Todo Es Perfecto](https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 |
 | 50 | [Comollegamosaquí](https://open.spotify.com/track/3YRszbJk8rtF9yTDHCecLs) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM), [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi) | [Comollegamosaquí](https://open.spotify.com/album/6Sp2j1ApQAyuWcd23yniUS) | 3:20 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDczMTgyNDljMTg3MDRiMWIzNGNhOWU1NDQ3MjEzMzI3`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDkyMmU0MzY1NjlmYTBhN2ZhMGRhNWJkZDdhZGQ0ZWY2`

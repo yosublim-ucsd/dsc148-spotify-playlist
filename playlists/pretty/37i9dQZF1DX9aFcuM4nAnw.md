@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,603 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,609 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 60 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 |
 | 61 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 |
 | 62 | [Anthropic Uncreation](https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP) | [Vestigial](https://open.spotify.com/artist/6NgdG349NLTViR0NJqGGRV) | [Translucent Communion](https://open.spotify.com/album/7h6pY9nZuq2ytVcplRLbOl) | 5:16 |
-| 63 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
-| 64 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
+| 63 | [Aesthetic](https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE) | [Enmarta](https://open.spotify.com/artist/06w0fwBJQtrtvs5iU9UVqs) | [Sea of Black](https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid) | 6:26 |
+| 64 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 65 | [Dance of the Mince Pie Martians](https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF) | [The Night Monitor](https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm) | [Perception Report 2](https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat) | 4:14 |
 | 66 | [Loneliness](https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A) | [New Risen Throne](https://open.spotify.com/artist/2PBztP9oVOgzWXiIrXONKi) | [Loneliness of Hidden Structures](https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS) | 9:14 |
 | 67 | [Utopian Facade](https://open.spotify.com/track/5g8LIlFT97iTmn4VBgUi6k) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes II](https://open.spotify.com/album/5LgbAAdBK2hWlrQdWplfGK) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMDhjYjc3NWQzNDQ0NDMxZWQxZTg4NDE3YzM4OGY4Yjlh`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGEzODc2ZDlmZDdlMTNkY2MwZmE4N2EzODU4Y2QwMzIz`

@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 285842,
       "name": "Duelo (Cumbia del Fantasma)",
       "url": "https://open.spotify.com/track/6heNYymv8CZYCKz90RpY6S"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 185773,
       "name": "Flight of the Raven",
       "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
@@ -1304,7 +1304,7 @@
           "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
         }
       ],
-      "date_added": "2023-02-28",
+      "date_added": "2023-02-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313600,
@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Mind Maze",
+        "url": "https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P"
+      },
+      "artists": [
+        {
+          "name": "Trees Speak",
+          "url": "https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Rare Earth",
+      "url": "https://open.spotify.com/track/1TZQNZkGKIEXKzQn8lAMz6"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6"
       },
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 215666,
       "name": "Tragic Sublime \u60b2\u5267\u6027\u5d07\u9ad8",
       "url": "https://open.spotify.com/track/3hwY98GTOANHIfLTIYzEZn"

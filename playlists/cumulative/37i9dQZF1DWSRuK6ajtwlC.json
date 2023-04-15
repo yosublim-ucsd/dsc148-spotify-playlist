@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Maquinar\u00eda Norte\u00f1a en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Vendavales de Ad\u00e1n Melendez en portada.",
   "name": "Norte\u00f1as con Sax",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "album": {
+        "name": "Amor Maldito",
+        "url": "https://open.spotify.com/album/194E6RdfGCtoKwKpn4lCAb"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189653,
+      "name": "Amor Maldito",
+      "url": "https://open.spotify.com/track/4lzlekHCZoJyd2415Q0eIU"
     },
     {
       "album": {
@@ -196,7 +218,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 258978,
       "name": "Con la Botella en la Cabeza",
       "url": "https://open.spotify.com/track/4CCLKyWShnb8LkJ8D76zK3"
@@ -348,6 +370,24 @@
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "album": {
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
     },
     {
       "album": {
@@ -636,7 +676,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176770,
       "name": "La Macarena (Mere-huapango) (En Vivo)",
       "url": "https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic"
@@ -672,7 +712,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174706,
       "name": "Literal",
       "url": "https://open.spotify.com/track/6prwA99WtmjL1InowSZ4Yg"
@@ -730,7 +770,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172413,
       "name": "Los Toritos",
       "url": "https://open.spotify.com/track/6N8HTPH78LJwL1WYvpF63c"
@@ -766,7 +806,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 148375,
       "name": "Lucesita",
       "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
@@ -792,6 +832,24 @@
       "duration_ms": 208747,
       "name": "Malabares",
       "url": "https://open.spotify.com/track/5rP8LrJDIJX5z1FTq9Z8Dv"
+    },
+    {
+      "album": {
+        "name": "Mi Amigo el Alcohol",
+        "url": "https://open.spotify.com/album/4qwkIuvjmIrVs2BLvCnMnG"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180192,
+      "name": "Mi Amigo el Alcohol",
+      "url": "https://open.spotify.com/track/3jQHDX3h1NGkNOtOUGHgo6"
     },
     {
       "album": {
@@ -1370,6 +1428,42 @@
       "duration_ms": 160426,
       "name": "Ya Fue Suficiente",
       "url": "https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67"
+    },
+    {
+      "album": {
+        "name": "Yo te quiero",
+        "url": "https://open.spotify.com/album/5BJrBgjDmG9ARd4ECAmYiW"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Yo te quiero",
+      "url": "https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R"
+    },
+    {
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
+        "url": "https://open.spotify.com/album/2MJH3I5JcPmcFR9NyTfGiG"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209276,
+      "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
+      "url": "https://open.spotify.com/track/1kbH8U4omcQFkgqRGfGiGs"
     },
     {
       "album": {

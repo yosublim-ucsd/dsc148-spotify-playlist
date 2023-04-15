@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 6994,
+  "num_followers": 7000,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTkxNiwwMDAwMDAwMDAxMmFhNWExNGI0MzAzNzc4OTFiYTBjOTJiMTNjNjI2",
+  "snapshot_id": "MTY3OTkwNTkxNiwwMDAwMDAwMDE4YWUzOTc0ZDA0MDQxNDgzNDI4ZjY5NzkxNzhlZTI4",
   "tracks": [
     {
       "added_at": "2023-02-24 08:52:06",
@@ -223,6 +223,26 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
+        "name": "Show Me the Money 5 Episode 4",
+        "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209019,
+      "name": "Day Day (Prod. By GRAY)",
+      "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
+    },
+    {
+      "added_at": "2023-02-24 08:52:06",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -247,22 +267,22 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "Show Me the Money 5 Episode 4",
-        "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
       },
       "artists": [
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 209019,
-      "name": "Day Day (Prod. By GRAY)",
-      "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
+      "duration_ms": 276440,
+      "name": "Still (Feat. Crush)",
+      "url": "https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -291,46 +311,18 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 276440,
-      "name": "Still (Feat. Crush)",
-      "url": "https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb"
-    },
-    {
-      "added_at": "2023-02-24 08:52:06",
-      "album": {
-        "name": "School Rapper 2 Team-Battle Part 3",
-        "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        }
-      ],
-      "duration_ms": 222898,
-      "name": "Bar Code (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -375,18 +367,26 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+        "name": "School Rapper 2 Team-Battle Part 3",
+        "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
       },
       "artists": [
         {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         }
       ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+      "duration_ms": 222898,
+      "name": "Bar Code (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 247287,
+      "name": "FLOWER (Prod. by AVIN)",
+      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
+    },
+    {
+      "added_at": "2023-02-24 08:52:06",
+      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 233013,
       "name": "Til I Die",
       "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
-    },
-    {
-      "added_at": "2023-02-24 08:52:06",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/5YfesWCO8uudoafLv2rQGQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 247287,
-      "name": "FLOWER (Prod. by AVIN)",
-      "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
     },
     {
       "added_at": "2023-02-24 08:52:06",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-02-24 08:52:06",
       "album": {
+        "name": "DARKROOM",
+        "url": "https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "JINBO",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        }
+      ],
+      "duration_ms": 209086,
+      "name": "Home Sh*t Home (Feat. JINBO)",
+      "url": "https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT"
+    },
+    {
+      "added_at": "2023-02-24 08:52:06",
+      "album": {
         "name": "Primary and Pphk Pt.1",
         "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
-    },
-    {
-      "added_at": "2023-02-24 08:52:06",
-      "album": {
-        "name": "DARKROOM",
-        "url": "https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "JINBO",
-          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
-        }
-      ],
-      "duration_ms": 209086,
-      "name": "Home Sh*t Home (Feat. JINBO)",
-      "url": "https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT"
     },
     {
       "added_at": "2023-02-24 08:52:06",

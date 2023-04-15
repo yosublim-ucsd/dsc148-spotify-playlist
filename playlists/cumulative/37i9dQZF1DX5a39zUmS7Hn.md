@@ -2,9 +2,9 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: Depeche Mode
+> New music and timeless tracks from legends only\. Cover: Alanis Morissette
 
-245 songs - 17 hr 36 min
+247 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Are 'Friends' Electric?](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 | 2022-08-18 | 2022-11-13 |
 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 | 2022-04-08 |  |
 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2022-04-08 |  |
-| [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 | 2022-04-08 |  |
+| [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 | 2022-04-08 | 2023-04-15 |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2022-07-28 |  |
 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 | 2022-04-08 | 2022-07-29 |
 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 | 2022-07-28 |  |
@@ -113,6 +113,7 @@
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-17 |  |
 | [Isabella](https://open.spotify.com/track/7p37GiZMvx54v8vIPJqE5n) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Isabella](https://open.spotify.com/album/6DF9pyAHknU9fTHIEofe9T) | 4:23 | 2022-06-06 | 2022-06-21 |
 | [Isolation](https://open.spotify.com/track/2yoZimUShwEoCsXEfmRGNV) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Johnny Depp](https://open.spotify.com/artist/3OsHwkxpSIEqqmYoQxZTT5) | [Isolation](https://open.spotify.com/album/22wsBdTOtViVeS3jJ67uHE) | 5:14 | 2022-07-08 | 2022-07-28 |
+| [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak And Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2022-05-27 | 2022-07-29 |
 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2022-07-28 |  |
 | [Just One Kiss](https://open.spotify.com/track/2TuMJ1YGySlBUyQDuEIlvg) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH), [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l), [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Just One Kiss](https://open.spotify.com/album/27d0sfv4hsIFgFO1buAuwY) | 3:22 | 2022-04-08 | 2022-07-29 |
@@ -153,6 +154,7 @@
 | [Need a Little Love](https://open.spotify.com/track/6XNSmhOrXmuje5Ee6S5RMM) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Need a Little Love](https://open.spotify.com/album/2RRbhqV4FRFj8j8fQRgJVr) | 3:49 | 2022-04-08 | 2022-07-26 |
 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-13 | 2022-11-18 |
 | [No Flag \- Chanté](https://open.spotify.com/track/4AuKMQ9uLqxp1MBqp61fcQ) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [No Flag \(Chanté\)](https://open.spotify.com/album/19jP21VimKUmdJqUkioPy1) | 3:56 | 2022-06-06 | 2022-07-04 |
+| [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 | 2023-04-14 |  |
 | [No Small Thing](https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [No Small Thing](https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm) | 4:42 | 2022-04-08 | 2022-07-22 |
 | [Nomatterday](https://open.spotify.com/track/5SIuyYZIVW9WU90puvFG1x) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doggerel](https://open.spotify.com/album/2Z7bVVJJrnoLILscuubJIU) | 4:11 | 2022-09-29 | 2022-10-21 |
 | [Once](https://open.spotify.com/track/34fv3psKQOOwWZBRxoIF4I) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:33 | 2022-11-11 | 2022-11-13 |
@@ -214,7 +216,7 @@
 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 | 2022-04-08 | 2022-07-29 |
 | [The Celtic Soul Brothers \(More, Please, Thank You\)](https://open.spotify.com/track/6K9wIZpz2D8xNt7jPURm54) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 3:13 | 2022-04-08 | 2022-07-29 |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 | 2022-12-02 |  |
-| [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-13 |  |
+| [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-13 | 2023-04-15 |
 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 | 2022-05-27 |  |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2022-07-28 |  |
 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 | 2022-07-28 |  |

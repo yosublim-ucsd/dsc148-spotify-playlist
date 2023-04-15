@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-574 songs - 1 day 9 hr 6 min
+577 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Altered Reality](https://open.spotify.com/track/2JL9TRq38dryFpSoMHPNok) | [DreamWeaver](https://open.spotify.com/artist/5eJLr9gChrfI4p6AuEGT4z) | [Cloud9](https://open.spotify.com/album/6NW5PiEHF9eN8cCCcrPFCT) | 3:25 | 2021-09-17 | 2022-08-06 |
 | [Always Got The Love \- jamesjamesjames Remix](https://open.spotify.com/track/3Tfu5sRgNUEYeTzfKKKZmR) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Always Got The Love \(jamesjamesjames Remix\)](https://open.spotify.com/album/6w4OvArsQ2zozG168lmxOe) | 4:04 | 2022-09-30 |  |
 | [Ancient Downer](https://open.spotify.com/track/25pRvjSVlVm1iSJGdkHVuC) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Ancient Downer](https://open.spotify.com/album/50ahpSbDlD3zgy84B5z1LN) | 4:11 | 2022-04-08 | 2022-06-04 |
+| [Android](https://open.spotify.com/track/1z1dLKCC2BOANrXAkSZnEJ) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [Android](https://open.spotify.com/album/4innCzukRuQ8dcH5WCUDYi) | 1:40 | 2023-04-14 |  |
 | [ANGEL](https://open.spotify.com/track/6M00AA8X2EZR6xaLFKRdGA) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ANGEL](https://open.spotify.com/album/2PW5mn3I40LZWKhI1AKCgL) | 3:00 | 2022-10-21 | 2023-03-18 |
 | [anna jetson \- DJ\_Dave Edit](https://open.spotify.com/track/6qPAi7Ozo4MpVdm9Q4KPF3) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Sunshine Factory \(Remixes\)](https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv) | 3:00 | 2022-09-27 | 2022-11-15 |
 | [anxiety](https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [anxiety](https://open.spotify.com/album/4hEfPE1lbqovFYK5sYTpq5) | 3:41 | 2023-01-31 |  |
@@ -67,6 +68,7 @@
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 | 2022-08-13 |
 | [BELLS LIKE BABY](https://open.spotify.com/track/0cPB5MvFBFmD8aOrXgb2yi) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm), [Sawdu Plushia](https://open.spotify.com/artist/4jLee8xErp0xmNTVlhOUEx) | [Bells like baby](https://open.spotify.com/album/4x15xSRyN33ssuvnFOSizD) | 2:15 | 2022-08-19 | 2022-10-01 |
 | [Belrose](https://open.spotify.com/track/6dbDa8wIo1cz317ID3PoEK) | [Glitchtrode](https://open.spotify.com/artist/5HvlhYRFgZzNCj3qdb1FdN) | [LoveEnergySugardust / Belrose](https://open.spotify.com/album/6tMwvkWafrRadWEXtrAI1I) | 4:31 | 2022-07-22 | 2022-08-27 |
+| [BFF ∞](https://open.spotify.com/track/0nQJwGu6N7yMeXrmoqgkKp) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [BFF ∞](https://open.spotify.com/album/7xgkkeop4nr5w3L3vR3jsl) | 1:59 | 2023-04-14 |  |
 | [Bicstan](https://open.spotify.com/track/0b6WQuGWBGaRvAReIbx4uT) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar \(Megamix\)](https://open.spotify.com/album/3fvbf15lOAF0RcVQ84X7ow) | 4:45 | 2022-07-01 | 2022-11-12 |
 | [big balling](https://open.spotify.com/track/7jYd6GwT72RhhKMTZ64Z1H) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [big balling](https://open.spotify.com/album/3ZmWgh6RplgIZS69iOOMnO) | 2:15 | 2023-02-27 |  |
 | [BLOOD SUPERNOVA](https://open.spotify.com/track/335asThakDPPTHFVxMEeDn) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [BLOOD SUPERNOVA](https://open.spotify.com/album/4cnfIsqfpYz51KPKZUG07m) | 3:58 | 2022-06-24 | 2022-08-06 |
@@ -474,6 +476,7 @@
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2021-07-23 | 2022-04-16 |
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-08 | 2022-09-17 |
 | [Soma](https://open.spotify.com/track/7KQ6WnRzf34MrwcFLpgO6k) | [Bloodz Boi](https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg), [Quit Life](https://open.spotify.com/artist/131d0lUjgpK3wqNziktPge) | [365](https://open.spotify.com/album/3UO9TX6RwGywlkQcGIoWq8) | 3:35 | 2022-02-25 | 2022-03-24 |
+| [Some Fries](https://open.spotify.com/track/2dWQBlnjp91yZhJZ9V8NgT) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Some Fries](https://open.spotify.com/album/5Nm2Zzs061hmSNfa8o0oOh) | 2:21 | 2023-04-14 |  |
 | [Something Real](https://open.spotify.com/track/58NhjNniLzv9moIlOzPQGp) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Something Real](https://open.spotify.com/album/0KR14TOAs6EAoe0zjMDyQR) | 2:13 | 2022-08-12 | 2022-08-27 |
 | [souldive](https://open.spotify.com/track/1PJFSfRoIQiHksG7636sEY) | [tenshi](https://open.spotify.com/artist/16WeQsKRT4Og5OwoKhxzew) | [souldive](https://open.spotify.com/album/0iXrrCuFFrWGbmS4M5MRdd) | 2:38 | 2022-08-26 | 2022-12-03 |
 | [SPACE](https://open.spotify.com/track/23xGmh17xCrsZDHi9Ea2xW) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [SPACE](https://open.spotify.com/album/3s1X1WGDClisuZJBSuuKJY) | 3:25 | 2023-04-01 |  |

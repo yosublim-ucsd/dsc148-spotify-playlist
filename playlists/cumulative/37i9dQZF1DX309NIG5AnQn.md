@@ -4,7 +4,7 @@
 
 > Nuevo rock alternativo argentino\. <br/>📷 Nenagenix
 
-131 songs - 7 hr 22 min
+132 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [El Festejo](https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC), [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Festejo](https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-03-25 | 2023-02-17 |
 | [El límite](https://open.spotify.com/track/7HHKiA3v9hTsq5kp0ZOZsk) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El límite](https://open.spotify.com/album/2J6vnU22P8t9jfMQYkaSoS) | 4:08 | 2022-03-25 | 2023-03-25 |
-| [El Once Ideal](https://open.spotify.com/track/4gemRfX6vbxbxaOp1aejF4) | [La Suma de Todos los Tiempos](https://open.spotify.com/artist/53iCTwxdVd83Bdxv30rdJe) | [Los Movimientos](https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp) | 2:50 | 2023-03-23 |  |
+| [El Once Ideal](https://open.spotify.com/track/4gemRfX6vbxbxaOp1aejF4) | [La Suma de Todos los Tiempos](https://open.spotify.com/artist/53iCTwxdVd83Bdxv30rdJe) | [Los Movimientos](https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp) | 2:50 | 2023-03-23 | 2023-04-15 |
+| [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 | 2023-04-14 |  |
 | [El Primer Color](https://open.spotify.com/track/6qkSVGEDjdBmhQccU7CWaD) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [El Primer Color](https://open.spotify.com/album/4dp1QJTGojYEDSmdtzAG1M) | 5:25 | 2023-03-23 |  |
 | [El Próximo Verano](https://open.spotify.com/track/6Ff9Z5bPflRCCRFBt6jtk0) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:29 | 2023-03-23 |  |
 | [El Viaje](https://open.spotify.com/track/4CZzNgqOqB8nvcJz1sG3AE) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [La Gracia De No Estar Solas](https://open.spotify.com/album/788Pukbo3xwJXaSBPzYEBh) | 2:45 | 2023-03-23 |  |

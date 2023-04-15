@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-340 songs - 20 hr 38 min
+341 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2020-10-17 | 2023-02-18 |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2020-10-17 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/0PoOUab1FVY2r1d3MlnF7S) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 3:19 | 2020-10-17 | 2022-04-14 |
+| [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/album/5ykzMuRih48Mm81Uf0kxRQ) | 3:51 | 2023-04-14 |  |
 | [Stay The Same](https://open.spotify.com/track/2gTjoqM7H982Tt4pZlqvK9) | [Cindy Zhang](https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz) | [Songs for Rainy Days](https://open.spotify.com/album/0rz68chCF7fIUSkfsAkUCD) | 3:41 | 2022-11-11 |  |
 | [Still Blue](https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K) | [Cypress](https://open.spotify.com/artist/0J7CXD5MWLqn3pcTDoGEhu) | [A Fine Line](https://open.spotify.com/album/3yp0ICS4BC2ZizQ0k8yQCV) | 5:00 | 2020-10-17 | 2022-07-25 |
 | [Storms](https://open.spotify.com/track/2SLUYFuTP916sEvAUDjdDx) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Storms](https://open.spotify.com/album/2iUeeOtZyp0oDyvbESnnwT) | 2:56 | 2020-10-17 | 2022-07-29 |

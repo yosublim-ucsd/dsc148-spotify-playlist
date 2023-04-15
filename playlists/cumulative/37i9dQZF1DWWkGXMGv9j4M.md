@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-164 songs - 9 hr 21 min
+165 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/2cv62TyJl0cEQDaFjglRLY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Don't Wanna](https://open.spotify.com/album/4iNDXOLDZma37m0iWPkf0x) | 3:24 | 2020-12-01 | 2022-11-13 |
 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:24 | 2020-12-01 |  |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2020-12-01 | 2022-07-29 |
+| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ) | 3:18 | 2020-12-01 |  |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/0wHPdBufgOszsDIUJmEz9H) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/6wvU1NnDNokP76aA71p4DV) | 3:19 | 2020-12-01 | 2022-11-13 |
-| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2020-12-01 |  |
+| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2020-12-01 | 2023-04-15 |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2020-12-01 |  |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-12-01 | 2022-07-29 |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2020-12-01 |  |

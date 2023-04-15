@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-51 songs - 4 hr 2 min
+52 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [KELELE ZA USHINDI](https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [ZORAVO](https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ) | [KELELE ZA USHINDI](https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp) | 3:41 | 2022-12-19 |  |
 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 | 2022-12-19 |  |
 | [Kuna Sauti Yaita](https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 3:49 | 2022-12-19 |  |
+| [Love Is](https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is](https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc) | 3:20 | 2023-04-14 |  |
 | [Mfalme Wa Amani](https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W) | [Solomon Mkubwa](https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ) | [Mfalme Wa Amani](https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG) | 7:52 | 2022-12-19 |  |
 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 | 2022-12-19 |  |
 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 | 2022-12-19 |  |
@@ -28,7 +29,7 @@
 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 | 2022-12-19 |  |
 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 | 2022-12-19 |  |
 | [My Everything](https://open.spotify.com/track/701bS0JRIz8otP7cNysD63) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Gospel EP](https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1) | 3:57 | 2022-12-19 |  |
-| [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2022-12-19 |  |
+| [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2022-12-19 | 2023-04-15 |
 | [Na Gode \- Swahili](https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Na Gode \(Swahili\)](https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s) | 3:26 | 2022-12-19 |  |
 | [NADEKA](https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [NADEKA](https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A) | 3:24 | 2022-12-19 |  |
 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 | 2022-12-19 |  |

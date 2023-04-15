@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180277,
       "name": "Autodefensa",
       "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 331676,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "De chispa fuego",
+        "url": "https://open.spotify.com/album/7GUzCwTB2tvoXHof5vxWds"
+      },
+      "artists": [
+        {
+          "name": "Privia",
+          "url": "https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "De chispa fuego",
+      "url": "https://open.spotify.com/track/4D1OaK6yej6RknDhKvAyc7"
+    },
+    {
+      "album": {
         "name": "Denadie",
         "url": "https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186041,
       "name": "Denadie",
       "url": "https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2"
@@ -1367,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+    },
+    {
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
       },
@@ -1796,6 +1832,24 @@
       "duration_ms": 196072,
       "name": "La Casa de A",
       "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
+    },
+    {
+      "album": {
+        "name": "La Flecha Envenenada",
+        "url": "https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248280,
+      "name": "La Flecha Envenenada",
+      "url": "https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI"
     },
     {
       "album": {
@@ -3400,7 +3454,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218431,
       "name": "Si Me Canso de Callar",
       "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
@@ -3926,6 +3980,24 @@
       "duration_ms": 110372,
       "name": "Un Mill\u00f3n de Amigos",
       "url": "https://open.spotify.com/track/07jewZXmvV87jf9WhfNyMY"
+    },
+    {
+      "album": {
+        "name": "El arte de lo eterno",
+        "url": "https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU"
+      },
+      "artists": [
+        {
+          "name": "Nana Arguen",
+          "url": "https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286675,
+      "name": "Un suspiro",
+      "url": "https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl"
     },
     {
       "album": {

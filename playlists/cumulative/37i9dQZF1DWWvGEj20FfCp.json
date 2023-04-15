@@ -6979,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "Vintage Dance Vibes",
+        "url": "https://open.spotify.com/album/7HMods7Y2B9FLpQ01gRt0g"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Too Late For Mama",
+      "url": "https://open.spotify.com/track/0ebODLPrMqnQG7mklM4O0O"
+    },
+    {
+      "album": {
         "name": "Mzanzi Culture: Vol 1",
         "url": "https://open.spotify.com/album/1Yp7h6CbDa6oDlm8wEkJgA"
       },
@@ -7008,7 +7026,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 237026,
       "name": "Too Late For Mama",
       "url": "https://open.spotify.com/track/6gnjt9E0LQHufJwzYeuaA8"

@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Easy Going",
+        "url": "https://open.spotify.com/album/4IXljxNRUqWInfLbpeUMCJ"
+      },
+      "artists": [
+        {
+          "name": "Dee Delvechio",
+          "url": "https://open.spotify.com/artist/6MGmJoRyVYie4OBBtkvLQ2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Easy Going",
+      "url": "https://open.spotify.com/track/0ZcsS6h3lz6651TSvMTCqo"
+    },
+    {
+      "album": {
         "name": "Ebullience",
         "url": "https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE"
       },
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 213288,
       "name": "Right Days",
       "url": "https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp"

@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: Brothers Osborne
 
-245 songs - 14 hr 12 min
+246 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 | 2022-05-06 | 2022-08-07 |
 | [American Thread](https://open.spotify.com/track/0d0wIqxnYcavcm5AQjvBlB) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [American Thread](https://open.spotify.com/album/7vpWpFDu2k7eEWNrstjPwO) | 3:17 | 2021-11-01 | 2022-05-07 |
 | [Another Mile](https://open.spotify.com/track/5p98ydi4Izu5UJZvGN5pCu) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Another Mile](https://open.spotify.com/album/04ZMBbLR8QaHRjkjNaxTpz) | 3:36 | 2022-08-05 | 2022-10-06 |
-| [Antioch](https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Antioch](https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn) | 4:05 | 2022-03-25 |  |
+| [Antioch](https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Antioch](https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn) | 4:05 | 2022-03-25 | 2023-04-15 |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 |  |
 | [Are We On Fire](https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM) | 3:37 | 2022-08-19 | 2023-04-11 |
 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 | 2022-06-17 | 2022-07-09 |
@@ -117,6 +117,7 @@
 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 | 2022-07-22 | 2022-10-09 |
 | [Hold My Horses](https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Hold My Horses](https://open.spotify.com/album/47OPSr5UHAyc2XG4M9utmq) | 3:00 | 2022-10-01 | 2022-11-07 |
 | [Holler from the Holler](https://open.spotify.com/track/0X53A7SoG39zG7LwqAOczv) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Holler from the Holler](https://open.spotify.com/album/079CM1HQF4TeSlg8DrT36W) | 4:58 | 2022-04-29 | 2022-07-09 |
+| [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 | 2023-04-14 |  |
 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 | 2023-01-20 |  |
 | [Huckleberry](https://open.spotify.com/track/5sRNw5nGGirWXvxECIxpSX) | [Daniel Lee](https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj) | [Huckleberry](https://open.spotify.com/album/1iaC7rKb2xgcf0ZpuPRsdJ) | 3:50 | 2021-11-01 | 2023-01-21 |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 |  |
@@ -124,7 +125,7 @@
 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 | 2021-11-01 | 2023-02-04 |
 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 | 2021-11-01 |  |
 | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/04UK6oVCYUNtp1p11KKVKt) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/album/2hFL3oVudahoDiyLC7qju0) | 2:40 | 2023-01-27 |  |
-| [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 | 2021-11-01 | 2023-04-09 |
+| [I'm Not For Everyone](https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I'm Not For Everyone](https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr) | 2:52 | 2021-11-01 |  |
 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 | 2021-11-01 |  |
 | [In Me I Trust](https://open.spotify.com/track/5sdjnLfLl7Xe8UZZ0d0G5f) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Nashville Nights](https://open.spotify.com/album/2ZtxYUnhLlOiDRFwScCtC3) | 3:15 | 2021-11-01 | 2022-05-07 |
 | [It's Alright](https://open.spotify.com/track/2mi9QDPaqsQwqLSGWCBuLa) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [It's Alright](https://open.spotify.com/album/5Uk1gMahaWHFuSYrq38JZQ) | 3:56 | 2021-11-01 | 2022-07-09 |
@@ -212,7 +213,7 @@
 | [The Future's Neon](https://open.spotify.com/track/1zmmVJZk7YKJ9oUZrYwgAx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/3grVGFPEhjfRXfCUz65T2X) | 2:25 | 2022-02-11 | 2022-07-10 |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-11-01 | 2022-01-22 |
 | [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 |  |
-| [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2022-02-11 |  |
+| [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2022-02-11 | 2023-04-15 |
 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 | 2021-11-05 | 2023-03-16 |
 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 | 2021-11-01 |  |
 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/album/6PNMatU3htyk6mAK7xv6qW) | 3:17 | 2021-11-01 | 2023-04-09 |

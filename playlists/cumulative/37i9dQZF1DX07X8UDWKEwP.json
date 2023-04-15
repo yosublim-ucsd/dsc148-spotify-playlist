@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Ronald Borjas & Tito Nieves",
+  "description": "Lo nuevo del mundo tropical. Cover: Monsieur Perin\u00e9 & Guaynaa",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 251250,
       "name": "Besito en la Boca",
       "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 234000,
       "name": "Cuando Me Hayas Perdido",
       "url": "https://open.spotify.com/track/7CZw1UNzbvrmW1bMK7U8Ly"
@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+    },
+    {
+      "album": {
         "name": "Salsa Terapia",
         "url": "https://open.spotify.com/album/6u9D4L2xCutz78Byew0dCl"
       },
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218000,
       "name": "En la Mia (Remix)",
       "url": "https://open.spotify.com/track/7hcKHEkfNuru9xvzeoSJoP"
@@ -1514,7 +1536,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 203562,
       "name": "Envenenao",
       "url": "https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss"
@@ -2928,7 +2950,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 246224,
       "name": "Nubes Negras",
       "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
@@ -4001,6 +4023,24 @@
     },
     {
       "album": {
+        "name": "Solo Pienso En Ti",
+        "url": "https://open.spotify.com/album/686zjPymwJWho1sRetIdZE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179736,
+      "name": "Solo Pienso En Ti",
+      "url": "https://open.spotify.com/track/32b67p4fXwcbGqpjGpUfom"
+    },
+    {
+      "album": {
         "name": "Soltemos al Mundo",
         "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
       },
@@ -4150,7 +4190,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 238626,
       "name": "Te Busqu\u00e9",
       "url": "https://open.spotify.com/track/5K9NRlBuwqa2rzXoNE9HIe"

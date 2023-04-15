@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,882 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,121 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 18 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 |
 | 19 | [Back In the Saddle](https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:40 |
 | 20 | [What Could Have Been Love](https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 3:44 |
-| 21 | [Eat The Rich](https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:09 |
+| 21 | [Full Circle](https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:00 |
 | 22 | [Love In An Elevator \- Single Version](https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:21 |
-| 23 | [Full Circle](https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:00 |
+| 23 | [Eat The Rich](https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:09 |
 | 24 | [Same Old Song and Dance](https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 3:53 |
 | 25 | [Last Child](https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 3:26 |
 | 26 | [Mama Kin](https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 49 | [Young Lust](https://open.spotify.com/track/1NBBGTzsBg9gZxJHiXcDD1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:18 |
 | 50 | [Lord of the Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDA5MDM4N2UxMjJkZGE0YzQ0YjRiZTU4MjdjMWY2ZTNiYg==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA0YzA5MWQ5MzY5Y2FhMjc0MDJiMTg5OGNlM2ExOGQ0OQ==`

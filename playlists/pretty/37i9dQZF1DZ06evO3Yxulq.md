@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,801 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,833 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 39 | [Eterno \(Con Cuando Los Santos Marchan Ya\)](https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 6:02 |
 | 40 | [Magnifico](https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:08 |
 | 41 | [Padre Nuestro](https://open.spotify.com/track/39UXGTZChGwZvM9Z3Df4dU) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 4:55 |
-| 42 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
-| 43 | [No Hay Comparación](https://open.spotify.com/track/04FKReQTLMPeyhu6Gb6O1T) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Hay Comparación](https://open.spotify.com/album/5OX0FZ5YOOUitHawQSHoDH) | 3:13 |
+| 42 | [No Hay Comparación](https://open.spotify.com/track/04FKReQTLMPeyhu6Gb6O1T) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Hay Comparación](https://open.spotify.com/album/5OX0FZ5YOOUitHawQSHoDH) | 3:13 |
+| 43 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
 | 44 | [Bello eres tú](https://open.spotify.com/track/55DNwNrsS9IE4WTDlIu1su) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Bello eres tú](https://open.spotify.com/album/4WklYaOuYePHVlPn1jJcQ4) | 6:50 |
 | 45 | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH) | 5:43 |
 | 46 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Ábrenos Los Cielos](https://open.spotify.com/track/5bYuSdpWXXcngti6OPFmZG) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 4:05 |
 | 50 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDAwN2I2OTkwOGE3NTU1NDg0NjRhZDM1ZGFkM2JmNWJkOA==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBhY2I5Zjc5ZjRiZGM2ZDliMzg4YzlhNWM0YWFjMmMwYg==`

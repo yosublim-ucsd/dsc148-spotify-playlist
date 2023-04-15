@@ -1,6 +1,6 @@
 {
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favourites from the 2010s.",
-  "num_followers": 184400,
+  "num_followers": 184534,
   "original_name": "Headliners",
   "owner": {
     "name": "Spotify",
@@ -89,7 +89,7 @@
         }
       ],
       "duration_ms": 379260,
-      "name": "Spaceman - Original Mix",
+      "name": "Spaceman - Extended Mix",
       "url": "https://open.spotify.com/track/3UkKMTiHxRt0E8SyF9tb45"
     },
     {
@@ -1210,6 +1210,10 @@
         {
           "name": "Michael Calfan",
           "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
         }
       ],
       "duration_ms": 166874,

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "MOYI",
+        "url": "https://open.spotify.com/album/1WJXqSZBf4OLQ9gqdPp2HZ"
+      },
+      "artists": [
+        {
+          "name": "Badi",
+          "url": "https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr"
+        },
+        {
+          "name": "MPLI",
+          "url": "https://open.spotify.com/artist/30ABSMFhYN2HZHLdSt4D2w"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "10h30. Le Soleil Donne",
+      "url": "https://open.spotify.com/track/1BQ1XGyL1s6iXlkbafsDYK"
+    },
+    {
+      "album": {
         "name": "2xt",
         "url": "https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185719,
       "name": "General",
       "url": "https://open.spotify.com/track/0lDx9Br2w3nX5loNu8OSMV"
@@ -2138,7 +2160,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203649,
       "name": "Mais",
       "url": "https://open.spotify.com/track/4EzTZrPNxui7ovuaCixG3a"
@@ -2400,6 +2422,28 @@
       "duration_ms": 72701,
       "name": "Mood Pt.2",
       "url": "https://open.spotify.com/track/1Rm5415K4UyrcpQOvey81t"
+    },
+    {
+      "album": {
+        "name": "Mopacho Panama",
+        "url": "https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D"
+      },
+      "artists": [
+        {
+          "name": "Stone Warley",
+          "url": "https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01"
+        },
+        {
+          "name": "Afara Tsena",
+          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179873,
+      "name": "Mopacho Panama",
+      "url": "https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT"
     },
     {
       "album": {
@@ -2790,7 +2834,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 339063,
       "name": "Ofele - Remix",
       "url": "https://open.spotify.com/track/5ov6NSwaKW2uycaad8mIrF"
@@ -3620,6 +3664,24 @@
       "duration_ms": 198857,
       "name": "Toleka",
       "url": "https://open.spotify.com/track/2i3RY72siSsRLffssw2boS"
+    },
+    {
+      "album": {
+        "name": "Tout Ira Bien (Be Alright)",
+        "url": "https://open.spotify.com/album/5ZGCTVAdgLgfr4FyLqj2Dd"
+      },
+      "artists": [
+        {
+          "name": "Landry M",
+          "url": "https://open.spotify.com/artist/6edaSYUIB0eQCKuY4dgIVz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186748,
+      "name": "Tout Ira Bien (Be Alright)",
+      "url": "https://open.spotify.com/track/3ZcgdYyOGpQ0yBP2Sus183"
     },
     {
       "album": {

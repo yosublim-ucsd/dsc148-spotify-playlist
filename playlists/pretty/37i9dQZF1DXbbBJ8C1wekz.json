@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 106468,
+  "num_followers": 106568,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMGJiMzUwYmQzMTQ1NDJlMTVhZjNhNWM2NWE3NmNiMTdm",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDAzZjdkMmZkOTcyNDU0ZDkxNTA0OTMwNmE5YWY1NTYy",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
     },
     {
-      "added_at": "2023-04-14 00:55:58",
+      "added_at": "2023-04-15 01:30:48",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 191376,
+      "name": "V\u00edrgula",
+      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 191376,
-      "name": "V\u00edrgula",
-      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
     },
     {
       "added_at": "2023-02-07 20:52:54",

@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Don't Need To Worry",
+        "url": "https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah"
+      },
+      "artists": [
+        {
+          "name": "Simple Jim",
+          "url": "https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Don't Need To Worry",
+      "url": "https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s"
+    },
+    {
+      "album": {
         "name": "Don't You Know?",
         "url": "https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4"
       },
@@ -4990,7 +5008,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203374,
       "name": "Secrets Calling",
       "url": "https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4"

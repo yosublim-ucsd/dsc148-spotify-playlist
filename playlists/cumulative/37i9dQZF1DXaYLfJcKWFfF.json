@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg?si=6odau6YDS9Sxgdo-Vrpgsw\"> Lindsey Abudei</a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=81n9mypdRAuVUB7T2rtLfg\"> Baaba J</a> ",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 239899,
       "name": "Dry",
       "url": "https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7"
@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "JI",
+        "url": "https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149933,
+      "name": "JI",
+      "url": "https://open.spotify.com/track/05Z7zjFNdexq8adjFibaU3"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx"
       },
@@ -724,6 +742,28 @@
       "duration_ms": 165640,
       "name": "Korba",
       "url": "https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC"
+    },
+    {
+      "album": {
+        "name": "The.rap.y",
+        "url": "https://open.spotify.com/album/5imTQerf20f3s4TkWwlKaY"
+      },
+      "artists": [
+        {
+          "name": "Worlasi",
+          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
+        },
+        {
+          "name": "David Hammond",
+          "url": "https://open.spotify.com/artist/77dRhxijp3XSASVc3mYozX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Luci",
+      "url": "https://open.spotify.com/track/69fYAKrHt69xFqH9OGojjp"
     },
     {
       "album": {
@@ -1014,7 +1054,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 220426,
       "name": "No More Wars",
       "url": "https://open.spotify.com/track/2jTkWgm19fYZgfxxt9eTY3"
@@ -1072,6 +1112,24 @@
       "duration_ms": 169913,
       "name": "Oh Shoot",
       "url": "https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV"
+    },
+    {
+      "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
       "album": {
@@ -1510,7 +1568,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 231493,
       "name": "Sun Spot",
       "url": "https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK"

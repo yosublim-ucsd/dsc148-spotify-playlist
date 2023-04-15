@@ -1,12 +1,12 @@
 {
   "description": "Las que no sabes que te sabes. \ud83e\udd33\ud83c\udffd",
-  "num_followers": 1063632,
+  "num_followers": 1063803,
   "original_name": "Viral Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI0NzExNCwwMDAwMDAwMDQzNTUzZTU4NjVhMzIxMWNiYjdiYWEwYzBiOGY2MThj",
+  "snapshot_id": "MTY4MTQ4OTQxNiwwMDAwMDAwMGQxMzJiN2Y0M2Q3OTc1OGVmNDJhYWFiOTcwMDczZjA5",
   "tracks": [
     {
       "added_at": "2023-04-11 21:05:14",
@@ -215,6 +215,26 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+    },
+    {
+      "added_at": "2023-04-14 16:23:35",
+      "album": {
+        "name": "EL HECHIZO",
+        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 167988,
+      "name": "EL HECHIZO",
+      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
     },
     {
       "added_at": "2023-04-11 21:05:14",
@@ -467,30 +487,6 @@
       "duration_ms": 239986,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
-    },
-    {
-      "added_at": "2023-04-11 21:05:14",
-      "album": {
-        "name": "Delincuente",
-        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 226490,
-      "name": "Delincuente",
-      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     }
   ],
   "unique_name": "Viral Latino",

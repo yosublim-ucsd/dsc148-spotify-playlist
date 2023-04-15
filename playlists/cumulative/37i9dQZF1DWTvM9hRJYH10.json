@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Karley Scott Collins",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Leah Marie Mason",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -1598,6 +1598,24 @@
       "duration_ms": 233519,
       "name": "Hometown Highway",
       "url": "https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS"
+    },
+    {
+      "album": {
+        "name": "Honeydew & Hennessy",
+        "url": "https://open.spotify.com/album/49s6EwjZHmGY7e5I8kTyj6"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239499,
+      "name": "Honeydew & Hennessy",
+      "url": "https://open.spotify.com/track/1zOn6DATC1kL7cfPz7JiuP"
     },
     {
       "album": {

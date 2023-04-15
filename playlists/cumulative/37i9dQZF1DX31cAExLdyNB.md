@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-116 songs - 7 hr 13 min
+117 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-03-18 | 2022-07-30 |
 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 | 2022-01-07 | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/2PJiuaiVdV7TaxmH9m0Jxm) | [La Madre Tirana](https://open.spotify.com/artist/7o9tCJXiK0FdrgNkdvhrrT) | [Alaska](https://open.spotify.com/album/0GHXiLtRMPAjPLKIQPHOfV) | 3:41 | 2022-01-07 | 2022-01-22 |
+| [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-15 |  |
 | [Amor Supremo](https://open.spotify.com/track/3WgA97H4wpjZajADb4BBst) | [Elia Ezker](https://open.spotify.com/artist/4oXlT8L4CQfox2udsEFUHB) | [Flora](https://open.spotify.com/album/6dUsiEsl3IESAEAxYS5d4y) | 3:56 | 2022-01-07 | 2022-01-22 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/3M1OzLNp7xT7XdZGSq2NxD) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/7qOjg8fUKebWW0L5mQIU8D) | 2:57 | 2022-07-29 | 2022-11-13 |
 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd) | 2:57 | 2022-01-07 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-01-07 |  |
 | [Swimming Pool](https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC) | [Marie Madeleine](https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC) | [Swimming Pool](https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls) | 5:25 | 2022-01-21 | 2022-03-18 |
 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 | 2022-01-07 |  |
-| [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-21 |  |
+| [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-01-21 | 2023-04-15 |
 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 | 2022-03-18 | 2022-07-29 |
 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 | 2022-03-18 |  |
 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 | 2022-03-18 |  |

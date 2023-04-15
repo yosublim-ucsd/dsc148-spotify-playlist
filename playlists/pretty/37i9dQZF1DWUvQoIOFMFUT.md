@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,661 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,666 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 66 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
 | 67 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 |
 | 68 | [Let You Down](https://open.spotify.com/track/2fPLTshHikksne597oM4q5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:26 |
-| 69 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme, Shabaka Hutchings](https://open.spotify.com/artist/6rGWpRg4lDCG08g5kCXPP8) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 |
+| 69 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 |
 | 70 | [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 |
 | 71 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 |
 | 72 | [Alright](https://open.spotify.com/track/1MrUQX327aKDnOawrNnRUJ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "El lado fluorescente del indie latino featuring Alfonsina.",
+  "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
   "name": "NE\u00d3N",
   "tracks": [
     {
@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219394,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
+    },
+    {
+      "album": {
         "name": "De Nada Sirve",
         "url": "https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 239776,
       "name": "Extranjera",
       "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 241418,
       "name": "Mitad Sombra Mitad Luz",
       "url": "https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z"
@@ -1241,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "Provoqu\u00e9",
+        "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        },
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Provoqu\u00e9",
+      "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
+    },
+    {
+      "album": {
         "name": "PSICURA",
         "url": "https://open.spotify.com/album/0Tk9AUF3GEQP9wyjAndHlY"
       },
@@ -1411,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
+    },
+    {
+      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -1568,7 +1626,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 225728,
       "name": "Sudeste Asi\u00e1tico (Felics Remix)",
       "url": "https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd"

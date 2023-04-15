@@ -2,9 +2,9 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Libianca
+> The tracks you can put on repeat all day\. Cover: SZA, Doja Cat
 
-547 songs - 1 day 6 hr 25 min
+548 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Jerry Sprunger \(with T\-Pain\)](https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Chixtape 5](https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f) | 3:53 | 2022-04-01 | 2022-11-13 |
 | [Just For Me \(with SZA\) \- Space Jam: A New Legacy](https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Just For Me \(Space Jam: A New Legacy\)](https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh) | 3:37 | 2022-03-11 | 2023-01-27 |
 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/13L4184XlA7KaHQdMJx6br) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK) | 3:41 | 2022-04-01 | 2022-04-21 |
+| [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-14 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2022-03-11 |  |
 | [Know My Rights \(feat\. Lil Baby\)](https://open.spotify.com/track/7fsNNSLGG8Wi0nFbufCU6L) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [6pc Hot EP](https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB) | 3:14 | 2022-04-01 | 2023-02-25 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-12-06 |  |
@@ -518,7 +519,7 @@
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-03-11 | 2023-01-06 |
 | [Want You](https://open.spotify.com/track/1N5BQbp8mCUB3W2tEfCdfT) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [L.O.V.E.](https://open.spotify.com/album/05Lf2rOVxRGGJdI3N3F8xi) | 3:11 | 2022-04-01 | 2022-07-29 |
-| [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-03-11 |  |
+| [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-03-11 | 2023-04-15 |
 | [Waves of Blue](https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Waves of Blue](https://open.spotify.com/album/4kYLTRv7rgzUlGVbatSBLD) | 3:28 | 2022-03-11 | 2022-07-29 |
 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 | 2022-06-17 | 2022-08-19 |
 | [We Went Our Own Ways](https://open.spotify.com/track/3S9dLUmwHtG5biX8wb484C) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [We Went Our Own Ways](https://open.spotify.com/album/2e5MSRRuyl9qJazFIAwrqM) | 3:38 | 2022-04-01 | 2022-04-20 |

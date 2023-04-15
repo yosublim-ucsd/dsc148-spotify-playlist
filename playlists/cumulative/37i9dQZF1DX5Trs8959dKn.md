@@ -4,7 +4,7 @@
 
 > Knees go down and the prayers go up
 
-50 songs - 5 hr 44 min
+51 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [I Stand Amazed \(Live\)](https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus: Sinach Live in Concert](https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ) | 7:24 | 2023-04-06 |  |
 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 | 2023-04-06 |  |
 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 | 2023-04-06 |  |
+| [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 | 2023-04-14 |  |
 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 | 2023-04-06 |  |
 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 | 2023-04-06 |  |
 | [Jesus](https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Jesus](https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB) | 8:50 | 2023-04-06 |  |
@@ -41,7 +42,7 @@
 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 | 2023-04-06 |  |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-04-06 |  |
 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 | 2023-04-06 |  |
-| [Olorun To Da Awon Oke Igbani](https://open.spotify.com/track/2ERPRtRjsz7roLK29Bu9b0) | [Remi Collins](https://open.spotify.com/artist/6abZcudasOy2dIeZhAtuRU) | [Olorun To Da Awon Oke Igbani](https://open.spotify.com/album/4dUydP6zld6up2WophkzOB) | 3:22 | 2023-04-06 |  |
+| [Olorun To Da Awon Oke Igbani](https://open.spotify.com/track/2ERPRtRjsz7roLK29Bu9b0) | [Remi Collins](https://open.spotify.com/artist/6abZcudasOy2dIeZhAtuRU) | [Olorun To Da Awon Oke Igbani](https://open.spotify.com/album/4dUydP6zld6up2WophkzOB) | 3:22 | 2023-04-06 | 2023-04-15 |
 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 | 2023-04-06 |  |
 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 | 2023-04-06 |  |
 | [Onise Iyanu \(feat\. Micah Stampley\)](https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:06 | 2023-04-06 |  |

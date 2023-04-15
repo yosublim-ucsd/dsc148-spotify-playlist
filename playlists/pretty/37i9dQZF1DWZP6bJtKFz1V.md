@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,153 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,180 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 52 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 |
 | 53 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 54 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 |
-| 55 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
-| 56 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 |
+| 55 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 |
+| 56 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 57 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 |
 | 58 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 |
 | 59 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZP6bJtKFz1V.md) - [plain]
 | 89 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
 | 90 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 |
 | 91 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:45 |
-| 92 | [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 |
+| 92 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 |
 | 93 | [THREE HEADS\*](https://open.spotify.com/track/3MzD5pFnJqESdvPfvhU6kM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
-| 94 | [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 |
-| 95 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 |
-| 96 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
+| 94 | [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 |
+| 95 | [I've Never Been To LA \(Edit\)](https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 2:39 |
+| 96 | [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 |
 | 97 | [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 |
 | 98 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 |
 | 99 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 |
 | 100 | [Demon](https://open.spotify.com/track/6eqQ8jPo5Bx0abOQIYbJTp) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:45 |
 
-Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDgzZTY4ZmEyMTdmMDA2MDRmMjQ4NzE1MmZkOTU4N2Nm`
+Snapshot ID: `MTY3MzU4NjAwMCwwMDAwMDAwMDAxNmVkMjg2NzE0N2M2NTVlNGU1MTY1ZWQ1ZWIwNzA1`

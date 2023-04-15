@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Rodell Duff
 
-136 songs - 7 hr 3 min
+137 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-02-17 |  |
 | [Goner](https://open.spotify.com/track/5aoAYO5gJL9VnCxWU3q0EU) | [Skyelor Anderson](https://open.spotify.com/artist/5bclkN4UM70TfIa6NGMGcr) | [Bonfire](https://open.spotify.com/album/2DuONDxO2ITx5MNJbjPnr5) | 3:00 | 2021-12-03 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/3Eo9aTE1gnvShpP21Vb7tu) | [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Gonna Be Alright](https://open.spotify.com/album/6jlXxGbWeMOMbSEU9TJ3K9) | 2:56 | 2023-02-17 |  |
+| [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 | 2023-04-14 |  |
 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 | 2021-12-03 |  |
 | [Good To You](https://open.spotify.com/track/49dnp7E5qladhZJLDXQEmA) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Good To You](https://open.spotify.com/album/2yM7cuSkxvVaquqZ3RcLOG) | 3:01 | 2022-02-18 | 2023-02-18 |
 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2021-12-03 | 2023-03-02 |

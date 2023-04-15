@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-499 songs - 23 hr 2 min
+501 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [dancing on the edge](https://open.spotify.com/track/0gEoT7N1BBTK42pdzGL6FW) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [dancing on the edge](https://open.spotify.com/album/710p7FOrLGToB5XDoS7i0e) | 2:11 | 2022-05-20 | 2022-05-25 |
 | [Danny Phantom](https://open.spotify.com/track/2pytZMsJ05YzfXXGjCLfIz) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Danny Phantom](https://open.spotify.com/album/6C5f8MYuhUCBT2i4kyOIbL) | 2:14 | 2021-11-16 | 2022-02-26 |
 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 | 2022-09-09 | 2022-11-30 |
-| [Decide](https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 2:38 | 2023-02-17 |  |
+| [Decide](https://open.spotify.com/track/1sqnUW28suqqEUnTYfBcqM) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 2:38 | 2023-02-17 | 2023-04-15 |
 | [deep end](https://open.spotify.com/track/4byknk8F5jlKxqOKOeggLa) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [deep end](https://open.spotify.com/album/0eXpcJoQhh15C8LBFCHx9w) | 2:24 | 2023-04-04 |  |
 | [Desert Sun](https://open.spotify.com/track/5PILoHCrMiK6zwkGdeMOXX) | [Nabes](https://open.spotify.com/artist/107Qkrj4miJTEjTZx8Ie3c) | [Desert Sun](https://open.spotify.com/album/1SgsIlnJvwMSWJLjjAQwiS) | 2:48 | 2021-11-16 | 2022-02-26 |
 | [Diamonds](https://open.spotify.com/track/1PMCaOsItHt7Wc02FCdpdv) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Diamonds](https://open.spotify.com/album/0IzUNWsQuZPVncXMMx25AN) | 3:00 | 2022-10-07 | 2022-11-30 |
@@ -158,6 +158,7 @@
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-16 | 2022-02-26 |
 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-10-11 | 2022-12-21 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-07-07 |
+| [five year plan](https://open.spotify.com/track/7906VnRknBNK6Eb8ABcUgq) | [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [five year plan](https://open.spotify.com/album/4saAmbd9zLQIETX9UkkntL) | 2:27 | 2023-04-14 |  |
 | [Flat Tire](https://open.spotify.com/track/592UtxyRpf6eOrjS6b2Jur) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Flat Tire](https://open.spotify.com/album/1L1AthYINK9Shv4lgYxIEw) | 2:16 | 2022-07-11 | 2022-10-15 |
 | [Flavors](https://open.spotify.com/track/1YshKoWMcR68W8ZYBtNal7) | [Casper Jones](https://open.spotify.com/artist/23sBHvNKx0DJqlO00SQiF7) | [Flavors](https://open.spotify.com/album/7yM1i0hC7Dxyfb9ISXp0io) | 2:38 | 2022-06-10 | 2022-07-23 |
 | [Flip](https://open.spotify.com/track/1WKq2z9qobfyQs3VMnAF9h) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [Flip](https://open.spotify.com/album/6MK0vzutpi0ekxM63AJ3Ur) | 3:29 | 2023-01-13 | 2023-03-18 |
@@ -172,6 +173,7 @@
 | [free me](https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [free me](https://open.spotify.com/album/3pMK4vu9TW0y3FqZaoJNya) | 2:53 | 2023-01-13 |  |
 | [Frenz](https://open.spotify.com/track/5IjuTyDsMvEM4QVDtfulsS) | [Eslicky](https://open.spotify.com/artist/597lLtizj6FSj1kRtCDWCg) | [Frenz](https://open.spotify.com/album/5v1zGRF9VLBQZdMPMQLaDk) | 2:54 | 2021-11-16 | 2022-02-19 |
 | [Fresh Water](https://open.spotify.com/track/2UbdtdpOW3URCTqKsPATJg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Young Fel 2](https://open.spotify.com/album/265rgx93RpuQmpok31gynl) | 2:49 | 2021-11-16 | 2022-02-26 |
+| [Fruits of My Labor](https://open.spotify.com/track/51dZW9RmHyIXrdpEdFu1Xm) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Before the Garden 5](https://open.spotify.com/album/3g3hptzipUo3UpdGixh6Vn) | 3:18 | 2023-04-14 |  |
 | [Full Monarch](https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Never Slept Better](https://open.spotify.com/album/1ff1wHohcN2BRac6Ke4K6C) | 3:37 | 2022-07-15 | 2022-09-10 |
 | [funny lil thing](https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [funny lil thing](https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D) | 2:17 | 2022-02-04 | 2022-07-02 |
 | [Future Love](https://open.spotify.com/track/7aFKeqQh8YnsAUyRxw0IvL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 3:41 | 2021-11-16 | 2022-02-26 |
@@ -300,7 +302,7 @@
 | [MOTTO](https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [MOTTO](https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE) | 3:37 | 2023-03-09 | 2023-04-05 |
 | [Movin'](https://open.spotify.com/track/6LY60TJtxLNbsBtwUKRaxo) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Movin'](https://open.spotify.com/album/2rHcTFQ8r6dpPwPE0UTRVD) | 2:10 | 2023-03-17 |  |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 | 2023-04-09 |
-| [Ms\. Poli Sci](https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Ms\. Poli Sci](https://open.spotify.com/album/7qypqH6zU0ZowehywC9395) | 2:08 | 2022-11-11 |  |
+| [Ms\. Poli Sci](https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Ms\. Poli Sci](https://open.spotify.com/album/7qypqH6zU0ZowehywC9395) | 2:08 | 2022-11-11 | 2023-04-15 |
 | [My Shit](https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 2:08 | 2022-04-04 | 2022-10-01 |
 | [MY TIME](https://open.spotify.com/track/0pM1oWq2iw8W0AY6ORdC0x) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [MY TIME](https://open.spotify.com/album/6ir87nGMrNUOEl4aNc437S) | 2:30 | 2022-03-25 | 2022-07-02 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-09-24 |

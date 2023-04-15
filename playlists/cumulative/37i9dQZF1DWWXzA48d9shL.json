@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Rap from hell. Cover: do not resurrect",
+  "description": "Rap from hell. Cover: BONES",
   "name": "TIRADE",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 169319,
       "name": "$Outh $Ide $Uicide",
       "url": "https://open.spotify.com/track/496GZe7MxLloHgUQTmY2Ch"
+    },
+    {
+      "album": {
+        "name": "1 BILLION STREAMS (GOD IN THE MOSHPIT)",
+        "url": "https://open.spotify.com/album/0YgWCLDiKIATF0izHt06wy"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "1 BILLION STREAMS (GOD IN THE MOSHPIT)",
+      "url": "https://open.spotify.com/track/0n3hr6cCiaPAdoEVdvZWIp"
     },
     {
       "album": {
@@ -278,7 +296,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 109250,
       "name": "A Cold Day in Hell",
       "url": "https://open.spotify.com/track/38agBZuMUFW1QbepsRmok8"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 114573,
       "name": "BlackDynamite",
       "url": "https://open.spotify.com/track/4UfuPARha6t2tkMRjaXAom"
@@ -1690,6 +1708,24 @@
       "duration_ms": 125681,
       "name": "C4",
       "url": "https://open.spotify.com/track/3ro79xln1AuGHdAn0VjL4P"
+    },
+    {
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw"
+      },
+      "artists": [
+        {
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n"
     },
     {
       "album": {
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 119379,
       "name": "DND",
       "url": "https://open.spotify.com/track/6ClxmXNZDtBmz3Zhu4JB0R"
@@ -3535,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "GYOZA",
+        "url": "https://open.spotify.com/album/4Io8EBHyHFxZrbk72BuC9X"
+      },
+      "artists": [
+        {
+          "name": "Blckbrd",
+          "url": "https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O"
+        },
+        {
+          "name": "outsiderX",
+          "url": "https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "GYOZA",
+      "url": "https://open.spotify.com/track/6kXhGr5BFBPBcfdIE9rK1X"
+    },
+    {
+      "album": {
         "name": "H4LO",
         "url": "https://open.spotify.com/album/3xO1MRz165AasIqc4G4A9o"
       },
@@ -3979,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "I ONLY KNOW A FEW GOOD PEOPLE",
+        "url": "https://open.spotify.com/album/1C2qR9cyY1soD9JJVRnetB"
+      },
+      "artists": [
+        {
+          "name": "Mikey The Magician",
+          "url": "https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97560,
+      "name": "I ONLY KNOW A FEW GOOD PEOPLE",
+      "url": "https://open.spotify.com/track/4krgdfGN8fbJ0ERcUB8Czo"
+    },
+    {
+      "album": {
         "name": "XXII",
         "url": "https://open.spotify.com/album/6uoO6YlUEdnR1ynxrG4qEu"
       },
@@ -3990,7 +4066,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 120636,
       "name": "I SAW A GHOST",
       "url": "https://open.spotify.com/track/308nDdX2dufnNzssguoaoi"
@@ -5059,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "Look At Me Now",
+        "url": "https://open.spotify.com/album/0ANbyDg9eHBBuyJwVjR1qs"
+      },
+      "artists": [
+        {
+          "name": "KIDR",
+          "url": "https://open.spotify.com/artist/03SlvfjaZ32ETtNWDUMpqR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138196,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/2GduunsrcLCIwPsdXe86gP"
+    },
+    {
+      "album": {
         "name": "LOOK BACK.",
         "url": "https://open.spotify.com/album/2z7gaV2FLPkpj1GRRdRxSs"
       },
@@ -5276,7 +5370,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 238145,
       "name": "Matte Black",
       "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
@@ -5542,7 +5636,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 139102,
       "name": "MONOCHROME",
       "url": "https://open.spotify.com/track/57hs3UITeO0l7PXwlyggZn"
@@ -5590,6 +5684,28 @@
       "duration_ms": 124800,
       "name": "MORPHINE",
       "url": "https://open.spotify.com/track/4WoXUdjKIErU4dQCx6PADX"
+    },
+    {
+      "album": {
+        "name": "MOTHER OF ALL BOMBS",
+        "url": "https://open.spotify.com/album/0hXBZoYXmc1T9e1Ijh3gsq"
+      },
+      "artists": [
+        {
+          "name": "DeadBeatVillain",
+          "url": "https://open.spotify.com/artist/3eX60TRDUfjgEIWi07J1nf"
+        },
+        {
+          "name": "BenDreary",
+          "url": "https://open.spotify.com/artist/5oCKZYQ5cyDmzQtm1md0xc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94610,
+      "name": "MOTHER OF ALL BOMBS",
+      "url": "https://open.spotify.com/track/7GNJgPso8Kq6tG5teg30Lb"
     },
     {
       "album": {
@@ -5670,7 +5786,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
@@ -6788,7 +6904,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 243200,
       "name": "SHAMELESS $UICIDE",
       "url": "https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw"
@@ -7763,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/46KiNG5vmNGAqHq8LMUHor"
+      },
+      "artists": [
+        {
+          "name": "Lorta",
+          "url": "https://open.spotify.com/artist/0jfcbc9ax7GnUiCzhexJOb"
+        },
+        {
+          "name": "Devilish Trio",
+          "url": "https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/41PeGZiPALdktSyL8jqKeB"
+    },
+    {
+      "album": {
         "name": "Trumpets",
         "url": "https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY"
       },
@@ -8235,6 +8373,28 @@
     },
     {
       "album": {
+        "name": "Jones Peak",
+        "url": "https://open.spotify.com/album/1b3DpLcZpNhj4soopPeojE"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "Eddy Baker",
+          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108512,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/6AYJKBH8ndAzqcT2IBJ15o"
+    },
+    {
+      "album": {
         "name": "WICKED RITUALS",
         "url": "https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq"
       },
@@ -8250,6 +8410,24 @@
       "duration_ms": 118588,
       "name": "WICKED RITUALS",
       "url": "https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4"
+    },
+    {
+      "album": {
+        "name": "WICKED!",
+        "url": "https://open.spotify.com/album/4ufYMoVqW8cssqqYdRx5nP"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67262,
+      "name": "WICKED!",
+      "url": "https://open.spotify.com/track/3zGXKyFESzcbenBMfOieOQ"
     },
     {
       "album": {
@@ -8500,7 +8678,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 138299,
       "name": "You Make Me Sick!",
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"

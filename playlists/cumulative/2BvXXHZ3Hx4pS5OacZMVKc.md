@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-248 songs - 12 hr 59 min
+250 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [I'll Be Here](https://open.spotify.com/track/41rBNwBLvu3uxpBOVYac0w) | [Heuse](https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT), [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP), [Noctilucent](https://open.spotify.com/artist/1HE19EVn5Xs4qlNY4JCuJJ) | [I'll Be Here](https://open.spotify.com/album/3MRc4ibAnktBiUQdgJvUPs) | 2:36 | 2022-02-03 | 2022-09-15 |
 | [If You](https://open.spotify.com/track/3h4E7keqAPmuXviymrmDF6) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Evergreen](https://open.spotify.com/album/1IGqbM5ixtd5OSXgkMolWs) | 2:48 | 2022-02-03 | 2022-07-12 |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2022-10-31 |
+| [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj) | 4:30 | 2023-04-14 |  |
 | [Incomplete \(Muzzy Remix\)](https://open.spotify.com/track/1S9aNHUvvJQKADcGwidLXO) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU), [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp), [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Incomplete \(Muzzy Remix\)](https://open.spotify.com/album/5icEcceQagZKlAUei5A1IZ) | 4:45 | 2022-02-03 | 2022-09-15 |
 | [Into The Light](https://open.spotify.com/track/7r4D1V8MXRtWY4jgGMZzS4) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Into The Light](https://open.spotify.com/album/7FXH7q0kiPMpzQX4JrUYgJ) | 2:27 | 2022-02-03 | 2022-09-15 |
 | [Into The Wild](https://open.spotify.com/track/6XJnMQBwnsyADKmYxkI0PW) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [ARCANA](https://open.spotify.com/artist/5TFSful1I8dL9EdpYlsSKc) | [Into The Wild](https://open.spotify.com/album/7gsaMticaQi7bQWGiKM7JA) | 2:53 | 2022-02-03 | 2022-09-15 |
@@ -224,6 +225,7 @@
 | [The Garden](https://open.spotify.com/track/1WrSQnq6Y8e6jITQ6gG7Jq) | [Lochlainn](https://open.spotify.com/artist/3wgU0KqfQuUNIjqe2ZjOVh) | [The Garden](https://open.spotify.com/album/4notA2r4MNd7pHSxWPdPEN) | 2:54 | 2022-02-03 |  |
 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 |  |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 |  |
+| [The Raven](https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [The Raven](https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E) | 1:55 | 2023-04-14 |  |
 | [The Revolution \- Arc North Remix](https://open.spotify.com/track/4tjxa3WaYdgVVfVGzkMWAN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:10 | 2022-02-03 |  |
 | [There's Nobody Else](https://open.spotify.com/track/3VssPt5F9RG40fyiz56bqo) | [Chris Later](https://open.spotify.com/artist/7kOhsEdKbT5rsDVAShrpmq), [Dany Yeager](https://open.spotify.com/artist/6eNcrRzNwtMcyuW0cfYe5u) | [There's Nobody Else](https://open.spotify.com/album/5cm7dJUDOmP6OfAeQxAGbL) | 2:41 | 2022-02-15 |  |
 | [Throne](https://open.spotify.com/track/6SOswqkbO1IztYXJFWkKry) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Throne](https://open.spotify.com/album/7isSdYhzT41o4n6HTaLc8H) | 3:31 | 2022-02-03 | 2022-09-15 |

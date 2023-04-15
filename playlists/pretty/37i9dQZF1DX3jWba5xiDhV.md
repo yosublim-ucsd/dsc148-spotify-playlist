@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,878 likes - 75 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,165 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 29 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 |
 | 30 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
 | 31 | [Color My Love](https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH) | 4:06 |
-| 32 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
-| 33 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 |
+| 32 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 |
+| 33 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
 | 34 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
 | 35 | [Testa](https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Testa / Caracalla Dub](https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp) | 3:20 |
 | 36 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 59 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
 | 60 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 | 61 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
-| 62 | [I'm Going to Go \- Instrumental Plant Mix](https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K), [Frankye Knuckles](https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH) | [I'm Going to Go](https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v) | 8:35 |
-| 63 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
+| 62 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
+| 63 | [I'm Going to Go \- Instrumental Plant Mix](https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K), [Frankye Knuckles](https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH) | [I'm Going to Go](https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v) | 8:35 |
 | 64 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 |
-| 65 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
-| 66 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 |
+| 65 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 |
+| 66 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
 | 67 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 68 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
 | 69 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 |
 | 75 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
 
-Snapshot ID: `MTY4MDUxMTc2NSwwMDAwMDAwMDIxNzU5M2UzNmYxZDc4YTEyYmM0MDUzYzZkNWEwMTUw`
+Snapshot ID: `MTY4MDUxMTc2NSwwMDAwMDAwMDk1ZTA1MzU1YmM0NTRhZjA1MzZjZmIyMTQ2MDVjMzJm`

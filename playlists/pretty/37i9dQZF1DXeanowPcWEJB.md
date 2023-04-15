@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,500 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,574 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 14 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
 | 15 | [Mi Amor](https://open.spotify.com/track/0Qi2p7krDLp04vdTDG2yIb) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 4:26 |
 | 16 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
-| 17 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
-| 18 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
-| 19 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
+| 17 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
+| 18 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
+| 19 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 20 | [El Camino De Mi Alma](https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Camino De Mi Alma](https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY) | 6:01 |
 | 21 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 |
 | 22 | [Historia De Un Amor](https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Historia De Un Amor](https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg) | 3:06 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 50 | [Presentimiento](https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Presentimiento](https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr) | 3:00 |
 | 51 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 |
 | 52 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
-| 53 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
-| 54 | [La Consentida](https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [La Consentida](https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL) | 2:05 |
-| 55 | [Amor Eterno](https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 3:41 |
+| 53 | [La Consentida](https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [La Consentida](https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL) | 2:05 |
+| 54 | [Amor Eterno](https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 3:41 |
+| 55 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
 | 56 | [Dos Arbolitos](https://open.spotify.com/track/79asYQZENI08hJ8dbQxnAu) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 2:20 |
 | 57 | [Besame Mucho](https://open.spotify.com/track/3OQBWVESLIsq4h0M2U1WN4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 4:21 |
 | 58 | [La Barca / Tu Condena / El Reloj](https://open.spotify.com/track/4zU0JhDu2f1Zojz2LlCwuI) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Coleccion De Oro](https://open.spotify.com/album/17aGPzpgZyUu3VtSiErXNr) | 4:57 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 62 | [Cielito Lindo \- Guitar Version](https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ) | [Manuel Granada](https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV) | [Spanish Guitar Latin Hits](https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U) | 2:39 |
 | 63 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
 | 64 | [La Feria De Las Flores](https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 2:31 |
-| 65 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
-| 66 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
+| 65 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
+| 66 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
 | 67 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
 | 68 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
 | 69 | [Cancion Mixteca](https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 1:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [Que Bonita Es Mi Tierra](https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 3:10 |
 | 100 | [Guadalajara](https://open.spotify.com/track/1w3PYey5h6WBp4Y8W3e3vM) | [Ramon Dona\-Dio](https://open.spotify.com/artist/2onS1woeVK5STw8eKF6x5V) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:31 |
 
-Snapshot ID: `MTY3NDUxNDUzMSwwMDAwMDAwMGJhNzk2MmU4NjA4YWUwY2Q2NzI0ZjFlOGNlMDJlODY4`
+Snapshot ID: `MTY3NDUxNDUzMSwwMDAwMDAwMDk3MzhhMDk1NDJmZTY3MjgxMmU4Mjk1ZDZjNWRjMzJl`

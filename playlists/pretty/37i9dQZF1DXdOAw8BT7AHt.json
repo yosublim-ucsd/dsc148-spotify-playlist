@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Los Bitchos",
-  "num_followers": 48537,
+  "num_followers": 48540,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTAzMiwwMDAwMDAwMDRmNjk5NzM3ZmEzNjNiNmY5Mzc0MzM0ZjdjOWJmMDM5",
+  "snapshot_id": "MTY3OTk0OTAzMiwwMDAwMDAwMDNmMzJkYTM3OWYxMTA1ZjBkZDhjMTdlZjg4OTAzMDUx",
   "tracks": [
     {
       "added_at": "2023-03-20 13:21:43",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Facedown",
-        "url": "https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Wishing You Hell",
@@ -155,6 +139,22 @@
       "duration_ms": 194892,
       "name": "Wishing You Hell",
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Facedown",
+        "url": "https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -189,20 +189,20 @@
       "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
+      "added_at": "2023-03-20 13:21:43",
       "album": {
-        "name": "Get Fucked",
-        "url": "https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
-          "name": "The Chats",
-          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 125373,
-      "name": "6L GTR",
-      "url": "https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm"
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
+      "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "Get Fucked",
+        "url": "https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
         }
       ],
-      "duration_ms": 176805,
-      "name": "Tear Me to Pieces",
-      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+      "duration_ms": 125373,
+      "name": "6L GTR",
+      "url": "https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -439,22 +439,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Force 10 From Navarone",
-        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
+        "name": "The Delicate Nature",
+        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
       },
       "artists": [
         {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
         },
         {
-          "name": "Florence Shaw",
-          "url": "https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84"
+          "name": "Laurie Vincent",
+          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
         }
       ],
-      "duration_ms": 204895,
-      "name": "Force 10 From Navarone",
-      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
+      "duration_ms": 182407,
+      "name": "The Delicate Nature",
+      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -484,29 +484,29 @@
           "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
     },
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "The Delicate Nature",
-        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
+        "name": "Force 10 From Navarone",
+        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
       },
       "artists": [
         {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
         },
         {
-          "name": "Laurie Vincent",
-          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
+          "name": "Florence Shaw",
+          "url": "https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84"
         }
       ],
-      "duration_ms": 182407,
-      "name": "The Delicate Nature",
-      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
+      "duration_ms": 204895,
+      "name": "Force 10 From Navarone",
+      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
+    },
+    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Sick Day",
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
       },
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/14z5OMX99l2AO8ydNmIcdp"
-      },
-      "artists": [
-        {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
-        }
-      ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/4WZqRGx9Wer0kkqxOBpYLU"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
@@ -963,22 +983,6 @@
       "duration_ms": 160185,
       "name": "At The Core",
       "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1015,26 +1019,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2023-03-27 20:30:32",
@@ -1063,6 +1063,22 @@
       "duration_ms": 147764,
       "name": "DBSAC",
       "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Hiccup",
+        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 105874,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Hiccup",
-        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 105874,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Choose Your Fighter",
         "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "MANIC MAN",
+        "url": "https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "MANIC MAN",
+      "url": "https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "TNSW",
         "url": "https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb"
       },
@@ -1223,6 +1239,22 @@
       "duration_ms": 230857,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "How Does It Feel?",
+        "url": "https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 95220,
+      "name": "How Does It Feel?",
+      "url": "https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1255,22 +1287,6 @@
       "duration_ms": 140543,
       "name": "Eight Fivers",
       "url": "https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "How Does It Feel?",
-        "url": "https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 95220,
-      "name": "How Does It Feel?",
-      "url": "https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 239349,
       "name": "Ain\u2019t No Thief",
       "url": "https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "me vs me vs all of y'all",
-        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "me vs me vs all of y'all",
-      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
     }
   ],
   "unique_name": "The Punk List",

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Chang Kiha\(장기하\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Daddy O Radio \(데디오레디오\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,701 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,778 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Do](https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Do / Do or Don't](https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6) | 3:41 |
+| 1 | [TATTOO](https://open.spotify.com/track/2qDm3urhZhuBDZanIPFLuF) | [Daddy O Radio](https://open.spotify.com/artist/2CnlaPaWAPrHEu4TbR0pz9) | [GREEN TATTOO](https://open.spotify.com/album/0wsqgKLZxPY2pDvv1ii1Tp) | 3:12 |
 | 2 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 3 | [Run](https://open.spotify.com/track/4SQw5cHoDxfoSTtaXgaG86) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Run](https://open.spotify.com/album/7McA98esvLlvWfNOnCmfqd) | 3:52 |
 | 4 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 |
 | 50 | [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 |
 
-Snapshot ID: `MTY4MDc1NDI5MywwMDAwMDAwMGFkNWVkYWE1ZTljYTRlNjQ2OWYzYmQwODg3MTE0Nzdl`
+Snapshot ID: `MTY4MTQ2ODkyOSwwMDAwMDAwMGQ0NTA0N2ExODk5YmZjYTIzODdkOThkOGI2ZDgxZThi`

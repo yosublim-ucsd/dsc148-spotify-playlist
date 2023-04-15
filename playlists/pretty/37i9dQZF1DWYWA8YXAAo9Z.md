@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,394 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,429 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

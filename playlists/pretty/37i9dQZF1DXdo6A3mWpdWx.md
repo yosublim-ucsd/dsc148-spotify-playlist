@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,272 likes - 150 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,480 likes - 150 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 94 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
 | 95 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
 | 96 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
-| 97 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 |
-| 98 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
-| 99 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
+| 97 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
+| 98 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 |
+| 99 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
 | 100 | [Good Vibrations](https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9) | [Marky Mark And The Funky Bunch](https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV), [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Music For The People](https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ) | 4:29 |
 | 101 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 102 | [We're Going To Ibiza!](https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:37 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 140 | [Mustang Sally](https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe) | [The Commitments](https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX), [Andrew Strong](https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te) | [The Commitments](https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0) | 4:01 |
 | 141 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 142 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 |
-| 143 | [Everybody](https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Greatest Hits](https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO) | 3:49 |
-| 144 | [Freestyler](https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw) | [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [In Stereo](https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI) | 5:06 |
+| 143 | [Freestyler](https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw) | [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [In Stereo](https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI) | 5:06 |
+| 144 | [Everybody](https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Greatest Hits](https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO) | 3:49 |
 | 145 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
 | 146 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
 | 147 | [Two Can Play That Game \- Radio Edit](https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE), [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Two Can Play That Game](https://open.spotify.com/album/1K62bZaGNA1eNoR2pNu585) | 3:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 149 | [Free](https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Situation:Critical](https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ) | 5:53 |
 | 150 | [In The Summertime](https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 3:58 |
 
-Snapshot ID: `MTY3Nzc2MDQ0NiwwMDAwMDAwMDc5ODZiMDNlNDM2ZmZmYTcxMjhlNmM3M2ExZDM3NTJj`
+Snapshot ID: `MTY3Nzc2MDQ0NiwwMDAwMDAwMDc1YTIwMGMxNjY1MTFhMzc5ODVlMjk2NWRkMTlmNDdm`

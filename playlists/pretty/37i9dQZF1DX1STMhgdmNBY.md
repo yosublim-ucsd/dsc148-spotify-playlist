@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,693 likes - 70 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,920 likes - 70 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 27 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
 | 28 | [Get Back To The Land](https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W) | 4:26 |
 | 29 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 |
-| 30 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 |
-| 31 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
+| 30 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
+| 31 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 |
 | 32 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 |
 | 33 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 |
 | 34 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 61 | [Dr\. Feelgood \(Love Is Serious Business\)](https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:18 |
 | 62 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 | 63 | [I Got a Mind to Give up Living](https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 4:58 |
-| 64 | [Violet Nights](https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Paradise](https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son) | 4:30 |
-| 65 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
-| 66 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |
+| 64 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |
+| 65 | [Violet Nights](https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Paradise](https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son) | 4:30 |
+| 66 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
 | 67 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 | 68 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
 | 69 | [Plenty Good Room](https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [Plenty Good Room](https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA) | 3:57 |
 | 70 | [Ain't It A Shame](https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 8:35 |
 
-Snapshot ID: `MTY4MTQwMTc0MywwMDAwMDAwMDU0MzU1ZTM0OTJmYjU2NmJhYTFiNjg0MGFkNTE4NGI4`
+Snapshot ID: `MTY4MTQwMTc0MywwMDAwMDAwMDdlNzMyY2M1MTk1OTU5ZWE2YmIxMzFjNjNkYzA1M2Q2`

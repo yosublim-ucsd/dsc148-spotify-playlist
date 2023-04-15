@@ -354,7 +354,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164040,
       "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 156200,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE"
@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "EL HECHIZO",
+        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167988,
+      "name": "EL HECHIZO",
+      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
       },
@@ -688,6 +710,46 @@
       "duration_ms": 129400,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
     },
     {
       "album": {
@@ -1077,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+    },
+    {
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1448,7 +1528,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
@@ -1484,7 +1564,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163866,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
@@ -1692,6 +1772,28 @@
       "duration_ms": 166640,
       "name": "Por Las Calles De M\u00e9xico",
       "url": "https://open.spotify.com/track/020y2GEMz7AdfCSKe3eDhb"
+    },
+    {
+      "album": {
+        "name": "Por las Noches (Remix)",
+        "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222551,
+      "name": "Por las Noches - Remix",
+      "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
     },
     {
       "album": {
@@ -2276,7 +2378,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186247,
       "name": "Yo Quiero Quebrarte",
       "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"

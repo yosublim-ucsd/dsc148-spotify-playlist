@@ -1,12 +1,12 @@
 {
   "description": "The right music can make a good tailgate great.",
-  "num_followers": 811295,
+  "num_followers": 811335,
   "original_name": "Tailgate Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMwMDY1NSwwMDAwMDAwMDZjMmZhMzcxOGVjYmVjNjAyNzMyYzczMTVmZTE1N2Ri",
+  "snapshot_id": "MTY3NTMwMDY1NSwwMDAwMDAwMDg4OWVkMGMzNDYxY2ZiZmJjNWM0YWFlN2UxN2I3ZDlk",
   "tracks": [
     {
       "added_at": "2023-02-02 01:17:35",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 203173,
       "name": "Knee Deep (feat. Jimmy Buffett)",
       "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 182960,
+      "name": "American Kids",
+      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 182960,
-      "name": "American Kids",
-      "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "GOOD TIME",
-      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "GOOD TIME",
+      "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
+        "name": "Teenage Dixie",
+        "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Teenage Dixie",
-        "url": "https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "Muscadine Bloodline",
-          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Me On You",
-      "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Beer Can\u2019t Fix",
-      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1271,6 +1251,26 @@
       "duration_ms": 166573,
       "name": "Hotel Key",
       "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
         "name": "Take A Back Road",
         "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
       },
@@ -1391,6 +1407,22 @@
       "duration_ms": 209426,
       "name": "Take A Back Road",
       "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Snapback",
+      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1411,22 +1443,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Snapback",
-      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "South On Ya",
-        "url": "https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 171864,
-      "name": "South On Ya",
-      "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -1611,38 +1595,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+        "name": "South On Ya",
+        "url": "https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Make It Sweet",
-      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "Out in the Middle",
-        "url": "https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "Out In The Middle",
-      "url": "https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp"
+      "duration_ms": 171864,
+      "name": "South On Ya",
+      "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1663,6 +1627,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Make It Sweet",
+      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -1675,6 +1655,22 @@
       "duration_ms": 196760,
       "name": "Here for the Party",
       "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
     }
   ],
   "unique_name": "Tailgate Party",

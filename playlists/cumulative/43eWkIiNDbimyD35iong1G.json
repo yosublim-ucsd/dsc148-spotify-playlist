@@ -2524,10 +2524,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "album": {
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
     },
     {
       "album": {

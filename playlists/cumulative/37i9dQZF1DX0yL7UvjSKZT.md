@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-263 songs - 16 hr 36 min
+266 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All the Mornings Have an Echo](https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [All the Mornings Have an Echo](https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG) | 2:55 | 2023-01-13 | 2023-03-25 |
 | [All the Stars \(Radio Edit\)](https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Shapeshifter](https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ) | 3:48 | 2022-10-07 |  |
 | [All the Way](https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All the Way](https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x) | 2:22 | 2022-02-04 |  |
+| [All the Way \(remix\)](https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C) | [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd), [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All The Way \(Remix\)](https://open.spotify.com/album/3QnFtoqpCQLFZUU8S0R9dF) | 2:25 | 2023-04-14 |  |
 | [And Then, And Then, And Then](https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Indoor Vistas](https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6) | 3:57 | 2022-03-04 | 2023-01-14 |
 | [Annie](https://open.spotify.com/track/3W1KJQqttLO6BzxFWJEyc9) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:53 | 2023-04-07 |  |
 | [At Last You Find](https://open.spotify.com/track/3a7aIpdjyj9LspRUTwZGY7) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [At Last You Find](https://open.spotify.com/album/0wIftCwwxAI0LXqqQimj6H) | 3:29 | 2023-03-03 |  |
@@ -210,6 +211,7 @@
 | [Swarm \(Live\)](https://open.spotify.com/track/1qCRXkjsYFCHbSclL7Q8DE) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers Live At the Good Music Club](https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2) | 2:54 | 2021-10-01 | 2023-04-09 |
 | [Take Me as I Am](https://open.spotify.com/track/3Q7MbMK0z9Sn7konorvnsZ) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Take Me as I Am](https://open.spotify.com/album/38RGAkwRVaC7B4NY1RRfNA) | 3:54 | 2023-01-20 |  |
 | [Tea Kettle Tea](https://open.spotify.com/track/7u0fkaLBo5ikZdWfQO04Ht) | [Ollella](https://open.spotify.com/artist/3YNR12AqEXI45S6sgRrZrI) | [Back Back Back](https://open.spotify.com/album/5dwRcOW8ImaOBfKVaKXH8e) | 4:30 | 2023-04-07 |  |
+| [Team Hoover](https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Team Hoover](https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT) | 5:41 | 2023-04-14 |  |
 | [Tell Me I'm Not Dreaming](https://open.spotify.com/track/5lLLan3sQ3MqvVifwOcBAN) | [The Bombadils](https://open.spotify.com/artist/493LaUkdvofHBb12qHUG60) | [Tell Me I'm Not Dreaming](https://open.spotify.com/album/5dELRNjEB4K7BDoSz3VwOP) | 4:22 | 2022-09-30 |  |
 | [Tennessee Dust](https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g) | [Henry Grace](https://open.spotify.com/artist/4QSOwlnim2Tb1hgrHakjyV) | [Alive In America](https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s) | 3:16 | 2022-01-14 |  |
 | [That Sh\*t Ain't Funny](https://open.spotify.com/track/2kocxF7L0u2j3ddQkvyC0H) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:12 | 2022-07-29 | 2022-10-08 |
@@ -227,6 +229,7 @@
 | [The Lonesome Season](https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI) | [Andrew Crawford](https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN) | [The Lonesome Season](https://open.spotify.com/album/5efbJOZ97cdkB8bsHiRftB) | 3:48 | 2021-12-03 | 2022-07-16 |
 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-10-01 |  |
 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 | 2021-10-01 |  |
+| [The Sea \- Alternative Version](https://open.spotify.com/track/6FftizetgbURg5ung5zcLP) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Sea \(Alternative Version\)](https://open.spotify.com/album/5m6kuUHx1i8V17bAz7cTTo) | 2:26 | 2023-04-14 |  |
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 | 2022-07-29 |
 | [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 | 2022-07-22 |  |
 | [The Unfinished Path](https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE) | [Jeff Picker](https://open.spotify.com/artist/3RrojqFzLBxlTfW6QQVtN1) | [The Unfinished Path](https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG) | 4:10 | 2022-10-07 |  |

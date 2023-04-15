@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 83130,
+  "num_followers": 83195,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDAwM2Q0ODc0MWU1MDNhMWVlY2EyZGNmYTk3YmVmYjFl",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGViZjhkMDhiNzJkNWRlZmI5M2VkN2Q0YjdlMjZmOTQ3",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -435,6 +435,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Fiel",
+        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 278891,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Eres Merecedor",
         "url": "https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 221393,
       "name": "Eres Merecedor",
       "url": "https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Fiel",
-        "url": "https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 278891,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -607,6 +607,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 214785,
+      "name": "No Puedo Ni Quiero",
+      "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Original Love",
         "url": "https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
       },
       "artists": [
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
         }
       ],
-      "duration_ms": 214785,
-      "name": "No Puedo Ni Quiero",
-      "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
+      "duration_ms": 190290,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -663,22 +679,6 @@
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3Lxyo5wFt4lYA5XzG4ye7V"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 190290,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1oKB6sCR5aeEip3I93EuEf"
     },
     {
       "added_at": "2020-11-24 13:23:55",

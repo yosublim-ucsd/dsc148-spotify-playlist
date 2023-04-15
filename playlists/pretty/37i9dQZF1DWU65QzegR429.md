@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Myke Towers by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,507 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,533 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 34 | [Klk El Dice](https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [Klk El Dice](https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG) | 2:46 |
 | 35 | [Come](https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Come](https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1) | 2:56 |
 | 36 | [Anormales](https://open.spotify.com/track/6WDpZh5KVSshn7PWnhHlqY) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Anormales](https://open.spotify.com/album/2daADHTTdKChlNqaIQ9cMD) | 3:28 |
-| 37 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
-| 38 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 37 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 |
+| 38 | [NIÑXS ROTXS](https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:43 |
 | 39 | [Betty](https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Betty](https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve) | 2:53 |
 | 40 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 |
 | 41 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 58 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 |
 | 59 | [Peligroso](https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt) | [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Peligroso](https://open.spotify.com/album/6QIrGcDvMIooPaTOXLXk1Q) | 2:48 |
 
-Snapshot ID: `MTY4MDU0ODA4NCwwMDAwMDAwMGE4YzZjYWUwYmI5NmI3N2U4ZjU1ZmI4OWY1MDQ3YjE3`
+Snapshot ID: `MTY4MDU0ODA4NCwwMDAwMDAwMGViYWNlNmZlMTYzYmNlNTJmMmM1MjEwZDgzNGVhOWZk`

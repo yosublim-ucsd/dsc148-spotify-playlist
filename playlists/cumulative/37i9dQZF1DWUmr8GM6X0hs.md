@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-122 songs - 6 hr 31 min
+123 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,11 +70,12 @@
 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 | 2021-12-17 |  |
 | [La Carcel de Sing Sing](https://open.spotify.com/track/29Jg2oo2XRAM135DXG9fZp) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv) | 2:55 | 2021-12-17 | 2022-07-29 |
 | [La Cárcel de Sing Sing](https://open.spotify.com/track/0fsDvGD7qs2nvXswoZ4y5t) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:55 | 2021-12-17 | 2023-03-19 |
+| [La Cárcel de Sing Sing](https://open.spotify.com/track/6KW49Ii30jvjZV1BBsNspy) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Su Voz, Su Piano Y Más Éxitos](https://open.spotify.com/album/6U9q1lj6N3ObWC5TMZmGoa) | 2:55 | 2021-12-17 |  |
 | [La Cárcel de Sing Sing](https://open.spotify.com/track/5zOEaIEjObo2QM2sHg468m) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Éxitos Alci Acosta](https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa) | 2:55 | 2021-12-17 | 2023-04-13 |
 | [La Loca](https://open.spotify.com/track/2zPJCj2F9ZXyQ7ewMtDFBz) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:45 | 2021-12-17 |  |
 | [La Mentira](https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:05 | 2021-12-17 |  |
 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 | 2021-12-17 |  |
-| [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 | 2021-12-17 |  |
+| [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 | 2021-12-17 | 2023-04-15 |
 | [Lo Que Quiere Lola](https://open.spotify.com/track/739luVVt9Z2mcC1WmQkLZJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [18 Éxitos para Recordar](https://open.spotify.com/album/60Y8JTUhpsmfoXfFOMPgwY) | 2:45 | 2021-12-17 | 2022-05-02 |
 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 | 2021-12-17 |  |
 | [Los Aretes De La Luna](https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Vicentico Valdés Con La Sonora Matancera](https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS) | 2:25 | 2021-12-17 |  |

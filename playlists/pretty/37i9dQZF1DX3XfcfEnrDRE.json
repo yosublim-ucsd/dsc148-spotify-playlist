@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 226271,
+  "num_followers": 226342,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDEyZGYwMjlhZTEyZGZiNGZmMDMzYTA3YTZhYTc5YWJk",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMGE4ODc5MzhmYzIyZWNlOGRjMTYwMmRhNDY1NjA5MzY0",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -475,38 +491,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
       "artists": [
         {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Kyrie Eleison (It's Mercy We Need)",
-        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 261239,
-      "name": "Kyrie Eleison (It's Mercy We Need)",
-      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -531,6 +527,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Kyrie Eleison (It's Mercy We Need)",
+        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 261239,
+      "name": "Kyrie Eleison (It's Mercy We Need)",
+      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 100240,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Miracle of the Mind",
-        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 269202,
-      "name": "Miracle of the Mind",
-      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 211880,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Miracle of the Mind",
+        "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 269202,
+      "name": "Miracle of the Mind",
+      "url": "https://open.spotify.com/track/3a4y3iLTZAC0XRsfbLvnvw"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Greta Van Fleet",
+  "description": "The hardest songs, loud. Very loud. Cover: Sevendust",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 274468,
       "name": "#1 Crush",
       "url": "https://open.spotify.com/track/42dRv0nXStNsBQzOz89X05"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 213000,
       "name": "100 Little Deaths",
       "url": "https://open.spotify.com/track/1iK6objrHYqNj6TjFhbEKJ"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 266427,
       "name": "A Thousand Shades (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189176,
       "name": "A$$A$$IN",
       "url": "https://open.spotify.com/track/3sA3QDurusOs0paKSUZ4I6"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 114183,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/6oudjrcW0NjYCX71cMJy2c"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 142737,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192553,
       "name": "Complete Collapse",
       "url": "https://open.spotify.com/track/7wdOqBy3UVKeQ1wPkHkAO1"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 224703,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 160892,
       "name": "Down",
       "url": "https://open.spotify.com/track/1lDsE2bhg4iR7TAFYkBO74"
@@ -4289,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "Fence",
+        "url": "https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217856,
+      "name": "Fence",
+      "url": "https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj"
+    },
+    {
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/69QGJEAqtvEQ9hjwCCaPQk"
       },
@@ -4444,7 +4462,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189928,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
@@ -4891,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175205,
+      "name": "God/Devil",
+      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -5165,6 +5201,46 @@
     },
     {
       "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/4M2Rn0RNZscWLdKplyfypf"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/7aCv75B0ySvqGBVkfBuT6G"
+    },
+    {
+      "album": {
+        "name": "Hanging On (feat. Lauren Babic)",
+        "url": "https://open.spotify.com/album/1DSIJHXj6YTahFhO0ojYAz"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243739,
+      "name": "Hanging On (feat. Lauren Babic)",
+      "url": "https://open.spotify.com/track/3jjJA2zdyg1lIaSaN3PzH9"
+    },
+    {
+      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
       },
@@ -5270,6 +5346,24 @@
       "duration_ms": 210748,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd"
+    },
+    {
+      "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
       "album": {
@@ -6107,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
+    },
+    {
+      "album": {
         "name": "Judged",
         "url": "https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG"
       },
@@ -6242,7 +6354,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 105656,
       "name": "Keep Your Mouth Shut",
       "url": "https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj"
@@ -8343,6 +8455,24 @@
     },
     {
       "album": {
+        "name": "The Streets Heard It First",
+        "url": "https://open.spotify.com/album/2a2wvdfYKY8AWLL1RgevKI"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132341,
+      "name": "Out Of The Picture",
+      "url": "https://open.spotify.com/track/5FMNruOhLrl7qMlmSZw96U"
+    },
+    {
+      "album": {
         "name": "Quarantine Collaborations",
         "url": "https://open.spotify.com/album/0C2DCVriqRYCWhancrKQBv"
       },
@@ -8398,7 +8528,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218936,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv"
@@ -8506,7 +8636,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197374,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
@@ -8550,7 +8680,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 170576,
       "name": "PASSENGER SEAT",
       "url": "https://open.spotify.com/track/6rNDCD1AW2dchYknbN3dSL"
@@ -8788,7 +8918,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 233000,
       "name": "Pigs",
       "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
@@ -10568,7 +10698,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199809,
       "name": "Spillways [Feat. Joe Elliott]",
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
@@ -11382,6 +11512,24 @@
       "duration_ms": 184180,
       "name": "The Credits",
       "url": "https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/2x73F3tjGb16GlzrwwxuES"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "THE CURSED ONE",
+      "url": "https://open.spotify.com/track/6NHVEjxxdZzEHXsgoLeOJ4"
     },
     {
       "album": {
@@ -12354,7 +12502,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163637,
       "name": "Ugly (feat. Kelsy Karter & The Heroines)",
       "url": "https://open.spotify.com/track/1rQ3Wf7BG0mRUGSUE0AAEi"
@@ -12929,6 +13077,24 @@
     },
     {
       "album": {
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218722,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/39DDW0Qi6teTpYpu5yUJqP"
+    },
+    {
+      "album": {
         "name": "Watch Me Burn",
         "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
       },
@@ -12940,7 +13106,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218722,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"

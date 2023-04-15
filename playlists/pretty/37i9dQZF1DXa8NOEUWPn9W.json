@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring HUGEL.",
-  "num_followers": 1795722,
+  "num_followers": 1796126,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDNlZTY4ZTE0ZTg5MGQ0ZjUwNjJiMWMxNzdmMTk4MDlj",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDMyYzc2NzdkNmRiZTNhNGY3YTVmYTQ3MWU5YWUxZDQy",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -251,8 +251,8 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "The Reset",
-        "url": "https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG"
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
         }
       ],
-      "duration_ms": 191053,
+      "duration_ms": 192150,
       "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "It's A Killa",
-        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 200028,
-      "name": "It's A Killa",
-      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Tina",
         "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "It's A Killa",
+        "url": "https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "It's A Killa",
+      "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Sete",
         "url": "https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 209760,
       "name": "Sete",
       "url": "https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
-      },
-      "artists": [
-        {
-          "name": "Seamus D",
-          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
-        }
-      ],
-      "duration_ms": 180719,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 366141,
       "name": "Da Fonk (feat. Joni)",
       "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+      },
+      "artists": [
+        {
+          "name": "Seamus D",
+          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+        }
+      ],
+      "duration_ms": 180719,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "A Drug From God",
-        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "NPC",
-          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
-        }
-      ],
-      "duration_ms": 192455,
-      "name": "A Drug From God",
-      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -1783,18 +1763,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+        "name": "A Drug From God",
+        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
       },
       "artists": [
         {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
         }
       ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
+      "duration_ms": 192455,
+      "name": "A Drug From God",
+      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1811,6 +1795,22 @@
       "duration_ms": 190512,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     },
     {
       "added_at": "2023-04-07 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Acoustic and roots music gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,241 likes - 160 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,243 likes - 160 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Hung the Moon](https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hung the Moon](https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI) | 3:10 |
 | 160 | [B61](https://open.spotify.com/track/6KbnuJlqf7xp0QUClw8ben) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:41 |
 
-Snapshot ID: `MTY4MDYyNzY3MywwMDAwMDAwMGE2YjE2Nzc2NmZkODI1OTFkMTU0MzExYjUzYTk0YTE3`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDUxMDdiNGY2ZjhlMTgwYWRhNTUzMDJhZmFhMmFmOGRj`

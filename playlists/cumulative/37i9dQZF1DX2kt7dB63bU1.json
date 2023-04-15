@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 244216,
       "name": "Coercion",
       "url": "https://open.spotify.com/track/2U46iTmxu2rshhQZAJKsst"
@@ -6277,6 +6277,28 @@
     },
     {
       "album": {
+        "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355456,
+      "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR"
+    },
+    {
+      "album": {
         "name": "Let You Break My Heart Again",
         "url": "https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR"
       },
@@ -7427,6 +7449,28 @@
     },
     {
       "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/0NmrSzDbUAcBWQjizsqH1w"
+      },
+      "artists": [
+        {
+          "name": "Wayne Escoffery",
+          "url": "https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475400,
+      "name": "My Truth",
+      "url": "https://open.spotify.com/track/3SmunenWR60n0G9VpjDkLc"
+    },
+    {
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/29SORe1JXLAFFzr1QsqtwX"
       },
@@ -7566,7 +7610,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 206590,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
@@ -8053,6 +8097,28 @@
     },
     {
       "album": {
+        "name": "Pennies from Heaven",
+        "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330240,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
+    },
+    {
+      "album": {
         "name": "Higher (Deluxe Edition)",
         "url": "https://open.spotify.com/album/359Qzwh7VloTOQB0XIxtOi"
       },
@@ -8510,7 +8576,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 398453,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/1JYecLAEPKYDx3PLIuvFwk"
@@ -9680,7 +9746,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 224320,
       "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"

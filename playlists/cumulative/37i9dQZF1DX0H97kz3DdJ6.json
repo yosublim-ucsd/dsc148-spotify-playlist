@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Di\u00e1rio da Minha Melancolia",
+        "url": "https://open.spotify.com/album/1gIdig7eLsSRDQ0mCJaIX4"
+      },
+      "artists": [
+        {
+          "name": "Barreto",
+          "url": "https://open.spotify.com/artist/7swgSjUstSfWimeNHx0MvD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192278,
+      "name": "3 P\u00edlulas",
+      "url": "https://open.spotify.com/track/6BCCuMIEUk9OxQtVDpqyQm"
+    },
+    {
+      "album": {
         "name": "Nanasai",
         "url": "https://open.spotify.com/album/1HIL9L18JRVG4JGAg5CzcZ"
       },

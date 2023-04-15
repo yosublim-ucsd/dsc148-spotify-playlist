@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,068 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,100 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 11 | [カラフル](https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [カラフル](https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e) | 4:38 |
 | 12 | [BLACK TIGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 |
 | 13 | [ココロ、ハレ晴レ](https://open.spotify.com/track/1OVW6S9aU03kk9JMaAHqln) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:31 |
-| 14 | [Drift driving](https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:04 |
-| 15 | [LOVE&GAME](https://open.spotify.com/track/4B4oTvmtcumgNyXFz7ow79) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD), [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5), [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [LOVE&GAME](https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK) | 3:54 |
+| 14 | [LOVE&GAME](https://open.spotify.com/track/4B4oTvmtcumgNyXFz7ow79) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD), [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5), [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [LOVE&GAME](https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK) | 3:54 |
+| 15 | [Drift driving](https://open.spotify.com/track/4lQWRqb3I0jQOjIMLDf9Lg) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM), [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:04 |
 | 16 | [Labyrinth](https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Labyrinth](https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt) | 4:35 |
 | 17 | [TOMORROW EViDENCE](https://open.spotify.com/track/2UUiJkVl23mpjXMX3GMGFL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:26 |
 | 18 | [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 69 | [Sakura Message](https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Sakura Message](https://open.spotify.com/album/12Evu6rQOsj7Au5qNRXafw) | 5:28 |
 | 70 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 |
 
-Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMGU3NzIzZDQwZGRlOWIxZTMxNjA4OGM0ODQ5OGY0ZWM4`
+Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMGNlMGI1NmFjNzQ4ODFhYzE3ZDA1ZDk5YzM4ZGRkMGUx`

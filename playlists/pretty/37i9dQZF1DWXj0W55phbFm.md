@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,483 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,523 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 13 | [You Go To My Head](https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 5:52 |
 | 14 | [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 |
 | 15 | [Weather Bird](https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 2:44 |
-| 16 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 |
-| 17 | [All The Things You Are](https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 2:52 |
+| 16 | [All The Things You Are](https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 2:52 |
+| 17 | [Relaxin' with Nick](https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6) | 7:39 |
 | 18 | [September in the Rain](https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs), [Antonio Hart](https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA), [Stephen Scott](https://open.spotify.com/artist/06kLNOGaO1lOeaUAUnFByH), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Public Eye](https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5) | 7:30 |
 | 19 | [I Should Care](https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Introducing Nat Adderley](https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT) | 4:27 |
 | 20 | [Lady Bird](https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz) | [Fats Navarro](https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG), [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [Fats Navarro Memorial Album](https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Blowin up Breeze](https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu) | [Hot Lips Page](https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz) | [Hot Lips Page: Feelin' High & Happy](https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78) | 2:43 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MTY3OTU3MjU0NSwwMDAwMDAwMGNjN2QzMTE2NjI4MGNkMTgwZjQ2NTIxNDE5ODk3OTZm`
+Snapshot ID: `MTY4MTQ1NDgxNiwwMDAwMDAwMDQzNDUyYWEwN2Y1OTNiNDE2MTk1N2FlNGZlODllNWU4`

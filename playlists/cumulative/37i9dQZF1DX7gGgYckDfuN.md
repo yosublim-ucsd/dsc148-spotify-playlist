@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-56 songs - 5 hr 46 min
+57 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [JoJo Sonochino Kioku\~end of THE WORLD\~](https://open.spotify.com/track/6x5R5nYhMCwfIJILBi25Ss) | [JO☆STARS 〜TOMMY,Coda,JIN〜](https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk) | [JoJo Sonochino Kioku\~end of THE WORLD\~](https://open.spotify.com/album/2w1cFFSElKsA6VVqxbh6aO) | 4:23 | 2021-12-09 |  |
 | [Koukatsuna Nezumi](https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Nightwalk\~](https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC) | 3:15 | 2021-12-09 |  |
 | [Kouketsunaru Kyoukou](https://open.spotify.com/track/0nA51z4UszHDnVihedcPFQ) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Departure\]](https://open.spotify.com/album/0eF8omWNFE3HQEcKoZZhDC) | 2:54 | 2021-12-09 |  |
-| [Last Train Home](https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n) | 5:38 | 2021-12-09 |  |
+| [Last Train Home](https://open.spotify.com/track/0Rr5Lw09CzqcchhsH0Pmhs) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/2hLXa5j81nsOy8KmqM1sSx) | 5:38 | 2023-04-07 |  |
+| [Last Train Home](https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Still Life \(Talking\)](https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n) | 5:38 | 2021-12-09 | 2023-04-15 |
 | [Miraiheno Isan \-Jonathan's Ballad\-](https://open.spotify.com/track/7zwA5jezcEzenC1UorhZQy) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [JOJO'S BIZARRE ADVENTURE \-The anthology songs 1](https://open.spotify.com/album/48MMqSMizzqodUM71W2Dux) | 6:44 | 2021-12-09 |  |
 | [Modern Crusaders](https://open.spotify.com/track/65fqcmj2M1EiERwDoIflDt) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:50 | 2021-12-09 |  |
 | [Roundabout](https://open.spotify.com/track/6KIFja6dizWkI7IpY0vmr8) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Ultimate Yes: 35th Anniversary Collection](https://open.spotify.com/album/37GBIGYhZlXUZA0NZ4ifHl) | 8:32 | 2021-12-09 |  |

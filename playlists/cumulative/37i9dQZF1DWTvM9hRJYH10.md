@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Karley Scott Collins
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Leah Marie Mason
 
-261 songs - 13 hr 47 min
+262 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Hold My Hand](https://open.spotify.com/track/62MunltjvuU5mItRLL71pR) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Hold My Hand](https://open.spotify.com/album/0tzhIlyqB0awQxSH5v0IGy) | 2:34 | 2021-12-31 | 2022-01-22 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-31 |  |
 | [Hometown Highway](https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Hometown Highway](https://open.spotify.com/album/464qbeF75hopqROBcbpOIR) | 3:53 | 2022-05-06 | 2022-06-01 |
+| [Honeydew & Hennessy](https://open.spotify.com/track/1zOn6DATC1kL7cfPz7JiuP) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Honeydew & Hennessy](https://open.spotify.com/album/49s6EwjZHmGY7e5I8kTyj6) | 3:59 | 2023-04-14 |  |
 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 | 2023-01-06 |  |
 | [How Do We Go](https://open.spotify.com/track/3ojKXnza6KIPy2VqvF0ttr) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do We Go](https://open.spotify.com/album/5S1UrS5lAVcZZGi2zKNLUm) | 3:28 | 2021-12-31 |  |
 | [How Many Hangovers](https://open.spotify.com/track/7gSrde7a8HByZovujKZGfi) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [How Many Hangovers](https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk) | 2:45 | 2021-12-31 | 2023-01-14 |

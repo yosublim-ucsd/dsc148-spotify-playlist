@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-299 songs - 18 hr 17 min
+300 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,9 +127,10 @@
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 |  |
 | [I'll Never Love](https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 2:45 | 2022-07-08 |  |
 | [I'll Never Love](https://open.spotify.com/track/6ydqp7i7L6rYbw1TbvzKcH) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/71kreixSBb0aUsk2gx0lcA) | 2:45 | 2021-10-26 | 2022-07-29 |
+| [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2023-04-14 |  |
 | [I'm In Love with You](https://open.spotify.com/track/6CAJfBlMsYUtkI7fBAXE6Y) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [I'm In Love with You](https://open.spotify.com/album/0gx5amjwn5sJXZNOZJ0Agm) | 3:47 | 2022-01-27 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2021-10-26 |  |
-| [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 | 2022-07-08 |  |
+| [If the Creek Don't Rise](https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1) | 3:24 | 2022-07-08 | 2023-04-15 |
 | [If The Creek Don’t Rise](https://open.spotify.com/track/7h6Oh66oR8J20m9yQeewvv) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/5qfvn5bKvuUUcfUScmVSEz) | 3:24 | 2021-10-26 | 2022-07-29 |
 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 | 2021-10-26 |  |
 | [Joshua](https://open.spotify.com/track/1JIJohWX0twBQoxgliDsTS) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Joshua](https://open.spotify.com/album/5IrqNXGVxct1p0ZacZ9GWx) | 3:31 | 2021-10-26 | 2022-07-29 |

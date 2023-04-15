@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,314 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,444 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 62 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 |
 | 63 | [Over](https://open.spotify.com/track/5cIhCgoaVhYLWi7Lwm3uhA) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Over](https://open.spotify.com/album/4oat7EzdqhUxGRKcQpulN3) | 3:57 |
 | 64 | [Daga Da](https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [We'll Be Alright EP](https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61) | 3:48 |
-| 65 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 |
-| 66 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 |
+| 65 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 |
+| 66 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 |
 | 67 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 |
 | 68 | [Moments](https://open.spotify.com/track/6fdr24Ns8PoBQ8wGwuupRr) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Moments](https://open.spotify.com/album/2Qkuca2YzJW0cSPiGrPXmR) | 3:47 |
 | 69 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 |
 | 70 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 |
 | 71 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 72 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG) | 2:57 |
-| 73 | [Figure It Out](https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Anna Rickards](https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz) | [Figure It Out](https://open.spotify.com/album/1GbLtUextuxcVZbondHylL) | 4:59 |
+| 73 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
 | 74 | [SWAZZ](https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O) | [The Manor](https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ) | [SWAZZ](https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ) | 3:32 |
-| 75 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
+| 75 | [Figure It Out](https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Anna Rickards](https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz) | [Figure It Out](https://open.spotify.com/album/1GbLtUextuxcVZbondHylL) | 4:59 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGZiZTZiMTVhOGJlZjgzODllOWU3NzEzOGJlMzNlMTkx`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDA2YjBlYzUyZDBhNzBiMzk0OGI3ZjQxZTViMmQ2ZjI3`

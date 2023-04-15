@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 332546,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
@@ -1424,6 +1424,28 @@
       "duration_ms": 218666,
       "name": "Ultra-Funk",
       "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
+    },
+    {
+      "album": {
+        "name": "Un Espejismo",
+        "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Un Espejismo",
+      "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
     },
     {
       "album": {

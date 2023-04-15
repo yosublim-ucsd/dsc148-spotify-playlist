@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,341 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,602 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 94 | [Good Beer](https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What I Get for Loving You](https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q) | 2:54 |
 | 95 | [You Got The Wrong Guy](https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [You Got The Wrong Guy](https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B) | 3:00 |
 | 96 | [She's with Me](https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:00 |
-| 97 | [Somebody's Daughter](https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:46 |
-| 98 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 |
-| 99 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
-| 100 | [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 |
+| 97 | [Bar Stool](https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Bar Stool](https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0) | 3:18 |
+| 98 | [Somebody's Daughter](https://open.spotify.com/track/212JC1fIZDB2Wp5B16eZON) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Lemonade Stand](https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI) | 3:46 |
+| 99 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 |
+| 100 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
 
-Snapshot ID: `MTY4MDUzNDQxMCwwMDAwMDAwMDdlMWY2NzQwOGZkZjEzNTY5Zjk5YTY3NDFiNDk3MjQ5`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGRiZjliNDE5OTA1MzQ1MzE2NjhiNzUxMjEyZGM1OTQx`

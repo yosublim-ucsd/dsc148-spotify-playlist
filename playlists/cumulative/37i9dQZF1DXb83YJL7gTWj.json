@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "With Love From",
+        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248120,
+      "name": "Blue Dress",
+      "url": "https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv"
+    },
+    {
+      "album": {
         "name": "Boxes",
         "url": "https://open.spotify.com/album/322ibWsVZQuqlXPtyMWOZM"
       },
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191919,
       "name": "So Good - Stripped",
       "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"

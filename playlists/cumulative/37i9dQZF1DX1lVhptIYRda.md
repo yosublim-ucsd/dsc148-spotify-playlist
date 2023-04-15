@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Ian Munsick
+> Today's top country hits of the week, worldwide! Cover: Chris Young
 
-622 songs - 1 day 9 hr 30 min
+625 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 | 2020-04-12 | 2020-04-25 |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-09-11 | 2022-04-09 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-20 | 2023-01-28 |
-| [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-17 |  |
+| [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-17 | 2023-04-15 |
 | [7 Summers](https://open.spotify.com/track/0Z0kNthq0sS4lvGz9SSlBF) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [7 Summers](https://open.spotify.com/album/35zHXkjCkrJFy7x2C2zUvn) | 3:30 | 2020-08-15 | 2021-02-03 |
 | [7500 OBO](https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:41 | 2021-11-13 | 2022-04-23 |
 | [A Song to Remember](https://open.spotify.com/track/62Ovt2av0MlBvorjVeINQP) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [A Song to Remember](https://open.spotify.com/album/4KGKWE4V71HwOH7hCfuR79) | 3:11 | 2020-09-05 | 2020-12-12 |
@@ -160,6 +160,7 @@
 | [Famous](https://open.spotify.com/track/6HBhMdKR4HRfQ3fuGUFbzE) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Famous](https://open.spotify.com/album/5lFCULlNTvKxZ7wBaU0wcP) | 3:06 | 2019-05-26\* | 2019-10-26 |
 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 | 2020-11-22 | 2021-07-17 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-04 | 2022-01-22 |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-14 |  |
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2022-11-18 |  |
 | [Fight \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7A6UIxi15awyiEbYbMF06V) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Fight \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/1gaAEfy9L4TIl3lrIVGe5h) | 3:17 | 2019-12-14 | 2020-02-01 |
 | [Fill Them Boots](https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Fill Them Boots](https://open.spotify.com/album/1rhBNy4oRZFuh5CVME8snu) | 2:42 | 2021-04-30 | 2021-09-11 |
@@ -228,7 +229,7 @@
 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2022-11-25 | 2023-04-09 |
 | [Hate You Like I Love You](https://open.spotify.com/track/7fv8w55N7T95xtX72TycwQ) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things](https://open.spotify.com/album/66cQh6B5mTvqYUGXgbH18w) | 2:53 | 2020-10-06 | 2020-12-06 |
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-22 | 2019-11-09 |
-| [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 | 2022-06-10 |  |
+| [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 | 2022-06-10 | 2023-04-15 |
 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 | 2021-04-24 | 2022-02-12 |
 | [Heart Shut \(feat\. Tenille Townes\)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 | 2021-03-31 | 2021-07-31 |
 | [Heart's In Your Head](https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Heart's In Your Head](https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf) | 3:07 | 2021-05-15 | 2021-09-25 |
@@ -486,7 +487,7 @@
 | [Somebody’s Problem](https://open.spotify.com/track/0SErdEdRcVX1uJCf1eTGYH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Somebody’s Problem](https://open.spotify.com/album/7L75Zpj3pTQf3s3CDOnrwr) | 2:41 | 2020-11-21 | 2021-02-03 |
 | [Someone I Used To Know](https://open.spotify.com/track/1SVqPKwkGssw1ao0Jqmx2b) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Someone I Used To Know](https://open.spotify.com/album/3T6cDvU5DWb72tRBxubVpc) | 3:29 | 2019-05-26\* | 2019-08-13 |
 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2023-01-27 |  |
-| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-06 |  |
+| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-06 | 2023-04-15 |
 | [Something You Ain't Ever Had](https://open.spotify.com/track/24QBf1y8rRcyBgKjoUlIdn) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Something You Ain't Ever Had](https://open.spotify.com/album/0BKbJOM5hFdPAZ5LmIlPIs) | 3:08 | 2020-07-12 | 2020-11-22 |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2022-06-03 | 2023-01-06 |
 | [Song About You](https://open.spotify.com/track/5gRsliQqZLc4tv688SE3wB) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Song About You](https://open.spotify.com/album/7nPEosiQlcRRIPmnpuRG7A) | 3:00 | 2020-06-14 | 2020-11-22 |
@@ -573,6 +574,7 @@
 | [Want That Back](https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Want That Back](https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2) | 3:13 | 2022-01-14 | 2022-03-26 |
 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-03-11 | 2022-06-26 |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-11-18 |  |
+| [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2023-04-14 |  |
 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 | 2021-04-10 | 2021-09-18 |
 | [Way Down Yonder](https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Way Down Yonder](https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL) | 3:38 | 2023-01-13 | 2023-03-25 |
 | [We Back](https://open.spotify.com/track/4w8UZeD3yRv64dLiGQUbar) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [From the album '9'](https://open.spotify.com/album/6CraWS8hhQSbEwKi2NZdkD) | 3:17 | 2019-09-29 | 2020-03-28 |
@@ -617,6 +619,7 @@
 | [Worldwide Beautiful](https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worldwide Beautiful](https://open.spotify.com/album/30mVH408jo6oYaMduiwX66) | 3:28 | 2020-06-05 | 2020-07-19 |
 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 | 2020-08-30 | 2021-02-20 |
 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 | 2022-08-05 | 2023-03-04 |
+| [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 | 2023-04-14 |  |
 | [Wrecked](https://open.spotify.com/track/06eu1Ntmqj1XQT7kspc0mN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/63WJUkOUzblbgJ5AK5eb27) | 2:48 | 2022-02-04 | 2022-04-29 |
 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2023-02-10 |  |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-05-27 | 2023-01-21 |

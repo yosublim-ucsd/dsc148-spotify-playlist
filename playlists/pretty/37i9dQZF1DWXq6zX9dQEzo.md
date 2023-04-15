@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,416 likes - 150 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,802 likes - 150 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 135 | [FRONT ROW](https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:15 |
 | 136 | [His Side](https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Donovan S Davis](https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG) | [His Side](https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM) | 2:48 |
 | 137 | [After](https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8), [Thomas Iannucci](https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm) | [After](https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v) | 2:38 |
-| 138 | [Hit On That Switch](https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [Hit On That Switch](https://open.spotify.com/album/1nMs1PpWOxZzMlNfdXx6WS) | 2:23 |
+| 138 | [Hit On That Switch](https://open.spotify.com/track/5LvtYS4qLebDl5kgv6m6SE) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [350](https://open.spotify.com/artist/5vMLy7gB9xJViLVo5HCmye) | [Hit On That Switch](https://open.spotify.com/album/1nMs1PpWOxZzMlNfdXx6WS) | 2:23 |
 | 139 | [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 |
 | 140 | [Fight for It](https://open.spotify.com/track/58lm2xr6l8ql6EXiDtm4JS) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Fight for It](https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM) | 2:33 |
 | 141 | [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 |

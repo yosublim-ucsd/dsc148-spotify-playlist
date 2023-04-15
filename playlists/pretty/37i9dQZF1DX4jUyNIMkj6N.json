@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 178276,
+  "num_followers": 178344,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDljNjY5ZTQ3MTMwMTM2ZTMxOWJhN2U3ZDI4MGI5NGU2",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGZkMDE2NzBjNTM2M2U3OTVmMzZhMGVkNTljZWZjYmI3",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 307172,
+      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 307172,
-      "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 225939,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Your Ghost",
         "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Hold On Dreamer",
-        "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f8kedal",
-          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
-        }
-      ],
-      "duration_ms": 230840,
-      "name": "The Man Who Isn't Here",
-      "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 227760,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Hold On Dreamer",
+        "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f8kedal",
+          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "The Man Who Isn't Here",
+      "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Early Summer Rain",
         "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Jonas Alaska",
         "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Poetry & Airplanes",
         "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "The Last Great Country Swindle",
-        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
-      },
-      "artists": [
-        {
-          "name": "Bendik Br\u00e6nne",
-          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
-        },
-        {
-          "name": "Daniel Romano",
-          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ain't Nobody Like Me",
-      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -975,18 +955,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Vinyl and a Heartache",
-        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
+        "name": "The Last Great Country Swindle",
+        "url": "https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Bendik Br\u00e6nne",
+          "url": "https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1"
+        },
+        {
+          "name": "Daniel Romano",
+          "url": "https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD"
         }
       ],
-      "duration_ms": 219413,
-      "name": "The Sweetest Tune",
-      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
+      "duration_ms": 203933,
+      "name": "Ain't Nobody Like Me",
+      "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1007,18 +991,34 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Gardening",
-        "url": "https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW"
+        "name": "Vinyl and a Heartache",
+        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
       },
       "artists": [
         {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 283226,
-      "name": "Gardening",
-      "url": "https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0"
+      "duration_ms": 219413,
+      "name": "The Sweetest Tune",
+      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Sumie",
+        "url": "https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "duration_ms": 195741,
+      "name": "Hunting Sky",
+      "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
     }
   ],
   "unique_name": "Nordic Folk",

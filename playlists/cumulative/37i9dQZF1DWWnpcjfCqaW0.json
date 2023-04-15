@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163426,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
@@ -2798,6 +2798,28 @@
       "duration_ms": 155760,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/1rb3elJQHycoTWIqh80rew"
+    },
+    {
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "You Win Again",
+      "url": "https://open.spotify.com/track/6ZMHH9XpOSv0p9vl51nLO2"
     },
     {
       "album": {

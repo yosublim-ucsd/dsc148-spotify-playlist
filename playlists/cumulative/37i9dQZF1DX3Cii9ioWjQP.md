@@ -2,7 +2,7 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: U\-jin\(유진\)\)
+> All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
 
 144 songs - 10 hr 27 min
 

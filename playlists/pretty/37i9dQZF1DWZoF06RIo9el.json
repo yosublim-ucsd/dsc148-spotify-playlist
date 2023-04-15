@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de abril 2023",
-  "num_followers": 1520093,
+  "num_followers": 1520217,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MjEwNywwMDAwMDAwMDM1ZjUzZmM3MDAwNjRjZGYzOTkxNGVjYjM3Mjk0OWY2",
+  "snapshot_id": "MTY4MTQ4OTM5MSwwMDAwMDAwMDJlYThlMjUwNzQxMzUzZjdjMTc3ODQzNTEwMzM4MjE2",
   "tracks": [
     {
       "added_at": "2023-04-06 14:40:41",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-04-06 14:40:41",
       "album": {
-        "name": "Una Noche Sin Pensar",
-        "url": "https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Una Noche Sin Pensar",
-      "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
-    },
-    {
-      "added_at": "2023-04-06 14:40:41",
-      "album": {
         "name": "LA HORA Y EL D\u00cdA",
         "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
       },
@@ -189,6 +173,26 @@
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
     },
     {
+      "added_at": "2023-04-14 16:23:11",
+      "album": {
+        "name": "EL HECHIZO",
+        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 167988,
+      "name": "EL HECHIZO",
+      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
       "added_at": "2023-04-06 14:40:41",
       "album": {
         "name": "La Bolsa Gucci",
@@ -216,7 +220,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -541,7 +545,7 @@
       "url": "https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs"
     },
     {
-      "added_at": "2023-04-14 00:20:14",
+      "added_at": "2023-04-06 14:41:47",
       "album": {
         "name": "Ricota",
         "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"

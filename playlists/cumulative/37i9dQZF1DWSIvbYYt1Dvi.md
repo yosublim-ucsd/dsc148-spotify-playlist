@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> haikaiss é AULAS
+> l7 é AULAS
 
-165 songs - 9 hr 39 min
+166 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Linda e Doida](https://open.spotify.com/track/2YyXU2abqxPVHOLwHh82hw) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Jogador Caro](https://open.spotify.com/album/0f4FxrXUKmE3fW1ZpHodQ4) | 3:07 | 2022-01-14 | 2022-04-16 |
 | [Linhas de Fogo](https://open.spotify.com/track/7rVlzobevLRio65jZum1qc) | [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2) | [Linhas de Fogo](https://open.spotify.com/album/6IWUjideWJcH9PsuTE8V9R) | 4:40 | 2022-12-16 | 2023-01-28 |
 | [Lobo Solitário](https://open.spotify.com/track/0qzdA4ZdKqoTP4BEVpJdRu) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Lobo Solitário](https://open.spotify.com/album/28EkZl3wLbxY2ZYygsiTyD) | 3:18 | 2022-02-24 | 2022-05-07 |
+| [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 | 2023-04-14 |  |
 | [Lágrimas](https://open.spotify.com/track/3PWfXDkLIqfbTdEyv812za) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 2:57 | 2022-01-28 | 2022-02-02 |
 | [MAGIA](https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJFILLSP](https://open.spotify.com/artist/4bNL7mdXdO73ABIkXvjDa7) | [MAGIA](https://open.spotify.com/album/7I20w4UQzGIzdWWfo6195p) | 3:16 | 2022-11-18 | 2023-01-17 |
 | [Mais Que Isso](https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Mais Que Isso](https://open.spotify.com/album/1K7HUVEUPfDuai2PY91Hfa) | 2:42 | 2022-01-14 | 2022-04-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance hits. Cover: David Guetta, Anne-Marie & Coi Leray",
+  "description": "The world's biggest dance hits. Cover: MEDUZA & Poppy Baskcomb",
   "name": "mint",
   "tracks": [
     {
@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "Beyond Us (Hatshepsut Version)",
+        "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234795,
+      "name": "Beyond Us - Hatshepsut Version",
+      "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
+    },
+    {
+      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -1790,7 +1812,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
@@ -2483,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+        "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
+      "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
+    },
+    {
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -3066,6 +3106,24 @@
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
+    },
+    {
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "album": {
@@ -4064,7 +4122,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
@@ -5598,7 +5656,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 286387,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/217r9ImwdrBFdq8adkD7rE"
@@ -6430,7 +6488,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 161801,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
@@ -7838,7 +7896,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 180533,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ"
@@ -8370,10 +8428,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+    },
+    {
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "album": {
@@ -8672,7 +8752,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
@@ -10499,6 +10579,36 @@
     },
     {
       "album": {
+        "name": "Tina",
+        "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "The Vic",
+          "url": "https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Tina",
+      "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
       },
@@ -10890,6 +11000,28 @@
       "duration_ms": 400624,
       "name": "Universal Consciousness",
       "url": "https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08"
+    },
+    {
+      "album": {
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
     },
     {
       "album": {
@@ -11700,7 +11832,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 150483,
       "name": "Work With My Love",
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"

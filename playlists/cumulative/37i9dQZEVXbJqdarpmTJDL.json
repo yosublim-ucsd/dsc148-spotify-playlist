@@ -4259,6 +4259,28 @@
     },
     {
       "album": {
+        "name": "Coffin",
+        "url": "https://open.spotify.com/album/4bbete3QJIolduYUHSlzNo"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Coffin",
+      "url": "https://open.spotify.com/track/04GvFWW27noWhbht2aPVDP"
+    },
+    {
+      "album": {
         "name": "Saskepticism Vol. 2",
         "url": "https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP"
       },
@@ -18506,7 +18528,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 325233,
       "name": "SARANTARIA",
       "url": "https://open.spotify.com/track/6V4a5dYuyuonpICcYJ3j8S"
@@ -20860,7 +20882,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 148677,
       "name": "Tn",
       "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
@@ -23076,7 +23098,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 165240,
       "name": "Ya Habibi",
       "url": "https://open.spotify.com/track/3KbsHO7QNkczE8Rz66y3ks"

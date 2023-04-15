@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,321 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,334 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 22 | [Thankful](https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:23 |
 | 23 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
 | 24 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
-| 25 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
-| 26 | [Give Thanks to God](https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 5:53 |
+| 25 | [Give Thanks to God](https://open.spotify.com/track/3nto4q3YUOCXwmCqTDCoCa) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [We Say Yes](https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg) | 5:53 |
+| 26 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 |
 | 27 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 28 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
 | 29 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 38 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
 | 39 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 40 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
-| 41 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
-| 42 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
+| 41 | [Give Thanks \- Medley](https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL) | [T.D\. Jakes](https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ) | [Woman; Thou Art Loosed!](https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL) | 3:41 |
+| 42 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
 | 43 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |
 | 44 | [Always So Good \- Live](https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Pour Your Spirit Out \(Live\)](https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs) | 5:53 |
 | 45 | [We Give You Thanks](https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 5:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MTY3NjcwMTY2OCwwMDAwMDAwMDVjY2Y4YjNjYjBhNmJkNWRjMTFiOTAyYTNjYzlhODAy`
+Snapshot ID: `MTY3NjcwMTY2OCwwMDAwMDAwMGUwZTBiODQ4MmNhNWE0NmQzYjkyNjE0Zjk3ZGZhNDgz`

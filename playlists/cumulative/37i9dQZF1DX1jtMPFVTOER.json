@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Dimcola Reprise",
+        "url": "https://open.spotify.com/album/17FjdgDKMBf8pdOlAsop07"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150593,
+      "name": "Dimcola Reprise",
+      "url": "https://open.spotify.com/track/0LZ644PkmA75gs9Hj4Re63"
+    },
+    {
+      "album": {
         "name": "dimples",
         "url": "https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS"
       },
@@ -2796,7 +2814,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 267522,
       "name": "Far From Here",
       "url": "https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9"
@@ -3945,6 +3963,36 @@
     },
     {
       "album": {
+        "name": "Insane (feat. Ant Clemons)",
+        "url": "https://open.spotify.com/album/5dBWQQ0cqVGcYZZWRYlaY2"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173431,
+      "name": "Insane (feat. Ant Clemons)",
+      "url": "https://open.spotify.com/track/0RGYP9RGSXfAGFjSrDyhIQ"
+    },
+    {
+      "album": {
         "name": "Inthecut",
         "url": "https://open.spotify.com/album/1TuFyUZMXMbqXOjgpBE94i"
       },
@@ -4562,7 +4610,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 114625,
       "name": "leslianne",
       "url": "https://open.spotify.com/track/4Po4QT2yUSoMakeWktz78r"
@@ -4602,6 +4650,24 @@
       "duration_ms": 188354,
       "name": "Let's Never Stop Growin' Up",
       "url": "https://open.spotify.com/track/5iC1NGvqmo3SieQnWHfcKc"
+    },
+    {
+      "album": {
+        "name": "LIGHTER FLUID",
+        "url": "https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133113,
+      "name": "LIGHTER FLUID",
+      "url": "https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR"
     },
     {
       "album": {
@@ -8252,7 +8318,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 220941,
       "name": "Torch",
       "url": "https://open.spotify.com/track/0kp0CNhNG6n1cUvaCMGyxK"
@@ -8344,6 +8410,32 @@
       "duration_ms": 235441,
       "name": "TRUMPETS",
       "url": "https://open.spotify.com/track/5YbxN1yCgcf0ZMqXY5JfW5"
+    },
+    {
+      "album": {
+        "name": "Uknowhut?",
+        "url": "https://open.spotify.com/album/75VwxVOIFP3ECDPj8BxQtX"
+      },
+      "artists": [
+        {
+          "name": "Stik Figa",
+          "url": "https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj"
+        },
+        {
+          "name": "The Expert",
+          "url": "https://open.spotify.com/artist/6Bz1kYQZJKvxEC9syJjsqS"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146842,
+      "name": "Uknowhut?",
+      "url": "https://open.spotify.com/track/6SuCQ2rCH0r91ji3eFXsnP"
     },
     {
       "album": {

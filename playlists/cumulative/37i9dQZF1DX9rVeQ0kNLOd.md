@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-162 songs - 9 hr 56 min
+163 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [いのり](https://open.spotify.com/track/5Ghfkd9z1Mq4CHY5wJCP77) | [yr](https://open.spotify.com/artist/3iyYNppMxdrMaND8VaXdxO) | [いのり](https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm) | 2:38 | 2022-10-20 | 2022-11-09 |
 | [きもち](https://open.spotify.com/track/5qTJ5H5Lzyr3x0ZYtnl1dr) | [カルロスまーちゃん](https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc), [FANCY](https://open.spotify.com/artist/4Oe4otAIIYhl48TwtKQ0l9) | [きもち](https://open.spotify.com/album/6uwVI771DDgLyb7EUiICjU) | 3:45 | 2022-12-22 | 2023-02-15 |
 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-03-14 | 2023-04-05 |
-| [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 | 2022-10-20 |  |
+| [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 | 2022-10-20 | 2023-04-15 |
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-10-20 | 2022-12-14 |
 | [こんにちは](https://open.spotify.com/track/4OYvYvyVtFyHWomlIulGhU) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Infinity Sunset](https://open.spotify.com/album/44TG59bpLSTuANLGSnhToH) | 2:52 | 2022-11-10 | 2022-11-13 |
 | [ずるいね](https://open.spotify.com/track/0btLLjOMp8mQ1q1NA18XpU) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [EP](https://open.spotify.com/album/1dHkwzvY4F4DXOznl8568M) | 3:49 | 2023-01-31 | 2023-03-08 |
@@ -162,6 +162,7 @@
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 | 2023-03-25 |
 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2023-03-25 |  |
 | [美談](https://open.spotify.com/track/4CjfEPZ9S0Rh8sZXqVL45Y) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 4:50 | 2023-03-14 | 2023-03-16 |
+| [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 | 2023-04-13 |  |
 | [花瓶](https://open.spotify.com/track/3sxcncyvcTJspkePuvs0k1) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [花瓶](https://open.spotify.com/album/5CcSSBfqlEaeQOX5SQpLbM) | 3:52 | 2023-01-17 | 2023-02-01 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-14 | 2023-03-29 |
 | [装置](https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [映帶する煙](https://open.spotify.com/album/6iTUUUkWUZYfr61Pz3gFGG) | 6:52 | 2023-01-17 | 2023-03-14 |

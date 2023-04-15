@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-170 songs - 9 hr 31 min
+171 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2022-03-04 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 | 2022-03-04 | 2022-12-11 |
 | [Arms of a Lion](https://open.spotify.com/track/0zvAcSS9nyruBqRHZsbUfJ) | [Heather Morgan](https://open.spotify.com/artist/2oASyTmErmgYx5ueawNzRX), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Borrowed Heart](https://open.spotify.com/album/3lpNC3vjXCes2WvGEmfoD3) | 4:00 | 2021-04-19 | 2022-04-29 |
+| [Bella Dawn](https://open.spotify.com/track/7IQvBiko7E0Z6ryACl7y3A) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:49 | 2023-04-14 |  |
 | [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 | 2021-11-19 |  |
 | [Breathe](https://open.spotify.com/track/16SKS0Na572RmGeajx7ker) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz) | 2:17 | 2021-11-19 | 2022-07-29 |
 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 | 2021-04-19 |  |
@@ -68,7 +69,7 @@
 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 | 2021-04-19 |  |
 | [Little Warble](https://open.spotify.com/track/1f7G1LfcxG3eTNqnSLT7Z5) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 3:56 | 2021-04-19 | 2022-04-29 |
 | [Looks Like Me \- Piano Acoustic](https://open.spotify.com/track/256ArsGaVttMIF56zoSzT9) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me \(Acoustic\)](https://open.spotify.com/album/47bsK3xszAvwlsfp0KubZS) | 3:05 | 2021-11-26 |  |
-| [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 | 2022-03-18 |  |
+| [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 | 2022-03-18 | 2023-04-15 |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-18 | 2022-07-29 |
 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 | 2022-09-23 |  |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 |  |

@@ -1,13 +1,33 @@
 {
   "description": "Ease into the day",
-  "num_followers": 502001,
+  "num_followers": 501989,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGQyMDBjMDVjYmI1YjA0ZDY0MzRlNmMwYzE5ZDU5MTdi",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDg4NjQ3OWZjMmIzYjIwNzNjYWE1NDE5ZWU0ZDFkY2Nk",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Stay (ft. Gary Clark Jr.)",
+        "url": "https://open.spotify.com/album/5ykzMuRih48Mm81Uf0kxRQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 231416,
+      "name": "Stay (ft. Gary Clark Jr.)",
+      "url": "https://open.spotify.com/track/33tVKYG73t7pCmafa3Yn9f"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {

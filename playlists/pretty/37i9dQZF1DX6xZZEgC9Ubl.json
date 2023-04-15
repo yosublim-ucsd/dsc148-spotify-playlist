@@ -1,15 +1,15 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1475574,
+  "num_followers": 1476272,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMGZkNzM5MjZmM2JkY2JiMDVjODU2YTY4MjA5NDQzOTQ1",
+  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMDAwMjI3ZTQxY2Y2OGJlYmU0ZDY4NzBiZjZiOTA1MGY4",
   "tracks": [
     {
-      "added_at": "2023-04-14 00:27:43",
+      "added_at": "2023-04-15 01:20:28",
       "album": {
         "name": "thishouseisnotahome",
         "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 151704,
       "name": "ALWAYS DO",
       "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -511,46 +511,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
-      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
-    },
-    {
-      "added_at": "2022-12-16 17:00:00",
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "fools (can't help falling in love) (feat. Sody)",
         "url": "https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc"
       },
@@ -571,6 +531,46 @@
       "duration_ms": 165029,
       "name": "fools (can't help falling in love) (feat. Sody)",
       "url": "https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom"
+    },
+    {
+      "added_at": "2022-12-16 17:00:00",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "runaway (OG Version)",
@@ -753,20 +769,20 @@
       "url": "https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "do it all",
-        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
         }
       ],
-      "duration_ms": 96000,
-      "name": "do it all",
-      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+      "duration_ms": 121949,
+      "name": "ALL GIRLS ARE THE SAME",
+      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -807,18 +823,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "ALL GIRLS ARE THE SAME",
-        "url": "https://open.spotify.com/album/4TAzpXkWYb1PqsACEXG8sI"
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
       },
       "artists": [
         {
-          "name": "R\u00d8NIN",
-          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
         }
       ],
-      "duration_ms": 121949,
-      "name": "ALL GIRLS ARE THE SAME",
-      "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
+      "duration_ms": 197217,
+      "name": "Psycho!",
+      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -837,22 +853,6 @@
       "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Psycho!",
-      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Midnight Thoughts",
@@ -867,22 +867,6 @@
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "switch up",
-        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 104173,
-      "name": "switch up",
-      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -903,6 +887,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -917,20 +917,20 @@
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
+      "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
+        "name": "switch up",
+        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
       },
       "artists": [
         {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
+      "duration_ms": 104173,
+      "name": "switch up",
+      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "LONEWOLF",
-        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
-      },
-      "artists": [
-        {
-          "name": "convolk",
-          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
-        }
-      ],
-      "duration_ms": 159149,
-      "name": "I fucked up",
-      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "WELCOME HOME",
         "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 160090,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
+      },
+      "artists": [
+        {
+          "name": "convolk",
+          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
+        }
+      ],
+      "duration_ms": 159149,
+      "name": "I fucked up",
+      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Belly of the Beast",
-        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
-      },
-      "artists": [
-        {
-          "name": "Brennan Savage",
-          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "thought it was",
         "url": "https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 172600,
       "name": "thought it was",
       "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Belly of the Beast",
+        "url": "https://open.spotify.com/album/4lQZm5u1bHraLoxV4MCQRZ"
+      },
+      "artists": [
+        {
+          "name": "Brennan Savage",
+          "url": "https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1591,6 +1591,22 @@
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 184900,
       "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1733,24 +1733,20 @@
       "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "YellowStone",
-        "url": "https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "Eddy Baker",
-          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
+          "name": "Yung Pinch",
+          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
         }
       ],
-      "duration_ms": 189309,
-      "name": "YellowStone",
-      "url": "https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F"
+      "duration_ms": 219866,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
     }
   ],
   "unique_name": "tear drop",

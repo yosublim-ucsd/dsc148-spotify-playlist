@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-159 songs - 9 hr 24 min
+160 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,9 @@
 | [Love Your Love The Most](https://open.spotify.com/track/1ejsHmXBdf1RMLAmDQdFdh) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 2:50 | 2022-05-23 |  |
 | [Love Your Love The Most](https://open.spotify.com/track/6HLciiLMPssno4lT4gbObT) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw) | 2:50 | 2021-09-17 | 2022-07-29 |
 | [Love Your Love The Most](https://open.spotify.com/track/7i0ELDcdKQWB7o4RKptGmY) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/47LPvdUaFxP5wjUgXo4N7N) | 2:50 | 2022-10-21 | 2022-11-14 |
-| [Made](https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:15 | 2023-02-17 |  |
+| [Made](https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:15 | 2023-02-17 | 2023-04-15 |
 | [Made](https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made](https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i) | 3:15 | 2021-11-05 | 2023-03-01 |
+| [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-09-17 |  |
 | [Makin' Plans](https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:50 | 2021-09-17 |  |
 | [Making Memories Of Us](https://open.spotify.com/track/4zwIZoWo9KKOAkFqHZqVzO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 4:11 | 2021-09-17 |  |

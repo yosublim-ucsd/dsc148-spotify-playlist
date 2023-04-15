@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,357,992 likes - 46 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,358,484 likes - 46 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 39 | [Wild Horses \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 3:22 |
 | 40 | [Raw Power](https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:11 |
 | 41 | [Shackler's Revenge](https://open.spotify.com/track/0S9eOzGwLHUwmjYvB5jG4x) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 3:36 |
-| 42 | [ABSUЯD](https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [ABSUЯD](https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV) | 3:23 |
+| 42 | [Nice Boys \- Live](https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:02 |
 | 43 | [Voodoo Child \(Slight Return\) / Civil War \- Live In New York, Ritz Theatre \- May 16, 1991](https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 8:49 |
-| 44 | [Nice Boys \- Live](https://open.spotify.com/track/6SUUNSpCeHB0jKEGfmOSYn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:02 |
-| 45 | [Sail Away Sweet Sister \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/0SssEf0vqdVTYLPjgC187j) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 1:48 |
-| 46 | [Move To The City \- Live](https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:34 |
+| 44 | [ABSUЯD](https://open.spotify.com/track/7q4Miqc5itaPtd20K2gH4N) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [ABSUЯD](https://open.spotify.com/album/0dMoESugZcGjrttbxxxqdV) | 3:23 |
+| 45 | [Move To The City \- Live](https://open.spotify.com/track/7n7YoJuPdy7NuEISVF1sJK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:34 |
+| 46 | [Sail Away Sweet Sister \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/0SssEf0vqdVTYLPjgC187j) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 1:48 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDBlNTZjNGQ0MjlhYjZmOTZmMjU0NDg0MGQ0YmVlMDUwNw==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAxOWRhMGU2NzkyODNjNDliNzdiY2M3MzQ0OTgxYTYyYw==`

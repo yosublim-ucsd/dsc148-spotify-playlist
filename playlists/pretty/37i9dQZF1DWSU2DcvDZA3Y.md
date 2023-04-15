@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU2DcvDZA3Y.md) - [plain]
 
 > Featuring Bad Gyal, Ryan Castro, Bizarrap & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU2DcvDZA3Y.md) - [plain]
 | 2 | [DEJAU'](https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:02 |
 | 3 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 |
 | 4 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
-| 5 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 |
+| 5 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 |
 | 6 | [Nadie Como Tu](https://open.spotify.com/track/3E2jVBZU7fjRNB0m3PrrhF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Wisin Y Yandel Presentan: Los Vaqueros](https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC) | 3:42 |
 | 7 | [Bichiyal](https://open.spotify.com/track/4j4w4CXm6BSr0s25wAWrrX) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:16 |
 | 8 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |

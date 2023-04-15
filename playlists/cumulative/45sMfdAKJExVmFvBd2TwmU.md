@@ -4,7 +4,7 @@
 
 > LOVE and SAD SONGS...🥺all time best hits ❤️‍🩹\(Hindi\)
 
-136 songs - 10 hr 33 min
+137 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bin Tere \- Reprise](https://open.spotify.com/track/7zG4akZAie70mOCMmtoacS) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 3:40 | 2022-05-10 |  |
 | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Bolna \(From "Kapoor & Sons \(Since 1921\)"\)](https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW) | 3:32 | 2021-07-28 |  |
 | [Chaahat](https://open.spotify.com/track/6cLdrOr82mTQdwaqT9fkou) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Blood Money \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5K0rFYotIyeCXpmNVzWpfn) | 4:22 | 2022-03-24 |  |
+| [Chaahe Jo Tumhe](https://open.spotify.com/track/3ebaoc3Cxprmk6OmtVfymQ) | [Prashant Katheriya](https://open.spotify.com/artist/1wmoF73GhlylxwAbn9YGYr) | [Chaahe Jo Tumhe](https://open.spotify.com/album/3XR6kTJOzgdKXHil3xY0QF) | 2:13 | 2023-04-14 |  |
 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 | 2021-10-19 |  |
 | [Channa Mereya \- Unplugged](https://open.spotify.com/track/0xHvmWCpz9Pnn1sDvRehAs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 2:45 | 2022-05-10 |  |
 | [Chaudhary](https://open.spotify.com/track/4QSF0d4ENvMXA03ARpMfaP) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Coke Studio @ MTV Season 2: Episode 3](https://open.spotify.com/album/6gkukpPq6e1QVHfeVk90wN) | 7:03 | 2022-05-23 |  |

@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Jonas Saalbach
 
-1,679 songs - 6 day 8 hr 50 min
+1,681 songs - 6 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -996,7 +996,8 @@
 | [Moran](https://open.spotify.com/track/4Blow0z79hRpmFSLd78jXI) | [Kadosh \(IL\)](https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Moran](https://open.spotify.com/album/34ZvcVmC0rCsCQQEpUsBSf) | 5:44 | 2022-08-18 | 2022-09-09 |
 | [MORE LOVE](https://open.spotify.com/track/3KJGNYQuE80AZ63x1QWlE7) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE LOVE](https://open.spotify.com/album/1gK6Yfs4kPhbHn1JvAGMfT) | 4:36 | 2022-04-14 | 2022-04-22 |
 | [More Than I Should Know](https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [More Than I Should Know](https://open.spotify.com/album/30Ij9GnFU4AMFau8Pb6efo) | 3:38 | 2023-03-02 | 2023-03-25 |
-| [Morgana](https://open.spotify.com/track/2IcbhI874Ve7BMXQayB4oN) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Zatar Spices](https://open.spotify.com/album/31KYuDHRTIXLgp09gRzjHw) | 6:53 | 2023-04-13 |  |
+| [Morgana](https://open.spotify.com/track/2IcbhI874Ve7BMXQayB4oN) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Zatar Spices](https://open.spotify.com/album/31KYuDHRTIXLgp09gRzjHw) | 6:53 | 2023-04-13 | 2023-04-15 |
+| [Morgana](https://open.spotify.com/track/3BklMXPxyaRr8mxNhpGcSJ) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Morgana](https://open.spotify.com/album/4mNplde0zjEfMQPJHVynkr) | 6:53 | 2023-04-14 |  |
 | [Morning Sky](https://open.spotify.com/track/3h3c5dCyMUuaC5rtyCaw6J) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Morning Sky](https://open.spotify.com/album/31ggIgNopLR0JgwFjJwgYx) | 4:41 | 2022-06-02 | 2022-06-24 |
 | [Motherland](https://open.spotify.com/track/2rorRxfJxJ8ymQGLKrC9V5) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Motherland](https://open.spotify.com/album/2OCa8O6QmkOD57qpZ7sDE0) | 7:08 | 2023-03-02 | 2023-03-25 |
 | [Motion](https://open.spotify.com/track/5Xljpi1XbQnd7CI824WevE) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Motion](https://open.spotify.com/album/2EnuqgygQVIQ9OOjnvYNTh) | 2:49 | 2023-01-12 | 2023-01-27 |
@@ -1505,6 +1506,7 @@
 | [To the Soul](https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [To the Soul](https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H) | 6:36 | 2022-12-15 | 2023-01-13 |
 | [Together](https://open.spotify.com/track/2tIef1T6mO3942fUQpGR9x) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [Rodden von Ast](https://open.spotify.com/artist/62B9OICu2MMHBAOC2xLPz9), [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew) | [Together \- Part Two](https://open.spotify.com/album/5WhGkgDEDLPgxuJHBdAqm4) | 5:55 | 2022-06-30 | 2022-07-22 |
 | [Together \- Original Mix](https://open.spotify.com/track/1zTeCxRDO5MNhnbfYwMniB) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB), [Greenjack](https://open.spotify.com/artist/5UNb9MJcBSlRnsFYQpsQWI) | [Together](https://open.spotify.com/album/4pgYLuSrG7jYIYncpAJ0CX) | 4:49 | 2022-04-14 | 2022-04-29 |
+| [Together Alone \- Kölsch 'I Have You' Remix](https://open.spotify.com/track/6yYIZixDyISJVcnqQUfEpj) | [Pale Blue](https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Together Alone](https://open.spotify.com/album/6cV0oDaIx128Ggb3Dbvodd) | 7:07 | 2023-04-14 |  |
 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 | 2022-04-14 | 2022-04-22 |
 | [Tomahawk](https://open.spotify.com/track/5sV5pp8JDNkh7CGgkRuztg) | [Aitor Ronda](https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Tomahawk](https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju) | 5:41 | 2023-02-02 | 2023-02-17 |
 | [Tommu](https://open.spotify.com/track/5vcdi0SudVDj9mDM1G86ip) | [Wassu](https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq) | [Tommu EP](https://open.spotify.com/album/4ZIan9losjsjIda34VXcbM) | 7:12 | 2022-04-14 | 2022-04-22 |

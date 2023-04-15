@@ -4,7 +4,7 @@
 
 > Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-231 songs - 13 hr 58 min
+232 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Levitating](https://open.spotify.com/track/32o0KgIZ82kx1V7SQpm226) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:23 | 2022-10-04 |  |
 | [Locked Out of Heaven](https://open.spotify.com/track/096akzdwi93mbRPxAQrgjF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:53 | 2022-10-04 |  |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2022-04-19 | 2022-10-05 |
-| [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-03-24 |  |
+| [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-03-24 | 2023-04-15 |
+| [Look At Us Now \(Honeycomb\) \- Acoustic Demo](https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\) \[Acoustic Demo\]](https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9) | 3:51 | 2023-04-14 |  |
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-11-14 | 2023-02-03 |
 | [Love Shack](https://open.spotify.com/track/4Z1ulaMyYEefeLZORQCsxF) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Greatest Hits Ever](https://open.spotify.com/album/6oDBWvVoHYxiAr5PPChA3l) | 5:20 | 2023-03-24 |  |
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2023-03-24 |  |

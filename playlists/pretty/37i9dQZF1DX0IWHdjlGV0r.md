@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano di più\. Cover: Neima Ezza
+> Certi amori bruciano di più\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,003 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,114 likes - 74 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
-| 2 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
-| 3 | [Bang Bang](https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 2:29 |
-| 4 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
-| 5 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
-| 6 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 |
+| 1 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 |
+| 2 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
+| 3 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
+| 4 | [Bang Bang](https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 2:29 |
+| 5 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
+| 6 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 7 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 |
 | 8 | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X) | 3:06 |
 | 9 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 73 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
 | 74 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
 
-Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMGE5ZWVlNzZjZjJkMTQ4NWMyNGE1ZjJjNzliM2JjMjJi`
+Snapshot ID: `MTY4MTQ2Mjk5NSwwMDAwMDAwMDQ1OTdhNWZkMjBhMGI3Yzg2NTkzOWUwOTY1MzA3MGFl`

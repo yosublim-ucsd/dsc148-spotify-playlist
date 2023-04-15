@@ -2,7 +2,7 @@
 
 ### [Bling Era](https://open.spotify.com/playlist/37i9dQZF1DX62HvDmsP7Md)
 
-> Party like it's the early 2000s\. ✨  Cover: Missy Elliott
+> Party like it's the early 2000s\. ✨  Cover: Petey Pablo
 
 118 songs - 8 hr 4 min
 

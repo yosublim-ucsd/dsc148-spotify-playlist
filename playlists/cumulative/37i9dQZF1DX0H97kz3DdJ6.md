@@ -4,10 +4,11 @@
 
 > as mais tristes do brasil
 
-109 songs - 5 hr 12 min
+110 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3 Pílulas](https://open.spotify.com/track/6BCCuMIEUk9OxQtVDpqyQm) | [Barreto](https://open.spotify.com/artist/7swgSjUstSfWimeNHx0MvD) | [Diário da Minha Melancolia](https://open.spotify.com/album/1gIdig7eLsSRDQ0mCJaIX4) | 3:12 | 2023-04-14 |  |
 | [A Chuva](https://open.spotify.com/track/6QKcTl3FS9NmSKmG4HSPDA) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Nanasai](https://open.spotify.com/album/1HIL9L18JRVG4JGAg5CzcZ) | 2:49 | 2022-05-20 | 2022-07-09 |
 | [A Música Mais Sincera do Ano](https://open.spotify.com/track/5iINpVOwXLU1xP2cVMzZwc) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [A Música Mais Sincera do Ano](https://open.spotify.com/album/5r9prD8tMsVkjLKF8bv3Dk) | 2:51 | 2022-05-20 |  |
 | [A Música Mais Triste do Ano 3](https://open.spotify.com/track/6CiABO49rMorhhLKjeLHcH) | [Brasileiro](https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4) | [A Música Mais Triste do Ano 3](https://open.spotify.com/album/58PwlBwxRVlwEC895THCtQ) | 2:38 | 2022-05-20 | 2022-07-09 |

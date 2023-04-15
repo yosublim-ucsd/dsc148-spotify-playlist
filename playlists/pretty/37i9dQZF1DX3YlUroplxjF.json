@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 450329,
+  "num_followers": 450449,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMDNlZDlmZjYwMTk2YmY4NmNhMzhhNmFmYjkwNjljNjE5",
+  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMDUyNzQxNzA0ZjVmOTA3MWM3MzRmNTEzNDBiMTZhZDY5",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Call Me Little Sunshine",
         "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Brutalism",
         "url": "https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 207145,
       "name": "Mother",
       "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "New Age Filth",
-        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 264646,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+        "name": "New Age Filth",
+        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
       },
       "artists": [
         {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
         }
       ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+      "duration_ms": 264646,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
       },
       "artists": [
         {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
         }
       ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1347,6 +1331,22 @@
       "duration_ms": 213144,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Misery Made Me",
         "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 201600,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
       },
@@ -1559,22 +1543,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -1587,6 +1555,38 @@
       "duration_ms": 170000,
       "name": "No One's Listening",
       "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-03-17 17:52:49",

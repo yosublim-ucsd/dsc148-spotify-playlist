@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Thief",
+        "url": "https://open.spotify.com/album/0SycnUm3SW1wk0Ro1p8Vnc"
+      },
+      "artists": [
+        {
+          "name": "Finn Brodie",
+          "url": "https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Birthright",
+      "url": "https://open.spotify.com/track/0f59bTNnPUgWYfVj0ma3n4"
+    },
+    {
+      "album": {
         "name": "Birthright",
         "url": "https://open.spotify.com/album/4sLhDDf6wLURdRLk8feDVY"
       },
@@ -906,7 +924,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191066,
       "name": "Birthright",
       "url": "https://open.spotify.com/track/5zzj3Zhdu5CJW8B9Q41HPn"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 6 hr 20 min
+76 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,8 +66,9 @@
 | [Makana](https://open.spotify.com/track/5MckryuzcHvLAEd5i9qQTC) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Jismal](https://open.spotify.com/album/5zPHDz7xdtRB89hqstwsAr) | 4:18 | 2022-05-30 |  |
 | [Malaparte \- Niklas Paschburg Rework](https://open.spotify.com/track/0sSN1juHiSPjkPJTOS5zpQ) | [Saycet](https://open.spotify.com/artist/0AKlaf8M1k8NjJp1uCOlTA), [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Malaparte \(Niklas Paschburg Rework\)](https://open.spotify.com/album/4GZbDmiszo83QMhjTsflgK) | 4:25 | 2022-05-30 |  |
 | [Merlins Head](https://open.spotify.com/track/1xTZwX3XDsvnwk5jdDxTRB) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:47 | 2022-05-30 |  |
+| [Metis](https://open.spotify.com/track/3uzQhZ5KuucPJMCnJeT6ij) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/2LxAR31doiApbutixbJrWW) | 2:55 | 2022-10-04 |  |
 | [Metis](https://open.spotify.com/track/4ZYEPOYlXzbc5eLf4nE3AJ) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/2H1GWJqfUgVKZkzFyK8dSO) | 2:55 | 2022-09-26 | 2023-03-29 |
-| [Metis](https://open.spotify.com/track/7jUqDP6Yn7zl6GlEbmqU1C) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/4wooYynimcNegOweAqeiVD) | 2:55 | 2022-10-04 |  |
+| [Metis](https://open.spotify.com/track/7jUqDP6Yn7zl6GlEbmqU1C) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Guts \(Le Bienheureux\)](https://open.spotify.com/album/4wooYynimcNegOweAqeiVD) | 2:55 | 2022-10-04 | 2023-04-15 |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-30 |  |
 | [Necessary Death](https://open.spotify.com/track/1w3RWywrjjFWBzbTeEyQMH) | [Rotana](https://open.spotify.com/artist/71GNEpAyOatoAy5oo9Av1q) | [Necessary Death](https://open.spotify.com/album/5tRzJFrXE1KIIL8QUptdOd) | 2:44 | 2022-10-04 |  |
 | [Noah](https://open.spotify.com/track/5vBSeDZlOUxKpoAbaAIpVB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Lys](https://open.spotify.com/album/5yssg2eFopmzstxvyFbrBT) | 3:46 | 2022-05-30 |  |

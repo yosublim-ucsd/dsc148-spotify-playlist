@@ -2,7 +2,7 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with WHIPPED CREAM.
+> All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
 462 songs - 1 day 2 hr 49 min
 

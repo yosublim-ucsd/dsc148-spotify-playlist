@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 479151,
+  "num_followers": 479321,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1MTcwOSwwMDAwMDAwMGIwZGVlNDU1MzY5NWI2YTQwZTljNGU1MDY5NWViMWRl",
+  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMDFjOTVjNTNmMTExYWFkZGJjOTI1NjVlOTE4NzBhZjlj",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1041,6 +1041,26 @@
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
+      "added_at": "2023-04-14 07:38:09",
+      "album": {
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        }
+      ],
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Best Part of Me (feat. YEBBA)",
@@ -1219,22 +1239,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Hometown Glory",
-      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -1247,6 +1251,22 @@
       "duration_ms": 236680,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Hometown Glory",
+      "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1331,22 +1351,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Wherever You Will Go",
-        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Charlene Soraia",
-          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
-        }
-      ],
-      "duration_ms": 197577,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -1359,6 +1363,22 @@
       "duration_ms": 207164,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Wherever You Will Go",
+        "url": "https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Charlene Soraia",
+          "url": "https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X"
+        }
+      ],
+      "duration_ms": 197577,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1479,22 +1499,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Echos",
-        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Surround Me - EP",
         "url": "https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4"
       },
@@ -1507,6 +1511,22 @@
       "duration_ms": 202146,
       "name": "I Believe in Us",
       "url": "https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1591,6 +1611,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "I'll Never Love",
+      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "I'll Never Love",
-      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "A Song For Every Moon",
         "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
       },
@@ -1651,22 +1671,6 @@
       "duration_ms": 205029,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1703,6 +1707,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
       },
@@ -1715,6 +1735,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Proverb",
+        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1735,22 +1771,6 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2267,22 +2287,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Kaleidoscope Evening",
         "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
       },
@@ -2295,6 +2299,22 @@
       "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2503,22 +2523,6 @@
       "duration_ms": 211826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Paupers Field",
-        "url": "https://open.spotify.com/album/3358kRupkHRyMq6hbVqeh1"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "If the Creek Don't Rise",
-      "url": "https://open.spotify.com/track/2ekhu8z1c6UwcaglknxyiS"
     }
   ],
   "unique_name": "Spooning",

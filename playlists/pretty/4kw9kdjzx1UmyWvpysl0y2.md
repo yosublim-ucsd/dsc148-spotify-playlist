@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,130 likes - 61 songs - 3 hr 34 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,128 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 |
 | 59 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 |
 | 60 | [Hit My Line](https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Hit My Line](https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS) | 2:35 |
-| 61 | [Carry Me Home](https://open.spotify.com/track/6XQdsLReArC59ZTSLa0Whw) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Carry Me Home](https://open.spotify.com/album/3UpvA7dYUfSmJ7JY6N6hAN) | 3:16 |
 
-Snapshot ID: `NDEyNyxiMzYwOWJhZTMzNjE0MTg5NWJiYTI4NWVlYTI4YzhlZGY1OGY4YmQ5`
+Snapshot ID: `NDEyOCwwNGQ2NzE0ODNkMWIyN2UwMjZmNTM4OWVlZjllYjFlOTU4ZGFjZjc4`

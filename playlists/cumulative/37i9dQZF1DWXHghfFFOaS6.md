@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-167 songs - 12 hr 54 min
+168 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Be Thankful \(feat\. Erykah Badu\)](https://open.spotify.com/track/4rmhWBQD1jt02FadWKFHPe) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Anthology](https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD) | 4:10 | 2022-07-14 | 2022-11-14 |
 | [Be Thankful \(feat\. Erykah Badu\)](https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Pass It On](https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27) | 4:13 | 2022-07-14 | 2023-01-01 |
 | [Beatmaker](https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto), [Emma Noble](https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g) | [Beatmaker](https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H) | 2:57 | 2022-07-14 |  |
-| [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 | 2022-07-18 |  |
+| [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 | 2022-07-18 | 2023-04-15 |
 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 | 2022-07-14 |  |
 | [Breakfast At Denny's](https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi) | [Buckshot LeFonque](https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF) | [Once In The Life \(Original Motion Picture Soundtrack\) \[Digitally Remastered\]](https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx) | 5:54 | 2021-12-12 |  |
 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 | 2021-12-12 |  |
@@ -68,6 +68,7 @@
 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 | 2021-12-12 |  |
 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 | 2021-12-12 |  |
 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 | 2021-12-12 |  |
+| [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2022-07-14 |  |
 | [Holy Sun](https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM) | 4:23 | 2022-07-14 | 2023-03-09 |
 | [Homecoming](https://open.spotify.com/track/0WvsBl7xLf9Iw8hJDd0Hn7) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Homecoming](https://open.spotify.com/album/6tRERARmJsDqovki0TswC9) | 4:16 | 2022-07-18 | 2022-07-29 |
 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 | 2022-07-18 | 2023-04-12 |

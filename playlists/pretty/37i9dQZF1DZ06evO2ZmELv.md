@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 18 | [Lo de Anoche](https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Lo de Anoche](https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL) | 3:07 |
 | 19 | [Me Convences](https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Me Convences](https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb) | 3:25 |
 | 20 | [Pa' Todo el Año \- Versión Banda En Vivo](https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:49 |
-| 21 | [Me Cae](https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:12 |
+| 21 | [El Hubiera No Existe](https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:48 |
 | 22 | [Caray \- En Vivo](https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:38 |
 | 23 | [La Diferencia \- En Vivo](https://open.spotify.com/track/1V1vXXWGYfbDW56TSbMAmb) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:13 |
 | 24 | [Para Morir Iguales \- Versión Banda En Vivo](https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:06 |
-| 25 | [El Hubiera No Existe](https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:48 |
+| 25 | [Me Cae](https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:12 |
 | 26 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 |
 | 27 | [Tu Gabán \- En Vivo](https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:13 |
 | 28 | [Tu Nuevo Cariñito \- En Vivo](https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:01 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZmELv.md) - [plain]
 | 38 | [Chuchuluqueando \- En Vivo](https://open.spotify.com/track/2gAupLmtufI2V605ottAuV) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:06 |
 | 39 | [Leña De Pirul \- En Vivo](https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:16 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDBjNjI4OGM0M2NmMzYwNTI2ZjRiNGFjNmZiMzcyNjYyYw==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBiMjFlNGQwMzQzYjFkNWY4MGMwOWI0N2Y1N2UxNTRhMw==`

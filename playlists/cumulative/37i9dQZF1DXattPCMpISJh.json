@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "A new take on a classic sound. Cover: Jake Shears",
+  "description": "A new take on a classic sound. Cover: Jessie Ware",
   "name": "Nu-Disco",
   "tracks": [
     {
@@ -196,6 +196,24 @@
       "duration_ms": 217299,
       "name": "Another Day Gone",
       "url": "https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe"
+    },
+    {
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217272,
+      "name": "Begin Again - Single Edit",
+      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "album": {
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 143109,
       "name": "I Feel It (I Won't Let You Go)",
       "url": "https://open.spotify.com/track/2G8OqEopVrlF41HkAhYGB0"
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 243106,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
@@ -3224,6 +3242,28 @@
       "duration_ms": 208613,
       "name": "Take Me To Your Body",
       "url": "https://open.spotify.com/track/4Ct3Oh6BG30FJxerhB8vRT"
+    },
+    {
+      "album": {
+        "name": "Take Your Time (Do It Right)",
+        "url": "https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Teira",
+          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242115,
+      "name": "Take Your Time (Do It Right)",
+      "url": "https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY"
     },
     {
       "album": {

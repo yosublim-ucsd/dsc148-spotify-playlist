@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Lil Moshpit) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: \bCoogie(\ucfe0\uae30)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 689466,
       "name": "Achoo Remix",
       "url": "https://open.spotify.com/track/40oPzn3XgquFNnQWnwLz5A"
@@ -4022,6 +4022,24 @@
       "duration_ms": 184480,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc"
+    },
+    {
+      "album": {
+        "name": "DIFF",
+        "url": "https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124026,
+      "name": "Buck",
+      "url": "https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk"
     },
     {
       "album": {
@@ -13618,7 +13636,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 206591,
       "name": "Motor Show",
       "url": "https://open.spotify.com/track/3IOMwFPdDEz9pRhp57M9Me"
@@ -16753,6 +16771,28 @@
     },
     {
       "album": {
+        "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
+        "url": "https://open.spotify.com/album/5r2gn0St4o9aaO1ruCKdM6"
+      },
+      "artists": [
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187482,
+      "name": "Play (feat. Sion) [Original Television Soundtrack From \"Duty After School\"]",
+      "url": "https://open.spotify.com/track/4k3wtHeshonyd9RWJOHcm6"
+    },
+    {
+      "album": {
         "name": "Coming To You Live",
         "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
       },
@@ -17554,7 +17594,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201066,
       "name": "RACE",
       "url": "https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe"
@@ -24128,6 +24168,28 @@
       "duration_ms": 102165,
       "name": "Yay",
       "url": "https://open.spotify.com/track/5tVMwfWI4CLZOqP2ofw8hz"
+    },
+    {
+      "album": {
+        "name": "YAYO (Feat. Slim 9lock)",
+        "url": "https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        },
+        {
+          "name": "Slim 9lock",
+          "url": "https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "YAYO (Feat. Slim9lock)",
+      "url": "https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L"
     },
     {
       "album": {

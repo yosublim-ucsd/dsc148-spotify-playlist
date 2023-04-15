@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables del Regional Mexicano. KAROL G en portada.",
+  "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175822,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7"
+    },
+    {
+      "album": {
         "name": "Always On My Mind (Banda Sonora de la Serie Amsterdam)",
         "url": "https://open.spotify.com/album/5ONjScVO6pS3oLCtDhYSgJ"
       },
@@ -220,6 +238,28 @@
       "duration_ms": 145962,
       "name": "Amanecidas",
       "url": "https://open.spotify.com/track/0x5tlzZojby71L614PGzvo"
+    },
+    {
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
     },
     {
       "album": {
@@ -1064,7 +1104,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173861,
       "name": "Despu\u00e9s de Unas Horas",
       "url": "https://open.spotify.com/track/3lY5qWx1aQYavwEYV68i4E"
@@ -1104,7 +1144,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 206146,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
@@ -1252,7 +1292,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167120,
       "name": "Entiende Que Ya",
       "url": "https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340"
@@ -1840,7 +1880,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195230,
       "name": "La Que Sigue de Mi",
       "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
@@ -2177,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano",
+        "url": "https://open.spotify.com/album/6MHrApGXMR205wKeaiG9rb"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Me Estoy Volviendo Loca",
+      "url": "https://open.spotify.com/track/1divYQCik9Cc9C7s3Cbsu1"
+    },
+    {
+      "album": {
         "name": "Me Sacudo y Me Levanto",
         "url": "https://open.spotify.com/album/5b55LGRHrmVcCqWxAOdjVj"
       },
@@ -2452,6 +2510,24 @@
       "duration_ms": 215893,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s"
+    },
+    {
+      "album": {
+        "name": "Mi Soldadita",
+        "url": "https://open.spotify.com/album/2aRBOVDwie76WQ55iIUUkt"
+      },
+      "artists": [
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Mi Soldadita",
+      "url": "https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl"
     },
     {
       "album": {
@@ -3022,7 +3098,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 209702,
       "name": "Para No Pensar en Ti",
       "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
@@ -3048,6 +3124,28 @@
       "duration_ms": 224383,
       "name": "Para Qu\u00e9 Te Daba Tanto",
       "url": "https://open.spotify.com/track/7yDmnC3EgAoT2UELKUxBqX"
+    },
+    {
+      "album": {
+        "name": "Paso A Pasito",
+        "url": "https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163875,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J"
     },
     {
       "album": {
@@ -4279,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Pleitez",
+          "url": "https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv"
+    },
+    {
+      "album": {
         "name": "Un Amor en el Olvido",
         "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
       },
@@ -4398,7 +4514,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 175105,
       "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
       "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"

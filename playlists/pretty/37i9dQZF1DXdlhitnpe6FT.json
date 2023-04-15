@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 151806,
+  "num_followers": 152083,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDdmNzg2NWY1OGFjYTYxYTE2ODFmMzc2NTllZDZjNTBm",
+  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMGU3OWY1ZTM3YjA2ZWNmNWMxZjEyMTcxYjcyZDU2MGY0",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The New Limelight",
-        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 125544,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The New Limelight",
+        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
       },
       "artists": [
         {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 283573,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -303,6 +303,22 @@
       "duration_ms": 179703,
       "name": "BLUE DOLPHIN",
       "url": "https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 283573,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -335,22 +351,6 @@
       "duration_ms": 146133,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Maria Elena",
-        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Maria Elena",
-      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Integral",
         "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 692373,
       "name": "Concierto De Aranjuez: 2. Adagio",
       "url": "https://open.spotify.com/track/1XgTqDYeR2L4AWObBUu5rC"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Maria Elena",
+        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Maria Elena",
+      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215986,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -775,8 +775,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look for a Star",
-        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 135993,
-      "name": "Look for a Star",
-      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
         "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 220240,
       "name": "Sleepy Shores",
       "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -927,8 +927,8 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+        "name": "Look for a Star",
+        "url": "https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+      "duration_ms": 135993,
+      "name": "Look for a Star",
+      "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Boleros Bonitos",
-        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 #1's: One Hit Wonders",
         "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Boleros Bonitos",
+        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Bonanza - 50 Fabulous Guitar Favourites",
-        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
-      },
-      "artists": [
-        {
-          "name": "Al Caiola",
-          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Guns of Navarone",
-      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Instrumental History, The Best",
         "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 170333,
       "name": "L'Incontro - 1M1",
       "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Bonanza - 50 Fabulous Guitar Favourites",
+        "url": "https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9"
+      },
+      "artists": [
+        {
+          "name": "Al Caiola",
+          "url": "https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6"
+        }
+      ],
+      "duration_ms": 160679,
+      "name": "Guns of Navarone",
+      "url": "https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "First Cuckoo",
-        "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
+        "name": "Celebration: A Musical Journey",
+        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
       "artists": [
         {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+          "name": "Sergio Mendes & Brasil '77",
+          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Adam's Hotel",
-      "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
+      "duration_ms": 213626,
+      "name": "Promise Of A Fisherman (Promessa De Pescador)",
+      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1731,34 +1731,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Celebration: A Musical Journey",
-        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
+        "name": "First Cuckoo",
+        "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
       },
       "artists": [
         {
-          "name": "Sergio Mendes & Brasil '77",
-          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Promise Of A Fisherman (Promessa De Pescador)",
-      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
+      "duration_ms": 219026,
+      "name": "Adam's Hotel",
+      "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1775,6 +1759,22 @@
       "duration_ms": 181866,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",

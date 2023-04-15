@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-364 songs - 18 hr 38 min
+365 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [diced pineapple](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [diced pineapple](https://open.spotify.com/album/65yxYvCmn7OmDydhzPYSD3) | 3:21 | 2022-07-08 |  |
 | [Disparate Vibes](https://open.spotify.com/track/5yqk6ppoMmuXWtWrzBNL9t) | [Malacca](https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX) | [Disparate Vibes](https://open.spotify.com/album/1SJiT6rCcQKmAPFhP07RZl) | 3:18 | 2022-10-07 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2022-04-05 |  |
+| [Don't Need To Worry](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s) | [Simple Jim](https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0) | [Don't Need To Worry](https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah) | 2:10 | 2023-04-14 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-05 | 2022-07-01 |
 | [Dream Of You](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Dream Of You](https://open.spotify.com/album/261Z2xiEZ3qCBqmEVOA5ok) | 2:26 | 2022-04-05 |  |
 | [Dumpstafunk](https://open.spotify.com/track/0SIfHUNxYlNOBuNLWInzFJ) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Team Regular](https://open.spotify.com/album/0O5GhhKDzL2npVvTFPeM6w) | 2:43 | 2022-12-09 |  |
@@ -281,7 +282,7 @@
 | [Sea Ya](https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Sea Ya](https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8) | 3:56 | 2022-04-05 |  |
 | [Seaside](https://open.spotify.com/track/1juh9T8vZLJcW7NRfRnFyH) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Seaside](https://open.spotify.com/album/5WbSdILow0l6UxYWtvYtjw) | 3:21 | 2022-04-05 |  |
 | [Secret Chords](https://open.spotify.com/track/6z1z86T1wK9fFSIZiHb55Q) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Secret Chords](https://open.spotify.com/album/1xN9IN4TqkIMtojm4LZwpF) | 2:47 | 2022-04-05 |  |
-| [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 | 2022-04-05 |  |
+| [Secrets Calling](https://open.spotify.com/track/2AzFsaFKGr6aXRulWTawJ4) | [My Ocean](https://open.spotify.com/artist/3QHeux68acRCH1mNlBrdoP) | [Secrets Calling](https://open.spotify.com/album/3EL9UURXVfZFDzJE2ls3l5) | 3:23 | 2022-04-05 | 2023-04-15 |
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2022-04-05 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2022-04-05 | 2022-05-20 |
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2022-04-05 | 2022-07-29 |

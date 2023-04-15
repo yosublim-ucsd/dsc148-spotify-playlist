@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Desperate Soul",
+        "url": "https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "Desperate Soul",
+      "url": "https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3"
+    },
+    {
+      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Do 2 Me",
       "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 179238,
       "name": "Endless No Mores - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172000,
       "name": "For Granted (feat. Arin Ray & 9th Wonder)",
       "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
@@ -2517,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "I Hope",
+        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+    },
+    {
+      "album": {
         "name": "I Know I Know I Know",
         "url": "https://open.spotify.com/album/1vaQ8RLfPE0BmQsEKKT5ab"
       },
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 246144,
       "name": "I'll Be Loving You",
       "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
@@ -3213,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199903,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "album": {
         "name": "Kendrick",
         "url": "https://open.spotify.com/album/1Cj7R7Gp0rO6q5bSuAiFEe"
       },
@@ -3518,7 +3572,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174533,
       "name": "Let's Go Get Stoned",
       "url": "https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9"
@@ -3536,7 +3590,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Letters from the Imaginary",
       "url": "https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G"
@@ -3790,7 +3844,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
@@ -3942,7 +3996,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 245994,
       "name": "MANGO (feat. Adi Oasis)",
       "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
@@ -5952,7 +6006,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 158093,
       "name": "Take Off Your Cool (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww"
@@ -6094,7 +6148,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 136813,
       "name": "The One",
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"

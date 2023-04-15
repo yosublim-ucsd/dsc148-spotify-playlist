@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap em 2022\. Foto: Dillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,581 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,598 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

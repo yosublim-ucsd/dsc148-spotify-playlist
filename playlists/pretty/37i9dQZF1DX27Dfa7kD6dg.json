@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 17777,
+  "num_followers": 17813,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDc0YjU1MTRlODM5YzdiY2I4MDc0OTgzNmIzZjA5NGE0",
+  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDNlZjBmYTU2MDZmOWJhNjczODNjZGM0YTRkMTBlZGNi",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Here comes... Tito Puente!",
         "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 167133,
       "name": "Mambo Goz\u00f3n",
       "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Mambo Madness",
+        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Mambo La Libertad",
+      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 173046,
       "name": "Me Voy Pa Las Villas",
       "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Mambo Madness",
-        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez & His Orchestra",
-          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Mambo La Libertad",
-      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "A Dos Tiempos de un Tiempo",
         "url": "https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 299093,
       "name": "Yo Me Quedo",
       "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Ya Se Pein\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "From Hollywood",
-        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
       },
       "artists": [
         {
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Cuando Sale El Sol",
-      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1807,8 +1807,8 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+        "name": "From Hollywood",
+        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
       },
       "artists": [
         {
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+      "duration_ms": 172226,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
     },
     {
       "added_at": "2023-03-17 00:52:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Music adds a new dimension to fashion\. Soundtrack for designer Thebe Magugu’s latest collection titled Folklorics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,467 likes - 55 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,485 likes - 55 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 43 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
 | 44 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 |
 | 45 | [Free](https://open.spotify.com/track/6bP5LhsqD7tkp71PdfZgEf) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Kwaito Hits](https://open.spotify.com/album/6i92vQUKsXmaTbcU39bd9R) | 5:14 |
-| 46 | [Too Late For Mama](https://open.spotify.com/track/6gnjt9E0LQHufJwzYeuaA8) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mzansi Women’s Month Essentials](https://open.spotify.com/album/4QtHX1Ckp5jJFclS5ekSru) | 3:57 |
+| 46 | [Too Late For Mama](https://open.spotify.com/track/0ebODLPrMqnQG7mklM4O0O) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Vintage Dance Vibes](https://open.spotify.com/album/7HMods7Y2B9FLpQ01gRt0g) | 3:57 |
 | 47 | [Mayine](https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Kulture Noir](https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z) | 7:06 |
 | 48 | [Where Did We Go Wrong?](https://open.spotify.com/track/4Ef3aVvzKnHfuyO6QOAN0n) | [Stimela](https://open.spotify.com/artist/1yMAtMXGMzshFmyog2PY6W) | [Steam Tracks](https://open.spotify.com/album/7JNnYvcQoRTy5402zurZCe) | 4:34 |
 | 49 | [Burn Out](https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw) | 4:54 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 54 | [Vhuludu](https://open.spotify.com/track/1MjOrrnPi3vEfxvF911ZIb) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Taxda](https://open.spotify.com/artist/7umJtHkUAe4CuLig6vwzq9) | [Makhulu](https://open.spotify.com/album/43PJosTFCL2q2l7N7ohrvc) | 5:19 |
 | 55 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 
-Snapshot ID: `MTY3ODQzNTkwMywwMDAwMDAwMGU0N2RlNmE0YTA5MDI4YzljZjgzNzNhNzRmNTkwOWU1`
+Snapshot ID: `MTY3ODQzNTkwMywwMDAwMDAwMDZmZTYxYjBmZDA2MTk0YTQ5N2QwZDU0N2FmYzllOTNh`

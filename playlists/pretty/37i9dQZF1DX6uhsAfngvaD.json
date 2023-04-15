@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 279501,
+  "num_followers": 279568,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDk3ZDMxY2E3M2U3ZmZkMTViNmU2Zjk2NWYwNjI5Y2Rm",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDlhMThhM2M3MTIwZDA2MTM5ZWNkY2QwNjYyNmQ3OWI0",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 202502,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 202502,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "number own",
-        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 159032,
-      "name": "number own",
-      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 950210,
       "name": "Songs",
       "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "The world within our bedrooms",
         "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 160700,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Full Hand",
         "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "dad",
-        "url": "https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "dad",
-      "url": "https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 269268,
       "name": "James",
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "dad",
+        "url": "https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "dad",
+      "url": "https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk"
     },
     {
       "added_at": "2023-03-24 00:00:00",

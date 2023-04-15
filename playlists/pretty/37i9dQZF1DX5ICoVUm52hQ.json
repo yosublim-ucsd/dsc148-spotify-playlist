@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 126131,
+  "num_followers": 126220,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxNTIyMiwwMDAwMDAwMDk3ZmYyNGRjNzVlZDQ0ODc5MGFlNzBiOGI4YzY2ZDkx",
+  "snapshot_id": "MTYwMzUxNTIyMiwwMDAwMDAwMDNhM2I2YzRiOGIzNDNkODBlMjdmOTIxMWMwZGM0MjA2",
   "tracks": [
     {
       "added_at": "2020-10-24 04:53:42",
@@ -199,18 +199,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 194866,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -231,18 +231,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
       "artists": [
         {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+      "duration_ms": 194866,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
-      },
-      "artists": [
-        {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
+      },
+      "artists": [
+        {
+          "name": "Nacha Pop",
+          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Lucha De Gigantes",
+      "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
     },
     {
       "added_at": "2020-10-24 04:53:42",

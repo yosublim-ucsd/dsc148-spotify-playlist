@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,697 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,721 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 | 49 | [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 |
 | 50 | [Regnerischer Tag](https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 |
 | 51 | [Rain Drops](https://open.spotify.com/track/5SP27iVBdW42lMZph6ceNR) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Heavy Rain](https://open.spotify.com/album/5wHrCh7SaGM0CqL0rLg1xY) | 3:21 |
-| 52 | [Gentle Pour](https://open.spotify.com/track/326CiwUuxd0LcLd3gwWy3N) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:16 |
-| 53 | [Patter \(Rain\)](https://open.spotify.com/track/2GjZpbyFka2Ys04Ipe3ehi) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Morning Wonder \(Nature\)](https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck) | 2:13 |
+| 52 | [Patter \(Rain\)](https://open.spotify.com/track/2GjZpbyFka2Ys04Ipe3ehi) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Morning Wonder \(Nature\)](https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck) | 2:13 |
+| 53 | [Gentle Pour](https://open.spotify.com/track/326CiwUuxd0LcLd3gwWy3N) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:16 |
 | 54 | [Nordic Drops](https://open.spotify.com/track/1Pj1RuUGYtwIRAx5KK4f5e) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:22 |
 | 55 | [Peaceful Rain](https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:25 |
 | 56 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 |
 | 57 | [Soothing Rainstorm](https://open.spotify.com/track/4yGdvX8sK6y8OMEQZZi9c7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 |
-| 58 | [Soft Rain](https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:50 |
-| 59 | [Rain in April](https://open.spotify.com/track/4sCp0NnDBe1jk65h6vaQ8E) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Rain In April](https://open.spotify.com/album/06RODHgMWnkqDdWAT2cMkC) | 3:32 |
+| 58 | [Rain in April](https://open.spotify.com/track/4sCp0NnDBe1jk65h6vaQ8E) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Rain In April](https://open.spotify.com/album/06RODHgMWnkqDdWAT2cMkC) | 3:32 |
+| 59 | [Soft Rain](https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:50 |
 | 60 | [Storm Coming In](https://open.spotify.com/track/27RkRIouugY1RDkriUIhgq) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 |
 | 61 | [Sueño Rural](https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Nubes Opus](https://open.spotify.com/album/2sHE3Kq75uajqwYacHBdOt) | 2:53 |
 | 62 | [Rain throughout the Day](https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 | 71 | [Crispy Rain](https://open.spotify.com/track/04uytXigV9aexEvfwbxU0C) | [Van Hailin'](https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT) | [Under The Weather](https://open.spotify.com/album/4wfVuP6MPS1LafpLbEjN6F) | 2:14 |
 | 72 | [Revitalize \(Rain\)](https://open.spotify.com/track/6MFRZu5jUhJZeUJVl2kcri) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 |
 | 73 | [Mindful in Rain Forest](https://open.spotify.com/track/40niuYLA6ulrd44iFW1SCU) | [Stormy Dreams \(Rain\)](https://open.spotify.com/artist/6jBF6u1RN8CYqvGxveYII2) | [Even More Stormy Rain](https://open.spotify.com/album/6uPV9B8X0fGhYtF6O695ve) | 2:20 |
-| 74 | [Spirit Of The Rainforest](https://open.spotify.com/track/5q5VEwBjy5gIeUO5fHhlMC) | [Hinterländer](https://open.spotify.com/artist/1kiNWn13ukEYMfUAdmYL8z) | [Spirit Of Rain](https://open.spotify.com/album/54RLZfNtc05c5eWVsKocfL) | 3:54 |
-| 75 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 |
+| 74 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 |
+| 75 | [Spirit Of The Rainforest](https://open.spotify.com/track/5q5VEwBjy5gIeUO5fHhlMC) | [Hinterländer](https://open.spotify.com/artist/1kiNWn13ukEYMfUAdmYL8z) | [Spirit Of Rain](https://open.spotify.com/album/54RLZfNtc05c5eWVsKocfL) | 3:54 |
 
-Snapshot ID: `MTY3NjI5MjQ2OSwwMDAwMDAwMDY0ZGUzM2YxOWRmYjMzMjQ2ODY0ZDJlZjc2YTQ0MzU4`
+Snapshot ID: `MTY3NjI5MjQ2OSwwMDAwMDAwMDM0NzNhYjRkZDc2MWNhM2E1Y2VhODhiNDgyZTM2M2Zl`

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-529 songs - 1 day 9 hr 50 min
+531 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [alma \- Frameworks Remix](https://open.spotify.com/track/1GXVgFAp3qlzGc903TnJDE) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [alma \(Frameworks Remix\)](https://open.spotify.com/album/2QuOKdeZG0UgtDxTPZPZU5) | 4:11 | 2020-10-20\* | 2022-04-06 |
 | [Ambit](https://open.spotify.com/track/7dWmUDrip6mWXyhrcFhJgb) | [Mye](https://open.spotify.com/artist/6OM5fivmjT5EPgzGewMzyB) | [Ambit](https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ) | 2:22 | 2022-09-02 |  |
 | [Amethyst](https://open.spotify.com/track/0bKzBkQKXLH6P407vZQIso) | [Popcorn for Purple](https://open.spotify.com/artist/1yoe4BBN2qhhnoAFe6cyyO) | [Amethyst](https://open.spotify.com/album/1R6VTSopwrnckW6GTf9Qet) | 5:28 | 2020-12-24 | 2021-02-20 |
+| [Amnesia](https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ) | [Tendoi](https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu) | [Amnesia](https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2) | 2:07 | 2023-04-14 |  |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2021-10-16 | 2022-05-11 |
 | [And The City Was Brooklyn](https://open.spotify.com/track/3kf1qwFXJFwdVWfsNldvw9) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [And The City Was Brooklyn](https://open.spotify.com/album/7eScvNC3Zds4MxASq3k6Dd) | 3:17 | 2023-01-20 |  |
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2021-06-04 |  |
@@ -61,6 +62,7 @@
 | [Bittersweetener](https://open.spotify.com/track/1ErzC5Cace2XjJzbkDluK7) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Bittersweetener](https://open.spotify.com/album/6ahXPZy74PVc8KonlJSSny) | 4:21 | 2020-10-20\* | 2020-11-21 |
 | [Blank Blank \- Sleg Remix](https://open.spotify.com/track/3Te1jrHoXaFGTfdIiHLQdC) | [OPTONIKA](https://open.spotify.com/artist/6Wskn6la28RvQxaYFSfos0), [Sleg](https://open.spotify.com/artist/2h6GoDMoyxuXnb4bR2rHqX) | [Blank Blank \(Sleg Remix\)](https://open.spotify.com/album/3P0N6P5ZxuJMk7nTx9qU1K) | 7:28 | 2021-02-24 | 2021-05-13 |
 | [blissful](https://open.spotify.com/track/40tseu8dTJ7f2aAieF0LXX) | [miƶu](https://open.spotify.com/artist/2SK2XzM0EKlNR6hli25ynm) | [blissful](https://open.spotify.com/album/7qMWeSb5WNZQZzlNF6mWUJ) | 4:46 | 2020-11-28 | 2020-12-11 |
+| [Bloom](https://open.spotify.com/track/25iM0QNqK1SIVvs2JLksw2) | [VLD](https://open.spotify.com/artist/5fLMh9SOPpY67ZpsWy06qu) | [Bloom](https://open.spotify.com/album/4eHDGV1xKPZkQwssDVxp9T) | 3:13 | 2023-04-14 |  |
 | [Blooms](https://open.spotify.com/track/6fwHeGMfIOEjPajVQzeBRM) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Blooms](https://open.spotify.com/album/5PSwbfxUBMbyVm33UJbs6U) | 3:07 | 2023-03-24 |  |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2021-08-25 |  |
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2021-11-10 |  |

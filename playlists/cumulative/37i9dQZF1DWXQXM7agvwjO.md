@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Boba & Phum Viphurit \(Thailand\)
 
-706 songs - 1 day 18 hr 24 min
+708 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Alright](https://open.spotify.com/track/1O6fh32Fqnk2otTyFDqn1b) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2) | [Alright](https://open.spotify.com/album/557PW1UPXfEczIHbBLJSPq) | 3:22 | 2022-03-24 | 2022-04-15 |
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2022-04-07 | 2022-05-20 |
 | [Ang$a](https://open.spotify.com/track/4u16zGIdHrOkMyJOInkF6y) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Oranye](https://open.spotify.com/album/2Y9GAh9rRYsw1PiS6FDJcy) | 2:47 | 2022-11-17 | 2023-02-10 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-04-21 | 2022-06-17 |
 | [Aphrodite](https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Aphrodite](https://open.spotify.com/album/4LD1Urj2qAUoyMSlXDz1QU) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [Aquarius](https://open.spotify.com/track/498sUCKC4a01UNQuM1c6X0) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Aquarius](https://open.spotify.com/album/0L49dqQwnhvRQIuw4kZ9Rr) | 6:23 | 2023-03-02 | 2023-03-25 |
@@ -479,7 +480,7 @@
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2023-02-17 |
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-09 | 2023-02-17 |
 | [Rockstar](https://open.spotify.com/track/2OBm1U8uu9tq5w40QEIGAY) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Rockstar](https://open.spotify.com/album/6p6WyOh5Bd57KZiGNoY9Lx) | 3:02 | 2022-10-20 | 2022-12-09 |
-| [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [Telex Telexs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(TELEx TELEXs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-07 |  |
+| [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(TELEx TELEXs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-07 |  |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-11 | 2022-09-30 |
 | [Rule The World](https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Rule The World](https://open.spotify.com/album/4D2GvlKXrCTl0WEDgzgjxe) | 2:27 | 2023-03-09 |  |
 | [Run](https://open.spotify.com/track/6Lnb8cCLqHwpofO3o3pgzI) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 3:43 | 2023-03-23 |  |
@@ -685,6 +686,7 @@
 | [メビウス](https://open.spotify.com/track/4xrZ0pYCSyHm8OxB6GhjKh) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [メビウス](https://open.spotify.com/album/1M7OMt0g8q5YIgCLpBMmLz) | 3:34 | 2022-11-10 | 2022-11-18 |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-08-05 |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |
+| [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-13 |  |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 | 2022-06-03 |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |
 | [在夏夜](https://open.spotify.com/track/4vFBXg62WWBiEQYkz5kFjS) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [在夏夜](https://open.spotify.com/album/3pgOnUTDRaAGbrhZjKCRW7) | 4:58 | 2022-08-25 | 2022-10-21 |

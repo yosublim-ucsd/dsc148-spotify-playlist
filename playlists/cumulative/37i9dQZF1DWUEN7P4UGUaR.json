@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 408235,
       "name": "Amenuveve (Grace)",
       "url": "https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC"
@@ -970,6 +970,24 @@
       "duration_ms": 241146,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+    },
+    {
+      "album": {
+        "name": "Your Grace",
+        "url": "https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy"
+      },
+      "artists": [
+        {
+          "name": "Prince Tuffour",
+          "url": "https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325328,
+      "name": "Your Grace",
+      "url": "https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUEN7P4UGUaR"

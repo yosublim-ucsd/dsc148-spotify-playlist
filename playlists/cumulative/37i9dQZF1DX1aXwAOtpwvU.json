@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:3KK1cO0sCWl01U14rS7wwN\">Julia Rocka</a> ",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:6VQUyaRqUl5BCTJS0cCEki\">KIWI</a> ",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185838,
       "name": "Babyhands",
       "url": "https://open.spotify.com/track/3QbXgoghUm9v3zKjDL2xQp"
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "happy song :)",
+        "url": "https://open.spotify.com/album/5BkGfDOWhUVZVElMQ90Eei"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180383,
+      "name": "happy song :)",
+      "url": "https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm"
+    },
+    {
+      "album": {
         "name": "Haribo",
         "url": "https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH"
       },
@@ -396,7 +414,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 141428,
       "name": "Kokieterka",
       "url": "https://open.spotify.com/track/0yqCYvPXP2p6Uh9vKhkq7P"
@@ -472,6 +490,28 @@
       "duration_ms": 153000,
       "name": "Look At Us",
       "url": "https://open.spotify.com/track/2kXwpba2ljo1FQRvJtQUNz"
+    },
+    {
+      "album": {
+        "name": "Mam Ju\u017c Do\u015b\u0107",
+        "url": "https://open.spotify.com/album/5ppmozRB4JkpmsEu5KHMVk"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "Filip Leon",
+          "url": "https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Mam Ju\u017c Do\u015b\u0107",
+      "url": "https://open.spotify.com/track/2PRPX3pHeEaY2BL5C8yu37"
     },
     {
       "album": {
@@ -602,7 +642,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201080,
       "name": "Monochrom",
       "url": "https://open.spotify.com/track/2Nf7wnojAkwkyE4vNjGIZl"
@@ -873,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Paranoje",
+        "url": "https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Paranoje",
+      "url": "https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj"
+    },
+    {
+      "album": {
         "name": "plany",
         "url": "https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR"
       },
@@ -1098,7 +1156,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184285,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo"
@@ -1120,6 +1178,24 @@
       "duration_ms": 159378,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN"
+    },
+    {
+      "album": {
+        "name": "stalker",
+        "url": "https://open.spotify.com/album/5DqJdlVhSsVFhMGJZpQZEb"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "stalker",
+      "url": "https://open.spotify.com/track/56BfZQpFbnXKMycKRys0x5"
     },
     {
       "album": {
@@ -1160,7 +1236,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 128000,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0"
@@ -1185,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Telepatia",
+        "url": "https://open.spotify.com/album/4XEiTQY8ofH27NzRS8XVS9"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Telepatia",
+      "url": "https://open.spotify.com/track/4h2yewSuMOWwq1g7aCyxz4"
+    },
+    {
+      "album": {
         "name": "to by\u0142 fajny rok",
         "url": "https://open.spotify.com/album/0wMngZrtJ0pC4Z73u61bu2"
       },
@@ -1196,7 +1290,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171654,
       "name": "to by\u0142 fajny rok",
       "url": "https://open.spotify.com/track/0bkvnHawQ97qJjSKZkaK1a"

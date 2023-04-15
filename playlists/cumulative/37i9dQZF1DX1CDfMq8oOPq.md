@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Ebony, LARINHX
 
-118 songs - 5 hr 47 min
+119 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Euro](https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Euro](https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O) | 3:37 | 2022-03-11 | 2022-11-19 |
 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 | 2022-03-11 |  |
 | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Faixa Rosa \(feat\. Mc Carol\)](https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz) | 2:33 | 2022-04-15 | 2022-07-09 |
-| [Fartura E Riqueza](https://open.spotify.com/track/4vn6W7bT3fqHG466IfaJck) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Buarky](https://open.spotify.com/artist/2jWvN8tmcpkgiQFpdEQnce), [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Betty](https://open.spotify.com/album/3OUm1Sti08w8fJRkImQUaI) | 3:01 | 2023-03-17 |  |
+| [Fartura E Riqueza](https://open.spotify.com/track/4vn6W7bT3fqHG466IfaJck) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Buarky](https://open.spotify.com/artist/2jWvN8tmcpkgiQFpdEQnce), [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Betty](https://open.spotify.com/album/3OUm1Sti08w8fJRkImQUaI) | 3:01 | 2023-03-17 | 2023-04-15 |
+| [Faz o Pix](https://open.spotify.com/track/5P0HSsTQmYVR6zq3ztnHZO) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr) | [Faz o Pix](https://open.spotify.com/album/5wsT1hROBOq9uM9Gtahgja) | 2:11 | 2023-04-14 |  |
 | [Filhas do Improvável](https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Filhas do Improvável](https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1) | 3:37 | 2023-01-13 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:16 | 2022-03-11 | 2022-04-16 |
 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-11 |  |

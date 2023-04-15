@@ -4,7 +4,7 @@
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-68 songs - 5 hr 15 min
+69 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,12 @@
 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO) | 4:42 | 2022-12-16 |  |
 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 | 2022-12-16 |  |
 | [Despues Del Adios](https://open.spotify.com/track/31zIqaMytBKRmFbCK2gnRa) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 5:09 | 2022-12-16 |  |
-| [Dime que me quieres](https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 5:16 | 2022-12-16 |  |
+| [Dime que me quieres](https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 5:16 | 2022-12-16 | 2023-04-15 |
 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 | 2022-12-16 |  |
 | [Enseñame a olvidar](https://open.spotify.com/track/7KHOQuwXh9B82SCMN36HaK) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 5:17 | 2022-12-16 |  |
 | [Entregame Tu Amor](https://open.spotify.com/track/0KR2dfNLJJCmObaAc5r1f7) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:17 | 2022-12-16 |  |
 | [Esta Vida](https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Son Para El Mundo](https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3) | 3:57 | 2022-12-16 |  |
+| [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 | 2022-12-16 |  |
 | [Infiel](https://open.spotify.com/track/7l6FdGpTecIdte6pWMdB6K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/4YTcz59mBzRmkxCyNWB5ND) | 4:06 | 2022-12-16 | 2023-03-25 |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2022-12-16 |  |
 | [Lo Busqué](https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [Ave Libre](https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn) | 4:53 | 2022-12-16 |  |

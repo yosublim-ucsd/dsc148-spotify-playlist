@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: John Legend
+> Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-389 songs - 22 hr 19 min
+394 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 | 2022-07-29 |  |
 | [All The Things She Said](https://open.spotify.com/track/0wH55ChKuoZkmGhbIYtOI4) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [All The Things She Said](https://open.spotify.com/album/2rlUn38lFbYiBZ7L43gezd) | 3:41 | 2022-12-29 |  |
 | [All The Things She Said](https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [All The Things She Said](https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh) | 3:19 | 2022-01-01 |  |
+| [All Time Low](https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [All Time Low](https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny) | 3:04 | 2023-04-14 |  |
 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 | 2021-12-17 |  |
 | [All You Need Is Love](https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [All You Need Is Love](https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR) | 3:26 | 2021-12-17 |  |
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2021-12-17 |  |
@@ -143,6 +144,7 @@
 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 | 2022-02-18 |  |
 | [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 | 2023-02-17 |  |
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2021-12-17 |  |
+| [Flowers](https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Flowers](https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF) | 2:45 | 2023-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-12-17 |  |
 | [gives you hell](https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [gives you hell](https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS) | 3:28 | 2022-09-19 | 2022-12-30 |
@@ -210,6 +212,7 @@
 | [It's Gonna Be Me](https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV) | 2:54 | 2021-12-17 | 2022-10-13 |
 | [It's Gonna Be Me](https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V) | 2:54 | 2022-09-23 | 2022-12-30 |
 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/07eCZf9u22LsQH8wpFfjpj) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/album/32qgaOkiBYJqmFvRStyWtU) | 2:56 | 2021-12-17 | 2022-05-02 |
+| [I’m Blue](https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [I’m Blue](https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS) | 2:30 | 2023-04-14 |  |
 | [I’m With You](https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I’m With You](https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07) | 3:55 | 2022-08-19 | 2022-12-30 |
 | [July \- Bedroom Session](https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [July \(Bedroom Session\)](https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7) | 3:30 | 2021-12-17 |  |
 | [Jumper \- Acoustic](https://open.spotify.com/track/6rkrbJ7Ltdl7QnJFpSTw4F) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/3KGecYEYv5uOMSaPU8hbvQ) | 3:04 | 2021-12-17 | 2022-05-02 |
@@ -221,11 +224,13 @@
 | [Kiss Me](https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd) | 2:26 | 2022-07-08 | 2022-12-30 |
 | [Kiss Me](https://open.spotify.com/track/2Wv0DfptASwsdOVKtyLJua) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN) | 2:28 | 2023-02-24 |  |
 | [Kiss Me](https://open.spotify.com/track/4xni5u37UubdobwY7FpnqZ) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Kiss Me](https://open.spotify.com/album/7xpY3HpVuf7KsxPFXXU6nO) | 2:28 | 2023-02-17 | 2023-03-18 |
+| [Kissing You](https://open.spotify.com/track/4cTafvpYaCM3u41plC0eK4) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:55 | 2023-04-14 |  |
 | [Landslide](https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Landslide](https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw) | 3:30 | 2022-08-26 | 2022-12-30 |
 | [Landslide](https://open.spotify.com/track/0xhpxr1fREd1Ibk8nn2GgJ) | [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [Landslide](https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa) | 3:45 | 2021-12-17 |  |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-12-17 |  |
 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 | 2022-02-18 | 2022-10-29 |
+| [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-14 |  |
 | [Little Did I Know \(Acoustic\)](https://open.spotify.com/track/6q6706YiswU2UH0bvoxhnQ) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Little Did I Know \(Acoustic\)](https://open.spotify.com/album/18gEMMuUgAgMreSPv8pBC5) | 3:10 | 2021-12-17 | 2022-01-22 |
 | [Lose You To Love Me](https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Spotify Singles](https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9) | 3:55 | 2021-12-17 | 2022-05-02 |
 | [Lose You to Love Me \- Acoustic](https://open.spotify.com/track/6juFeoYKK64BjjgrfAC1wO) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Maddy Newton](https://open.spotify.com/artist/15MDrArE0tDC8GTMSOCKcp) | [Lose You to Love Me \(Acoustic\)](https://open.spotify.com/album/3LEbT1tRrGObg4JWMmte5y) | 3:20 | 2021-12-17 | 2022-01-22 |

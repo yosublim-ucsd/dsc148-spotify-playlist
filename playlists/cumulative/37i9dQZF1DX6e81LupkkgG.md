@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-217 songs - 12 hr 39 min
+218 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Figure It Out](https://open.spotify.com/track/0l8F1nPfNpM31EepvocvwY) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [The Good & The Bad](https://open.spotify.com/album/19HUwMGdjDSb7AnO2UXFIM) | 3:06 | 2022-07-22 | 2022-11-13 |
 | [Figure It Out](https://open.spotify.com/track/6Q2KW0g6N0GzmG1MBCNms3) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Figure It Out](https://open.spotify.com/album/6M0yuAiE4hilGW0FBLyLBV) | 3:06 | 2022-02-18 | 2022-07-29 |
 | [Finally // beautiful stranger](https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Finally // beautiful stranger](https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF) | 3:41 | 2022-02-18 |  |
-| [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2022-02-18 |  |
+| [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2022-02-18 | 2023-04-15 |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-03-25 | 2022-05-07 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [Free](https://open.spotify.com/track/1pgnjcM4HhB9bRIAbh3lne) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The One and Only Ivan \(Original Soundtrack\)](https://open.spotify.com/album/0FHQxkiMUGGJ160ZMzBhnV) | 3:48 | 2022-02-18 | 2022-07-29 |
@@ -163,6 +163,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 |  |
 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 |  |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-03-02 | 2022-03-05 |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 | 2022-08-12 | 2022-09-24 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 |  |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2022-02-18 |  |

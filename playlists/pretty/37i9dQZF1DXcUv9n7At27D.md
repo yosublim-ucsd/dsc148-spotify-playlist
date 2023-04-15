@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の春に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,566 likes - 41 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,582 likes - 41 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 5 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 |
 | 6 | [24の前奏曲 作品28 第15番変ニ長調「雨だれ」](https://open.spotify.com/track/4SYtaQjXT3Wyw2mIBU6FF6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [映画「蜜蜂と遠雷」 \~ 河村尚子 plays 栄伝亜夜](https://open.spotify.com/album/6vlTbjLLiXsgdyShPe1IFb) | 5:37 |
 | 7 | [Chair](https://open.spotify.com/track/3lJdgFLbcFKLYWWBMCGjES) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Chair](https://open.spotify.com/album/3vbaSNyRCbwEi2kP6PxZo9) | 4:48 |
-| 8 | [Préludes / Book 1, L.117: 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 |
+| 8 | [Debussy: Préludes / Book 1, L.117 \- 8\. La Fille aux Cheveux de Lin \(Arr\. Marshall\)](https://open.spotify.com/track/65IMlsHgCj36oLhdi9ugpv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Music Gift to](https://open.spotify.com/album/6Kad3lsqZ5Sp9hdNfj5kGj) | 3:11 |
 | 9 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 |
 | 10 | [シューベルト: 4つの即興曲 作品90 III\. アンダンテ](https://open.spotify.com/track/1gITSLM8POPjRsfowHIsre) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc) | [月の光〜リサイタル・ピース 第1集](https://open.spotify.com/album/32tKcDqIpeSc3EToFsZK4P) | 7:34 |
 | 11 | [Reflection I](https://open.spotify.com/track/7vlHH3BTCIWRLQCeMEMrai) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reflections](https://open.spotify.com/album/5iRo9c8eR9NQdCG0HbR8pQ) | 2:14 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 287608,
+  "num_followers": 287589,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMGVmMGU2ZTVkNDFlZmRlMGI1YWNiYzBlNTU3YWE4Y2Iw",
+  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMDU0OTc2MjFmNmI3YzRkMTZjY2Y2NTI1NDQ3M2E1N2Qw",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -779,6 +779,26 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Jean & Alex",
+          "url": "https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
         "name": "Regres\u00e9 Para Navidad",
         "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 167000,
       "name": "Regres\u00e9 Para Navidad",
       "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
-        "name": "Navidad Contigo",
-        "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Jean & Alex",
-          "url": "https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Navidad Contigo",
-      "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
     },
     {
       "added_at": "2022-12-22 18:37:48",

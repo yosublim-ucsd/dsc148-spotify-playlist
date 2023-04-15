@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,400 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,430 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 |
 | 2 | [Ansia](https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:06 |
 | 3 | [Tristeza](https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 3:22 |
-| 4 | [La Bamba](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
-| 5 | [Vibrante](https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Vibrante](https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc) | 3:16 |
+| 4 | [Vibrante](https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Vibrante](https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc) | 3:16 |
+| 5 | [La Bamba](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
 | 6 | [Blue Bossa](https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 2:40 |
 | 7 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
 | 8 | [Between Tears](https://open.spotify.com/track/72EueUlnXQAzFJUB77EABa) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/3FIOfekQqrHL0foZlusbCv) | 5:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Mexican Mood](https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Carnival Chillout Music](https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL) | 1:37 |
 | 75 | [Porgy and Bess: Summertime \- The Sound of Music: My Favorite Things \- Autumn Leaves \(arr\. J\. Carter\)](https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Contemporary Spanish Guitar: Kindred Spirits](https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV) | 6:42 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDdmN2ZlOTFjN2JkMjMzYmMzNTRjNzVhYjU0MGZlNTQw`
+Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMDYxMzRhM2E4MWY0ZGYwMDQ0MmYwZDMzZjU5MGY4NDE1`

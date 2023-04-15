@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Temples on cover.
 
-266 songs - 21 hr 29 min
+267 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Afrique Victime \- Edit](https://open.spotify.com/track/2FENXc1Etbsd1FgsXx143M) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/2uZNZnHZA4dZNzC5T9271y) | 4:06 | 2021-11-12 | 2022-07-07 |
 | [Air My Skin](https://open.spotify.com/track/60Rh61lL9Z2YjrZJgUKxKe) | [DTSQ](https://open.spotify.com/artist/3vGeQzeuUCGmnWz8EdeePB) | [Neon\-Coloured Milky Way](https://open.spotify.com/album/66ZaA209fxCAW4A3g77vI9) | 5:19 | 2021-11-12 | 2022-07-13 |
 | [Almost Everything](https://open.spotify.com/track/4KU3ECcOn7di9BUHgajmIO) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Almost Everything](https://open.spotify.com/album/3FuvV4huGUCxaKeec7z5Qk) | 4:24 | 2023-03-16 | 2023-04-13 |
+| [Almost Everything](https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Plastic Eternity](https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7) | 4:24 | 2023-03-16 |  |
 | [Alquimista](https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD) | [COSMO](https://open.spotify.com/artist/0niuvQnEaBaBVc7nSfyaaT), [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ), [Will Graefe](https://open.spotify.com/artist/0rivjTqOUngqWm9w5tf5YH), [Jeremy Gustin](https://open.spotify.com/artist/0x3OlNZcrhjvU1nmANdMe5), [Mike Boschen](https://open.spotify.com/artist/0JT6KxolPEsNwijARLjb01), [Benjamin Lazar Davis](https://open.spotify.com/artist/120AN9sqwd6UTkZbnjDPKE) | [Alquimista](https://open.spotify.com/album/1UBCy7CCPsiZQ63hHETUNo) | 3:09 | 2022-03-09 | 2022-07-29 |
 | [Anemone](https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Their Satanic Majesties' Second Request](https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi) | 5:34 | 2022-04-12 |  |
 | [Angel Dust](https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Angel Dust](https://open.spotify.com/album/7qCoXlzYUSkTNP6q5qkh8l) | 6:57 | 2022-11-25 | 2023-01-27 |
@@ -45,7 +46,7 @@
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 | 2022-11-26 |
 | [Busca Ayuda](https://open.spotify.com/track/60zGVY9oWBrgvR4dMOyYjy) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Busca Ayuda](https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi) | 3:51 | 2023-03-16 | 2023-03-25 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
-| [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 |  |
+| [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-04-15 |
 | [Cardboard Pile](https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Cardboard Pile](https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x) | 4:06 | 2022-04-12 | 2022-07-29 |
 | [Catatumbo Lightnings](https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey) | [Marie Byrd Land Band](https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu) | [Lost Lands](https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV) | 4:15 | 2021-11-12 | 2022-07-24 |
 | [Changing Faces](https://open.spotify.com/track/329NblipbfswPVKLsA8ljD) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 4:30 | 2021-11-12 | 2022-07-25 |

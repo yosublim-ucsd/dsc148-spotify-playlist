@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 35375,
+  "num_followers": 35402,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxOTQ1MSwwMDAwMDAwMDVhMDE4YmExZDljOTA3MjAzMDcwMzY1YjExYWE3NTI3",
+  "snapshot_id": "MTY4MDIxOTQ1MSwwMDAwMDAwMGZhMjFlMmQyMzdmYmIzYTU2NjhmMGU0MzNkOTA5OWIw",
   "tracks": [
     {
       "added_at": "2023-03-30 23:37:31",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Damasio Esquivel",
-          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
-        }
-      ],
-      "duration_ms": 111893,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Devu\u00e9lveme el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 180499,
       "name": "Devu\u00e9lveme el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Damasio Esquivel",
+          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Los Enganchados del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
-      },
-      "artists": [
-        {
-          "name": "La Barra Chamamecera",
-          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
-        }
-      ],
-      "duration_ms": 131613,
-      "name": "Camino a Tres Cruces",
-      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208346,
       "name": "El Gaucho Gil",
       "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Los Enganchados del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
+      },
+      "artists": [
+        {
+          "name": "La Barra Chamamecera",
+          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
+        }
+      ],
+      "duration_ms": 131613,
+      "name": "Camino a Tres Cruces",
+      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
+        "name": "La Juventud Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
+      },
+      "artists": [
+        {
+          "name": "Potencia Chamamecera",
+          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
+        }
+      ],
+      "duration_ms": 252018,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
-        "name": "La Juventud Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
-      },
-      "artists": [
-        {
-          "name": "Potencia Chamamecera",
-          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
-        }
-      ],
-      "duration_ms": 252018,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Mario Millan Medina",
-          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Mi ponchillo colorado",
-      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Chamame - Los 100 mejores temas - Vol 4",
         "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 168666,
       "name": "Bien picadito",
       "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Millan Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Cate",
-          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
-        }
-      ],
-      "duration_ms": 123226,
-      "name": "Un simbronazo",
-      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Con Los Grandes",
-        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
       "artists": [
         {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
         }
       ],
-      "duration_ms": 129693,
-      "name": "La Flecha",
-      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
+      "duration_ms": 189600,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
       },
       "artists": [
         {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
-        }
-      ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
         "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 139253,
       "name": "El Gato Blanco",
       "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+        }
+      ],
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
+        "name": "Sencillito Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Fuerza del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "No Hay Mal Que por Bien No Venga",
+      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
         "name": "12 A\u00f1os Con el Chamam\u00e9",
         "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 183220,
       "name": "El Gallo Negro",
       "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
-        "name": "Sencillito Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Fuerza del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "No Hay Mal Que por Bien No Venga",
-      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
     },
     {
       "added_at": "2023-03-30 23:37:31",

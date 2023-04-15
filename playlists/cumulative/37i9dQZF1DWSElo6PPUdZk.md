@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-54 songs - 2 hr 53 min
+55 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2023-03-18 |  |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 |  |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 |  |
+| [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 |  |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2023-03-18 |  |
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2023-03-18 |  |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Nighttime is the right time for these party hits!",
-  "num_followers": 560004,
+  "num_followers": 560052,
   "original_name": "Country Nights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0ODc0MiwwMDAwMDAwMDljODU1YTAwYzQzNTIxYWY2ZDA3YTgxOTBiODg2YTRm",
+  "snapshot_id": "MTY3NjA0ODc0MiwwMDAwMDAwMDRiZWU3ZTM5MDYyZWUwZDczOGMxMTljMTU1NDg0Njhl",
   "tracks": [
     {
       "added_at": "2022-09-06 16:14:20",
@@ -352,25 +352,9 @@
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
-    },
-    {
-      "added_at": "2022-09-06 16:14:20",
-      "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Dirt Road Anthem",
-      "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -403,6 +387,22 @@
       "duration_ms": 191306,
       "name": "Drink In My Hand",
       "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+    },
+    {
+      "added_at": "2022-09-06 16:14:20",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Dirt Road Anthem",
+      "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+    },
+    {
+      "added_at": "2022-09-06 16:14:20",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2022-09-06 16:14:20",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 190586,
+      "name": "Kick The Dust Up",
+      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
-        "name": "Kill The Lights (Deluxe)",
-        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Kick The Dust Up",
-      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "Good as You",
-      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
-    },
-    {
-      "added_at": "2022-09-06 16:14:20",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+    },
+    {
+      "added_at": "2022-09-06 16:14:20",
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
-    },
-    {
-      "added_at": "2022-09-06 16:14:20",
-      "album": {
         "name": "Knockin' Boots",
         "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 199382,
       "name": "Knockin' Boots",
       "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
+    },
+    {
+      "added_at": "2022-09-06 16:14:20",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 229533,
-      "name": "God Gave Me You",
-      "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
+      "duration_ms": 222013,
+      "name": "Get Your Shine On",
+      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Get Your Shine On",
-      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
+      "duration_ms": 229533,
+      "name": "God Gave Me You",
+      "url": "https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF"
     },
     {
       "added_at": "2022-09-06 16:14:20",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-09-06 16:14:20",
       "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
+    },
+    {
+      "added_at": "2022-09-06 16:14:20",
+      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
-    },
-    {
-      "added_at": "2022-09-06 16:14:20",
-      "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
     },
     {
       "added_at": "2022-09-06 16:14:20",

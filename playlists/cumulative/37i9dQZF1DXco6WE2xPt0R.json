@@ -3575,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186339,
+      "name": "SPLIT DECISION",
+      "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
+    },
+    {
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
       },
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 212573,
       "name": "Whatever Simon Says",
       "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"

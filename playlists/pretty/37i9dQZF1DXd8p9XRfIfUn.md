@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Akrilla, SOULFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,496 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,522 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 14 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
 | 15 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
 | 16 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
-| 17 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 |
-| 18 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
+| 17 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
+| 18 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 |
 | 19 | [Los Malvekes](https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Los Malvekes](https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71) | 3:38 |
 | 20 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
 | 21 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 |
 | 60 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 
-Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMDFiOTkxMGE5ZGI3ZTZkYjA0NzViNWUyNWMwMzIzY2Mx`
+Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMGUxMWViYjdmZGRiNDBjNzk1N2VjMGQ5MmFiZTk5MGY2`

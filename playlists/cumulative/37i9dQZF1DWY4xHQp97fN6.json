@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 138972,
       "name": "Bestfrenn (feat. GloRilla)",
       "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
@@ -2355,6 +2355,28 @@
     },
     {
       "album": {
+        "name": "Chrome Hearted (feat. Tyga)",
+        "url": "https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Chrome Hearted (feat. Tyga)",
+      "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -2834,6 +2856,28 @@
       "duration_ms": 171319,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
+    },
+    {
+      "album": {
+        "name": "DO IT AGAIN (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213206,
+      "name": "DO IT AGAIN (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
       "album": {
@@ -3798,7 +3842,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
@@ -5410,7 +5454,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222386,
-      "name": "Leave The Club (feat. Lil Durk & GloRilla)",
+      "name": "Leave the Club (feat. Lil Durk & GloRilla)",
       "url": "https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u"
     },
     {
@@ -7276,10 +7320,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx"
+    },
+    {
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "album": {
@@ -9082,7 +9148,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189153,
       "name": "Sucka Or Sum",
       "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"

@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 40 min
+51 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-19 |  |
 | [Nadie Más](https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:41 | 2023-03-19 |  |
 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 | 2023-03-19 |  |
+| [Noche en Hawaii](https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK) | [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Noche en Hawaii](https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM) | 2:57 | 2023-04-14 |  |
 | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od) | 3:21 | 2023-03-19 |  |
 | [Perdón](https://open.spotify.com/track/38SwcrG9RVLlqJPpCgVDuR) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Perdón](https://open.spotify.com/album/60kBowdQcKIoT0A78zclCU) | 3:15 | 2023-03-19 |  |
 | [Por Vos](https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Por Vos](https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP) | 2:45 | 2023-03-19 |  |

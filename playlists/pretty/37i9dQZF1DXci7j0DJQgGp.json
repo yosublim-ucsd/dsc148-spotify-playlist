@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1804033,
+  "num_followers": 1804057,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5NjY4NywwMDAwMDAwMDA2NTRiYzU0ODRhMTkzN2M1MDQ1ZTdmYzZkOWFmZTIz",
+  "snapshot_id": "MTY4MDI5NjY4NywwMDAwMDAwMGIyMzE3MGJmNmE1YWE0ZTgyMTY5YjA0ZjZhZWY3NGZl",
   "tracks": [
     {
       "added_at": "2023-03-28 20:19:12",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "It's Called: Freefall",
         "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 158297,
       "name": "It's Called: Freefall",
       "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 158948,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 251933,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 236453,
       "name": "Valleys (My Love)",
       "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "GPS (w/ Felly)",
-        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 168316,
-      "name": "GPS (w/ Felly)",
-      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
     },
     {
       "added_at": "2023-03-24 04:00:00",

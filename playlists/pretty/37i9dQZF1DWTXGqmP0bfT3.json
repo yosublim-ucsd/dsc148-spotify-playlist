@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 248021,
+  "num_followers": 248416,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0ODAyMCwwMDAwMDAwMDgxNjdhZmM4NzI3NDgzNWI5NzBkYjE5YWFhNjVhNWQ3",
+  "snapshot_id": "MTY4MTE0ODAyMCwwMDAwMDAwMDJhMTk2YzcxYmNhMmVlNDU5NjIyZDI0YWY2MDZlMDY3",
   "tracks": [
     {
       "added_at": "2023-03-17 15:31:59",
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
     },
     {
-      "added_at": "2023-04-14 00:08:54",
+      "added_at": "2023-04-15 01:00:10",
       "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Venom (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "You Want a Battle? (Here's a War)",
-      "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Venom (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "You Want a Battle? (Here's a War)",
+      "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -941,23 +941,7 @@
       "url": "https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn"
     },
     {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
-    },
-    {
-      "added_at": "2023-04-14 00:08:54",
+      "added_at": "2023-04-15 01:00:10",
       "album": {
         "name": "Winner Takes All (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
@@ -975,6 +959,22 @@
       "duration_ms": 205570,
       "name": "Winner Takes All (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Nonpoint",
         "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 239946,
-      "name": "The Mirror And The Ripper",
-      "url": "https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Beyond Hell / Above Heaven",
+        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 239946,
+      "name": "The Mirror And The Ripper",
+      "url": "https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 242640,
       "name": "From The Pinnacle To The Pit",
       "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "The Reckoning",
-      "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
     },
     {
       "added_at": "2023-03-17 15:31:59",

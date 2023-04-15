@@ -2271,6 +2271,32 @@
     },
     {
       "album": {
+        "name": "I Don't Give A",
+        "url": "https://open.spotify.com/album/7yywKxX960dxfTOVgchmzl"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Burrah",
+          "url": "https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155725,
+      "name": "I Don't Give A",
+      "url": "https://open.spotify.com/track/7bEoIWQJwpYTDKupVJ7Frb"
+    },
+    {
+      "album": {
         "name": "Ik Wari",
         "url": "https://open.spotify.com/album/4vlAOBbj7xbuBridlW4UyA"
       },

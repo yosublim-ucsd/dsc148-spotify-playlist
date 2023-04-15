@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Stacey Ryan
 
-303 songs - 17 hr 46 min
+304 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2021-12-03 | 2023-01-28 |
 | [Flashlights](https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb) | 3:14 | 2022-06-10 |  |
 | [Flying On The Ground](https://open.spotify.com/track/5qAVbuw3jd0b0EbA4LuIwr) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Flying On The Ground](https://open.spotify.com/album/3zHzpV6h8GdrgFqZiIGidx) | 3:13 | 2021-12-03 | 2022-04-26 |
+| [Fool For You](https://open.spotify.com/track/1qJOKVRiiaqSpwB1UFPbnl) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Fool For You](https://open.spotify.com/album/3ldC2PLwazUJQTW18DsWLE) | 3:03 | 2023-04-14 |  |
 | [For You](https://open.spotify.com/track/5TdSEnY3HibWrV2BJ8yeOZ) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [nebula.](https://open.spotify.com/album/26Msz7k0xYs5539mNqDWjD) | 4:07 | 2022-05-27 |  |
 | [Four Moons](https://open.spotify.com/track/1HKID3TlgC1HOSGJU6Icya) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Four Moons](https://open.spotify.com/album/03Lr0XypP8kCFSauaugvmi) | 3:35 | 2022-04-29 | 2023-02-16 |
 | [Freedom](https://open.spotify.com/track/5rPKOVZtsRfdTuLWnnGrrY) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Freedom](https://open.spotify.com/album/44l94qLr2caA4ieB6eDT9W) | 3:55 | 2021-12-03 | 2022-07-29 |
@@ -236,7 +237,7 @@
 | [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 | 2022-09-23 |  |
 | [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 | 2022-03-18 |  |
 | [Saint](https://open.spotify.com/track/6f6FKPRVzfZWVQBarW574H) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Saint](https://open.spotify.com/album/3SVZKcujNG8IIZCPj6T7PO) | 4:41 | 2021-12-03 | 2022-07-24 |
-| [Seasonal Love](https://open.spotify.com/track/4XsIjNzaTd19Kuldexl3RA) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Seasonal Love](https://open.spotify.com/album/2KZ8y2pZtmF6MSUOwWrJoG) | 3:05 | 2023-03-17 |  |
+| [Seasonal Love](https://open.spotify.com/track/4XsIjNzaTd19Kuldexl3RA) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Seasonal Love](https://open.spotify.com/album/2KZ8y2pZtmF6MSUOwWrJoG) | 3:05 | 2023-03-17 | 2023-04-15 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |
 | [Shoegaze](https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 2:59 | 2021-12-03 | 2023-01-28 |
 | [Shook](https://open.spotify.com/track/15mlyFocsUp6NsURCb8MI4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:23 | 2023-03-10 |  |

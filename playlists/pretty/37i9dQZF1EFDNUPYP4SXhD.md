@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032 likes - 165 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033 likes - 165 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 4 | [Se Preparó](https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:08 |
 | 5 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
 | 6 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
-| 7 | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/track/0mnAmQX1pciMncT2qFCNmK) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 3:27 |
+| 7 | [SUBEME LA RADIO](https://open.spotify.com/track/0mnAmQX1pciMncT2qFCNmK) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 3:27 |
 | 8 | [Ahora Dice](https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice](https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre) | 4:30 |
 | 9 | [Te Robaré](https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 3:21 |
 | 10 | [La Rompe Corazones](https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Rompe Corazones](https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw) | 3:24 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 86 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
 | 87 | [Escape](https://open.spotify.com/track/1PPHqTL7IpYToKeIuA5pi9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:10 |
 | 88 | [Sin Ropa](https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Sin Ropa](https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX) | 2:35 |
-| 89 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
-| 90 | [Amor Prohibido](https://open.spotify.com/track/6BEegAev4N2O6arBbXgtdd) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 4:09 |
+| 89 | [Amor Prohibido](https://open.spotify.com/track/6BEegAev4N2O6arBbXgtdd) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 4:09 |
+| 90 | [Hola](https://open.spotify.com/track/2taX5z5ZLyCBxkP504Nqmu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 2:48 |
 | 91 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
 | 92 | [Pide Lo Que Tú Quieras](https://open.spotify.com/track/7IteHlPcwD5mzvkXZmimLI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
 | 93 | [Video Llamada](https://open.spotify.com/track/7wQQLVAxrmY4fox5GKasHX) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 3:35 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 164 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 165 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `MjgwMjM4NDIsMDAwMDAwMDA3ODQ0NmNmY2RlYzFlZGVmODZiMmUxN2M5NjUxMDQ1NA==`
+Snapshot ID: `MjgwMjUyODEsMDAwMDAwMDBlM2RiYTU5ZDY3NmM4ZTZjOTFjM2U2NzVjN2ZiNjRlZQ==`

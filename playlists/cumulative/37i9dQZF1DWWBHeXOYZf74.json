@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: KAYTRAMIN\u00c9",
+  "description": "Genre-less. Quality first always. Cover: Jorja Smith",
   "name": "POLLEN",
   "tracks": [
     {
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176413,
       "name": "About You",
       "url": "https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW"
@@ -2062,6 +2062,24 @@
       "duration_ms": 125374,
       "name": "Always",
       "url": "https://open.spotify.com/track/5SRWYwSLYrpzlVrkGVTsbT"
+    },
+    {
+      "album": {
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "album": {
@@ -6563,6 +6581,24 @@
     },
     {
       "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "album": {
         "name": "Charmander",
         "url": "https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE"
       },
@@ -7506,7 +7542,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151413,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy"
@@ -11361,6 +11397,32 @@
     },
     {
       "album": {
+        "name": "FaceTime",
+        "url": "https://open.spotify.com/album/6rJX3JImDualjhMEgYjQ6j"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212147,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4"
+    },
+    {
+      "album": {
         "name": "Fair Chance",
         "url": "https://open.spotify.com/album/77f24Q9GaFt5QfPxo9UxD6"
       },
@@ -12600,7 +12662,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
@@ -15186,7 +15248,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 238831,
       "name": "Heart on Fire",
       "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
@@ -17694,7 +17756,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 139493,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
@@ -21404,7 +21466,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 193400,
       "name": "LUV (I KNOW I WANT THIS FOR REAL)",
       "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
@@ -26945,6 +27007,24 @@
     },
     {
       "album": {
+        "name": "Pressure Bump",
+        "url": "https://open.spotify.com/album/67h21Mpdd5ME56hbAX8IbE"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195339,
+      "name": "Pressure Bump",
+      "url": "https://open.spotify.com/track/6CdHl9Bw10isdinuz9jn3k"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Start Here.",
         "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
       },
@@ -27424,6 +27504,24 @@
       "duration_ms": 268237,
       "name": "Quiet Corners Of My Mind",
       "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
+    },
+    {
+      "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "QUIET ON THE SET",
+      "url": "https://open.spotify.com/track/5xWvCOX5UAgOljuv2QAFtG"
     },
     {
       "album": {
@@ -29378,6 +29476,24 @@
       "duration_ms": 202777,
       "name": "Sapphire Alley",
       "url": "https://open.spotify.com/track/5DamCARBr1qv1aiPS2Hip9"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/7CqjJX9zyeD5oGqhItutRJ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179776,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2ZePtlVh7zuwJuRsyDf0wv"
     },
     {
       "album": {
@@ -34684,7 +34800,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 219106,
       "name": "This World Couldn\u2019t See Us",
       "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
@@ -35438,6 +35554,24 @@
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
     },
     {
       "album": {
@@ -38223,6 +38357,32 @@
     },
     {
       "album": {
+        "name": "SPEED RUN",
+        "url": "https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        },
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "WONDERLAND",
+      "url": "https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0"
+    },
+    {
+      "album": {
         "name": "Woo Woo Woo",
         "url": "https://open.spotify.com/album/5aP1A8k6SG9h1Ebd8WEojF"
       },
@@ -38746,7 +38906,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/52toMEmu3DXhXT059TTyFL"

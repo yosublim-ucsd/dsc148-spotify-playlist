@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 
 > Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,363 likes - 21 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,417 likes - 21 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ellis Island](https://open.spotify.com/track/6LKYTKdEEgikRjVjKXj3d9) | [Meredith Monk](https://open.spotify.com/artist/1WN9bXZmI41JB1tCmrSC3M), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ), [Ursula Oppens](https://open.spotify.com/artist/7IxqYfRCtVZf5syhfPB8Ci) | [Meredith Monk: Piano Songs](https://open.spotify.com/album/2HiKHHXUaH84DcFkvpYhD3) | 3:02 |
 | 2 | ["we circle through the night, consumed by fire" \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7pAksEVGKqiXRvl2bO0vhy) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spotify Singles](https://open.spotify.com/album/0A5p1Mwf2dK9MAG804kNcg) | 9:54 |
-| 3 | [Reminiscence](https://open.spotify.com/track/2pNkNx94XEbvpjUBd9DR8o) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Reminiscence](https://open.spotify.com/album/44gt02albfXsycbp4xmOpK) | 9:28 |
+| 3 | [Reminiscence](https://open.spotify.com/track/0QOMgL0YffHvljlHpjUFOF) | [Hélène Vogelsinger](https://open.spotify.com/artist/7x4r9H8a1f60caFnTB4xmA) | [Reminiscence](https://open.spotify.com/album/3iZzGbgxvlxafJCj7V1A13) | 9:28 |
 | 4 | [Blue i](https://open.spotify.com/track/4t2Ymp7Fa9jr3cgKt8XYAP) | [Jerrilynn Patton](https://open.spotify.com/artist/40LnJya3zz55sUnv2ojpWR), [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Wayne McGregor: Collaboration](https://open.spotify.com/album/0p11IruYZq7lsEAXbgNBvW) | 4:04 |
 | 5 | [Three Worlds: Music from Woolf Works / Orlando: Entropy](https://open.spotify.com/track/4RwJIEJfoIVnFpi4hfhnFL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Three Worlds: Music From Woolf Works](https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D) | 1:32 |
 | 6 | [body](https://open.spotify.com/track/7ioA3dpnUBGyoWapMSxWnv) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 2:19 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 | 20 | [Violin Sonata No\. 2 in A Minor, BWV 1003: IV\. Allegro](https://open.spotify.com/track/2djkDNY0TN5C34OZvZmxHx) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Christiane Edinger](https://open.spotify.com/artist/2qn7oYvrCrKti56IQXOyLt) | [Bach: Sonatas and Partitas for Solo Violin, Vol\. 1](https://open.spotify.com/album/4Jj0A2cAFVSdYkAdhZ4Oju) | 5:08 |
 | 21 | [Find Our Way \(Arr\. Clements\)](https://open.spotify.com/track/0surAOdlCORVWoKRg2V6ef) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Gabriella Swallow](https://open.spotify.com/artist/6AwvMaVqPLCm4wOjmq2WFT) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:47 |
 
-Snapshot ID: `MTY3MzM2ODcyNiwwMDAwMDAwMDZkZWNhYmFmZmI4MzNlMjk1MGY5ZjEyOTAyNWRlNjJk`
+Snapshot ID: `MTY3MzM2ODcyNiwwMDAwMDAwMDg3NmI2MGVhOTQ4Y2JhNTQ3N2Y0N2YzMjI4YThhMjU0`

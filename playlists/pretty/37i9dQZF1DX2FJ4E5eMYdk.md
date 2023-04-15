@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,738 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,822 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 30 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 31 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 |
 | 32 | [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 |
-| 33 | [Love Love Love](https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 3:42 |
-| 34 | [Listening In](https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:55 |
+| 33 | [Listening In](https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:55 |
+| 34 | [Love Love Love](https://open.spotify.com/track/7uHLE0CpfsRl6Cil3965jn) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/3L8hsIkIH21xMPiRjalZmH) | 3:42 |
 | 35 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
 | 36 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 |
 | 37 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 50 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 51 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 52 | [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 |
-| 53 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
-| 54 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
-| 55 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
+| 53 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
+| 54 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 55 | [Nighthawks](https://open.spotify.com/track/3VGFQIgw8EZpjpuqcmRSc5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [Panther in the Dollhouse](https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn) | 3:23 |
 | 56 | [Eno Nothing](https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:36 |
 | 57 | [Renegade](https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Renegade](https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ) | 3:54 |
 | 58 | [Cecil Taylor](https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX) | [Jonathan Wilson](https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw) | [Fanfare](https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z) | 6:30 |
 | 59 | [The Light Of Day](https://open.spotify.com/track/4vev473dJkBpiChkglAscC) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [The Light Of Day](https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs) | 2:52 |
 | 60 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDQ4YjZjZDc0Nzc1MzkzMzMwMTAyY2MxYzA2NzVkYjMw`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDdhOGJmYjUwODM2MjE3OWE1NDRkZTZkY2VhMGNkOGRk`

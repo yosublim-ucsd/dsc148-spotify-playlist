@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,945 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,971 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 29 | [Labios Carmin](https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa) | [Los Vaguens](https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2) | [Bestiario de Santa Lucia](https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a) | 3:29 |
 | 30 | [Farewell to Monster Island](https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 8:26 |
 | 31 | [Frenesick](https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:25 |
-| 32 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 |
-| 33 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 |
-| 34 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
-| 35 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
+| 32 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
+| 33 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 |
+| 34 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
+| 35 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 |
 | 36 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 |
 | 37 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
 | 38 | [Olvidemos el Romance .\. Cojamos Ya!](https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Perfume de Violetas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03663WodvoLxswAm8iHB4r) | 2:15 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 45 | [Popcorno Revenge](https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Surf Riders from the Swamp Lagoon](https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp) | 2:34 |
 | 46 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
 | 47 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 |
-| 48 | [Mar De Caca](https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes O No Puedes!](https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8) | 3:34 |
-| 49 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
+| 48 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
+| 49 | [Mar De Caca](https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes O No Puedes!](https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8) | 3:34 |
 | 50 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 |
 | 51 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 52 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 71 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 |
 | 72 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
 | 73 | [Defcon 5](https://open.spotify.com/track/5Esuk5nhe9nBgTDLXZWh0V) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 3:13 |
-| 74 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 |
-| 75 | [Chicas Kamikaze](https://open.spotify.com/track/72kbuWvm36guCtSreHM203) | [Matorralman](https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB) | [Guateque Estelar](https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj) | 5:11 |
+| 74 | [Chicas Kamikaze](https://open.spotify.com/track/72kbuWvm36guCtSreHM203) | [Matorralman](https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB) | [Guateque Estelar](https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj) | 5:11 |
+| 75 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 |
 
-Snapshot ID: `MTY3OTYzNzYwMCwwMDAwMDAwMGFmY2YyZjdmOGQxMGMzZjIzZTgwYTYzMWE3YWNkODFk`
+Snapshot ID: `MTY3OTYzNzYwMCwwMDAwMDAwMGNkZDcwNDQ1YTk2ZGVlMjcyNTcyNDYxMjhkZGMwOTQz`

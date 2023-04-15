@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+      },
+      "artists": [
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207037,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
+    },
+    {
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 257647,
       "name": "Ease",
       "url": "https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv"
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 168018,
       "name": "INTERMISSION",
       "url": "https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ"
@@ -2172,6 +2194,24 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "album": {
+        "name": "Korokoro",
+        "url": "https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Korokoro",
+      "url": "https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10"
     },
     {
       "album": {
@@ -2733,6 +2773,36 @@
     },
     {
       "album": {
+        "name": "Oh Ma Linda",
+        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
+    },
+    {
+      "album": {
         "name": "Sex Over Love (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
       },
@@ -2818,6 +2888,28 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "Open The Front Door",
+        "url": "https://open.spotify.com/album/3s6R1QUm992adma0tFufO6"
+      },
+      "artists": [
+        {
+          "name": "Omotee",
+          "url": "https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169769,
+      "name": "Open The Front Door",
+      "url": "https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP"
     },
     {
       "album": {
@@ -2916,7 +3008,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 161684,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
@@ -3092,6 +3184,28 @@
       "duration_ms": 178064,
       "name": "Pray 2 The East (feat. BNXN fka Buju)",
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
+    },
+    {
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "album": {
@@ -3654,7 +3768,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -3932,7 +4046,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162692,
       "name": "Wahala",
       "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"
@@ -4002,7 +4116,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186900,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"

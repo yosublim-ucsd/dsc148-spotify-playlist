@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-163 songs - 14 hr 6 min
+164 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Eghass Malan](https://open.spotify.com/track/6XfJZKrb14QWubXAQzKngU) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/2I4WOuSnQzkxC4tbKpg7B1) | 4:49 | 2021-10-21 | 2022-04-01 |
 | [Eghass Malan](https://open.spotify.com/track/79ewF7kpGeCwdZBuj8I8KN) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:49 | 2022-10-06 |  |
 | [El\-Eid](https://open.spotify.com/track/58kXj7LtX3jnEiDHrDi8Up) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7omcE48OJuP5tSMHETMvu2) | 0:27 | 2021-10-21 | 2022-10-14 |
-| [El\-Eid](https://open.spotify.com/track/6wpPRFQ1kVlwfw1CyQJzaX) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7KCZDVv5YUkewQ8DgOS2RT) | 0:27 | 2022-10-06 |  |
+| [El\-Eid](https://open.spotify.com/track/6wpPRFQ1kVlwfw1CyQJzaX) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7KCZDVv5YUkewQ8DgOS2RT) | 0:27 | 2022-10-06 | 2023-04-15 |
 | [FaceTime](https://open.spotify.com/track/0tBoaUMgYe6JuDHsTvVSpP) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4wACRe7PDRxyJCa1u4tNf7) | 2:33 | 2023-03-06 | 2023-03-09 |
 | [FaceTime](https://open.spotify.com/track/2eKZvfQGKWrpASz67UCvTo) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [FaceTime](https://open.spotify.com/album/4pQ8M36p9foCdo3DMD23FC) | 2:33 | 2023-03-06 | 2023-03-14 |
 | [Fi Hadret El Naby](https://open.spotify.com/track/3xbAmCdLUQcvaaYVXRtPae) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Fi Hadret Al Mahboob](https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf) | 2:57 | 2022-03-31 | 2022-04-18 |
@@ -159,6 +159,7 @@
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2023-03-06 | 2023-03-14 |
 | [Wohi Khuda](https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Wohi Khuda](https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp) | 6:49 | 2022-03-31 | 2022-04-18 |
 | [Wohi Khudi Hai \- Hamd](https://open.spotify.com/track/3THMwRl9JhZkbzKOn0FjSS) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Wohi Khuda Hai Vol\. 57](https://open.spotify.com/album/5TYbHNXo0SeRNytc4BT7TU) | 6:04 | 2022-04-18 | 2022-10-07 |
+| [Ya Habibi Ya Muhammad](https://open.spotify.com/track/2cgUPNcVIuDJ94R1c2xcpx) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Ya Habibi Ya Muhammad](https://open.spotify.com/album/5APg4pDxA6jf6UKSW1vsi9) | 4:04 | 2023-04-14 |  |
 | [Ya Hayyu Ya Qayyum](https://open.spotify.com/track/1ls3yy0y5JFqIt3qd2vGXe) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [O Lovers: Music from the Unseen World](https://open.spotify.com/album/2JiEwsAb7Wa3Xxn9gbd3z9) | 5:18 | 2022-04-18 | 2022-10-07 |
 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 | 2022-04-18 | 2022-10-07 |
 | [Ya Nabi Salam Alayka \- Arabic Version \- Bonus Track](https://open.spotify.com/track/1UNOACS4O1ROKbDsLfMjOd) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(French Version\)](https://open.spotify.com/album/13jtfxj1q4UrhsAOQQjr68) | 4:58 | 2022-03-31 | 2022-04-18 |

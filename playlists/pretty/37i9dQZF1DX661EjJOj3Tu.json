@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 502185,
+  "num_followers": 502285,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODg5NDMxMiwwMDAwMDAwMGFkM2JmYzUyNWRmMmE3YjczOGM1MmYxZTZkYjgxNTlk",
+  "snapshot_id": "MTY3ODg5NDMxMiwwMDAwMDAwMDIxZDkzNjhiZmNlYWI1MTJjMTI0YjIwMTQwMzJjYjg0",
   "tracks": [
     {
       "added_at": "2023-03-15 15:31:52",
@@ -719,66 +719,6 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Scarborough Fair",
-      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Bobby Carcass\u00e9s",
-          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
-        }
-      ],
-      "duration_ms": 417302,
-      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
-      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
         "name": "Latin Fever",
         "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
       },
@@ -823,6 +763,66 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Bobby Carcass\u00e9s",
+          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
+        }
+      ],
+      "duration_ms": 417302,
+      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
+      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Scarborough Fair",
+      "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -839,8 +839,8 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+        "name": "Plays The Contemporary Music Of Mexico And Brazil",
+        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
       },
       "artists": [
         {
@@ -848,25 +848,9 @@
           "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
+      "duration_ms": 170653,
+      "name": "Se E Tarde, Me Perdoa",
+      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
         "name": "A Donde Voy",
         "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
@@ -995,8 +995,8 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Plays The Contemporary Music Of Mexico And Brazil",
-        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 170653,
-      "name": "Se E Tarde, Me Perdoa",
-      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2023-03-15 15:31:52",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -1531,22 +1515,6 @@
     {
       "added_at": "2023-03-15 15:31:52",
       "album": {
-        "name": "La Perfecta II",
-        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 330826,
-      "name": "Tirandote Flores II",
-      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
-    },
-    {
-      "added_at": "2023-03-15 15:31:52",
-      "album": {
         "name": "Duologue",
         "url": "https://open.spotify.com/album/1SW7WYNVqXh4BXJFkfWJTj"
       },
@@ -1563,6 +1531,38 @@
       "duration_ms": 203493,
       "name": "Africa",
       "url": "https://open.spotify.com/track/3IegPPKqQgbvrvQZ0Yo8wb"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "La Perfecta II",
+        "url": "https://open.spotify.com/album/2PMNAdxyoVxGkrECXSmzD1"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 330826,
+      "name": "Tirandote Flores II",
+      "url": "https://open.spotify.com/track/7vhOv82NZMxWKx5VrfFBNf"
+    },
+    {
+      "added_at": "2023-03-15 15:31:52",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
     },
     {
       "added_at": "2023-03-15 15:31:52",

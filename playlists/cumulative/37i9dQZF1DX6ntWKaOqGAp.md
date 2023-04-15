@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: MAN WITH A MISSION × milet
 
-339 songs - 21 hr 33 min
+341 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [ai no hana](https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ai no hana](https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p) | 4:00 | 2023-04-04 |  |
 | [Ai no Nuime](https://open.spotify.com/track/2VrLKMGOl1xiqMePpmBe3V) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Ai no Nuime](https://open.spotify.com/album/4TpFPHYF6Qpz8Mq5zPLtHT) | 3:59 | 2023-01-13 | 2023-01-25 |
 | [ALICE](https://open.spotify.com/track/5jlAmWgxqh37d7ViI9dLpd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo), [Arisa Ushimaru](https://open.spotify.com/artist/0H4lC5PIl2QNeHSTXUHjoB) | [ALICE](https://open.spotify.com/album/1awp04elQ594RklhstBPkm) | 3:43 | 2023-01-13 | 2023-02-22 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-14 |  |
 | [Asayake no Mukou](https://open.spotify.com/track/2VjtLskTqFS32qhiuSJGZu) | [Ryota Fujimaki](https://open.spotify.com/artist/7r3FkquAY1tv1roZs3unJ1) | [Asayake no Mukou](https://open.spotify.com/album/3GurbiI6aWgptNIkGKJ9Xs) | 5:25 | 2023-02-28 | 2023-04-05 |
 | [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 | 2023-02-14 | 2023-02-22 |
 | [Bad Night](https://open.spotify.com/track/6iqBxITQpEILbhSPb5RthA) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Bad Night](https://open.spotify.com/album/2ugqR8jijlCZygWxtyfLUJ) | 4:08 | 2023-02-28 |  |
@@ -59,10 +60,11 @@
 | [Fusen Sanka](https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 4:14 | 2023-01-13 | 2023-02-10 |
 | [FUSION](https://open.spotify.com/track/5Am9Kz8iYJH7xmcRnApAuE) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 3:44 | 2023-01-13 | 2023-01-18 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2023-01-13 | 2023-02-15 |
-| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 |  |
+| [Girl in the mirror](https://open.spotify.com/track/2qmYE3DhZb8dTh8Z5Od53c) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the mirror](https://open.spotify.com/album/71Oyl2JQIQiJjnWXIZm1qa) | 3:10 | 2023-04-13 | 2023-04-15 |
+| [Girl in the Mirror](https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Girl in the Mirror](https://open.spotify.com/album/7hlebW7mJimUe2JOfq3NrA) | 3:10 | 2023-04-14 |  |
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-04-13 |  |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-04-05 |
-| [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 | 2023-03-23 |
+| [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 |  |
 | [Hard Pool](https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hard Pool](https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo) | 4:36 | 2023-01-13 | 2023-02-22 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-04 |  |
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-03-28 |  |
@@ -70,7 +72,7 @@
 | [Hibiranran.](https://open.spotify.com/track/2DqdszvU0Ue9A1zHAm33PG) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hibiranran.](https://open.spotify.com/album/0IpuDe5NRfYN1ICCyGf7OZ) | 3:04 | 2023-03-07 | 2023-03-29 |
 | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 | 2023-02-15 |
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-02-28 | 2023-03-18 |
-| [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 | 2023-03-16 |  |
+| [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 | 2023-03-16 | 2023-04-15 |
 | [Hitokoto](https://open.spotify.com/track/6uNXTZURZmtPKqSXItjmhd) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 4:21 | 2023-03-28 |  |
 | [Honey](https://open.spotify.com/track/18DQ9iePAAoZUFjnAaDG88) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 3:02 | 2023-01-13 | 2023-02-19 |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-03-25 | 2023-03-29 |

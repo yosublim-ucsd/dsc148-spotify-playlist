@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Andru en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Nsqk en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Algo De Verdad",
+        "url": "https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147853,
+      "name": "Algo De Verdad",
+      "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
+    },
+    {
+      "album": {
         "name": "Aloha",
         "url": "https://open.spotify.com/album/1n9qhPuxCqXD7X1dA5nQox"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 208097,
       "name": "Aura - Spanish Version",
       "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
@@ -1131,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
+    },
+    {
+      "album": {
         "name": "CTM",
         "url": "https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC"
       },
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 168642,
       "name": "Dueles Tan Bien (Donovan's Playground Remix)",
       "url": "https://open.spotify.com/track/62MO58gO3RjXkydHvn8UnS"
@@ -1716,6 +1752,28 @@
       "duration_ms": 176453,
       "name": "es mejor",
       "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
+    },
+    {
+      "album": {
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
     },
     {
       "album": {
@@ -3065,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Mundo Fungi",
+        "url": "https://open.spotify.com/album/1eIZG284wSaIwlIdeEpQhA"
+      },
+      "artists": [
+        {
+          "name": "Karina Galicia",
+          "url": "https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212819,
+      "name": "Mundo Fungi",
+      "url": "https://open.spotify.com/track/4kE4OAlEOPierDWL2SoDP6"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1eca Mec\u00e1nica",
         "url": "https://open.spotify.com/album/16W4DDRtb65d98Fp0sHFrJ"
       },
@@ -3236,7 +3312,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 247265,
       "name": "Nadie Se Muere de Amor </3",
       "url": "https://open.spotify.com/track/0mqmat0uaYmrPHw2nFFKcV"
@@ -5192,7 +5268,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 170958,
       "name": "Todo Est\u00e1 Bien",
       "url": "https://open.spotify.com/track/38eAUn1uCsiFDVtcqleR0k"

@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-110 songs - 6 hr 42 min
+112 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2023-02-24 |  |
 | [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 | 2023-03-24 |  |
 | [Eveline](https://open.spotify.com/track/6wgCah9IU4VP9zqqMSVxk7) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [farmland](https://open.spotify.com/album/7HD3bbzKRfWsKX5KvaQTe4) | 3:50 | 2023-02-24 |  |
+| [Even Jesus Got The Blues](https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Even Jesus Got The Blues](https://open.spotify.com/album/54V2QD9hvipUq4629FNm36) | 3:31 | 2023-04-14 |  |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-03-27 |  |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2023-02-24 |  |
 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 | 2023-02-24 |  |
@@ -44,7 +45,7 @@
 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 | 2023-02-24 |  |
 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2023-02-24 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
-| [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 | 2023-02-24 |  |
+| [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 | 2023-02-24 | 2023-04-15 |
 | [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 | 2023-03-24 |  |
 | [Horses Are Faster](https://open.spotify.com/track/3Jtn0oLAGr0KFA5J8CaT4C) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Ian Munsick \- EP](https://open.spotify.com/album/4SlHhLorpkGrQWiXLxhlLB) | 4:07 | 2023-02-24 |  |
 | [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 | 2023-04-07 |  |
@@ -97,6 +98,7 @@
 | [Stayin' Quit](https://open.spotify.com/track/5mt0XIGAbYidztqDQxv0DH) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Stayin' Quit](https://open.spotify.com/album/6dMpzHaEE4fND0GXkqHMc7) | 3:06 | 2023-02-24 |  |
 | [Stop the Clock](https://open.spotify.com/track/2rAJxlcZxBv6d3SEj6Q2dz) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Twenty on High](https://open.spotify.com/album/7qAjWqcitYncXKTZzOAFQo) | 3:09 | 2023-03-03 |  |
 | [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 | 2023-04-03 |  |
+| [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 | 2023-04-14 |  |
 | [Take Me Down River](https://open.spotify.com/track/1JB1ib2LlccjoFHbHKaK9V) | [Grayson Little](https://open.spotify.com/artist/3m9JXQ3NwpCcmzwOKH5AKM) | [Take Me Down River](https://open.spotify.com/album/2lM7nqpNNf7kanAoVTB18P) | 3:31 | 2023-02-24 |  |
 | [Tattoos](https://open.spotify.com/track/1XcxubL4Y4U4gxLeIbb8VM) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:23 | 2023-02-24 |  |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2023-02-24 |  |

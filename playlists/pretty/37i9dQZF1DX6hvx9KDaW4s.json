@@ -1,12 +1,12 @@
 {
   "description": "For when only raw rock will do...",
-  "num_followers": 546237,
+  "num_followers": 546468,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NzQ0MSwwMDAwMDAwMDFjYzM4OTA2YjFlMDRlODliYjE2ODhjNGIwNDAyOGQ2",
+  "snapshot_id": "MTY3NTg1NzQ0MSwwMDAwMDAwMDE5ODIxNWRjMjFmNjc0MTU2ODYyMDU2MTU1N2I2MmU3",
   "tracks": [
     {
       "added_at": "2021-04-07 17:15:56",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-04-07 17:15:56",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
-    },
-    {
-      "added_at": "2021-04-07 17:15:56",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2021-04-07 17:15:56",
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
       "added_at": "2021-04-07 17:15:56",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-04-07 17:15:56",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2021-04-07 17:15:56",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2021-04-07 17:15:56",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2021-04-07 17:15:56",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-07 17:15:56",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2021-04-07 17:15:56",
-      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2021-04-07 17:15:56",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2021-04-07 17:15:56",

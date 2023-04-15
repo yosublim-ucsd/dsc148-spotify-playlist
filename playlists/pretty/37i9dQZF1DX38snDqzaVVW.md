@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,243 likes - 55 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,343 likes - 55 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hubb Ennabi](https://open.spotify.com/track/2qZ7TOLvwtD8uWn5e8qYXc) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Hubb Ennabi](https://open.spotify.com/album/2YZFEVlbqNJs22h35HPfmY) | 3:53 |
 | 2 | [Salaam](https://open.spotify.com/track/0ekuaPp7dcww2tlJsa3imW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Salaam](https://open.spotify.com/album/2URs3EtQlWwRCg7y4VEBgU) | 5:06 |
-| 3 | [El\-Eid](https://open.spotify.com/track/6wpPRFQ1kVlwfw1CyQJzaX) | [Islamia School Kids](https://open.spotify.com/artist/5yM1BjpLzBIn1l6GQKQoM7) | [I Look, I See 2](https://open.spotify.com/album/7KCZDVv5YUkewQ8DgOS2RT) | 0:27 |
+| 3 | [Ya Habibi Ya Muhammad](https://open.spotify.com/track/2cgUPNcVIuDJ94R1c2xcpx) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Ya Habibi Ya Muhammad](https://open.spotify.com/album/5APg4pDxA6jf6UKSW1vsi9) | 4:04 |
 | 4 | [Ashraf Al Araab](https://open.spotify.com/track/67i5XcT7Ry0Y7wzRegExsh) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Ashraf Al Araab](https://open.spotify.com/album/3AKgdSxdOAUuDU3nmqKX6H) | 3:06 |
 | 5 | [Mohamed](https://open.spotify.com/track/0xUI2k7FElQ001qkwtjyvj) | [Lotfi Bouchnak](https://open.spotify.com/artist/4JQG5SrE0nqGr8dhiDkc1z) | [Mohamed](https://open.spotify.com/album/0ZZPTgbUbWNwWswex1feHB) | 6:58 |
 | 6 | [Oualahila Ar Tesninam](https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv) | 3:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 54 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 55 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MTY4MDIxMjQ2NywwMDAwMDAwMDg1M2NmYjY2ZDE1ZThkYjI1ZTdlOGNmY2JiYTIwZTJm`
+Snapshot ID: `MTY4MTQ0MTAwOSwwMDAwMDAwMGYzZDJlMmQwZGRhNzNiZWU1MzJiNzRmYWQ2MzkzOGJl`

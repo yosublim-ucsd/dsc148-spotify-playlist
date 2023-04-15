@@ -5755,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "Stay Awhile / I Only Want To Be With You",
+        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
+    },
+    {
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -14694,7 +14712,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"

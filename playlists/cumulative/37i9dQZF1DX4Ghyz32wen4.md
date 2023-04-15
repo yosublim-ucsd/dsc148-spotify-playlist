@@ -2,9 +2,9 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Polimá Westcoast en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Kenia OS y Gera MX en portada.
 
-97 songs - 5 hr 14 min
+99 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 | 2022-04-25 |  |
 | [Conexión](https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 | 2023-04-07 |  |
 | [CONTIGO LA PASO CABRON](https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CONTIGO LA PASO CABRON](https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu) | 2:35 | 2023-02-24 |  |
+| [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-14 |  |
 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 | 2023-01-20 |  |
 | [Cómo Te Olvido?](https://open.spotify.com/track/1QcbxA9ILapCLgnFNxs3RE) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/5VUIu125IKTjmC02C0MlDq) | 3:08 | 2022-04-25 | 2023-02-16 |
 | [Cómo Te Olvido?](https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/7zuDQkt1hiK1zWOqdZR3yN) | 3:08 | 2022-07-23 |  |
@@ -89,6 +90,7 @@
 | [Quédate](https://open.spotify.com/track/2gj59R9nZqQ5QeKSiYWBs6) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Rumbo](https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D) | 2:43 | 2022-04-25 |  |
 | [Reina Pepiada](https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 4:04 | 2022-04-25 |  |
 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 | 2022-04-25 |  |
+| [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 | 2023-04-14 |  |
 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-04-25 |  |
 | [Sería Un Placer Remix](https://open.spotify.com/track/3DW7i5YILOqAINGTNcLv9K) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sería Un Placer Remix](https://open.spotify.com/album/2XiFZMIjMpoclohZs0mpnQ) | 3:54 | 2022-04-25 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tu Supieras](https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD) | 3:45 | 2023-03-31 |  |

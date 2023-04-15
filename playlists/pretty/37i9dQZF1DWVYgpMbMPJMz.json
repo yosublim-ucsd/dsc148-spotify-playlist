@@ -1,13 +1,33 @@
 {
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD?si=suHi5d6ZQNWk-i7_N-PeNw\">Housefires</a>",
-  "num_followers": 962004,
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD?si=10986ec263584463\">Naomi Raine</a>",
+  "num_followers": 962149,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg3MDM5MCwwMDAwMDAwMGM4YmE4ZTMzN2MxMDEzMzI2ZWQyNmE1NzNiYzEwMmNk",
+  "snapshot_id": "MTY4MTQ2MDQ3MywwMDAwMDAwMDU3MzdiYjcyYzM0YjkwYWYyNTkzNGZhYmMyZDcyZTg1",
   "tracks": [
+    {
+      "added_at": "2023-04-14 08:21:13",
+      "album": {
+        "name": "Paul & Silas (At Midnight) [Live]",
+        "url": "https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 628695,
+      "name": "Paul & Silas (At Midnight) - Live",
+      "url": "https://open.spotify.com/track/5ayC8O7yZHMjdIGUSomCZK"
+    },
     {
       "added_at": "2023-04-07 12:26:30",
       "album": {
@@ -143,6 +163,22 @@
     {
       "added_at": "2023-04-07 12:26:30",
       "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2023-04-07 12:26:30",
+      "album": {
         "name": "Completely Abandoned (Live)",
         "url": "https://open.spotify.com/album/2IbZ16xSwJAQnxGM2CoHhe"
       },
@@ -159,6 +195,22 @@
       "duration_ms": 354140,
       "name": "Completely Abandoned - Live",
       "url": "https://open.spotify.com/track/0WbABN4mypl8z5roDZMQeV"
+    },
+    {
+      "added_at": "2023-04-14 08:21:13",
+      "album": {
+        "name": "Gratitude - LIVE from Miracle Nights",
+        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 418333,
+      "name": "Gratitude - LIVE from Miracle Nights",
+      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
     },
     {
       "added_at": "2023-04-07 12:26:30",
@@ -405,20 +457,28 @@
       "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
-      "added_at": "2023-04-07 12:26:30",
+      "added_at": "2023-04-14 08:21:13",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+        "name": "Steady Light (Live from LO Conference) [Deluxe]",
+        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o"
         }
       ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+      "duration_ms": 625955,
+      "name": "Open (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
     },
     {
       "added_at": "2023-04-07 12:26:30",
@@ -1376,7 +1436,7 @@
       },
       "artists": [
         {
-          "name": "Vive Worship",
+          "name": "VIVE Worship",
           "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
         }
       ],
@@ -1599,26 +1659,6 @@
     {
       "added_at": "2023-04-07 12:26:30",
       "album": {
-        "name": "Grace Upon Grace",
-        "url": "https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 481266,
-      "name": "Inheritance",
-      "url": "https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz"
-    },
-    {
-      "added_at": "2023-04-07 12:26:30",
-      "album": {
         "name": "The Kindness Of The Cross",
         "url": "https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm"
       },
@@ -1667,26 +1707,6 @@
       "duration_ms": 284833,
       "name": "Jesus Always",
       "url": "https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO"
-    },
-    {
-      "added_at": "2023-04-07 12:26:30",
-      "album": {
-        "name": "My Deliverer",
-        "url": "https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        },
-        {
-          "name": "Chichi Onyekanne",
-          "url": "https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "My Deliverer",
-      "url": "https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO"
     },
     {
       "added_at": "2023-04-07 12:26:30",
@@ -1815,22 +1835,6 @@
       "duration_ms": 326586,
       "name": "Revive Us",
       "url": "https://open.spotify.com/track/482JokR9fmFzeaJfMTdvzr"
-    },
-    {
-      "added_at": "2023-04-07 12:26:30",
-      "album": {
-        "name": "All Honor",
-        "url": "https://open.spotify.com/album/2yxSzzf7wQu9LYVLE6viE9"
-      },
-      "artists": [
-        {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        }
-      ],
-      "duration_ms": 401433,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/7CLoo7Oy4DUdAn9mIBpUtY"
     },
     {
       "added_at": "2023-04-07 12:26:30",

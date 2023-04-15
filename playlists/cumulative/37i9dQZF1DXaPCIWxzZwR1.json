@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop. Cover: Maisie Peters ",
+  "description": "next gen pop Cover: Lauren Spencer Smith, GAYLE & Em Beihold  ",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/4DOoNte9Yflvfwzlguyp2N"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150687,
+      "name": "30",
+      "url": "https://open.spotify.com/track/20UpxV1Z8hdMny8abxHPL9"
+    },
+    {
+      "album": {
         "name": "34+35 (Remix)",
         "url": "https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 210202,
       "name": "a little more time",
       "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 178077,
       "name": "Call U After Rehab",
       "url": "https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh"
@@ -5433,6 +5451,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "album": {
         "name": "dancing in the kitchen",
         "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
       },
@@ -5520,6 +5556,24 @@
       "duration_ms": 175508,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -6572,7 +6626,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 189280,
       "name": "Driving",
       "url": "https://open.spotify.com/track/2FiWE02UIZU8b6XmAi0SwQ"
@@ -6750,6 +6804,24 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
     },
     {
       "album": {
@@ -6956,10 +7028,32 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "album": {
@@ -7466,6 +7560,32 @@
       "duration_ms": 183200,
       "name": "fantasies",
       "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
+    },
+    {
+      "album": {
+        "name": "Fantasy (with GAYLE & Em Beihold)",
+        "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
     },
     {
       "album": {
@@ -10449,6 +10569,24 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
@@ -11348,7 +11486,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 145128,
       "name": "i loved a boy",
       "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
@@ -13306,7 +13444,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 119298,
       "name": "Kulture Klub - Sped Up",
       "url": "https://open.spotify.com/track/2P3LdHUtN4ECUaK5MaYhaJ"
@@ -14872,7 +15010,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 132370,
       "name": "Made It Past October",
       "url": "https://open.spotify.com/track/08GWRVbcOrqwJXUszRxAii"
@@ -14948,7 +15086,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 121271,
       "name": "make you sick",
       "url": "https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1"
@@ -16226,7 +16364,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
@@ -17683,6 +17821,24 @@
     },
     {
       "album": {
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
+    },
+    {
+      "album": {
         "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG"
       },
@@ -18272,6 +18428,24 @@
       "duration_ms": 185112,
       "name": "Piece of Work",
       "url": "https://open.spotify.com/track/0tLK0fFNlY43ntSpXjR8J0"
+    },
+    {
+      "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/0wvlzL66ClrOKiy3Vc4s5E"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147066,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/63Nx8zAsDf3YRfZmNF5OTC"
     },
     {
       "album": {
@@ -20592,6 +20766,24 @@
       "duration_ms": 177750,
       "name": "Skinny Dipping",
       "url": "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi"
+    },
+    {
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "album": {
@@ -25268,6 +25460,24 @@
       "duration_ms": 168266,
       "name": "what it means to be a girl",
       "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
+    },
+    {
+      "album": {
+        "name": "What Was",
+        "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "What Was",
+      "url": "https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6"
     },
     {
       "album": {

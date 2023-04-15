@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "2MORE",
+        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131913,
+      "name": "aorta",
+      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
+    },
+    {
+      "album": {
         "name": "Art of War (feat. Denzel Curry & Rico Nasty)",
         "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
       },
@@ -635,6 +653,24 @@
     },
     {
       "album": {
+        "name": "bullseye",
+        "url": "https://open.spotify.com/album/6ZPNyRhfoQ9hojx3MMndrn"
+      },
+      "artists": [
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146220,
+      "name": "bullseye",
+      "url": "https://open.spotify.com/track/0b25AYlOTrn1WhwPNTKBDE"
+    },
+    {
+      "album": {
         "name": "SCARING THE HOES",
         "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
       },
@@ -824,7 +860,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187896,
       "name": "COLUMBIA",
       "url": "https://open.spotify.com/track/1IFPahnCrbKR7QXE6aePa0"
@@ -3768,7 +3804,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192715,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
@@ -4385,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "Teddy",
+        "url": "https://open.spotify.com/album/2ozzquZwWo8Qa82umpOARZ"
+      },
+      "artists": [
+        {
+          "name": "OhEm",
+          "url": "https://open.spotify.com/artist/5a9tuA9hAvmwXEjk9t6x0U"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130287,
+      "name": "Teddy",
+      "url": "https://open.spotify.com/track/7o9kPk7dPczyrjxdnuGC0u"
+    },
+    {
+      "album": {
         "name": "TEST ME",
         "url": "https://open.spotify.com/album/0o0jRR4q6TNC6rGLLFZLxN"
       },
@@ -4756,6 +4810,24 @@
       "duration_ms": 138299,
       "name": "You Make Me Sick!",
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
+    },
+    {
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261515,
+      "name": "Yum",
+      "url": "https://open.spotify.com/track/6srSZ98GEz495b0ejEIVGl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66312,
+  "num_followers": 66322,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDQzM2FkZjVmZGQ2OWNiNGQwNDM5ZTFiNTkwMThmOWJl",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGI5ZmRkNDViNjk1ZTMyZmRmNjRkNGM1YjkxODBlMjE3",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -515,22 +515,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Wayback",
-        "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
       "artists": [
         {
-          "name": "O-Hund",
-          "url": "https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 208551,
-      "name": "Wayback",
-      "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+        "name": "Wayback",
+        "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+          "name": "O-Hund",
+          "url": "https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+      "duration_ms": 208551,
+      "name": "Wayback",
+      "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
     },
     {
       "added_at": "2023-04-13 22:00:00",

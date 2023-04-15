@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,486 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,544 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 67 | [Café Con Pan](https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 4:25 |
 | 68 | [Guantanamera](https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Coleccion de Oro](https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo) | 2:43 |
 | 69 | [Hot Tamales \(Los Tamalitos De Olga\)](https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Complete 78's, Vol\. 4 \(1949 \- 1955\)](https://open.spotify.com/album/0vDk1Sn8iteUfKmoSqWPYL) | 2:33 |
-| 70 | [Limón](https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 4:32 |
-| 71 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
+| 70 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
+| 71 | [Limón](https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Pa'lante](https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E) | 4:32 |
 | 72 | [Coconut Water](https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [This Is Desmond Dekker \(Enhanced Edition\)](https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl) | 3:29 |
 | 73 | [Regi Bugalú \(Bugalu\)](https://open.spotify.com/track/2DUYg6MTswgkA0eBKA0RsG) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e) | [Tropidélico](https://open.spotify.com/album/0uU60x1GpYBcOS7imngIXS) | 4:17 |
 | 74 | [Frida Kahlo aka Mamasita](https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x) | [Latin Soul Syndicate](https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps) | [Latin Soul Syndicate](https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO) | 3:59 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 89 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
 | 90 | [Los Sabores Del Porro](https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Maremagnum](https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul) | 4:19 |
 | 91 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
-| 92 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 |
+| 92 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
 | 93 | [Cumbia Pa Modernos](https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:19 |
-| 94 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
+| 94 | [Afro Blue \- Koop Remix](https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Luaka Bop Remix](https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O) | 2:46 |
 | 95 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |
 | 96 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 | 97 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 99 | [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 |
 | 100 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 
-Snapshot ID: `MTY4MTM0Mzg4MSwwMDAwMDAwMDRiZGJiZDhkYzk1MDUwZjIzZDA2YzAzOTA5ZjA2MTMw`
+Snapshot ID: `MTY4MTM0Mzg4MSwwMDAwMDAwMDRlZjg3YTY1Njg1MWE2YmM4ZjhkYWE1MTkwOGJkN2M0`

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/04gl0kOqCvtYuN0FhVu1MD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Daughtry",
+          "url": "https://open.spotify.com/artist/5ii6Td83MJmap7UdXxxk1I"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168392,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/5zOw7nHXlGqoYTRmDnrw0g"
+    },
+    {
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/3mnyXyGwORYtpjPtBhN1II"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 139522,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/4ZBRS9HzPEaMH1NPUkHnhT"
+    },
+    {
+      "album": {
+        "name": "Arthur's Theme",
+        "url": "https://open.spotify.com/album/6KrFogWw5iuEMSoONRFvtu"
+      },
+      "artists": [
+        {
+          "name": "Andreas Dalvik",
+          "url": "https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211954,
+      "name": "Arthur's Theme",
+      "url": "https://open.spotify.com/track/2Ft1pxvNweDBKxbntC15jr"
     },
     {
       "album": {
@@ -437,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Blank Space",
+        "url": "https://open.spotify.com/album/5G7NmfM3E6qa5Nhr73UImb"
+      },
+      "artists": [
+        {
+          "name": "Zion Houston",
+          "url": "https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/5G8tm3mLG5XqhcVbdpft3A"
+    },
+    {
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2SRk0VQmycefU6s6GY7uNc"
       },
@@ -538,10 +592,46 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167956,
       "name": "Can't Stop The Feeling",
       "url": "https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0"
+    },
+    {
+      "album": {
+        "name": "Can't Stop This Feeling",
+        "url": "https://open.spotify.com/album/5JQvrqriLPbqUgJCpp8JA8"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181994,
+      "name": "Can't Stop This Feeling",
+      "url": "https://open.spotify.com/track/4GlJ1fHjO8ZChYRDcrwFr8"
+    },
+    {
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/43yyM9q71QSiFRV2ZriGcq"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160664,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/1L6AJIHq3ZQEBVGGvlltTp"
     },
     {
       "album": {
@@ -790,7 +880,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147209,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/7GhDCGALFBPrsXycSH8q6Q"
@@ -923,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Everybody Hurts",
+        "url": "https://open.spotify.com/album/1Kj4nj2ak9FzlEBSlX9zDq"
+      },
+      "artists": [
+        {
+          "name": "Lucian Byrne",
+          "url": "https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/28xm4Duefml0Tbk0T7ptIq"
+    },
+    {
+      "album": {
         "name": "Everybody's Got To Learn Sometime",
         "url": "https://open.spotify.com/album/4qAcqCEeAmy2xIrAqpjXs8"
       },
@@ -1031,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/237VpOpUlxSe4UQJ2d9xSr"
+      },
+      "artists": [
+        {
+          "name": "Bart Cohen",
+          "url": "https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/5dkN1lmO0Qc9tr7zIDsvrq"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03ZrfMF9vsSN62oQtZFnjZ"
       },
@@ -1060,10 +1186,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203500,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3DqIOV0st55MNgcPADbZ5g"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6mTjKtLwWk1vt48z998Foo"
+      },
+      "artists": [
+        {
+          "name": "Melvin Gale",
+          "url": "https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151387,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/7vdVksatKHCmcTVHaAwgBD"
     },
     {
       "album": {
@@ -1082,6 +1226,24 @@
       "duration_ms": 151359,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/0vIcZ4WNgj7pHPmqsYnK2D"
+    },
+    {
+      "album": {
+        "name": "Guitar Covers",
+        "url": "https://open.spotify.com/album/41FqGppViwn20HibrPfdmx"
+      },
+      "artists": [
+        {
+          "name": "Luis Diseminado",
+          "url": "https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/536KX7LmY2wEBY1XbWaTbR"
     },
     {
       "album": {
@@ -1391,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/0moinVUWhkOZmD7JkvlrYh"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129391,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/4oLyZoduYHjLuYgvC9ds07"
+    },
+    {
+      "album": {
         "name": "Hold Back The River",
         "url": "https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH"
       },
@@ -1568,6 +1748,24 @@
       "duration_ms": 256825,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM"
+    },
+    {
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/1ZUXPYKXlg2Su8jB2h2Abp"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144916,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/37MIbOM51JGsex15cprRXV"
     },
     {
       "album": {
@@ -1780,7 +1978,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186610,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1AWyRQZP793viJUUU95omo"
@@ -2255,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Guitar Covers",
+        "url": "https://open.spotify.com/album/41FqGppViwn20HibrPfdmx"
+      },
+      "artists": [
+        {
+          "name": "Luis Diseminado",
+          "url": "https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/32XwdgtZKcRtpDu0rt3z34"
+    },
+    {
+      "album": {
         "name": "Perfect (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp"
       },
@@ -2381,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/2PxHELBN7MScNb6p6KAB6T"
+      },
+      "artists": [
+        {
+          "name": "Troy Mair",
+          "url": "https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/0bD02USbthuiIWVEjlGUlI"
+    },
+    {
+      "album": {
         "name": "Running Up That Hill (A Deal With God)",
         "url": "https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2"
       },
@@ -2396,6 +2630,24 @@
       "duration_ms": 175483,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1AT0FoWtIgdfGTwBCeXIEt"
+    },
+    {
+      "album": {
+        "name": "Saving All My Love For You",
+        "url": "https://open.spotify.com/album/3yzcUYYBSl9quj7cjJMzrg"
+      },
+      "artists": [
+        {
+          "name": "Oliver Young",
+          "url": "https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189668,
+      "name": "Saving All My Love For You",
+      "url": "https://open.spotify.com/track/54pr1s3t2Qra9ci8BVCogW"
     },
     {
       "album": {
@@ -2428,7 +2680,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197250,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7hQV8TNnJhGHkJK8d9dYyR"
@@ -2903,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "The Boxer",
+        "url": "https://open.spotify.com/album/7MHviX6oQ9TzPp1bviBQsl"
+      },
+      "artists": [
+        {
+          "name": "The Poet",
+          "url": "https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156655,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/1FcM70fl2rKgfwL8DSSrHv"
+    },
+    {
+      "album": {
         "name": "The Final Countdown",
         "url": "https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot"
       },
@@ -2921,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "The Glory of Love",
+        "url": "https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC"
+      },
+      "artists": [
+        {
+          "name": "Olly Chesterman",
+          "url": "https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197307,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd"
+    },
+    {
+      "album": {
         "name": "Acoustic Tribute to Ed Sheeran, Vol. 4 (Instrumental)",
         "url": "https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92"
       },
@@ -2936,6 +3224,24 @@
       "duration_ms": 184773,
       "name": "The Joker and The Queen - Instrumental",
       "url": "https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ"
+    },
+    {
+      "album": {
+        "name": "The Logical Song",
+        "url": "https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC"
+      },
+      "artists": [
+        {
+          "name": "Alan Jameson",
+          "url": "https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt"
     },
     {
       "album": {
@@ -3026,6 +3332,24 @@
       "duration_ms": 188377,
       "name": "Theme From Fame",
       "url": "https://open.spotify.com/track/7cPAikRrGu1nu5vNHFHZda"
+    },
+    {
+      "album": {
+        "name": "Theme From Forrest Gump",
+        "url": "https://open.spotify.com/album/6b4sxLda1Z6RSiy8GPez36"
+      },
+      "artists": [
+        {
+          "name": "Brett Williams",
+          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185878,
+      "name": "Theme From Forrest Gump",
+      "url": "https://open.spotify.com/track/0XfY944ddsSwaGYWhLcMqu"
     },
     {
       "album": {
@@ -3166,10 +3490,46 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179101,
       "name": "Top Gun Anthem",
       "url": "https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp"
+    },
+    {
+      "album": {
+        "name": "Top Gun Anthem",
+        "url": "https://open.spotify.com/album/6MHmSIIGEWdoTTuQRyyCZf"
+      },
+      "artists": [
+        {
+          "name": "Tim Raymond",
+          "url": "https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160234,
+      "name": "Top Gun Anthem",
+      "url": "https://open.spotify.com/track/4b8s8t43DOjfR4kTttvQ21"
+    },
+    {
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/5xmSaUNIPXxsjg8hZLyPPj"
+      },
+      "artists": [
+        {
+          "name": "Brennan Lynch",
+          "url": "https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175256,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Lr1cw5eLWcX7pcVu0WUfR"
     },
     {
       "album": {
@@ -3447,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/74FjDXGyxjU8gSMKTt5st0"
+      },
+      "artists": [
+        {
+          "name": "Ross Ware",
+          "url": "https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/3Gu5Ei9OVuXCVoILrSq7pR"
+    },
+    {
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6"
       },
@@ -3498,6 +3876,24 @@
       "duration_ms": 197624,
       "name": "You Are the Reason (Acoustic Instrumental)",
       "url": "https://open.spotify.com/track/2HZ1SeXEhfOpBkus7KGP47"
+    },
+    {
+      "album": {
+        "name": "Acoustic Guitar Covers",
+        "url": "https://open.spotify.com/album/4gcOb5WxltsSyhSfXS5uzI"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149374,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/5WAQrNbnEDGOk1f3aLHOv6"
     },
     {
       "album": {
@@ -3584,7 +3980,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 260526,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/3Y9IYPXXKPwVx4j6SEWdgt"

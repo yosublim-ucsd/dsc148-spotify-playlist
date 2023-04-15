@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=wEJYVJRbSaiPI4IjOxEWrA\">Phil Wickham</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8?si=382d4c13b38b4df7\">Elevation RHYTHM</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 188455,
       "name": "Abba",
       "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191295,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/2iHHq5ElX24TU3BezraGU2"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 331786,
       "name": "Holy - Live",
       "url": "https://open.spotify.com/track/3gzb78asf6noEszQfOonE0"
@@ -4935,6 +4935,28 @@
     },
     {
       "album": {
+        "name": "Knocked It Out (My Goliath)",
+        "url": "https://open.spotify.com/album/600mPP6iMT6idJSlFn43lX"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        },
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211566,
+      "name": "Knocked It Out (My Goliath)",
+      "url": "https://open.spotify.com/track/2VempsbpmJViqP7K8UFdn2"
+    },
+    {
+      "album": {
         "name": "LION: Live From The Loft",
         "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
       },
@@ -5325,6 +5347,32 @@
     },
     {
       "album": {
+        "name": "Love Me Like I Am (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1gwgrjoHrsA7bSzk1RkYNR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169921,
+      "name": "Love Me Like I Am (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/0tsQVVq4TVZzcHWU6T634g"
+    },
+    {
+      "album": {
         "name": "Love Me Like I Am (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
@@ -5340,7 +5388,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
@@ -6197,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220047,
+      "name": "One Prayer Away",
+      "url": "https://open.spotify.com/track/4oQvirbMqCZyjDUHMy42MQ"
+    },
+    {
+      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -6230,6 +6296,32 @@
       "duration_ms": 283885,
       "name": "Open",
       "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
+    },
+    {
+      "album": {
+        "name": "Steady Light (Live from LO Conference) [Deluxe]",
+        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625955,
+      "name": "Open (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
     },
     {
       "album": {
@@ -6324,6 +6416,28 @@
       "duration_ms": 247254,
       "name": "Overcome - Radio Edit",
       "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
+    },
+    {
+      "album": {
+        "name": "Paul & Silas (At Midnight) [Live]",
+        "url": "https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628695,
+      "name": "Paul & Silas (At Midnight) - Live",
+      "url": "https://open.spotify.com/track/5ayC8O7yZHMjdIGUSomCZK"
     },
     {
       "album": {
@@ -6526,7 +6640,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 168011,
       "name": "PRAISES",
       "url": "https://open.spotify.com/track/1UH488ukPL4KYvjTMa1cYr"
@@ -6823,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221403,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
+    },
+    {
+      "album": {
         "name": "Where Would I Be Without You?",
         "url": "https://open.spotify.com/album/2abIhobSvED7morjXD6Roh"
       },
@@ -6856,6 +6988,28 @@
       "duration_ms": 212066,
       "name": "Rest For Your Soul - Radio Edit",
       "url": "https://open.spotify.com/track/33SARMQfHP0TlKq7ZiLccc"
+    },
+    {
+      "album": {
+        "name": "Rest In The Father",
+        "url": "https://open.spotify.com/album/3poh24v77NRyIkDt1XXM3r"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184163,
+      "name": "Rest In The Father",
+      "url": "https://open.spotify.com/track/6CRMtE9Jh6T1eJvkrwFsmg"
     },
     {
       "album": {
@@ -7116,7 +7270,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 278001,
       "name": "Safe",
       "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
@@ -7964,7 +8118,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 272883,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF"
@@ -8828,7 +8982,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 221274,
       "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
       "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
@@ -8868,6 +9022,28 @@
       "duration_ms": 227419,
       "name": "This is the Day - Live With Friends",
       "url": "https://open.spotify.com/track/3i6hCacZrfa2TgamyuUkuO"
+    },
+    {
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "album": {

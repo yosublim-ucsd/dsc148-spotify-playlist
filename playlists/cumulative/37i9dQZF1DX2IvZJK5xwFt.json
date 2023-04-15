@@ -3515,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "No Return (Extended Version From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "No Return - Extended Version From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ"
+    },
+    {
+      "album": {
         "name": "Minutes to Midnight (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q"
       },
@@ -5322,10 +5340,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
     },
     {
       "album": {

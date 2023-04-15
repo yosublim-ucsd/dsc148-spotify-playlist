@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. ISIDE in cover!
 
-387 songs - 21 hr 27 min
+389 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Corny](https://open.spotify.com/track/0p9GTFfCSDseFiCEuH4GlJ) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Corny](https://open.spotify.com/album/1RwrTlkQ5u3EE5CrnlH6yi) | 2:05 | 2022-09-15 | 2022-10-14 |
 | [COSA VA IN ME?](https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [COSA VA IN ME?](https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1) | 3:01 | 2023-04-13 |  |
 | [Cpr14](https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Cpr14](https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt) | 3:44 | 2022-11-24 | 2023-01-27 |
+| [Crepuscolo](https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7) | [Buriana](https://open.spotify.com/artist/2xp9MuQLpCHqMuoRQ2AtHu) | [Crepuscolo](https://open.spotify.com/album/24N87ShW17h11WIXpdlGnd) | 3:15 | 2023-04-14 |  |
 | [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 | 2022-06-17 |
 | [Crystal Ball](https://open.spotify.com/track/4rJZeYt6ArHcnPova0Hgtw) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Volevo Magia](https://open.spotify.com/album/0ISl1KHwbmQIJBe0TOWqGk) | 2:54 | 2022-09-22 | 2022-12-16 |
 | [Cult](https://open.spotify.com/track/65TaWDOBqhHDApRQEkJUTl) | [Alosi](https://open.spotify.com/artist/3M0xQSDicFWo1DPjkkW8gt) | [Cult](https://open.spotify.com/album/6967xj34zp4rlV7za3aHU7) | 3:03 | 2023-01-12 | 2023-03-10 |
@@ -153,6 +154,7 @@
 | [Grunge Morale](https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Superluna Rock Music](https://open.spotify.com/album/6OEAw58eyguAaHQafIE354) | 2:58 | 2022-06-16 | 2022-07-08 |
 | [Hail the Proper Karl](https://open.spotify.com/track/2KdBqtc2PFm0ptkGcEvbKk) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Secret Alliance](https://open.spotify.com/album/6uFxFzfUjAWtesqxjz5dPd) | 2:24 | 2022-05-09 | 2022-06-03 |
 | [Hamsik](https://open.spotify.com/track/4KR8wGG7Z4shKUROWnafVM) | [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [Formazione Titolare](https://open.spotify.com/album/3AIJNEf2OJddIsxmBxX9I0) | 2:34 | 2022-12-01 | 2022-12-16 |
+| [Heavy Metallo](https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Heavy Metallo](https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM) | 2:54 | 2023-04-14 |  |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 | 2022-07-15 |
 | [Hey U](https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Hey U](https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc) | 2:01 | 2022-05-09 | 2022-05-27 |
 | [High On Stress](https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [High On Stress](https://open.spotify.com/album/4TTP6knd1uIUPK2NlFfSEX) | 2:38 | 2022-05-12 | 2022-06-24 |
@@ -350,7 +352,7 @@
 | [The Sweetest Nightmare](https://open.spotify.com/track/3t4khpJjAdW2qLSdNuwK2e) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [The Sweetest Nightmare](https://open.spotify.com/album/5nlf41KR9hnAAyfMX5K9yj) | 3:49 | 2023-03-02 | 2023-03-10 |
 | [Thin Ice](https://open.spotify.com/track/4EJhnSQtPRUN5cUzaSA0ZH) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/0rXmDvbdBuAsMVQYpfqT0u) | 2:32 | 2022-10-13 | 2022-12-02 |
 | [TI DEVI ROVINARE](https://open.spotify.com/track/4867uScJp6gPGEckidOWk1) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TI DEVI ROVINARE](https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh) | 2:29 | 2022-05-09 | 2022-05-20 |
-| [Ticking](https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [Ticking](https://open.spotify.com/album/0TLJkKNmpLZ7iZZKwQJH7R) | 3:27 | 2023-04-06 |  |
+| [Ticking](https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [Ticking](https://open.spotify.com/album/0TLJkKNmpLZ7iZZKwQJH7R) | 3:27 | 2023-04-06 | 2023-04-15 |
 | [Time and Time](https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time](https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa) | 4:52 | 2023-04-13 |  |
 | [Tipi a posto](https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Tipi a Posto](https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF) | 2:20 | 2023-04-06 |  |
 | [Topi](https://open.spotify.com/track/5GCBuDynnVjvmxAjqJBEEl) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Topi](https://open.spotify.com/album/68WjLDJML5tpV0wjOuMdjk) | 3:24 | 2023-03-09 |  |

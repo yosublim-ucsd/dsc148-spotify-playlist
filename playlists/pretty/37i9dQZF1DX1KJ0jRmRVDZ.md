@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,383 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,513 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 31 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 |
 | 32 | [レモンの花](https://open.spotify.com/track/70AT1JCm28kVWclugOUbeM) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [レモンの花](https://open.spotify.com/album/02rdR2S8XYznEiYEQqTFvm) | 3:36 |
 | 33 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 |
-| 34 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
+| 34 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
 | 35 | [レブル](https://open.spotify.com/track/2866mFfVRWokPM8PHRPSUB) | [むト](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [レブル](https://open.spotify.com/album/4GjhNKHhyfR2F1AEaH4Jqg) | 3:38 |
 | 36 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 |
 | 37 | [IMAGINARY LIKE THE JUSTICE](https://open.spotify.com/track/6cvjT8OfKJTTReE5DmNNlE) | [SymaG](https://open.spotify.com/artist/0Dju1ubNsfRe3jTH9RgJDh) | [G7](https://open.spotify.com/album/4YRAe1VOnILXlL0F2r5aSS) | 4:26 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 39 | [水光](https://open.spotify.com/track/1h8SMT8M4eoaMUxAHzDYk9) | [詩道](https://open.spotify.com/artist/3GxiOV4tzMiuDG4MDmQMzC) | [水光](https://open.spotify.com/album/0UEfFiPlXtGjtOdNFdO1mD) | 4:00 |
 | 40 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 |
 | 41 | [ピアスを飲む](https://open.spotify.com/track/0MeVGdMTHtVDu9bYS21BcS) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ピアスを飲む](https://open.spotify.com/album/4gELhndqwqi2hJjO7ljuqp) | 2:42 |
-| 42 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
+| 42 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
 | 43 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 44 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
 | 45 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 46 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
-| 47 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
+| 47 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
 | 48 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
-| 49 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
+| 49 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
 | 50 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGJlNjkyMmFkZWUxZjgyNzdmMWI2NGE0ZWMyMDJjODU2`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDFjMzczN2Y4ZWY4NWI5NzUyNzAzMTU2OTg0YTYxNGYz`

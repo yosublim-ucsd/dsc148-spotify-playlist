@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274166,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/43izAMB4XyHkEghLzaxnKi"
+    },
+    {
+      "album": {
         "name": "Brooklyn Sessions II",
         "url": "https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe"
       },
@@ -1596,6 +1614,24 @@
       "duration_ms": 244339,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
+    },
+    {
+      "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/0XTCR8EFxyZoT3zBfOJRMR"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274012,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/0FsaTknAtvrXcf6qtJkOjI"
     },
     {
       "album": {
@@ -1778,6 +1814,24 @@
       "duration_ms": 146018,
       "name": "No Woman, No Cry (Arr. Kanneh-Mason)",
       "url": "https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM"
+    },
+    {
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe"
     },
     {
       "album": {

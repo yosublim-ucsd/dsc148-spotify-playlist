@@ -27,7 +27,7 @@
     },
     {
       "album": {
-        "name": "Lembre-se 80's (Ao Vivo)",
+        "name": "Lembre-se 80's",
         "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
       "artists": [
@@ -40,7 +40,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder - Ao Vivo",
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
       "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
     },
     {
@@ -517,7 +517,7 @@
     },
     {
       "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
+        "name": "Lembre-se 90's",
         "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
       },
       "artists": [
@@ -530,7 +530,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 265307,
-      "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
+      "name": "Espelhos M\u00e1gicos / Naves Imperiais",
       "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
     },
     {
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Lembre-se 90's",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
+    },
+    {
+      "album": {
         "name": "Eu Quero \u00c9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz (Ao Vivo)",
         "url": "https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0"
       },
@@ -626,24 +644,6 @@
       "duration_ms": 283933,
       "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k"
-    },
-    {
-      "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "date_added": "2022-09-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
     },
     {
       "album": {
@@ -977,7 +977,7 @@
     },
     {
       "album": {
-        "name": "Lembre-se 80's (Ao Vivo)",
+        "name": "Lembre-se 80's",
         "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
       "artists": [
@@ -990,7 +990,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 296500,
-      "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
+      "name": "Medley Le\u00e3o de Jud\u00e1",
       "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
     },
     {

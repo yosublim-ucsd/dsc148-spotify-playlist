@@ -1,28 +1,60 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: JayO",
-  "num_followers": 35066,
+  "description": "R&B of the moment by the artists of the future. Cover: Khamari",
+  "num_followers": 35148,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTA1OTYwMCwwMDAwMDAwMDM2OGQ1ZmQ3NDBiMmFhODJmNDUzMjAwYjkxNDI5OTdh",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDI0MTU0ZTliZjRhMzY5OWE3ZjA4ODk3NzAwNTZhMjdm",
   "tracks": [
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
       },
       "artists": [
         {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+      "duration_ms": 140973,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Scorpio Moon",
+        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Scorpio Moon",
+      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -63,38 +95,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Scorpio Moon",
-        "url": "https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Scorpio Moon",
-      "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "CHERIMOYA",
-        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA",
-      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW"
       },
@@ -127,6 +127,38 @@
       "duration_ms": 226379,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -209,6 +241,38 @@
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "THERAPY",
+      "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 197610,
+      "name": "Southern Delicacy",
+      "url": "https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Long Story Short",
@@ -277,6 +341,22 @@
       "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Hurt Before",
+        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 122086,
+      "name": "Hurt Before",
+      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "sink or swim",
@@ -293,22 +373,6 @@
       "url": "https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Reassurance",
-        "url": "https://open.spotify.com/album/1jd1ze2YWeO2hUR0USOrVG"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 183651,
-      "name": "Reassurance",
-      "url": "https://open.spotify.com/track/0k9cWPjz8uI5iIAnHotHo8"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "SATIN",
@@ -323,6 +387,22 @@
       "duration_ms": 90836,
       "name": "IT'S YOURS",
       "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "4Play",
+        "url": "https://open.spotify.com/album/3SeBjLdX2gX02thhla8PxC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "What Are We",
+      "url": "https://open.spotify.com/track/1JGtASXpqtKEkrpjLWa1Pf"
     },
     {
       "added_at": "2023-03-31 04:08:51",
@@ -441,24 +521,20 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "Pressure (Remix)",
-        "url": "https://open.spotify.com/album/2UgNffRKMJwQUGQcNJ0smY"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+          "name": "GoGo Morrow",
+          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
         }
       ],
-      "duration_ms": 180013,
-      "name": "Pressure - Remix",
-      "url": "https://open.spotify.com/track/36TzL54XxuCR91U5wBSR6h"
+      "duration_ms": 151664,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -475,22 +551,6 @@
       "duration_ms": 160420,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0lS0geQygvDip8D1NxwQ6X"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 180545,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -705,6 +765,22 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Reassurance",
+        "url": "https://open.spotify.com/album/1jd1ze2YWeO2hUR0USOrVG"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 183651,
+      "name": "Reassurance",
+      "url": "https://open.spotify.com/track/0k9cWPjz8uI5iIAnHotHo8"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "S(EX)",
@@ -719,22 +795,6 @@
       "duration_ms": 225406,
       "name": "S(EX)",
       "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7"
-      },
-      "artists": [
-        {
-          "name": "GoGo Morrow",
-          "url": "https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO"
-        }
-      ],
-      "duration_ms": 151664,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
       "added_at": "2022-12-16 05:32:36",
@@ -903,30 +963,6 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Young Preacher",
-        "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 186433,
-      "name": "WHISTLE (feat. Lojay & Amaarae)",
-      "url": "https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1183,26 +1219,6 @@
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "BEFORE WE GO (DEEPER)",
-        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 210379,
-      "name": "CALI LOVE (feat. Ambr\u00e9)",
-      "url": "https://open.spotify.com/track/697PUOx3HS3gRbe5nCRux3"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
       },
@@ -1219,38 +1235,6 @@
       "duration_ms": 195976,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "DISC TWO",
-        "url": "https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "ALL OVER AGAIN",
-      "url": "https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "SIDE OF YOU",
-        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 165980,
-      "name": "SIDE OF YOU",
-      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
     },
     {
       "added_at": "2023-01-20 05:00:00",

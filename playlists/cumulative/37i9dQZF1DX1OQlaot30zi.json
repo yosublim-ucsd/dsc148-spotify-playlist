@@ -19827,7 +19827,7 @@
     },
     {
       "album": {
-        "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
+        "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
       },
       "artists": [
@@ -25350,6 +25350,24 @@
       "duration_ms": 115348,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M"
+    },
+    {
+      "album": {
+        "name": "PROZAC",
+        "url": "https://open.spotify.com/album/2e23M3Yc5hSRI91lv4Pke4"
+      },
+      "artists": [
+        {
+          "name": "Baby Kirua",
+          "url": "https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "PROZAC",
+      "url": "https://open.spotify.com/track/35exRd1JBdAV03NvziRYs4"
     },
     {
       "album": {

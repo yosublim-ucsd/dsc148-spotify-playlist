@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Vit\u00e3o",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 157500,
       "name": "1+1 \u00c9 Pouco",
       "url": "https://open.spotify.com/track/0vB8TwivSx9NBMRXaMLIZw"
@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209411,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb"
+    },
+    {
+      "album": {
         "name": "DEPOIS DO UNIVERSO",
         "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
       },
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186666,
       "name": "IN\u00cdCIO DO FIM",
       "url": "https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205913,
       "name": "LSD",
       "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151472,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
@@ -2500,6 +2518,28 @@
       "duration_ms": 136901,
       "name": "NO CH\u00c3O NOVINHA",
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
+    },
+    {
+      "album": {
+        "name": "Noite Estrelada",
+        "url": "https://open.spotify.com/album/778J3qucAg6FuQ5L4hzVS2"
+      },
+      "artists": [
+        {
+          "name": "DJ Maia",
+          "url": "https://open.spotify.com/artist/16GSZJdhDf0yPEtQbHj21e"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Noite Estrelada",
+      "url": "https://open.spotify.com/track/7zDFZH6lG3ULdWVGwF09SQ"
     },
     {
       "album": {
@@ -2878,6 +2918,28 @@
       "duration_ms": 139300,
       "name": "PLAYGROUND",
       "url": "https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd"
+    },
+    {
+      "album": {
+        "name": "Ponto de Brasa",
+        "url": "https://open.spotify.com/album/50JIAfAwNqPWVIzuYwgFPh"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160967,
+      "name": "Ponto de Brasa",
+      "url": "https://open.spotify.com/track/34dog9xj3M5dcUcpcMyCNf"
     },
     {
       "album": {
@@ -3834,6 +3896,24 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "album": {
+        "name": "Ato 1: TODAMANH\u00c3",
+        "url": "https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146490,
+      "name": "Toda Manh\u00e3",
+      "url": "https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw"
     },
     {
       "album": {

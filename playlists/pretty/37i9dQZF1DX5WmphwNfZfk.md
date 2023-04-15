@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,034 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,031 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 41 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 |
 | 42 | [Chapel Hill](https://open.spotify.com/track/1QG2qGJRli4auNMoXp2FTj) | [John River](https://open.spotify.com/artist/7faTQoEP4N3YYvoCYGXZsg) | [Chapel Hill](https://open.spotify.com/album/5jmuvTs6bZ3IJNA8GXbUZi) | 2:40 |
 | 43 | [Look At Me](https://open.spotify.com/track/3xi6h8SpxWo6H4OQ1Fw3yX) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [Look At Me](https://open.spotify.com/album/0NGCXN9GCjbyYbUpMP2PMn) | 2:24 |
-| 44 | [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 |
+| 44 | [RADIATION](https://open.spotify.com/track/0gYhKvqRSWK0hfBjbAlZCG) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/0gHb2KspaWK9XZx2I9QAIR) | 2:24 |
 | 45 | [HELL IF I KNOW](https://open.spotify.com/track/2svdPp6Wxk0el2oCol5Lad) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [HELL IF I KNOW](https://open.spotify.com/album/2ZJmjWheTBgjVGtpYOmWX5) | 2:32 |
 | 46 | [flood lines](https://open.spotify.com/track/3FbCoTjGMj9u4VLecvKh1Y) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [flood lines](https://open.spotify.com/album/4T9DEhlakkK3iD2Zw0Cwyr) | 4:01 |
 | 47 | [Bone Dry Dunes](https://open.spotify.com/track/4SLfGdA3n2jREi0SZA3uxx) | [Babe Corner](https://open.spotify.com/artist/2hfrncUgbWnDG7FE6GjXYZ) | [Crybaby](https://open.spotify.com/album/62bB3AYc5V0GYN0FOkaIBv) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
 | 50 | [Your Friday Night](https://open.spotify.com/track/64c0SxMQsaYgzghaS7inLw) | [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [Time Traveller \- The Album](https://open.spotify.com/album/2HbQQ5TmHk2TjcVlHajf1D) | 3:16 |
 
-Snapshot ID: `MTY4MDg0MjQzMywwMDAwMDAwMDZiZDg3YTczM2ZjZTM3MGQ1NDU3NTljYWY4YWIyODM0`
+Snapshot ID: `MTY4MDg0MjQzMywwMDAwMDAwMDViYWVhMzEzMWNmOGI3NDA1MmI2MDQ5NDVkMWZjYTky`

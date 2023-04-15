@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 108878,
+  "num_followers": 109165,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxMTc2NSwwMDAwMDAwMDIxNzU5M2UzNmYxZDc4YTEyYmM0MDUzYzZkNWEwMTUw",
+  "snapshot_id": "MTY4MDUxMTc2NSwwMDAwMDAwMDk1ZTA1MzU1YmM0NTRhZjA1MzZjZmIyMTQ2MDVjMzJm",
   "tracks": [
     {
       "added_at": "2023-04-03 08:49:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
-        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Il veliero",
-      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "The Division",
         "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 396435,
       "name": "Neutron Dance",
       "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
+        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
+        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Il veliero",
+      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
     },
     {
       "added_at": "2023-04-03 08:49:25",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "I'm Going to Go",
-        "url": "https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v"
-      },
-      "artists": [
-        {
-          "name": "Jago",
-          "url": "https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K"
-        },
-        {
-          "name": "Frankye Knuckles",
-          "url": "https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH"
-        }
-      ],
-      "duration_ms": 515999,
-      "name": "I'm Going to Go - Instrumental Plant Mix",
-      "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "My Magic Number",
         "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
+        "name": "I'm Going to Go",
+        "url": "https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v"
+      },
+      "artists": [
+        {
+          "name": "Jago",
+          "url": "https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K"
+        },
+        {
+          "name": "Frankye Knuckles",
+          "url": "https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH"
+        }
+      ],
+      "duration_ms": 515999,
+      "name": "I'm Going to Go - Instrumental Plant Mix",
+      "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-03 08:49:25",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        }
-      ],
-      "duration_ms": 404766,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
-    },
-    {
-      "added_at": "2023-04-03 08:49:25",
-      "album": {
         "name": "Destiny (Original) - Single",
         "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 279746,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
+    },
+    {
+      "added_at": "2023-04-03 08:49:25",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        }
+      ],
+      "duration_ms": 404766,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER"
     },
     {
       "added_at": "2023-04-03 08:49:25",

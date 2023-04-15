@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151267,
       "name": "Borrachera",
       "url": "https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T"
@@ -792,10 +792,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 184413,
       "name": "El DM",
       "url": "https://open.spotify.com/track/4jVs3F4YeYMc4mi33rItRt"
+    },
+    {
+      "album": {
+        "name": "EL HECHIZO",
+        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167988,
+      "name": "EL HECHIZO",
+      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
     },
     {
       "album": {
@@ -850,6 +872,28 @@
       "duration_ms": 193578,
       "name": "El \u00daltimo No",
       "url": "https://open.spotify.com/track/1B2SstbNJbKveGHr9vcsYZ"
+    },
+    {
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "album": {
@@ -1159,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
+    },
+    {
+      "album": {
         "name": "Maldita Traicion",
         "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
       },
@@ -1290,7 +1352,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 199296,
       "name": "Me Vale Ver...T",
       "url": "https://open.spotify.com/track/6NXE0MUQCfWKSElHh7PaHb"

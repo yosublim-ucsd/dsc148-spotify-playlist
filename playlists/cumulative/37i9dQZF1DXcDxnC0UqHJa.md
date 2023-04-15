@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-235 songs - 15 hr 5 min
+236 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Hallelujah](https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [So Real: Songs From Jeff Buckley](https://open.spotify.com/album/2zfb6rtqx4GM3V65hhsCMY) | 6:54 | 2021-12-13 | 2022-07-17 |
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-06-03 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-12-13 |  |
+| [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 |  |
 | [Heaven Help The Child](https://open.spotify.com/track/1FkGD5BKk9uaFrNxuLBc6b) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | ["Heaven Help The Child"](https://open.spotify.com/album/3WveYXV6ceBK1AOoB7Vy8H) | 5:07 | 2021-12-13 | 2022-07-29 |
 | [Hello Sunshine](https://open.spotify.com/track/5G43H7suQSoOwRfyIRH9tX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4), [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Other People's Songs Volume One](https://open.spotify.com/album/7wKsuHFtWGNkUC1nCnrJR2) | 3:04 | 2021-12-13 | 2022-07-29 |
 | [Hello Sunshine](https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4), [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Other People's Songs Volume One](https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On) | 3:04 | 2022-06-03 |  |
@@ -169,7 +170,7 @@
 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 | 2022-01-21 |  |
 | [Pink Rabbits](https://open.spotify.com/track/1H2uNZwxuv6eCWGyR9nXrR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Pink Rabbits](https://open.spotify.com/album/2cF0l3ObEBVj56KJjPrsWp) | 4:12 | 2021-12-13 | 2022-07-29 |
 | [Prayer in Open D](https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [To Emmylou](https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr) | 2:53 | 2021-12-13 |  |
-| [Re: Stacks](https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ) | [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [Little Hands](https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv) | 6:07 | 2021-12-13 |  |
+| [Re: Stacks](https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ) | [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [Little Hands](https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv) | 6:07 | 2021-12-13 | 2023-04-15 |
 | [Reason to Believe \(feat\. Courtney Barnett\)](https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp), [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Reason to Believe \(feat\. Courtney Barnett\)](https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX) | 2:29 | 2021-12-13 | 2023-01-13 |
 | [Remembering Mountains](https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remembering Mountains : Unheard Songs By Karen Dalton](https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI) | 3:36 | 2021-12-13 | 2022-07-28 |
 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 | 2021-12-13 | 2022-07-26 |

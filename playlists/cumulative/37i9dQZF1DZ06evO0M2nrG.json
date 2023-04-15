@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Noche en Hawaii",
+        "url": "https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM"
+      },
+      "artists": [
+        {
+          "name": "Bonny Lovy",
+          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177156,
+      "name": "Noche en Hawaii",
+      "url": "https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK"
+    },
+    {
+      "album": {
         "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
         "url": "https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od"
       },

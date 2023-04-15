@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 167019,
       "name": "Don't Love Me",
       "url": "https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY"
@@ -2670,6 +2670,24 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "album": {

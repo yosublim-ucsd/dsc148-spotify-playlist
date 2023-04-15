@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 39428,
+  "num_followers": 39454,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDZjMDBiOGViMWM0ZTIzM2IzMWE2YmEyMzgyODIzNzQz",
+  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDA2NWFjMTQ1M2NmM2FmYWFlNzkwODc3OTIwZGY4NWUz",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Nelson Freire: Schumann Recital",
-        "url": "https://open.spotify.com/album/5Y0mKf6Om9SdHQSPI8WRxw"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "duration_ms": 144626,
-      "name": "Papillons, Op. 2: No. 11",
-      "url": "https://open.spotify.com/track/2mDEaxFxyzecnvTvrxxM1h"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 112520,
       "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
       "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Nelson Freire: Schumann Recital",
+        "url": "https://open.spotify.com/album/5Y0mKf6Om9SdHQSPI8WRxw"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 144626,
+      "name": "Papillons, Op. 2: No. 11",
+      "url": "https://open.spotify.com/track/2mDEaxFxyzecnvTvrxxM1h"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
+        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
+      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Frage",
         "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
@@ -823,8 +843,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
-        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
       },
       "artists": [
         {
@@ -832,13 +852,21 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Wilhelm Kempff",
-          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
         }
       ],
-      "duration_ms": 202986,
-      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
-      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
+      "duration_ms": 758440,
+      "name": "Introduction And Concert-Allegro, Op. 134",
+      "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -891,34 +919,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann",
-        "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jan Lisiecki",
-          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        }
-      ],
-      "duration_ms": 758440,
-      "name": "Introduction And Concert-Allegro, Op. 134",
-      "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Piano Quintet - String Quartets 1-3",
         "url": "https://open.spotify.com/album/0QXuIPV4wTatxg7ZmAvYBc"
       },
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
+        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "duration_ms": 374533,
+      "name": "Presto passionato",
+      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
         "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
       },
@@ -987,8 +1007,8 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
-        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
+        "name": "Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
       },
       "artists": [
         {
@@ -996,13 +1016,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Bernd Glemser",
-          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
         }
       ],
-      "duration_ms": 374533,
-      "name": "Presto passionato",
-      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
+      "duration_ms": 738560,
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
+      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1047,26 +1067,6 @@
       "duration_ms": 170506,
       "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
       "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition",
-        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Paul Lewis",
-          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
-        }
-      ],
-      "duration_ms": 738560,
-      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
-      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
       "added_at": "2022-11-04 13:17:00",

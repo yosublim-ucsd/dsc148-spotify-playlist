@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-146 songs - 7 hr 6 min
+147 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Ocean](https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Ocean](https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs) | 2:54 | 2021-12-03 |  |
 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 | 2021-12-03 |  |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\) \- Alok Remix](https://open.spotify.com/track/467dsBV8ZGP7Lz1GMZjoaF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\) \[Alok Remix\]](https://open.spotify.com/album/4FoMXPUZRhvuriRNTwyDwI) | 2:39 | 2021-12-03 |  |
+| [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 | 2023-04-14 |  |
 | [Party Never Ends](https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Party Never Ends](https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM) | 2:28 | 2021-12-03 |  |
 | [Party On My Own](https://open.spotify.com/track/49ifZncZRGpqKqx3B3DoSO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own](https://open.spotify.com/album/1NntTMz0L8e1Cc9U44UPLb) | 2:26 | 2021-12-03 | 2022-07-29 |
 | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht) | 2:26 | 2022-06-17 |  |

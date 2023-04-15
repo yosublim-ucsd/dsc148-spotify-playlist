@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 
 > This is Iron Maiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,090 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,337 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 41 | [Alexander the Great \(356\-323 B.C.\) \- 2015 Remaster](https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 8:37 |
 | 42 | [Ghost of the Navigator \- 2015 Remaster](https://open.spotify.com/track/6KLUI6LnYdg5PIb5VKWSzu) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 6:50 |
 | 43 | [Bring Your Daughter..\. to the Slaughter \- 2015 Remaster](https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk) | 4:43 |
-| 44 | [Killers \- 2015 Remaster](https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Killers \(2015 Remaster\)](https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D) | 5:01 |
-| 45 | [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 |
+| 44 | [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 |
+| 45 | [Killers \- 2015 Remaster](https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Killers \(2015 Remaster\)](https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D) | 5:01 |
 | 46 | [Lost In A Lost World](https://open.spotify.com/track/0snEBWqLtpH1lONPTiNref) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 9:31 |
 | 47 | [Transylvania \- 2015 Remaster](https://open.spotify.com/track/43QZUbTYnsU7ypUKxOyTRz) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 4:04 |
 | 48 | [The Clansman \- 2015 Remaster](https://open.spotify.com/track/4L6lZetSWtn949AGIhd5aR) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Virtual XI \(2015 Remaster\)](https://open.spotify.com/album/4olc018Cln2QaMRFy1sk7v) | 8:59 |
 | 49 | [Rainmaker \- 2015 Remaster](https://open.spotify.com/track/5jNmbcbuNhM8d5oUld1WsS) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Dance of Death \(2015 Remaster\)](https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh) | 3:48 |
 | 50 | [The Time Machine](https://open.spotify.com/track/2orfmTbBQtEI1wpukVt40z) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 7:09 |
 
-Snapshot ID: `MjgwMjMxNDMsMDAwMDAwMDAyNmJiMDNjZDU1YjcwNmQ2MDE1ZjcxZTQwNTM1MmE3Yw==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAzZGU3MTQxOWQ1MGFhMGRiM2NhNGYzZTVlZDU5Njk5NA==`

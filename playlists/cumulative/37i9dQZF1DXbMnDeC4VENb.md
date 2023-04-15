@@ -4,11 +4,12 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-105 songs - 6 hr 16 min
+107 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2022-05-25 | 2022-06-28 |
+| [Agua Salada](https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Agua Salada](https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB) | 3:12 | 2023-04-14 |  |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-06-27 |  |
 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 | 2022-05-25 | 2022-07-29 |
 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 | 2022-05-25 |  |
@@ -41,6 +42,7 @@
 | [Extrañandote](https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 2:53 | 2022-05-25 |  |
 | [Huracán](https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/72AgLJrge61AYrpf2zH8rl) | 4:15 | 2022-05-25 | 2022-12-12 |
 | [Huracán](https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/2u4KwCMykbRMaqSb3nM7Wq) | 4:15 | 2022-10-17 |  |
+| [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-04-14 |  |
 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 | 2022-05-25 |  |
 | [Lento](https://open.spotify.com/track/1eDUEqKdkt5rMTf43l6bHO) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/53tylmJHr857yvMZv0ruBz) | 3:14 | 2022-05-25 | 2022-07-29 |
 | [Lento](https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Moree Neri](https://open.spotify.com/artist/7JwiKwvicnP4AkPB65Ds4Y) | [Lento](https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb) | 3:19 | 2022-06-27 |  |

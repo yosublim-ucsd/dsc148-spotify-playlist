@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Julia Vit\u00f3ria",
-  "num_followers": 286545,
+  "num_followers": 286659,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDE0ODQ5N2FmNDRjYzE0MjMyYThhZDc3MTRjOWIyOWI5",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDhlMTc4ZDNiOTgxNmY3NTBmOGQ5ZDI2YzcxODMzMjdl",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -507,8 +507,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
       },
       "artists": [
         {
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Aos P\u00e9s da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
+      "duration_ms": 621079,
+      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 214948,
       "name": "Avance",
       "url": "https://open.spotify.com/track/4efYWPmwlxShjrp1uXkElp"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Aos P\u00e9s da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "A Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 621079,
-      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2023-03-24 03:00:00",

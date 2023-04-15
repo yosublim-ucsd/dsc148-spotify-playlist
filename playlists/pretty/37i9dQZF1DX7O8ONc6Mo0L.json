@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 241495,
+  "num_followers": 241611,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDRiY2IwMjU4YmE0MTY5ODY1MjA1MGI3ZmVkNjVmOTRm",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGE0NjU5NmViNmFmNDYzOTU4MjNhMTI3YzZhMzg4MDM3",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Nunca Te Deixarei (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 331250,
       "name": "Impressionante - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ao Orar 2",
-        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
       },
       "artists": [
         {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Guarda Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+        "name": "Ao Orar 2",
+        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
       },
       "artists": [
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
         }
       ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+      "duration_ms": 221500,
+      "name": "Guarda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "No Secreto",
-        "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 410245,
-      "name": "No Secreto",
-      "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Aprender Com a Vida (Piano e Voz)",
         "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 258044,
       "name": "Aprender Com a Vida - Piano e Voz",
       "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "No Secreto",
+        "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 410245,
+      "name": "No Secreto",
+      "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Prossiga",
-        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 307319,
-      "name": "Prossiga",
-      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Prossiga",
+        "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 307319,
+      "name": "Prossiga",
+      "url": "https://open.spotify.com/track/3BXyIobmrRSKBluqalspMi"
     },
     {
       "added_at": "2023-03-24 03:00:00",

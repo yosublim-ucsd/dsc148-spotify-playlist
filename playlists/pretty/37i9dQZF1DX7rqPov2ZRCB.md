@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,869 likes - 51 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,897 likes - 51 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 8 | [Al Que Le Pique](https://open.spotify.com/track/3rHdsROdo2VVY3NUoQihT2) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [1](https://open.spotify.com/album/6ewQaPepdmwT139inGJBJ9) | 7:47 |
 | 9 | [Pero dime](https://open.spotify.com/track/1JaBo7TxIs1iP35ye123ar) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:05 |
 | 10 | [El Baile Del Perrito](https://open.spotify.com/track/0uDxsPAVs2Hu6OQ7XlUWo2) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 8:11 |
-| 11 | [Te Fuiste De Aqui](https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF) | 4:40 |
-| 12 | [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 |
+| 11 | [La Grama Chapia](https://open.spotify.com/track/7MArp47Di71hZnkhEew3ws) | [Raquel Arias](https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8) | [Los Numero Uno del Merengue Tipico, Vol\. 2](https://open.spotify.com/album/56muHwZ33PkyEKcu4vFH8W) | 4:39 |
+| 12 | [Te Fuiste De Aqui](https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Te Fuiste De Aqui](https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF) | 4:40 |
 | 13 | [El diente de oro](https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [14 Super Éxitos](https://open.spotify.com/album/1fFdyPrPN9fF264jXDO0w4) | 4:47 |
 | 14 | [El Amor De Su Vida](https://open.spotify.com/track/5CVHhOAMpfdDbn9nq7EDGv) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Pero Dime](https://open.spotify.com/album/3mkTHzbBUqtv7FoChJ6VWi) | 4:11 |
 | 15 | [No Te Vayas](https://open.spotify.com/track/40Hmq1MsOhQP2y5Aff4VtI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 4:18 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 33 | [Ta' Buena](https://open.spotify.com/track/3BgSFrdupRytjDZw2BcwHn) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 3:35 |
 | 34 | [Salón de Belleza](https://open.spotify.com/track/70SA4D9VxrH3RI1cDOSHAk) | [Blas Duran](https://open.spotify.com/artist/0N8kOoceUhHFL16Rhe5rvb) | [Éxitos de Oro](https://open.spotify.com/album/0hjzbRJGIAlvfWhoX3n2Oj) | 3:54 |
 | 35 | [Mi Tia](https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 4:28 |
-| 36 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
+| 36 | [La Torera](https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Maria Diaz y Luis Vargas](https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj) | 4:27 |
 | 37 | [Comiendo Gallina](https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Ídolo Del Pueblo](https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK) | 2:47 |
-| 38 | [La Torera](https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq) | [Maria Diaz](https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Maria Diaz y Luis Vargas](https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj) | 4:27 |
+| 38 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
 | 39 | [Navidad Sin Mi Madre](https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf) | [El General Larguito](https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:22 |
 | 40 | [Diente de Oro](https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Merengues Tipicos Que Hicieron Historia, Vol\. 1](https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z) | 4:36 |
 | 41 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
 | 51 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDYxMGIwMjlmY2FlMjcwYzMyMmRlMzg1NjdmN2E1MjQ3`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDIyMGU3YTY4ZWRlZDFiMGJjZDg5ZDdlYjU1M2YzMTY1`

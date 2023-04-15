@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 5850,
+  "num_followers": 5891,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDgxZDg0ZTU1ZWQ2NjQ5NDhlZDhiNWI2MDVjNTBlNmRl",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGMxOTFlMzQ5MmMzODY3OTdkZjUzN2ZiMTNiNDZjMDJm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -791,30 +791,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2"
-      },
-      "artists": [
-        {
-          "name": "Top5",
-          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
-        },
-        {
-          "name": "Bundog",
-          "url": "https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO"
-        },
-        {
-          "name": "Why G",
-          "url": "https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB"
-        }
-      ],
-      "duration_ms": 165924,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "It Ain't My Fault",
         "url": "https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0"
       },
@@ -839,22 +815,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Don\u2019t Leave Me",
-      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Relentless (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
       },
@@ -871,6 +831,46 @@
       "duration_ms": 206533,
       "name": "Relentless (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Don\u2019t Leave Me",
+      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2"
+      },
+      "artists": [
+        {
+          "name": "Top5",
+          "url": "https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw"
+        },
+        {
+          "name": "Bundog",
+          "url": "https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO"
+        },
+        {
+          "name": "Why G",
+          "url": "https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB"
+        }
+      ],
+      "duration_ms": 165924,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72"
     },
     {
       "added_at": "2022-10-01 16:17:17",

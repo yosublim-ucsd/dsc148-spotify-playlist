@@ -1,12 +1,12 @@
 {
   "description": "Enjoy a break with some relaxing soft songs.",
-  "num_followers": 725969,
+  "num_followers": 726112,
   "original_name": "Cozy Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI2MDQwMCwwMDAwMDAwMDY0MjQzZjI1NzUyYTk0MDg5NzI3MDM4OWM1OWZiZDZm",
+  "snapshot_id": "MTY4MTQ3MDAwMCwwMDAwMDAwMDFiMzIyMmUzZGU1MTU0ODhmODBjMjU5NzAyNGZjZGQx",
   "tracks": [
     {
       "added_at": "2023-03-17 10:30:00",
@@ -3727,22 +3727,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 188792,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Echos",
         "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
       },
@@ -3755,6 +3739,22 @@
       "duration_ms": 227493,
       "name": "Home",
       "url": "https://open.spotify.com/track/4fcElESpEHb3iFtOxxBiTZ"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -4091,22 +4091,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 273437,
-      "name": "Who Are We",
-      "url": "https://open.spotify.com/track/6qw3TxMncHPSdSfJ3esZKZ"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "Raw",
         "url": "https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP"
       },
@@ -4119,6 +4103,22 @@
       "duration_ms": 185549,
       "name": "I Don't Want To Know",
       "url": "https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/3mCGjbVFyBxj3FO8BuakBI"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "Who Are We",
+      "url": "https://open.spotify.com/track/6qw3TxMncHPSdSfJ3esZKZ"
     },
     {
       "added_at": "2023-02-17 11:17:00",

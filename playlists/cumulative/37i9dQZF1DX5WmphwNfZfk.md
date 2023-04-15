@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Zeina
 
-1,110 songs - 2 day 8 hr 48 min
+1,111 songs - 2 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,7 +771,8 @@
 | [queen st](https://open.spotify.com/track/5iPRPoJMfuwgaPbECWHrIY) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [queen st](https://open.spotify.com/album/1Zw3TjtEff6LALfHLqOKRe) | 2:10 | 2022-02-04 | 2023-02-04 |
 | [Queen St](https://open.spotify.com/track/3y5kablQcdGYEmLHkTHvIF) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Queen St](https://open.spotify.com/album/64uOosOXFR6OL8AGnSsOls) | 3:04 | 2022-09-02 | 2022-10-08 |
 | [Questions](https://open.spotify.com/track/075Vlu9vSFPbr15IVKPBro) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Questions](https://open.spotify.com/album/5L42oPqaQXz45v2Buz3x5W) | 3:15 | 2022-07-01 | 2022-08-06 |
-| [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-04-07 |  |
+| [RADIATION](https://open.spotify.com/track/0gYhKvqRSWK0hfBjbAlZCG) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/0gHb2KspaWK9XZx2I9QAIR) | 2:24 | 2023-04-07 |  |
+| [RADIATION](https://open.spotify.com/track/7iZ7iXK4vqvfw0AB9O434p) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [RADIATION](https://open.spotify.com/album/4T2j5n3jrSaM8KGU4OQEF5) | 2:24 | 2023-04-07 | 2023-04-15 |
 | [Radio](https://open.spotify.com/track/2WTL0OfiftAxKKnoC0f2E5) | [TITUS BANK](https://open.spotify.com/artist/6lO31QP9bo8C3ay6IxkIol) | [Radio](https://open.spotify.com/album/1FY582yGj5KLrR0rmANPts) | 3:38 | 2022-06-03 | 2022-07-02 |
 | [Rags 2 Riches](https://open.spotify.com/track/4FbpJVIQvKCPdFNcscKZyH) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Rags 2 Riches](https://open.spotify.com/album/6gMo6gASXbcMgx6emh36xz) | 2:23 | 2021-12-06 | 2022-01-08 |
 | [Rambos Freestyle](https://open.spotify.com/track/5fuRS0HBZK8BMUfl78KxvW) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Rambos Freestyle](https://open.spotify.com/album/2ZDoHDHsljfAybBnH9ptdN) | 2:08 | 2022-02-04 | 2022-03-05 |

@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 147254,
       "name": "365",
       "url": "https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW"
@@ -1492,7 +1492,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -2342,7 +2342,7 @@
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -2509,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "album": {
         "name": "El Sistema",
         "url": "https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM"
       },
@@ -2606,7 +2628,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 254152,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT"
@@ -2960,6 +2982,28 @@
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
+    },
+    {
+      "album": {
+        "name": "Nena Trampa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178992,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T"
     },
     {
       "album": {
@@ -3371,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "Kawasaki",
+        "url": "https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Kawasaki",
+      "url": "https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ"
+    },
+    {
+      "album": {
         "name": "Kiwi",
         "url": "https://open.spotify.com/album/1Oz0r1kQqGoi5YvV2SI10y"
       },
@@ -3386,7 +3452,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 232920,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/6iIooXoLXNb0duWFP1wwLd"
@@ -3932,6 +3998,28 @@
       "duration_ms": 222439,
       "name": "LAS OLAS",
       "url": "https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo"
+    },
+    {
+      "album": {
+        "name": "S\u00c9 T\u00da MISMO",
+        "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97213,
+      "name": "Ley de Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/1ftOFW7Nl8nV73hv6RmwLm"
     },
     {
       "album": {
@@ -4552,7 +4640,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192321,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0"
@@ -5052,7 +5140,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 182426,
       "name": "n la disco",
       "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
@@ -5592,7 +5680,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 198535,
       "name": "Paciente Por Ti (feat. Danny Ocean)",
       "url": "https://open.spotify.com/track/2gLxf2V3xAEitxNawDhgJb"
@@ -5898,7 +5986,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173793,
       "name": "Prende y Fuma",
       "url": "https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1"
@@ -6332,6 +6420,28 @@
       "duration_ms": 180170,
       "name": "ROMANCE",
       "url": "https://open.spotify.com/track/2tkQXP7XlPbtNKj99NepLa"
+    },
+    {
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
     },
     {
       "album": {
@@ -7281,6 +7391,32 @@
     },
     {
       "album": {
+        "name": "COLABORACIONES",
+        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125026,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
+    },
+    {
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -7592,6 +7728,32 @@
       "duration_ms": 201200,
       "name": "Tus Poses",
       "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
+    },
+    {
+      "album": {
+        "name": "T\u00f3cate (feat. Jory Boy)",
+        "url": "https://open.spotify.com/album/3FDOIi5W2DmK9zB4BEQbvo"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233619,
+      "name": "T\u00f3cate (feat. Jory Boy)",
+      "url": "https://open.spotify.com/track/14W16NqK7cTH8JnoBTbjTb"
     },
     {
       "album": {

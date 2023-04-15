@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 81773,
+  "num_followers": 81881,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDBjOTdjNmU5MzAzYTIwZjNkMGMxNWI5NTYyOTVhZTQ4",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGE1Njg5ZmNhMGQyMzVlY2QyMTdmMzhhN2NjM2I5Y2E3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Me Hace Falta",
-        "url": "https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Me Hace Falta",
-      "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Zuculento",
         "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
       },
@@ -1531,30 +1515,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Bum Bam Ven (Remix)",
-        "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        },
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Bum Bam Ven - Remix",
-      "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Me Vale V3rg4",
         "url": "https://open.spotify.com/album/12PjHJ65aOOicQRb6Zuslz"
       },
@@ -1607,6 +1567,30 @@
       "duration_ms": 220706,
       "name": "Mensaje Directo (DM)",
       "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Bum Bam Ven (Remix)",
+        "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Bum Bam Ven - Remix",
+      "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2027,6 +2011,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Peine Caracol, Vol. 2",
+        "url": "https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 190593,
+      "name": "Peine Caracol, Vol. 2",
+      "url": "https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Desacatate",
         "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
       },
@@ -2119,26 +2123,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Peine Caracol, Vol. 2",
-        "url": "https://open.spotify.com/album/0fCnAn6n7ioHrbQW2VGFRM"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 190593,
-      "name": "Peine Caracol, Vol. 2",
-      "url": "https://open.spotify.com/track/5Gv6kUJV6yukwNfK8XikRp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Tembeleke",
         "url": "https://open.spotify.com/album/2im1MJ93yLX0OTE7LKBczH"
       },
@@ -2199,6 +2183,34 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "El Que No Salta Es Paco (Remix)",
+        "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
+      },
+      "artists": [
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Tracy McGrady",
+          "url": "https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH"
+        }
+      ],
+      "duration_ms": 248209,
+      "name": "El Que No Salta Es Paco - Remix",
+      "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "La Gente Ta' Loca (Remix)",
         "url": "https://open.spotify.com/album/7FSljR58CzFZISeEMj5bO1"
       },
@@ -2239,34 +2251,6 @@
       "duration_ms": 211301,
       "name": "Prendi",
       "url": "https://open.spotify.com/track/4UkFMIoki83SK2KGjZg41B"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "El Que No Salta Es Paco (Remix)",
-        "url": "https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc"
-      },
-      "artists": [
-        {
-          "name": "El Futuro Fuera De Orbita",
-          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
-        },
-        {
-          "name": "Carlitos Junior",
-          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
-        },
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Tracy McGrady",
-          "url": "https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH"
-        }
-      ],
-      "duration_ms": 248209,
-      "name": "El Que No Salta Es Paco - Remix",
-      "url": "https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2319,6 +2303,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Ella Eh!",
+        "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "Ella Eh!",
+      "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Me Subo Arriba",
         "url": "https://open.spotify.com/album/2xUAOCkgUjzbLF98XTC2lT"
       },
@@ -2351,6 +2351,30 @@
       "duration_ms": 144406,
       "name": "Flotaera",
       "url": "https://open.spotify.com/track/0axj1N7mJkA71nD8qNqLPM"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Eso Es Mental",
+        "url": "https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 157863,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/3q13pn7i4AWn1aAl98ph7E"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2395,22 +2419,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ella Eh!",
-        "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
-      },
-      "artists": [
-        {
-          "name": "Crazy Design",
-          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
-        }
-      ],
-      "duration_ms": 161346,
-      "name": "Ella Eh!",
-      "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Co\u00f1o",
         "url": "https://open.spotify.com/album/36c1aJqb2XjJ8rr8qH4RfI"
       },
@@ -2431,30 +2439,6 @@
       "duration_ms": 181208,
       "name": "Co\u00f1o (with Puri & El Bloonel)",
       "url": "https://open.spotify.com/track/7sVPUTrksjfvDMyiDaAHWO"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Eso Es Mental",
-        "url": "https://open.spotify.com/album/2UqAGEkeshUDADfxlDMApg"
-      },
-      "artists": [
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 157863,
-      "name": "La Boda",
-      "url": "https://open.spotify.com/track/3q13pn7i4AWn1aAl98ph7E"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2791,22 +2775,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mi Cumplea\u00f1o",
-        "url": "https://open.spotify.com/album/4X9gqosf7H0MRVs0HTKH1C"
-      },
-      "artists": [
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        }
-      ],
-      "duration_ms": 276387,
-      "name": "Mi Cumplea\u00f1o",
-      "url": "https://open.spotify.com/track/6pqh2p7TCSu7zLt42CLmwE"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
       },
@@ -2819,6 +2787,22 @@
       "duration_ms": 192835,
       "name": "Pa Que Me Dan de Eso",
       "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mi Cumplea\u00f1o",
+        "url": "https://open.spotify.com/album/4X9gqosf7H0MRVs0HTKH1C"
+      },
+      "artists": [
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "duration_ms": 276387,
+      "name": "Mi Cumplea\u00f1o",
+      "url": "https://open.spotify.com/track/6pqh2p7TCSu7zLt42CLmwE"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -3139,6 +3123,22 @@
       "duration_ms": 195492,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Vaina Bakana",
+        "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
+      },
+      "artists": [
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Vaina Bakana",
+      "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

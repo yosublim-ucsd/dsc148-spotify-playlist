@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality blend ft. Jenny Lewis",
+  "description": "The highest quality blend ft. BAILEN",
   "name": "Grade A",
   "tracks": [
     {
@@ -954,6 +954,24 @@
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
+    },
+    {
+      "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/4NpgESP5KvrF7vXl2XgJBj"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/6CqgkvVUfWfa2xwZRT31AY"
     },
     {
       "album": {
@@ -2261,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Death Wish",
         "url": "https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7"
       },
@@ -2564,7 +2600,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 191348,
       "name": "Don\u2019t Go Back",
       "url": "https://open.spotify.com/track/1dE8Mq801cWJcCS23zPZWY"
@@ -2640,6 +2676,24 @@
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
+    },
+    {
+      "album": {
+        "name": "SEA/SONS",
+        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198321,
+      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
+      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
     },
     {
       "album": {
@@ -3022,6 +3076,24 @@
       "duration_ms": 184847,
       "name": "Excited Ones",
       "url": "https://open.spotify.com/track/0g7SEOa5ilYJJt6lxTHDOH"
+    },
+    {
+      "album": {
+        "name": "Exhausting Lover",
+        "url": "https://open.spotify.com/album/3iQcUYhyJSENxrD87NVP8m"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215420,
+      "name": "Exhausting Lover",
+      "url": "https://open.spotify.com/track/7ctgAjg9UUycwDIav6xBmv"
     },
     {
       "album": {
@@ -3942,7 +4014,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 212093,
       "name": "Growing/Dying",
       "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
@@ -5782,7 +5854,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 254133,
       "name": "Let's Make a Mistake Tonight",
       "url": "https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s"
@@ -7024,7 +7096,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 198826,
       "name": "Nauseous",
       "url": "https://open.spotify.com/track/3ZvrBVewa8fdjQ8srDvM9R"
@@ -7150,7 +7222,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
@@ -7487,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "Nothing Left To Give",
+        "url": "https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193522,
+      "name": "Nothing Left To Give",
+      "url": "https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232"
+    },
+    {
+      "album": {
         "name": "Nothing's Free",
         "url": "https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ"
       },
@@ -7634,6 +7724,24 @@
       "duration_ms": 200336,
       "name": "Oh Cecilia",
       "url": "https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT"
+    },
+    {
+      "album": {
+        "name": "Oh No Darling!",
+        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203876,
+      "name": "Oh No Darling!",
+      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
       "album": {
@@ -8880,7 +8988,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
@@ -10440,7 +10548,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 254725,
       "name": "Tears Run Dry",
       "url": "https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd"
@@ -11766,7 +11874,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 337826,
       "name": "Very Fine - Pts. 1 & 2",
       "url": "https://open.spotify.com/track/5VGqqm2kZAPlLPQggN3Zes"
@@ -12391,6 +12499,24 @@
     },
     {
       "album": {
+        "name": "Without a Woman",
+        "url": "https://open.spotify.com/album/2Uq3hRliWBJvCVwEDd6JPa"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "Without a Woman",
+      "url": "https://open.spotify.com/track/7EcsMCCYXi0mdF0tVyzjCp"
+    },
+    {
+      "album": {
         "name": "Work Out",
         "url": "https://open.spotify.com/album/1YBO4zKTVcNxP1VREsBc3h"
       },
@@ -12572,6 +12698,28 @@
       "duration_ms": 279040,
       "name": "Younger & Dumber",
       "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+    },
+    {
+      "album": {
+        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264320,
+      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
     },
     {
       "album": {

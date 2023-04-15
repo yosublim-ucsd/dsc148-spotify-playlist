@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Jana Horn
 
-321 songs - 20 hr 12 min
+323 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,11 +60,12 @@
 | [Catch Your Eye](https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:42 | 2023-02-10 |  |
 | [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 | 2022-12-16 | 2023-02-14 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-12-16 |  |
-| [chamomile](https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO) | 3:53 | 2022-04-29 |  |
+| [chamomile](https://open.spotify.com/track/1OKhm3Ew6ejYwCalQmC4wP) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4H9ie0uCEQRmY8u3ILQ9mO) | 3:53 | 2022-04-29 | 2023-04-15 |
 | [chamomile](https://open.spotify.com/track/2KWrSa9jhJXBU1kKkgpH2R) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4RJ9Jc5Kzxro65JWQzzaDp) | 3:53 | 2022-01-21 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-04-29 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-01-21 | 2022-07-29 |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 |  |
+| [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 | 2023-04-14 |  |
 | [Circles In The Firing Line \- Edit](https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Fever Dreams](https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr) | 3:27 | 2022-04-13 | 2023-03-11 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2022-04-13 | 2022-07-29 |
 | [Closing the Door on Us](https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp) | [Closing the Door on Us](https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3) | 2:15 | 2023-02-17 |  |
@@ -196,8 +197,9 @@
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 | 2022-11-13 |
 | [Nature's Way](https://open.spotify.com/track/4r05BDLjV65C9vWTWGspVf) | [Johanna Samuels](https://open.spotify.com/artist/3NsEv68AsYdjKdCJ4AhHTa) | [Excelsior!](https://open.spotify.com/album/73WPvTgw83Mcwy05plFvTs) | 3:26 | 2022-01-21 | 2022-07-27 |
-| [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 |  |
+| [needy](https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB) | 3:52 | 2022-04-29 | 2023-04-15 |
 | [needy](https://open.spotify.com/track/7sGF4Lmw4ON0NGpXi947zR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [needy](https://open.spotify.com/album/25ybQpE54EavBau3PajDTj) | 3:52 | 2022-01-21 | 2022-07-29 |
+| [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-04-14 |  |
 | [No Summer](https://open.spotify.com/track/3DeRxZx9NeymcEKzDqY79r) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [No Summer](https://open.spotify.com/album/5lGTDW0jIkmQio3Kozn9fl) | 3:51 | 2022-04-13 | 2022-07-29 |
 | [Not Much](https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Hailaker](https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q) | 4:13 | 2022-12-16 |  |
 | [Nowhere](https://open.spotify.com/track/77xVAa1MgwURdZAq7LwGAC) | [Katie Von Schleicher](https://open.spotify.com/artist/68UA9076k6lewTq2slA1FN) | [Consummation](https://open.spotify.com/album/7BFCex0ujA1VHUvkqjqlnb) | 3:39 | 2022-04-13 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,502 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,522 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 18 | [Que Levante la Mano](https://open.spotify.com/track/0zg7eikeFzJg2GZcNZi24l) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/1O4E5VYQQeZX7GMkRjZn6r) | 3:57 |
 | 19 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 |
 | 20 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 |
-| 21 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 21 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3t1KSw84bP0zIRryUD4VgQ) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/7zODnd44iBkdZUziXFsUnS) | 4:31 |
 | 22 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
 | 23 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
-| 24 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3t1KSw84bP0zIRryUD4VgQ) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/7zODnd44iBkdZUziXFsUnS) | 4:31 |
+| 24 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
 | 25 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 26 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
 | 27 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
 | 60 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 
-Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMGNmZGM4MjMyMTVkYWI4MjUyOWRhYmYxZTllMjNjZmRj`
+Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMDU0YTMxMDcwMTQxN2FmY2I0MzBmNDg1Njg3Y2Q3ZjI1`

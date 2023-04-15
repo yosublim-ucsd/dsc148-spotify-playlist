@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "High & Low",
+        "url": "https://open.spotify.com/album/3aHniWCq391zmVHUc7zBew"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196267,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/7KxQVpurQMcFdZzqRoFceH"
+    },
+    {
+      "album": {
         "name": "ALERGICA",
         "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
       },
@@ -684,7 +702,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 166046,
       "name": "All the Things You'd Ruin",
       "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"

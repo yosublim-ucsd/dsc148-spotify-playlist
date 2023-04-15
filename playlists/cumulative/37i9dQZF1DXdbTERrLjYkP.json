@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Can't Blame A Girl For Trying",
+        "url": "https://open.spotify.com/album/1LfeBAZnBjfMt9uBshppAC"
+      },
+      "artists": [
+        {
+          "name": "Anja Kotar",
+          "url": "https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165443,
+      "name": "Can't Blame A Girl For Trying",
+      "url": "https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5"
+    },
+    {
+      "album": {
         "name": "can't breathe",
         "url": "https://open.spotify.com/album/3L1LukRPJqre4Ib2kQ3iFy"
       },
@@ -2156,6 +2174,24 @@
       "duration_ms": 158048,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1FzXRK8g8TxVdL8UjSWaRC"
+    },
+    {
+      "album": {
+        "name": "Powerlines",
+        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "First Place",
+      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
     },
     {
       "album": {
@@ -3654,7 +3690,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172163,
       "name": "In a Few Months",
       "url": "https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs"
@@ -5242,7 +5278,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 173373,
       "name": "Play Dumb",
       "url": "https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht"

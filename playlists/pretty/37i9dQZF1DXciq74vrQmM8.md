@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. kid brunswick
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,267 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,312 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 60 | [Sweet Sweet](https://open.spotify.com/track/6GMKSAc1546d4mMen2UHd3) | [xDZVONx](https://open.spotify.com/artist/0EVHp9A1Qu3JIkeiOaHRW0) | [Sweet Sweet](https://open.spotify.com/album/17kfWL3qV8fIZWmAQexElT) | 2:31 |
 | 61 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
 | 62 | [Lacrimosa](https://open.spotify.com/track/75GyAwEPoofJvjq6oZo22s) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Lacrimosa](https://open.spotify.com/album/2rezRedcnS60CY419b5HAR) | 4:17 |
-| 63 | [Devils](https://open.spotify.com/track/1gXXDq6HH6nDFyIjsZzF4a) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Devils](https://open.spotify.com/album/3qwhc7GQ0YUwx11DZf7mEE) | 3:08 |
+| 63 | [Devils](https://open.spotify.com/track/4IZ7GX68Kn5fvAnGXUf0GT) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:08 |
 | 64 | [Headbang](https://open.spotify.com/track/4S0rDR22A6j4W5ESiVyShM) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Headbang](https://open.spotify.com/album/5NTVbLHB3xKg13dajHUV62) | 2:42 |
 | 65 | [FANG DUMMY](https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [FANG DUMMY](https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy) | 3:50 |
 | 66 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [NEW BOY](https://open.spotify.com/track/4XbW7CRBTy5jCQcN8XAcNS) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [NEW BOY](https://open.spotify.com/album/5BsSDGYksYm1ORLKvASAyJ) | 3:46 |
 | 80 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGVmNTcxZWMyNzVhMzAzYTEzNmI1MzM5OTlkMzg4MmIx`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDM2MjA5NWMwY2YxYmE3MmE5ZjA3YTYyNzI3OWVmN2Uw`

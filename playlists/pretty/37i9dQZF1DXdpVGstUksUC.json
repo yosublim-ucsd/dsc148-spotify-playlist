@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 496043,
+  "num_followers": 496283,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTg1OCwwMDAwMDAwMGFhMGVkNDAzYzFiZGJhNDNlNDI1YTcxOTI5OTQ2OGEx",
+  "snapshot_id": "MTY3OTUwMTg1OCwwMDAwMDAwMDdmYzAwNzRhN2U2MjE0NTgxOTBlZmI3MGZkNzYxZjli",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Nola",
         "url": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Gravity X",
         "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Stoner Witch",
         "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Elephant Tree",
         "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
@@ -793,7 +777,23 @@
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+    },
+    {
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1385,7 +1385,7 @@
       "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "The Big Black",
         "url": "https://open.spotify.com/album/4zfCuQTmfsBNxYL0GUhSg0"
@@ -1593,7 +1593,7 @@
       "url": "https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw"
     },
     {
-      "added_at": "2023-04-14 00:43:01",
+      "added_at": "2023-04-15 00:43:02",
       "album": {
         "name": "Dos E.P.'s",
         "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"

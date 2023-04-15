@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-55 songs - 2 hr 41 min
+56 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 | 2023-03-30 |  |
 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 | 2023-03-30 |  |
 | [Emu Oguro](https://open.spotify.com/track/6vFtcu7AenyFL4wBdDdOOZ) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Emu Oguro](https://open.spotify.com/album/5XDeRDMJP5DYQ2LfZD9uP5) | 3:13 | 2023-04-06 |  |
-| [ENEMIES ENEMIES](https://open.spotify.com/track/2nbAD9CgZzhdgzb4uctils) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [ENEMIES ENEMIES](https://open.spotify.com/album/5Bfrc1CoPbMk6z3h4BEXze) | 2:05 | 2023-03-30 |  |
+| [ENEMIES ENEMIES](https://open.spotify.com/track/2nbAD9CgZzhdgzb4uctils) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [ENEMIES ENEMIES](https://open.spotify.com/album/5Bfrc1CoPbMk6z3h4BEXze) | 2:05 | 2023-03-30 | 2023-04-15 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2023-03-30 |  |
 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 | 2023-03-30 |  |
 | [Feel It](https://open.spotify.com/track/5UoYzAzGdlv8F2Vh6flsYk) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Feel It](https://open.spotify.com/album/3gsYQFKUnBsGGQZ0yRXrdw) | 3:15 | 2023-03-30 | 2023-04-07 |
@@ -44,6 +44,7 @@
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-03-30 |  |
 | [Nu Riddim](https://open.spotify.com/track/3KW6KJKinwAszaajAHOSQF) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Love Drunk](https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo) | 3:09 | 2023-03-30 |  |
 | [Numbers](https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/50i2QAMZyvMyEzOhy8M7bB) | 3:07 | 2023-03-30 |  |
+| [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 |  |
 | [On My Way](https://open.spotify.com/track/2mTU6HVWHYPIDefNUcj9fN) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [benmaelen](https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [On My Way](https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh) | 3:26 | 2023-03-30 | 2023-04-07 |
 | [Play Dumb](https://open.spotify.com/track/0IrIlT6XttUFdsQkk9ZkVe) | [OwlVez](https://open.spotify.com/artist/0YAFjgw3FmgrIHzZdvrV0V) | [Play Dumb](https://open.spotify.com/album/4xjjCaQjqKgHl8tjfREOCm) | 3:59 | 2023-03-30 | 2023-04-07 |
 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 | 2023-03-30 |  |

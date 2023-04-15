@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Dhurata Dora",
-  "num_followers": 25801,
+  "num_followers": 25800,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0NTYwMCwwMDAwMDAwMGI0NmNjYzFmNzI5MjQzMzkxYmExZGVjZThlMGE1NDZj",
+  "snapshot_id": "MTY4MDY0NTYwMCwwMDAwMDAwMGI4ZDk3ZDQ0OWY1ZDAxYzhhMTcxNzM5ODgxYjg5NDQ0",
   "tracks": [
     {
       "added_at": "2023-04-04 22:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Fluch",
-        "url": "https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh"
-      },
-      "artists": [
-        {
-          "name": "BECKS",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "Fluch",
-      "url": "https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "awg",
         "url": "https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/4ctUmGTDSaPBK4nxPopOKk"
+        "name": "Fluch",
+        "url": "https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Happening",
-      "url": "https://open.spotify.com/track/17IG2GzlTpFK3Axropk1Jm"
+      "duration_ms": 127866,
+      "name": "Fluch",
+      "url": "https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 202308,
       "name": "Skandal im Patriarchat",
       "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/4ctUmGTDSaPBK4nxPopOKk"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Happening",
+      "url": "https://open.spotify.com/track/17IG2GzlTpFK3Axropk1Jm"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Besser wird's nicht",
-        "url": "https://open.spotify.com/album/3GYd3oBb4CtrclZg2N3tJy"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 262823,
-      "name": "Besser wird's nicht",
-      "url": "https://open.spotify.com/track/2jkasSIO7dCWmZ3N1lFFjd"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "He Nur Da",
         "url": "https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Dunkles Herz",
-        "url": "https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u"
+        "name": "Besser wird's nicht",
+        "url": "https://open.spotify.com/album/3GYd3oBb4CtrclZg2N3tJy"
       },
       "artists": [
         {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
         }
       ],
-      "duration_ms": 184454,
-      "name": "Dunkles Herz",
-      "url": "https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf"
+      "duration_ms": 262823,
+      "name": "Besser wird's nicht",
+      "url": "https://open.spotify.com/track/2jkasSIO7dCWmZ3N1lFFjd"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -487,22 +471,18 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Equal",
-        "url": "https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba"
+        "name": "Dunkles Herz",
+        "url": "https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u"
       },
       "artists": [
         {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        },
-        {
-          "name": "Sylvie Miles",
-          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
         }
       ],
-      "duration_ms": 319846,
-      "name": "Equal",
-      "url": "https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9"
+      "duration_ms": 184454,
+      "name": "Dunkles Herz",
+      "url": "https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -535,6 +515,26 @@
       "duration_ms": 154000,
       "name": "ASK FOR IT",
       "url": "https://open.spotify.com/track/1pMHhbNvIHrAWN7D7DtxDh"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Equal",
+        "url": "https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        },
+        {
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+        }
+      ],
+      "duration_ms": 319846,
+      "name": "Equal",
+      "url": "https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/31QsaG58FOxmthaBgjswqj"
-      },
-      "artists": [
-        {
-          "name": "Dornika",
-          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/4ROsbMSagzESG7ZRDaz81I"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Bangalore Girl",
         "url": "https://open.spotify.com/album/2caJPIatHrvo22ijTShEHD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 182125,
       "name": "Bangalore Girl",
       "url": "https://open.spotify.com/track/5SbQwyAnj2NkyPSg5SLn8V"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/31QsaG58FOxmthaBgjswqj"
+      },
+      "artists": [
+        {
+          "name": "Dornika",
+          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4ROsbMSagzESG7ZRDaz81I"
     },
     {
       "added_at": "2023-04-04 22:00:00",

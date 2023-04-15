@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,106 likes - 114 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,114 likes - 114 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 42 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 |
 | 43 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 44 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 |
-| 45 | [Impressed by You](https://open.spotify.com/track/7IZdfkd7vFvMZqEXFZ4rBt) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [BLCKMN](https://open.spotify.com/artist/2DLkMYbl3yCTXTImCK9nqY) | [I Feel](https://open.spotify.com/album/1YcU2klhYWxLKN8rrzukgA) | 3:01 |
+| 45 | [Impressed by You](https://open.spotify.com/track/7IZdfkd7vFvMZqEXFZ4rBt) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo), [BLKMN](https://open.spotify.com/artist/1ZSOuuAaldKBWVZb2LOYou) | [I Feel](https://open.spotify.com/album/1YcU2klhYWxLKN8rrzukgA) | 3:01 |
 | 46 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 |
 | 47 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 |
 | 48 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 |

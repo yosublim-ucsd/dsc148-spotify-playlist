@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Supercombo, kamaitachi",
+  "description": "Novidades e destaques do indie nacional. Foto: Jova",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/5qW2a7KYrGUQDziRtBF4fn"
+      },
+      "artists": [
+        {
+          "name": "PERDIDOS",
+          "url": "https://open.spotify.com/artist/07lGEl9cdorpl7Ht9OwKod"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247350,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/4vsDSmofpGQa0Gb43x0SWt"
+    },
+    {
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0"
       },
@@ -1072,6 +1090,28 @@
       "duration_ms": 197913,
       "name": "Caf\u00e9 com Leite",
       "url": "https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX"
+    },
+    {
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/5q9t9lh12cH8ighkPwXcNe"
+      },
+      "artists": [
+        {
+          "name": "Bersote",
+          "url": "https://open.spotify.com/artist/5eFVbe9UhSPoEU8wOStI8f"
+        },
+        {
+          "name": "Calebe Abreu",
+          "url": "https://open.spotify.com/artist/5Tgy1KK5C8ppPHmkw7qSyj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/6hQq4cuiZ95v2ruBNODR6q"
     },
     {
       "album": {
@@ -1684,7 +1724,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 178981,
       "name": "Desapego",
       "url": "https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB"
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 136367,
       "name": "Devagar",
       "url": "https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg"
@@ -1764,7 +1804,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186466,
       "name": "Dif\u00edcil",
       "url": "https://open.spotify.com/track/6ynlZyyVnqMZ8iD8G3ZjGX"
@@ -2496,7 +2536,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 301066,
       "name": "Feito pra Durar",
       "url": "https://open.spotify.com/track/1KXxGHLdrdwhXKYzuIa3Qv"
@@ -2550,7 +2590,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 171500,
       "name": "festa estranha",
       "url": "https://open.spotify.com/track/5jt176s3kzyjs9ZCHCqQ7d"
@@ -3142,7 +3182,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 181067,
       "name": "mais um lance",
       "url": "https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G"
@@ -3222,6 +3262,24 @@
       "duration_ms": 182266,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/62xWvqTKWo8h2UG9YWnA9g"
+    },
+    {
+      "album": {
+        "name": "Mantra dos Dias Atuais",
+        "url": "https://open.spotify.com/album/5oireUvuNCnQj63ngYfwlR"
+      },
+      "artists": [
+        {
+          "name": "Viviane Pitaya",
+          "url": "https://open.spotify.com/artist/0TiXdtsCwl7w4TtbH2CYco"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235268,
+      "name": "Mantra dos Dias Atuais",
+      "url": "https://open.spotify.com/track/5xuondyGgShEtV09eORB25"
     },
     {
       "album": {
@@ -3495,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Meu gato te odeia",
+        "url": "https://open.spotify.com/album/4GLxxnqdoWdaNGjh7sM17L"
+      },
+      "artists": [
+        {
+          "name": "Dri",
+          "url": "https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139325,
+      "name": "Meu gato te odeia",
+      "url": "https://open.spotify.com/track/5OpaidMj4AASyuFAWYLwJ9"
+    },
+    {
+      "album": {
         "name": "Epopeia",
         "url": "https://open.spotify.com/album/7uH5ApFrIm9IqKm6fjXzfW"
       },
@@ -3510,6 +3586,28 @@
       "duration_ms": 211200,
       "name": "Mil Palavras",
       "url": "https://open.spotify.com/track/0cg8VNMHhSsxmeuTNv7pZY"
+    },
+    {
+      "album": {
+        "name": "MUNDO VIDEO",
+        "url": "https://open.spotify.com/album/5POvSozk5xCVHQst953Vln"
+      },
+      "artists": [
+        {
+          "name": "Mundo Video",
+          "url": "https://open.spotify.com/artist/7eug6OaQ8rKdvSCTT6B9ty"
+        },
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169616,
+      "name": "MIMI (SINTO SUA FALTA)",
+      "url": "https://open.spotify.com/track/3rtYdRD1qmIzFCHf9zzyja"
     },
     {
       "album": {
@@ -3758,7 +3856,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 210500,
       "name": "Nada Mudou",
       "url": "https://open.spotify.com/track/56d5TRjEg3EhRCIGCQeVkw"
@@ -4372,7 +4470,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 281045,
       "name": "olhos cansados",
       "url": "https://open.spotify.com/track/3pt0xyf4ZVO2SRnMOf47r8"
@@ -4945,6 +5043,24 @@
     },
     {
       "album": {
+        "name": "VOC\u00ca SENTE ISSO TAMB\u00c9M?",
+        "url": "https://open.spotify.com/album/0vKIFoFatAaKXuGku4BUjB"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "QUADRADO",
+      "url": "https://open.spotify.com/track/3R4NYUYZGQK0eypfM2oCVn"
+    },
+    {
+      "album": {
         "name": "Quando",
         "url": "https://open.spotify.com/album/4b1wNEf2S1mFCfsLFaQTWG"
       },
@@ -5151,6 +5267,32 @@
     },
     {
       "album": {
+        "name": "Remorso",
+        "url": "https://open.spotify.com/album/50NcyhKZxxBwWNKwRCEp7r"
+      },
+      "artists": [
+        {
+          "name": "Madrid",
+          "url": "https://open.spotify.com/artist/11hzfqXWbO20J9QE8OGZ37"
+        },
+        {
+          "name": "Adriano Cintra",
+          "url": "https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH"
+        },
+        {
+          "name": "Marina Gasolina",
+          "url": "https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167874,
+      "name": "Remorso",
+      "url": "https://open.spotify.com/track/782kTdhCfZnxiOsum80ExY"
+    },
+    {
+      "album": {
         "name": "Mil Vers\u00f5es de Mim",
         "url": "https://open.spotify.com/album/1DivR2ZFmaDCjrPGZCaZjN"
       },
@@ -5348,6 +5490,24 @@
       "duration_ms": 155411,
       "name": "Sambatango",
       "url": "https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL"
+    },
+    {
+      "album": {
+        "name": "Santa Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/4HPAdEzlWapcgLqTamkS6M"
+      },
+      "artists": [
+        {
+          "name": "Bike",
+          "url": "https://open.spotify.com/artist/7nUTiIfqotUDu3HCqWMqcS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363136,
+      "name": "Santa Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/7iLoy68FrvUHvaBml3Jqwo"
     },
     {
       "album": {
@@ -5804,7 +5964,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 234427,
       "name": "Suco de Umbu",
       "url": "https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw"
@@ -6028,7 +6188,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 231989,
       "name": "The Will To Change",
       "url": "https://open.spotify.com/track/4cFcL2KdBYHJ5z57zcY4mx"
@@ -6519,6 +6679,24 @@
     },
     {
       "album": {
+        "name": "Casa Ca\u00edda",
+        "url": "https://open.spotify.com/album/7IysNwtPcvNZtMgtz0V2kP"
+      },
+      "artists": [
+        {
+          "name": "Jova",
+          "url": "https://open.spotify.com/artist/5DETkZU3Alp5yzyLmB5rnw"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "Velho",
+      "url": "https://open.spotify.com/track/1yTbENAWVsV5pasctksZp7"
+    },
+    {
+      "album": {
         "name": "vem c\u00e1",
         "url": "https://open.spotify.com/album/6fgGTsrWSyPnX1s7wVc2RH"
       },
@@ -6656,6 +6834,24 @@
       "duration_ms": 159133,
       "name": "Vinheta do Amor",
       "url": "https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc"
+    },
+    {
+      "album": {
+        "name": "vinte e muitos anos",
+        "url": "https://open.spotify.com/album/3N4EHXCnnHAYfWnKq89xhi"
+      },
+      "artists": [
+        {
+          "name": "bule",
+          "url": "https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175081,
+      "name": "vinte e muitos anos",
+      "url": "https://open.spotify.com/track/3KtXAzs7DLRo1cc6Q5T7IK"
     },
     {
       "album": {

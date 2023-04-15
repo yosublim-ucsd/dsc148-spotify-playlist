@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2023-03-09 |  |
+| [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2023-03-09 |  |
 | [AP](https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [AP](https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2) | 3:33 | 2023-03-09 |  |
 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 | 2023-03-09 |  |
 | [BELLAQUE?](https://open.spotify.com/track/7gYblpRDCSmrnY39PJBPYE) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [BELLAQUE?](https://open.spotify.com/album/4nbY0nHvLnl73klr2ZOaNo) | 2:17 | 2023-03-09 |  |

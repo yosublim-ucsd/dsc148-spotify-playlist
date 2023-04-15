@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,218 likes - 340 songs - 16 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,354 likes - 340 songs - 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 339 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
 | 340 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
 
-Snapshot ID: `MTY3OTU0MDQwMCwwMDAwMDAwMGU5YTAyMjYzYjBiNmMzMmJmY2M0YjRhMzNmN2U3MWM3`
+Snapshot ID: `MTY4MTQ2NjgyOCwwMDAwMDAwMGI2YTUwOTdhZGEwNjE1NDc5MjE0ZjgxMjU2NDNiN2Y1`

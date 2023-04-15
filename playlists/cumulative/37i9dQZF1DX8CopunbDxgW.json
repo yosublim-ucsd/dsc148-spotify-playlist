@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172613,
       "name": "Done (Let\u2019s Get It)",
       "url": "https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD"
@@ -3520,6 +3520,24 @@
       "duration_ms": 233469,
       "name": "Eleanor - Edit",
       "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
+    },
+    {
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "album": {
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 288519,
       "name": "Futuro Incierto",
       "url": "https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ"
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 244186,
       "name": "Head On - Miss Grit Remix",
       "url": "https://open.spotify.com/track/2etTUUZRsSJn4oNuZXvAJn"
@@ -8259,6 +8277,24 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
@@ -9794,7 +9830,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 224541,
       "name": "Omen (feat. Lyrah)",
       "url": "https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH"

@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 218345,
       "name": "All I Need Forever",
       "url": "https://open.spotify.com/track/6AoN87c4pPmG9fcxT2fie2"
@@ -19530,6 +19530,32 @@
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
+    },
+    {
+      "album": {
+        "name": "Strong Ting",
+        "url": "https://open.spotify.com/album/1pkDbJ4ci4HgENqe1aNkVl"
+      },
+      "artists": [
+        {
+          "name": "Duncan Daniels",
+          "url": "https://open.spotify.com/artist/4Hbx82x5pU9EiWxl91BXmL"
+        },
+        {
+          "name": "Yadima",
+          "url": "https://open.spotify.com/artist/7lxeVOSdsLBhh4hAs52LLD"
+        },
+        {
+          "name": "DEMOLA",
+          "url": "https://open.spotify.com/artist/5cUFIkBWAwJOJZDEiACH6m"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183662,
+      "name": "Strong Ting",
+      "url": "https://open.spotify.com/track/3TM0owiKZmewQBdXnkSBWO"
     },
     {
       "album": {

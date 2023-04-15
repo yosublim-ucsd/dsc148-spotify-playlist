@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across the African continent. Worship in your mother tongue here! Cover:  <a href=\"https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=lsdcKdofRAOEWWUBZtXtMw\"> Mercy Chinwo </a>",
-  "num_followers": 69234,
+  "num_followers": 69262,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMjIwMCwwMDAwMDAwMDE3YTAxZDg3MThjMWQ2NDZmMjU4M2NhOTdjMzJjOWNl",
+  "snapshot_id": "MTY4MTQ2Mjg4MSwwMDAwMDAwMDI1YjEyYjA4NGU2YzY3Y2Q3MjZmNzVhMzgwMjZiMGJh",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -90,6 +90,10 @@
         {
           "name": "Tim Godfrey",
           "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
       "duration_ms": 324000,
@@ -316,7 +320,7 @@
           "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
         }
       ],
-      "duration_ms": 204823,
+      "duration_ms": 200891,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
     },

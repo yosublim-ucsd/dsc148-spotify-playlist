@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 177848,
+  "num_followers": 177880,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDZhNDRkYjMyMjljODViMTg0MzMxMjNjN2RjMzUyZDg5",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGRjZmE4ZWI0NDViZTEwNWMxYWVkZjNhNTEzYTkwZDg2",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Ash & Stone",
-        "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Behind the Light",
-      "url": "https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "GREY",
         "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 211373,
       "name": "Colour Me",
       "url": "https://open.spotify.com/track/6MfsJgg1gTRxLbmh0ZZYi4"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Ash & Stone",
+        "url": "https://open.spotify.com/album/7G78HVl5SJNmEdem6QIGfA"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 171786,
+      "name": "Behind the Light",
+      "url": "https://open.spotify.com/track/5N5FHrP1J3qusicukPFcTQ"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
+      "duration_ms": 173231,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Transcendence",
-        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
       },
       "artists": [
         {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 173231,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Save My Life (Radio Edit)",
-        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Save My Life - Radio Edit",
-      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 222203,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Save My Life (Radio Edit)",
+        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Save My Life - Radio Edit",
+      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Amythyst Kiah and Her Chest of Glass",
         "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 362527,
       "name": "Trouble so Hard",
       "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Breakin' Ground",
         "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 184040,
       "name": "Breakin' Ground",
       "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1371,22 +1387,6 @@
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -1467,6 +1483,22 @@
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1487,18 +1519,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306213,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306213,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2022-02-25 19:00:55",

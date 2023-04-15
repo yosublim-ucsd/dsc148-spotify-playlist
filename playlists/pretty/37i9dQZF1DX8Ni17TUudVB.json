@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 135323,
+  "num_followers": 135345,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDg4MDBiNzNiNjgwNzAwNWYxYzMyNDRhMzE4Mzc3ODlm",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDg1ZTU2ZjM0OGY0ZDM3NTBmOTYwN2IwMDFkNWY3YzU5",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Amsterdam Twerk Music",
+        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 211776,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 145890,
       "name": "Sex & Love",
       "url": "https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Amsterdam Twerk Music",
-        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 211776,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "duration_ms": 285860,
+      "name": "IM GONE",
+      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 150160,
       "name": "Unlove You",
       "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        }
-      ],
-      "duration_ms": 285860,
-      "name": "IM GONE",
-      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
     },
     {
       "added_at": "2022-10-12 15:43:07",

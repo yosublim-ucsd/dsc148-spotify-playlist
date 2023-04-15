@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> The feelings you can't put into words...only songs\. Cover: THEY.
+> Let the songs speak\. Cover: Yung Bleu
 
-466 songs - 1 day 0 hr 43 min
+468 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Devotion](https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Devotion](https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR) | 4:09 | 2021-12-15 | 2022-07-22 |
 | [Dirty Nikes](https://open.spotify.com/track/5CmCpfXJW8JS8erTQu50nk) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Dirty Nikes](https://open.spotify.com/album/5YdFoNEcjwj1srs1l6nlmh) | 3:18 | 2021-12-15 | 2022-04-14 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-12-15 | 2023-02-18 |
+| [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 | 2023-04-14 |  |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 |  |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-09-09 |  |
 | [Do No More](https://open.spotify.com/track/1lm4Rt80cpRYDICBHAQSgi) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Do No More](https://open.spotify.com/album/4sKW3qIsWqvCiL8KKApLph) | 2:24 | 2021-12-15 | 2022-02-02 |
@@ -127,6 +128,7 @@
 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Ease My Mind \(Come Over\)](https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj) | 2:46 | 2021-12-15 | 2022-07-28 |
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-08-05 | 2023-01-18 |
 | [Effortless](https://open.spotify.com/track/6nKOZaeBQUEvLTJHQ2e6Ps) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Effortless](https://open.spotify.com/album/64r0EJbn7mIVPUHCCbZAXS) | 3:14 | 2022-08-26 | 2022-10-15 |
+| [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 | 2023-04-14 |  |
 | [Ego](https://open.spotify.com/track/62uMO0yTFayaP492hqzlyL) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/1Hz5569Rl5Ui6OEtsW7cdi) | 5:50 | 2022-03-11 | 2022-07-25 |
 | [Element \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/track/1ePRRO0RaVPy2diUURqb3I) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Element \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/album/3bm7Dxp8qvUKvbXyf06tcu) | 2:43 | 2021-12-15 | 2022-03-09 |
 | [emotional](https://open.spotify.com/track/1BMffJnuEsz31KwwSyjbQv) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [KINDA HAPPY, KINDA SAD](https://open.spotify.com/album/3nOrmM1aN9RBB9vpwoSEzl) | 3:50 | 2022-09-02 | 2022-10-07 |
@@ -300,7 +302,7 @@
 | [Only Human](https://open.spotify.com/track/6XXZzGJ0I1EjsGW8wKyGfO) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:00 | 2022-03-11 | 2022-07-25 |
 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 | 2022-09-30 | 2023-03-04 |
 | [Ophiuchus](https://open.spotify.com/track/68PgezyNLbpX7dABzVpLDy) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Ophiuchus](https://open.spotify.com/album/620qzo3UWQBOdSw8KjcTq1) | 1:39 | 2022-10-14 | 2022-12-03 |
-| [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 | 2023-02-24 |  |
+| [Opps](https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [From Me, To Me](https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI) | 3:16 | 2023-02-24 | 2023-04-15 |
 | [Options](https://open.spotify.com/track/3NE8KZipKxO0aKYQQn3oU8) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Options](https://open.spotify.com/album/5S5hBOi5w9lrBovIyyWevN) | 2:34 | 2021-12-15 | 2022-01-26 |
 | [Options](https://open.spotify.com/track/3AmO3A7KCZnshydPDku3PI) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Options](https://open.spotify.com/album/2nRvGsayNgohmqy1pwMKiJ) | 4:08 | 2021-12-15 | 2022-08-05 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2023-03-18 |
@@ -421,7 +423,7 @@
 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 | 2021-12-15 | 2022-06-23 |
 | [Tired](https://open.spotify.com/track/7GJQYvyEw709xFtZuqysVA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 4:17 | 2022-10-28 | 2022-11-19 |
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2021-12-15 | 2023-02-18 |
-| [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 | 2023-02-03 |  |
+| [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 | 2023-02-03 | 2023-04-15 |
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2021-12-15 | 2022-07-28 |
 | [TRAUMA](https://open.spotify.com/track/2haYbo0fqAAZDRkUXVxAUu) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [TRAUMA](https://open.spotify.com/album/1ZY0ZWzRCax2vSbLQHZ6Dx) | 3:44 | 2023-01-06 | 2023-01-28 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-10 | 2023-03-18 |

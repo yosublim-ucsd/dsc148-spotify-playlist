@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,039 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,038 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 47 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 |
 | 48 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
 | 49 | [Seu Nome](https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Seu Nome](https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ) | 3:11 |
-| 50 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
+| 50 | [É meia\-noite \(Ó, Noite Santa\)](https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Nasceu o Redentor](https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW) | 5:24 |
 
-Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDk2YzY1NmM5NWExZjliOTE2N2EwNjMwOTdkZDBhN2U2`
+Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDk3Y2I5MjFhNjA2YzBiMjYwOWQzODhlN2MwYmU2Y2E4`

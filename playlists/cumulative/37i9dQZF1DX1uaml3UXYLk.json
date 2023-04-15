@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/2AS5tH0TjoQdvnatV6gft2"
+      },
+      "artists": [
+        {
+          "name": "Tendoi",
+          "url": "https://open.spotify.com/artist/2z9X7bc1KRXpaknuQYQMGu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127120,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3aJetfFCrhZpZtzapzznRJ"
+    },
+    {
+      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM"
       },
@@ -980,6 +998,24 @@
       "duration_ms": 286935,
       "name": "blissful",
       "url": "https://open.spotify.com/track/40tseu8dTJ7f2aAieF0LXX"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4eHDGV1xKPZkQwssDVxp9T"
+      },
+      "artists": [
+        {
+          "name": "VLD",
+          "url": "https://open.spotify.com/artist/5fLMh9SOPpY67ZpsWy06qu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/25iM0QNqK1SIVvs2JLksw2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. kid brunswick
 
-502 songs - 23 hr 40 min
+503 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Destroy Me](https://open.spotify.com/track/2mlgv5IPl77e37iGFMwNhv) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:02 | 2023-02-13 | 2023-03-03 |
 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2021-12-27 | 2022-07-08 |
 | [DEUX AMANTS MORT](https://open.spotify.com/track/6KoDCpiZlfb4mqCyWBPIkW) | [tommy.](https://open.spotify.com/artist/61sAraGpRoTyiM1pzlOFgp) | [DEUX AMANTS MORT](https://open.spotify.com/album/3TzDWayU6UnNxwQygzm047) | 2:53 | 2023-01-20 | 2023-03-31 |
-| [Devils](https://open.spotify.com/track/1gXXDq6HH6nDFyIjsZzF4a) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Devils](https://open.spotify.com/album/3qwhc7GQ0YUwx11DZf7mEE) | 3:08 | 2022-09-22 |  |
+| [Devils](https://open.spotify.com/track/1gXXDq6HH6nDFyIjsZzF4a) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Devils](https://open.spotify.com/album/3qwhc7GQ0YUwx11DZf7mEE) | 3:08 | 2022-09-22 | 2023-04-15 |
+| [Devils](https://open.spotify.com/track/4IZ7GX68Kn5fvAnGXUf0GT) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:08 | 2023-04-13 |  |
 | [die](https://open.spotify.com/track/6evQJsY8EOdR0dcKkJAs0i) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:29 | 2022-11-18 | 2022-12-01 |
 | [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 | 2021-12-27 | 2022-01-29 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-12-27 | 2023-02-24 |

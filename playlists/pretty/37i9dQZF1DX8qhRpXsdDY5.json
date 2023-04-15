@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 196719,
+  "num_followers": 196711,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMGQwZThlYzk5ZTJkM2YwZDhkMGY0YTcxMGFkMjgyZjM0",
+  "snapshot_id": "MTY3MTQ5MzgyMCwwMDAwMDAwMDI2OWIzZTI2YTg1N2E5YjYxZTA2OGQyNzhkOTUwNGNl",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "Navidad Con Tatiana",
-        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
-      },
-      "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 207152,
-      "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
-      "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Mi Navidad (Remastered)",
         "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195743,
       "name": "Dios nos bendecir\u00e1",
       "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "Navidad Con Tatiana",
+        "url": "https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 207152,
+      "name": "Feliz A\u00f1o Nuevo, Feliz Navidad",
+      "url": "https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy"
     },
     {
       "added_at": "2022-12-19 23:50:20",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 216038,
+      "name": "Nuestra Canci\u00f3n De Navidad",
+      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
         "name": "Tarjeta De Navidad, VOL. II",
         "url": "https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 300506,
       "name": "El Cuerpo Me Pide",
       "url": "https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
     },
     {
       "added_at": "2022-12-19 23:50:20",

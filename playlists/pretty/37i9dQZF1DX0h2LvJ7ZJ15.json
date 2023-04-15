@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 814498,
+  "num_followers": 815777,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMDY2ZThlZDFkYmY2OWJmZGQyNjY1MmJiNzZjMzc5NDhl",
+  "snapshot_id": "MTY3NzU5Njc5MSwwMDAwMDAwMDI1Y2RlMzVmMmE3OTUyYTkzMGUwOTM4YTY5MDgwNjA2",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Escapism. (Slowed Down)",
-        "url": "https://open.spotify.com/album/3JHBuPAYgG72bLORrTFSTU"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 287135,
-      "name": "Escapism. - Slowed Down",
-      "url": "https://open.spotify.com/track/4D8h7lEUY0tVRGuX17tz3f"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
       },
@@ -893,22 +873,6 @@
       "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"
     },
     {
-      "added_at": "2023-02-17 06:28:00",
-      "album": {
-        "name": "girls like me don't cry (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/5iBm3sjljUuRPNp9711SSV"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "girls like me don't cry (slowed + reverbed)",
-      "url": "https://open.spotify.com/track/1hKIo5tLpcGiEU4UYXcBUW"
-    },
-    {
       "added_at": "2023-01-12 20:35:32",
       "album": {
         "name": "Us and Them",
@@ -931,6 +895,22 @@
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
+    },
+    {
+      "added_at": "2023-02-17 06:28:00",
+      "album": {
+        "name": "girls like me don't cry (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/5iBm3sjljUuRPNp9711SSV"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "girls like me don't cry (slowed + reverbed)",
+      "url": "https://open.spotify.com/track/1hKIo5tLpcGiEU4UYXcBUW"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -963,6 +943,26 @@
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     }
   ],
   "unique_name": "slowed and reverbed",

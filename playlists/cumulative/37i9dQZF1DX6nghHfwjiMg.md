@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-103 songs - 5 hr 33 min
+104 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [La Luna Y Las Melodías](https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [La Luna Y Las Melodías](https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ) | 3:19 | 2021-11-11 |  |
 | [La Oficial](https://open.spotify.com/track/74sIGoxUiqj5vLjry0zket) | [Pily García](https://open.spotify.com/artist/39oW9XDNK2MidsoRAyjXeB) | [La Oficial](https://open.spotify.com/album/49qL6ootmx7M0oJ8RVaDNI) | 3:18 | 2021-11-11 |  |
 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 | 2021-11-11 | 2022-06-28 |
-| [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 | 2021-11-11 |  |
+| [Liberarme](https://open.spotify.com/track/1uVMbb1alEeaZpT0xRhlYH) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2h8PU8Y32DnHwvMHXuaQLp) | 3:23 | 2022-12-22 |  |
+| [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 | 2021-11-11 | 2023-04-15 |
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2021-11-11 |  |
 | [Magia](https://open.spotify.com/track/1VRh6jQfaiiRkXfdxpjxd2) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Magia](https://open.spotify.com/album/7v8XaZJHFw83xKWjcrZdJR) | 2:56 | 2021-11-11 | 2022-09-02 |
 | [malo](https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:03 | 2021-11-11 |  |

@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670253,
+      "name": "Inamorata",
+      "url": "https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL"
+    },
+    {
+      "album": {
         "name": "Summer Offensive",
         "url": "https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY"
       },

@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340480,
       "name": "Chakkari Nilave",
       "url": "https://open.spotify.com/track/39Gy68wxBfGhNzu8Lrj7mB"
@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "7G Rainbow Colony (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PgetZ6r2B5U409JmIRxHv"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350333,
+      "name": "Kan Pesum Varthaigal",
+      "url": "https://open.spotify.com/track/1sqn82dSFn9Zed7S8lTVPr"
+    },
+    {
+      "album": {
         "name": "Youth Beats - Hits of A.R.Rahman and Yuvan Shankar Raja",
         "url": "https://open.spotify.com/album/41JsrslvFMaFxVV6bfpe3O"
       },
@@ -698,7 +720,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 348290,
       "name": "Kan Pesum Varthaigal (From \"7/G Rainbow Colony\")",
       "url": "https://open.spotify.com/track/6YDJ4XEYgW0jbn8WDZCfsB"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 342626,
       "name": "Sakarai Nilave",
       "url": "https://open.spotify.com/track/2zSDrE2wZDvkJllUmzxp5o"

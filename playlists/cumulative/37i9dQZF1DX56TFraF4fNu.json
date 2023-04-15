@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: Rap Bang Club",
+  "description": "Dosis musical para disfrutar el momento. Foto: Delfina Dib",
   "name": "Parchadito",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 185216,
       "name": "Buena y Mala - Live",
       "url": "https://open.spotify.com/track/5scqx0LxO4DTxTR2QGzY2w"
@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "CHOLAO",
+        "url": "https://open.spotify.com/album/608gBIUYFg215UiVKSd2cY"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "CHOLAO",
+      "url": "https://open.spotify.com/track/6xKlwlSZg8QLcB2Rqt7GJe"
+    },
+    {
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -342,7 +364,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195555,
       "name": "De Todo Un Poco",
       "url": "https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR"
@@ -721,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Directo al Cora",
+        "url": "https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "ME OYES",
+      "url": "https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh"
+    },
+    {
+      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r"
       },
@@ -817,12 +857,38 @@
     },
     {
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/12yvwITULcBXb6QA0M71RZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Coby",
+          "url": "https://open.spotify.com/artist/5RVtVsW826awhgeS98eM0L"
+        },
+        {
+          "name": "Jiggy Drama",
+          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
+        },
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214091,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/3nPkGBhK2Fw74dDZK6gaYT"
+    },
+    {
+      "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -880,7 +946,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"

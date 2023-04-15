@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "if it feels ethereal, it's here. cover: Feist ",
+  "description": "eclectic ethereal feeling. cover: Ethel Cain ",
   "name": "Ethereal",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-26",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 106994,
       "name": "Babyyy",
       "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Counting Empties",
+        "url": "https://open.spotify.com/album/73VMcdgWUHy6NzizKuqbly"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228016,
+      "name": "Counting Empties",
+      "url": "https://open.spotify.com/track/7E24Lrt5981VzxUAZQ8Cw2"
+    },
+    {
+      "album": {
         "name": "Crazy Sexy Dream Girl",
         "url": "https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz"
       },
@@ -2004,6 +2022,46 @@
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
+    },
+    {
+      "album": {
+        "name": "Nymph_o",
+        "url": "https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173869,
+      "name": "Crush feat. Erika de Casier",
+      "url": "https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ"
+    },
+    {
+      "album": {
+        "name": "Crushxd",
+        "url": "https://open.spotify.com/album/46VsFMbRWN6hXT2J0a8fzo"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Crushxd",
+      "url": "https://open.spotify.com/track/3asSrvrWbMpX4v4ilkj5So"
     },
     {
       "album": {
@@ -3224,7 +3282,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 385653,
       "name": "God Turn Me Into a Flower",
       "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
@@ -3644,7 +3702,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201174,
       "name": "Hiding Out In The Open",
       "url": "https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk"
@@ -4196,7 +4254,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 224680,
       "name": "In A Good Way",
       "url": "https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc"
@@ -5018,7 +5076,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
@@ -5700,7 +5758,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 168311,
       "name": "nice to know you",
       "url": "https://open.spotify.com/track/1Ox33f3cIVsAzhXpC6fYIp"
@@ -5794,7 +5852,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 278760,
       "name": "Nothing's Free",
       "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"
@@ -6522,6 +6580,24 @@
       "duration_ms": 196000,
       "name": "P\u00e1jaros en Verano",
       "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
+    },
+    {
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
     },
     {
       "album": {
@@ -7337,6 +7413,24 @@
     },
     {
       "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212064,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
+    },
+    {
+      "album": {
         "name": "True Romance",
         "url": "https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu"
       },
@@ -8066,6 +8160,24 @@
       "duration_ms": 182907,
       "name": "Sword",
       "url": "https://open.spotify.com/track/1JD7KawV8TrUPz0aDUrTwA"
+    },
+    {
+      "album": {
+        "name": "A Little Disaster",
+        "url": "https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243870,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv"
     },
     {
       "album": {
@@ -9272,7 +9384,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 224808,
       "name": "Woe (I See It From Your Side) - Bj\u00f6rk Remix",
       "url": "https://open.spotify.com/track/1cfLiIKKcBE2ReK1YW3Zu4"

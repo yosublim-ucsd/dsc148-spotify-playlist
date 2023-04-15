@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night time hours
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,604 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,616 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 25 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 |
 | 26 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
 | 27 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
-| 28 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
-| 29 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
+| 28 | [Sea To Sky](https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8) | 4:24 |
+| 29 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 |
 | 30 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 |
 | 31 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 |
 | 32 | [Revelation \- Barry Can't Swim Remix](https://open.spotify.com/track/4Z8pgVix2UNvTxqOx2V34n) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Revelation \(Barry Can't Swim Remix\)](https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 69 | [TIME](https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [CROOK](https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC) | 4:14 |
 | 70 | [Inertia](https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Inertia](https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ) | 5:05 |
 
-Snapshot ID: `MTY4MDY3OTAyOCwwMDAwMDAwMGNmNWE4ZjFiODEwNjI1MjExZjdlMjJiNWIxYjEwMzE0`
+Snapshot ID: `MTY4MDY3OTAyOCwwMDAwMDAwMDM1ZDVlYzViMGVkYTIwYjE2MWIxOWNjYzNmYTFjN2Iy`

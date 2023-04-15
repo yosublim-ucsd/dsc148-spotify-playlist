@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-117 songs - 5 hr 54 min
+118 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [when the party's over \- Slowed Remix](https://open.spotify.com/track/35zRHowhQifRViG90CiLLY) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over \(Slowed Remix\)](https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI) | 3:54 | 2022-02-18 |  |
 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 | 2023-02-28 |  |
 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 | 2022-02-21 |  |
+| [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 | 2023-04-14 |  |
 | [with you \- sleep rework](https://open.spotify.com/track/3LC9cw2EUfnxkce9bTcIuf) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [drift](https://open.spotify.com/album/1zF8UZSu4zDHVSqbFmsI5L) | 3:20 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

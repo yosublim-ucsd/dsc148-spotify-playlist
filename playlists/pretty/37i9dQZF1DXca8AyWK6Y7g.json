@@ -1,13 +1,29 @@
 {
-  "description": "livin' life in your 250 sq ft apt cover: Olivia Dean",
-  "num_followers": 1465104,
+  "description": "livin' life in your 250 sq ft apt cover: Charlotte Cardin",
+  "num_followers": 1465293,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDcxNSwwMDAwMDAwMGU3MGQ2OGYwNDc3ZTA0NTY4MTE5ZDVmMzM5MjhmOTFm",
+  "snapshot_id": "MTY4MTQ0NTA2NywwMDAwMDAwMGJlMjc0NWRmMTAzMjI5MjY4M2E0MGVkYjJhYzMwM2Zk",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 184649,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg"
+    },
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
@@ -23,6 +39,30 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Fantasy (with GAYLE & Em Beihold)",
+        "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -97,6 +137,38 @@
       "url": "https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "added_at": "2023-04-07 04:11:55",
+      "album": {
+        "name": "dirty dishes",
+        "url": "https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt"
+      },
+      "artists": [
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 207684,
+      "name": "dirty dishes",
+      "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
+    },
+    {
       "added_at": "2023-03-08 04:53:29",
       "album": {
         "name": "Until I Found You (Em Beihold Version)",
@@ -117,22 +189,6 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Just Let Me Cry",
-        "url": "https://open.spotify.com/album/0ltVM5Ui1277owWSjg7xjH"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Just Let Me Cry",
-      "url": "https://open.spotify.com/track/4q1BTo0HXKgjPQI52CIgXo"
-    },
-    {
       "added_at": "2023-03-08 04:53:29",
       "album": {
         "name": "Players",
@@ -147,38 +203,6 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
-    },
-    {
-      "added_at": "2023-04-07 04:11:55",
-      "album": {
-        "name": "dirty dishes",
-        "url": "https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 207684,
-      "name": "dirty dishes",
-      "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:47",
-      "album": {
-        "name": "If I Weren't Me",
-        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -227,6 +251,22 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "added_at": "2023-03-24 04:00:47",
+      "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1703,6 +1743,22 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
+        "name": "YOU AGAINST YOURSELF",
+        "url": "https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 146096,
+      "name": "YOU AGAINST YOURSELF",
+      "url": "https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
         "name": "Roller Coasters Make Me Sad",
         "url": "https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1"
       },
@@ -1731,22 +1787,6 @@
       "duration_ms": 144950,
       "name": "I Just Came To Dance",
       "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "YOU AGAINST YOURSELF",
-        "url": "https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 146096,
-      "name": "YOU AGAINST YOURSELF",
-      "url": "https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -2073,22 +2113,6 @@
       "url": "https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH"
     },
     {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 180907,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
-    },
-    {
       "added_at": "2023-03-17 03:59:11",
       "album": {
         "name": "Therapist",
@@ -2119,6 +2143,22 @@
       "duration_ms": 164131,
       "name": "My Bed",
       "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 180907,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2169,22 +2209,6 @@
       "url": "https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W"
     },
     {
-      "added_at": "2023-03-24 04:00:47",
-      "album": {
-        "name": "Lunch",
-        "url": "https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 172629,
-      "name": "Lunch",
-      "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
-    },
-    {
       "added_at": "2023-03-08 04:53:29",
       "album": {
         "name": "HOW DARE YOU",
@@ -2199,6 +2223,22 @@
       "duration_ms": 182490,
       "name": "HOW DARE YOU",
       "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
+    },
+    {
+      "added_at": "2023-03-24 04:00:47",
+      "album": {
+        "name": "Lunch",
+        "url": "https://open.spotify.com/album/40kQno3S1o90Nxn2POzNTe"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 172629,
+      "name": "Lunch",
+      "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2439,38 +2479,6 @@
       "duration_ms": 171925,
       "name": "HATELOVE",
       "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "THE GRATITUDE PROJECT",
-        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "SHOULD I BE OK?",
-      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "Love Letters From Houston",
-        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 195151,
-      "name": "Can You Love Me Tonight?",
-      "url": "https://open.spotify.com/track/38ZK4BFDqxUrEsjuC6DA5X"
     }
   ],
   "unique_name": "young & free",

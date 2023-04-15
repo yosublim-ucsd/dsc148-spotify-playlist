@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Big Songbirds Don\u2019t Cry",
+        "url": "https://open.spotify.com/album/1jRzU7XRaMYyoNAHniaWMI"
+      },
+      "artists": [
+        {
+          "name": "Superviolet",
+          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Big Songbirds Don't Cry",
+      "url": "https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4"
+    },
+    {
+      "album": {
         "name": "Big Wheel",
         "url": "https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD"
       },
@@ -5433,6 +5451,24 @@
     },
     {
       "album": {
+        "name": "Dare Me",
+        "url": "https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145059,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
+    },
+    {
+      "album": {
         "name": "Darkness Of The Night",
         "url": "https://open.spotify.com/album/2W9Amgivg5XBGMNoN3bG5x"
       },
@@ -5502,6 +5538,28 @@
       "duration_ms": 320328,
       "name": "Days",
       "url": "https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6"
+    },
+    {
+      "album": {
+        "name": "DAYS GO BY",
+        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271756,
+      "name": "DAYS GO BY",
+      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "album": {
@@ -6510,7 +6568,7 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "date_added": "2023-04-14",
+      "date_added": "2023-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 242293,
@@ -11823,6 +11881,24 @@
     },
     {
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/6P3k32E1WG3eJElUS17Dfo"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295560,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/58HNyZisRT0WSPnfpXgoFQ"
+    },
+    {
+      "album": {
         "name": "i want to be by your side (feat. herhexx)",
         "url": "https://open.spotify.com/album/28Ui19BdTEtZlGSC4Yqvlj"
       },
@@ -13308,6 +13384,24 @@
       "duration_ms": 237821,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/5vs3gwBqp1jJD82dZG8v4Z"
+    },
+    {
+      "album": {
+        "name": "Karaoke Song",
+        "url": "https://open.spotify.com/album/5TTTrEZ7oNZK10qmZp7MWw"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212552,
+      "name": "Karaoke Song",
+      "url": "https://open.spotify.com/track/5fxhtFc0h2TZ7SpezVl9SY"
     },
     {
       "album": {
@@ -16368,7 +16462,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS"
@@ -24062,7 +24156,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 433360,
       "name": "The Place Where He Inserted the Blade",
       "url": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
@@ -25644,7 +25738,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 586506,
       "name": "Turbines/Pigs - Live at Bush Hall",
       "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
@@ -26644,7 +26738,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 238826,
       "name": "weak",
       "url": "https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc"
@@ -27120,7 +27214,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"

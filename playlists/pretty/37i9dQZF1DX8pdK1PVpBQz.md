@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Hanbee\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,422 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,429 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 24 | [I Don't Know Your Name](https://open.spotify.com/track/3JTqWjz7lBQzw9p16ZIcWM) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [I Don't Know Your Name](https://open.spotify.com/album/6rccDDFAVEk0F5z4amXJ5C) | 4:09 |
 | 25 | [Bleachers \(On and On\)](https://open.spotify.com/track/6tLm0wduzJcFFyn30UZX8Z) | [Friends of Friends](https://open.spotify.com/artist/40ok5HAzsmqFmyJnjE37cI) | [Bleachers \(On and On\)](https://open.spotify.com/album/33m4CwsHbyTy99K61fS2AU) | 3:41 |
 | 26 | [calling](https://open.spotify.com/track/1nT4kjm7Z0STWawhfKCeVd) | [Majent](https://open.spotify.com/artist/6pTVLPzvYW3SvwfyjDxtXX), [Aria Wood](https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK) | [calling](https://open.spotify.com/album/5x6QFQT9SLHOpXY2Sp1TO0) | 2:56 |
-| 27 | [JULIE](https://open.spotify.com/track/6oCG7ogQjq210CwMmcpvLk) | [Quadzzy Sachiv](https://open.spotify.com/artist/4oaP5o7GkafPbLDNkekIdr) | [JULIE](https://open.spotify.com/album/06ZSuNmm8YWEoZLAKkW93V) | 2:57 |
+| 27 | [JULIE](https://open.spotify.com/track/6oCG7ogQjq210CwMmcpvLk) | [Quadzzy](https://open.spotify.com/artist/29daVwOn1cciWR8Vu5WOLP), [Sachiv](https://open.spotify.com/artist/6G8uW9edDMcviIzs0AH3Ri) | [JULIE](https://open.spotify.com/album/06ZSuNmm8YWEoZLAKkW93V) | 2:57 |
 | 28 | [better than home](https://open.spotify.com/track/7MQaz5lj3D7cawOnELwROm) | [Taylor Roche](https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0) | [better than home](https://open.spotify.com/album/5JMFI6pAeXq5ONtiUMrqaw) | 3:08 |
 | 29 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
 | 30 | [SIT ON MY OWN](https://open.spotify.com/track/3wux7ypSminYin4k7GuBZr) | [JÉREI](https://open.spotify.com/artist/1lmf2OycyrMZ0WMDBplvl8), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [SIT ON MY OWN](https://open.spotify.com/album/6cpYC6bZlFSIo1JAAJHv4Z) | 2:24 |

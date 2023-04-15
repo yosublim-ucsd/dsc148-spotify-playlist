@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-189 songs - 14 hr 24 min
+190 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 | 2020-08-26 |  |
 | [I Can Only Imagine](https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn) | 4:08 | 2020-08-26 | 2022-07-29 |
 | [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 | 2020-08-26 |  |
-| [I Need A Miracle](https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Miracle](https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3) | 3:42 | 2020-08-26 |  |
+| [I Need A Miracle](https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Miracle](https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3) | 3:42 | 2020-08-26 | 2023-04-15 |
 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 | 2020-08-26 |  |
 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 | 2020-08-26 |  |
 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 | 2020-08-26 |  |
@@ -161,6 +161,7 @@
 | [The Heart Of Worship](https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:18 | 2020-08-26 |  |
 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 | 2020-08-26 |  |
 | [The Same Jesus](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 | 2020-08-26 | 2022-07-14 |
+| [The Way \(New Horizon\)](https://open.spotify.com/track/3iPHjsu4dKAYD1GRRaUFvO) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:18 | 2023-02-18 |  |
 | [The Words I Would Say](https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 3:20 | 2020-08-26 |  |
 | [There Will Be A Day](https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Speaking Louder Than Before](https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt) | 4:39 | 2020-08-26 |  |
 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 | 2020-08-26 |  |

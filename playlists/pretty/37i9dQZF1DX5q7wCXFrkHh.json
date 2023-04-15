@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 60212,
+  "num_followers": 60310,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM4ODk0MCwwMDAwMDAwMDNiMzE2ZDExOWU3NTEwMDQ4Nzg3YzYyN2Q1YzA4MTg3",
+  "snapshot_id": "MTY4MTM4ODk0MCwwMDAwMDAwMDY3MzJiYmE4NmMyMDkxMjYzM2JmNzU2YzExOTc3YzEw",
   "tracks": [
     {
       "added_at": "2023-04-13 12:29:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
         "name": "You Must Believe In Spring (Remastered Version)",
         "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 244786,
       "name": "We Will Meet Again - Remastered",
       "url": "https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Largo",
-        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 396626,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 227323,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
+        "name": "Largo",
+        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 396626,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
+        "name": "Kenny Drew And His Progressive Piano",
+        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
+      },
+      "artists": [
+        {
+          "name": "Kenny Drew",
+          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "52nd Street Theme",
+      "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
         "name": "You Must Believe In Spring (Remastered Version)",
         "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Kenny Drew And His Progressive Piano",
-        "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
-      },
-      "artists": [
-        {
-          "name": "Kenny Drew",
-          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "52nd Street Theme",
-      "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
         "name": "Contra La Indecisi\u00f3n",
         "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
       },
@@ -903,6 +903,38 @@
       "duration_ms": 252773,
       "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
       "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Re: Person I Knew",
+      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -931,38 +963,6 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Re: Person I Knew",
-      "url": "https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
         "name": "Piano Starts Here",
         "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 195000,
       "name": "Sophisticated Lady",
       "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
         "name": "Heartsongs",
         "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 378426,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
-        "name": "Monk's Dream",
-        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
+        "name": "Monk's Dream",
+        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
         "name": "Jazz Moments",
         "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 240133,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
         }
       ],
-      "duration_ms": 306967,
-      "name": "Wild Music",
-      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
       "artists": [
         {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
+      "duration_ms": 306967,
+      "name": "Wild Music",
+      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Seven Days of Falling",
-        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 403666,
-      "name": "Elevation of Love",
-      "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
         "name": "This Here Is Bobby Timmons",
         "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 324160,
       "name": "Dat Dere",
       "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
+        "name": "Seven Days of Falling",
+        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 403666,
+      "name": "Elevation of Love",
+      "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "The Complete Village Vanguard Recordings, 1961",
-        "url": "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 406400,
-      "name": "Waltz For Debby - Live / Take 1",
-      "url": "https://open.spotify.com/track/5wFi8FLKFeKTXnbV4p4NiI"
-    },
-    {
-      "added_at": "2023-04-13 12:29:00",
-      "album": {
         "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 552493,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+    },
+    {
+      "added_at": "2023-04-13 12:29:00",
+      "album": {
+        "name": "The Complete Village Vanguard Recordings, 1961",
+        "url": "https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 406400,
+      "name": "Waltz For Debby - Live / Take 1",
+      "url": "https://open.spotify.com/track/5wFi8FLKFeKTXnbV4p4NiI"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Fatha",
-        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
       "artists": [
         {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 151946,
-      "name": "Frankie and Johnnie",
-      "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
+      "duration_ms": 186136,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
     },
     {
       "added_at": "2023-04-13 12:29:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-04-13 12:29:00",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+        "name": "Fatha",
+        "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
         }
       ],
-      "duration_ms": 186136,
-      "name": "Someday My Prince Will Come",
-      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
+      "duration_ms": 151946,
+      "name": "Frankie and Johnnie",
+      "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
     },
     {
       "added_at": "2023-04-13 12:29:00",

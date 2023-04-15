@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Attack Attack!
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,565 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,658 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 22 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
 | 23 | [A.D.D](https://open.spotify.com/track/0UsnlmGAFHq4psggQczhjn) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [A.D.D](https://open.spotify.com/album/1Y20qMbygyi2ukEfD05DO6) | 3:37 |
 | 24 | [Prisoner Again](https://open.spotify.com/track/36wMF3pg77W96qUvBGKjjZ) | [The Ongoing Concept](https://open.spotify.com/artist/7rzpJkLttUwGsrsZmOwZU5) | [Feel Again](https://open.spotify.com/album/4HUksSGtIvB2WX5b98x0Sj) | 3:58 |
-| 25 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 |
+| 25 | [Backfire](https://open.spotify.com/track/2zd7WJWnvGNNnqnNZ2xzkg) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:22 |
 | 26 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
 | 27 | [Jaded](https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Jaded](https://open.spotify.com/album/1CjPzgqkAeSShcb3mQ4iNS) | 4:27 |
 | 28 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
 | 75 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGMxZjBiOTYyNzgwNzlmMTJlN2VhYmI2MTE5MGY5ODIx`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDYzN2U0MmNkMjIxNjA1ODQ1NjViZmQ3MDY1YWMxN2Fk`

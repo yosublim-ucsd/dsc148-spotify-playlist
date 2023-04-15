@@ -4,7 +4,7 @@
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-494 songs - 1 day 6 hr 59 min
+495 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 | 2022-12-21 | 2023-03-16 |
 | [Permanent Way \- Live Session](https://open.spotify.com/track/3D6KvpRvDBkN3t682bJOBN) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Flesh & Bone Studio Session \(Live\)](https://open.spotify.com/album/5pq3hWKiMMRlyhtwyMWNIr) | 4:17 | 2021-12-20 | 2022-03-22 |
 | [Persephone](https://open.spotify.com/track/20rVzDO837h897G3pMr6re) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th) | 4:33 | 2022-03-21 | 2022-06-08 |
+| [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 | 2023-04-14 |  |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-09-06 | 2022-12-21 |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2023-01-05 | 2023-03-16 |
 | [Places/Plans](https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 3:03 | 2022-12-21 | 2023-03-16 |

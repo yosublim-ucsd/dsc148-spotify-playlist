@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: a子 \(ako\)
 
-391 songs - 1 day 0 hr 50 min
+392 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 | 2023-01-24 | 2023-02-22 |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2023-01-12 | 2023-01-25 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2023-01-12 | 2023-01-18 |
-| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 |  |
+| [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
+| [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [aTOZ / BATH](https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O) | [yangdoe](https://open.spotify.com/artist/5vyv06gQtkjX0DrZwAKcoX) | [aTOZ / BATH](https://open.spotify.com/album/2wrAK0JqzIBU1bX7IQQ06n) | 3:05 | 2023-04-11 |  |
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 |  |

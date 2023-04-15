@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-519 songs - 22 hr 5 min
+521 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Flora](https://open.spotify.com/track/0dfmIWOOMbx0rP82IQQnJl) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Flora](https://open.spotify.com/album/4egi10lrnbzOpPciddXwIB) | 2:04 | 2022-10-28 |  |
 | [Flow](https://open.spotify.com/track/2X74XD1uMFMrl2MXgG95Y1) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Flow](https://open.spotify.com/album/2LMpczTAWQqqK35la4mJcq) | 1:45 | 2021-11-10 | 2023-03-18 |
 | [Fluffy Flakes](https://open.spotify.com/track/0kXUvcu0ljACNgP9sAclkT) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Fluffy Flakes](https://open.spotify.com/album/5SO2cjQM2g5Zowo0juUQZe) | 2:19 | 2023-01-06 |  |
+| [fly away](https://open.spotify.com/track/51srHVilMntmFnywwVVVOU) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [fly away](https://open.spotify.com/album/09f24SbWyHCIGvJIbIBJsR) | 2:18 | 2023-04-14 |  |
 | [For No Reason](https://open.spotify.com/track/4h93amQ2V3qCp5ZMJ6r6lB) | [Temperal Guidance](https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi) | [For No Reason](https://open.spotify.com/album/3YapZf1lBVPmczSuMTnkjx) | 2:19 | 2021-11-10 | 2022-07-08 |
 | [For Samira](https://open.spotify.com/track/19YEXoO45iLULaOyxGOuOn) | [Calendar Echoes](https://open.spotify.com/artist/4ANlASV891L3OO3snkMbHN) | [For Samira](https://open.spotify.com/album/2eI3zSVwiOPtFJVzrG6GVd) | 2:32 | 2021-11-10 | 2022-07-01 |
 | [Found Some Water](https://open.spotify.com/track/0CQiMloLtYnXibZWE0e3dN) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Found Some Water](https://open.spotify.com/album/0HhZ2MAqZQw9QoH1IYSbbf) | 2:16 | 2022-07-22 |  |
@@ -403,6 +404,7 @@
 | [Signs](https://open.spotify.com/track/3eCSC3eQLNxeEuZYXNn9Cv) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Signs](https://open.spotify.com/album/1JtW1AqCyudVBz1n4t0i5u) | 3:01 | 2022-04-05 |  |
 | [silhouette dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhouette dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 | 2023-01-13 |  |
 | [Silk](https://open.spotify.com/track/6rTCryUWO7kuQ9uwjUA7w2) | [Panman](https://open.spotify.com/artist/58eSw4qR52cjweGCA6eydZ) | [Silk](https://open.spotify.com/album/1Q18C8oUD4MfZHGCNoadTB) | 2:14 | 2022-10-28 |  |
+| [Silver Smooth](https://open.spotify.com/track/2itWZ14lL0EpDlZDSRi1Dh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Silver Smooth](https://open.spotify.com/album/3WPw4t2Fp4I23Fi4uc1Gdx) | 2:07 | 2023-04-14 |  |
 | [ski](https://open.spotify.com/track/1KQpBWynAekxFMLKY7NIOU) | [alsterdalen](https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06) | [ski](https://open.spotify.com/album/3qNwujX4830cwz74lpksQA) | 1:27 | 2021-11-10 | 2022-07-01 |
 | [sky high](https://open.spotify.com/track/6wcFYD2L2LCagM2i8qpRYs) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [sky high](https://open.spotify.com/album/4TqJqYVe8HofzsoX9WFOAi) | 2:13 | 2022-12-16 |  |
 | [Sky Pirates](https://open.spotify.com/track/5jkp7nlwh7pMZULvrjR1ik) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [New Wave, New Beginning](https://open.spotify.com/album/4T0wBoDPvo3KMDBapMhTze) | 1:48 | 2023-03-04 |  |

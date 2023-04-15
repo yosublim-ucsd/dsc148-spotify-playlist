@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 149869,
       "name": "10",
       "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
@@ -194,6 +194,24 @@
       "duration_ms": 166666,
       "name": "2020-03-05",
       "url": "https://open.spotify.com/track/2qc2up4l8rJvB0WNUm5rIa"
+    },
+    {
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253607,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/7rypSj6MSHf8vEZ2rCh3Pg"
     },
     {
       "album": {
@@ -3428,7 +3446,7 @@
           "url": "https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X"
         }
       ],
-      "date_added": "2023-03-29",
+      "date_added": "2023-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 989090,
@@ -7033,6 +7051,24 @@
     },
     {
       "album": {
+        "name": "Pomme Fritz",
+        "url": "https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542360,
+      "name": "Pomme Fritz (Meat 'N Veg)",
+      "url": "https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC"
+    },
+    {
+      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk"
       },
@@ -7476,7 +7512,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 251526,
       "name": "Rough For Radio - Peel Session",
       "url": "https://open.spotify.com/track/1T2ckb60IGQnUwz1muyGUw"

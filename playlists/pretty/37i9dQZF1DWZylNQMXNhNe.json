@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Bixarte",
-  "num_followers": 219272,
+  "num_followers": 219301,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMGU5YTZkODk4NGY3ZWQ3YTJhMzZkNzljMTRhMWQ1MTNj",
+  "snapshot_id": "MTY4MDIzMTYwMCwwMDAwMDAwMGI2Yjc4OThkOTQyYzZkOWRhODEwYzg1NmFkNGYxMjYx",
   "tracks": [
     {
       "added_at": "2023-03-31 03:00:00",
@@ -639,26 +639,18 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "Arrasany 3.0",
-        "url": "https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR"
+        "name": "PITAYAS",
+        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
       },
       "artists": [
         {
-          "name": "YOHAN",
-          "url": "https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw"
-        },
-        {
-          "name": "Dan Murata",
-          "url": "https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI"
-        },
-        {
-          "name": "Sanvtto",
-          "url": "https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw"
+          "name": "PITAYAS",
+          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
         }
       ],
-      "duration_ms": 153917,
-      "name": "Arrasany 3.0",
-      "url": "https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245"
+      "duration_ms": 169714,
+      "name": "Macetada",
+      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
     },
     {
       "added_at": "2023-03-31 03:00:00",
@@ -679,18 +671,26 @@
     {
       "added_at": "2023-03-31 03:00:00",
       "album": {
-        "name": "PITAYAS",
-        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
+        "name": "Arrasany 3.0",
+        "url": "https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR"
       },
       "artists": [
         {
-          "name": "PITAYAS",
-          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
+          "name": "YOHAN",
+          "url": "https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw"
+        },
+        {
+          "name": "Dan Murata",
+          "url": "https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI"
+        },
+        {
+          "name": "Sanvtto",
+          "url": "https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Macetada",
-      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
+      "duration_ms": 153917,
+      "name": "Arrasany 3.0",
+      "url": "https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245"
     },
     {
       "added_at": "2023-03-31 03:00:00",

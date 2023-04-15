@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...",
-  "num_followers": 55436,
+  "num_followers": 55531,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzNDcyNCwwMDAwMDAwMDdmMTY3M2MzZjYwN2IzZDgyNjhjYzNmMTg1OGE2ZWYw",
+  "snapshot_id": "MTY4MTUxMzcxNCwwMDAwMDAwMGM1NGNjZDllMWI0Zjc3N2I3ZGFjMWIwOTIzMGY1Zjhj",
   "tracks": [
     {
       "added_at": "2023-04-12 23:21:47",
@@ -39,6 +39,22 @@
       "duration_ms": 247471,
       "name": "Slugs of Love",
       "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
+    },
+    {
+      "added_at": "2023-04-14 23:08:34",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-03-28 05:24:00",
@@ -369,22 +385,6 @@
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
-      "added_at": "2023-02-03 05:03:32",
-      "album": {
-        "name": "Echolalia",
-        "url": "https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Echolalia",
-      "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
-    },
-    {
       "added_at": "2023-04-14 00:15:38",
       "album": {
         "name": "10,000 gecs",
@@ -500,17 +500,41 @@
           "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
         },
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        },
-        {
           "name": "Theo Croker",
           "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
       "duration_ms": 236054,
       "name": "Make My Way Back Home",
       "url": "https://open.spotify.com/track/5zwDRRsVri8kOTDwQt9dRU"
+    },
+    {
+      "added_at": "2023-04-14 23:04:32",
+      "album": {
+        "name": "Glorious Game",
+        "url": "https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 233690,
+      "name": "Glorious Game",
+      "url": "https://open.spotify.com/track/1EbvT0QXJmpAFCv8uoR8qT"
     },
     {
       "added_at": "2023-03-24 15:37:42",
@@ -735,26 +759,6 @@
       "duration_ms": 147300,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
-    },
-    {
-      "added_at": "2023-03-03 04:25:04",
-      "album": {
-        "name": "Optical Delusion",
-        "url": "https://open.spotify.com/album/2jQbFspnSh7erex6RDKQGJ"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        },
-        {
-          "name": "Penelope Isles",
-          "url": "https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G"
-        }
-      ],
-      "duration_ms": 469173,
-      "name": "Are You Alive?",
-      "url": "https://open.spotify.com/track/2uJbLXWgxBEgkUtz2Ie07l"
     },
     {
       "added_at": "2023-04-07 06:00:00",

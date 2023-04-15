@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Pony Bradshaw",
+  "description": "Keep your finger on the pulse of Americana. Cover: The Wood Brothers",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Stand in the Joy",
+        "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Broken Heart of Mine",
+      "url": "https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X"
+    },
+    {
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1929,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Even Jesus Got The Blues",
+        "url": "https://open.spotify.com/album/54V2QD9hvipUq4629FNm36"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "Even Jesus Got The Blues",
+      "url": "https://open.spotify.com/track/3O6pwu8y1SGJudoAiLouGy"
+    },
+    {
+      "album": {
         "name": "Keep On Ramblin'",
         "url": "https://open.spotify.com/album/2A2aFLVWZKdon9eXdcJu6x"
       },
@@ -2857,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Heart is the Hero",
+        "url": "https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176915,
+      "name": "Heart is the Hero",
+      "url": "https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8"
+    },
+    {
+      "album": {
         "name": "Heartless Year",
         "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
       },
@@ -3748,7 +3802,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205217,
       "name": "Just You & I - F.A.M.E.",
       "url": "https://open.spotify.com/track/1NMGIcfS1tBckSijZ1i0g7"
@@ -4225,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "Man's Gotta Eat",
+        "url": "https://open.spotify.com/album/1OXgvOC5e9cfu7nUrkChpK"
+      },
+      "artists": [
+        {
+          "name": "Logan Halstead",
+          "url": "https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163095,
+      "name": "Man's Gotta Eat",
+      "url": "https://open.spotify.com/track/2USfmX6vhiEofB8i1I5HoA"
+    },
+    {
+      "album": {
         "name": "Married Alone (feat. Vince Gill)",
         "url": "https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9"
       },
@@ -4486,7 +4558,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 190641,
       "name": "Native Son",
       "url": "https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG"
@@ -4652,7 +4724,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 206208,
       "name": "Not Mine to Begin With",
       "url": "https://open.spotify.com/track/44X23UitJjs0tc5dYx6NNh"
@@ -5139,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/1rf3nCQFBJgwNZMO66H4lz"
+      },
+      "artists": [
+        {
+          "name": "Troy Ramey",
+          "url": "https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234215,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/0F0ROYKhiZhAKioVBOoy8V"
+    },
+    {
+      "album": {
         "name": "In Plain Sight",
         "url": "https://open.spotify.com/album/1NqOgn6HZ66DjFPmkdtzgu"
       },
@@ -5150,7 +5240,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 238813,
       "name": "Problems",
       "url": "https://open.spotify.com/track/4WBs7J0btTQLsER9ouXW2I"
@@ -5342,7 +5432,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
@@ -5870,7 +5960,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 187533,
       "name": "Something More Than Love",
       "url": "https://open.spotify.com/track/5TyRTaciFtVQE4wXwBnIpw"
@@ -6134,7 +6224,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 280416,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s"
@@ -7234,7 +7324,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 271360,
       "name": "Wasted Days (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu"
@@ -7516,6 +7606,24 @@
       "duration_ms": 169813,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/5YmEX0jmnkxNNg8vJsvbPN"
+    },
+    {
+      "album": {
+        "name": "Winnemucca",
+        "url": "https://open.spotify.com/album/7J4UvLsAsjwPv80Xx5bqke"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257087,
+      "name": "Winnemucca",
+      "url": "https://open.spotify.com/track/6Rm3L6bg7z8tUAI3FUZ4Fe"
     },
     {
       "album": {

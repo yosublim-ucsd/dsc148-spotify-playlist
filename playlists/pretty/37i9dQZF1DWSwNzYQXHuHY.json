@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7180,
+  "num_followers": 7191,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODI0MywwMDAwMDAwMGRjYjAzNzJlNzc4YWZmMjYxOWU2ZGJjMGRkYmYwYWIw",
+  "snapshot_id": "MTY4MDI1ODI0MywwMDAwMDAwMDg1YzhhZmM2ZjEzNmY5ZjZlOGFkN2ZlYWJjODEyNWJk",
   "tracks": [
     {
       "added_at": "2023-03-27 08:17:10",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-03-27 08:17:10",
       "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 224726,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
+    },
+    {
+      "added_at": "2023-03-27 08:17:10",
+      "album": {
         "name": "oceanfromtheblue",
         "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 175000,
       "name": "Close to You (feat. sunwoojunga)",
       "url": "https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F"
-    },
-    {
-      "added_at": "2023-03-27 08:17:10",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 224726,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
     },
     {
       "added_at": "2023-03-27 08:17:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,686 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,019 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 100 | [Chance](https://open.spotify.com/track/1zdKRdRCxf4K7ZqCRboGjx) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD), [ThatGurlHanna](https://open.spotify.com/artist/48bqtQhilt5mDstY1HfgN5) | [Chance](https://open.spotify.com/album/3uRIMQ0MFiqUXujP8tkMcB) | 2:17 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDAyMWE0MmRmNTM0M2I2M2Q3YWY1ZGQ1MzI1NDY4NTYz`
+Snapshot ID: `MTY4MTQ2MjkwOSwwMDAwMDAwMDkzZTRmYWQ3MmE1YjZmN2RkNjQ5YThkNDQ4MmJhOTFk`

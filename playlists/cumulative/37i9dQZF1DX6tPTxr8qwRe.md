@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ashnikko
+> Dark, hard hitting pop\. Cover: Sam Short
 
-374 songs - 17 hr 10 min
+376 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [BROKEN HEARTS](https://open.spotify.com/track/4bDVNFNYFVQFOglZIcmuAP) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:06 | 2022-11-25 | 2023-04-01 |
 | [brokenboys&bitterbitches](https://open.spotify.com/track/7wX1A5JaAhBZyTSdfARBSE) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [brokenboys&bitterbitches](https://open.spotify.com/album/0Db14UCdRoie6qmMA5nPwv) | 2:46 | 2023-03-24 |  |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-12-24 | 2022-03-18 |
-| [Brutally Honest](https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Brutally Honest](https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l) | 2:39 | 2023-02-03 |  |
+| [Brutally Honest](https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Brutally Honest](https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l) | 2:39 | 2023-02-03 | 2023-04-15 |
 | [Bury Me Alive](https://open.spotify.com/track/6vCsRxJAyCB75JQKZc8MHb) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [Bury Me Alive](https://open.spotify.com/album/7JwAaRcuWbdfqkfGX2VbA5) | 1:57 | 2022-09-02 | 2022-11-19 |
 | [But I Don'T](https://open.spotify.com/track/1BZ8ne2p76ugVsn5TBjeuL) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [How Are You?](https://open.spotify.com/album/6JCn8Tk6OGj3t0YYG55zy7) | 2:17 | 2022-03-18 | 2022-08-13 |
 | [Buzzkill Baby](https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bittersweet 16](https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5) | 3:12 | 2023-03-03 |  |
@@ -85,7 +85,7 @@
 | [Crypto ₿oy](https://open.spotify.com/track/1huSguFFPyo3saFH9u5Sb6) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Crypto ₿oy](https://open.spotify.com/album/6SBASHxpyWAGkqt2kMsBvY) | 2:21 | 2022-06-03 | 2022-07-16 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-01 | 2022-10-22 |
 | [cut my fingers off](https://open.spotify.com/track/32R0306OOQN1q0XJzoi9NH) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/1saNgGCJZpAqsvnUZypMc2) | 2:19 | 2021-11-12 | 2022-03-18 |
-| [cynical](https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [cynical](https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD) | 2:53 | 2023-02-17 | 2023-04-12 |
+| [cynical](https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [cynical](https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD) | 2:53 | 2023-02-17 |  |
 | [Dark Side](https://open.spotify.com/track/2vvMmPGdcZPOXZycjGEqja) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Dark Side](https://open.spotify.com/album/1QJaDupeRe0iuHCijci8f6) | 2:51 | 2021-12-31 | 2022-03-18 |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-02-25 | 2022-11-19 |
 | [Dear Denny](https://open.spotify.com/track/0ODA6YVgdZpss4n7JKaqzc) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Dear Denny](https://open.spotify.com/album/6an5iKKW7Nf7PUTvCxna0A) | 2:41 | 2022-03-04 | 2022-03-26 |
@@ -122,6 +122,7 @@
 | [Faking My Death](https://open.spotify.com/track/44YHoy9N6uI61OREMY8Ax4) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Double Take / Faking My Death](https://open.spotify.com/album/78XiZKS2bbWsdqlZBd9pbd) | 2:45 | 2022-03-11 | 2022-04-23 |
 | [Fall Fall Fall](https://open.spotify.com/track/1Nok3E21YSs8TifkIJgbFv) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc) | [Fall Fall Fall](https://open.spotify.com/album/38elTodexdZEjJ4ODbiaHG) | 3:44 | 2022-03-18 | 2022-03-26 |
 | [Falling from the Sky](https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [Girl Next Door](https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D) | 2:44 | 2022-10-28 | 2023-04-01 |
+| [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 |  |
 | [Father, Son, Holy Ghost](https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Father, Son, Holy Ghost](https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF) | 2:33 | 2023-04-07 |  |
 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 | 2022-02-25 | 2022-04-23 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-07 |  |
@@ -360,6 +361,7 @@
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-08-26 |  |
 | [Walking On The Moon](https://open.spotify.com/track/5o6XukezQCeF9aLPyS1jOz) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Walking On The Moon](https://open.spotify.com/album/3DK47cdBduFGS7RiAsLz65) | 2:40 | 2021-11-12 | 2022-04-29 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-03-26 |
+| [Want U Back](https://open.spotify.com/track/2BMhTcquomJgCq3MfNkY1P) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Want U Back](https://open.spotify.com/album/37YWIL8h1u1TZIzbKTETRA) | 2:30 | 2023-04-14 |  |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-21 | 2022-04-23 |
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-04-29 | 2022-05-20 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-14 | 2022-03-18 |

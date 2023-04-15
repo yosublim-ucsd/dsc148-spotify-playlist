@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Rouss & Leo Rizzi",
+  "description": "Fresh Latin pop on the rise. Cover: Mariangela",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "album": {
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
@@ -3570,7 +3588,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202106,
       "name": "Los Mejores A\u00f1os",
       "url": "https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn"
@@ -3592,6 +3610,24 @@
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "album": {
+        "name": "Luz Azul",
+        "url": "https://open.spotify.com/album/3jC2pH39SzVORAsE3xYnnd"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170958,
+      "name": "Luz Azul",
+      "url": "https://open.spotify.com/track/6vvS5fgoOS3kjrH8Pyc8d5"
     },
     {
       "album": {
@@ -3848,6 +3884,24 @@
       "duration_ms": 219414,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde"
+    },
+    {
+      "album": {
+        "name": "mi man\u00e1",
+        "url": "https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172077,
+      "name": "mi man\u00e1",
+      "url": "https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO"
     },
     {
       "album": {
@@ -4661,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "album": {
         "name": "OH NO",
         "url": "https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu"
       },
@@ -5082,7 +5154,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 112297,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/5sJ92rb60DbHLOY91y2NoU"
@@ -6558,7 +6630,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176769,
       "name": "Tu Mal",
       "url": "https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0"
@@ -6598,6 +6670,28 @@
       "duration_ms": 180619,
       "name": "TU VALOR",
       "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "TURISMO",
+      "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
     },
     {
       "album": {

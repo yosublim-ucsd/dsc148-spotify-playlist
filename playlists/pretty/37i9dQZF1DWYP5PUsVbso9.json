@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 242346,
+  "num_followers": 242619,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDI1NDhhY2MyZTNmNmMzZTJhZmEyYzcwMmJmYWQyMTEy",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDJmYWM5MDJiZjc4MTA2MjkwZTE1ODllZDU5MjczYzQx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -203,22 +203,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -255,18 +251,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Two More Bottles of Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Good 'N' Country",
         "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 139466,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Quarter Moon in a Ten Cent Town (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Two More Bottles of Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Phases And Stages",
-        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Bloody Mary Morning",
-      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Anniversary (Ten Years Of Hits)",
         "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 138800,
       "name": "Her Name Is...",
       "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
     },
     {
       "added_at": "2023-02-24 05:00:00",

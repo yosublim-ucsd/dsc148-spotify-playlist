@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 403342,
+  "num_followers": 403626,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzMTc4MCwwMDAwMDAwMDg4M2Y4OWMyYTUyM2M3ZDRmYTU1ZjQxOTQ3ZWEyMTEz",
+  "snapshot_id": "MTY4MDIzMTc4MCwwMDAwMDAwMGM2NTNkN2M5MDNiNTgyMzA0MDNlNzIwYmRlZjliZTA2",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -443,22 +443,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         },
         {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -483,22 +483,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         },
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
         }
       ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-03-31 03:03:00",

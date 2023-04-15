@@ -8317,6 +8317,24 @@
     },
     {
       "album": {
+        "name": "paris",
+        "url": "https://open.spotify.com/album/6kEPoi0sevh73Wyi2UVNC5"
+      },
+      "artists": [
+        {
+          "name": "Rosi Peloni",
+          "url": "https://open.spotify.com/artist/1VgCv8r28xEc11pDhmJSWf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/1glNxuJz4qAUyYmauaYD9I"
+    },
+    {
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l"
       },
@@ -9748,6 +9766,24 @@
       "duration_ms": 193577,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
+    },
+    {
+      "album": {
+        "name": "Select It",
+        "url": "https://open.spotify.com/album/44sgbHXrS43LtjvDEdyRjo"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rn",
+          "url": "https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Select It",
+      "url": "https://open.spotify.com/track/0aSfCc675yCDs2k8nfJiHr"
     },
     {
       "album": {

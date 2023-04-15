@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,819 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,839 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 41 | [Common Ground](https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:14 |
 | 42 | [Cotton Picking Blues](https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:39 |
 | 43 | [The Road Is So Long](https://open.spotify.com/track/1QXLlIOl49faZia60gnrQT) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Lurrie Bell](https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 3:13 |
-| 44 | [Born In Chicago](https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Live From Chicago \- Mr\. Superharp Himself!](https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv) | 3:06 |
-| 45 | [I Can Love You Like A Woman \(Or I Can Fight You Like A Man\)](https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Queen Of The Blues](https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa) | 3:52 |
+| 44 | [I Can Love You Like A Woman \(Or I Can Fight You Like A Man\)](https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Queen Of The Blues](https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa) | 3:52 |
+| 45 | [Born In Chicago](https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Live From Chicago \- Mr\. Superharp Himself!](https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv) | 3:06 |
 | 46 | [Blue Monday Hangover](https://open.spotify.com/track/2eloCAkMPcrfktP3k2J063) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 5:34 |
 | 47 | [Brick](https://open.spotify.com/track/1QKpDEm8FxSxBgKTRNZn5n) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frostbite](https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV) | 4:35 |
 | 48 | [When The Welfare Turns Its Back On You](https://open.spotify.com/track/0TgqyhREoY6ZXQ1pA6qo5J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:26 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
 | 52 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 
-Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMGEzNzNmODE2Njc5NWQ2ODQ1NjkxZWFlOTQ0NzIzYTRi`
+Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDliY2NlNjA3MTc3NmUzZDU1YThmZGM0ZGNmZGI0ODAz`

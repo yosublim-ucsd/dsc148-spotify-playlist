@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 41 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 41 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 13 | [Delphine](https://open.spotify.com/track/2ZCKfrVy8qg6Y48KyKkN94) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 5:54 |
 | 14 | [The Hook Up](https://open.spotify.com/track/4FEuh8zuTv3IIO8BaCsQPc) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Not for Sale](https://open.spotify.com/album/2T0HxT77VAcbj0VHVdmUl0) | 3:02 |
 | 15 | [This Love](https://open.spotify.com/track/0UPy6jay9WQ2HSOiYq7nJy) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [This Love](https://open.spotify.com/album/1RTXynjOAFfVG00e1L1a1z) | 2:44 |
-| 16 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 |
-| 17 | [Day by Day](https://open.spotify.com/track/7nnFdyYsVwFvUXB4heKZe4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:44 |
+| 16 | [Day by Day](https://open.spotify.com/track/7nnFdyYsVwFvUXB4heKZe4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:44 |
+| 17 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 |
 | 18 | [Nobody Other](https://open.spotify.com/track/4Sqkfwcm0HsUMlmmmZYTim) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:18 |
 | 19 | [Black Magic \(Make It Better\)](https://open.spotify.com/track/19Dqy71XekURex0XMKvfR8) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 2:33 |
 | 20 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 40 | [Wake](https://open.spotify.com/track/3YujvmwqVRN7JDZbEXiOji) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 5:14 |
 | 41 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `MjgwMjM4NTEsMDAwMDAwMDBlNjJhZWJmNDNjNjQwYmI4MGJkNTQ5ZmEwZDc4ZDIwYQ==`
+Snapshot ID: `MjgwMjUyOTEsMDAwMDAwMDBhNTcyYzc4MWU0MjljYWFmY2NiZmQ0OTU2NDFmZjY5Yg==`

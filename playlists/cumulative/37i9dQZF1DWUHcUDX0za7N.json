@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=ip5h-Z8eR1iYN7c6rAjd0w\" > SGaWD </a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=hRwyX9JuS92OirIIx6lNnw\" > Prettyboy D-O </a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 155000,
       "name": "All I Please",
       "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201639,
       "name": "IRE",
       "url": "https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6"
@@ -1618,6 +1618,24 @@
       "duration_ms": 209454,
       "name": "Kilode (In Particular)",
       "url": "https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs"
+    },
+    {
+      "album": {
+        "name": "Korokoro",
+        "url": "https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Korokoro",
+      "url": "https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10"
     },
     {
       "album": {
@@ -2267,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "Open The Front Door",
+        "url": "https://open.spotify.com/album/3s6R1QUm992adma0tFufO6"
+      },
+      "artists": [
+        {
+          "name": "Omotee",
+          "url": "https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169769,
+      "name": "Open The Front Door",
+      "url": "https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP"
+    },
+    {
+      "album": {
         "name": "YPSZN2",
         "url": "https://open.spotify.com/album/1ru2DrxX58DmKELFCOFO4g"
       },
@@ -2484,6 +2524,24 @@
       "duration_ms": 147346,
       "name": "Popping",
       "url": "https://open.spotify.com/track/58lTZMkpl2dENJWth5ZTDJ"
+    },
+    {
+      "album": {
+        "name": "Pot Of Stew",
+        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108066,
+      "name": "Pot Of Stew",
+      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
     },
     {
       "album": {
@@ -3492,7 +3550,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162692,
       "name": "Wahala",
       "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"

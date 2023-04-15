@@ -1,18 +1,18 @@
 {
   "description": "Friday Haus - Freshest house tunes every week. Updated Every Friday !",
-  "num_followers": 5556,
+  "num_followers": 5568,
   "original_name": "FRIDAY HAUS - \" PLAYLIST BY BLEU CLAIR \"",
   "owner": {
     "name": "Kurniawan Wicaksono",
     "url": "https://open.spotify.com/user/bleuclairmusic"
   },
-  "snapshot_id": "MjkzMSw2MmRkYjUwNWZhZDMzMDhkNDRlY2MwOWM1OTkxMWJmYWExNGNiOGMy",
+  "snapshot_id": "Mjk1MixmZmMwMjMxNjM3OWY2YjAwN2MzNDkxMmMyNTk4OWJkZDMwZjBlYTFh",
   "tracks": [
     {
-      "added_at": "2023-03-10 05:00:13",
+      "added_at": "2023-04-14 08:58:14",
       "album": {
-        "name": "Step Into It",
-        "url": "https://open.spotify.com/album/3beTqABOznAfcdIZraOboj"
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
       },
       "artists": [
         {
@@ -20,108 +20,188 @@
           "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         }
       ],
-      "duration_ms": 195381,
-      "name": "Step Into It",
-      "url": "https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO"
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
     },
     {
-      "added_at": "2023-03-10 05:00:18",
+      "added_at": "2023-04-14 08:58:33",
       "album": {
-        "name": "Different Side",
-        "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
+        "name": "Saturday Love",
+        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Saturday Love",
+      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+    },
+    {
+      "added_at": "2023-04-14 08:58:42",
+      "album": {
+        "name": "Got Time For Me (with Channel Tres)",
+        "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         },
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
-        }
-      ],
-      "duration_ms": 193710,
-      "name": "Different Side",
-      "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:43",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/0mDSNVQMk6frlTzKUxdoFi"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 186621,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0fVnwHlZGkqM0mzmrSOPtr"
-    },
-    {
-      "added_at": "2023-03-10 05:00:50",
-      "album": {
-        "name": "IRLY (I Really Love You)",
-        "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 170569,
-      "name": "IRLY (I Really Love You)",
-      "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:59",
-      "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
         {
           "name": "Channel Tres",
           "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+      "duration_ms": 179034,
+      "name": "Got Time For Me (with Channel Tres)",
+      "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
     },
     {
-      "added_at": "2023-03-10 05:01:16",
+      "added_at": "2023-04-14 08:58:56",
       "album": {
-        "name": "Push To Start (feat. No/Me)",
-        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
+        "name": "Dummy \u2013 Chris Lake Remix",
+        "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         },
         {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
         }
       ],
-      "duration_ms": 181875,
-      "name": "Push To Start (feat. No/Me)",
-      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+      "duration_ms": 173001,
+      "name": "Dummy \u2013 Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
     },
     {
-      "added_at": "2023-03-10 05:01:26",
+      "added_at": "2023-04-14 08:59:10",
+      "album": {
+        "name": "THE ONE (Lee Foss & MK Remix)",
+        "url": "https://open.spotify.com/album/2PkCXClGK1acJkWbYVRDux"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        }
+      ],
+      "duration_ms": 209327,
+      "name": "THE ONE - Lee Foss & MK Remix",
+      "url": "https://open.spotify.com/track/6FcLKdkVbaz8TUX9vohoml"
+    },
+    {
+      "added_at": "2023-04-14 08:59:25",
+      "album": {
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/2mNc6DXC1qHBzcZdKsqWxe"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        }
+      ],
+      "duration_ms": 182113,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/6arHrJv28C4X7meSbtXZUG"
+    },
+    {
+      "added_at": "2023-04-14 08:59:40",
+      "album": {
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 151683,
+      "name": "Hangover (BaBaBa)",
+      "url": "https://open.spotify.com/track/396dUWKzSQblTT67A3Ynf6"
+    },
+    {
+      "added_at": "2023-04-14 08:59:59",
+      "album": {
+        "name": "Bass Go Boom",
+        "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Bass Go Boom",
+      "url": "https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh"
+    },
+    {
+      "added_at": "2023-04-14 09:00:59",
+      "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
+    },
+    {
+      "added_at": "2023-04-14 09:01:14",
+      "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/6vY27OV1D4WIBUl87Ne6B1"
+    },
+    {
+      "added_at": "2023-04-14 09:01:23",
       "album": {
         "name": "Sand Dunes",
         "url": "https://open.spotify.com/album/7z4cJm01ThOpkmGdf6MoqC"
@@ -137,47 +217,115 @@
       "url": "https://open.spotify.com/track/2Oh4jKif9YIlxbg8aX6Km0"
     },
     {
-      "added_at": "2023-03-10 05:01:43",
+      "added_at": "2023-04-14 09:01:50",
       "album": {
-        "name": "El Beso (feat. Mathieu Ruz)",
-        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+        "name": "DEEPFAKE",
+        "url": "https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn"
       },
       "artists": [
         {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
         },
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Mihalis Safras",
+          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
         }
       ],
-      "duration_ms": 211547,
-      "name": "El Beso (feat. Mathieu Ruz)",
-      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
+      "duration_ms": 166153,
+      "name": "DEEPFAKE",
+      "url": "https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs"
     },
     {
-      "added_at": "2023-03-10 05:01:53",
+      "added_at": "2023-04-14 09:02:10",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "DFCW",
+        "url": "https://open.spotify.com/album/6XxtnySdIlVtC3fuhdapjh"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+      "duration_ms": 240001,
+      "name": "DFCW",
+      "url": "https://open.spotify.com/track/3BbAVLfkhtY237ORPUj3wX"
     },
     {
-      "added_at": "2023-03-10 05:02:02",
+      "added_at": "2023-04-14 09:02:19",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jargen",
+          "url": "https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d"
+    },
+    {
+      "added_at": "2023-04-14 09:02:30",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2023-04-14 09:03:37",
+      "album": {
+        "name": "NY to LA",
+        "url": "https://open.spotify.com/album/2dEumeqVokgmhe1yvJCkvl"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "NY to LA",
+      "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
+    },
+    {
+      "added_at": "2023-04-14 09:03:43",
+      "album": {
+        "name": "Sheeple",
+        "url": "https://open.spotify.com/album/3GkPi7tkFqKqd3yiF0g6xD"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 421948,
+      "name": "Sheeple",
+      "url": "https://open.spotify.com/track/2z0oQAn7oK1nBxzk9XmKf9"
+    },
+    {
+      "added_at": "2023-04-14 09:03:52",
       "album": {
         "name": "Killer Bee",
         "url": "https://open.spotify.com/album/2wggVJCG8JFzXKHg14zkyl"
@@ -201,204 +349,40 @@
       "url": "https://open.spotify.com/track/3vq4X1cphzASnVAPR3Tfqg"
     },
     {
-      "added_at": "2023-03-10 05:02:30",
+      "added_at": "2023-04-14 09:04:04",
       "album": {
-        "name": "Looking At Your Pager (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/1kdnF2ZYbBEh14FYvy1lcv"
+        "name": "Check Out",
+        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
       },
       "artists": [
         {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
         },
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
         }
       ],
-      "duration_ms": 219073,
-      "name": "Looking at Your Pager - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/19IYiA9TCmbCet65fZZhhN"
+      "duration_ms": 174138,
+      "name": "Check Out",
+      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
     },
     {
-      "added_at": "2023-03-10 05:02:37",
+      "added_at": "2023-04-14 09:05:23",
       "album": {
-        "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
-        "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
+        "name": "Shoot the Shot",
+        "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
       "artists": [
         {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
         }
       ],
-      "duration_ms": 221202,
-      "name": "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
-      "url": "https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS"
-    },
-    {
-      "added_at": "2023-03-10 05:04:40",
-      "album": {
-        "name": "Soundwave",
-        "url": "https://open.spotify.com/album/3lgLl9tQe3oC6uMmYsDFAz"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Lil Mama",
-      "url": "https://open.spotify.com/track/6EXlei2jOjvAtzA5UC3ptb"
-    },
-    {
-      "added_at": "2023-03-10 05:05:09",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 204567,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
-    },
-    {
-      "added_at": "2023-03-10 05:05:41",
-      "album": {
-        "name": "How We Do",
-        "url": "https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 187968,
-      "name": "How We Do",
-      "url": "https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO"
-    },
-    {
-      "added_at": "2023-03-10 05:06:01",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jargen",
-          "url": "https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl"
-        }
-      ],
-      "duration_ms": 184776,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d"
-    },
-    {
-      "added_at": "2023-03-10 05:07:27",
-      "album": {
-        "name": "Lambs Anger",
-        "url": "https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "Positif",
-      "url": "https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv"
-    },
-    {
-      "added_at": "2023-03-10 05:07:46",
-      "album": {
-        "name": "New Age of House",
-        "url": "https://open.spotify.com/album/7zBY7JzAeooq0E8cMXmZ0X"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Dances With White Girls",
-          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
-        }
-      ],
-      "duration_ms": 171180,
-      "name": "Peanut Butter",
-      "url": "https://open.spotify.com/track/7F2xg9REyaMDf9JHMV8V9S"
-    },
-    {
-      "added_at": "2023-03-10 05:08:36",
-      "album": {
-        "name": "Just What The World Needs EP",
-        "url": "https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 260565,
-      "name": "Same Way Down (feat. Mindchatter)",
-      "url": "https://open.spotify.com/track/3NDNPhzZ60EV2sK3ryIF4i"
-    },
-    {
-      "added_at": "2023-03-10 05:08:50",
-      "album": {
-        "name": "Hyperspace (feat. Teza Sumendra)",
-        "url": "https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Teza Sumendra",
-          "url": "https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7"
-        }
-      ],
-      "duration_ms": 204445,
-      "name": "Hyperspace (feat. Teza Sumendra)",
-      "url": "https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk"
+      "duration_ms": 359998,
+      "name": "Shoot the Shot",
+      "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
     }
   ],
   "unique_name": "FRIDAY HAUS - \" PLAYLIST BY BLEU CLAIR \"",

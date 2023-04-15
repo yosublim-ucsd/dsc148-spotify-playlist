@@ -1,13 +1,33 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 117065,
+  "num_followers": 117155,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDRkODUyOTRjNjExY2Y2YzMyYjliZjVjNGEwZWY5NGIw",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGYxZjg4NGM1YTdkMjU3OWJkN2I2ZWQ1Njk4OTRiZmYw",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/0NmrSzDbUAcBWQjizsqH1w"
+      },
+      "artists": [
+        {
+          "name": "Wayne Escoffery",
+          "url": "https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 475400,
+      "name": "My Truth",
+      "url": "https://open.spotify.com/track/3SmunenWR60n0G9VpjDkLc"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -57,6 +77,26 @@
       "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 355456,
+      "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR"
+    },
+    {
       "added_at": "2022-09-16 04:01:00",
       "album": {
         "name": "C'est Si Bon",
@@ -71,6 +111,26 @@
       "duration_ms": 172440,
       "name": "C'est Si Bon",
       "url": "https://open.spotify.com/track/6bFL0ED2Y9i1RchMPLlbx7"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Pennies from Heaven",
+        "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 330240,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
     },
     {
       "added_at": "2022-10-14 19:18:38",
@@ -319,26 +379,6 @@
       "duration_ms": 286559,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA"
-    },
-    {
-      "added_at": "2022-07-18 12:24:10",
-      "album": {
-        "name": "New York, New York",
-        "url": "https://open.spotify.com/album/0sAEeaj1Ko2SYnL34d9fbW"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        },
-        {
-          "name": "Tom Gaebel",
-          "url": "https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9"
-        }
-      ],
-      "duration_ms": 206590,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1733,38 +1773,6 @@
       "url": "https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Coercion",
-        "url": "https://open.spotify.com/album/2DBipdyuPCJV03rwxKvYSJ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Gabe Schnider",
-          "url": "https://open.spotify.com/artist/6W0lSVddOFriyTIYsfG78Q"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "John Chin",
-          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
-        }
-      ],
-      "duration_ms": 244216,
-      "name": "Coercion",
-      "url": "https://open.spotify.com/track/2U46iTmxu2rshhQZAJKsst"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "I Love Betsy",
@@ -1833,26 +1841,6 @@
       "url": "https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W"
     },
     {
-      "added_at": "2023-02-17 17:00:00",
-      "album": {
-        "name": "Sweet Pumpkin (Duo Version)",
-        "url": "https://open.spotify.com/album/4uqKcyr2SSRVfK1huj5gQx"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        },
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
-      "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "Genuine",
@@ -1867,26 +1855,6 @@
       "duration_ms": 258750,
       "name": "Genuine",
       "url": "https://open.spotify.com/track/4bfkTfeGVeuqDUS7SCBtym"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Rivers of Babylon",
-        "url": "https://open.spotify.com/album/6fMel26CxtEDFLZEsmxo7K"
-      },
-      "artists": [
-        {
-          "name": "Wayne Escoffery",
-          "url": "https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 398453,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/1JYecLAEPKYDx3PLIuvFwk"
     },
     {
       "added_at": "2022-07-22 04:02:00",

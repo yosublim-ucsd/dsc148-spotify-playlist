@@ -1,18 +1,18 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7851,
+  "num_followers": 7852,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjA4MCxkNzdlNjQzMGVkNGNkNjkyMDA2NTY3NTVhYmY0N2YxMGViODZiMTA5",
+  "snapshot_id": "MjA4OSwwODQ5ZDg3MzMyNGNjYmVmM2Q3YWMwN2VmNmE4ZDU0ZTY0OTcwNTU3",
   "tracks": [
     {
-      "added_at": "2023-03-10 15:27:31",
+      "added_at": "2023-04-14 14:51:25",
       "album": {
-        "name": "Takin' It Back (Deluxe)",
-        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+        "name": "Mother (Radio Edit)",
+        "url": "https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 147481,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
+      "duration_ms": 145136,
+      "name": "Mother - Radio Edit",
+      "url": "https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H"
     },
     {
       "added_at": "2023-03-24 15:00:58",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
+      "added_at": "2023-04-14 14:51:34",
+      "album": {
+        "name": "2MORE",
+        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 131913,
+      "name": "aorta",
+      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
+    },
+    {
       "added_at": "2023-03-24 15:00:29",
       "album": {
         "name": "GENERATIONAL CURSE",
@@ -143,6 +159,26 @@
       "duration_ms": 126058,
       "name": "KISS N' TELL (feat. Dro Kenji)",
       "url": "https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee"
+    },
+    {
+      "added_at": "2023-04-14 14:51:43",
+      "album": {
+        "name": "ROLL THE DICE (feat. DeJ Loaf)",
+        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "ROLL THE DICE (feat. DeJ Loaf)",
+      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
       "added_at": "2023-02-21 16:32:32",
@@ -427,34 +463,6 @@
       "duration_ms": 228000,
       "name": "9 Lives (feat. Polo G & NLE Choppa)",
       "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
-    },
-    {
-      "added_at": "2022-09-16 13:34:39",
-      "album": {
-        "name": "Impostor Syndrome",
-        "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        },
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        },
-        {
-          "name": "Glen the Saiyan",
-          "url": "https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
-      "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
     },
     {
       "added_at": "2022-11-11 14:35:48",
@@ -803,22 +811,6 @@
       "duration_ms": 148786,
       "name": "KU LO SA",
       "url": "https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO"
-    },
-    {
-      "added_at": "2022-07-29 14:19:24",
-      "album": {
-        "name": "CATCH ME IF YOU CAN",
-        "url": "https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "MORE THAN FRIENDS",
-      "url": "https://open.spotify.com/track/3woWtzkN6KKSfX7VBW6nDg"
     },
     {
       "added_at": "2022-07-22 14:15:37",

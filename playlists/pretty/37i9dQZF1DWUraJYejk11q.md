@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,772 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,784 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 6 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 |
 | 7 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 | 8 | [Are You Alive?](https://open.spotify.com/track/2uJbLXWgxBEgkUtz2Ie07l) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Optical Delusion](https://open.spotify.com/album/2jQbFspnSh7erex6RDKQGJ) | 7:49 |
-| 9 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 9 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
 | 10 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 |
-| 11 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
+| 11 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
 | 12 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 |
 | 13 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
 | 14 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 20 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 21 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
 | 22 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 23 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
-| 24 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
+| 23 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
+| 24 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
 | 25 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
 | 26 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 27 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 46 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 |
 | 47 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 | 48 | [Flooding Meadow](https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh) | [Doc Sleep](https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI) | [Flooding Meadow](https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn) | 4:50 |
-| 49 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
-| 50 | [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 |
+| 49 | [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 |
+| 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 
-Snapshot ID: `MTY4MTMxMDc5NiwwMDAwMDAwMDhlZjZlNTFjOTQ3M2MyMmM0OTU2N2ZmZWVlZTc5NTQy`
+Snapshot ID: `MTY4MTMxMDc5NiwwMDAwMDAwMDY2ZWM2ODllODExMzEyMjY1NjI4MTMzODUwNzE3NDYz`

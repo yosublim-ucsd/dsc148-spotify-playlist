@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 192436,
       "name": "Ain't None Watered Down",
       "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 157533,
       "name": "Heart Stop",
       "url": "https://open.spotify.com/track/2DUeViPNuX9AMnFFzciPTr"
@@ -1400,6 +1400,24 @@
       "duration_ms": 227206,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx"
+    },
+    {
+      "album": {
+        "name": "I Wanna Keep It",
+        "url": "https://open.spotify.com/album/4rAJbotu9bdOzBUWEJyalC"
+      },
+      "artists": [
+        {
+          "name": "Free Joel",
+          "url": "https://open.spotify.com/artist/3ASOgqQ8AGJGdKo1zleOEP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326165,
+      "name": "I Wanna Keep It",
+      "url": "https://open.spotify.com/track/0XAJiy3zJ20ZTvNviK5zCV"
     },
     {
       "album": {
@@ -3401,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Ugly Brain",
+        "url": "https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Ross",
+          "url": "https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276283,
+      "name": "Ugly Brain - Single Version",
+      "url": "https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx"
+    },
+    {
+      "album": {
         "name": "Waiting For Your Man",
         "url": "https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd"
       },
@@ -3412,7 +3448,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 215906,
       "name": "Waiting For Your Man",
       "url": "https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK"
@@ -3524,6 +3560,24 @@
       "duration_ms": 465960,
       "name": "When My Train Pulls In",
       "url": "https://open.spotify.com/track/2mdxGlwrhtkuxgzbH7LOIh"
+    },
+    {
+      "album": {
+        "name": "Why Would You Say Such a Thing",
+        "url": "https://open.spotify.com/album/5ULXrmyxzAhyzsVBhYsm53"
+      },
+      "artists": [
+        {
+          "name": "Dustin Douglas & the Electric Gentlemen",
+          "url": "https://open.spotify.com/artist/0SCkDFjNZmp2hfT72RVTkm"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154589,
+      "name": "Why Would You Say Such a Thing",
+      "url": "https://open.spotify.com/track/2ChjTl6De9oPARng4KS3F3"
     },
     {
       "album": {

@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324333,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/5flWX9RciqasGiS4PMremt"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -1465,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Candyland",
+        "url": "https://open.spotify.com/album/05zN6o7SPzRnAUCKg6iphk"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162755,
+      "name": "Candyland",
+      "url": "https://open.spotify.com/track/6nMmi5fObqHcwe5t94rZ5P"
+    },
+    {
+      "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
       },
@@ -1577,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Club Cooter: Reloaded",
+        "url": "https://open.spotify.com/album/54Tu6IUM0MfJ2nMJ8cqu3N"
+      },
+      "artists": [
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109268,
+      "name": "Club Cooter: Reloaded",
+      "url": "https://open.spotify.com/track/10yIPIi5rLXQvIUReCA2Ps"
+    },
+    {
+      "album": {
         "name": "Coconuts",
         "url": "https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC"
       },
@@ -1632,7 +1686,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 134397,
       "name": "Come 2 Brazil",
       "url": "https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F"
@@ -2238,7 +2292,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195047,
       "name": "Disco Heart",
       "url": "https://open.spotify.com/track/3pOc5B57GjvEGeQwcLoBAB"
@@ -2434,6 +2488,42 @@
       "duration_ms": 138855,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/3WDyQV8e7Jo8ADMDIUZEqT"
+    },
+    {
+      "album": {
+        "name": "Effort",
+        "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151947,
+      "name": "Effort",
+      "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "album": {
@@ -2844,7 +2934,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 234493,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
@@ -4912,7 +5002,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
@@ -5720,7 +5810,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164131,
       "name": "My Bed",
       "url": "https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq"
@@ -5840,6 +5930,24 @@
       "duration_ms": 203855,
       "name": "Neon Moon - Edit",
       "url": "https://open.spotify.com/track/1xIk1ez2aX9hgRpqSMOrA9"
+    },
+    {
+      "album": {
+        "name": "NeverStop",
+        "url": "https://open.spotify.com/album/3LsmzqsGW7J6uK45C9McDo"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274773,
+      "name": "NeverStop",
+      "url": "https://open.spotify.com/track/7nGMJUPdpRyiTjkTnFCkta"
     },
     {
       "album": {
@@ -7622,7 +7730,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 144024,
       "name": "Sugar (feat. Soaky Siren)",
       "url": "https://open.spotify.com/track/6OHQzBYaXeF6FVu8gxLMkE"
@@ -8283,6 +8391,24 @@
     },
     {
       "album": {
+        "name": "TIMEZONE",
+        "url": "https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lunny",
+          "url": "https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188015,
+      "name": "TIMEZONE",
+      "url": "https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb"
+    },
+    {
+      "album": {
         "name": "Tippy Toes",
         "url": "https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w"
       },
@@ -8406,7 +8532,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
@@ -8600,6 +8726,36 @@
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+    },
+    {
+      "album": {
+        "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+        "url": "https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+      "url": "https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC"
     },
     {
       "album": {
@@ -8802,7 +8958,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
@@ -9067,6 +9223,28 @@
     },
     {
       "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178760,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
+    },
+    {
+      "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
         "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
       },
@@ -9180,7 +9358,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 148920,
       "name": "You Only Love Me",
       "url": "https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2"

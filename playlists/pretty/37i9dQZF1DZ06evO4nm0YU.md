@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,591 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,695 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 43 | [Barrunto](https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Gran Fuga](https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l) | 5:36 |
 | 44 | [Songoro Cosongo](https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 7:50 |
 | 45 | [De Ti Depende](https://open.spotify.com/track/6V0m5eu38vtpaVTqdCKxxV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 4:35 |
-| 46 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
-| 47 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 |
+| 46 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 |
+| 47 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
 | 48 | [Aléjate](https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 7:07 |
 | 49 | [Vamos A Reír Un Poco](https://open.spotify.com/track/41xQQNFqOja4DNQttbsJ0W) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 7:35 |
 | 50 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDAyYmRmY2NlMTM4NWY5YWFmNTIzMDE1Mjc1ZDkxNzBiYQ==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBjMDdmNGE1NTcyZDc4NDUyOTY2ZjY4MmEyMmYwZWUxOA==`

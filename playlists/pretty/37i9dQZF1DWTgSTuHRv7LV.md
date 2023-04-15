@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Peso Pluma, Aleman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,164 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,300 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 51 | [PEGAO](https://open.spotify.com/track/06AeysOdGsT32fTpBRGik6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:23 |
 | 52 | [Ilegal](https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Ilegal](https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG) | 4:45 |
 | 53 | [Todos en la Cuadra Bien Locos](https://open.spotify.com/track/7uFe6VpeiWbLvBGbTwKkXX) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 5:49 |
-| 54 | [HOLY SHIT \- REMIX](https://open.spotify.com/track/6jgj0rDsHJ7LiMf8lzCTTl) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [JhayCo](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [ANTI JUDAS RELOADED](https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc) | 3:28 |
+| 54 | [HOLY SHIT \- REMIX](https://open.spotify.com/track/6jgj0rDsHJ7LiMf8lzCTTl) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [ANTI JUDAS RELOADED](https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc) | 3:28 |
 | 55 | [Ya Ni Se](https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Ya Ni Se](https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO) | 3:38 |
 | 56 | [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 |
 | 57 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 |

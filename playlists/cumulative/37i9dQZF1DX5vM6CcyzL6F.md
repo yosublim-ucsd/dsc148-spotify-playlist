@@ -4,7 +4,7 @@
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-182 songs - 14 hr 33 min
+183 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Tú Con Él](https://open.spotify.com/track/7zd2nvoRYOOp8Laqh6HfM4) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Yo me quedo en casa Salsa](https://open.spotify.com/album/2cYjBkFDCEzmkz4UPso2GM) | 5:02 | 2022-08-02 |  |
 | [Tú Me Haces Falta](https://open.spotify.com/track/7zYbsxjRlZgJO2H6HJzgvC) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Buenaza](https://open.spotify.com/album/0JHeYGXv7slRTTRcBr6jl6) | 4:39 | 2022-08-02 |  |
 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 | 2022-08-02 |  |
-| [Tú Me Vuelves Loco](https://open.spotify.com/track/7zISvzfqD0Y3pT8ztOXOaS) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Alocada Salsa](https://open.spotify.com/album/67IJZg1ZUXEklyPoMhgpS1) | 4:56 | 2022-08-02 |  |
+| [Tú Me Vuelves Loco](https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:55 | 2022-08-02 |  |
+| [Tú Me Vuelves Loco](https://open.spotify.com/track/7zISvzfqD0Y3pT8ztOXOaS) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Alocada Salsa](https://open.spotify.com/album/67IJZg1ZUXEklyPoMhgpS1) | 4:56 | 2022-08-02 | 2023-04-15 |
 | [Un Monton De Estrellas](https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Memoria](https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP) | 6:04 | 2022-08-02 |  |
 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 | 2022-08-02 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7yM4UpoZQfOHcBSiUNSoIt) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Rumba y Salsa](https://open.spotify.com/album/78WM88T2XCWUKhmeyqIOdF) | 5:14 | 2022-08-02 |  |

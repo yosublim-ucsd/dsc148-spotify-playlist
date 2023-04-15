@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Paris Paloma
 
-482 songs - 1 day 6 hr 11 min
+483 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Boardwalks](https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:15 | 2022-04-13 | 2022-04-20 |
 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 | 2022-02-25 | 2022-07-29 |
 | [Break Me Open](https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:03 | 2022-06-24 |  |
-| [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-24 |  |
+| [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-24 | 2023-04-15 |
 | [Bride](https://open.spotify.com/track/6IG4Z0sKhLG7MaXOgPCaa8) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Bride](https://open.spotify.com/album/28owF5FXqCYlH1nfT09uVU) | 3:49 | 2022-04-13 | 2022-07-22 |
 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 | 2022-04-13 | 2022-07-05 |
 | [Bud](https://open.spotify.com/track/5q9FAPRXpXyy6xI2hgq8I7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Bud](https://open.spotify.com/album/0So4agcAlpswj4ZsG1oJfa) | 3:35 | 2022-04-13 | 2022-04-20 |
@@ -194,6 +194,7 @@
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-10-22 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-29 | 2022-12-22 |
 | [Habit](https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Habit](https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7) | 3:31 | 2023-03-17 |  |
+| [Hail Mary](https://open.spotify.com/track/71fZrZ2MTPLRLPbMf8pT0F) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:49 | 2023-04-14 |  |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2021-10-22 |  |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 |  |
 | [happy accident](https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [happy accident](https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA) | 5:45 | 2022-02-25 | 2023-04-05 |

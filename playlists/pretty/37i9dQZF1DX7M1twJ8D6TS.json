@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 118466,
+  "num_followers": 118571,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMDE5ZDBjOThjNGJmOGY1N2FkMDhhMTUxZTdmYzczOGVj",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGQzN2JmYjA3NWZhNzRiMmI1MmQwOGJlYmU2OGFmYTFk",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Drowning in Dreams, Pt. 2",
-        "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/6mPBxiy88z8Gkkqub3vyTC"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+      },
+      "artists": [
+        {
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP"
       },
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+        "name": "Don't Even Say Bye",
+        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
       },
       "artists": [
         {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Cole Barnhill",
+          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
         }
       ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
+      "duration_ms": 237060,
+      "name": "Don't Even Say Bye",
+      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -535,22 +535,6 @@
       "duration_ms": 226538,
       "name": "Life Without You",
       "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Don't Even Say Bye",
-        "url": "https://open.spotify.com/album/0dthXJRfQdbGWs3t8HrO7r"
-      },
-      "artists": [
-        {
-          "name": "Cole Barnhill",
-          "url": "https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs"
-        }
-      ],
-      "duration_ms": 237060,
-      "name": "Don't Even Say Bye",
-      "url": "https://open.spotify.com/track/654czoZ3ElWtbkVkKsSBbl"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -771,22 +755,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
       },
@@ -799,6 +767,22 @@
       "duration_ms": 212235,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 188636,
       "name": "Can Down",
       "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
+    },
+    {
+      "added_at": "2023-04-15 01:14:14",
+      "album": {
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
-      "added_at": "2023-04-14 00:57:33",
-      "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Palo Duro",
@@ -963,22 +947,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Texas Rain",
         "url": "https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa"
       },
@@ -991,6 +959,22 @@
       "duration_ms": 218094,
       "name": "Texas Rain",
       "url": "https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Makin' It By (Side A)",
         "url": "https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D"
       },
@@ -1075,21 +1075,21 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+        "name": "Cigarettes and Alcohol",
+        "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
         }
       ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+      "duration_ms": 277171,
+      "name": "Cigarettes and Alcohol",
+      "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
-      "added_at": "2023-04-14 00:57:33",
+      "added_at": "2023-04-15 01:14:14",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1103,22 +1103,6 @@
       "duration_ms": 178469,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Cigarettes and Alcohol",
-        "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
-      },
-      "artists": [
-        {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
-        }
-      ],
-      "duration_ms": 277171,
-      "name": "Cigarettes and Alcohol",
-      "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1175,22 +1159,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Loser Mentality",
-        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 193525,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn"
       },
@@ -1207,18 +1175,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Dos Corazones",
-        "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
+        "name": "Loser Mentality",
+        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
       },
       "artists": [
         {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 249892,
-      "name": "A Cowgirl Like You",
-      "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
+      "duration_ms": 193525,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1235,6 +1203,22 @@
       "duration_ms": 235853,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Dos Corazones",
+        "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "duration_ms": 249892,
+      "name": "A Cowgirl Like You",
+      "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Don't Want To Go Home",
+        "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
+      },
+      "artists": [
+        {
+          "name": "Teague Brothers Band",
+          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Don't Want to Go Home",
+      "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Horses in Heaven",
         "url": "https://open.spotify.com/album/5rHZUvMU0CGCA38fqhh7L8"
       },
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Hundred Dollar Bill",
         "url": "https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 223806,
       "name": "Hundred Dollar Bill",
       "url": "https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Don't Want To Go Home",
-        "url": "https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks"
-      },
-      "artists": [
-        {
-          "name": "Teague Brothers Band",
-          "url": "https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Don't Want to Go Home",
-      "url": "https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 261268,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Waiting for the Fall",
         "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 217494,
       "name": "Waiting for the Fall",
       "url": "https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 261268,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
     },
     {
       "added_at": "2022-05-27 04:00:00",

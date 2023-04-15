@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "A Place You Grew Up In",
+        "url": "https://open.spotify.com/album/747rEJWxtjhJBDetMDt9yU"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235325,
+      "name": "A Place You Grew Up In",
+      "url": "https://open.spotify.com/track/6x7Urov7z6SvWEnOZYtlgF"
+    },
+    {
+      "album": {
         "name": "a vision of you",
         "url": "https://open.spotify.com/album/5YVWwGXF1In8WQgk6snPfL"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 219565,
       "name": "Boy Next Door",
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
@@ -4265,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Drive Your Car",
+        "url": "https://open.spotify.com/album/5B4Z6qjLNlWggMQl9Q1dzK"
+      },
+      "artists": [
+        {
+          "name": "Oddnesse",
+          "url": "https://open.spotify.com/artist/2LjbaKAB72Nj5zKjcRyOxz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175584,
+      "name": "Drive Your Car",
+      "url": "https://open.spotify.com/track/6LzL8uBvUdJnq4z50QuHfA"
+    },
+    {
+      "album": {
         "name": "The Juniper Songbook",
         "url": "https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0"
       },
@@ -4334,6 +4370,24 @@
       "duration_ms": 186453,
       "name": "Dust Bunny",
       "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
+    },
+    {
+      "album": {
+        "name": "Eastern Ave",
+        "url": "https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF"
+      },
+      "artists": [
+        {
+          "name": "Flasher",
+          "url": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216078,
+      "name": "Eastern Ave",
+      "url": "https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe"
     },
     {
       "album": {
@@ -5942,6 +5996,24 @@
       "duration_ms": 142011,
       "name": "Good to Hear from You Johnny",
       "url": "https://open.spotify.com/track/5w1hXrnVh9NU7w5NuhMnfh"
+    },
+    {
+      "album": {
+        "name": "Goose",
+        "url": "https://open.spotify.com/album/4x4r8cjpp0WgBnzc1I9NA2"
+      },
+      "artists": [
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155064,
+      "name": "Goose",
+      "url": "https://open.spotify.com/track/2d2gncsilMuXlUlpHlhlax"
     },
     {
       "album": {
@@ -8883,6 +8955,24 @@
     },
     {
       "album": {
+        "name": "Locket",
+        "url": "https://open.spotify.com/album/5uijemnh4nVq5ZXeAtf79R"
+      },
+      "artists": [
+        {
+          "name": "Superviolet",
+          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173062,
+      "name": "Locket",
+      "url": "https://open.spotify.com/track/0DKeB7jEvtKNoNgNhyJi81"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3i8tDk6FlRAutGZtoKGlUB"
       },
@@ -8948,7 +9038,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 181770,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/5NRUB58dHpsWrpSS3aUvvp"
@@ -10394,7 +10484,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 267130,
       "name": "One Day",
       "url": "https://open.spotify.com/track/55uncgNeYZapB3aGNAECF6"
@@ -12528,7 +12618,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226471,
       "name": "Someone2Me",
       "url": "https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP"
@@ -14854,7 +14944,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 270978,
       "name": "Ur Name on a Grain of Rice - demo",
       "url": "https://open.spotify.com/track/5hbXAAIUJTpubHbaeroIzG"
@@ -15352,6 +15442,24 @@
       "duration_ms": 281500,
       "name": "When i'm blue",
       "url": "https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX"
+    },
+    {
+      "album": {
+        "name": "Right Way Round",
+        "url": "https://open.spotify.com/album/6hNMB7yaIoZ5RF6atB6gRI"
+      },
+      "artists": [
+        {
+          "name": "Lunar Isles",
+          "url": "https://open.spotify.com/artist/4CH90JmQng3hi5XN2oQOaM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185274,
+      "name": "When It's Gone",
+      "url": "https://open.spotify.com/track/2pm0wq1XPn0stjOG8QJWhY"
     },
     {
       "album": {

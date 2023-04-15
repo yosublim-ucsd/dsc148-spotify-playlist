@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=0z8xRQ3TSz28emVuQDmfrg\"> L.A.X </a> ",
+  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=KLI_k7C7RbKu67zS9IOi_A\"> Asake</a> ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "2:30",
+        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
     },
     {
       "album": {
@@ -534,7 +552,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 144758,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
@@ -760,6 +778,24 @@
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "album": {
@@ -1535,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Love You Well",
+        "url": "https://open.spotify.com/album/5FL1VuX28rK1eeDEO50ZjF"
+      },
+      "artists": [
+        {
+          "name": "Omawumi",
+          "url": "https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "Love You Well",
+      "url": "https://open.spotify.com/track/2lGE2iyLAt0ICi0zKvArWo"
+    },
+    {
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
       },
@@ -1678,7 +1736,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 129807,
       "name": "New Born Fela",
       "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
@@ -1722,7 +1780,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 151665,
       "name": "Normally",
       "url": "https://open.spotify.com/track/2VA1XsvSN6H60KZSEvf9Bt"
@@ -1857,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198801,
+      "name": "OVER DEM",
+      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
+    },
+    {
+      "album": {
         "name": "Ozumba Mbadiwe",
         "url": "https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs"
       },
@@ -1934,7 +2010,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"

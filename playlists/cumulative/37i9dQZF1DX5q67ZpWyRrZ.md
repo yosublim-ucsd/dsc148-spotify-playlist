@@ -2,9 +2,9 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> Best of the Indian Indie scene\. Cover \- Akshath
+> Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
 
-190 songs - 11 hr 0 min
+191 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-03-09 |  |
 | [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2021-12-06 | 2022-01-06 |
 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2022-01-05 |  |
-| [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2022-01-05 |  |
+| [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 | 2022-01-05 | 2023-04-15 |
 | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/0fzVqKKvn5P6MU3kNYsqgM) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Jaysinh Gadhvi](https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ), [Kavi Shree Ghanshyam Gadhvi](https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W), [Bhargav Purohit](https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc), [Raju Bhaai](https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC), [Sagar Patel](https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5) | [Haalyo Jaa \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/66xOQ66ZnZPAlA6thPN5kb) | 2:55 | 2021-12-06 | 2022-01-06 |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2022-11-21 |  |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-10-20 |  |
@@ -150,6 +150,7 @@
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-03-14 | 2022-08-11 |
 | [Saal](https://open.spotify.com/track/2S3erlZaNr7EGakVORv619) | [Ishpreet Singh](https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9), [Khushraj Hussain](https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh) | [Saal](https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP) | 3:08 | 2022-04-28 |  |
 | [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-01-16 |  |
+| [Saara Jahaan](https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saara Jahaan](https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV) | 2:37 | 2023-04-14 |  |
 | [Sage](https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:50 | 2022-07-25 |  |
 | [Sage](https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Sage](https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn) | 3:50 | 2022-01-05 | 2022-07-29 |
 | [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-12-22 | 2023-01-24 |

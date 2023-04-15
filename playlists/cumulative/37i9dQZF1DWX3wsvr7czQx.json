@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Icons only. Cover: Belinda Carlisle",
+  "description": "Icons only. Cover: Michael Bolton",
   "name": "Classic Artists New Music",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 226133,
       "name": "Another One Like You",
       "url": "https://open.spotify.com/track/7LG4q9SfTN7JKSXfR9TjPP"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 285246,
       "name": "Five Years",
       "url": "https://open.spotify.com/track/7rmGBiCtvTv2Fh50FWZKHs"
@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/64zhv06ZKT442BXcPja3aE"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205433,
+      "name": "Just The Beginning",
+      "url": "https://open.spotify.com/track/2fMw2LCmWiDVVGCqMIxVOs"
+    },
+    {
+      "album": {
         "name": "I Am Not a Dog on a Chain",
         "url": "https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN"
       },
@@ -682,6 +700,46 @@
       "duration_ms": 273346,
       "name": "Long Shot",
       "url": "https://open.spotify.com/track/4Q5CLb0X0TekGSgkwn0jyj"
+    },
+    {
+      "album": {
+        "name": "Lost Inside Your Heart",
+        "url": "https://open.spotify.com/album/3KYaEaS8IySjbFUgjLIi74"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244756,
+      "name": "Lost Inside Your Heart",
+      "url": "https://open.spotify.com/track/6YTU4q4ti2tcqIUpbN63I1"
+    },
+    {
+      "album": {
+        "name": "Love Again (from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Love Again - from the Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2"
     },
     {
       "album": {
@@ -780,7 +838,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 219093,
       "name": "Mr Haze",
       "url": "https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ"

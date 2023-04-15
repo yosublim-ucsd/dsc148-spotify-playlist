@@ -845,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Fa Me Saa",
+        "url": "https://open.spotify.com/album/5M7PPOkCaqaLnR27LidUP4"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185571,
+      "name": "Fa Me Saa",
+      "url": "https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs"
+    },
+    {
+      "album": {
         "name": "Fakye",
         "url": "https://open.spotify.com/album/2dQzVzAlQXPiFEO4xTHGiX"
       },
@@ -1519,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Magic (with Slim Kofi)",
+        "url": "https://open.spotify.com/album/3mHNVPpAT202YZuT0nxNaD"
+      },
+      "artists": [
+        {
+          "name": "Wiz Ofuasia",
+          "url": "https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn"
+        },
+        {
+          "name": "Slim Kofi",
+          "url": "https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Magic (with Slim Kofi)",
+      "url": "https://open.spotify.com/track/1uvVtqWFD5ur2A45zo9FRm"
+    },
+    {
+      "album": {
         "name": "Sounds from the Slums",
         "url": "https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu"
       },
@@ -1907,6 +1951,36 @@
     },
     {
       "album": {
+        "name": "Oh Ma Linda",
+        "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
+    },
+    {
+      "album": {
         "name": "Ohemaa",
         "url": "https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0"
       },
@@ -2036,7 +2110,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 176116,
       "name": "Partey",
       "url": "https://open.spotify.com/track/5kT37vOS7z3VxV6o1B74cw"
@@ -2324,7 +2398,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 133392,
       "name": "Sho (feat. Mr Drew)",
       "url": "https://open.spotify.com/track/0FsTHHgr5E08aW0H7xcuF9"
@@ -2946,7 +3020,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 247880,
       "name": "Y3 b3 k) beebi",
       "url": "https://open.spotify.com/track/7hi9yX7NN5Fw5nAFhtMqQB"

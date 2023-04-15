@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,207 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,252 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 34 | [I Feel It](https://open.spotify.com/track/5FzuDFYmUFcvjraadJXv28) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [I Feel It](https://open.spotify.com/album/45DCBEkvzjYfjpZNaphhg3) | 2:35 |
 | 35 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
 | 36 | [Adiwele \(feat\. Kabza De Small & DJ Maphorisa\)](https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS) | [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Notumato](https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge) | 7:51 |
-| 37 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
-| 38 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 |
+| 37 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 |
+| 38 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
 | 39 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
 | 40 | [HEAT](https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [HEAT](https://open.spotify.com/album/3K2K785SdN3wozTA3krazb) | 3:07 |
 | 41 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 50 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 |
 
-Snapshot ID: `MTYzODcyNjkyNiwwMDAwMDAwMDAzZTE3YWY0ZWZlNTk4YTdkZWRjZjM1N2UxMzRlNWNk`
+Snapshot ID: `MTYzODcyNjkyNiwwMDAwMDAwMDkxNmZiYzRkMWVkYmU3NDI0NDg4MGEyZTcwZmJhMWJi`

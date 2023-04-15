@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: 女王蜂 & 満島ひかり
 
-679 songs - 1 day 15 hr 23 min
+680 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 | 2023-04-09 |  |
 | [10,000 reasons](https://open.spotify.com/track/0gOp375c3yrCY4XkiqsBIX) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [10,000 reasons](https://open.spotify.com/album/6kH4zeh04UPgsBrEpvNfmu) | 2:27 | 2023-02-26 | 2023-03-13 |
 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 | 2023-03-26 | 2023-04-03 |
-| [1990special](https://open.spotify.com/track/4aWrKVnlx0xQrrRXkLlhQw) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [1990special](https://open.spotify.com/album/6eALivzXxR9h9uPI4Aiiwp) | 4:14 | 2023-04-09 |  |
+| [1990special](https://open.spotify.com/track/4aWrKVnlx0xQrrRXkLlhQw) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [1990special](https://open.spotify.com/album/6eALivzXxR9h9uPI4Aiiwp) | 4:14 | 2023-04-09 | 2023-04-15 |
 | [2016](https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [2016](https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY) | 4:00 | 2023-04-02 | 2023-04-10 |
 | [2018](https://open.spotify.com/track/14ngMMVSdMqz8A3Eo52ZnI) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [2018](https://open.spotify.com/album/1O2odqL8RiYAtTmqUldVdQ) | 3:15 | 2023-02-19 | 2023-02-27 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-19 | 2023-02-27 |
@@ -78,6 +78,7 @@
 | [Breaking My Heart](https://open.spotify.com/track/0Bz7sidJkrYTnEQoYSxU0C) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Breaking My Heart](https://open.spotify.com/album/4F56jP5yIlOGBCL8NJBizD) | 2:43 | 2023-01-29 | 2023-02-13 |
 | [brownie](https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [brownie](https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4) | 2:32 | 2023-02-26 | 2023-03-06 |
 | [BUCHIAGESENTAI](https://open.spotify.com/track/2MqHcXXKfxjqouDsMQOVhM) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [BUCHIAGESENTAI](https://open.spotify.com/album/4Dwc5nAzAwY7PgrXjEXzTZ) | 4:01 | 2023-03-19 | 2023-03-27 |
+| [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-04-14 |  |
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-03-26 | 2023-04-03 |
 | [Bye Bye \(0331\)](https://open.spotify.com/track/4RwdPcdrJfmPXyxrAeS8c8) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 2:48 | 2023-04-02 | 2023-04-10 |
 | [California Girl](https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [California Girl](https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q) | 2:53 | 2023-02-19 | 2023-02-27 |

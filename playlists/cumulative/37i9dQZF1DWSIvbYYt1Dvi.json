@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "haikaiss \u00e9 AULAS ",
+  "description": "l7 \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -1824,6 +1824,32 @@
       "duration_ms": 198400,
       "name": "Lobo Solit\u00e1rio",
       "url": "https://open.spotify.com/track/0qzdA4ZdKqoTP4BEVpJdRu"
+    },
+    {
+      "album": {
+        "name": "Lote 88",
+        "url": "https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Lote 88",
+      "url": "https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09"
     },
     {
       "album": {

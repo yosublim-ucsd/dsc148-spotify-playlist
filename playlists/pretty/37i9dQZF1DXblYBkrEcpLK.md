@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,513 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,827 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 16 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 |
 | 17 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 |
 | 18 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 |
-| 19 | [Just do it](https://open.spotify.com/track/2hVmebNehDEYuYijsaNCbl) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)/ヒプノシスマイク \-D.R.B\- \(東方天乙統女\)](https://open.spotify.com/artist/15wiOdJPoGR2PRhoTTFH6H) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:24 |
+| 19 | [Just do it](https://open.spotify.com/track/2hVmebNehDEYuYijsaNCbl) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(東方天乙統女\)](https://open.spotify.com/artist/06T6xGOE6y3vciqX3sHb08) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:24 |
 | 20 | [SURVIVE](https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [SURVIVE](https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV) | 3:54 |
 | 21 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 |
-| 22 | [No Pain, Not to be Strong](https://open.spotify.com/track/0fARm3SivTnCDucLIrHHZx) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)/ヒプノシスマイク \-D.R.B\- \(勘解由小路無花果\)](https://open.spotify.com/artist/3e1ErPXtInQofuGxDQM10u) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:20 |
+| 22 | [No Pain, Not to be Strong](https://open.spotify.com/track/0fARm3SivTnCDucLIrHHZx) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(勘解由小路無花果\)](https://open.spotify.com/artist/3pKwnUM4f6ufAgOL5nA4PL) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:20 |
 | 23 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
 | 24 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
-| 25 | [Aino Uta](https://open.spotify.com/track/24gmMth9MSSf7718wryKKz) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Aino Uta / Chantoshitahito Futekigousha / Nanimo Wasureru Wakejanai](https://open.spotify.com/album/2uNHuaMGc9IYA3MlzNIgDy) | 4:21 |
+| 25 | [Aino Uta](https://open.spotify.com/track/5sf1C7Bml4va8nDYZbltBc) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Ureshii Koewo Honnochotto](https://open.spotify.com/album/3hiEm3dKM0x6p76360xXpT) | 4:21 |
 | 26 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 |
 | 27 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
-| 28 | [Independence day](https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)/ヒプノシスマイク \-D.R.B\- \(碧棺合歓\)](https://open.spotify.com/artist/4DcyTUIYuQ7oaxtUjzXpyE) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:22 |
+| 28 | [Independence day](https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(碧棺合歓\)](https://open.spotify.com/artist/1CSHxeBu5h05TF7rx3aTqa) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:22 |
 | 29 | [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 |
 | 30 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 31 | [Dear](https://open.spotify.com/track/6S0iISRQW7TK8OM3gN3NyE) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 5:01 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 44 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
 | 45 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
 | 46 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
-| 47 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
-| 48 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
+| 47 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
+| 48 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 | 49 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 50 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDE1YjMxNjAzMDlkMjk2NDNiZDk2M2MzZGJkYjg2Yzk3`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGM4YzVkYmU4NzRkOWYxODIxMmNlMmFkNzE5MThiYjc4`

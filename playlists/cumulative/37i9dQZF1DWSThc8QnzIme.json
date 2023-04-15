@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227610,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u"
+    },
+    {
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },

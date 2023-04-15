@@ -1,15 +1,15 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Jhayco",
-  "num_followers": 701439,
+  "num_followers": 701894,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEyNjg3MSwwMDAwMDAwMGY0NDVlOWY5YmE3MTZlODYzMDg1ZGQyNDU3OTEzZjlh",
+  "snapshot_id": "MTY4MTQ2NTQ5OSwwMDAwMDAwMDM2Zjk3Y2JkODcyNjlkYzAyYmI0OWJlZjc2ZjM5NTE1",
   "tracks": [
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
@@ -29,14 +29,14 @@
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Cuerpecito",
         "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
       },
       "artists": [
         {
-          "name": "JhayCo",
+          "name": "Jhayco",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
@@ -45,27 +45,7 @@
       "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Si La Calle Llama - Remix",
-      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
-    },
-    {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Classy 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
@@ -85,7 +65,27 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Si La Calle Llama - Remix",
+      "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -101,43 +101,27 @@
       "url": "https://open.spotify.com/track/2SRiJNA3yILEMOPbETtL6M"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
-        "name": "Sikora",
-        "url": "https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u"
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Sikora",
-      "url": "https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv"
-    },
-    {
-      "added_at": "2023-04-10 11:41:11",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 214125,
-      "name": "T\u00fa No Lo Amas",
-      "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -153,27 +137,23 @@
       "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 214125,
+      "name": "T\u00fa No Lo Amas",
+      "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
@@ -193,7 +173,63 @@
       "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2023-04-14 09:44:59",
+      "album": {
+        "name": "Sikora",
+        "url": "https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Sikora",
+      "url": "https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv"
+    },
+    {
+      "added_at": "2023-04-14 09:44:59",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "DOMINGO DE BOTE",
+      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
+    },
+    {
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "M.A (Mejores Amigos)",
         "url": "https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
@@ -253,7 +289,7 @@
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
@@ -273,7 +309,7 @@
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Cosas Locas 2.0",
         "url": "https://open.spotify.com/album/5PMH8pV4lGzvyEY3PWcTVz"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/0R4ZQFb0RmTAiQY22SbnSM"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Las Bratz (Remix)",
         "url": "https://open.spotify.com/album/6c5uQ7ApweOF7C9mw7Bvge"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Xexo",
         "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "1371 KM",
         "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "En Bajita",
         "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
@@ -421,9 +457,9 @@
       "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
-        "name": "D X Vida",
+        "name": "D X VIDA",
         "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
       },
       "artists": [
@@ -437,11 +473,11 @@
         }
       ],
       "duration_ms": 182576,
-      "name": "D X Vida",
+      "name": "D X VIDA",
       "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
@@ -461,23 +497,7 @@
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "DOMINGO DE BOTE",
-      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
-    },
-    {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/1A9PKAFEHMWgXNLpgf7k4J"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Tuenti (Remix)",
         "url": "https://open.spotify.com/album/5tvMf5MkyB97XVuVLa4xSd"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/1ZkIxbmM3ZUhn2OayBdwe5"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "TAMO EN NOTA",
         "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Vida Gangster",
         "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "LACONE",
         "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/50naDXYjnGlLgrE7yUxsok"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "AGUARDIENTE",
         "url": "https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
-      "added_at": "2023-04-10 11:41:11",
+      "added_at": "2023-04-14 09:44:59",
       "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"

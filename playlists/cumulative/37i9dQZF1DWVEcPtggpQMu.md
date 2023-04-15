@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=DqKrM2Q8TNKiqJzn3waOWw">K.O</a>, <a href="https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ?si=OEr8rpk0S5\-mdn598rGcpQ">Young Stunna</a>, <a href="https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=hzVOsNWQS96b0aD4Fe7KAg">Diamond Platinumz</a> and <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=ix1NILhoSr6dl2gEG932Tw">Oxlade</a>.
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL?si=MK3uAzZpS\-OsM3t2Y5qHkQ">The Big Hash</a>.
 
 505 songs - 1 day 3 hr 39 min
 

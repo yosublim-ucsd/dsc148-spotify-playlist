@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1541,
+  "num_followers": 1543,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDMyZjU2NzE4NmMzYWZkM2RkNmIxMjZmYTY3MTFhMmQ5",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDIzZGIxMDdkNjIwZDVmYTI4NDU2ZTczMGU1MTFlZWNl",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -127,22 +127,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "16 Most Requested Songs Of The 1950s. Volume One",
         "url": "https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 141040,
       "name": "Istanbul (Not Constantinople)",
       "url": "https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
       "added_at": "2020-08-17 22:49:59",

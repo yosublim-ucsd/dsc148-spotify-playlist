@@ -954,10 +954,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 235024,
       "name": "Halfway Up",
       "url": "https://open.spotify.com/track/3vDa3TYf1nnmmc9DiSviwX"
+    },
+    {
+      "album": {
+        "name": "Halfway Up",
+        "url": "https://open.spotify.com/album/4cohuiRf3OeHcaCbX9K9tM"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235024,
+      "name": "Halfway Up",
+      "url": "https://open.spotify.com/track/4F10pOSHH9hrpLxPK9S4IR"
     },
     {
       "album": {

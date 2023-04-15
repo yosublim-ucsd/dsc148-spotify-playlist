@@ -330,7 +330,7 @@
       },
       "artists": [
         {
-          "name": "Platform Tz",
+          "name": "Platform",
           "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
         },
         {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 207226,
       "name": "Mbabaifu",
       "url": "https://open.spotify.com/track/1GM6D0xdZxL7l42m44WLOi"
@@ -830,6 +830,24 @@
       "duration_ms": 262426,
       "name": "Natamani",
       "url": "https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM"
+    },
+    {
+      "album": {
+        "name": "Naumia",
+        "url": "https://open.spotify.com/album/70hchTWlKZnkowXc624R7v"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224442,
+      "name": "Naumia",
+      "url": "https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F"
     },
     {
       "album": {
@@ -1241,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Uongo",
+        "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
+      },
+      "artists": [
+        {
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206455,
+      "name": "Uongo",
+      "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
+    },
+    {
+      "album": {
         "name": "Viburi",
         "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
       },
@@ -1256,7 +1292,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 201967,
       "name": "Viburi",
       "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"

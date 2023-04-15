@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 109071,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/0XXqboZ9ZtAxZPedAzrwIr"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 148153,
       "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
       "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
@@ -2452,6 +2452,32 @@
       "duration_ms": 135988,
       "name": "Drop It Like It's Hot!",
       "url": "https://open.spotify.com/track/07lMhgpMlwHXQgEs2pXmhg"
+    },
+    {
+      "album": {
+        "name": "dropitlikeitshot!",
+        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105486,
+      "name": "dropitlikeitshot!",
+      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
     },
     {
       "album": {
@@ -3769,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "HOJE EU VOU COMER NOVINHA",
+        "url": "https://open.spotify.com/album/7FNd2yodzN9NDZTBJhI2Eh"
+      },
+      "artists": [
+        {
+          "name": "DJ AG O GRINGO",
+          "url": "https://open.spotify.com/artist/5x5QpMsxPAaMgm0bxQyKJC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107128,
+      "name": "HOJE EU VOU COMER NOVINHA 02",
+      "url": "https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N"
+    },
+    {
+      "album": {
         "name": "Hollowpoint",
         "url": "https://open.spotify.com/album/7Dyr62BFTj74AQlMjOkm4L"
       },
@@ -4960,7 +5004,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 101500,
       "name": "medusa!",
       "url": "https://open.spotify.com/track/0V1nzshK4HW8wSI8q2Nymz"
@@ -5440,7 +5484,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 109090,
       "name": "NECRONOMICON",
       "url": "https://open.spotify.com/track/2STMQUdqdQxCObIOkpk7DX"
@@ -5958,6 +6002,24 @@
       "duration_ms": 108576,
       "name": "PECCATO",
       "url": "https://open.spotify.com/track/6qkwUittUOmkUdiIbScZQv"
+    },
+    {
+      "album": {
+        "name": "CAFFEINEE",
+        "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104521,
+      "name": "PHONK (200mg)",
+      "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
     },
     {
       "album": {
@@ -8043,7 +8105,7 @@
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 186279,
+      "duration_ms": 186041,
       "name": "The Perfect Phonk",
       "url": "https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw"
     },
@@ -8653,6 +8715,50 @@
     },
     {
       "album": {
+        "name": "VOLTAGE",
+        "url": "https://open.spotify.com/album/0zv5KKqqIta6DctPU07yRr"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        },
+        {
+          "name": "KXNVRA",
+          "url": "https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127750,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/57imsUFDfNUFWj7h6KvIA9"
+    },
+    {
+      "album": {
+        "name": "VUK VUK",
+        "url": "https://open.spotify.com/album/4oxCXdKXFj1fTSbqQ4sOaX"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        },
+        {
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136398,
+      "name": "VUK VUK",
+      "url": "https://open.spotify.com/track/50a8i9ASSSsh8OLUsMu6uL"
+    },
+    {
+      "album": {
         "name": "WAKE UP!",
         "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
       },
@@ -8952,7 +9058,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 164584,
       "name": "WORLD DOMINATION",
       "url": "https://open.spotify.com/track/3QWDRiyQMs5D5EGuCJvPAK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,006 likes - 400 songs - 1 day 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,091 likes - 400 songs - 1 day 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [First Song](https://open.spotify.com/track/3PsEztkJz9a5NsIgqzl3wd) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [First Song](https://open.spotify.com/album/1gdQmvCLSFSHvwA5NcjYgj) | 6:53 |
 | 400 | [Blue In Green](https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r) | 2:59 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDI5ZDdiYzA1OWM0Y2VlNDc0ZWQ0YjhlMDYwZGI0MTBm`
+Snapshot ID: `MTY4MTQ2NjY0NywwMDAwMDAwMGQ1ZDUyNGVhNDgxNjkxM2ZjMDE5MzIyMGRjMjQxMGQx`

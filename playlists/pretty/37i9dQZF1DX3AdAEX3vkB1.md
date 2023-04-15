@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,507 likes - 134 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,779 likes - 134 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 75 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 |
 | 76 | [Friday On My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 77 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 |
-| 78 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
-| 79 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
+| 78 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
+| 79 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
 | 80 | [Baby, You’ve Got What It Takes](https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:45 |
 | 81 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 |
 | 82 | [Luck Be A Lady](https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh) | 5:14 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 108 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 109 | [It's In The Kiss \(The Shoop Shoop Song\)](https://open.spotify.com/track/35hfuechuOqaW31ogdauO7) | [Betty Everett](https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl) | [No Place To Hide](https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q) | 2:09 |
 | 110 | [Walkin' Back to Happiness](https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:31 |
-| 111 | [A Rockin' Good Way \(To Mess Around And Fall In Love\)](https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:28 |
-| 112 | [You're Sixteen, You're Beautiful \(And You're Mine\)](https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4) | [Johnny Burnette](https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl) | [Johnny Burnette's Hits And Other Favorites](https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs) | 1:59 |
+| 111 | [You're Sixteen, You're Beautiful \(And You're Mine\)](https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4) | [Johnny Burnette](https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl) | [Johnny Burnette's Hits And Other Favorites](https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs) | 1:59 |
+| 112 | [A Rockin' Good Way \(To Mess Around And Fall In Love\)](https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:28 |
 | 113 | [Twistin' the Night Away](https://open.spotify.com/track/6ys9oyFvw7FXbs5UMZ7I7s) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:39 |
 | 114 | [Things](https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Things & Other Things](https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3) | 2:31 |
 | 115 | [Poetry In Motion \- 1960 \#2 Billboard chart hit](https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:34 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 133 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 134 | [I Want To Hold Your Hand \- Remastered 2009](https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:26 |
 
-Snapshot ID: `MTY2OTk2NTUxNCwwMDAwMDAwMDBlNTQ5NWYyYjM5Njc2NzlhYmQyNmUxOTZjYTMwOTE5`
+Snapshot ID: `MTY2OTk2NTUxNCwwMDAwMDAwMGQzYzcyMmY3NjJhZDI2ZjM0MTlkMmM4MjJkN2Q3OGQ1`

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Cupid (Sped Up) [Remix]",
+        "url": "https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp"
+    },
+    {
+      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D"
       },
@@ -5255,24 +5273,6 @@
     },
     {
       "album": {
-        "name": "Cupid (Sped Up) [Remix]",
-        "url": "https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba"
-      },
-      "artists": [
-        {
-          "name": "Bull Beats",
-          "url": "https://open.spotify.com/artist/1mIqiRD1b8fQAMQyLJEawN"
-        }
-      ],
-      "date_added": "2023-04-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142916,
-      "name": "Cupid (Sped Up) - Remix",
-      "url": "https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp"
-    },
-    {
-      "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
       },
@@ -9611,6 +9611,24 @@
     },
     {
       "album": {
+        "name": "GTA IV",
+        "url": "https://open.spotify.com/album/4kb9aD0hlYl8V1ubktpHUG"
+      },
+      "artists": [
+        {
+          "name": "Raul Apxpei",
+          "url": "https://open.spotify.com/artist/4WHGb6eSnaaS9cbTJYEo6l"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "GTA IV",
+      "url": "https://open.spotify.com/track/4anem4UYsj3JAJUucRMrrO"
+    },
+    {
+      "album": {
         "name": "G\u00f6ky\u00fcz\u00fcn\u00fc Tutamam",
         "url": "https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M"
       },
@@ -12072,7 +12090,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197697,
       "name": "Just H-eaven",
       "url": "https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q"
@@ -13444,7 +13462,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 204215,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/6Mhgvrv4zd82FrCeuASW44"
@@ -20048,7 +20066,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
@@ -25914,6 +25932,24 @@
     {
       "album": {
         "name": "VVS",
+        "url": "https://open.spotify.com/album/3fSxAwJqvmGvGkiEME4hLj"
+      },
+      "artists": [
+        {
+          "name": "glocklord",
+          "url": "https://open.spotify.com/artist/2Xxw1YaKucgUXQ9vVr5au9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163728,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/4JZ8IStL5OpkyzYKV0fMKg"
+    },
+    {
+      "album": {
+        "name": "VVS",
         "url": "https://open.spotify.com/album/2cZv2QPIn6czgM3jwYahRv"
       },
       "artists": [
@@ -25924,7 +25960,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163840,
       "name": "VVS",
       "url": "https://open.spotify.com/track/0wUA5VlwL9L25IPRy48LL9"

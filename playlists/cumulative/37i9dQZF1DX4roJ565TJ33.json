@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Bluesette",
+        "url": "https://open.spotify.com/album/5LBfSf4XKVQBHYltwlx8Mo"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Bluesette",
+      "url": "https://open.spotify.com/track/1MqInvGraj8qCVDnj7XN4p"
+    },
+    {
+      "album": {
         "name": "Bl\u00e5a Dar",
         "url": "https://open.spotify.com/album/75na6wT3GKe2HUEczxKBiQ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,614 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,667 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 85 | [Immersed in Black Water \- Linn Elisabet You Will Version](https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX) | [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g), [Linn Elisabet](https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP) | [Immersed in Black Water \(Linn Elisabet You Will Version\)](https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx) | 3:32 |
 | 86 | [18:00](https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Rare Backwards](https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8) | 3:39 |
 | 87 | [Prologue](https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y) | [Hisaki Kato](https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U) | [One Day, You Will Reach The Sea \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL) | 2:26 |
-| 88 | [Pisces](https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Aquarius/Pisces](https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W) | 4:58 |
-| 89 | [Bones Knowing](https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Bones Knowing](https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG) | 4:00 |
+| 88 | [Bones Knowing](https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Bones Knowing](https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG) | 4:00 |
+| 89 | [Pisces](https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Aquarius/Pisces](https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W) | 4:58 |
 | 90 | [Sudany](https://open.spotify.com/track/2zY9uXtDJ5Qf4XVXwDlc78) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Sudany](https://open.spotify.com/album/3LAoQzv2tyJVNuf2amKTCp) | 4:20 |
 | 91 | [Abiogenesis](https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Philip I Schneider](https://open.spotify.com/artist/6jNPFpAGou2NfLUIUo7X8P) | [Kasper Bjørke Quartet: Abiogenesis](https://open.spotify.com/album/3QcNobksry2yytTgmxFq36) | 12:24 |
 | 92 | [Lämpö](https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Dalmarnock Tapes](https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7) | 5:14 |
 | 93 | [Respite](https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [Respite](https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI) | 3:47 |
 | 94 | [Epic Mirage](https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Grand Views](https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1) | 5:06 |
-| 95 | [From the Sea](https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF) | 11:47 |
-| 96 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
+| 95 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 |
+| 96 | [From the Sea](https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig) | [Serena Gabriel](https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Seeing Inside](https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF) | 11:47 |
 | 97 | [in altar wine](https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [in altar wine](https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9) | 5:34 |
 | 98 | [For You I Am Missing …](https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 3:18 |
 | 99 | [chamomile](https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [chamomile](https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj) | 4:02 |
 | 100 | [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 |
 
-Snapshot ID: `MTY4MTQwMjEyOCwwMDAwMDAwMDQxYjhlMGNhZmZkYjM1NmM0YmIxOWMyNGM4ZDU0MjM5`
+Snapshot ID: `MTY4MTQwMjEyOCwwMDAwMDAwMGQ5MDE2MjVkYWVmNGMwZGFmNjI0NzRjZmVjNTBiODlk`

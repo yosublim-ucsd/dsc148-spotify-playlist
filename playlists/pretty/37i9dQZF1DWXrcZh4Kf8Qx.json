@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 211633,
+  "num_followers": 211795,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQ5NiwwMDAwMDAwMGUxYmE2ZWI1ZTBiNjM0MWQzODZiNTFlNDJiOTFjNmZj",
+  "snapshot_id": "MTY3MjY4MTQ5NiwwMDAwMDAwMDZkY2M3OTg0NGJlNDkwODAwODM4YTc1OGQ0ODBhMzA3",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "Spirits Having Flown",
         "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 155453,
       "name": "Crazy Love - 2013 Remaster",
       "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "Hollies",
         "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228932,
-      "name": "Candle In The Wind - Remastered 2014",
-      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
     },
     {
       "added_at": "2023-01-02 17:44:56",

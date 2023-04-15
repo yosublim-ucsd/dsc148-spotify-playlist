@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 261747,
+  "num_followers": 261769,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMDNiY2VkZjcwZWRhMTZjZjQ4ZDg4Nzg1OTk4ODBjZTE5",
+  "snapshot_id": "MTY3ODgxODMxOSwwMDAwMDAwMDMxZDFkNDcxN2ZmN2IwZmRiMGY0MTk1YmI1MjBmZDgy",
   "tracks": [
     {
       "added_at": "2023-03-11 00:52:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Weekend Friend",
-        "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Weekend Friend",
-      "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Weekend Friend",
+        "url": "https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Weekend Friend",
+      "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Our Extended Play",
-        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "Cologne",
-      "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "Cologne",
+      "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 261560,
       "name": "Soundcheck",
       "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
     },
     {
-      "added_at": "2023-04-14 00:44:20",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
       "added_at": "2023-03-11 00:52:02",
       "album": {
         "name": "Worst Case Kid",
@@ -1477,20 +1461,20 @@
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
-      "added_at": "2023-03-11 00:52:02",
+      "added_at": "2023-04-15 01:04:22",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
         }
       ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-03-11 00:52:02",
       "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
         "name": "Summer Vibe",
         "url": "https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 200292,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
-    },
-    {
-      "added_at": "2023-03-11 00:52:02",
-      "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Cheer Up Baby",
-      "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
     },
     {
       "added_at": "2023-03-11 00:52:02",
@@ -1579,6 +1563,22 @@
       "duration_ms": 202546,
       "name": "Loverini (feat. L'Imp\u00e9ratrice)",
       "url": "https://open.spotify.com/track/6bBN2bbxAnCXWTwXaOkF0X"
+    },
+    {
+      "added_at": "2023-03-11 00:52:02",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Cheer Up Baby",
+      "url": "https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ"
     },
     {
       "added_at": "2023-03-11 00:52:02",

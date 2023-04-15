@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  新しい学校のリーダーズ \(ATARASHII GAKKO!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,432 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,442 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 |
+| 1 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 |
 | 2 | [エネルギー](https://open.spotify.com/track/12fiV86rtHEg4fLSo3qqg8) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 4:28 |
 | 3 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 |
 | 4 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 |
 | 50 | [FIRST STEP](https://open.spotify.com/track/0jlgX7f6gbUX3xuCZyCHmP) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [FIRST STEP](https://open.spotify.com/album/2la9wHGIteZN8ipPkXgkfQ) | 3:29 |
 
-Snapshot ID: `MTY4MTIzMTM3OSwwMDAwMDAwMGMwNzAyNGQyYmE2OTA3NTliMGRiMWJmOTI5NzYwMWNj`
+Snapshot ID: `MTY4MTIzMTM3OSwwMDAwMDAwMGNlMWZjNTdhZDcxMjhhYjZlYTg5MjMyZGFlNjI1NGZm`

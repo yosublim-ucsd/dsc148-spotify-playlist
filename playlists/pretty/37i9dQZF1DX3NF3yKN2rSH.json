@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54121,
+  "num_followers": 54127,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTAzMDE3OSwwMDAwMDAwMDBmNzdjZTgxOTBiYWJiZWEyZjkwNWQ0ZDUwNTk2ODA4",
+  "snapshot_id": "MTY4MTAzMDE3OSwwMDAwMDAwMDhiM2NjM2UzMmU3YThmNTRlZTYyZDFjOGFmZjQ2YzBj",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -343,8 +343,8 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "He Paid It All",
+      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live... This Is Your House",
         "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
       },
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
-      },
-      "artists": [
-        {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "He Paid It All",
-      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 427640,
       "name": "Easter (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "He Got Up",
-        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
-      },
-      "artists": [
-        {
-          "name": "Deacon D.A.S.",
-          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "He Got Up",
-      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "My Very OWN Easter - EP",
-        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 467130,
-      "name": "The Blood Will Never Lose Its Power",
-      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 467186,
       "name": "Finished Work - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "My Very OWN Easter - EP",
+        "url": "https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 467130,
+      "name": "The Blood Will Never Lose Its Power",
+      "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Donald Lawrence & The Tri-City Singers Collection",
-        "url": "https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs"
-      },
-      "artists": [
-        {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
-        }
-      ],
-      "duration_ms": 328253,
-      "name": "These Nails - Live",
-      "url": "https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Family & Friends Choir III",
         "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Donald Lawrence & The Tri-City Singers Collection",
+        "url": "https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+        }
+      ],
+      "duration_ms": 328253,
+      "name": "These Nails - Live",
+      "url": "https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl"
     },
     {
       "added_at": "2023-04-09 08:49:39",

@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop Cover: Sullivan King \\m/",
-  "num_followers": 301973,
+  "num_followers": 302069,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMGQwZjdiYTBhNDBkZmVmZWM2NDIyY2YwZmM2MTBkYjk2",
+  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMDc2OTU3OTY5YWZjOWE3OWVhNjQxZTlkODYzYzMxMzI0",
   "tracks": [
     {
       "added_at": "2023-03-31 16:44:40",
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
-      "added_at": "2023-04-14 00:16:45",
+      "added_at": "2023-04-15 00:51:56",
       "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s"
     },
     {
-      "added_at": "2023-04-14 00:16:45",
+      "added_at": "2023-04-15 00:51:56",
       "album": {
         "name": "Church Outfit",
         "url": "https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH"
@@ -377,27 +377,7 @@
       "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
     },
     {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 325501,
-      "name": "nihilist blues (feat. Grimes)",
-      "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
-    },
-    {
-      "added_at": "2023-04-14 00:16:45",
+      "added_at": "2023-04-15 00:51:56",
       "album": {
         "name": "Do Or Die (Alternate Versions)",
         "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
@@ -419,6 +399,26 @@
       "duration_ms": 148153,
       "name": "Do Or Die - VYPER \uae68\ubb3c\ub2e4 PHONK REMIX",
       "url": "https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 325501,
+      "name": "nihilist blues (feat. Grimes)",
+      "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
+        "name": "The Great Electronic Swindle",
+        "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "My Name Is Thunder",
+      "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
         "name": "COMPLICATED (feat. aldn & 8485)",
         "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
-    },
-    {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
-        "name": "The Great Electronic Swindle",
-        "url": "https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi"
-      },
-      "artists": [
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "My Name Is Thunder",
-      "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
-        "name": "This Will Be My Year",
-        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "This Will Be My Year",
-      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
-    },
-    {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
+        "name": "This Will Be My Year",
+        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "This Will Be My Year",
+      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -1097,7 +1097,7 @@
       "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
-      "added_at": "2023-04-14 00:16:45",
+      "added_at": "2023-04-15 00:51:56",
       "album": {
         "name": "Don't Miss (The Bloody Beetroots Remix)",
         "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
-    },
-    {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
+        "name": "The Dead March",
+        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 162356,
+      "name": "The Dead March",
+      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
-        "name": "The Dead March",
-        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 162356,
-      "name": "The Dead March",
-      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
-        "name": "Baptize (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/170AbiVPb4OIprabzweN14"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Baptize - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw"
-    },
-    {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
         "name": "LOVE ME",
         "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 204705,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
+        "name": "Baptize (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/170AbiVPb4OIprabzweN14"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Baptize - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -1931,30 +1931,6 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
-        "name": "Not Letting Go",
-        "url": "https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV"
-      },
-      "artists": [
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        },
-        {
-          "name": "Highlnd",
-          "url": "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Not Letting Go",
-      "url": "https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ"
-    },
-    {
-      "added_at": "2023-03-31 16:44:40",
-      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -1979,22 +1955,26 @@
     {
       "added_at": "2023-03-31 16:44:40",
       "album": {
-        "name": "Money Makes The World Go Round",
-        "url": "https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw"
+        "name": "Not Letting Go",
+        "url": "https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV"
       },
       "artists": [
         {
-          "name": "JAXSON GAMBLE",
-          "url": "https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI"
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
         },
         {
-          "name": "New Politics",
-          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
+          "name": "Highlnd",
+          "url": "https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Money Makes The World Go Round",
-      "url": "https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC"
+      "duration_ms": 183600,
+      "name": "Not Letting Go",
+      "url": "https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -2015,6 +1995,26 @@
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
+    },
+    {
+      "added_at": "2023-03-31 16:44:40",
+      "album": {
+        "name": "Money Makes The World Go Round",
+        "url": "https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw"
+      },
+      "artists": [
+        {
+          "name": "JAXSON GAMBLE",
+          "url": "https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI"
+        },
+        {
+          "name": "New Politics",
+          "url": "https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Money Makes The World Go Round",
+      "url": "https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC"
     },
     {
       "added_at": "2023-03-31 16:44:40",
@@ -2461,6 +2461,22 @@
       "url": "https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a"
     },
     {
+      "added_at": "2023-04-15 00:51:56",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
+      },
+      "artists": [
+        {
+          "name": "Mausio",
+          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
+    },
+    {
       "added_at": "2023-03-31 16:44:40",
       "album": {
         "name": "Sick",
@@ -2483,22 +2499,6 @@
       "duration_ms": 229090,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"
-    },
-    {
-      "added_at": "2023-04-14 00:16:45",
-      "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
-      },
-      "artists": [
-        {
-          "name": "Mausio",
-          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
     }
   ],
   "unique_name": "Rocktronic",

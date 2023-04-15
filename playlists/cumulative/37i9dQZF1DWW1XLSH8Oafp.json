@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Android",
+        "url": "https://open.spotify.com/album/4innCzukRuQ8dcH5WCUDYi"
+      },
+      "artists": [
+        {
+          "name": "Yony x Malla",
+          "url": "https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "Android",
+      "url": "https://open.spotify.com/track/1z1dLKCC2BOANrXAkSZnEJ"
+    },
+    {
+      "album": {
         "name": "ANGEL",
         "url": "https://open.spotify.com/album/2PW5mn3I40LZWKhI1AKCgL"
       },
@@ -1124,6 +1142,24 @@
       "duration_ms": 271952,
       "name": "Belrose",
       "url": "https://open.spotify.com/track/6dbDa8wIo1cz317ID3PoEK"
+    },
+    {
+      "album": {
+        "name": "BFF \u221e",
+        "url": "https://open.spotify.com/album/7xgkkeop4nr5w3L3vR3jsl"
+      },
+      "artists": [
+        {
+          "name": "sonic girl",
+          "url": "https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119360,
+      "name": "BFF \u221e",
+      "url": "https://open.spotify.com/track/0nQJwGu6N7yMeXrmoqgkKp"
     },
     {
       "album": {
@@ -8934,6 +8970,24 @@
       "duration_ms": 215386,
       "name": "Soma",
       "url": "https://open.spotify.com/track/7KQ6WnRzf34MrwcFLpgO6k"
+    },
+    {
+      "album": {
+        "name": "Some Fries",
+        "url": "https://open.spotify.com/album/5Nm2Zzs061hmSNfa8o0oOh"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Some Fries",
+      "url": "https://open.spotify.com/track/2dWQBlnjp91yZhJZ9V8NgT"
     },
     {
       "album": {

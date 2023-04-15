@@ -1,13 +1,33 @@
 {
-  "description": "The feelings you can't put into words...only songs. Cover: THEY.",
-  "num_followers": 40727,
+  "description": "Let the songs speak. Cover: Yung Bleu",
+  "num_followers": 40749,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGE0MzI4NjE1OWUzY2M2Nzk4OTZhYjFhZGVlOTE5NzA5",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGRmOTA2MTU2ZjFhYzNkODAxODQyN2FiM2RjOTc4NTYz",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
+    },
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
@@ -45,22 +65,6 @@
       "url": "https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Meet Me Upstrz",
@@ -93,26 +97,6 @@
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Tripolar 3",
-        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Strip for You (feat. Vedo)",
-      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "WASTELAND",
@@ -127,6 +111,22 @@
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
-    },
-    {
       "added_at": "2022-09-23 04:09:12",
       "album": {
         "name": "Ctrl (Deluxe)",
@@ -257,6 +241,22 @@
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
       "added_at": "2022-10-07 16:24:50",
       "album": {
         "name": "Ride",
@@ -297,20 +297,20 @@
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-10-28 04:22:42",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+    },
+    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "Spotify Singles",
@@ -363,22 +379,6 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 162006,
-      "name": "ROLLING STONE",
-      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
+      "duration_ms": 192787,
+      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "The Lead",
@@ -539,6 +523,22 @@
       "duration_ms": 201621,
       "name": "Feature Me",
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 162006,
+      "name": "ROLLING STONE",
+      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1549,6 +1549,42 @@
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tripolar 3",
+        "url": "https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Strip for You (feat. Vedo)",
+      "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Layin Next to Me",
@@ -1679,38 +1715,6 @@
       "duration_ms": 198888,
       "name": "How Many",
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 135024,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "From Me, To Me",
-        "url": "https://open.spotify.com/album/4IQMv39CumpjHwaqr9yvhI"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Opps",
-      "url": "https://open.spotify.com/track/2b2WMIC8YCeCAjxSi4IEPg"
     }
   ],
   "unique_name": "Some Kinda Way",

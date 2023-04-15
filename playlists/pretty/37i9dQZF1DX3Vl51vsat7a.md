@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,192 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 11 | [Physical Aspects Of Disco](https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Somebody EP](https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7) | 6:26 |
 | 12 | [Zug](https://open.spotify.com/track/4HzI51MtylzWfyHt5M9dAX) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Soul über Ego](https://open.spotify.com/album/1UsBo0GLw8Ob7rotm0mgD5) | 2:15 |
 | 13 | [Bedroom Exile](https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Bedroom Exile](https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY) | 3:18 |
-| 14 | [Running Round](https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Running Round](https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez) | 3:31 |
+| 14 | [Running Round](https://open.spotify.com/track/4dLYd0hKIAcs3C7hQpPCVD) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [2CRY4 \- a selection of sincere electronic ballads](https://open.spotify.com/album/4RvzwMe5M2CUenh2xw5T6K) | 3:31 |
 | 15 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 |
 | 16 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 |
 | 17 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Tut mir nicht leid](https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [M \(Extended\)](https://open.spotify.com/album/1AnZRh08V385fqDx1qw979) | 3:02 |
 | 60 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDg4YjA2YzdmMjBkOTUxNjViMGVlYzNkYThjZDk5NGMy`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDFiMzIwMDU3ZTM2YTU0ZWYxZWYyNThlOGU4YjZhNzdm`

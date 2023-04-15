@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe?si=WcaDnh3hQtuLxm4UfSL8fQ\">Travis Greene</a> and <a href=\"https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH?si=FvNnIoGsQk-hxD-jY2Wfbg\">Forward City</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6?si=f65c81015eac42c2\">Gene Moore</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 203436,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7G190RQJ8ASH3w4vO5ueyw"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 235493,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2DqCvLwQ5ardSLPJ7RdgOA"
@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/3dkpGGQGrK3uQFbeK1UhkC"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361423,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4pdbH0da7odBPlxzgGn6Dj"
+    },
+    {
+      "album": {
         "name": "God Is Able (Radio Edit)",
         "url": "https://open.spotify.com/album/7q5Uq7OXheybL3Zm5pHnou"
       },
@@ -2236,6 +2254,24 @@
       "duration_ms": 250658,
       "name": "House of the Lord (No Limits)",
       "url": "https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj"
+    },
+    {
+      "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178889,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
     },
     {
       "album": {

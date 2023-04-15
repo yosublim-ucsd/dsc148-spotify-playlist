@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,327 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,515 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 66 | [Joãozinho Boa Pinta](https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Rio Bahia](https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg) | 2:28 |
 | 67 | [Meditação](https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:17 |
 | 68 | [S'Wonderful](https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:27 |
-| 69 | [O Gato](https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:26 |
-| 70 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 |
+| 69 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 |
+| 70 | [O Gato](https://open.spotify.com/track/0YUaViwX9I554N7MYYxqcM) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:26 |
 | 71 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 |
 | 72 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 |
 | 73 | [Aquela Bossa Axé](https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S) | [Affonsinho](https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ) | [Belê](https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx) | 4:29 |
-| 74 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
-| 75 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 |
+| 74 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 |
+| 75 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
 | 76 | [Praia à noite](https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:00 |
-| 77 | [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 |
-| 78 | [Bossa Nova Cha Cha](https://open.spotify.com/track/2yWmBpgvwr8G5W71mTVwDt) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Composer Of Black Orpheus Plays And Sings Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ) | 3:20 |
+| 77 | [Bossa Nova Cha Cha](https://open.spotify.com/track/2yWmBpgvwr8G5W71mTVwDt) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Composer Of Black Orpheus Plays And Sings Bossa Nova](https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ) | 3:20 |
+| 78 | [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 |
 | 79 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 |
 | 80 | [Fusion](https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Rosa](https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU) | 5:07 |
 | 81 | [Águas de Março](https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [I Wish I Knew How It Would Feel to be Free \- Studio Rio Version](https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 4:53 |
 | 100 | [Águas Do Passado](https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Águas Do Passado](https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp) | 2:22 |
 
-Snapshot ID: `MTY4MTM3MTkxMSwwMDAwMDAwMGZlMzdiZWMyZjcwZDYyODE3NWFiNTM5M2RlNDljZTBk`
+Snapshot ID: `MTY4MTM3MTkxMSwwMDAwMDAwMDAyMmE0YTg0NzgwMmJmY2YyNjczNDQxNjQ3ZTdhMjE2`

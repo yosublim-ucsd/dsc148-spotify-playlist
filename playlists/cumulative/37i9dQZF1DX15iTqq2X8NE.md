@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-136 songs - 8 hr 44 min
+137 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 | 2021-12-09 | 2022-07-29 |
 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 | 2021-12-09 | 2022-12-06 |
 | [Mango](https://open.spotify.com/track/3KjHzQBWVP8ZoLvAunNBnF) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Dépaysé](https://open.spotify.com/album/3TCAGitdvxPinzCDSrP0uv) | 4:02 | 2021-12-09 | 2022-07-13 |
-| [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 | 2022-11-24 |  |
+| [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 | 2022-11-24 | 2023-04-15 |
 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 | 2021-12-09 |  |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/4tB0DZqgYqg0lY2GhW2sbH) | 2:38 | 2021-12-09 | 2022-07-28 |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 | 2022-07-28 |  |
@@ -143,6 +143,7 @@
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-08-23 | 2023-04-13 |
 | [فرصة](https://open.spotify.com/track/7vhFycpTFRJRxupGBBbLJb) | [Gadoora](https://open.spotify.com/artist/1teHDQLqalpAJfWIxqi2N1) | [فرصة](https://open.spotify.com/album/07FW0qQHN0rt89U6Rwueyj) | 2:04 | 2022-08-04 | 2022-09-11 |
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-30 | 2023-04-13 |
+| [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/track/2CGwAtvjAvC5gjSqg70pm1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/album/0fZa8i60neztf1sbWw81x5) | 2:44 | 2023-03-19 |  |
 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 | 2021-12-09 | 2022-08-22 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

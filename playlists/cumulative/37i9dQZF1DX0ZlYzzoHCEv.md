@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-288 songs - 13 hr 29 min
+289 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-21 | 2022-07-26 |
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-12-16 | 2023-01-14 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-09 | 2022-10-05 |
-| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-12-16 |  |
+| [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-12-16 | 2023-04-15 |
+| [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-07 |  |
 | [Essere Pelati](https://open.spotify.com/track/41cLnOB2fWQOs8m3CfXuqR) | [Garage Gang](https://open.spotify.com/artist/0nVylSfYAbjeETmI5FbRyM), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [Boomer Remover](https://open.spotify.com/album/5ZNIg3GIa9sRLMg7wmrPI5) | 3:49 | 2022-05-06 | 2022-07-20 |
 | [Estate](https://open.spotify.com/track/3BbLfgcR9pM3LZxAhizjR0) | [Lil Angel$](https://open.spotify.com/artist/6IQRYBzfChxRdujgZIyJIa) | [Estate](https://open.spotify.com/album/0ZpzUCCjh4vfzWYfNAVVLv) | 5:05 | 2022-06-13 | 2022-06-18 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-13 | 2022-05-18 |

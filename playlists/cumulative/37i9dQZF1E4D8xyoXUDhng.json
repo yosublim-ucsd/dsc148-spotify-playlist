@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/15FGTBeq7FV8zLciYD4udN"
+      },
+      "artists": [
+        {
+          "name": "Fabian Rudolph",
+          "url": "https://open.spotify.com/artist/71YlLkw4u3Cc3sokTaKEu2"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138033,
+      "name": "Cry In Church",
+      "url": "https://open.spotify.com/track/3ZvppnEuY6a0AFdPTBk7uK"
+    },
+    {
+      "album": {
         "name": "Cry Today, Smile Tomorrow",
         "url": "https://open.spotify.com/album/3s3H5SFIOfJPuKDfYXYXzh"
       },
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 281933,
       "name": "It's in Jesus",
       "url": "https://open.spotify.com/track/3Jx03tVctQUhfCDGwQqR3P"

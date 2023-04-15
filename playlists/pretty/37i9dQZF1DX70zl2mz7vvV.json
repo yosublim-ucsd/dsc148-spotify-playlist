@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 38260,
+  "num_followers": 38302,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGIxZjMyZjQxZjc0ZDljOTBmOGUyMDQ1MDNjYmNkZWRh",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDYzYzY5ZThiMjE0YzgzZjNmZGI2M2UyY2VhYzM1N2Vj",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -167,22 +167,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
-      },
-      "artists": [
-        {
-          "name": "Pressure",
-          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reign Of Fire",
         "url": "https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 246453,
       "name": "That Day Will Come",
       "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure",
+          "url": "https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -295,18 +295,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "In The Streets To Africa",
-        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
       },
       "artists": [
         {
-          "name": "Richie Spice",
-          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 225506,
-      "name": "Youth Dem Cold",
-      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -327,18 +327,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Mr. Brooks...A Better Tomorrow",
-        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
+        "name": "In The Streets To Africa",
+        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
       },
       "artists": [
         {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
         }
       ],
-      "duration_ms": 178840,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
+      "duration_ms": 225506,
+      "name": "Youth Dem Cold",
+      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
     },
     {
       "added_at": "2020-10-19 09:02:25",

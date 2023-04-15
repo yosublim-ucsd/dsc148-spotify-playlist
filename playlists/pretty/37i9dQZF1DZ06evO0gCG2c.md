@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,296 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,381 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 15 | [Sorry, Blame It On Me](https://open.spotify.com/track/61BqwgSRTyWH9M4uPjsC3B) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:55 |
 | 16 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
 | 17 | [Beautiful](https://open.spotify.com/track/0lqYRbRiGc5oiCUW51JH5s) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 5:12 |
-| 18 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
-| 19 | [Body On Me](https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:20 |
+| 18 | [Body On Me](https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:20 |
+| 19 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 20 | [Kush \- Main](https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Kush](https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B) | 3:55 |
 | 21 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 |
 | 22 | [Ghetto](https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Like I Never Left \(feat\. Akon\)](https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:49 |
 | 50 | [Troublemaker](https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:57 |
 
-Snapshot ID: `MjgwMjMxNDIsMDAwMDAwMDAwMTIzODRlNjVmYjRmN2M4ODg0MmRiYTAyMDc3ZjZjMw==`
+Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkNTFmODJlOGU0YWIwOTE4MTNkMDg0ZTY5NjU2MzFmYQ==`

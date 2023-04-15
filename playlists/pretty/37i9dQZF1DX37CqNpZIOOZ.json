@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 18853,
+  "num_followers": 18870,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDlhMjViM2JkMzUzZDhkNDFkZjM5OWQ4NzhjMGI1ZjQy",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDAxZDkwNGIwODIyZmIxZmQwMzg5NTBkMDhhNDBlMDkx",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -239,30 +239,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Songs of Love and Death",
-        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Hedwig Fassbender",
-          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
-        },
-        {
-          "name": "Hilko Dumno",
-          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "8 Gedichte aus Letzte Blatter, Op. 10, TrV 141: No. 8. Allerseelen",
-      "url": "https://open.spotify.com/track/5DjbLzDmbP21ZVgCtvWY1J"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 180320,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: Introduction",
       "url": "https://open.spotify.com/track/0l0weeIrC9ueCHJPi3XLlh"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Songs of Love and Death",
+        "url": "https://open.spotify.com/album/1mZpGPup33UGZausuqeXEK"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Hedwig Fassbender",
+          "url": "https://open.spotify.com/artist/0ng7ys4mdfdcKsHBqbO0In"
+        },
+        {
+          "name": "Hilko Dumno",
+          "url": "https://open.spotify.com/artist/3m7UD0lXMbu9bsJzneZ9gz"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "8 Gedichte aus Letzte Blatter, Op. 10, TrV 141: No. 8. Allerseelen",
+      "url": "https://open.spotify.com/track/5DjbLzDmbP21ZVgCtvWY1J"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -339,30 +339,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Through Life & Love",
-        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Louise Alder",
-          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
-        },
-        {
-          "name": "Joseph Middleton",
-          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
-        }
-      ],
-      "duration_ms": 138834,
-      "name": "Rote Rosen, TrV 119",
-      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss, R.: Vier letzte Lieder; Die Nacht; Allerseelen etc.",
         "url": "https://open.spotify.com/album/4UL1p3gGSK7TpjWr0OQX86"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 65706,
       "name": "5 Songs, Op. 21, Trv 160: 1. All mein' Gedanken",
       "url": "https://open.spotify.com/track/3zGDidjFezyu5zTmYjtCNd"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Through Life & Love",
+        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Louise Alder",
+          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+        },
+        {
+          "name": "Joseph Middleton",
+          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+        }
+      ],
+      "duration_ms": 138834,
+      "name": "Rote Rosen, TrV 119",
+      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -555,30 +555,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Piano Trios Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Amelia Piano Trio",
-          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
-        },
-        {
-          "name": "Max Mandel",
-          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
-        }
-      ],
-      "duration_ms": 366773,
-      "name": "2 Pieces for Piano Quartet, TrV 169: No. 2. Liebesliedchen",
-      "url": "https://open.spotify.com/track/5DV0s6mKqxuQqNGPsksamK"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
         "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
       },
@@ -631,6 +607,54 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Piano Trios Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Amelia Piano Trio",
+          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+        },
+        {
+          "name": "Max Mandel",
+          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+        }
+      ],
+      "duration_ms": 366773,
+      "name": "2 Pieces for Piano Quartet, TrV 169: No. 2. Liebesliedchen",
+      "url": "https://open.spotify.com/track/5DV0s6mKqxuQqNGPsksamK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
+        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 928133,
+      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
+      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
-        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 928133,
-      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
-      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -775,6 +775,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "R. Strauss: Symphonische Dichtungen",
+        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Tonk\u00fcnstler-Orchester",
+          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "duration_ms": 1065373,
+      "name": "Don Juan, Op. 20, TrV 156",
+      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Don Quixote / Romance for Cello and Orchestra",
         "url": "https://open.spotify.com/album/7LJ0xREZmgCSt8r1Z4cb2F"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 596640,
       "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
       "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss: Symphonische Dichtungen",
-        "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Tonk\u00fcnstler-Orchester",
-          "url": "https://open.spotify.com/artist/3QNZqmrWn0zIBBPf0dadwx"
-        },
-        {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
-        }
-      ],
-      "duration_ms": 1065373,
-      "name": "Don Juan, Op. 20, TrV 156",
-      "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -855,8 +855,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
-        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
+        "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
+        "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
       },
       "artists": [
         {
@@ -864,45 +864,21 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+          "name": "Julia Varady",
+          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
         },
         {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+          "name": "Bamberg Symphony",
+          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
         }
       ],
-      "duration_ms": 348533,
-      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
-      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
-        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Ulf Hoelscher",
-          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 907586,
-      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
-      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
+      "duration_ms": 904333,
+      "name": "Capriccio, Op. 85, TrV 279: Kein Andres, das mir so im Herzen loht",
+      "url": "https://open.spotify.com/track/7znTc6EpRkCepCLxEcJ66s"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -963,8 +939,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Highlights from Salome, Ariadne of Naxos, Die Liebe der Danae & Capiriccio",
-        "url": "https://open.spotify.com/album/48NMqcp6NAJ0aZKuAX2hpw"
+        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
+        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
       },
       "artists": [
         {
@@ -972,21 +948,45 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Julia Varady",
-          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
         },
         {
-          "name": "Bamberg Symphony",
-          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
-        },
-        {
-          "name": "Dietrich Fischer-Dieskau",
-          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
         }
       ],
-      "duration_ms": 904333,
-      "name": "Capriccio, Op. 85, TrV 279: Kein Andres, das mir so im Herzen loht",
-      "url": "https://open.spotify.com/track/7znTc6EpRkCepCLxEcJ66s"
+      "duration_ms": 348533,
+      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
+      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
+        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Ulf Hoelscher",
+          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 907586,
+      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
+      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1063,6 +1063,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Solti - Richard Strauss - The Operas",
+        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 681213,
+      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
+      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: 3 Hymns - Opera arias",
         "url": "https://open.spotify.com/album/5g5pDsEAVjQvO6WdAxQehK"
       },
@@ -1115,58 +1143,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Solti - Richard Strauss - The Operas",
-        "url": "https://open.spotify.com/album/5NoP4U6KVEhyzIWXJ9x1D5"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 681213,
-      "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
-      "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
-        "url": "https://open.spotify.com/album/7oEbgL8cKAyskzkWWq4JAG"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
-        }
-      ],
-      "duration_ms": 756000,
-      "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
-      "url": "https://open.spotify.com/track/2kxYSROtAaWvkzGQExdyrx"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Die Frau ohne Schatten, Op. 65, TrV 234",
         "url": "https://open.spotify.com/album/5UXb5sRnaECl1gBvNACRIk"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 330720,
       "name": "Die Frau ohne Schatten, Op. 65, TrV 234, Act I: Act I: Licht uberm see (Amme, Geisterbote)",
       "url": "https://open.spotify.com/track/3Z4GGSM0ZzA9eMdEsjAtrt"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
+        "url": "https://open.spotify.com/album/7oEbgL8cKAyskzkWWq4JAG"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Zden\u011bk Ko\u0161ler",
+          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+        }
+      ],
+      "duration_ms": 756000,
+      "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
+      "url": "https://open.spotify.com/track/2kxYSROtAaWvkzGQExdyrx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
+        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Fritz Reiner",
+          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
+        }
+      ],
+      "duration_ms": 611146,
+      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
+      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
         "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 311840,
       "name": "Die Agyptische Helena, Op. 75, TrV 255, Act II: Zweite Brautnacht! Zaubernacht",
       "url": "https://open.spotify.com/track/6iKuENO12ch6vV1wZXjPK1"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
-        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Fritz Reiner",
-          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
-        }
-      ],
-      "duration_ms": 611146,
-      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
-      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
     },
     {
       "added_at": "2022-06-20 09:55:21",

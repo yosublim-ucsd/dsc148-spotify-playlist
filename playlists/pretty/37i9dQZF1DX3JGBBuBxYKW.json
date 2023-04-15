@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 80889,
+  "num_followers": 80927,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc0MjMwNiwwMDAwMDAwMDBiZDA2NTU0ODQ2ZmZlMDFhYzk4Y2MxYzdlZjIzZmE1",
+  "snapshot_id": "MTY4MDc0MjMwNiwwMDAwMDAwMDViMjg5MGI3Y2NiZjA1Njg2M2YyZWI4YTQ1ZGQzOGQy",
   "tracks": [
     {
       "added_at": "2023-04-06 00:51:46",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Placer y Olvido (En Vivo)",
-        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 82400,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Abr\u00e1zame y B\u00e9same",
         "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 180748,
       "name": "Abr\u00e1zame y B\u00e9same",
       "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Placer y Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 82400,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "M\u00fasica del Alma",
         "url": "https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 207121,
       "name": "Falso Malo",
       "url": "https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Pobre perro",
-        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Si se fue, se fue",
-      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
     }
   ],
   "unique_name": "Cumbieras",

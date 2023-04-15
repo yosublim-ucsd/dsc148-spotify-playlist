@@ -4,7 +4,7 @@
 
 > Explore a sprawling musical landscape.
 
-239 songs - 15 hr 1 min
+240 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 | 2022-02-25 |  |
 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 | 2021-10-08 |  |
 | [Regret](https://open.spotify.com/track/0gLvQijWRzM6Mn8avnNGLl) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [If Children](https://open.spotify.com/album/4sVAuGSsc5XGTZXNqnUk7j) | 2:25 | 2021-10-08 | 2022-07-29 |
-| [Regret](https://open.spotify.com/track/207ulvN039r42rKRX4pD8v) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [If Children](https://open.spotify.com/album/5DzXM9YcY99gfgHBHOjioI) | 2:25 | 2022-05-02 |  |
+| [Regret](https://open.spotify.com/track/207ulvN039r42rKRX4pD8v) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [If Children](https://open.spotify.com/album/5DzXM9YcY99gfgHBHOjioI) | 2:25 | 2022-05-02 | 2023-04-15 |
 | [Rose Petals](https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM) | 3:33 | 2021-10-08 | 2022-07-29 |
 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 | 2022-05-02 |  |
 | [Safe & Sound \(feat\. Joy Williams and John Paul White\) \(Taylor’s Version\)](https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Safe & Sound \(Taylor's Version\)](https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR) | 3:59 | 2023-03-17 |  |
@@ -199,6 +199,7 @@
 | [The Man I'll Never Find](https://open.spotify.com/track/6PfigNOmcn4mgU7wcyFQ5E) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 4:01 | 2022-04-13 | 2022-07-29 |
 | [The Man I'll Never Find](https://open.spotify.com/track/70MMYFWAnR4i3oc1TXerQm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [The Man I'll Never Find \(Piano Version\)](https://open.spotify.com/album/3CVhK0IZWbHi1s2JXW8zu2) | 4:01 | 2022-05-02 | 2022-11-13 |
 | [The Only Thing I Fear](https://open.spotify.com/track/78xk8iamPxnraeoDComAta) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [The Only Thing I Fear](https://open.spotify.com/album/03Tm3d6OTCejpmEfeVmpea) | 3:30 | 2021-10-08 | 2022-02-26 |
+| [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 | 2023-04-14 |  |
 | [The Roundabout](https://open.spotify.com/track/10QvTOyNpzBZpctcbP1tY1) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [The Roundabout](https://open.spotify.com/album/27gVRqHKsrlPniSNE4IPza) | 4:41 | 2022-05-02 | 2022-11-13 |
 | [The Roundabout](https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6) | 4:41 | 2022-05-02 |  |
 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 | 2021-10-08 | 2022-07-29 |

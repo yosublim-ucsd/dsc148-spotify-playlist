@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF"
+    },
+    {
+      "album": {
         "name": "Aka Plaka",
         "url": "https://open.spotify.com/album/1Xcd3rQPyJPx9MFeT92Ruv"
       },
@@ -640,6 +658,40 @@
       "duration_ms": 227083,
       "name": "BUSINESS WOMAN",
       "url": "https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6"
+    },
+    {
+      "album": {
+        "name": "Chismecito",
+        "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        },
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        },
+        {
+          "name": "Leyton Eme",
+          "url": "https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y"
+        },
+        {
+          "name": "La Negra MeXa",
+          "url": "https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Chismecito",
+      "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
     },
     {
       "album": {
@@ -1959,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Directo al Cora",
+        "url": "https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "ME OYES",
+      "url": "https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh"
+    },
+    {
+      "album": {
         "name": "Me Tienes",
         "url": "https://open.spotify.com/album/0gvRHSGZpOwrkZeytgQxAF"
       },
@@ -2066,6 +2136,28 @@
       "duration_ms": 194560,
       "name": "Mezcal",
       "url": "https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Mi Testamento",
+      "url": "https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi"
     },
     {
       "album": {
@@ -2627,6 +2719,36 @@
     },
     {
       "album": {
+        "name": "RAYBEN CAP 3: NI\u00d1AS",
+        "url": "https://open.spotify.com/album/2N6R8g07SKPkUT65SIY9gb"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186919,
+      "name": "RAYBEN CAP 3: NI\u00d1AS",
+      "url": "https://open.spotify.com/track/48Lpi4yoXkv3Awje2Hesn9"
+    },
+    {
+      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l"
       },
@@ -2784,6 +2906,24 @@
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
+    },
+    {
+      "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/0DIj36pLzLfoTJ5EpraR1S"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00ed Rozman",
+          "url": "https://open.spotify.com/artist/3dwDDgc3WneLDpJYl2gsJt"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173934,
+      "name": "SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/0ixfANWAebkhsYZboAQwBq"
     },
     {
       "album": {

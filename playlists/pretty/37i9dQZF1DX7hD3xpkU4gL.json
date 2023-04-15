@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 93674,
+  "num_followers": 93894,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyMTQ0OSwwMDAwMDAwMDFlNzExZDFmZTAwNjFkMzI0MTdiMGZkZWQxM2NjZDIy",
+  "snapshot_id": "MTY3MzYyMTQ0OSwwMDAwMDAwMDc1NjQwMTE5YmFmYTg5ZGE3ZGRkZDMzMDk0ZDE2YjM5",
   "tracks": [
     {
       "added_at": "2023-01-13 14:50:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 273666,
       "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
       "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Non, je ne regrette rien",
-      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 316826,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 263666,
       "name": "Me Enamor\u00e9 de Ti",
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2023-01-13 14:50:49",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 300600,
-      "name": "Hey - Spanish",
-      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
-    },
-    {
-      "added_at": "2023-01-13 14:50:49",
-      "album": {
         "name": "Revoluci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 327600,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Hey - Spanish",
+      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
     },
     {
       "added_at": "2023-01-13 14:50:49",

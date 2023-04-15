@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "The best Latin Indie tracks right now, featuring Cuco & The Mar\u00edas.",
+  "description": "The best Latin Indie tracks right now, featuring YADAM.",
   "name": "Ultimate Latin Indie",
   "tracks": [
     {
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Cortes Modernos",
+        "url": "https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223621,
+      "name": "Cortes Modernos",
+      "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+    },
+    {
+      "album": {
         "name": "costas de coral",
         "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -1300,6 +1318,24 @@
       "duration_ms": 151207,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy"
+    },
+    {
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194131,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY"
     },
     {
       "album": {
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 197179,
       "name": "LA RUTA NATURAL",
       "url": "https://open.spotify.com/track/0AYuekoqdajrQ00H0Cq0tt"
@@ -2282,6 +2318,28 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
     },
     {
       "album": {
@@ -2651,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "album": {
         "name": "Oscuridad",
         "url": "https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG"
       },
@@ -2864,7 +2940,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
@@ -3106,7 +3182,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 177581,
       "name": "RQR",
       "url": "https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD"
@@ -4173,6 +4249,28 @@
     },
     {
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
+    },
+    {
+      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -4426,7 +4524,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 178000,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"

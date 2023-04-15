@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Cristina Mel
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,266 likes - 85 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,390 likes - 85 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

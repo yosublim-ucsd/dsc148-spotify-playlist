@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Cultura Profética
 
-90 songs - 5 hr 53 min
+92 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Baja la Tensión](https://open.spotify.com/track/1aptwqzmy2RxB3ODy7g8sY) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:26 | 2022-07-01 |  |
 | [Baja la Tensión](https://open.spotify.com/track/5oltEh65341tsMWHpWT0h5) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/2KRlM32gIN0saKVJdQfCtr) | 4:27 | 2022-05-13 | 2022-07-29 |
 | [Bff <3](https://open.spotify.com/track/1i1RYy42uVr7KBCpA5Gjym) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/25pzrcoYq32V2h8LNz42Wu) | 2:53 | 2022-05-13 |  |
-| [Bici My Love](https://open.spotify.com/track/22BdgcWpAFu7MLOg5pLOWP) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Bici My Love](https://open.spotify.com/album/6sQV2XIyeMbmR8eADmkoZU) | 2:39 | 2022-05-13 |  |
+| [Bici My Love](https://open.spotify.com/track/22BdgcWpAFu7MLOg5pLOWP) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Bici My Love](https://open.spotify.com/album/6sQV2XIyeMbmR8eADmkoZU) | 2:39 | 2022-05-13 | 2023-04-15 |
+| [Bici My Love](https://open.spotify.com/track/7AudEYaMS2zngG78sugbJh) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Bici My Love](https://open.spotify.com/album/1iMiFBnmq3nSEkTt9URhO1) | 2:39 | 2023-03-17 |  |
 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 | 2023-03-03 |  |
 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 | 2022-05-13 |  |
 | [Caminando](https://open.spotify.com/track/65LwjsaIljMxRSB3frQZMH) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Caminando](https://open.spotify.com/album/7edabrxvUHcMQMzO0NCIGg) | 4:18 | 2022-05-13 | 2022-07-29 |
@@ -46,7 +47,8 @@
 | [Homestudio Session \#6](https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7) | 4:54 | 2022-05-13 | 2023-01-28 |
 | [Ilegal](https://open.spotify.com/track/2K2YkSn2utzsRntEClbyB8) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/59SjgIQv3ASnijrzYyR44Z) | 5:05 | 2022-05-13 | 2022-07-29 |
 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-07-01 |  |
-| [Invierno Tropical](https://open.spotify.com/track/6zXHHDhDNcr9cxNBegn0WJ) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/5scawj9AZxPfXlI3x930QR) | 2:59 | 2023-03-03 |  |
+| [Invierno Tropical](https://open.spotify.com/track/6oY9wNMM0qxqeDAWEP7DGc) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/7yTsOdtc8quAeMhuhm8d0f) | 2:59 | 2023-03-17 |  |
+| [Invierno Tropical](https://open.spotify.com/track/6zXHHDhDNcr9cxNBegn0WJ) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Invierno Tropical](https://open.spotify.com/album/5scawj9AZxPfXlI3x930QR) | 2:59 | 2023-03-03 | 2023-04-15 |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2022-05-13 | 2022-07-02 |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-07-01 |  |
 | [Jamming](https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 3:32 | 2022-07-01 | 2022-11-14 |

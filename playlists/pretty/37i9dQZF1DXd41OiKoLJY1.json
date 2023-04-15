@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Amari, Artwork: Isu Kim\n",
-  "num_followers": 54377,
+  "num_followers": 54398,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
       "duration_ms": 277168,
       "name": "UWI SAYO",
       "url": "https://open.spotify.com/track/4ITsML49j538to9Wmo7TF5"
+    },
+    {
+      "added_at": "2023-04-13 16:00:00",
+      "album": {
+        "name": "You Won't Let Go",
+        "url": "https://open.spotify.com/album/1kmrP2Scualgq4iyPK8zHC"
+      },
+      "artists": [
+        {
+          "name": "Saint Klutch",
+          "url": "https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj"
+        }
+      ],
+      "duration_ms": 190354,
+      "name": "You Won't Let Go",
+      "url": "https://open.spotify.com/track/3Ds3Gqb8fGhaIygsYJACrt"
     },
     {
       "added_at": "2023-04-13 16:00:00",

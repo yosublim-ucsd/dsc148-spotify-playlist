@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1329836,
+  "num_followers": 1330472,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ5MzYwMCwwMDAwMDAwMDY0Mzg4Y2JiNjg5NTA3NDA4MmE0NjI4OTY0NmFmODUy",
+  "snapshot_id": "MTY3OTQ5MzYwMCwwMDAwMDAwMGZlMmU2ZmJmYWRmYTM4N2MxYTVlMWVhMjQ2ZmYxMWNk",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Call on Me (Radio Mix)",
         "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Singled Out",
-        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
       },
       "artists": [
         {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        },
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
         }
       ],
-      "duration_ms": 151983,
-      "name": "Let Me Think About It",
-      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
+      "duration_ms": 209800,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -195,18 +191,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/5ENrI2pojxE4XhSmncl4cz"
+        "name": "Singled Out",
+        "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
       "artists": [
         {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
+      "duration_ms": 151983,
+      "name": "Let Me Think About It",
+      "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single",
-        "url": "https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "9 PM - Till I come >The U.K. Mixes< - Radio Mix UK",
-      "url": "https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 211533,
       "name": "Together - Radio Edit",
       "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "9 PM (Till I Come) - The U.K. Mixes [Remixes] - Single",
+        "url": "https://open.spotify.com/album/5ov5ci5LMlUj9kDh95PCGd"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "9 PM - Till I come >The U.K. Mixes< - Radio Mix UK",
+      "url": "https://open.spotify.com/track/659wddNDkBkMbtt8KR8DOn"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Army Of Two",
-        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
-      },
-      "artists": [
-        {
-          "name": "UMEK",
-          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
-        },
-        {
-          "name": "Beltek",
-          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Army Of Two - Radio Version",
-      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "L.E.F.",
         "url": "https://open.spotify.com/album/3GLtESPuGDtTWoiR6p6K69"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 271586,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1lJUIg0FtOqApq4XPQqjrk"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Army Of Two",
+        "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Beltek",
+          "url": "https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Army Of Two - Radio Version",
+      "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Disconnect (Platinum Edition)",
-        "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
-      },
-      "artists": [
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Radio Edit",
-      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Ready to Dare",
         "url": "https://open.spotify.com/album/5Qaao9KPcE0dL21razJGx9"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 186586,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/5yjKR9RIBWixx9Cjz6FUft"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Disconnect (Platinum Edition)",
+        "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Radio Edit",
+      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 168793,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 160626,
       "name": "Only One (Radio Edit)",
       "url": "https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 168793,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
     },
     {
       "added_at": "2023-03-22 14:00:00",

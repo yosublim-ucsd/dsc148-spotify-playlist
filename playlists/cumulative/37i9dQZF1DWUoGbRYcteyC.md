@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-222 songs - 13 hr 11 min
+223 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dulcito e Coco](https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:09 | 2022-02-01 |  |
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-02-01 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/5TKUlnJq6kruIiOX1yvocU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:57 | 2021-12-06 | 2022-07-29 |
-| [El Cielo a Mi Favor](https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:48 | 2021-12-06 |  |
+| [El Cielo a Mi Favor](https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:48 | 2021-12-06 | 2023-04-15 |
 | [El verdadero amor perdona \- dueto con Prince Royce](https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Drama Y Luz Edición Deluxe](https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u) | 3:58 | 2021-12-06 |  |
 | [Ella](https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:18 | 2021-12-06 |  |
 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 | 2022-12-10 | 2023-01-07 |
@@ -166,6 +166,7 @@
 | [Sabor a Mi](https://open.spotify.com/track/2xK4YHrEDPB9DmdqGz5j8b) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Sabor a Mi](https://open.spotify.com/album/3DbBQpUcQAn6nqPI9PGrxr) | 3:03 | 2021-12-06 | 2022-04-20 |
 | [Sabor a Mí](https://open.spotify.com/track/1JZ7KB7UgswWPrcKM6R9pO) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:27 | 2022-04-01 | 2022-04-20 |
 | [Se puede amar](https://open.spotify.com/track/3jaG9XW2uHrKoDL4K5KZEU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Se puede amar](https://open.spotify.com/album/2nzIH4xua0TtCnzdf5U9el) | 3:37 | 2021-12-06 | 2023-01-07 |
+| [serotonina](https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:42 | 2023-04-14 |  |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2023-01-06 |  |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2021-12-06 | 2023-03-18 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 | 2021-12-06 | 2023-01-07 |

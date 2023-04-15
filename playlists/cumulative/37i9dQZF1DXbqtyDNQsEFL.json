@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 283013,
       "name": "God My God - Radio Edit/Live",
       "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+    },
+    {
+      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/5S4ZhAVkgrDchHjNdPoD8H"
       },
@@ -968,7 +990,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 454040,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/0F4VwUotalOhjYiLlSedkA"
@@ -2634,6 +2656,24 @@
       "duration_ms": 405865,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW"
+    },
+    {
+      "album": {
+        "name": "Your Grace",
+        "url": "https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy"
+      },
+      "artists": [
+        {
+          "name": "Prince Tuffour",
+          "url": "https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325328,
+      "name": "Your Grace",
+      "url": "https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2"
     },
     {
       "album": {

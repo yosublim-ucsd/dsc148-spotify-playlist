@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 316468,
       "name": "Acolyte",
       "url": "https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "CONVICT LOVE HYDROCELL",
+        "url": "https://open.spotify.com/album/1GGVSzapHjp9oGsKtH7LFH"
+      },
+      "artists": [
+        {
+          "name": "Ghouljaboy",
+          "url": "https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "CONVICT LOVE HYDROCELL",
+      "url": "https://open.spotify.com/track/0pCg3qjTBsJAOk2JhLonTJ"
+    },
+    {
+      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2"
       },
@@ -1040,6 +1062,24 @@
       "duration_ms": 184315,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "album": {
@@ -1152,6 +1192,24 @@
       "duration_ms": 195066,
       "name": "Do Me Like That",
       "url": "https://open.spotify.com/track/33TRLeMwVVAWa2eZEGnTip"
+    },
+    {
+      "album": {
+        "name": "Do You Ever Wonder?",
+        "url": "https://open.spotify.com/album/3XBXS6lrtqFwrH1Xfnn2Qp"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231233,
+      "name": "Do You Ever Wonder?",
+      "url": "https://open.spotify.com/track/4QBVZjtgCajJCT2jLuKKPF"
     },
     {
       "album": {
@@ -1538,7 +1596,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 196588,
       "name": "Give Yourself A Try",
       "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
@@ -1700,7 +1758,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 308733,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
@@ -1942,7 +2000,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
@@ -2054,6 +2112,24 @@
       "duration_ms": 171000,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/40tfagbwTsKUArXMzRPH9f"
+    },
+    {
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324906,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx"
     },
     {
       "album": {
@@ -2405,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "album": {
         "name": "Marie",
         "url": "https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7"
       },
@@ -2492,7 +2586,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 277986,
       "name": "Meshuggah",
       "url": "https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9"
@@ -2553,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "orange blood",
+        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
+      },
+      "artists": [
+        {
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145833,
+      "name": "missin something",
+      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
+    },
+    {
+      "album": {
         "name": "Mona Lisa, Mona Lisa",
         "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
@@ -2568,6 +2680,24 @@
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "album": {
@@ -3091,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "ready",
+        "url": "https://open.spotify.com/album/2d7gX4lhZLcEuX9q3RDY53"
+      },
+      "artists": [
+        {
+          "name": "diet lemon",
+          "url": "https://open.spotify.com/artist/4w4tyhOTLrFjXwPzuUmT3U"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "ready",
+      "url": "https://open.spotify.com/track/1CIguGp89oSiWM83Pf9JzV"
+    },
+    {
+      "album": {
         "name": "The Bones Of What You Believe (Special Edition)",
         "url": "https://open.spotify.com/album/54IMJ8S0redmP6krSlKZLD"
       },
@@ -3596,7 +3744,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
@@ -3672,6 +3820,24 @@
       "duration_ms": 196720,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w"
+    },
+    {
+      "album": {
+        "name": "Summa Glo",
+        "url": "https://open.spotify.com/album/2C7pH4yGqHN7ol7C4BZr2D"
+      },
+      "artists": [
+        {
+          "name": "Apricot Ink",
+          "url": "https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185254,
+      "name": "Summa Glo",
+      "url": "https://open.spotify.com/track/2iAKOeAInq4myXRXSwalRI"
     },
     {
       "album": {
@@ -4246,7 +4412,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 206373,
       "name": "The King",
       "url": "https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj"
@@ -4416,6 +4582,24 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "album": {
+        "name": "mini mix vol. 3",
+        "url": "https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137187,
+      "name": "Top Dog",
+      "url": "https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm"
     },
     {
       "album": {
@@ -4730,7 +4914,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 195078,
       "name": "Witches",
       "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
@@ -4748,7 +4932,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 255613,
       "name": "Wraith Pinned to the Mist and Other Games",
       "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"

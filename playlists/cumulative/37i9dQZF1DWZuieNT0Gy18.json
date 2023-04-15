@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 352160,
       "name": "En El Muelle De San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
@@ -5144,6 +5144,24 @@
       "duration_ms": 242285,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
+    },
+    {
+      "album": {
+        "name": "Morocha",
+        "url": "https://open.spotify.com/album/1RNkltTXVxuFl5mHAjXVYd"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150012,
+      "name": "Morocha",
+      "url": "https://open.spotify.com/track/22TO0ANwtF7GKa87zJFGBI"
     },
     {
       "album": {
@@ -7474,7 +7492,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 272826,
       "name": "Tengo Todo Excepto a Ti",
       "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
@@ -7908,7 +7926,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"

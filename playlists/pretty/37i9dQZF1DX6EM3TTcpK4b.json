@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 224199,
+  "num_followers": 224516,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMGE3NDNkYWI3MmRiMDcyZjc3YmY0OTA5OGMzODhhNjE2",
+  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMDA0ZTc0MWZlYWE1YThjNjA4MDIzNjU0NmM3YzUyODNh",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Cu\u00e1ndo sale la luna",
-      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "A Todas Las Que Am\u00e9",
         "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 161426,
       "name": "Una P\u00e1gina M\u00e1s",
       "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Cu\u00e1ndo sale la luna",
+      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Amarte A La Antigua",
-        "url": "https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Amarte A La Antigua",
-      "url": "https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 231418,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Amarte A La Antigua",
+        "url": "https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Amarte A La Antigua",
+      "url": "https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Lo Mas Romantico De Pedro Fernandez",
-        "url": "https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "A 10 a\u00f1os....un recuerdo permanente",
         "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 195480,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Lo Mas Romantico De Pedro Fernandez",
+        "url": "https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Jorge Negrete, Vol II.",
         "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 237426,
       "name": "Coplas de dos tipos de cuidado",
       "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
     },
     {
       "added_at": "2022-08-31 15:59:33",

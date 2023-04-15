@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> Explore the ever\-evolving folk & roots scene\. Cover: Drew Holcomb & The Neighbors
+> Explore the ever\-evolving folk & roots scene\. Cover: The Tallest Man On Earth
 
-372 songs - 23 hr 6 min
+374 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A.M\. RADIO](https://open.spotify.com/track/3Jzdz9f3KAgF9z6Ov866gl) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 3:57 | 2022-01-14 | 2022-01-22 |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-04-01 | 2022-06-11 |
 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2021-12-10 | 2022-07-16 |
-| [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 | 2022-02-18 |  |
+| [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 | 2022-02-18 | 2023-04-15 |
 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 | 2022-04-08 | 2022-06-04 |
 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3fJiva7a51oL1HfZ11gLiW) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH) | 3:29 | 2022-06-03 | 2022-09-10 |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Dance with Everybody](https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Dance with Everybody](https://open.spotify.com/album/3mVV3jcal3oh3hiMmvrxgZ) | 3:30 | 2022-09-23 |  |
 | [Danger](https://open.spotify.com/track/4Fy2cDn5ULDvWSBtZ4uEFd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:25 | 2021-12-10 | 2022-06-18 |
 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-02-10 |  |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-14 |  |
 | [Domino](https://open.spotify.com/track/5OhOcsBmC5Buaz0Z3gGFTa) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Domino](https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI) | 2:48 | 2021-12-10 | 2022-01-29 |
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-18 | 2022-04-02 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-12 |  |
@@ -201,6 +202,7 @@
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-12-10 | 2022-05-20 |
 | [Lonesome & Mad](https://open.spotify.com/track/43cdY9ASMvp94qmVuLEoxd) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Homesick for Another World](https://open.spotify.com/album/4rxbgmrhbG44B0DiOwa9g4) | 3:57 | 2023-03-03 |  |
 | [Long Journey Home](https://open.spotify.com/track/72c8xtBefXffG64Dymjti5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Me / And / Dad](https://open.spotify.com/album/3sEnM8BV4F3dQno5rFzdW1) | 2:57 | 2022-12-02 |  |
+| [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 | 2023-04-14 |  |
 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 | 2022-07-29 | 2023-03-25 |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-04-15 | 2022-06-25 |
 | [Lost Myself](https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost Myself](https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0) | 3:34 | 2022-09-09 | 2023-02-11 |
@@ -253,7 +255,7 @@
 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 | 2022-09-30 |  |
 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 | 2022-04-08 | 2022-06-25 |
 | [Pterodactyl](https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Pterodactyl](https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS) | 4:06 | 2022-07-29 | 2022-10-29 |
-| [Pterodactyl](https://open.spotify.com/track/4wZUbcdQlD6QHNzKyukcGy) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Strange Encounters](https://open.spotify.com/album/3kVUhdMFFgYJin3Uk8WQeA) | 4:06 | 2022-09-30 |  |
+| [Pterodactyl](https://open.spotify.com/track/4wZUbcdQlD6QHNzKyukcGy) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Strange Encounters](https://open.spotify.com/album/3kVUhdMFFgYJin3Uk8WQeA) | 4:06 | 2022-09-30 | 2023-04-15 |
 | [Purple](https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Purple](https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM) | 4:25 | 2022-01-07 | 2022-07-23 |
 | [Quiet Moon, Wild Sea](https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Quiet Moon, Wild Sea](https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b) | 4:08 | 2022-10-14 |  |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-22 | 2022-11-20 |

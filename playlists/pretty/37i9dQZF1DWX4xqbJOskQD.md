@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 5 | [Tuxedo Junction](https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx) | 3:05 |
 | 6 | [Mr\. Sandman \- 1954 \#1 Billboard chart hit](https://open.spotify.com/track/3zopUGxKy1Uz4cKtDGjZry) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | ["They're Riding High" Says Archie](https://open.spotify.com/album/2fBVKQwJG7e5NvOizP3jCm) | 2:23 |
 | 7 | [Three Coins In The Fountain](https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 3:00 |
-| 8 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
-| 9 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
+| 8 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
+| 9 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
 | 10 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
 | 11 | [Sincerely](https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 12 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [It's Sand, Man!](https://open.spotify.com/track/1q71go9YGa3zQCAhnDtTzZ) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Milestones of a Jazz Legend \- Meets the Vocalists, Vol\. 4](https://open.spotify.com/album/3JW5jDInHzHfZjX2FpJ3hf) | 2:28 |
 | 45 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 
-Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDMyZjU2NzE4NmMzYWZkM2RkNmIxMjZmYTY3MTFhMmQ5`
+Snapshot ID: `MTY0ODQ5NTc0OSwwMDAwMDAwMDIzZGIxMDdkNjIwZDVmYTI4NDU2ZTczMGU1MTFlZWNl`

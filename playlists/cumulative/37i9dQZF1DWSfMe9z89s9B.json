@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B without boundaries fka Alternative R&B. Cover: Chase Shakur",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Frank Ocean",
   "name": "Vanguard",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 161142,
       "name": "5 MO' MINUTES",
       "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
@@ -488,6 +488,24 @@
       "duration_ms": 175554,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/12sXX3cUzBCpwjIzqBYIw1"
+    },
+    {
+      "album": {
+        "name": "Advantage",
+        "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Advantage",
+      "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
     },
     {
       "album": {
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
@@ -4690,7 +4708,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 228000,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
@@ -5343,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
+    },
+    {
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/5nY3WPFJecXm6c8i188dDO"
       },
@@ -5460,7 +5496,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 177259,
       "name": "Gonna Go",
       "url": "https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp"
@@ -7346,7 +7382,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 153712,
       "name": "Keep It Lo",
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
@@ -9513,6 +9549,24 @@
     },
     {
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "album": {
         "name": "NTWFL",
         "url": "https://open.spotify.com/album/67yqGJaYgMvkXi5J1YQcio"
       },
@@ -9808,7 +9862,7 @@
           "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
         }
       ],
-      "date_added": "2023-04-09",
+      "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146127,
@@ -10303,6 +10357,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
       },
@@ -10635,6 +10707,24 @@
     },
     {
       "album": {
+        "name": "Pseudo",
+        "url": "https://open.spotify.com/album/0wUIVK2RgEzIWgxmihbaiz"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273925,
+      "name": "Pseudo",
+      "url": "https://open.spotify.com/track/5osYao2SrXpR13kqF43OGA"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6KkUuZEtuJhMNIsiFiJvY7"
       },
@@ -10748,6 +10838,24 @@
       "duration_ms": 185692,
       "name": "Put On Repeat",
       "url": "https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8"
+    },
+    {
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592920,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
     },
     {
       "album": {
@@ -11198,7 +11306,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 159563,
       "name": "RISEN",
       "url": "https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y"
@@ -11502,6 +11610,24 @@
       "duration_ms": 144792,
       "name": "scuse me",
       "url": "https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249667,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
       "album": {

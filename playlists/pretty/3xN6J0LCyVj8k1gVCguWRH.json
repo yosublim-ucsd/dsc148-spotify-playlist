@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101230,
+  "num_followers": 101225,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDQzNCw2MTczZDJkMmQzMjIzZWQ2NjFkZDk5NGY3NDZjOTQ2NDNlY2JiZmVj",
+  "snapshot_id": "NDQ1MSw2NTA1ZjgxODY3YmE3NzNkNWIwMDZkMmRjNGIzNTQwNjk4MGMzYTI3",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
+      "added_at": "2023-04-14 17:05:05",
+      "album": {
+        "name": "1st Street Dream",
+        "url": "https://open.spotify.com/album/3kZy7EzKIl9eN9eNmix4Ic"
+      },
+      "artists": [
+        {
+          "name": "Howler Honey",
+          "url": "https://open.spotify.com/artist/3sU3TBpPhRyqc3S1gm5vOL"
+        }
+      ],
+      "duration_ms": 265079,
+      "name": "Summertime Slow",
+      "url": "https://open.spotify.com/track/1oZDLTicVIeUPJMZewJYSS"
+    },
+    {
       "added_at": "2021-07-11 05:10:56",
       "album": {
         "name": "Scary Hours 2",
@@ -1383,22 +1399,6 @@
       "duration_ms": 276775,
       "name": "Its Way With Me",
       "url": "https://open.spotify.com/track/4ozdSH2MuFoABtDWa4S1mJ"
-    },
-    {
-      "added_at": "2023-04-03 00:25:56",
-      "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/4uc50ROh0H3eNkS2sPDqoK"
-      },
-      "artists": [
-        {
-          "name": "Compass",
-          "url": "https://open.spotify.com/artist/0IeDag6Mjm397glEJwhKeA"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5"
     },
     {
       "added_at": "2021-07-11 05:05:24",
@@ -1471,6 +1471,166 @@
       "duration_ms": 220013,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
+    },
+    {
+      "added_at": "2023-04-14 07:34:50",
+      "album": {
+        "name": "Don't Let The Sun Go Down",
+        "url": "https://open.spotify.com/album/4KlQCXHe0SGmXEgrP649dR"
+      },
+      "artists": [
+        {
+          "name": "Fleming",
+          "url": "https://open.spotify.com/artist/6nUMxwQm17D5tRTym3FotG"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Don't Let The Sun Go Down",
+      "url": "https://open.spotify.com/track/0NzaVed2tC2wM2BW0WDiJ4"
+    },
+    {
+      "added_at": "2023-04-14 07:36:07",
+      "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/4DLqCX2S3txfXDN0R4CbPm"
+      },
+      "artists": [
+        {
+          "name": "DJ Waffles",
+          "url": "https://open.spotify.com/artist/0gTSg7t0kA2d7pUV9shk5F"
+        },
+        {
+          "name": "Mou5ZyZZ",
+          "url": "https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2"
+        },
+        {
+          "name": "Matthew Joseph",
+          "url": "https://open.spotify.com/artist/5PxSj1MNCMFn6alZjrvV3V"
+        }
+      ],
+      "duration_ms": 253870,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/6pNAPYUhgW37LkhERB5sN5"
+    },
+    {
+      "added_at": "2023-04-14 07:35:24",
+      "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/3VOo7WQFQit60tWP0cP1Yw"
+      },
+      "artists": [
+        {
+          "name": "KELLY LUNA",
+          "url": "https://open.spotify.com/artist/70yvP1ymXKKcApwStkU5NF"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/5i9dFEF8V9twwQgQeGvBwl"
+    },
+    {
+      "added_at": "2023-04-14 07:36:52",
+      "album": {
+        "name": "Watch Me Go",
+        "url": "https://open.spotify.com/album/4ctUJpKwbapp8hGp393oUU"
+      },
+      "artists": [
+        {
+          "name": "Literally Me Right Now",
+          "url": "https://open.spotify.com/artist/1GWW3OIL1OUsTAQhr6YBtq"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "Watch Me Go",
+      "url": "https://open.spotify.com/track/7FXrENgcs6HcK19eiaasxq"
+    },
+    {
+      "added_at": "2023-04-14 07:36:21",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/22HaA6JMGWTCAA6MnwOC8s"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 178263,
+      "name": "Classics",
+      "url": "https://open.spotify.com/track/2wxEvZuIYk454DJwoShj3V"
+    },
+    {
+      "added_at": "2023-04-14 07:35:34",
+      "album": {
+        "name": "Far From You",
+        "url": "https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        }
+      ],
+      "duration_ms": 272315,
+      "name": "Far From You",
+      "url": "https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c"
+    },
+    {
+      "added_at": "2023-04-14 07:35:05",
+      "album": {
+        "name": "Salma (Anthem)",
+        "url": "https://open.spotify.com/album/2W2pJtbD8aq6uqJOFMZxiW"
+      },
+      "artists": [
+        {
+          "name": "Yellow Shoots",
+          "url": "https://open.spotify.com/artist/57gksZVx15OLscjXSIuorY"
+        },
+        {
+          "name": "TWYN",
+          "url": "https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "Salma (Anthem)",
+      "url": "https://open.spotify.com/track/3BNtYD3Zwh37U6Ff2bB6De"
+    },
+    {
+      "added_at": "2023-04-14 07:34:24",
+      "album": {
+        "name": "panic attacks",
+        "url": "https://open.spotify.com/album/1zlImVYEORxNBip4EEOlnS"
+      },
+      "artists": [
+        {
+          "name": "Matt Mogg",
+          "url": "https://open.spotify.com/artist/31fJNUd6geSIqAfoUFITwp"
+        },
+        {
+          "name": "Cole Tindal",
+          "url": "https://open.spotify.com/artist/3WmPrhjsSrzIm5DEwOiwAN"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "panic attacks",
+      "url": "https://open.spotify.com/track/2k1lmCxTWyhIYHKwO6CN1u"
+    },
+    {
+      "added_at": "2023-04-03 00:25:56",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/4uc50ROh0H3eNkS2sPDqoK"
+      },
+      "artists": [
+        {
+          "name": "Compass",
+          "url": "https://open.spotify.com/artist/0IeDag6Mjm397glEJwhKeA"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5"
     },
     {
       "added_at": "2023-04-07 00:16:47",
@@ -1637,6 +1797,38 @@
       "url": "https://open.spotify.com/track/01W5WozKg4erCEN7PNQZar"
     },
     {
+      "added_at": "2023-04-14 16:58:55",
+      "album": {
+        "name": "Amando Con Dudas",
+        "url": "https://open.spotify.com/album/5ojQb56ZS3Gx7oCuCUgJv7"
+      },
+      "artists": [
+        {
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        }
+      ],
+      "duration_ms": 195856,
+      "name": "Amando Con Dudas",
+      "url": "https://open.spotify.com/track/4j6h2mQWGKPXigJUJmCIZG"
+    },
+    {
+      "added_at": "2023-04-14 16:57:22",
+      "album": {
+        "name": "Like A River",
+        "url": "https://open.spotify.com/album/2Q6hgVABhhkKVqGaHPnQtQ"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/4YOZK4SHcVKTlDSXvUbBiI"
+        }
+      ],
+      "duration_ms": 178100,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/6R3oUFy5BXSz34MotRQtmC"
+    },
+    {
       "added_at": "2023-03-31 00:06:58",
       "album": {
         "name": "Somebody to Love",
@@ -1765,38 +1957,6 @@
       "url": "https://open.spotify.com/track/2PWBk4JVbNzKYnYU6llOXf"
     },
     {
-      "added_at": "2023-03-26 17:54:21",
-      "album": {
-        "name": "DRK BLK",
-        "url": "https://open.spotify.com/album/6ePkGP1fYM7cFmHxHEuJR1"
-      },
-      "artists": [
-        {
-          "name": "MckDarko",
-          "url": "https://open.spotify.com/artist/3kGzTtCkOYz01yx278EAwf"
-        }
-      ],
-      "duration_ms": 171299,
-      "name": "M.A.A.d World",
-      "url": "https://open.spotify.com/track/1fSSSSN8aBZFdzo5eAW7sa"
-    },
-    {
-      "added_at": "2023-03-27 00:12:26",
-      "album": {
-        "name": "Hard to Sleep",
-        "url": "https://open.spotify.com/album/21jKRoXRz0Tzj4A60W50eF"
-      },
-      "artists": [
-        {
-          "name": "Wolf Marte",
-          "url": "https://open.spotify.com/artist/6tllOjgOkQ7q9ZSsfCTvJR"
-        }
-      ],
-      "duration_ms": 212076,
-      "name": "Hard to Sleep",
-      "url": "https://open.spotify.com/track/7xdOprbOKdB3kAoizmayWF"
-    },
-    {
       "added_at": "2023-04-01 20:52:20",
       "album": {
         "name": "Standing at the Altar",
@@ -1843,22 +2003,6 @@
       "duration_ms": 234708,
       "name": "Baila",
       "url": "https://open.spotify.com/track/4Q59vOpIKQBQfwu5ZJylDy"
-    },
-    {
-      "added_at": "2023-03-27 00:11:06",
-      "album": {
-        "name": "22 Years",
-        "url": "https://open.spotify.com/album/3iL8gGg9WYAjL8PBwRD0w5"
-      },
-      "artists": [
-        {
-          "name": "Ethan Taylor",
-          "url": "https://open.spotify.com/artist/2pTM43BOirAsjO6pKK3qjA"
-        }
-      ],
-      "duration_ms": 222618,
-      "name": "22 Years",
-      "url": "https://open.spotify.com/track/0FllyNaq3SwLnyfhfBuJ27"
     },
     {
       "added_at": "2023-04-04 15:18:26",

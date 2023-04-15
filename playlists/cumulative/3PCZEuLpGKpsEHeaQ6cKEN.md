@@ -2,7 +2,7 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: ARTY
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Trance Wax
 
 521 songs - 1 day 3 hr 53 min
 

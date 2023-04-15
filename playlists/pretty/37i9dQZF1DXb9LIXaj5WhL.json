@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2304352,
+  "num_followers": 2304666,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMDFhOWUxOGQ2ZjA5Mjc2MTY0NjI0ZjczMzA2NTZiZWZl",
+  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMDgzMjYwNDdmNmUzNzNkMmRjY2U4MDYyOTA0MzVkZGQy",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -795,6 +795,22 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
         "name": "Mermaid Avenue",
         "url": "https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
-        "name": "Under the Pink",
-        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 305493,
-      "name": "Cornflake Girl",
-      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
     },
     {
       "added_at": "2020-11-18 19:14:53",

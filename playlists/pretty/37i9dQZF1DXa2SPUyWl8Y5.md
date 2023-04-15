@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,603 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,754 likes - 80 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 77 | [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 |
 | 78 | [If I Had Wings](https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [If I Had Wings](https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1) | 7:00 |
 | 79 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
-| 80 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 |
+| 80 | [Breaking the Clouds](https://open.spotify.com/track/7ixzPzW6eNFwY3NK4b3tFV) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking the Clouds](https://open.spotify.com/album/0mmx0qlErLtzpePjmV8hgD) | 8:41 |
 
-Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGQxMmNiZWJmNjgzZDg3ZTNiYzE4ZDU2ZDQ0OWQ1ZjVk`
+Snapshot ID: `MTY3NjY0NDIwMCwwMDAwMDAwMGE1Y2Q4NmQxYjIzN2I3ZTJiNDdkM2ZlODM3ZGIwOTE2`

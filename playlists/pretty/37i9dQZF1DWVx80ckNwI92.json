@@ -1,13 +1,33 @@
 {
   "description": "The future of African Indie and Alternative",
-  "num_followers": 1244,
+  "num_followers": 1252,
   "original_name": "ALTER-native",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODM0MCwwMDAwMDAwMGRlZWU4ZTcxMTNkMTlkODIzNTg1MDA1MDI0MzJhMDFk",
+  "snapshot_id": "MTY4MTQ0MjQ5OCwwMDAwMDAwMDYzNWM4Y2IzYjAxNWQ4MzExMTM4OWU0MWVkN2Q3MjFl",
   "tracks": [
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Hey! - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "Hey! - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP"
+    },
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
@@ -57,6 +77,22 @@
       "url": "https://open.spotify.com/track/5KXZZg0zFmF7Mtfpe1GZQ6"
     },
     {
+      "added_at": "2023-04-14 03:21:38",
+      "album": {
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
+    },
+    {
       "added_at": "2023-03-30 23:00:00",
       "album": {
         "name": "Message in a Hammer",
@@ -71,26 +107,6 @@
       "duration_ms": 216637,
       "name": "Message in a Hammer",
       "url": "https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Hey! - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN"
-      },
-      "artists": [
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        },
-        {
-          "name": "Tera K\u00f2r\u00e1",
-          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "Hey! - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -161,26 +177,6 @@
       "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
     },
     {
-      "added_at": "2023-03-31 05:24:51",
-      "album": {
-        "name": "BLOODY TEXTS",
-        "url": "https://open.spotify.com/album/41FMllrWhJfvOG70np84SX"
-      },
-      "artists": [
-        {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        },
-        {
-          "name": "Kbackwood$",
-          "url": "https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "BLOODY TEXTS",
-      "url": "https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s"
-    },
-    {
       "added_at": "2023-04-06 21:59:00",
       "album": {
         "name": "You're Not Here",
@@ -217,28 +213,24 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2023-04-06 21:59:00",
+      "added_at": "2023-03-31 05:24:51",
       "album": {
-        "name": "Die Lewe is 'n Lied",
-        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
+        "name": "BLOODY TEXTS",
+        "url": "https://open.spotify.com/album/41FMllrWhJfvOG70np84SX"
       },
       "artists": [
         {
-          "name": "Van Pletzen",
-          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
         },
         {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+          "name": "Kbackwood$",
+          "url": "https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj"
         }
       ],
-      "duration_ms": 239591,
-      "name": "Die Lewe is 'n Lied",
-      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
+      "duration_ms": 123351,
+      "name": "BLOODY TEXTS",
+      "url": "https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -405,22 +397,6 @@
       "url": "https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh"
     },
     {
-      "added_at": "2023-03-31 05:24:51",
-      "album": {
-        "name": "waiting room~",
-        "url": "https://open.spotify.com/album/0skQkcopAyXvozBn4nzzzx"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "waiting room~",
-      "url": "https://open.spotify.com/track/1qtnkooyf2Q7GNAK6w3sQb"
-    },
-    {
       "added_at": "2023-03-30 23:00:00",
       "album": {
         "name": "Not My Own",
@@ -439,6 +415,30 @@
       "duration_ms": 136432,
       "name": "Not My Own",
       "url": "https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ"
+    },
+    {
+      "added_at": "2023-04-06 21:59:00",
+      "album": {
+        "name": "Die Lewe is 'n Lied",
+        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "duration_ms": 239591,
+      "name": "Die Lewe is 'n Lied",
+      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
     },
     {
+      "added_at": "2023-03-31 05:24:51",
+      "album": {
+        "name": "waiting room~",
+        "url": "https://open.spotify.com/album/0skQkcopAyXvozBn4nzzzx"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "waiting room~",
+      "url": "https://open.spotify.com/track/1qtnkooyf2Q7GNAK6w3sQb"
+    },
+    {
       "added_at": "2023-03-30 23:00:00",
       "album": {
         "name": "Numbers",
@@ -555,22 +571,6 @@
       "duration_ms": 197333,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "ENEMIES ENEMIES",
-        "url": "https://open.spotify.com/album/5Bfrc1CoPbMk6z3h4BEXze"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "ENEMIES ENEMIES",
-      "url": "https://open.spotify.com/track/2nbAD9CgZzhdgzb4uctils"
     },
     {
       "added_at": "2023-03-30 23:00:00",

@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Ana Castela, Adriano Rhod
+> O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário, Luan Santana
 
 131 songs - 6 hr 14 min
 

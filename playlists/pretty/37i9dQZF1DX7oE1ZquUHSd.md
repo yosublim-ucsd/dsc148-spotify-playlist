@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,970 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,213 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 69 | [Cantando](https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 5:32 |
 | 70 | [Return Of The Tres](https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Merry Go Round](https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom) | 4:14 |
 | 71 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
-| 72 | [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 |
-| 73 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
+| 72 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
+| 73 | [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 |
 | 74 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
 | 75 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
 | 76 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 88 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 |
 | 89 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 90 | [Homer el Mero Mero](https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 2:32 |
-| 91 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 |
-| 92 | [Unidad 9](https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Unidad 9](https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ) | 2:40 |
+| 91 | [Unidad 9](https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Unidad 9](https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ) | 2:40 |
+| 92 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 |
 | 93 | [Dios, El Diablo Y Yo](https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj) | 4:56 |
 | 94 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 |
 | 95 | [Haces Mal](https://open.spotify.com/track/57ZAQ9KG9Oeq6hQlMdDnWR) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:23 |
 | 96 | [Tony Presidio](https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 6:11 |
 | 97 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
-| 98 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
+| 98 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
 | 99 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
-| 100 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
+| 100 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 
-Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDk1N2M3N2RmOWM0MGQyN2FmNTI0OTFlNGQ4NzUxYzAw`
+Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDRkZDhmOTE5ZjE2NTNmMzgzZGUzOGQyOWMyZTQxZDk3`

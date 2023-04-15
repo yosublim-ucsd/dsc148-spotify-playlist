@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
         "name": "2 PALABRAS",
         "url": "https://open.spotify.com/album/71Xgv22p8r6iIUGWxyrZio"
       },
@@ -1643,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
@@ -1778,7 +1818,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 165500,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ"
@@ -2534,6 +2574,32 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "album": {
+        "name": "COLABORACIONES",
+        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        },
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147680,
+      "name": "La Misma Mujer",
+      "url": "https://open.spotify.com/track/6f424CH1mjwlOLr8MevYp7"
     },
     {
       "album": {
@@ -3476,7 +3542,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
@@ -4363,6 +4429,28 @@
     },
     {
       "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "album": {
         "name": "S.H.E.A",
         "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
       },
@@ -4394,7 +4482,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 190760,
       "name": "S.H.E.A",
       "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
@@ -4482,6 +4570,28 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "RITMO GLOBAL",
+        "url": "https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122120,
+      "name": "Si Me Quieres",
+      "url": "https://open.spotify.com/track/0S8cQiwRG0jrSQpK7cToGd"
     },
     {
       "album": {
@@ -4580,7 +4690,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 188411,
       "name": "Sin Novia",
       "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
@@ -4780,7 +4890,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
@@ -5136,7 +5246,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-15",
       "duration_ms": 221776,
       "name": "Triste",
       "url": "https://open.spotify.com/track/6JpUHnddHwv9cJ6sFD0nzM"
@@ -5394,6 +5504,28 @@
       "duration_ms": 192024,
       "name": "Vete",
       "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
+    },
+    {
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206639,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
     },
     {
       "album": {

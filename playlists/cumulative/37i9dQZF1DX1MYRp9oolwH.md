@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-115 songs - 7 hr 32 min
+116 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anukokunda Chusane \(From "Grandhalayam"\)](https://open.spotify.com/track/6cYvTUZIyGkkv7e19tW0AF) | [Sudheer Garapati](https://open.spotify.com/artist/4DnO5jzKVRzq2daAqD5jWy) | [Anukokunda Chusane \(From "Grandhalayam"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5xT45T4YZGqg0QZNpE0xYV) | 3:58 | 2023-02-03 |  |
 | [Asathoma Sadgamaya \(From "Pathala Bhairavi"\)](https://open.spotify.com/track/681ukTk7c3tJSQNJNYJNtn) | [Dhanunjay](https://open.spotify.com/artist/1hvdjqrFHZHjvOyfhJbDlA) | [Asathoma Sadgamaya \(From "Pathala Bhairavi"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5ykWon1Do8KXWSza1ANaFL) | 4:52 | 2022-08-16 | 2023-03-28 |
 | [Avunanavaa \(From "Ori Devuda"\)](https://open.spotify.com/track/7goimum9y9Nb030Frh6K3R) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Avunanavaa \(From "Ori Devuda"\) \- Single](https://open.spotify.com/album/5LRoeEIcYhE8vd1jG5T7Pg) | 4:43 | 2022-09-27 |  |
+| [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kalyan Nayak](https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul) | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H) | 3:42 | 2023-04-14 |  |
 | [Bae](https://open.spotify.com/track/6L23x3xhuF5yQaG1Ei9oDp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [College Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZZjsSTlZdZfysBDHrgrfP) | 4:02 | 2022-05-11 | 2023-02-21 |
 | [Baguntundhi Nuvvu Navvithe \(From "Atithi Devobhava"\)](https://open.spotify.com/track/18JVTOKs9ghqPLtkMeqffL) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Baguntundhi Nuvvu Navvithe \(From "Atithi Devobhava"\)](https://open.spotify.com/album/2NAbXL8eqGOLet1QnQr7mv) | 3:42 | 2022-05-04 | 2023-02-21 |
 | [Bulbul Tarang \(From "Ramarao On Duty"\)](https://open.spotify.com/track/28lsav37Xq8OnmM61yhDiQ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Bulbul Tarang \(From "Ramarao On Duty"\)](https://open.spotify.com/album/4t7QhuTqMr8wwbNl3hLAG8) | 3:34 | 2022-04-10 | 2023-02-21 |
